@@ -23,9 +23,17 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
-      - name: Run Sync Script
+      - name: Build release tag
+        run: |
+          # Data releases are intentionally separate from app versions. The same
+          # tag is written into manifest.json and used for the GitHub Release so
+          # mobile clients can construct stable release asset download URLs.
+          echo "RELEASE_TAG=updates-v$(date -u +'%Y%m%d-%H%M%S')-${GITHUB_RUN_ID}" >> "$GITHUB_ENV"
+
+      - name: Generate Sync Assets
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          RELEASE_TAG: ${{ env.RELEASE_TAG }}
         run: node scripts/sync_firestore_to_github.js
 
       - name: Commit Updated Manifest
@@ -44,8 +52,17 @@ jobs:
         if: success() && hashFiles('output/manifest.json') != ''
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: v1.0.${{ github.run_number }}-${{ github.run_id }}
+          tag_name: ${{ env.RELEASE_TAG }}
           files: output/*
           generate_release_notes: true
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+      - name: Mark Firestore Published
+        if: success() && hashFiles('output/published_docs.json') != ''
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          RELEASE_TAG: ${{ env.RELEASE_TAG }}
+        run: node scripts/mark_published.js
