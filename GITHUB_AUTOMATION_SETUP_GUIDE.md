@@ -58,6 +58,49 @@ You need to push the synchronization code to `Kanz-e-Aza-Lyrics`.
 1.  Go to the **Actions** tab in `Kanz-e-Aza-Lyrics`.
 2.  Manually run the **Sync Lyrics** workflow.
 3.  Ensure a new **Release** is created with `manifest.json`.
+4.  Open the release and confirm the assets include:
+    *   `manifest.json`
+    *   `update_*.json`
+    *   `published_docs.json`
+5.  Confirm Firestore submissions are marked `published: true` only after the release exists.
+
+---
+
+## Current sync safety model
+
+The workflow intentionally uses a two-phase publication process:
+
+1.  `scripts/sync_firestore_to_github.js`
+    *   Reads Firestore `submissions` where `status == 'approved'` and `published == false`.
+    *   Generates `output/update_*.json`, `output/manifest.json`, and `output/published_docs.json`.
+    *   Does **not** mark Firestore documents as published.
+
+2.  GitHub Actions creates the public GitHub Release.
+
+3.  `scripts/mark_published.js`
+    *   Re-checks that the release exists.
+    *   Verifies required assets are present.
+    *   Only then updates Firestore with `published: true`, `publishedAt`, and `publishedReleaseTag`.
+
+This prevents a failed GitHub release from stranding approved lyrics as already-published in Firestore.
+
+### Release tag format
+
+Data releases use tags like:
+
+```text
+updates-vYYYYMMDD-HHMMSS-<github_run_id>
+```
+
+Example:
+
+```text
+updates-v20260716-183045-987654321
+```
+
+The workflow creates this once and passes the same `RELEASE_TAG` to both scripts and to the GitHub Release step. The manifest's `releaseTag` must exactly match the real GitHub Release tag because the mobile app builds asset download URLs from that value.
+
+Do not use app-version-style tags such as `v1.0.x` for these data releases unless the mobile app and workflow are migrated together.
 
 ---
 
