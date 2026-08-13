@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "latestReleaseTag": "v1.0.1786300616996",
+  "latestReleaseTag": "v1.0.1786647603912",
   "updates": [
     {
       "id": "update_1771612120269",
@@ -31,6 +31,12 @@
       "assetName": "update_1786300616996.json",
       "sha256": "18415abbb4a57748671955e1156f5ed30e4f883e909cb5762ce5186fe9ebac15",
       "releaseTag": "v1.0.1786300616996"
+    },
+    {
+      "id": "update_1786647603912",
+      "assetName": "update_1786647603912.json",
+      "sha256": "1817a34f45e22b76cde9083066a4d5792560254002ebb2fd33d49125800b44e2",
+      "releaseTag": "v1.0.1786647603912"
     }
   ]
 }
