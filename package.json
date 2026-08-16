@@ -4,7 +4,8 @@
     "description": "Syncs approved lyrics from Firestore to GitHub Releases",
     "main": "scripts/sync_firestore_to_github.js",
     "scripts": {
-        "start": "node scripts/sync_firestore_to_github.js"
+        "start": "node scripts/sync_firestore_to_github.js",
+        "test": "node --test"
     },
     "dependencies": {
         "@octokit/rest": "^19.0.0",

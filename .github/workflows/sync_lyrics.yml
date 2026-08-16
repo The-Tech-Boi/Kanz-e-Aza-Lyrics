@@ -10,6 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+    env:
+      RELEASE_TAG: v1.0.${{ github.run_number }}-${{ github.run_id }}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -23,12 +25,31 @@ jobs:
       - name: Install Dependencies
         run: npm install
 
+      - name: Run Tests
+        run: npm test
+
       - name: Run Sync Script
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: node scripts/sync_firestore_to_github.js
 
+      - name: Validate Generated Manifest
+        if: success() && hashFiles('output/manifest.json') != ''
+        run: |
+          node -e "const fs=require('fs'); const manifest=JSON.parse(fs.readFileSync('output/manifest.json','utf8')); if (manifest.latestReleaseTag !== process.env.RELEASE_TAG) throw new Error('latestReleaseTag mismatch'); const bad=manifest.updates.filter(u => !u.releaseTag); if (bad.length) throw new Error('missing releaseTag in manifest updates');"
+
+      - name: Create Release
+        if: success() && hashFiles('output/manifest.json') != ''
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: ${{ env.RELEASE_TAG }}
+          files: output/*
+          generate_release_notes: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
       - name: Commit Updated Manifest
+        if: success() && hashFiles('output/manifest.json') != ''
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
@@ -39,13 +60,3 @@ jobs:
           else
             echo "manifest.json not found, skipping commit."
           fi
-
-      - name: Create Release
-        if: success() && hashFiles('output/manifest.json') != ''
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: v1.0.${{ github.run_number }}-${{ github.run_id }}
-          files: output/*
-          generate_release_notes: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

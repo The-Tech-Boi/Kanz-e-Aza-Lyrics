@@ -3,21 +3,83 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 
-// Initialize Firebase Admin
-const serviceAccount = JSON.parse(
-  Buffer.from(process.env.FIREBASE_SERVICE_ACCOUNT, 'base64').toString('ascii')
-);
+function getRequiredReleaseTag() {
+  const releaseTag = process.env.RELEASE_TAG;
+  if (!releaseTag) {
+    throw new Error('RELEASE_TAG env var is required');
+  }
+  return releaseTag;
+}
 
-admin.initializeApp({
-  credential: admin.credential.cert(serviceAccount)
-});
+function getDb() {
+  const encodedServiceAccount = process.env.FIREBASE_SERVICE_ACCOUNT;
+  if (!encodedServiceAccount) {
+    throw new Error('FIREBASE_SERVICE_ACCOUNT env var is required');
+  }
 
-const db = admin.firestore();
+  const serviceAccount = JSON.parse(
+    Buffer.from(encodedServiceAccount, 'base64').toString('ascii')
+  );
+
+  if (!admin.apps.length) {
+    admin.initializeApp({
+      credential: admin.credential.cert(serviceAccount)
+    });
+  }
+
+  return admin.firestore();
+}
+
+function loadManifest(manifestPath) {
+  let manifest = {
+    manifestVersion: 1,
+    latestReleaseTag: '',
+    updates: []
+  };
+
+  if (fs.existsSync(manifestPath)) {
+    try {
+      manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
+    } catch (e) {
+      console.warn('Existing manifest.json is invalid, starting fresh.');
+    }
+  }
+
+  if (!Array.isArray(manifest.updates)) {
+    manifest.updates = [];
+  }
+
+  return manifest;
+}
+
+function applyUpdateToManifest(manifest, { updateId, updateFilename, sha256, releaseTag }) {
+  const nextManifest = {
+    manifestVersion: 1,
+    latestReleaseTag: releaseTag,
+    updates: [
+      ...(Array.isArray(manifest.updates) ? manifest.updates : []),
+      {
+        id: updateId,
+        assetName: updateFilename,
+        sha256,
+        releaseTag
+      }
+    ]
+  };
+
+  if (nextManifest.updates.length > 50) {
+    nextManifest.updates = nextManifest.updates.slice(-50);
+  }
+
+  return nextManifest;
+}
 
 async function sync() {
+  const db = getDb();
+  const releaseTag = getRequiredReleaseTag();
+
   console.log('Fetching approved lyrics from Firestore...');
 
-  // 1. Query for approved but unpublished lyrics
   const snapshot = await db.collection('submissions')
     .where('status', '==', 'approved')
     .where('published', '==', false)
@@ -30,7 +92,6 @@ async function sync() {
 
   console.log(`Found ${snapshot.size} new lyrics.`);
 
-  // 2. Prepare the update payload
   const newLyrics = [];
   const docRefs = [];
 
@@ -54,57 +115,31 @@ async function sync() {
   const updateFilename = `${updateId}.json`;
   const payload = { items: newLyrics };
 
-  // 3. Create output directory
   const outputDir = path.join(__dirname, '../output');
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }
 
-  // 4. Write update file
   const payloadStr = JSON.stringify(payload, null, 2);
-  fs.writeFileSync(path.join(outputDir, updateFilename), payloadStr);
+  fs.writeFileSync(path.join(outputDir, updateFilename), payloadStr + '\n');
 
-  // 5. Calculate SHA256
   const sha256 = crypto.createHash('sha256').update(payloadStr).digest('hex');
 
-  // 6. Handle Manifest
-  // We'll look for an existing manifest in the root of the repo
   const manifestPath = path.join(__dirname, '../manifest.json');
-  let manifest = {
-    manifestVersion: 1,
-    latestReleaseTag: '', // Will be filled by Action or script
-    updates: []
-  };
-
-  if (fs.existsSync(manifestPath)) {
-    try {
-      manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
-    } catch (e) {
-      console.warn('Existing manifest.json is invalid, starting fresh.');
-    }
-  }
-
-  // Update manifest
-  const releaseTag = `v1.0.${timestamp}`; // Temporary tag format
-  manifest.latestReleaseTag = releaseTag;
-  manifest.updates.push({
-    id: updateId,
-    assetName: updateFilename,
-    sha256: sha256,
-    releaseTag: releaseTag
+  let manifest = loadManifest(manifestPath);
+  manifest = applyUpdateToManifest(manifest, {
+    updateId,
+    updateFilename,
+    sha256,
+    releaseTag
   });
 
-  // Keep only the last 50 updates to prevent manifest bloat
-  if (manifest.updates.length > 50) {
-    manifest.updates = manifest.updates.slice(-50);
-  }
+  fs.writeFileSync(
+    path.join(outputDir, 'manifest.json'),
+    JSON.stringify(manifest, null, 2) + '\n'
+  );
+  fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + '\n');
 
-  fs.writeFileSync(path.join(outputDir, 'manifest.json'), JSON.stringify(manifest, null, 2));
-
-  // Also write to root for next run (Git will commit this if configured)
-  fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2));
-
-  // 7. Mark as published in Firestore
   console.log('Marking documents as published in Firestore...');
   const batch = db.batch();
   docRefs.forEach(ref => {
@@ -115,7 +150,15 @@ async function sync() {
   console.log(`Success! Created ${updateFilename} and updated manifest.json.`);
 }
 
-sync().catch(err => {
-  console.error('Error during sync:', err);
-  process.exit(1);
-});
+if (require.main === module) {
+  sync().catch(err => {
+    console.error('Error during sync:', err);
+    process.exit(1);
+  });
+}
+
+module.exports = {
+  applyUpdateToManifest,
+  getRequiredReleaseTag,
+  loadManifest
+};
