@@ -52,6 +52,19 @@ function loadManifest(manifestPath) {
   return manifest;
 }
 
+function normalizeCategory(category) {
+  const value = (category || '').trim();
+  if (!value) {
+    return 'Nohay';
+  }
+
+  if (value.toLowerCase() === 'oldnouhay') {
+    return 'Nohay';
+  }
+
+  return value;
+}
+
 function applyUpdateToManifest(manifest, { updateId, updateFilename, sha256, releaseTag }) {
   const nextManifest = {
     manifestVersion: 1,
@@ -101,7 +114,7 @@ async function sync() {
       remoteId: doc.id,
       title: data.title,
       body: data.body,
-      category: data.category || 'Nohay',
+      category: normalizeCategory(data.category),
       subcategory: data.subcategory || 'General',
       group: data.group || 'General',
       createdBy: data.createdBy || 'unknown',
@@ -160,5 +173,6 @@ if (require.main === module) {
 module.exports = {
   applyUpdateToManifest,
   getRequiredReleaseTag,
-  loadManifest
+  loadManifest,
+  normalizeCategory
 };

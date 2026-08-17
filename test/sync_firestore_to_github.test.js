@@ -3,7 +3,8 @@ const assert = require('node:assert/strict');
 
 const {
   applyUpdateToManifest,
-  getRequiredReleaseTag
+  getRequiredReleaseTag,
+  normalizeCategory
 } = require('../scripts/sync_firestore_to_github');
 
 test('applyUpdateToManifest uses workflow release tag for root and update entry', () => {
@@ -55,6 +56,13 @@ test('applyUpdateToManifest keeps only last 50 updates', () => {
   assert.equal(next.updates.length, 50);
   assert.equal(next.updates[0].id, 'update_1');
   assert.equal(next.updates.at(-1).id, 'update_50');
+});
+
+test('normalizeCategory merges oldNouhay into Nohay', () => {
+  assert.equal(normalizeCategory('oldNouhay'), 'Nohay');
+  assert.equal(normalizeCategory(' oldnouhay '), 'Nohay');
+  assert.equal(normalizeCategory('Anjuman'), 'Anjuman');
+  assert.equal(normalizeCategory(''), 'Nohay');
 });
 
 test('getRequiredReleaseTag fails when workflow env missing', () => {
