@@ -197,6 +197,7 @@ if (require.main === module) {
 
 module.exports = {
   applyUpdateToManifest,
+  getDb,
   getRequiredReleaseTag,
   markPublished,
   loadManifest,

@@ -1,0 +1,40 @@
+name: Delete Expired Submissions
+
+# Retention: rejected submissions go 6 months after rejection, pending ones
+# after 12 months without an edit. Approved submissions are never deleted.
+on:
+  schedule:
+    - cron: "17 3 * * *" # Daily at 03:17 UTC
+  workflow_dispatch:
+    inputs:
+      delete:
+        description: "Delete for real (unticked is a dry run that only counts)"
+        type: boolean
+        default: false
+
+jobs:
+  delete:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+          cache: "npm"
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run Tests
+        run: npm test
+
+      # Scheduled runs delete; manual runs are a dry run unless "delete" is ticked.
+      - name: Delete Expired Submissions
+        env:
+          FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        run: node scripts/delete_expired_submissions.js ${{ (github.event_name == 'schedule' || inputs.delete) && '--delete' || '' }}
