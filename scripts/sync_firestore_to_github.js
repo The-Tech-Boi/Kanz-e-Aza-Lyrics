@@ -106,7 +106,6 @@ async function sync() {
   console.log(`Found ${snapshot.size} new lyrics.`);
 
   const newLyrics = [];
-  const docRefs = [];
 
   snapshot.forEach(doc => {
     const data = doc.data();
@@ -120,7 +119,6 @@ async function sync() {
       createdBy: data.createdBy || 'unknown',
       source: 'firestore'
     });
-    docRefs.push(doc.ref);
   });
 
   const timestamp = Date.now();
@@ -154,18 +152,26 @@ async function sync() {
   );
   fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + '\n');
 
-  console.log('Marking documents as published in Firestore...');
-  const batch = db.batch();
-  docRefs.forEach(ref => {
-    batch.update(ref, { published: true });
-  });
-  await batch.commit();
-
   console.log(`Success! Created ${updateFilename} and updated manifest.json.`);
 }
 
+// Runs as the workflow's last step, after the release exists. If any earlier
+// step fails, the lyrics stay unpublished and the next run publishes them again.
+async function markPublished(updatePaths, db = getDb()) {
+  const batch = db.batch();
+  for (const updatePath of updatePaths) {
+    const { items } = JSON.parse(fs.readFileSync(updatePath, 'utf8'));
+    for (const item of items) {
+      batch.update(db.collection('submissions').doc(item.remoteId), { published: true });
+    }
+  }
+  await batch.commit();
+  console.log(`Marked lyrics in ${updatePaths.join(', ')} as published.`);
+}
+
 if (require.main === module) {
-  sync().catch(err => {
+  const [mode, ...paths] = process.argv.slice(2);
+  (mode === '--mark-published' ? markPublished(paths) : sync()).catch(err => {
     console.error('Error during sync:', err);
     process.exit(1);
   });
@@ -174,6 +180,7 @@ if (require.main === module) {
 module.exports = {
   applyUpdateToManifest,
   getRequiredReleaseTag,
+  markPublished,
   loadManifest,
   normalizeCategory
 };
