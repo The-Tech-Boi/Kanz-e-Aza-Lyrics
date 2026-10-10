@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 */6 * * *" # Run every 6 hours
   workflow_dispatch: # Allow manual trigger
+    inputs:
+      remove_ids:
+        description: "remoteIds to remove from phones (comma or space separated)"
+        required: false
+        default: ""
 
 jobs:
   sync:
@@ -31,6 +36,7 @@ jobs:
       - name: Run Sync Script
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+          REMOVE_IDS: ${{ inputs.remove_ids }}
         run: node scripts/sync_firestore_to_github.js
 
       - name: Validate Generated Manifest

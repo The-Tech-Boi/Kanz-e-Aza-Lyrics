@@ -97,6 +97,16 @@ function toUpdateItem(remoteId, data) {
   return item;
 }
 
+// The update file, or null when there is nothing to publish. `removeIds`
+// (comma or space separated) withdraws those remoteIds from phones. They go
+// beside `items`, not in it: every app build requires `items` and older builds
+// fail on an entry there without a title, but ignore other keys.
+function buildPayload(items, removeIds = '') {
+  const removed = [...new Set(removeIds.split(/[\s,]+/).filter(Boolean))];
+  if (!items.length && !removed.length) return null;
+  return removed.length ? { items, removed } : { items };
+}
+
 function applyUpdateToManifest(manifest, { updateId, updateFilename, sha256, releaseTag }) {
   const nextManifest = {
     manifestVersion: 1,
@@ -130,19 +140,20 @@ async function sync() {
     .where('published', '==', false)
     .get();
 
-  if (snapshot.empty) {
-    console.log('No new approved lyrics to sync.');
+  const payload = buildPayload(
+    snapshot.docs.map(doc => toUpdateItem(doc.id, doc.data())),
+    process.env.REMOVE_IDS
+  );
+  if (!payload) {
+    console.log('No new approved lyrics or removals to sync.');
     process.exit(0);
   }
 
-  console.log(`Found ${snapshot.size} new lyrics.`);
-
-  const newLyrics = snapshot.docs.map(doc => toUpdateItem(doc.id, doc.data()));
+  console.log(`Found ${payload.items.length} new lyrics, ${payload.removed?.length ?? 0} removals.`);
 
   const timestamp = Date.now();
   const updateId = `update_${timestamp}`;
   const updateFilename = `${updateId}.json`;
-  const payload = { items: newLyrics };
 
   const outputDir = path.join(__dirname, '../output');
   if (!fs.existsSync(outputDir)) {
@@ -202,5 +213,6 @@ module.exports = {
   markPublished,
   loadManifest,
   normalizeCategory,
+  buildPayload,
   toUpdateItem
 };
