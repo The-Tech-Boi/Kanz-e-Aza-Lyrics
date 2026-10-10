@@ -133,9 +133,10 @@ async function sync() {
     fs.mkdirSync(outputDir, { recursive: true });
   }
 
-  const payloadStr = JSON.stringify(payload, null, 2);
-  fs.writeFileSync(path.join(outputDir, updateFilename), payloadStr + '\n');
+  const payloadStr = JSON.stringify(payload, null, 2) + '\n';
+  fs.writeFileSync(path.join(outputDir, updateFilename), payloadStr);
 
+  // Hash the exact bytes published; the app rejects an update whose hash differs.
   const sha256 = crypto.createHash('sha256').update(payloadStr).digest('hex');
 
   const manifestPath = path.join(__dirname, '../manifest.json');
