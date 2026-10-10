@@ -65,6 +65,38 @@ function normalizeCategory(category) {
   return value;
 }
 
+// One published catalog item, in the update format every app version reads.
+// Built from an allow-list, so contributor fields (ownerUid, termsVersion, ...)
+// never reach the public catalog.
+function toUpdateItem(remoteId, data) {
+  const categories = Array.isArray(data.categories) && data.categories.length
+    ? data.categories
+    : [normalizeCategory(data.category)];
+  const anjumans = Array.isArray(data.anjumans) ? data.anjumans : [];
+  const item = {
+    remoteId,
+    title: data.title,
+    body: data.body,
+    category: categories[0],
+    categories,
+    subcategory: data.subcategory || 'General',
+    group: data.group || 'General',
+    isVerified: data.isVerified === true,
+    source: 'firestore'
+  };
+  if (data.author) item.author = data.author;
+  if (data.language) item.language = data.language;
+  if (anjumans.length) {
+    item.anjumans = anjumans;
+    // The app reads Anjuman membership from categoryMappings.
+    item.categoryMappings = [
+      ...categories,
+      ...anjumans.map(name => ({ category: 'Anjuman', subcategory: name }))
+    ];
+  }
+  return item;
+}
+
 function applyUpdateToManifest(manifest, { updateId, updateFilename, sha256, releaseTag }) {
   const nextManifest = {
     manifestVersion: 1,
@@ -105,21 +137,7 @@ async function sync() {
 
   console.log(`Found ${snapshot.size} new lyrics.`);
 
-  const newLyrics = [];
-
-  snapshot.forEach(doc => {
-    const data = doc.data();
-    newLyrics.push({
-      remoteId: doc.id,
-      title: data.title,
-      body: data.body,
-      category: normalizeCategory(data.category),
-      subcategory: data.subcategory || 'General',
-      group: data.group || 'General',
-      createdBy: data.createdBy || 'unknown',
-      source: 'firestore'
-    });
-  });
+  const newLyrics = snapshot.docs.map(doc => toUpdateItem(doc.id, doc.data()));
 
   const timestamp = Date.now();
   const updateId = `update_${timestamp}`;
@@ -182,5 +200,6 @@ module.exports = {
   getRequiredReleaseTag,
   markPublished,
   loadManifest,
-  normalizeCategory
+  normalizeCategory,
+  toUpdateItem
 };
