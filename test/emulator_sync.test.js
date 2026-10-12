@@ -3,7 +3,8 @@
 // between runs. Each test checks the update files a website submission,
 // revision or Owner withdrawal turns into.
 //
-//   firebase emulators:start --only firestore --project demo-kanz-e-aza
+//   firebase emulators:exec --only firestore --project demo-kanz-e-aza "npm test"
+// or, with an emulator already running:
 //   FIRESTORE_EMULATOR_HOST=127.0.0.1:8080 npm test
 //
 // Without FIRESTORE_EMULATOR_HOST these tests are skipped, so the workflow's
