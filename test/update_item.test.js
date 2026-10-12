@@ -1,7 +1,7 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
 
-const { collectApproved, toUpdateItem } = require('../scripts/sync_firestore_to_github');
+const { planUpdate, toUpdateItem } = require('../scripts/sync_firestore_to_github');
 
 // A submission as the app writes it (contract v1), plus workflow fields.
 const submission = {
@@ -70,8 +70,11 @@ test('legacy documents still publish, without contributor fields', () => {
 
 const at = ms => ({ toMillis: () => ms });
 
+// Approved submissions as one run publishes them.
+const approved = (submissions, decisions = []) => planUpdate({ submissions, decisions });
+
 test('a revision is published over the lyric it changes', () => {
-  const { items, submissionIds } = collectApproved([
+  const { items, submissionIds } = approved([
     { id: 'rev-1', data: { ...submission, title: 'Ya Ali (fixed)', revisionOfRemoteId: 'lyric-7' } }
   ]);
   assert.equal(items.length, 1);
@@ -81,7 +84,7 @@ test('a revision is published over the lyric it changes', () => {
 });
 
 test('the newest approved revision of a lyric wins and every one is marked', () => {
-  const { items, submissionIds } = collectApproved([
+  const { items, submissionIds } = approved([
     { id: 'rev-new', data: { ...submission, title: 'Newer', revisionOfRemoteId: 'lyric-7', approvedAt: at(2000) } },
     { id: 'rev-old', data: { ...submission, title: 'Older', revisionOfRemoteId: 'lyric-7', approvedAt: at(1000) } },
     { id: 'doc9', data: { ...submission, title: 'New lyric' } }
@@ -90,8 +93,40 @@ test('the newest approved revision of a lyric wins and every one is marked', () 
   assert.deepEqual(submissionIds, ['rev-new', 'rev-old', 'doc9']);
 });
 
+test('an approved revision goes out over an already published version, which stays marked', () => {
+  const { items, submissionIds } = approved([
+    { id: 'lyric-7', data: { ...submission, title: 'Published', published: true, approvedAt: at(1000) } },
+    { id: 'rev-1', data: { ...submission, title: 'Revised', revisionOfRemoteId: 'lyric-7', approvedAt: at(2000) } }
+  ]);
+  assert.deepEqual(items.map(i => [i.remoteId, i.title]), [['lyric-7', 'Revised']]);
+  assert.deepEqual(submissionIds, ['rev-1']);
+});
+
+test('published submissions alone publish nothing', () => {
+  assert.deepEqual(approved([
+    { id: 'lyric-7', data: { ...submission, published: true } }
+  ]).items, []);
+});
+
+test('an approved document without a published flag is left alone, as before', () => {
+  const { published, ...legacy } = submission;
+  const plan = approved([{ id: 'legacy-1', data: legacy }]);
+  assert.deepEqual(plan.items, []);
+  assert.deepEqual(plan.submissionIds, []);
+});
+
+test('submissions for a withdrawn lyric are held, neither published nor marked', () => {
+  const { items, submissionIds } = approved([
+    { id: 'rev-1', data: { ...submission, revisionOfRemoteId: 'lyric-7' } },
+    { id: 'lyric-7', data: { ...submission, title: 'The lyric itself' } },
+    { id: 'doc9', data: { ...submission, title: 'New lyric' } }
+  ], [{ id: 'lyric-7', data: { withdrawn: true, updatedAt: at(500), publishedAt: at(500) } }]);
+  assert.deepEqual(items.map(i => i.remoteId), ['doc9']);
+  assert.deepEqual(submissionIds, ['doc9']);
+});
+
 test('revision fields stay out of the published item', () => {
-  const [item] = collectApproved([
+  const [item] = approved([
     { id: 'rev-1', data: { ...submission, revisionOfRemoteId: 'lyric-7' } }
   ]).items;
   assert.ok(!('revisionOfRemoteId' in item));

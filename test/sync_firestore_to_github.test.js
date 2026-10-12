@@ -34,30 +34,6 @@ test('applyUpdateToManifest uses workflow release tag for root and update entry'
   assert.equal(next.updates[0].releaseTag, 'old-real-tag');
 });
 
-test('applyUpdateToManifest keeps only last 50 updates', () => {
-  const manifest = {
-    manifestVersion: 1,
-    latestReleaseTag: 'old-tag',
-    updates: Array.from({ length: 50 }, (_, i) => ({
-      id: `update_${i}`,
-      assetName: `update_${i}.json`,
-      sha256: `sha_${i}`,
-      releaseTag: `tag_${i}`
-    }))
-  };
-
-  const next = applyUpdateToManifest(manifest, {
-    updateId: 'update_50',
-    updateFilename: 'update_50.json',
-    sha256: 'sha_50',
-    releaseTag: 'tag_50'
-  });
-
-  assert.equal(next.updates.length, 50);
-  assert.equal(next.updates[0].id, 'update_1');
-  assert.equal(next.updates.at(-1).id, 'update_50');
-});
-
 test('normalizeCategory merges oldNouhay into Nohay', () => {
   assert.equal(normalizeCategory('oldNouhay'), 'Nohay');
   assert.equal(normalizeCategory(' oldnouhay '), 'Nohay');

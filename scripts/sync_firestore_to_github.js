@@ -100,33 +100,151 @@ function toUpdateItem(remoteId, data) {
 const millis = timestamp =>
   timestamp && typeof timestamp.toMillis === 'function' ? timestamp.toMillis() : 0;
 
-// Approved submissions as update items. A Revision Submission is its own
-// document whose `revisionOfRemoteId` names the published lyric it replaces.
-// When several are approved for one lyric, the newest approval wins; every
-// document is still marked published, so a later run can't publish an older
-// version over it. `docs` are `{ id, data }`.
-function collectApproved(docs) {
-  const newest = new Map();
-  for (const doc of docs) {
-    const remoteId = doc.data.revisionOfRemoteId || doc.id;
-    const current = newest.get(remoteId);
-    if (!current || millis(doc.data.approvedAt) >= millis(current.data.approvedAt)) {
-      newest.set(remoteId, doc);
+// The fields a published item may carry. A lyric sent again from an earlier
+// update or from the base catalog keeps only these, so nothing else it holds
+// (an old `createdBy`, page metadata) is published.
+const ITEM_FIELDS = [
+  'remoteId', 'title', 'body', 'category', 'categories', 'subcategory', 'group',
+  'isVerified', 'source', 'author', 'language', 'anjumans', 'categoryMappings'
+];
+const catalogItem = item =>
+  Object.fromEntries(ITEM_FIELDS.filter(key => key in item).map(key => [key, item[key]]));
+
+// The Owner's decisions from the website (`catalogWithdrawals/{remoteId}`)
+// that readers haven't received yet: never published, or changed since.
+// The website replaces the doc on every change, so a fresh decision has no
+// publishedAt. `docs` are `{ id, data }`.
+const unpublishedDecisions = docs => docs
+  .filter(({ data }) => !data.publishedAt || millis(data.updatedAt) > millis(data.publishedAt))
+  .map(({ id, data }) => ({ remoteId: id, updatedAt: millis(data.updatedAt) }));
+
+// Withdrawals (`withdrawn == true`) readers haven't received yet.
+const pendingWithdrawals = docs =>
+  unpublishedDecisions(docs.filter(({ data }) => data.withdrawn === true));
+
+// Restores (`withdrawn == false`) readers haven't received yet.
+const pendingRestores = docs =>
+  unpublishedDecisions(docs.filter(({ data }) => data.withdrawn !== true));
+
+const newestApproval = docs => docs.reduce((newest, doc) =>
+  millis(doc.data.approvedAt) >= millis(newest.data.approvedAt) ? doc : newest);
+
+// What readers have from the published updates, replayed the way phones and
+// the website apply them: every update the manifest lists, in order, each
+// file's items and then its removals. Maps a remoteId to the item last
+// published for it (none for a base catalog lyric) and whether it is
+// withdrawn now. The workflow commits every update file to updates/, and
+// manifest_sha.test.js checks they are all there.
+function publishedState(manifest, updatesDir = path.join(__dirname, '../updates')) {
+  const state = new Map();
+  for (const { assetName } of manifest.updates) {
+    const update = JSON.parse(fs.readFileSync(path.join(updatesDir, assetName), 'utf8'));
+    for (const item of update.items) state.set(item.remoteId, { item, removed: false });
+    for (const remoteId of update.removed ?? []) {
+      state.set(remoteId, { item: state.get(remoteId)?.item, removed: true });
     }
   }
-  return {
-    items: [...newest].map(([remoteId, doc]) => toUpdateItem(remoteId, doc.data)),
-    submissionIds: docs.map(doc => doc.id)
-  };
+  return state;
 }
 
-// The Owner's withdrawals from the website (`catalogWithdrawals/{remoteId}`)
-// that phones haven't received yet: never published, or changed since.
-// `docs` are `{ id, data }` with `withdrawn == true`.
-function pendingWithdrawals(docs) {
-  return docs
-    .filter(({ data }) => !data.publishedAt || millis(data.updatedAt) > millis(data.publishedAt))
-    .map(({ id, data }) => ({ remoteId: id, updatedAt: millis(data.updatedAt) }));
+// The base catalog phones and the website start from isn't in this
+// repository; the data snapshot release carries a copy of it. BASE_CATALOG
+// (a URL or a local file) reads another one, such as a newer snapshot.
+const DEFAULT_BASE_CATALOG =
+  'https://github.com/The-Tech-Boi/Kanz-e-Aza-Lyrics/releases/download/data-v2026.09.24/lyrics.json';
+
+async function loadBaseCatalog(source = process.env.BASE_CATALOG || DEFAULT_BASE_CATALOG) {
+  let text;
+  if (/^https?:\/\//.test(source)) {
+    const response = await fetch(source);
+    if (!response.ok) throw new Error(`GET ${source} failed with ${response.status}`);
+    text = await response.text();
+  } else {
+    text = fs.readFileSync(source, 'utf8');
+  }
+  return new Map(JSON.parse(text).items.map(item => [item.remoteId, item]));
+}
+
+// One run's update, from Firestore and what readers already have.
+//   submissions  approved `submissions` docs, published or not
+//   decisions    every `catalogWithdrawals` doc
+//   published    publishedState()
+//   base         the base catalog; only needed when `unresolved` says so
+// Docs are `{ id, data }`. Returns the update's `items` and `removed`, the
+// submission ids and decisions to mark published, and the restores whose
+// lyric couldn't be found (left pending, unmarked).
+function planUpdate({ submissions, decisions, published = new Map(), base = null }) {
+  const withdrawn = new Set(
+    decisions.filter(({ data }) => data.withdrawn === true).map(({ id }) => id)
+  );
+
+  // Approved submissions by the lyric they publish. A Revision Submission is
+  // its own document whose `revisionOfRemoteId` names the lyric it replaces.
+  const lyrics = new Map();
+  for (const doc of submissions) {
+    const remoteId = doc.data.revisionOfRemoteId || doc.id;
+    lyrics.set(remoteId, [...(lyrics.get(remoteId) ?? []), doc]);
+  }
+
+  // The newest approval wins. Every unpublished document is still marked, so
+  // a later run can't publish an older version over it.
+  const unpublished = docs => docs.filter(({ data }) => data.published === false);
+  const items = new Map();
+  const submissionIds = [];
+  const publish = (remoteId, docs) => {
+    items.set(remoteId, toUpdateItem(remoteId, newestApproval(docs).data));
+    submissionIds.push(...unpublished(docs).map(({ id }) => id));
+  };
+
+  // Verify/Unverify on a published submission: readers have the newest
+  // approved version's title and body, but not its Verified flag.
+  const verifiedChanged = (remoteId, docs) => {
+    const live = published.get(remoteId);
+    const { title, body, isVerified } = newestApproval(docs).data;
+    return Boolean(live?.item) && !live.removed &&
+      live.item.title === title && live.item.body === body &&
+      (live.item.isVerified === true) !== (isVerified === true);
+  };
+
+  for (const [remoteId, docs] of lyrics) {
+    // The Owner's withdrawal wins over an approval: held, neither published
+    // nor marked, until the Owner restores the lyric.
+    if (withdrawn.has(remoteId)) continue;
+    if (unpublished(docs).length || verifiedChanged(remoteId, docs)) publish(remoteId, docs);
+  }
+
+  // Phones delete a withdrawn lyric, so a restore sends it again as an item:
+  // its newest approved version, else the item last published for it, else
+  // its base catalog entry. A withdrawal that never reached readers needs
+  // nothing sent.
+  const restores = [];
+  const unresolved = [];
+  for (const restore of pendingRestores(decisions)) {
+    const { remoteId } = restore;
+    const live = published.get(remoteId);
+    if (live?.removed && !items.has(remoteId)) {
+      if (lyrics.has(remoteId)) {
+        publish(remoteId, lyrics.get(remoteId));
+      } else if (live.item) {
+        items.set(remoteId, catalogItem(live.item));
+      } else if (base?.has(remoteId)) {
+        items.set(remoteId, catalogItem(base.get(remoteId)));
+      } else {
+        unresolved.push(remoteId);
+        continue;
+      }
+    }
+    restores.push(restore);
+  }
+
+  const withdrawals = pendingWithdrawals(decisions);
+  return {
+    items: [...items.values()],
+    removed: withdrawals.map(({ remoteId }) => remoteId),
+    submissionIds,
+    decisions: [...withdrawals, ...restores],
+    unresolved
+  };
 }
 
 // The update file, or null when there is nothing to publish. `removeIds`
@@ -139,8 +257,11 @@ function buildPayload(items, removeIds = '') {
   return removed.length ? { items, removed } : { items };
 }
 
+// Every update stays listed. The website and a fresh install build the
+// catalog from the bundled base catalog plus every update in this list, so
+// an update dropped from it takes its lyrics and withdrawals with it.
 function applyUpdateToManifest(manifest, { updateId, updateFilename, sha256, releaseTag }) {
-  const nextManifest = {
+  return {
     manifestVersion: 1,
     latestReleaseTag: releaseTag,
     updates: [
@@ -153,12 +274,6 @@ function applyUpdateToManifest(manifest, { updateId, updateFilename, sha256, rel
       }
     ]
   };
-
-  if (nextManifest.updates.length > 50) {
-    nextManifest.updates = nextManifest.updates.slice(-50);
-  }
-
-  return nextManifest;
 }
 
 async function sync() {
@@ -167,22 +282,32 @@ async function sync() {
 
   console.log('Fetching approved lyrics from Firestore...');
 
-  const snapshot = await db.collection('submissions')
-    .where('status', '==', 'approved')
-    .where('published', '==', false)
-    .get();
-
-  const { items, submissionIds } = collectApproved(
-    snapshot.docs.map(doc => ({ id: doc.id, data: doc.data() }))
-  );
-  const withdrawals = pendingWithdrawals(
-    (await db.collection('catalogWithdrawals').where('withdrawn', '==', true).get())
-      .docs.map(doc => ({ id: doc.id, data: doc.data() }))
-  );
-  const payload = buildPayload(
-    items,
-    [process.env.REMOVE_IDS, ...withdrawals.map(w => w.remoteId)].join(' ')
-  );
+  const docs = snapshot => snapshot.docs.map(doc => ({ id: doc.id, data: doc.data() }));
+  const manifestPath = path.join(__dirname, '../manifest.json');
+  let manifest = loadManifest(manifestPath);
+  const input = {
+    // Published ones too: a restore sends the lyric's newest approved
+    // version, and Verify/Unverify can change a published one.
+    submissions: docs(await db.collection('submissions').where('status', '==', 'approved').get()),
+    decisions: docs(await db.collection('catalogWithdrawals').get()),
+    published: publishedState(manifest)
+  };
+  let plan = planUpdate(input);
+  if (plan.unresolved.length) {
+    try {
+      plan = planUpdate({ ...input, base: await loadBaseCatalog() });
+    } catch (err) {
+      console.warn(`Could not read the base catalog: ${err.message}`);
+    }
+  }
+  for (const remoteId of plan.unresolved) {
+    console.warn(
+      `Restore of ${remoteId} not published: it isn't in Firestore, the published updates ` +
+      'or the base catalog snapshot (BASE_CATALOG). It stays pending.'
+    );
+  }
+  const { items, submissionIds, decisions } = plan;
+  const payload = buildPayload(items, [process.env.REMOVE_IDS, ...plan.removed].join(' '));
   if (!payload) {
     console.log('No new approved lyrics or removals to sync.');
     process.exit(0);
@@ -205,8 +330,6 @@ async function sync() {
   // Hash the exact bytes published; the app rejects an update whose hash differs.
   const sha256 = crypto.createHash('sha256').update(payloadStr).digest('hex');
 
-  const manifestPath = path.join(__dirname, '../manifest.json');
-  let manifest = loadManifest(manifestPath);
   manifest = applyUpdateToManifest(manifest, {
     updateId,
     updateFilename,
@@ -221,10 +344,11 @@ async function sync() {
   fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + '\n');
 
   // What --mark-published marks. Kept out of output/, which the release
-  // uploads: submission ids aren't catalog data.
+  // uploads: submission ids aren't catalog data. `withdrawals` lists the
+  // catalogWithdrawals docs published, withdrawals and restores alike.
   fs.writeFileSync(
     marksPath,
-    JSON.stringify({ submissions: submissionIds, withdrawals }, null, 2) + '\n'
+    JSON.stringify({ submissions: submissionIds, withdrawals: decisions }, null, 2) + '\n'
   );
 
   console.log(`Success! Created ${updateFilename} and updated manifest.json.`);
@@ -240,8 +364,9 @@ async function markPublished(file = marksPath, db = getDb()) {
   for (const id of submissions) {
     batch.update(db.collection('submissions').doc(id), { published: true });
   }
-  // The updatedAt this run saw: if the Owner changed the withdrawal since,
-  // updatedAt stays newer and the next run publishes it again.
+  // Withdrawals and restores. The updatedAt this run saw: if the Owner
+  // changed the decision since, updatedAt stays newer and the next run
+  // publishes it again.
   for (const { remoteId, updatedAt } of withdrawals) {
     batch.update(db.collection('catalogWithdrawals').doc(remoteId), {
       publishedAt: admin.firestore.Timestamp.fromMillis(updatedAt)
@@ -261,13 +386,16 @@ if (require.main === module) {
 
 module.exports = {
   applyUpdateToManifest,
-  collectApproved,
   getDb,
   getRequiredReleaseTag,
+  loadBaseCatalog,
   markPublished,
   loadManifest,
   normalizeCategory,
+  pendingRestores,
   pendingWithdrawals,
+  planUpdate,
+  publishedState,
   buildPayload,
   toUpdateItem
 };
