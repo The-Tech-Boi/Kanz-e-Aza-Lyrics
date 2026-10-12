@@ -104,11 +104,16 @@ const millis = timestamp =>
 // document whose `revisionOfRemoteId` names the published lyric it replaces.
 // When several are approved for one lyric, the newest approval wins; every
 // document is still marked published, so a later run can't publish an older
-// version over it. `docs` are `{ id, data }`.
-function collectApproved(docs) {
+// version over it. The Owner's withdrawal wins over an approval: submissions
+// for a lyric in `withdrawn` are held, neither published nor marked, until
+// the Owner restores it. `docs` are `{ id, data }`.
+function collectApproved(docs, withdrawn = new Set()) {
   const newest = new Map();
+  const submissionIds = [];
   for (const doc of docs) {
     const remoteId = doc.data.revisionOfRemoteId || doc.id;
+    if (withdrawn.has(remoteId)) continue;
+    submissionIds.push(doc.id);
     const current = newest.get(remoteId);
     if (!current || millis(doc.data.approvedAt) >= millis(current.data.approvedAt)) {
       newest.set(remoteId, doc);
@@ -116,7 +121,7 @@ function collectApproved(docs) {
   }
   return {
     items: [...newest].map(([remoteId, doc]) => toUpdateItem(remoteId, doc.data)),
-    submissionIds: docs.map(doc => doc.id)
+    submissionIds
   };
 }
 
@@ -169,13 +174,13 @@ async function sync() {
     .where('published', '==', false)
     .get();
 
+  const withdrawn = (await db.collection('catalogWithdrawals').where('withdrawn', '==', true).get())
+    .docs.map(doc => ({ id: doc.id, data: doc.data() }));
   const { items, submissionIds } = collectApproved(
-    snapshot.docs.map(doc => ({ id: doc.id, data: doc.data() }))
+    snapshot.docs.map(doc => ({ id: doc.id, data: doc.data() })),
+    new Set(withdrawn.map(doc => doc.id))
   );
-  const withdrawals = pendingWithdrawals(
-    (await db.collection('catalogWithdrawals').where('withdrawn', '==', true).get())
-      .docs.map(doc => ({ id: doc.id, data: doc.data() }))
-  );
+  const withdrawals = pendingWithdrawals(withdrawn);
   const payload = buildPayload(
     items,
     [process.env.REMOVE_IDS, ...withdrawals.map(w => w.remoteId)].join(' ')

@@ -90,6 +90,16 @@ test('the newest approved revision of a lyric wins and every one is marked', () 
   assert.deepEqual(submissionIds, ['rev-new', 'rev-old', 'doc9']);
 });
 
+test('submissions for a withdrawn lyric are held, neither published nor marked', () => {
+  const { items, submissionIds } = collectApproved([
+    { id: 'rev-1', data: { ...submission, revisionOfRemoteId: 'lyric-7' } },
+    { id: 'lyric-7', data: { ...submission, title: 'The lyric itself' } },
+    { id: 'doc9', data: { ...submission, title: 'New lyric' } }
+  ], new Set(['lyric-7']));
+  assert.deepEqual(items.map(i => i.remoteId), ['doc9']);
+  assert.deepEqual(submissionIds, ['doc9']);
+});
+
 test('revision fields stay out of the published item', () => {
   const [item] = collectApproved([
     { id: 'rev-1', data: { ...submission, revisionOfRemoteId: 'lyric-7' } }

@@ -366,14 +366,9 @@ test('an Owner restore brings the lyric back', {
   assert.ok(catalogAfter(repo, base).has('base-7'));
 });
 
-// BUG: an approved revision of a withdrawn lyric is published as an item
-// after the withdrawal went out, so the lyric comes back on phones and the
-// website while catalogWithdrawals (and the Owner's Withdrawals tab) still
-// say it is withdrawn.
-test('a revision approved after a withdrawal does not bring the lyric back', {
-  skip,
-  todo: 'BUG: the revision republishes the withdrawn lyric; the withdrawal is not re-sent'
-}, async () => {
+// The Owner's withdrawal wins: an approved revision of a withdrawn lyric
+// waits, unpublished, until the Owner restores the lyric.
+test('a revision approved after a withdrawal does not bring the lyric back', { skip }, async () => {
   const repo = checkout();
   await put('lyric-1', websiteSubmission('lyric-1', { title: 'Original', ...approval(2000) }));
   workflowRun(repo);
@@ -388,9 +383,11 @@ test('a revision approved after a withdrawal does not bring the lyric back', {
     title: 'Revised',
     ...approval(5000)
   }));
-  workflowRun(repo);
+  const run = workflowRun(repo);
 
+  assert.equal(run.update, null, 'the held revision was published');
   assert.ok(!catalogAfter(repo).has('lyric-1'), 'the withdrawn lyric is back in the catalog');
+  assert.equal((await read('rev-1')).published, false, 'the held revision was marked published');
 });
 
 // BUG: Verify/Unverify on a published submission is saved (the rules allow
