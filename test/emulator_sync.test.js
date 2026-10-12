@@ -510,20 +510,77 @@ test('a revision approved after a withdrawal does not bring the lyric back', { s
   assert.equal((await read('rev-1')).published, false, 'the held revision was marked published');
 });
 
-// BUG: Verify/Unverify on a published submission is saved (the rules allow
-// it and the admin queue offers it), but sync only reads unpublished
-// submissions, so the change never reaches phones or the website.
-test('verifying a published lyric reaches the catalog', {
-  skip,
-  todo: 'BUG: sync never republishes a published submission, so its new Verified flag is lost'
-}, async () => {
+// FirestoreWebConsoleRepository.setVerified: the rules allow it on a
+// published submission, and the admin queue offers it there.
+const setVerified = (id, verified, ms) => submission(id).update({
+  isVerified: verified,
+  reviewedBy: 'admin-uid',
+  adminReviewedAt: at(ms)
+});
+
+test('verifying a published lyric reaches the catalog', { skip }, async () => {
   const repo = checkout();
   await put('web-6', websiteSubmission('web-6', approval(2000)));
   workflowRun(repo);
   assert.equal(catalogAfter(repo).get('web-6').isVerified, false);
 
-  await submission('web-6').update({ isVerified: true, reviewedBy: 'admin-uid', adminReviewedAt: at(3000) });
+  await setVerified('web-6', true, 3000);
+  const run = workflowRun(repo);
+
+  assert.notEqual(run.update, null, 'the Verify change published nothing');
+  assert.deepEqual(run.update.items.map(i => [i.remoteId, i.title, i.isVerified]), [
+    ['web-6', 'Ya Abbas', true]
+  ]);
+  assert.deepEqual(run.marks, { submissions: [], withdrawals: [] });
+  assert.equal(catalogAfter(repo).get('web-6').isVerified, true);
+  assert.equal(workflowRun(repo).update, null);
+
+  await setVerified('web-6', false, 4000);
+  assert.deepEqual(workflowRun(repo).update.items.map(i => [i.remoteId, i.isVerified]), [['web-6', false]]);
+  assert.equal(catalogAfter(repo).get('web-6').isVerified, false);
+
+  // Verified and unverified again between runs: nothing changed for readers.
+  await setVerified('web-6', true, 5000);
+  await setVerified('web-6', false, 5500);
+  assert.equal(workflowRun(repo).update, null);
+});
+
+test('verifying a published revision republishes the lyric it changed', { skip }, async () => {
+  const repo = checkout();
+  await put('lyric-1', websiteSubmission('lyric-1', { title: 'Original', ...approval(2000) }));
+  workflowRun(repo);
+  await put('rev-1', websiteSubmission('rev-1', {
+    revisionOfRemoteId: 'lyric-1',
+    title: 'Revised',
+    ...approval(3000)
+  }));
   workflowRun(repo);
 
+  // The older version isn't what readers have: verifying it changes nothing.
+  await setVerified('lyric-1', true, 4000);
+  assert.equal(workflowRun(repo).update, null);
+
+  await setVerified('rev-1', true, 5000);
+  const run = workflowRun(repo);
+  assert.deepEqual(run.update.items.map(i => [i.remoteId, i.title, i.isVerified]), [
+    ['lyric-1', 'Revised', true]
+  ]);
+  assert.deepEqual([...catalogAfter(repo).keys()], ['lyric-1']);
+});
+
+test('a Verify change on a withdrawn lyric waits for the restore', { skip }, async () => {
+  const repo = checkout();
+  await put('web-6', websiteSubmission('web-6', approval(2000)));
+  workflowRun(repo);
+  await withdrawal('web-6', true, 3000);
+  workflowRun(repo);
+
+  await setVerified('web-6', true, 4000);
+  assert.equal(workflowRun(repo).update, null);
+  assert.ok(!catalogAfter(repo).has('web-6'));
+
+  await withdrawal('web-6', false, 5000);
+  const run = workflowRun(repo);
+  assert.deepEqual(run.update.items.map(i => [i.remoteId, i.isVerified]), [['web-6', true]]);
   assert.equal(catalogAfter(repo).get('web-6').isVerified, true);
 });

@@ -196,11 +196,21 @@ function planUpdate({ submissions, decisions, published = new Map(), base = null
     submissionIds.push(...unpublished(docs).map(({ id }) => id));
   };
 
+  // Verify/Unverify on a published submission: readers have the newest
+  // approved version's title and body, but not its Verified flag.
+  const verifiedChanged = (remoteId, docs) => {
+    const live = published.get(remoteId);
+    const { title, body, isVerified } = newestApproval(docs).data;
+    return Boolean(live?.item) && !live.removed &&
+      live.item.title === title && live.item.body === body &&
+      (live.item.isVerified === true) !== (isVerified === true);
+  };
+
   for (const [remoteId, docs] of lyrics) {
     // The Owner's withdrawal wins over an approval: held, neither published
     // nor marked, until the Owner restores the lyric.
     if (withdrawn.has(remoteId)) continue;
-    if (unpublished(docs).length) publish(remoteId, docs);
+    if (unpublished(docs).length || verifiedChanged(remoteId, docs)) publish(remoteId, docs);
   }
 
   // Phones delete a withdrawn lyric, so a restore sends it again as an item:
@@ -276,7 +286,8 @@ async function sync() {
   const manifestPath = path.join(__dirname, '../manifest.json');
   let manifest = loadManifest(manifestPath);
   const input = {
-    // Published ones too: a restore sends the lyric's newest approved version.
+    // Published ones too: a restore sends the lyric's newest approved
+    // version, and Verify/Unverify can change a published one.
     submissions: docs(await db.collection('submissions').where('status', '==', 'approved').get()),
     decisions: docs(await db.collection('catalogWithdrawals').get()),
     published: publishedState(manifest)
