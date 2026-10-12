@@ -21,9 +21,9 @@ test('lyrics are marked published as the last workflow step', () => {
   assert.ok(!syncBody.includes('published: true'), 'sync() must not mark lyrics published');
 });
 
-test('markPublished marks every lyric in the update file', async () => {
-  const file = path.join(fs.mkdtempSync(path.join(os.tmpdir(), 'mark-')), 'update_1.json');
-  fs.writeFileSync(file, JSON.stringify({ items: [{ remoteId: 'a' }, { remoteId: 'b' }] }));
+test('markPublished marks every submission the run published', async () => {
+  const file = path.join(fs.mkdtempSync(path.join(os.tmpdir(), 'mark-')), 'publish_marks.json');
+  fs.writeFileSync(file, JSON.stringify({ submissions: ['a', 'revision-of-a'] }));
   const updated = [];
   let committed = false;
   const db = {
@@ -34,11 +34,18 @@ test('markPublished marks every lyric in the update file', async () => {
     })
   };
 
-  await markPublished([file], db);
+  await markPublished(file, db);
 
   assert.deepEqual(updated, [
     ['submissions/a', { published: true }],
-    ['submissions/b', { published: true }]
+    ['submissions/revision-of-a', { published: true }]
   ]);
   assert.ok(committed);
+});
+
+test('the marks file stays out of the release assets', () => {
+  const workflow = fs.readFileSync(
+    path.join(__dirname, '../.github/workflows/sync_lyrics.yml'), 'utf8');
+  assert.match(workflow, /--mark-published publish_marks\.json/);
+  assert.match(workflow, /files: output\/\*/);
 });

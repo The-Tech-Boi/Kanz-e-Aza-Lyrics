@@ -1,7 +1,7 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
 
-const { toUpdateItem } = require('../scripts/sync_firestore_to_github');
+const { collectApproved, toUpdateItem } = require('../scripts/sync_firestore_to_github');
 
 // A submission as the app writes it (contract v1), plus workflow fields.
 const submission = {
@@ -66,4 +66,33 @@ test('legacy documents still publish, without contributor fields', () => {
   for (const key of ['createdBy', 'deviceUserUuid', 'ownerUid', 'author', 'language']) {
     assert.ok(!(key in item), `${key} must not be published`);
   }
+});
+
+const at = ms => ({ toMillis: () => ms });
+
+test('a revision is published over the lyric it changes', () => {
+  const { items, submissionIds } = collectApproved([
+    { id: 'rev-1', data: { ...submission, title: 'Ya Ali (fixed)', revisionOfRemoteId: 'lyric-7' } }
+  ]);
+  assert.equal(items.length, 1);
+  assert.equal(items[0].remoteId, 'lyric-7');
+  assert.equal(items[0].title, 'Ya Ali (fixed)');
+  assert.deepEqual(submissionIds, ['rev-1']);
+});
+
+test('the newest approved revision of a lyric wins and every one is marked', () => {
+  const { items, submissionIds } = collectApproved([
+    { id: 'rev-new', data: { ...submission, title: 'Newer', revisionOfRemoteId: 'lyric-7', approvedAt: at(2000) } },
+    { id: 'rev-old', data: { ...submission, title: 'Older', revisionOfRemoteId: 'lyric-7', approvedAt: at(1000) } },
+    { id: 'doc9', data: { ...submission, title: 'New lyric' } }
+  ]);
+  assert.deepEqual(items.map(i => [i.remoteId, i.title]), [['lyric-7', 'Newer'], ['doc9', 'New lyric']]);
+  assert.deepEqual(submissionIds, ['rev-new', 'rev-old', 'doc9']);
+});
+
+test('revision fields stay out of the published item', () => {
+  const [item] = collectApproved([
+    { id: 'rev-1', data: { ...submission, revisionOfRemoteId: 'lyric-7' } }
+  ]).items;
+  assert.ok(!('revisionOfRemoteId' in item));
 });

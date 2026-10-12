@@ -97,6 +97,29 @@ function toUpdateItem(remoteId, data) {
   return item;
 }
 
+const millis = timestamp =>
+  timestamp && typeof timestamp.toMillis === 'function' ? timestamp.toMillis() : 0;
+
+// Approved submissions as update items. A Revision Submission is its own
+// document whose `revisionOfRemoteId` names the published lyric it replaces.
+// When several are approved for one lyric, the newest approval wins; every
+// document is still marked published, so a later run can't publish an older
+// version over it. `docs` are `{ id, data }`.
+function collectApproved(docs) {
+  const newest = new Map();
+  for (const doc of docs) {
+    const remoteId = doc.data.revisionOfRemoteId || doc.id;
+    const current = newest.get(remoteId);
+    if (!current || millis(doc.data.approvedAt) >= millis(current.data.approvedAt)) {
+      newest.set(remoteId, doc);
+    }
+  }
+  return {
+    items: [...newest].map(([remoteId, doc]) => toUpdateItem(remoteId, doc.data)),
+    submissionIds: docs.map(doc => doc.id)
+  };
+}
+
 // The update file, or null when there is nothing to publish. `removeIds`
 // (comma or space separated) withdraws those remoteIds from phones. They go
 // beside `items`, not in it: every app build requires `items` and older builds
@@ -140,10 +163,10 @@ async function sync() {
     .where('published', '==', false)
     .get();
 
-  const payload = buildPayload(
-    snapshot.docs.map(doc => toUpdateItem(doc.id, doc.data())),
-    process.env.REMOVE_IDS
+  const { items, submissionIds } = collectApproved(
+    snapshot.docs.map(doc => ({ id: doc.id, data: doc.data() }))
   );
+  const payload = buildPayload(items, process.env.REMOVE_IDS);
   if (!payload) {
     console.log('No new approved lyrics or removals to sync.');
     process.exit(0);
@@ -181,26 +204,30 @@ async function sync() {
   );
   fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + '\n');
 
+  // What --mark-published marks. Kept out of output/, which the release
+  // uploads: submission ids aren't catalog data.
+  fs.writeFileSync(marksPath, JSON.stringify({ submissions: submissionIds }, null, 2) + '\n');
+
   console.log(`Success! Created ${updateFilename} and updated manifest.json.`);
 }
 
+const marksPath = path.join(__dirname, '../publish_marks.json');
+
 // Runs as the workflow's last step, after the release exists. If any earlier
 // step fails, the lyrics stay unpublished and the next run publishes them again.
-async function markPublished(updatePaths, db = getDb()) {
+async function markPublished(file = marksPath, db = getDb()) {
+  const { submissions = [] } = JSON.parse(fs.readFileSync(file, 'utf8'));
   const batch = db.batch();
-  for (const updatePath of updatePaths) {
-    const { items } = JSON.parse(fs.readFileSync(updatePath, 'utf8'));
-    for (const item of items) {
-      batch.update(db.collection('submissions').doc(item.remoteId), { published: true });
-    }
+  for (const id of submissions) {
+    batch.update(db.collection('submissions').doc(id), { published: true });
   }
   await batch.commit();
-  console.log(`Marked lyrics in ${updatePaths.join(', ')} as published.`);
+  console.log(`Marked ${submissions.length} submissions as published.`);
 }
 
 if (require.main === module) {
-  const [mode, ...paths] = process.argv.slice(2);
-  (mode === '--mark-published' ? markPublished(paths) : sync()).catch(err => {
+  const [mode, file] = process.argv.slice(2);
+  (mode === '--mark-published' ? markPublished(file) : sync()).catch(err => {
     console.error('Error during sync:', err);
     process.exit(1);
   });
@@ -208,6 +235,7 @@ if (require.main === module) {
 
 module.exports = {
   applyUpdateToManifest,
+  collectApproved,
   getDb,
   getRequiredReleaseTag,
   markPublished,
