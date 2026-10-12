@@ -139,8 +139,11 @@ function buildPayload(items, removeIds = '') {
   return removed.length ? { items, removed } : { items };
 }
 
+// Every update stays listed. The website and a fresh install build the
+// catalog from the bundled base catalog plus every update in this list, so
+// an update dropped from it takes its lyrics and withdrawals with it.
 function applyUpdateToManifest(manifest, { updateId, updateFilename, sha256, releaseTag }) {
-  const nextManifest = {
+  return {
     manifestVersion: 1,
     latestReleaseTag: releaseTag,
     updates: [
@@ -153,12 +156,6 @@ function applyUpdateToManifest(manifest, { updateId, updateFilename, sha256, rel
       }
     ]
   };
-
-  if (nextManifest.updates.length > 50) {
-    nextManifest.updates = nextManifest.updates.slice(-50);
-  }
-
-  return nextManifest;
 }
 
 async function sync() {
