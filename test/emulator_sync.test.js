@@ -1,7 +1,7 @@
 // The real sync script against the Firestore emulator, run the way the
 // workflow runs it: sync, then --mark-published, with manifest.json kept
 // between runs. Each test checks the update files a website submission,
-// revision or Owner withdrawal turns into.
+// revision, Verify change or Owner withdrawal or restore turns into.
 //
 //   firebase emulators:exec --only firestore --project demo-kanz-e-aza "npm test"
 // or, with an emulator already running:
@@ -57,13 +57,18 @@ async function clearFirestore() {
   assert.ok(res.ok, `clearing the emulator: ${res.status}`);
 }
 
-// A checkout of this repository: the script, and manifest.json once a run
-// has committed it.
-function checkout() {
+// A checkout of this repository: the script, and manifest.json and updates/
+// once a run has committed them. `base` is the base catalog snapshot the
+// sync reads a restored lyric from (BASE_CATALOG), kept outside the checkout
+// like the release asset it stands for.
+function checkout({ base = [] } = {}) {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'kanz-sync-'));
   fs.mkdirSync(path.join(dir, 'scripts'));
+  fs.mkdirSync(path.join(dir, 'updates'));
   fs.copyFileSync(script, path.join(dir, 'scripts', 'sync_firestore_to_github.js'));
-  return { dir, runs: 0, published: [] };
+  const baseCatalog = path.join(fs.mkdtempSync(path.join(os.tmpdir(), 'kanz-base-')), 'lyrics.json');
+  fs.writeFileSync(baseCatalog, JSON.stringify({ items: base }));
+  return { dir, baseCatalog, runs: 0, published: [] };
 }
 
 function node(repo, args) {
@@ -71,6 +76,7 @@ function node(repo, args) {
   delete env.GOOGLE_APPLICATION_CREDENTIALS;
   delete env.REMOVE_IDS;
   Object.assign(env, {
+    BASE_CATALOG: repo.baseCatalog,
     FIRESTORE_EMULATOR_HOST: host,
     FIREBASE_SERVICE_ACCOUNT: serviceAccount,
     RELEASE_TAG: `v1.0.${repo.runs}-test`,
@@ -81,23 +87,26 @@ function node(repo, args) {
   return result;
 }
 
-// One workflow run: a clean output/, sync, then (as the last step) mark.
+// One workflow run: a clean output/, sync, commit the update file to
+// updates/ (as "Commit Updated Manifest" does), then, as the last step, mark.
 // Returns the update file it published, or null.
 function workflowRun(repo, { mark = true } = {}) {
   repo.runs++;
   fs.rmSync(path.join(repo.dir, 'output'), { recursive: true, force: true });
   fs.rmSync(path.join(repo.dir, 'publish_marks.json'), { force: true });
-  const { stdout } = node(repo, ['scripts/sync_firestore_to_github.js']);
+  const { stdout, stderr } = node(repo, ['scripts/sync_firestore_to_github.js']);
   const output = path.join(repo.dir, 'output');
   const names = fs.existsSync(output)
     ? fs.readdirSync(output).filter(name => name.startsWith('update_'))
     : [];
-  if (!names.length) return { stdout, update: null };
+  if (!names.length) return { stdout, stderr, update: null };
   assert.equal(names.length, 1);
+  fs.copyFileSync(path.join(output, names[0]), path.join(repo.dir, 'updates', names[0]));
   const bytes = fs.readFileSync(path.join(output, names[0]));
   const manifest = JSON.parse(fs.readFileSync(path.join(output, 'manifest.json'), 'utf8'));
   const run = {
     stdout,
+    stderr,
     name: names[0],
     bytes,
     text: bytes.toString('utf8'),
@@ -110,17 +119,23 @@ function workflowRun(repo, { mark = true } = {}) {
   return run;
 }
 
-// What a reader builds from the base catalog plus every update, in order:
-// each file's items, then the remoteIds it removes (ReleaseCatalogService
-// and the app's UpdateService apply them this way).
-function catalogAfter(repo, base = {}) {
-  const lyrics = new Map(Object.entries(base));
-  for (const update of repo.published) {
-    for (const item of update.items) lyrics.set(item.remoteId, item);
-    for (const id of update.removed ?? []) lyrics.delete(id);
-  }
+// One update applied the way readers apply it: its items, then the
+// remoteIds it removes (ReleaseCatalogService and the app's UpdateService).
+// A phone deletes a removed lyric, so only a later item brings it back.
+function apply(lyrics, update) {
+  for (const item of update.items) lyrics.set(item.remoteId, item);
+  for (const id of update.removed ?? []) lyrics.delete(id);
   return lyrics;
 }
+
+// What a reader builds from the base catalog plus every update, in order:
+// the website on every visit, or a fresh install.
+function catalogAfter(repo, base = {}) {
+  return repo.published.reduce(apply, new Map(Object.entries(base)));
+}
+
+const decisionDoc = async remoteId =>
+  (await db.collection('catalogWithdrawals').doc(remoteId).get()).data();
 
 // A submission exactly as the website writes it (WebSubmissionDraft.toFirestore
 // plus the repository's timestamps), see firestore_tests/web_submission.json
@@ -348,22 +363,127 @@ test('an Owner withdrawal is published once and not sent again', { skip }, async
   assert.equal(again.update, null);
 });
 
-// Known gap, Kanz-e-Aza-Lyrics#13: a restore is never published.
-test('an Owner restore brings the lyric back', {
-  skip,
-  todo: 'Known gap Kanz-e-Aza-Lyrics#13: sync only reads withdrawn == true, so a restore never reaches phones or the website'
-}, async () => {
-  const repo = checkout();
-  const base = { 'base-7': { title: 'Bundled' } };
+// A base catalog entry as the snapshot's lyrics.json holds it.
+const bundled = {
+  remoteId: 'base-7',
+  isVerified: false,
+  title: 'Bundled',
+  body: 'Pehli line\n<<DIVIDER>>\nDoosri line',
+  category: 'Manqabat',
+  subcategory: 'Qataat',
+  group: '2007',
+  createdBy: 'publisher_tool',
+  source: 'local',
+  pageTitle: 'Page 12'
+};
+
+test('an Owner restore brings the lyric back', { skip }, async () => {
+  const repo = checkout({ base: [bundled] });
+  const base = { 'base-7': bundled };
+  // A phone with the base catalog that applies each update as it comes.
+  const phone = new Map(Object.entries(base));
   await withdrawal('base-7', true, 4000);
-  workflowRun(repo);
+  apply(phone, workflowRun(repo).update);
+  assert.ok(!phone.has('base-7'));
   assert.ok(!catalogAfter(repo, base).has('base-7'));
 
   await withdrawal('base-7', false, 6000);
   const run = workflowRun(repo);
 
   assert.notEqual(run.update, null, 'the restore published nothing');
-  assert.ok(catalogAfter(repo, base).has('base-7'));
+  // The base catalog entry, in the update format, without its tool fields.
+  assert.deepEqual(run.update, {
+    items: [{
+      remoteId: 'base-7',
+      title: 'Bundled',
+      body: 'Pehli line\n<<DIVIDER>>\nDoosri line',
+      category: 'Manqabat',
+      subcategory: 'Qataat',
+      group: '2007',
+      isVerified: false,
+      source: 'local'
+    }]
+  });
+  assert.deepEqual(run.marks, { submissions: [], withdrawals: [{ remoteId: 'base-7', updatedAt: 6000 }] });
+  apply(phone, run.update);
+  assert.equal(phone.get('base-7').title, 'Bundled');
+  assert.equal(catalogAfter(repo, base).get('base-7').title, 'Bundled');
+  const marked = await decisionDoc('base-7');
+  assert.equal(marked.withdrawn, false);
+  assert.equal(marked.publishedAt.toMillis(), 6000);
+
+  assert.equal(workflowRun(repo).update, null);
+
+  // Withdrawn again, and that goes out too.
+  await withdrawal('base-7', true, 8000);
+  assert.deepEqual(workflowRun(repo).update, { items: [], removed: ['base-7'] });
+  assert.ok(!catalogAfter(repo, base).has('base-7'));
+});
+
+test('a restore sends the newest approved text, with the revision held while withdrawn', { skip }, async () => {
+  const repo = checkout();
+  await put('lyric-1', websiteSubmission('lyric-1', { title: 'Original', ...approval(2000) }));
+  workflowRun(repo);
+  await withdrawal('lyric-1', true, 4000);
+  workflowRun(repo);
+  await put('rev-1', websiteSubmission('rev-1', {
+    revisionOfRemoteId: 'lyric-1',
+    title: 'Revised',
+    body: 'Corrected line',
+    ...approval(5000)
+  }));
+  assert.equal(workflowRun(repo).update, null);
+
+  await withdrawal('lyric-1', false, 6000);
+  const run = workflowRun(repo);
+
+  assert.deepEqual(run.update.items.map(i => [i.remoteId, i.title, i.body]), [
+    ['lyric-1', 'Revised', 'Corrected line']
+  ]);
+  assert.ok(!('removed' in run.update));
+  assert.deepEqual(run.marks, {
+    submissions: ['rev-1'],
+    withdrawals: [{ remoteId: 'lyric-1', updatedAt: 6000 }]
+  });
+  assert.equal((await read('rev-1')).published, true);
+  assert.equal(catalogAfter(repo).get('lyric-1').title, 'Revised');
+  assert.equal(workflowRun(repo).update, null);
+});
+
+test('a lyric withdrawn and restored between runs publishes nothing', { skip }, async () => {
+  const repo = checkout();
+  await put('lyric-1', websiteSubmission('lyric-1', { title: 'Original', ...approval(2000) }));
+  workflowRun(repo);
+  await withdrawal('lyric-1', true, 4000);
+  await withdrawal('lyric-1', false, 5000);
+
+  assert.equal(workflowRun(repo).update, null);
+  assert.equal(catalogAfter(repo).get('lyric-1').title, 'Original');
+});
+
+test('a restore the sync cannot find stays pending until it can', { skip }, async () => {
+  const repo = checkout();
+  await withdrawal('base-7', true, 4000);
+  workflowRun(repo);
+  await withdrawal('base-7', false, 6000);
+
+  // Not in Firestore, the published updates or the base catalog snapshot.
+  const held = workflowRun(repo);
+  assert.equal(held.update, null);
+  assert.match(held.stderr, /Restore of base-7 not published/);
+  assert.equal((await decisionDoc('base-7')).publishedAt, undefined);
+
+  // The snapshot can't be read at all.
+  repo.baseCatalog = path.join(repo.dir, 'no-such-snapshot.json');
+  const unreadable = workflowRun(repo);
+  assert.equal(unreadable.update, null);
+  assert.match(unreadable.stderr, /Could not read the base catalog/);
+
+  // A snapshot that has it.
+  repo.baseCatalog = checkout({ base: [bundled] }).baseCatalog;
+  const run = workflowRun(repo);
+  assert.deepEqual(run.update.items.map(i => i.remoteId), ['base-7']);
+  assert.equal((await decisionDoc('base-7')).publishedAt.toMillis(), 6000);
 });
 
 // The Owner's withdrawal wins: an approved revision of a withdrawn lyric
