@@ -120,6 +120,15 @@ function collectApproved(docs) {
   };
 }
 
+// The Owner's withdrawals from the website (`catalogWithdrawals/{remoteId}`)
+// that phones haven't received yet: never published, or changed since.
+// `docs` are `{ id, data }` with `withdrawn == true`.
+function pendingWithdrawals(docs) {
+  return docs
+    .filter(({ data }) => !data.publishedAt || millis(data.updatedAt) > millis(data.publishedAt))
+    .map(({ id, data }) => ({ remoteId: id, updatedAt: millis(data.updatedAt) }));
+}
+
 // The update file, or null when there is nothing to publish. `removeIds`
 // (comma or space separated) withdraws those remoteIds from phones. They go
 // beside `items`, not in it: every app build requires `items` and older builds
@@ -166,7 +175,14 @@ async function sync() {
   const { items, submissionIds } = collectApproved(
     snapshot.docs.map(doc => ({ id: doc.id, data: doc.data() }))
   );
-  const payload = buildPayload(items, process.env.REMOVE_IDS);
+  const withdrawals = pendingWithdrawals(
+    (await db.collection('catalogWithdrawals').where('withdrawn', '==', true).get())
+      .docs.map(doc => ({ id: doc.id, data: doc.data() }))
+  );
+  const payload = buildPayload(
+    items,
+    [process.env.REMOVE_IDS, ...withdrawals.map(w => w.remoteId)].join(' ')
+  );
   if (!payload) {
     console.log('No new approved lyrics or removals to sync.');
     process.exit(0);
@@ -206,7 +222,10 @@ async function sync() {
 
   // What --mark-published marks. Kept out of output/, which the release
   // uploads: submission ids aren't catalog data.
-  fs.writeFileSync(marksPath, JSON.stringify({ submissions: submissionIds }, null, 2) + '\n');
+  fs.writeFileSync(
+    marksPath,
+    JSON.stringify({ submissions: submissionIds, withdrawals }, null, 2) + '\n'
+  );
 
   console.log(`Success! Created ${updateFilename} and updated manifest.json.`);
 }
@@ -216,13 +235,20 @@ const marksPath = path.join(__dirname, '../publish_marks.json');
 // Runs as the workflow's last step, after the release exists. If any earlier
 // step fails, the lyrics stay unpublished and the next run publishes them again.
 async function markPublished(file = marksPath, db = getDb()) {
-  const { submissions = [] } = JSON.parse(fs.readFileSync(file, 'utf8'));
+  const { submissions = [], withdrawals = [] } = JSON.parse(fs.readFileSync(file, 'utf8'));
   const batch = db.batch();
   for (const id of submissions) {
     batch.update(db.collection('submissions').doc(id), { published: true });
   }
+  // The updatedAt this run saw: if the Owner changed the withdrawal since,
+  // updatedAt stays newer and the next run publishes it again.
+  for (const { remoteId, updatedAt } of withdrawals) {
+    batch.update(db.collection('catalogWithdrawals').doc(remoteId), {
+      publishedAt: admin.firestore.Timestamp.fromMillis(updatedAt)
+    });
+  }
   await batch.commit();
-  console.log(`Marked ${submissions.length} submissions as published.`);
+  console.log(`Marked ${submissions.length} submissions and ${withdrawals.length} withdrawals as published.`);
 }
 
 if (require.main === module) {
@@ -241,6 +267,7 @@ module.exports = {
   markPublished,
   loadManifest,
   normalizeCategory,
+  pendingWithdrawals,
   buildPayload,
   toUpdateItem
 };
