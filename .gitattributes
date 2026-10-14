@@ -1,2 +1,3 @@
 # Update files are hashed byte-for-byte; never convert line endings.
 updates/** -text
+test/fixtures/** -text
