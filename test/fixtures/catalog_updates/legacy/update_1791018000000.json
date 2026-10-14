@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "remoteId": "web-plain-2",
+      "title": "Mola Ali (corrected)",
+      "body": "Pehli line\nDoosri line, corrected",
+      "category": "Manqabat",
+      "categories": [
+        "Manqabat"
+      ],
+      "subcategory": "General",
+      "group": "General",
+      "isVerified": false,
+      "source": "firestore",
+      "language": "Roman Urdu"
+    }
+  ],
+  "removed": [
+    "base-withdrawn"
+  ]
+}

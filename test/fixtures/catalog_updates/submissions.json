@@ -1,0 +1,111 @@
+{
+  "description": "Firestore as the scheduled sync and the Publisher Console read it before each run. approved: the approved `submissions` documents by document ID, published ones too; withdrawn: the remoteIds with `catalogWithdrawals/{remoteId}.withdrawn == true`. Timestamps are ISO 8601.",
+  "run1": {
+    "approved": {
+      "web-plain-2": {
+        "remoteId": "web-plain-2",
+        "title": "Mola Ali",
+        "body": "Pehli line\nDoosri line",
+        "language": "Roman Urdu",
+        "categories": ["Manqabat"],
+        "anjumans": [],
+        "termsVersion": "2026-10",
+        "ownerUid": "poet-uid-1",
+        "status": "approved",
+        "published": false,
+        "isVerified": false,
+        "isUserSubmission": true,
+        "approvedAt": "2026-10-01T09:00:00+00:00"
+      },
+      "web-urdu-1": {
+        "remoteId": "web-urdu-1",
+        "title": "یا عباس علمدار",
+        "body": "پہلی لائن\n<<DIVIDER>>\n_دوسری لائن_\n<<MINI>>\nآخری لائن",
+        "language": "Urdu",
+        "categories": ["Nohay", "Salaams"],
+        "subcategory": "Hazrat Abbas (a.s)",
+        "group": 2024,
+        "author": "Example Poet",
+        "anjumans": [],
+        "termsVersion": "2026-10",
+        "ownerUid": "poet-uid-2",
+        "status": "approved",
+        "published": false,
+        "isVerified": true,
+        "isUserSubmission": true,
+        "approvedAt": "2026-10-01T09:05:00+00:00"
+      }
+    },
+    "withdrawn": []
+  },
+  "run2": {
+    "approved": {
+      "rev-base-withdrawn": {
+        "remoteId": "rev-base-withdrawn",
+        "revisionOfRemoteId": "base-withdrawn",
+        "title": "Bundled, later withdrawn (edited)",
+        "body": "Edited body",
+        "language": "Roman Urdu",
+        "categories": ["Nohay"],
+        "anjumans": [],
+        "termsVersion": "2026-10",
+        "ownerUid": "poet-uid-1",
+        "status": "approved",
+        "published": false,
+        "isVerified": false,
+        "isUserSubmission": true,
+        "approvedAt": "2026-10-03T09:05:00+00:00"
+      },
+      "rev-web-plain-2": {
+        "remoteId": "rev-web-plain-2",
+        "revisionOfRemoteId": "web-plain-2",
+        "title": "Mola Ali (corrected)",
+        "body": "Pehli line\nDoosri line, corrected",
+        "language": "Roman Urdu",
+        "categories": ["Manqabat"],
+        "anjumans": [],
+        "termsVersion": "2026-10",
+        "ownerUid": "poet-uid-1",
+        "status": "approved",
+        "published": false,
+        "isVerified": false,
+        "isUserSubmission": true,
+        "approvedAt": "2026-10-03T09:00:00+00:00"
+      },
+      "web-plain-2": {
+        "remoteId": "web-plain-2",
+        "title": "Mola Ali",
+        "body": "Pehli line\nDoosri line",
+        "language": "Roman Urdu",
+        "categories": ["Manqabat"],
+        "anjumans": [],
+        "termsVersion": "2026-10",
+        "ownerUid": "poet-uid-1",
+        "status": "approved",
+        "published": true,
+        "isVerified": false,
+        "isUserSubmission": true,
+        "approvedAt": "2026-10-01T09:00:00+00:00"
+      },
+      "web-urdu-1": {
+        "remoteId": "web-urdu-1",
+        "title": "یا عباس علمدار",
+        "body": "پہلی لائن\n<<DIVIDER>>\n_دوسری لائن_\n<<MINI>>\nآخری لائن",
+        "language": "Urdu",
+        "categories": ["Nohay", "Salaams"],
+        "subcategory": "Hazrat Abbas (a.s)",
+        "group": 2024,
+        "author": "Example Poet",
+        "anjumans": [],
+        "termsVersion": "2026-10",
+        "ownerUid": "poet-uid-2",
+        "status": "approved",
+        "published": true,
+        "isVerified": true,
+        "isUserSubmission": true,
+        "approvedAt": "2026-10-01T09:05:00+00:00"
+      }
+    },
+    "withdrawn": ["base-withdrawn"]
+  }
+}
