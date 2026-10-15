@@ -126,6 +126,12 @@ const pendingWithdrawals = docs =>
 const pendingRestores = docs =>
   unpublishedDecisions(docs.filter(({ data }) => data.withdrawn !== true));
 
+// An admin edit is a submission the same admin sent and approved: its
+// ownerUid equals its approvedBy. A reader's suggestion an admin approved has
+// another ownerUid. `docs` are `{ id, data }`.
+const hasAdminEdit = docs =>
+  docs.some(({ data }) => Boolean(data.ownerUid) && data.ownerUid === data.approvedBy);
+
 const newestApproval = docs => docs.reduce((newest, doc) =>
   millis(doc.data.approvedAt) >= millis(newest.data.approvedAt) ? doc : newest);
 
@@ -285,6 +291,20 @@ async function sync() {
   const docs = snapshot => snapshot.docs.map(doc => ({ id: doc.id, data: doc.data() }));
   const manifestPath = path.join(__dirname, '../manifest.json');
   let manifest = loadManifest(manifestPath);
+  // The frequent run publishes only for an admin edit; once it does, everything
+  // approved goes out with it. Readers' suggestions wait for the 6-hour run.
+  // Only the unpublished submissions are read to decide, so a quiet run is cheap.
+  if (process.env.ONLY_IF_ADMIN_EDIT === '1') {
+    const waiting = docs(await db.collection('submissions')
+      .where('status', '==', 'approved')
+      .where('published', '==', false)
+      .get());
+    if (!hasAdminEdit(waiting)) {
+      console.log('No admin edit waiting; the next 6-hour run publishes the rest.');
+      process.exit(0);
+    }
+  }
+
   const input = {
     // Published ones too: a restore sends the lyric's newest approved
     // version, and Verify/Unverify can change a published one.
@@ -388,6 +408,7 @@ module.exports = {
   applyUpdateToManifest,
   getDb,
   getRequiredReleaseTag,
+  hasAdminEdit,
   loadBaseCatalog,
   markPublished,
   loadManifest,

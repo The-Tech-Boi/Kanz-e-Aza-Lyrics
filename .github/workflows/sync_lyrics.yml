@@ -3,12 +3,18 @@ name: Sync Lyrics from Firestore
 on:
   schedule:
     - cron: "0 */6 * * *" # Run every 6 hours
+    - cron: "*/15 * * * *" # Publish only when an admin edit is waiting
   workflow_dispatch: # Allow manual trigger
     inputs:
       remove_ids:
         description: "remoteIds to remove from phones (comma or space separated)"
         required: false
         default: ""
+
+# Runs never overlap: each one publishes, then marks what it published.
+concurrency:
+  group: sync-lyrics
+  cancel-in-progress: false
 
 jobs:
   sync:
@@ -37,6 +43,7 @@ jobs:
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
           REMOVE_IDS: ${{ inputs.remove_ids }}
+          ONLY_IF_ADMIN_EDIT: ${{ github.event.schedule == '*/15 * * * *' && '1' || '' }}
         run: node scripts/sync_firestore_to_github.js
 
       - name: Validate Generated Manifest
