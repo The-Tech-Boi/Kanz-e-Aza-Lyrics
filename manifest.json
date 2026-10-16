@@ -1,6 +1,6 @@
 {
   "manifestVersion": 1,
-  "latestReleaseTag": "v1.0.756-38203405474",
+  "latestReleaseTag": "v1.0.780-38974477182",
   "updates": [
     {
       "id": "update_1781727036535",
@@ -49,6 +49,12 @@
       "assetName": "update_1791778866672.json",
       "sha256": "c0a3c828e8f855c7acc0920561c1d29ca8c4ff6a8c876fefb5a10177415ebbec",
       "releaseTag": "v1.0.756-38203405474"
+    },
+    {
+      "id": "update_1792188845367",
+      "assetName": "update_1792188845367.json",
+      "sha256": "ea153a8e2f57601dc82fddfeb700c312cb0af04095699e6d6ac1d93d812676b8",
+      "releaseTag": "v1.0.780-38974477182"
     }
   ]
 }
