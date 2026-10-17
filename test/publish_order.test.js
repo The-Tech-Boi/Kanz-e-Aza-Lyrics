@@ -4,21 +4,33 @@ const fs = require('fs');
 const os = require('os');
 const path = require('path');
 
-const { markPublished, pendingWithdrawals, buildPayload } = require('../scripts/sync_firestore_to_github');
+const { markPublished, pendingWithdrawals } = require('../scripts/sync_firestore_to_github');
 
-// Lyrics are marked published only after the release and manifest commit, so a
-// failed run leaves them for the next run instead of losing them.
+// Lyrics are marked published only after the release and the Catalog commit,
+// so a failed run leaves them for the next run instead of losing them.
 test('lyrics are marked published as the last workflow step', () => {
   const workflow = fs.readFileSync(
     path.join(__dirname, '../.github/workflows/sync_lyrics.yml'), 'utf8');
   const steps = [...workflow.matchAll(/- name: (.+)/g)].map(m => m[1].trim());
   assert.equal(steps.at(-1), 'Mark Lyrics Published');
-  assert.ok(steps.indexOf('Create Release') < steps.indexOf('Mark Lyrics Published'));
+  assert.ok(steps.indexOf('Create Release') < steps.indexOf('Commit the Catalog and the Update'));
+  assert.ok(steps.indexOf('Commit the Catalog and the Update') < steps.indexOf('Mark Lyrics Published'));
 
   const script = fs.readFileSync(
     path.join(__dirname, '../scripts/sync_firestore_to_github.js'), 'utf8');
-  const syncBody = script.slice(script.indexOf('async function sync()'), script.indexOf('async function markPublished'));
+  const start = script.indexOf('async function sync(');
+  assert.ok(start >= 0);
+  const syncBody = script.slice(start, script.indexOf('async function markPublished'));
   assert.ok(!syncBody.includes('published: true'), 'sync() must not mark lyrics published');
+});
+
+// A run can have marks and nothing to publish: an approval or decision the
+// Catalog already has, e.g. a withdrawal and restore between two runs.
+test('marking runs whenever the sync left marks, and the commit names the changes', () => {
+  const workflow = fs.readFileSync(
+    path.join(__dirname, '../.github/workflows/sync_lyrics.yml'), 'utf8');
+  assert.match(workflow, /- name: Mark Lyrics Published\s+if: success\(\) && hashFiles\('publish_marks\.json'\) != ''/);
+  assert.match(workflow, /git add manifest\.json updates lyrics index\s+git commit -F commit_message\.txt/);
 });
 
 test('markPublished marks every submission the run published', async () => {
@@ -62,17 +74,6 @@ test('website withdrawals go out until published, and again after a change', () 
     { remoteId: 'never-published', updatedAt: 1000 },
     { remoteId: 'changed-since', updatedAt: 3000 }
   ]);
-});
-
-test('withdrawals alone make an update, merged with REMOVE_IDS', () => {
-  assert.deepEqual(
-    buildPayload([], [undefined, 'lyric-1', 'lyric-2'].join(' ')),
-    { items: [], removed: ['lyric-1', 'lyric-2'] }
-  );
-  assert.deepEqual(
-    buildPayload([], ['lyric-1, lyric-3', 'lyric-1'].join(' ')).removed,
-    ['lyric-1', 'lyric-3']
-  );
 });
 
 test('markPublished stamps each withdrawal with the updatedAt the run saw', async () => {

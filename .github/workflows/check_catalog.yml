@@ -1,0 +1,32 @@
+name: Check the Catalog
+
+# Every pull request: the tests, every lyric file against the record rules,
+# and no lyric file deleted (Withdrawals happen from the website's Owner panel).
+on:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+          cache: "npm"
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Run Tests
+        run: npm test
+
+      - name: Check Lyric Files
+        run: node scripts/catalog.js check origin/${{ github.base_ref }}

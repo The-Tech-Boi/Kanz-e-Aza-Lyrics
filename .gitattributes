@@ -1,3 +1,5 @@
-# Update files are hashed byte-for-byte; never convert line endings.
+# Update files are hashed byte-for-byte, and lyric files are compared by
+# their git tree; never convert line endings.
 updates/** -text
+lyrics/** -text
 test/fixtures/** -text

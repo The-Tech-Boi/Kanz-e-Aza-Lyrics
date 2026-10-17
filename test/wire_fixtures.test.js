@@ -1,15 +1,9 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const crypto = require('crypto');
 const fs = require('fs');
 const path = require('path');
 
-const {
-  applyUpdateToManifest,
-  buildPayload,
-  planUpdate,
-  publishedState
-} = require('../scripts/sync_firestore_to_github');
+const { catalogRepo, fakeDb, workflowRun } = require('./catalog_repo');
 
 // A copy of shared/catalog_updates in the RomanUrduLyricsApp repository, whose
 // tests apply the same files through the phone's and the website's readers.
@@ -22,28 +16,44 @@ const runs = JSON.parse(fs.readFileSync(path.join(fixtures, 'submissions.json'),
 const timestamp = iso => ({ toMillis: () => Date.parse(iso) });
 
 // Firestore before a run, as sync() reads it.
-const firestore = ({ approved, withdrawn }) => ({
-  submissions: Object.entries(approved).map(([id, data]) =>
-    ({ id, data: { ...data, approvedAt: timestamp(data.approvedAt) } })),
-  decisions: withdrawn.map(id =>
-    ({ id, data: { withdrawn: true, updatedAt: timestamp('2026-10-03T09:30:00Z') } }))
+const firestore = ({ approved, withdrawn }) => fakeDb({
+  submissions: Object.fromEntries(Object.entries(approved).map(([id, data]) =>
+    [id, { ...data, approvedAt: timestamp(data.approvedAt) }])),
+  catalogWithdrawals: Object.fromEntries(withdrawn.map(id =>
+    [id, { withdrawn: true, updatedAt: timestamp('2026-10-03T09:30:00Z') }]))
 });
 
-test('two runs write the shared update files and manifest byte for byte', () => {
-  const expected = read('manifest.json');
-  let manifest = { manifestVersion: 1, latestReleaseTag: '', updates: [] };
-  ['run1', 'run2'].forEach((run, i) => {
-    const { id, assetName, releaseTag } = JSON.parse(expected).updates[i];
-    const plan = planUpdate({ ...firestore(runs[run]), published: publishedState(manifest, legacy) });
-    // Serialized and hashed as sync() does.
-    const bytes = JSON.stringify(buildPayload(plan.items, plan.removed.join(' ')), null, 2) + '\n';
-    assert.equal(bytes, read(assetName), assetName);
-    manifest = applyUpdateToManifest(manifest, {
-      updateId: id,
-      updateFilename: assetName,
-      sha256: crypto.createHash('sha256').update(bytes).digest('hex'),
-      releaseTag
-    });
-  });
-  assert.equal(JSON.stringify(manifest, null, 2) + '\n', expected);
+// The bundled lyric run 2 withdraws: in the Catalog before run 1.
+const bundled = {
+  remoteId: 'base-withdrawn',
+  title: 'Bundled, later withdrawn',
+  body: 'Pehli line',
+  language: 'Roman Urdu',
+  categories: ['Nohay'],
+  anjumans: [],
+  verified: false
+};
+
+test('two runs write the shared update files and manifest byte for byte', async t => {
+  t.mock.method(console, 'log', () => {});
+  const expected = JSON.parse(read('manifest.json'));
+  const dir = catalogRepo([bundled]);
+  let now;
+  t.mock.method(Date, 'now', () => now);
+
+  for (const [i, run] of ['run1', 'run2'].entries()) {
+    const { id, assetName, releaseTag } = expected.updates[i];
+    now = Number(id.slice('update_'.length));
+    // Committed and marked as the workflow does; the fixture already holds
+    // Firestore as marking leaves it for run 2.
+    const published = await workflowRun(dir, firestore(runs[run]), releaseTag);
+    assert.equal(published.name, assetName);
+    assert.equal(published.text, read(assetName), assetName);
+  }
+
+  const manifest = JSON.parse(fs.readFileSync(path.join(dir, 'manifest.json'), 'utf8'));
+  // The tree of lyrics/ readers have now; the fixture predates it.
+  assert.match(manifest.catalogTree, /^[0-9a-f]{40}$/);
+  delete manifest.catalogTree;
+  assert.equal(JSON.stringify(manifest, null, 2) + '\n', read('manifest.json'));
 });
