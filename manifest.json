@@ -1,61 +1,7 @@
 {
   "manifestVersion": 1,
+  "contractVersion": "1.0.0",
   "latestReleaseTag": "v1.0.780-38974477182",
   "catalogTree": "fabcf713549f0fe4268ff2d144a1367cf1149858",
-  "updates": [
-    {
-      "id": "update_1781727036535",
-      "assetName": "update_1781727036535.json",
-      "sha256": "6ce09c646dd6e33d3aca7941869cc2f490f1c22dcd235b9420891f968227073f",
-      "releaseTag": "v1.0.307-27716657429"
-    },
-    {
-      "id": "update_1781777928860",
-      "assetName": "update_1781777928860.json",
-      "sha256": "374917ad882e87e7fa244e39d3a9c170f89820d8ac227157a95e1471faad75b9",
-      "releaseTag": "v1.0.309-27752760915"
-    },
-    {
-      "id": "update_1784228801017",
-      "assetName": "update_1784228801017.json",
-      "sha256": "007aeeaee9670049938f1deb1d96901e3d245d9eea74254e8cfca8a8b61809a5",
-      "releaseTag": "v1.0.423-29526682709"
-    },
-    {
-      "id": "update_1786300616996",
-      "assetName": "update_1786300616996.json",
-      "sha256": "18415abbb4a57748671955e1156f5ed30e4f883e909cb5762ce5186fe9ebac15",
-      "releaseTag": "v1.0.519-31329470409"
-    },
-    {
-      "id": "update_1786647603912",
-      "assetName": "update_1786647603912.json",
-      "sha256": "1817a34f45e22b76cde9083066a4d5792560254002ebb2fd33d49125800b44e2",
-      "releaseTag": "v1.0.535-31733600412"
-    },
-    {
-      "id": "update_1786818326861",
-      "assetName": "update_1786818326861.json",
-      "sha256": "37c47727ef2fd19201733ece91eaa3a93fa261e616916eebc9b7f1ecf33dd4df",
-      "releaseTag": "v1.0.543-31901072902"
-    },
-    {
-      "id": "update_1787509491652",
-      "assetName": "update_1787509491652.json",
-      "sha256": "ff06da3a7af467b21656870243df743cc91d5db1cfeb3a3b7591960a3c201ba7",
-      "releaseTag": "v1.0.575-32657943730"
-    },
-    {
-      "id": "update_1791778866672",
-      "assetName": "update_1791778866672.json",
-      "sha256": "c0a3c828e8f855c7acc0920561c1d29ca8c4ff6a8c876fefb5a10177415ebbec",
-      "releaseTag": "v1.0.756-38203405474"
-    },
-    {
-      "id": "update_1792188845367",
-      "assetName": "update_1792188845367.json",
-      "sha256": "ea153a8e2f57601dc82fddfeb700c312cb0af04095699e6d6ac1d93d812676b8",
-      "releaseTag": "v1.0.780-38974477182"
-    }
-  ]
+  "updates": []
 }
