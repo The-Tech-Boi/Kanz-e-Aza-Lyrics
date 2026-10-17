@@ -1,0 +1,19 @@
+{
+  "manifestVersion": 1,
+  "latestReleaseTag": "v1.0.2-test",
+  "updates": [
+    {
+      "id": "update_1790845200000",
+      "assetName": "update_1790845200000.json",
+      "sha256": "e341852e40aaf24ba6c51e73f71910b9470e3cf284b15b9a59cb020c1dc414f9",
+      "releaseTag": "v1.0.1-test"
+    },
+    {
+      "id": "update_1791018000000",
+      "assetName": "update_1791018000000.json",
+      "sha256": "9053c86114d82527ef8952321443815ac12753fb2fe58226b7de01db83cbef1e",
+      "releaseTag": "v1.0.2-test"
+    }
+  ],
+  "contractVersion": "1.0.0"
+}
