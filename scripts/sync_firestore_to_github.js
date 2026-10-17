@@ -326,8 +326,9 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
 
   console.log('Fetching approved lyrics from Firestore...');
   const docs = snapshot => snapshot.docs.map(doc => ({ id: doc.id, data: doc.data() }));
-  // The frequent run publishes only for an admin edit; once it does, everything
-  // waiting goes out with it. Readers' suggestions wait for the 6-hour run.
+  // A run the watchdog starts publishes only for an admin edit; once it does,
+  // everything waiting goes out with it. Readers' suggestions wait for the
+  // 6-hour run.
   // Only the unpublished submissions are read to decide, so a quiet run is cheap.
   if (process.env.ONLY_IF_ADMIN_EDIT === '1') {
     const waiting = docs(await db.collection('submissions')
@@ -444,6 +445,7 @@ module.exports = {
   getDb,
   getRequiredReleaseTag,
   hasAdminEdit,
+  isAdminEdit,
   loadManifest,
   markPublished,
   normalizeCategory,
