@@ -3,13 +3,19 @@ name: Sync Lyrics from Firestore
 on:
   schedule:
     - cron: "0 */6 * * *" # Run every 6 hours
-    - cron: "*/15 * * * *" # Publish only when an admin edit is waiting
   # The Owner's merged pull request to lyrics/ is published at once. The
   # sync's own commits push with the workflow token, which starts no run.
   push:
     branches: [main]
     paths: ["lyrics/**"]
-  workflow_dispatch: # Allow manual trigger
+  # Manual runs, and the watchdog's (scripts/admin_edit_watchdog.js) when an
+  # Admin's own edit is approved.
+  workflow_dispatch:
+    inputs:
+      only_if_admin_edit:
+        description: Publish only if an Admin's own edit is waiting
+        type: boolean
+        default: false
 
 # Runs never overlap: each one publishes, then marks what it published.
 concurrency:
@@ -46,7 +52,7 @@ jobs:
       - name: Run Sync Script
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-          ONLY_IF_ADMIN_EDIT: ${{ github.event.schedule == '*/15 * * * *' && '1' || '' }}
+          ONLY_IF_ADMIN_EDIT: ${{ inputs.only_if_admin_edit && '1' || '' }}
         run: node scripts/sync_firestore_to_github.js
 
       - name: Validate Generated Manifest

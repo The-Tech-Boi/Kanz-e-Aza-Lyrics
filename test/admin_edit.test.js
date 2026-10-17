@@ -30,11 +30,11 @@ test('no documents is no admin edit', () => {
   assert.equal(hasAdminEdit([]), false);
 });
 
-test('only the 15-minute schedule asks for the admin edit check, and runs never overlap', () => {
+test('only the watchdog\'s dispatch input asks for the admin edit check, and runs never overlap', () => {
   const workflow = fs.readFileSync(
     path.join(__dirname, '../.github/workflows/sync_lyrics.yml'), 'utf8');
-  assert.match(workflow, /- cron: "0 \*\/6 \* \* \*"/);
-  assert.match(workflow, /- cron: "\*\/15 \* \* \* \*"/);
-  assert.match(workflow, /ONLY_IF_ADMIN_EDIT: \$\{\{ github\.event\.schedule == '\*\/15 \* \* \* \*' && '1' \|\| '' \}\}/);
+  assert.deepEqual(workflow.match(/- cron: ".*"/g), ['- cron: "0 */6 * * *"']);
+  assert.match(workflow, /only_if_admin_edit:\s+description: .*\s+type: boolean\s+default: false/);
+  assert.match(workflow, /ONLY_IF_ADMIN_EDIT: \$\{\{ inputs\.only_if_admin_edit && '1' \|\| '' \}\}/);
   assert.match(workflow, /concurrency:\s+group: sync-lyrics\s+cancel-in-progress: false/);
 });
