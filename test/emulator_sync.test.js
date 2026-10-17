@@ -1,6 +1,6 @@
 // The real sync script against the Firestore emulator, run the way the
-// workflow runs it: sync, then --mark-published, with manifest.json kept
-// between runs. Each test checks the update files a website submission,
+// workflow runs it: sync, commit the Catalog and the update, then
+// --mark-published. Each test checks the update files a website submission,
 // revision, Verify change or Owner withdrawal or restore turns into.
 //
 //   firebase emulators:exec --only firestore --project demo-kanz-e-aza "npm test"
@@ -14,14 +14,15 @@ const test = require('node:test');
 const assert = require('node:assert/strict');
 const crypto = require('crypto');
 const fs = require('fs');
-const os = require('os');
 const path = require('path');
 const { spawnSync } = require('child_process');
+
+const catalog = require('../scripts/catalog');
+const { catalogRepo, commit, git } = require('./catalog_repo');
 
 const host = process.env.FIRESTORE_EMULATOR_HOST;
 const projectId = 'demo-kanz-e-aza';
 const skip = host ? false : 'needs FIRESTORE_EMULATOR_HOST (Firestore emulator)';
-const script = path.join(__dirname, '../scripts/sync_firestore_to_github.js');
 
 let db;
 let Timestamp;
@@ -57,65 +58,74 @@ async function clearFirestore() {
   assert.ok(res.ok, `clearing the emulator: ${res.status}`);
 }
 
-// A checkout of this repository: the script, and manifest.json and updates/
-// once a run has committed them. `base` is the base catalog snapshot the
-// sync reads a restored lyric from (BASE_CATALOG), kept outside the checkout
-// like the release asset it stands for.
-function checkout({ base = [] } = {}) {
-  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'kanz-sync-'));
-  fs.mkdirSync(path.join(dir, 'scripts'));
-  fs.mkdirSync(path.join(dir, 'updates'));
-  fs.copyFileSync(script, path.join(dir, 'scripts', 'sync_firestore_to_github.js'));
-  const baseCatalog = path.join(fs.mkdtempSync(path.join(os.tmpdir(), 'kanz-base-')), 'lyrics.json');
-  fs.writeFileSync(baseCatalog, JSON.stringify({ items: base }));
-  return { dir, baseCatalog, runs: 0, published: [] };
-}
+// A lyric every reader already has, so lyrics/ is never empty.
+const alreadyPublished = {
+  remoteId: 'base-1',
+  title: 'Already published',
+  body: 'Pehli line',
+  language: 'Roman Urdu',
+  categories: ['Nohay'],
+  anjumans: [],
+  verified: false
+};
+
+// A git checkout of this repository whose Catalog holds `lyrics`, which
+// readers already have; each run commits to it as the workflow does.
+const checkout = ({ lyrics = [] } = {}) =>
+  ({ dir: catalogRepo([alreadyPublished, ...lyrics]), runs: 0, published: [] });
+
+const lyricFile = (repo, remoteId) => path.join(repo.dir, catalog.lyricPath(remoteId));
 
 function node(repo, args) {
   const env = { ...process.env };
   delete env.GOOGLE_APPLICATION_CREDENTIALS;
-  delete env.REMOVE_IDS;
+  delete env.ONLY_IF_ADMIN_EDIT;
   Object.assign(env, {
-    BASE_CATALOG: repo.baseCatalog,
     FIRESTORE_EMULATOR_HOST: host,
     FIREBASE_SERVICE_ACCOUNT: serviceAccount,
     RELEASE_TAG: `v1.0.${repo.runs}-test`,
-    NODE_PATH: path.join(__dirname, '../node_modules')
+    NODE_PATH: [path.join(__dirname, '../node_modules'), process.env.NODE_PATH]
+      .filter(Boolean).join(path.delimiter)
   });
   const result = spawnSync(process.execPath, args, { cwd: repo.dir, env, encoding: 'utf8' });
   assert.equal(result.status, 0, `${args.join(' ')}\n${result.stdout}\n${result.stderr}`);
   return result;
 }
 
-// One workflow run: a clean output/, sync, commit the update file to
-// updates/ (as "Commit Updated Manifest" does), then, as the last step, mark.
+// One workflow run: a clean output/, sync, commit lyrics/, index/, the
+// manifest and the update file (as "Commit the Catalog and the Update"
+// does), then, as the last step, mark whatever the sync left marks for.
 // Returns the update file it published, or null.
 function workflowRun(repo, { mark = true } = {}) {
   repo.runs++;
-  fs.rmSync(path.join(repo.dir, 'output'), { recursive: true, force: true });
-  fs.rmSync(path.join(repo.dir, 'publish_marks.json'), { force: true });
+  for (const leftover of ['output', 'publish_marks.json', 'commit_message.txt']) {
+    fs.rmSync(path.join(repo.dir, leftover), { recursive: true, force: true });
+  }
   const { stdout, stderr } = node(repo, ['scripts/sync_firestore_to_github.js']);
+  const marksFile = path.join(repo.dir, 'publish_marks.json');
+  const marks = fs.existsSync(marksFile) ? JSON.parse(fs.readFileSync(marksFile, 'utf8')) : null;
+  let run = { stdout, stderr, marks, update: null };
   const output = path.join(repo.dir, 'output');
-  const names = fs.existsSync(output)
-    ? fs.readdirSync(output).filter(name => name.startsWith('update_'))
-    : [];
-  if (!names.length) return { stdout, stderr, update: null };
-  assert.equal(names.length, 1);
-  fs.copyFileSync(path.join(output, names[0]), path.join(repo.dir, 'updates', names[0]));
-  const bytes = fs.readFileSync(path.join(output, names[0]));
-  const manifest = JSON.parse(fs.readFileSync(path.join(output, 'manifest.json'), 'utf8'));
-  const run = {
-    stdout,
-    stderr,
-    name: names[0],
-    bytes,
-    text: bytes.toString('utf8'),
-    update: JSON.parse(bytes.toString('utf8')),
-    manifest,
-    marks: JSON.parse(fs.readFileSync(path.join(repo.dir, 'publish_marks.json'), 'utf8'))
-  };
-  repo.published.push(run.update);
-  if (mark) node(repo, ['scripts/sync_firestore_to_github.js', '--mark-published', 'publish_marks.json']);
+  if (fs.existsSync(output)) {
+    const names = fs.readdirSync(output).filter(name => name.startsWith('update_'));
+    assert.equal(names.length, 1);
+    const bytes = fs.readFileSync(path.join(output, names[0]));
+    fs.mkdirSync(path.join(repo.dir, 'updates'), { recursive: true });
+    fs.copyFileSync(path.join(output, names[0]), path.join(repo.dir, 'updates', names[0]));
+    git(repo.dir, 'add', 'manifest.json', 'updates', 'lyrics', 'index');
+    git(repo.dir, 'commit', '-q', '-F', 'commit_message.txt');
+    run = {
+      ...run,
+      name: names[0],
+      bytes,
+      text: bytes.toString('utf8'),
+      update: JSON.parse(bytes.toString('utf8')),
+      manifest: JSON.parse(fs.readFileSync(path.join(output, 'manifest.json'), 'utf8')),
+      message: git(repo.dir, 'log', '-1', '--format=%B')
+    };
+    repo.published.push(run.update);
+  }
+  if (mark && marks) node(repo, ['scripts/sync_firestore_to_github.js', '--mark-published', 'publish_marks.json']);
   return run;
 }
 
@@ -189,6 +199,21 @@ const withdrawal = (remoteId, withdrawn, ms) =>
     updatedAt: at(ms)
   });
 
+// A bundled lyric as its Catalog file holds it.
+const bundled = {
+  remoteId: 'base-7',
+  title: 'Bundled',
+  body: 'Pehli line\n<<DIVIDER>>\nDoosri line',
+  language: 'Roman Urdu',
+  categories: ['Manqabat'],
+  subcategory: 'Qataat',
+  group: 2007,
+  anjumans: [],
+  verified: false
+};
+// The same lyric as readers had it before any update.
+const bundledItem = { remoteId: 'base-7', title: 'Bundled' };
+
 test.beforeEach(async () => {
   if (host) await clearFirestore();
 });
@@ -232,8 +257,11 @@ test('an approved website lyric is published with its metadata, then marked', { 
   assert.equal(entry.releaseTag, 'v1.0.1-test');
   assert.equal(run.manifest.latestReleaseTag, 'v1.0.1-test');
   assert.equal(entry.sha256, crypto.createHash('sha256').update(run.bytes).digest('hex'));
+  assert.equal(run.manifest.catalogTree, catalog.treeAt('HEAD', repo.dir));
   assert.deepEqual(run.marks, { submissions: ['web-1'], withdrawals: [] });
   assert.ok(!fs.existsSync(path.join(repo.dir, 'output', 'publish_marks.json')));
+  assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- یا عباس: new');
+  assert.equal(JSON.parse(fs.readFileSync(lyricFile(repo, 'web-1'), 'utf8')).language, 'Urdu');
   // Nothing is marked until the last workflow step.
   assert.equal((await read('web-1')).published, false);
 
@@ -246,10 +274,10 @@ test('an approved website lyric is published with its metadata, then marked', { 
 
   const again = workflowRun(repo);
   assert.equal(again.update, null);
-  assert.match(again.stdout, /No new approved lyrics or removals to sync/);
+  assert.match(again.stdout, /No lyric changed since the last update/);
 });
 
-test('the update file carries no contributor or review fields', { skip }, async () => {
+test('the update file, lyric file and commit carry no contributor or review fields', { skip }, async () => {
   const repo = checkout();
   await put('web-2', websiteSubmission('web-2', {
     ...approval(2000, 'admin-7f3a'),
@@ -268,11 +296,14 @@ test('the update file carries no contributor or review fields', { skip }, async 
     'author', 'body', 'categories', 'category', 'group', 'isVerified',
     'language', 'remoteId', 'source', 'subcategory', 'title'
   ]);
+  const file = fs.readFileSync(lyricFile(repo, 'web-2'), 'utf8');
   for (const secret of [
     'contributor-9c1e', 'admin-7f3a', 'terms-2026-07', 'poet@example.com',
     'device-55aa', 'checked by phone', 'ownerUid', 'termsVersion', '@'
   ]) {
     assert.ok(!run.text.includes(secret), `update file contains ${secret}`);
+    assert.ok(!file.includes(secret), `lyric file contains ${secret}`);
+    assert.ok(!run.message.includes(secret), `commit message contains ${secret}`);
   }
 });
 
@@ -305,14 +336,15 @@ test('a revision replaces the published lyric instead of adding one', { skip }, 
   assert.deepEqual(run.update.items.map(i => [i.remoteId, i.title, i.body]), [
     ['lyric-1', 'Original (corrected)', 'Corrected line']
   ]);
+  assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- Original (corrected): suggested edit');
   assert.equal((await read('rev-1')).published, true);
-  const catalog = catalogAfter(repo);
-  assert.deepEqual([...catalog.keys()], ['lyric-1']);
-  assert.equal(catalog.get('lyric-1').title, 'Original (corrected)');
+  const catalogNow = catalogAfter(repo);
+  assert.deepEqual([...catalogNow.keys()], ['lyric-1']);
+  assert.equal(catalogNow.get('lyric-1').title, 'Original (corrected)');
 });
 
 test('two approved revisions of one lyric: the newest approval wins, both are marked', { skip }, async () => {
-  const repo = checkout();
+  const repo = checkout({ lyrics: [bundled] });
   // Created in the opposite order to their approval.
   await put('rev-b', websiteSubmission('rev-b', {
     title: 'Approved first',
@@ -345,7 +377,7 @@ test('a lyric rejected after approval, before the run, is not published', { skip
 });
 
 test('an Owner withdrawal is published once and not sent again', { skip }, async () => {
-  const repo = checkout();
+  const repo = checkout({ lyrics: [bundled] });
   await withdrawal('base-7', true, 4000);
   await put('web-5', websiteSubmission('web-5', { title: 'Same run', ...approval(2000) }));
 
@@ -353,33 +385,20 @@ test('an Owner withdrawal is published once and not sent again', { skip }, async
 
   assert.deepEqual(run.update.removed, ['base-7']);
   assert.deepEqual(run.update.items.map(i => i.remoteId), ['web-5']);
+  assert.ok(!fs.existsSync(lyricFile(repo, 'base-7')));
   assert.deepEqual(run.marks.withdrawals, [{ remoteId: 'base-7', updatedAt: 4000 }]);
-  const marked = (await db.collection('catalogWithdrawals').doc('base-7').get()).data();
+  const marked = await decisionDoc('base-7');
   assert.equal(marked.publishedAt.toMillis(), 4000);
   assert.equal(marked.withdrawn, true);
-  assert.ok(!catalogAfter(repo, { 'base-7': { title: 'Bundled' } }).has('base-7'));
+  assert.ok(!catalogAfter(repo, { 'base-7': bundledItem }).has('base-7'));
 
   const again = workflowRun(repo);
   assert.equal(again.update, null);
 });
 
-// A base catalog entry as the snapshot's lyrics.json holds it.
-const bundled = {
-  remoteId: 'base-7',
-  isVerified: false,
-  title: 'Bundled',
-  body: 'Pehli line\n<<DIVIDER>>\nDoosri line',
-  category: 'Manqabat',
-  subcategory: 'Qataat',
-  group: '2007',
-  createdBy: 'publisher_tool',
-  source: 'local',
-  pageTitle: 'Page 12'
-};
-
-test('an Owner restore brings the lyric back', { skip }, async () => {
-  const repo = checkout({ base: [bundled] });
-  const base = { 'base-7': bundled };
+test('an Owner restore brings the lyric back from git history', { skip }, async () => {
+  const repo = checkout({ lyrics: [bundled] });
+  const base = { 'base-7': bundledItem };
   // A phone with the base catalog that applies each update as it comes.
   const phone = new Map(Object.entries(base));
   await withdrawal('base-7', true, 4000);
@@ -391,19 +410,23 @@ test('an Owner restore brings the lyric back', { skip }, async () => {
   const run = workflowRun(repo);
 
   assert.notEqual(run.update, null, 'the restore published nothing');
-  // The base catalog entry, in the update format, without its tool fields.
+  // The file as it was before the withdrawal, in the update format.
+  assert.equal(fs.readFileSync(lyricFile(repo, 'base-7'), 'utf8'), catalog.serialize(bundled));
   assert.deepEqual(run.update, {
     items: [{
       remoteId: 'base-7',
       title: 'Bundled',
       body: 'Pehli line\n<<DIVIDER>>\nDoosri line',
       category: 'Manqabat',
+      categories: ['Manqabat'],
       subcategory: 'Qataat',
-      group: '2007',
+      group: 2007,
       isVerified: false,
-      source: 'local'
+      source: 'firestore',
+      language: 'Roman Urdu'
     }]
   });
+  assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- Bundled: restore');
   assert.deepEqual(run.marks, { submissions: [], withdrawals: [{ remoteId: 'base-7', updatedAt: 6000 }] });
   apply(phone, run.update);
   assert.equal(phone.get('base-7').title, 'Bundled');
@@ -450,37 +473,38 @@ test('a restore sends the newest approved text, with the revision held while wit
   assert.equal(workflowRun(repo).update, null);
 });
 
-test('a lyric withdrawn and restored between runs publishes nothing', { skip }, async () => {
+test('a lyric withdrawn and restored between runs publishes nothing, and both are marked', { skip }, async () => {
   const repo = checkout();
   await put('lyric-1', websiteSubmission('lyric-1', { title: 'Original', ...approval(2000) }));
   workflowRun(repo);
   await withdrawal('lyric-1', true, 4000);
   await withdrawal('lyric-1', false, 5000);
 
-  assert.equal(workflowRun(repo).update, null);
+  const run = workflowRun(repo);
+  assert.equal(run.update, null);
+  assert.deepEqual(run.marks.withdrawals, [{ remoteId: 'lyric-1', updatedAt: 5000 }]);
+  assert.equal((await decisionDoc('lyric-1')).publishedAt.toMillis(), 5000);
   assert.equal(catalogAfter(repo).get('lyric-1').title, 'Original');
 });
 
 test('a restore the sync cannot find stays pending until it can', { skip }, async () => {
   const repo = checkout();
+  // Withdrawn before the Catalog ever had it: nothing to delete, still marked.
   await withdrawal('base-7', true, 4000);
-  workflowRun(repo);
+  assert.equal(workflowRun(repo).update, null);
+  assert.equal((await decisionDoc('base-7')).publishedAt.toMillis(), 4000);
   await withdrawal('base-7', false, 6000);
 
-  // Not in Firestore, the published updates or the base catalog snapshot.
+  // Not in Firestore, the Catalog or its history.
   const held = workflowRun(repo);
   assert.equal(held.update, null);
+  assert.equal(held.marks, null);
   assert.match(held.stderr, /Restore of base-7 not published/);
   assert.equal((await decisionDoc('base-7')).publishedAt, undefined);
 
-  // The snapshot can't be read at all.
-  repo.baseCatalog = path.join(repo.dir, 'no-such-snapshot.json');
-  const unreadable = workflowRun(repo);
-  assert.equal(unreadable.update, null);
-  assert.match(unreadable.stderr, /Could not read the base catalog/);
-
-  // A snapshot that has it.
-  repo.baseCatalog = checkout({ base: [bundled] }).baseCatalog;
+  // The Owner adds its file.
+  catalog.writeLyric(bundled, repo.dir);
+  commit(repo.dir, 'Add base-7');
   const run = workflowRun(repo);
   assert.deepEqual(run.update.items.map(i => i.remoteId), ['base-7']);
   assert.equal((await decisionDoc('base-7')).publishedAt.toMillis(), 6000);
@@ -506,7 +530,8 @@ test('a revision approved after a withdrawal does not bring the lyric back', { s
   const run = workflowRun(repo);
 
   assert.equal(run.update, null, 'the held revision was published');
-  assert.ok(!catalogAfter(repo).has('lyric-1'), 'the withdrawn lyric is back in the catalog');
+  assert.ok(!fs.existsSync(lyricFile(repo, 'lyric-1')), 'the withdrawn lyric is back in the Catalog');
+  assert.ok(!catalogAfter(repo).has('lyric-1'), 'the withdrawn lyric is back for readers');
   assert.equal((await read('rev-1')).published, false, 'the held revision was marked published');
 });
 
@@ -531,7 +556,8 @@ test('verifying a published lyric reaches the catalog', { skip }, async () => {
   assert.deepEqual(run.update.items.map(i => [i.remoteId, i.title, i.isVerified]), [
     ['web-6', 'Ya Abbas', true]
   ]);
-  assert.deepEqual(run.marks, { submissions: [], withdrawals: [] });
+  assert.equal(run.marks, null);
+  assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- Ya Abbas: verified');
   assert.equal(catalogAfter(repo).get('web-6').isVerified, true);
   assert.equal(workflowRun(repo).update, null);
 
@@ -580,7 +606,9 @@ test('a Verify change on a withdrawn lyric waits for the restore', { skip }, asy
   assert.ok(!catalogAfter(repo).has('web-6'));
 
   await withdrawal('web-6', false, 5000);
-  const run = workflowRun(repo);
-  assert.deepEqual(run.update.items.map(i => [i.remoteId, i.isVerified]), [['web-6', true]]);
+  assert.deepEqual(workflowRun(repo).update.items.map(i => i.remoteId), ['web-6']);
+  // The restore brings back the file as it was; the flag follows by the
+  // next run at the latest.
+  workflowRun(repo);
   assert.equal(catalogAfter(repo).get('web-6').isVerified, true);
 });

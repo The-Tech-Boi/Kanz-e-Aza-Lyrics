@@ -1,0 +1,393 @@
+{
+  "taxonomyVersion": "1.0.0",
+  "description": "Ordered stable browse-subject taxonomy. The base order applies to every canonical category; ordered additions are the only category exceptions.",
+  "baseAppliesToAllCanonicalCategories": true,
+  "legacyAliasMatching": "trim-and-case-fold",
+  "baseSubjects": [
+    "Rasool-e-Khuda (s.a.w.s)",
+    "Shehzadi Fatima (s.a)",
+    "Hazrat Ali (a.s)",
+    "Imam Hassan (a.s)",
+    "Hazrat Muslim (a.s)",
+    "Pisaraan-e-Muslim (a.s)",
+    "Safar e Imam Hussain",
+    "Aon o Mohd (a.s)",
+    "Qasim (a.s)",
+    "Hazrat Abbas (a.s)",
+    "Ali Akbar (a.s)",
+    "Ali Asghar (a.s)",
+    "Imam Hussain (a.s)",
+    "Shehzadi Sakina (s.a)",
+    "Zain-ul-Abedeen (a.s)",
+    "Imam Raza (a.s)",
+    "Shehzadi Zainab (s.a)",
+    "Imam Mohd Baqar (a.s)",
+    "Imam Jaffer e Sadiq (a.s)",
+    "Hasan e Askary (a.s)",
+    "Umme Kulsoom (s.a)"
+  ],
+  "categoryExceptions": {
+    "Nohay": {
+      "additionalSubjects": [
+        {
+          "value": "Ibteda-e-Aza",
+          "insertAfter": "Imam Hassan (a.s)"
+        },
+        {
+          "value": "Shehzadi Sugra (s.a)",
+          "insertAfter": "Shehzadi Sakina (s.a)"
+        },
+        {
+          "value": "Shaam e Ghareeba",
+          "insertAfter": "Imam Hussain (a.s)"
+        },
+        {
+          "value": "Darbaar e Shaam",
+          "insertAfter": "Zain-ul-Abedeen (a.s)"
+        },
+        {
+          "value": "Arbayeen",
+          "insertAfter": "Shehzadi Zainab (s.a)"
+        },
+        {
+          "value": "Wapasi-e-Ahle Haram",
+          "insertAfter": "Arbayeen"
+        },
+        {
+          "value": "Alvida",
+          "insertAfter": "Wapasi-e-Ahle Haram"
+        },
+        {
+          "value": "Musa Kazim (a.s)",
+          "insertAfter": "Imam Jaffer e Sadiq (a.s)"
+        },
+        {
+          "value": "Mohd Taqi (a.s)",
+          "insertAfter": "Musa Kazim (a.s)"
+        },
+        {
+          "value": "Ali un Naqi (a.s)",
+          "insertAfter": "Mohd Taqi (a.s)"
+        },
+        {
+          "value": "Inhedaam e Jannat ul Baqee",
+          "insertAfter": "Hasan e Askary (a.s)"
+        },
+        {
+          "value": "Ummul Baneen (s.a)",
+          "insertAfter": "Umme Kulsoom (s.a)"
+        }
+      ]
+    },
+    "Manqabat": {
+      "additionalSubjects": []
+    },
+    "Salaams": {
+      "additionalSubjects": [
+        {
+          "value": "Ibtedaye Ayyam e Aza",
+          "insertAfter": "Safar e Imam Hussain"
+        },
+        {
+          "value": "Arbayeen - Wapasi",
+          "insertAfter": "Shehzadi Zainab (s.a)"
+        },
+        {
+          "value": "Widaye Ayyam e Aza",
+          "insertAfter": "Arbayeen - Wapasi"
+        }
+      ]
+    },
+    "Marsiya": {
+      "additionalSubjects": [
+        {
+          "value": "Warid-e-Karbala",
+          "insertAfter": "Safar e Imam Hussain"
+        },
+        {
+          "value": "Hazrat Hur (a.s)",
+          "insertAfter": "Warid-e-Karbala"
+        },
+        {
+          "value": "Shaam e Ghareeba",
+          "insertAfter": "Imam Hussain (a.s)"
+        },
+        {
+          "value": "Safar e Kufa",
+          "insertAfter": "Shaam e Ghareeba"
+        },
+        {
+          "value": "Darbaar e Shaam",
+          "insertAfter": "Zain-ul-Abedeen (a.s)"
+        },
+        {
+          "value": "Arbayeen",
+          "insertAfter": "Shehzadi Zainab (s.a)"
+        },
+        {
+          "value": "Wapasi-e-Ahle Haram",
+          "insertAfter": "Arbayeen"
+        },
+        {
+          "value": "Widaye Ayyam e Aza",
+          "insertAfter": "Wapasi-e-Ahle Haram"
+        },
+        {
+          "value": "Musa Kazim (a.s)",
+          "insertAfter": "Imam Jaffer e Sadiq (a.s)"
+        },
+        {
+          "value": "Mohd Taqi (a.s)",
+          "insertAfter": "Musa Kazim (a.s)"
+        },
+        {
+          "value": "Ali un Naqi (a.s)",
+          "insertAfter": "Mohd Taqi (a.s)"
+        },
+        {
+          "value": "Inhedaam e Jannat ul Baqee",
+          "insertAfter": "Hasan e Askary (a.s)"
+        },
+        {
+          "value": "Ummul Baneen (s.a)",
+          "insertAfter": "Umme Kulsoom (s.a)"
+        },
+        {
+          "value": "Binte Asad (a.s)",
+          "insertAfter": "Ummul Baneen (s.a)"
+        }
+      ]
+    },
+    "Munajat": {
+      "additionalSubjects": []
+    },
+    "Qasida": {
+      "additionalSubjects": []
+    }
+  },
+  "legacyAliases": {
+    "categories": [
+      {
+        "input": "Noha",
+        "target": "Nohay"
+      },
+      {
+        "input": "Nouha",
+        "target": "Nohay"
+      },
+      {
+        "input": "Salaam",
+        "target": "Salaams"
+      },
+      {
+        "input": "Marsia",
+        "target": "Marsiya"
+      },
+      {
+        "input": "Urdu Marsiyas",
+        "target": {
+          "categories": [
+            "Marsiya"
+          ],
+          "language": "Urdu"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "input": "General",
+        "target": null,
+        "categories": "all"
+      },
+      {
+        "input": "Shehzada Ali Akbar (a.s)",
+        "target": "Ali Akbar (a.s)",
+        "categories": [
+          "Nohay",
+          "Salaams",
+          "Marsiya"
+        ]
+      },
+      {
+        "input": "Shehzada Ali Asghar (a.s)",
+        "target": "Ali Asghar (a.s)",
+        "categories": [
+          "Nohay",
+          "Salaams",
+          "Marsiya"
+        ]
+      },
+      {
+        "input": "Pisaraane Muslim a.s",
+        "target": "Pisaraan-e-Muslim (a.s)",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Shahzade Qasim (a.s)",
+        "target": "Qasim (a.s)",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Shehzada Qasim (a.s)",
+        "target": "Qasim (a.s)",
+        "categories": [
+          "Nohay",
+          "Salaams",
+          "Marsiya"
+        ]
+      },
+      {
+        "input": "Shahzadi Fatima (sa)",
+        "target": "Shehzadi Fatima (s.a)",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Shahzadi Sakina (sa)",
+        "target": "Shehzadi Sakina (s.a)",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Shahzadi Zainab (sa)",
+        "target": "Shehzadi Zainab (s.a)",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Shahzadi Ummul Baneen (sa)",
+        "target": "Ummul Baneen (s.a)",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Moula Abbas (a.s)",
+        "target": "Hazrat Abbas (a.s)",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Saqqae Haram",
+        "target": "Hazrat Abbas (a.s)",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Safar-e-Imam Hussain (a.s)",
+        "target": "Safar e Imam Hussain",
+        "categories": [
+          "Salaams",
+          "Marsiya"
+        ]
+      },
+      {
+        "input": "Safar e Karbala",
+        "target": "Safar e Imam Hussain",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Shaam-e-Ghareeba'n",
+        "target": "Shaam e Ghareeba",
+        "categories": [
+          "Marsiya"
+        ]
+      },
+      {
+        "input": "Darbaar",
+        "target": "Darbaar e Shaam",
+        "categories": [
+          "Nohay",
+          "Marsiya"
+        ]
+      },
+      {
+        "input": "Shaam",
+        "target": "Darbaar e Shaam",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Alweda",
+        "target": "Alvida",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Widaye Ayyam e Aza",
+        "target": "Alvida",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Chehlum and Waapsi",
+        "target": "Arbayeen",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Shahzadi Sugra (s.a)",
+        "target": "Shehzadi Sugra (s.a)",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Imam Ali (a.s)",
+        "target": "Hazrat Ali (a.s)",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Imam Ali (as)",
+        "target": "Hazrat Ali (a.s)",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Moula Sajjad (a.s)",
+        "target": "Zain-ul-Abedeen (a.s)",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Wapasi",
+        "target": "Wapasi-e-Ahle Haram",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Rehaayi o Arbayeen",
+        "target": "Wapasi-e-Ahle Haram",
+        "categories": [
+          "Nohay"
+        ]
+      }
+    ]
+  },
+  "unsafeValues": [],
+  "consumerRules": {
+    "legacyAliasesAreInputOnly": true,
+    "unsafeValuesRequireManualReview": true,
+    "omitConfiguredValuesWithZeroMatchingLyricsFromBrowseResults": true
+  }
+}

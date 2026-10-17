@@ -4,12 +4,12 @@ on:
   schedule:
     - cron: "0 */6 * * *" # Run every 6 hours
     - cron: "*/15 * * * *" # Publish only when an admin edit is waiting
+  # The Owner's merged pull request to lyrics/ is published at once. The
+  # sync's own commits push with the workflow token, which starts no run.
+  push:
+    branches: [main]
+    paths: ["lyrics/**"]
   workflow_dispatch: # Allow manual trigger
-    inputs:
-      remove_ids:
-        description: "remoteIds to remove from phones (comma or space separated)"
-        required: false
-        default: ""
 
 # Runs never overlap: each one publishes, then marks what it published.
 concurrency:
@@ -26,6 +26,10 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          # The whole history: the run compares lyrics/ with the tree the
+          # manifest names, and a restore reads a deleted file's last version.
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -42,7 +46,6 @@ jobs:
       - name: Run Sync Script
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
-          REMOVE_IDS: ${{ inputs.remove_ids }}
           ONLY_IF_ADMIN_EDIT: ${{ github.event.schedule == '*/15 * * * *' && '1' || '' }}
         run: node scripts/sync_firestore_to_github.js
 
@@ -62,25 +65,21 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Commit Updated Manifest
+      - name: Commit the Catalog and the Update
         if: success() && hashFiles('output/manifest.json') != ''
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
-          if [ -f manifest.json ]; then
-            # The website reads updates from the repo; browsers can't download release assets.
-            mkdir -p updates
-            cp output/update_*.json updates/
-            git add manifest.json updates
-            git commit -m "Update manifest.json [skip ci]" || echo "No changes to commit"
-            git push
-          else
-            echo "manifest.json not found, skipping commit."
-          fi
+          # The website reads updates from the repo; browsers can't download release assets.
+          mkdir -p updates
+          cp output/update_*.json updates/
+          git add manifest.json updates lyrics index
+          git commit -F commit_message.txt
+          git push
 
       # Last, so a failed release or commit leaves the lyrics unpublished for the next run.
       - name: Mark Lyrics Published
-        if: success() && hashFiles('output/manifest.json') != ''
+        if: success() && hashFiles('publish_marks.json') != ''
         env:
           FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
         run: node scripts/sync_firestore_to_github.js --mark-published publish_marks.json
