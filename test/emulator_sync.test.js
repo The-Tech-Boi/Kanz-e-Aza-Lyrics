@@ -258,7 +258,7 @@ test('an approved website lyric is published with its metadata, then marked', { 
   assert.equal(run.manifest.latestReleaseTag, 'v1.0.1-test');
   assert.equal(entry.sha256, crypto.createHash('sha256').update(run.bytes).digest('hex'));
   assert.equal(run.manifest.catalogTree, catalog.treeAt('HEAD', repo.dir));
-  assert.deepEqual(run.marks, { submissions: ['web-1'], withdrawals: [] });
+  assert.deepEqual(run.marks, { submissions: ['web-1'], withdrawals: [], verifications: [] });
   assert.ok(!fs.existsSync(path.join(repo.dir, 'output', 'publish_marks.json')));
   assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- یا عباس: new');
   assert.equal(JSON.parse(fs.readFileSync(lyricFile(repo, 'web-1'), 'utf8')).language, 'Urdu');
@@ -427,7 +427,7 @@ test('an Owner restore brings the lyric back from git history', { skip }, async 
     }]
   });
   assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- Bundled: restore');
-  assert.deepEqual(run.marks, { submissions: [], withdrawals: [{ remoteId: 'base-7', updatedAt: 6000 }] });
+  assert.deepEqual(run.marks, { submissions: [], withdrawals: [{ remoteId: 'base-7', updatedAt: 6000 }], verifications: [] });
   apply(phone, run.update);
   assert.equal(phone.get('base-7').title, 'Bundled');
   assert.equal(catalogAfter(repo, base).get('base-7').title, 'Bundled');
@@ -466,7 +466,8 @@ test('a restore sends the newest approved text, with the revision held while wit
   assert.ok(!('removed' in run.update));
   assert.deepEqual(run.marks, {
     submissions: ['rev-1'],
-    withdrawals: [{ remoteId: 'lyric-1', updatedAt: 6000 }]
+    withdrawals: [{ remoteId: 'lyric-1', updatedAt: 6000 }],
+    verifications: []
   });
   assert.equal((await read('rev-1')).published, true);
   assert.equal(catalogAfter(repo).get('lyric-1').title, 'Revised');
