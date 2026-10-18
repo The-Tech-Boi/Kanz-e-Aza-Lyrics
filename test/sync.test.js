@@ -66,7 +66,7 @@ test('an approved Revision Submission changes only its lyric\'s file', async t =
   assert.deepEqual(JSON.parse(fileOf(dir, 'lyric-a1')), lyric('lyric-a1', { title: 'Corrected title' }));
   assert.equal(fileOf(dir, 'lyric-b2'), before);
   assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- Corrected title: suggested edit');
-  assert.deepEqual(run.marks, { submissions: ['rev-7f3a'], withdrawals: [] });
+  assert.deepEqual(run.marks, { submissions: ['rev-7f3a'], withdrawals: [], verifications: [] });
   assert.equal(firestore.submissions['rev-7f3a'].published, true);
   // The manifest names the tree readers have now.
   assert.equal(run.manifest.catalogTree, catalog.treeAt('HEAD', dir));
@@ -116,7 +116,7 @@ test('a Withdrawal deletes the file; a restore with no approval brings back its 
   assert.ok(!exists(dir, catalog.lyricPath('lyric-b2')));
   assert.deepEqual(withdrawal.update, { items: [], removed: ['lyric-b2'] });
   assert.equal(withdrawal.message, 'Publish 1 lyric change [skip ci]\n\n- Bundled: withdrawal');
-  assert.deepEqual(withdrawal.marks, { submissions: [], withdrawals: [{ remoteId: 'lyric-b2', updatedAt: 4000 }] });
+  assert.deepEqual(withdrawal.marks, { submissions: [], withdrawals: [{ remoteId: 'lyric-b2', updatedAt: 4000 }], verifications: [] });
   assert.equal(firestore.catalogWithdrawals['lyric-b2'].publishedAt.toMillis(), 4000);
   assert.equal((await workflowRun(dir, fakeDb(firestore))).update, null);
 
