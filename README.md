@@ -59,6 +59,21 @@ To correct a lyric, use **Suggest an edit** on [kanz-e-aza.com](https://kanz-e-a
 
 Pull requests changing `lyrics/` are not merged unless they come from the repository owner, so send corrections through **Suggest an edit** instead.
 
+## Publishing
+
+The workflow `sync_lyrics.yml` publishes everything approved every 6 hours, and the Owner's merged pull request to `lyrics/` at once.
+
+An Admin's own edit is published within minutes. The watchdog `scripts/admin_edit_watchdog.js` listens to Firestore for approved, unpublished submissions. A minute after the first Admin edit, it starts the workflow with `only_if_admin_edit`, and that run publishes everything approved so far. Each submission gets one run: if the run fails, the submission waits for the 6-hour batch. When the watchdog is down, Admin edits wait for the 6-hour batch too.
+
+It runs on Coolify (project *Kanz e Aza*, application *admin-edit-watchdog*), built from the `Dockerfile` on `main`. Two secrets, set as Coolify environment variables:
+
+| Variable | What it holds |
+| --- | --- |
+| `FIREBASE_SERVICE_ACCOUNT` | Base64 of a JSON key for a read-only service account (role *Cloud Datastore Viewer*). Not the sync workflow's account. |
+| `GITHUB_TOKEN` | A fine-grained token for this repository only, with *Actions: read and write* and nothing else. |
+
+To restart it, open the application in Coolify and choose **Restart**; after a change to the watchdog, choose **Redeploy**. On start-up it starts one run for any Admin edit already waiting. Its log is under **Logs**. It exits on a Firestore error it can't recover from, and Coolify starts it again.
+
 ## Licence
 
 Lyrics that contributors send under the Kanz e Aza Contribution Terms, and that are published here, are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see [LICENSE](LICENSE)). You may copy, share and adapt them for any purpose, including in your own apps, if you credit the poet and Kanz e Aza, link to the licence and say if you changed the text.
