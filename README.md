@@ -51,7 +51,7 @@ To browse on GitHub, open [`index/`](index/): one page per category, listing tit
 
 ## History
 
-A lyric's history is its file's history: open the file on GitHub and choose **History**, or run `git log -p -- lyrics/<xx>/<remoteId>.json`. Each change is committed by the sync, which names the kind of change (new, suggested edit, admin edit, Owner edit, withdrawal, restore) and never who made it.
+A lyric's history is its file's history: open the file on GitHub and choose **History**, or run `git log -p -- lyrics/<xx>/<remoteId>.json`. Each change is committed by the sync, which names the kind of change (new, suggested edit, admin edit, Owner edit, verified, unverified, withdrawal, restore) and never who made it.
 
 ## Corrections
 

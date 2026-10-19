@@ -154,16 +154,18 @@ const newestApproval = docs => docs.reduce((newest, doc) =>
   millis(doc.data.approvedAt) >= millis(newest.data.approvedAt) ? doc : newest);
 
 // What one run writes into the Catalog, from Firestore.
-//   submissions  approved `submissions` docs, published or not
-//   decisions    every `catalogWithdrawals` doc
-//   lyrics       the Catalog before the run (remoteId -> record)
-//   lastVersion  a deleted lyric's last record, from git history, or null
+//   submissions    approved `submissions` docs, published or not
+//   decisions      every `catalogWithdrawals` doc
+//   verifications  every `catalogVerifications` doc: an Admin's Verify or
+//                  Unverify of a Published Lyric, waiting for this run
+//   lyrics         the Catalog before the run (remoteId -> record)
+//   lastVersion    a deleted lyric's last record, from git history, or null
 // Docs are `{ id, data }`. Returns the records to write and the lyrics to
 // delete, each with the kind of change for the commit message; the
-// submission ids and decisions to mark published; the restores that couldn't
-// be found (left pending, unmarked); and approvals held because their record
-// is invalid.
-function planUpdate({ submissions, decisions, lyrics = new Map(), lastVersion = () => null }) {
+// submission ids, decisions and verifications to mark published; the
+// restores that couldn't be found (left pending, unmarked); and approvals
+// held because their record is invalid.
+function planUpdate({ submissions, decisions, verifications = [], lyrics = new Map(), lastVersion = () => null }) {
   const withdrawn = new Set(
     decisions.filter(({ data }) => data.withdrawn === true).map(({ id }) => id)
   );
@@ -188,6 +190,12 @@ function planUpdate({ submissions, decisions, lyrics = new Map(), lastVersion = 
   const publish = (remoteId, docs, kind) => {
     const newest = newestApproval(docs);
     const record = toRecord(remoteId, newest.data);
+    // Verified belongs to the text: an edit that keeps the title and body
+    // keeps the Catalog's flag; one that changes them brings its own.
+    const current = lyrics.get(remoteId);
+    if (current && current.title === record.title && current.body === record.body) {
+      record.verified = current.verified;
+    }
     const problem = catalog.recordProblem(record);
     if (problem) {
       held.push({ remoteId, problem });
@@ -204,19 +212,7 @@ function planUpdate({ submissions, decisions, lyrics = new Map(), lastVersion = 
     // The Owner's withdrawal wins over an approval: held, neither published
     // nor marked, until the Owner restores the lyric.
     if (withdrawn.has(remoteId)) continue;
-    if (unpublished(docs).length) {
-      publish(remoteId, docs);
-      continue;
-    }
-    // Verify/Unverify on a published submission: the Catalog has the newest
-    // approved version's title and body, but not its Verified flag. Only the
-    // flag changes, so an Owner's later edit of other fields stays.
-    const current = lyrics.get(remoteId);
-    const { title, body, isVerified } = newestApproval(docs).data;
-    const verified = isVerified === true;
-    if (current && current.title === title && current.body === body && current.verified !== verified) {
-      writes.set(remoteId, { record: { ...current, verified }, kind: verified ? 'verified' : 'unverified' });
-    }
+    if (unpublished(docs).length) publish(remoteId, docs);
   }
 
   // A restore writes the lyric back: an approval held while it was withdrawn,
@@ -230,17 +226,37 @@ function planUpdate({ submissions, decisions, lyrics = new Map(), lastVersion = 
       const docs = approvals.get(remoteId) ?? [];
       const last = unpublished(docs).length ? null : lastVersion(remoteId);
       if (last) {
-        // With a Verify or Unverify made while it was withdrawn.
-        const newest = docs.length ? newestApproval(docs).data : null;
-        const verified = newest && newest.title === last.title && newest.body === last.body
-          ? newest.isVerified === true : last.verified;
-        writes.set(remoteId, { record: { ...last, verified }, kind: 'restore' });
+        writes.set(remoteId, { record: last, kind: 'restore' });
       } else if (!docs.length || !publish(remoteId, docs, 'restore')) {
         unresolved.push(remoteId);
         continue;
       }
     }
     restores.push(restore);
+  }
+
+  // Verify/Unverify changes only the flag of the lyric as this run leaves
+  // it. The later of a Verify and an approval wins: an approval since
+  // decided the flag itself. A Verify of a withdrawn lyric, or of one the
+  // Catalog doesn't have yet, waits, unmarked.
+  const verified = [];
+  for (const doc of verifications) {
+    const remoteId = doc.id;
+    const docs = approvals.get(remoteId);
+    if (docs && millis(newestApproval(docs).data.approvedAt) > millis(doc.data.updatedAt)) {
+      verified.push(doc);
+      continue;
+    }
+    const current = writes.get(remoteId)?.record ?? lyrics.get(remoteId);
+    if (withdrawn.has(remoteId) || !current) continue;
+    verified.push(doc);
+    const flag = doc.data.verified === true;
+    if (current.verified !== flag) {
+      writes.set(remoteId, {
+        record: { ...current, verified: flag },
+        kind: writes.get(remoteId)?.kind ?? (flag ? 'verified' : 'unverified')
+      });
+    }
   }
 
   const withdrawals = pendingWithdrawals(decisions);
@@ -252,6 +268,7 @@ function planUpdate({ submissions, decisions, lyrics = new Map(), lastVersion = 
     deletes,
     submissionIds,
     decisions: [...withdrawals, ...restores],
+    verifications: verified.map(({ id, updateTime }) => ({ remoteId: id, updateTime })),
     unresolved,
     held
   };
@@ -345,9 +362,16 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
   const before = catalog.readCatalog(dir);
   const plan = planUpdate({
     // Published ones too: a restore may send the lyric's newest approved
-    // version, and Verify/Unverify can change a published one.
+    // version, and an approval newer than a Verify decides the flag.
     submissions: docs(await db.collection('submissions').where('status', '==', 'approved').get()),
     decisions: docs(await db.collection('catalogWithdrawals').get()),
+    // Only waiting ones: --mark-published deletes each once it is out. The
+    // exact updateTime lets it delete only a doc nobody changed since.
+    verifications: (await db.collection('catalogVerifications').get()).docs.map(doc => ({
+      id: doc.id,
+      data: doc.data(),
+      updateTime: { seconds: doc.updateTime.seconds, nanoseconds: doc.updateTime.nanoseconds }
+    })),
     lyrics: before,
     lastVersion: remoteId => catalog.lastVersion(remoteId, dir)
   });
@@ -367,9 +391,10 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
   // catalogWithdrawals docs published, withdrawals and restores alike.
   // Written even when the Catalog already had everything, so an approval
   // a failed run wrote is still marked.
-  if (plan.submissionIds.length || plan.decisions.length) {
+  if (plan.submissionIds.length || plan.decisions.length || plan.verifications.length) {
     fs.writeFileSync(path.join(dir, path.basename(marksPath)), JSON.stringify(
-      { submissions: plan.submissionIds, withdrawals: plan.decisions }, null, 2) + '\n');
+      { submissions: plan.submissionIds, withdrawals: plan.decisions, verifications: plan.verifications },
+      null, 2) + '\n');
   }
 
   const baseline = manifest.catalogTree;
@@ -412,7 +437,7 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
 // Runs as the workflow's last step, after the release exists. If any earlier
 // step fails, the lyrics stay unpublished and the next run publishes them again.
 async function markPublished(file = marksPath, db = getDb()) {
-  const { submissions = [], withdrawals = [] } = JSON.parse(fs.readFileSync(file, 'utf8'));
+  const { submissions = [], withdrawals = [], verifications = [] } = JSON.parse(fs.readFileSync(file, 'utf8'));
   const batch = db.batch();
   for (const id of submissions) {
     batch.update(db.collection('submissions').doc(id), { published: true });
@@ -426,7 +451,22 @@ async function markPublished(file = marksPath, db = getDb()) {
     });
   }
   await batch.commit();
-  console.log(`Marked ${submissions.length} submissions and ${withdrawals.length} withdrawals as published.`);
+  // A published Verify is deleted, unless an Admin changed it since this run
+  // read it; then it waits for the next run. One by one, so that one doesn't
+  // stop the others.
+  let deleted = 0;
+  for (const { remoteId, updateTime } of verifications) {
+    try {
+      await db.collection('catalogVerifications').doc(remoteId).delete({
+        lastUpdateTime: new admin.firestore.Timestamp(updateTime.seconds, updateTime.nanoseconds)
+      });
+      deleted++;
+    } catch (err) {
+      // FAILED_PRECONDITION: changed since; NOT_FOUND: already gone.
+      if (err.code !== 9 && err.code !== 5) throw err;
+    }
+  }
+  console.log(`Marked ${submissions.length} submissions, ${withdrawals.length} withdrawals and ${deleted} verifications as published.`);
 }
 
 if (require.main === module) {

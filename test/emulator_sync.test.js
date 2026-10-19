@@ -258,7 +258,7 @@ test('an approved website lyric is published with its metadata, then marked', { 
   assert.equal(run.manifest.latestReleaseTag, 'v1.0.1-test');
   assert.equal(entry.sha256, crypto.createHash('sha256').update(run.bytes).digest('hex'));
   assert.equal(run.manifest.catalogTree, catalog.treeAt('HEAD', repo.dir));
-  assert.deepEqual(run.marks, { submissions: ['web-1'], withdrawals: [] });
+  assert.deepEqual(run.marks, { submissions: ['web-1'], withdrawals: [], verifications: [] });
   assert.ok(!fs.existsSync(path.join(repo.dir, 'output', 'publish_marks.json')));
   assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- یا عباس: new');
   assert.equal(JSON.parse(fs.readFileSync(lyricFile(repo, 'web-1'), 'utf8')).language, 'Urdu');
@@ -427,7 +427,7 @@ test('an Owner restore brings the lyric back from git history', { skip }, async 
     }]
   });
   assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- Bundled: restore');
-  assert.deepEqual(run.marks, { submissions: [], withdrawals: [{ remoteId: 'base-7', updatedAt: 6000 }] });
+  assert.deepEqual(run.marks, { submissions: [], withdrawals: [{ remoteId: 'base-7', updatedAt: 6000 }], verifications: [] });
   apply(phone, run.update);
   assert.equal(phone.get('base-7').title, 'Bundled');
   assert.equal(catalogAfter(repo, base).get('base-7').title, 'Bundled');
@@ -466,7 +466,8 @@ test('a restore sends the newest approved text, with the revision held while wit
   assert.ok(!('removed' in run.update));
   assert.deepEqual(run.marks, {
     submissions: ['rev-1'],
-    withdrawals: [{ remoteId: 'lyric-1', updatedAt: 6000 }]
+    withdrawals: [{ remoteId: 'lyric-1', updatedAt: 6000 }],
+    verifications: []
   });
   assert.equal((await read('rev-1')).published, true);
   assert.equal(catalogAfter(repo).get('lyric-1').title, 'Revised');
@@ -535,43 +536,53 @@ test('a revision approved after a withdrawal does not bring the lyric back', { s
   assert.equal((await read('rev-1')).published, false, 'the held revision was marked published');
 });
 
-// FirestoreWebConsoleRepository.setVerified: the rules allow it on a
-// published submission, and the admin queue offers it there.
-const setVerified = (id, verified, ms) => submission(id).update({
-  isVerified: verified,
-  reviewedBy: 'admin-uid',
-  adminReviewedAt: at(ms)
+// The phone's Verify of a Published Lyric: a set, so it replaces the doc.
+const verificationDoc = remoteId => db.collection('catalogVerifications').doc(remoteId);
+const setVerified = (remoteId, verified, ms) => verificationDoc(remoteId).set({
+  verified,
+  updatedBy: 'admin-uid',
+  updatedAt: at(ms)
 });
+const waiting = async remoteId => (await verificationDoc(remoteId).get()).exists;
 
-test('verifying a published lyric reaches the catalog', { skip }, async () => {
-  const repo = checkout();
-  await put('web-6', websiteSubmission('web-6', approval(2000)));
-  workflowRun(repo);
-  assert.equal(catalogAfter(repo).get('web-6').isVerified, false);
-
-  await setVerified('web-6', true, 3000);
+test('verifying a Base Catalog lyric reaches the catalog, then its doc goes', { skip }, async () => {
+  const repo = checkout({ lyrics: [bundled] });
+  await setVerified('base-7', true, 3000);
   const run = workflowRun(repo);
 
-  assert.notEqual(run.update, null, 'the Verify change published nothing');
+  assert.notEqual(run.update, null, 'the Verify published nothing');
   assert.deepEqual(run.update.items.map(i => [i.remoteId, i.title, i.isVerified]), [
-    ['web-6', 'Ya Abbas', true]
+    ['base-7', 'Bundled', true]
   ]);
-  assert.equal(run.marks, null);
-  assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- Ya Abbas: verified');
-  assert.equal(catalogAfter(repo).get('web-6').isVerified, true);
+  assert.deepEqual(run.marks.verifications.map(v => v.remoteId), ['base-7']);
+  assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- Bundled: verified');
+  assert.equal(await waiting('base-7'), false);
   assert.equal(workflowRun(repo).update, null);
 
-  await setVerified('web-6', false, 4000);
-  assert.deepEqual(workflowRun(repo).update.items.map(i => [i.remoteId, i.isVerified]), [['web-6', false]]);
-  assert.equal(catalogAfter(repo).get('web-6').isVerified, false);
+  await setVerified('base-7', false, 4000);
+  assert.deepEqual(workflowRun(repo).update.items.map(i => [i.remoteId, i.isVerified]), [['base-7', false]]);
+  assert.equal(catalogAfter(repo).get('base-7').isVerified, false);
 
   // Verified and unverified again between runs: nothing changed for readers.
-  await setVerified('web-6', true, 5000);
-  await setVerified('web-6', false, 5500);
+  await setVerified('base-7', true, 5000);
+  await setVerified('base-7', false, 5500);
   assert.equal(workflowRun(repo).update, null);
+  assert.equal(await waiting('base-7'), false);
 });
 
-test('verifying a published revision republishes the lyric it changed', { skip }, async () => {
+test('a Verify changed during the run is kept for the next one', { skip }, async () => {
+  const repo = checkout({ lyrics: [bundled] });
+  await setVerified('base-7', true, 3000);
+  workflowRun(repo, { mark: false });
+  await setVerified('base-7', false, 4000);
+  node(repo, ['scripts/sync_firestore_to_github.js', '--mark-published', 'publish_marks.json']);
+
+  assert.equal(await waiting('base-7'), true);
+  assert.deepEqual(workflowRun(repo).update.items.map(i => [i.remoteId, i.isVerified]), [['base-7', false]]);
+  assert.equal(await waiting('base-7'), false);
+});
+
+test('verifying a lyric with a published revision verifies the revised text', { skip }, async () => {
   const repo = checkout();
   await put('lyric-1', websiteSubmission('lyric-1', { title: 'Original', ...approval(2000) }));
   workflowRun(repo);
@@ -582,33 +593,39 @@ test('verifying a published revision republishes the lyric it changed', { skip }
   }));
   workflowRun(repo);
 
-  // The older version isn't what readers have: verifying it changes nothing.
   await setVerified('lyric-1', true, 4000);
-  assert.equal(workflowRun(repo).update, null);
-
-  await setVerified('rev-1', true, 5000);
-  const run = workflowRun(repo);
-  assert.deepEqual(run.update.items.map(i => [i.remoteId, i.title, i.isVerified]), [
+  assert.deepEqual(workflowRun(repo).update.items.map(i => [i.remoteId, i.title, i.isVerified]), [
     ['lyric-1', 'Revised', true]
   ]);
-  assert.deepEqual([...catalogAfter(repo).keys()], ['lyric-1']);
 });
 
-test('a Verify change on a withdrawn lyric waits for the restore', { skip }, async () => {
-  const repo = checkout();
-  await put('web-6', websiteSubmission('web-6', approval(2000)));
+test('a metadata-only revision keeps the lyric Verified', { skip }, async () => {
+  const repo = checkout({ lyrics: [bundled] });
+  await setVerified('base-7', true, 3000);
   workflowRun(repo);
-  await withdrawal('web-6', true, 3000);
+  await put('rev-1', websiteSubmission('rev-1', {
+    revisionOfRemoteId: 'base-7',
+    title: bundled.title,
+    body: bundled.body,
+    author: 'Mir Anees',
+    ...approval(4000)
+  }));
+  const run = workflowRun(repo);
+  assert.deepEqual(run.update.items.map(i => [i.remoteId, i.author, i.isVerified]), [
+    ['base-7', 'Mir Anees', true]
+  ]);
+});
+
+test('a Verify on a withdrawn lyric waits for the restore', { skip }, async () => {
+  const repo = checkout({ lyrics: [bundled] });
+  await withdrawal('base-7', true, 3000);
   workflowRun(repo);
 
-  await setVerified('web-6', true, 4000);
+  await setVerified('base-7', true, 4000);
   assert.equal(workflowRun(repo).update, null);
-  assert.ok(!catalogAfter(repo).has('web-6'));
+  assert.equal(await waiting('base-7'), true);
 
-  await withdrawal('web-6', false, 5000);
-  assert.deepEqual(workflowRun(repo).update.items.map(i => i.remoteId), ['web-6']);
-  // The restore brings back the file as it was; the flag follows by the
-  // next run at the latest.
-  workflowRun(repo);
-  assert.equal(catalogAfter(repo).get('web-6').isVerified, true);
+  await withdrawal('base-7', false, 5000);
+  assert.deepEqual(workflowRun(repo).update.items.map(i => [i.remoteId, i.isVerified]), [['base-7', true]]);
+  assert.equal(await waiting('base-7'), false);
 });

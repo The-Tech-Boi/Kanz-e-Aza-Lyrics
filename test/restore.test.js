@@ -46,9 +46,10 @@ const lyric = (remoteId, fields = {}) => ({
 
 // A run after the withdrawal went out: the lyric's file is gone, and git
 // history has `last`, its version before the withdrawal deleted it.
-const restoreRun = ({ submissions = [], decisions, last = null }) => planUpdate({
+const restoreRun = ({ submissions = [], decisions, verifications = [], last = null }) => planUpdate({
   submissions,
   decisions,
+  verifications,
   lyrics: new Map(),
   lastVersion: remoteId => (last?.remoteId === remoteId ? last : null)
 });
@@ -104,13 +105,15 @@ test('with no revision held, a restore writes the lyric\'s last file, the Owner\
   assert.deepEqual(plan.decisions, [{ remoteId: 'lyric-1', updatedAt: 6000 }]);
 });
 
-test('a restore from git history carries a Verify change made while withdrawn', () => {
+test('a restore from git history carries a Verify made while withdrawn', () => {
   const plan = restoreRun({
-    submissions: [approved('lyric-1', { isVerified: true })],
+    submissions: [approved('lyric-1')],
     decisions: [decision('lyric-1', false, 6000)],
+    verifications: [{ id: 'lyric-1', data: { verified: true, updatedAt: at(5000) } }],
     last: lyric('lyric-1')
   });
-  assert.equal(plan.writes.get('lyric-1').record.verified, true);
+  assert.deepEqual(plan.writes.get('lyric-1'), { record: lyric('lyric-1', { verified: true }), kind: 'restore' });
+  assert.deepEqual(plan.verifications.map(({ remoteId }) => remoteId), ['lyric-1']);
 });
 
 test('a lyric that never had a file is restored from its newest approved version', () => {
