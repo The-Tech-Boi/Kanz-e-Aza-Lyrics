@@ -99,6 +99,120 @@ test('a legacy document\'s language comes from its title, and a year written as 
   assert.equal(record.group, 2019);
 });
 
+// What the sync makes of a Writer's contentDelta. The phone and the website
+// fall back to the plain body when Styling and body disagree, so these cases
+// live here only, not in a fixture shared with the app.
+const styled = (body, delta, language = 'Roman Urdu') => {
+  let dropped = 0;
+  const contentDelta = typeof delta === 'string' ? delta : JSON.stringify(delta);
+  const record = toRecord('doc5', { ...submission, body, language, contentDelta }, () => dropped++);
+  return { record, styling: record.styling, dropped };
+};
+
+test('contentDelta becomes styling, right after the body', () => {
+  const delta = [
+    { insert: 'Pehli ', attributes: { bold: true } },
+    { insert: 'line', attributes: { italic: true, underline: true, size: 'large' } },
+    { insert: '\n', attributes: { align: 'right' } },
+    { insert: 'Doosri line' },
+    { insert: '\n', attributes: { list: 'bullet', align: 'justify' } },
+    { insert: 'Teesri line', attributes: { size: 'small' } },
+    { insert: '\n', attributes: { list: 'ordered', direction: 'rtl', align: 'center' } },
+    { insert: 'Aakhri line', attributes: { size: 'huge' } },
+    { insert: '\n', attributes: { align: 'left' } }
+  ];
+  const { record, dropped } = styled('Pehli line\nDoosri line\nTeesri line\nAakhri line', delta);
+  assert.deepEqual(record.styling, delta);
+  assert.deepEqual(Object.keys(record), [
+    'remoteId', 'title', 'body', 'styling', 'language', 'categories', 'subcategory', 'group',
+    'author', 'anjumans', 'verified'
+  ]);
+  assert.equal(dropped, 0);
+});
+
+test('styling keeps only text and divider inserts, with the formats readers show', () => {
+  const { styling } = styled('Pehli line\n<<DIVIDER>>\nDoosri line\n<<MINI>>', [
+    { insert: 'Pehli line', attributes: { bold: true, link: 'mailto:poet@example.com', color: '#ff0000', background: '#000' } },
+    { insert: { image: 'https://example.com/a.png' } },
+    { insert: '\n', attributes: { align: 'center', header: 1 } },
+    { insert: { divider: { anything: 'else' } }, attributes: { color: 'red' } },
+    { insert: '\n' },
+    { insert: 'Doosri line', attributes: { bold: 'yes', size: '14', script: 'super', strike: true } },
+    { insert: '\n', attributes: { align: 'start', list: 'checked', direction: 'ltr', indent: 1 } },
+    { insert: { 'mini-divider': null } },
+    { insert: { video: 'x' } },
+    { insert: '\n', attributes: { constructor: 'x', toString: true } },
+    { retain: 3, attributes: { bold: true } },
+    { delete: 1 },
+    'Doosri line',
+    null
+  ]);
+  assert.deepEqual(styling, [
+    { insert: 'Pehli line', attributes: { bold: true } },
+    { insert: '\n', attributes: { align: 'center' } },
+    { insert: { divider: '' } },
+    { insert: '\n' },
+    { insert: 'Doosri line' },
+    { insert: '\n' },
+    { insert: { 'mini-divider': '' } },
+    { insert: '\n' }
+  ]);
+});
+
+test('Urdu styling loses direction and keeps every alignment, left and right too', () => {
+  const urdu = (left, right) => styled('پہلی لائن\nدوسری لائن', [
+    { insert: 'پہلی لائن' }, { insert: '\n', attributes: left },
+    { insert: 'دوسری لائن' }, { insert: '\n', attributes: right }
+  ], 'Urdu').styling;
+  assert.deepEqual(urdu({ align: 'left', direction: 'rtl' }, { align: 'right', direction: 'rtl' }), [
+    { insert: 'پہلی لائن' }, { insert: '\n', attributes: { align: 'left' } },
+    { insert: 'دوسری لائن' }, { insert: '\n', attributes: { align: 'right' } }
+  ]);
+  // Direction was all it had.
+  assert.equal(urdu({ direction: 'rtl' }, {}), undefined);
+});
+
+test('a divider inside a line counts as a line of its own, as in the Writer', () => {
+  const delta = [
+    { insert: 'Pehli line' },
+    { insert: { 'mini-divider': '' } },
+    { insert: 'Doosri line', attributes: { bold: true } },
+    { insert: '\n' }
+  ];
+  assert.deepEqual(styled('Pehli line\n<<MINI>>\nDoosri line', delta).styling, delta);
+});
+
+test('styling whose lines aren\'t the body\'s is left out and counted; trailing empty lines don\'t count', () => {
+  const aligned = text => [{ insert: text }, { insert: '\n', attributes: { align: 'right' } }];
+  assert.ok(styled('Pehli line', [...aligned('Pehli line'), { insert: '\n\n' }]).styling);
+  assert.ok(styled('Pehli line\n\n', aligned('Pehli line')).styling);
+  for (const [body, delta] of [
+    ['Pehli line\nDoosri line', aligned('Pehli line\nTeesri line')],
+    // A body trimmed of a leading blank line would style every line one off.
+    ['Pehli line', aligned('\nPehli line')],
+    ['Pehli line\n<<DIVIDER>>', aligned('Pehli line\n<<MINI>>')],
+    ['Pehli line', aligned('Pehli line ')]
+  ]) {
+    const { record, dropped } = styled(body, delta);
+    assert.ok(!('styling' in record), JSON.stringify(delta));
+    assert.equal(dropped, 1);
+  }
+});
+
+test('a delta that is missing, unreadable, empty or without a format adds no styling', () => {
+  const plain = toRecord('doc5', { ...submission, contentDelta: undefined });
+  for (const delta of [
+    undefined, '', 'not json', '{"ops":[]}', 'null', '[]',
+    [{ insert: 'Line one\n' }],
+    [{ insert: 'Line one' }, { insert: { divider: '' } }, { insert: '\n' }],
+    [{ insert: 'Line one', attributes: { link: 'https://example.com' } }, { insert: '\n' }]
+  ]) {
+    const { record, dropped } = styled('Line one', delta);
+    assert.deepEqual(record, plain, JSON.stringify(delta));
+    assert.equal(dropped, 0);
+  }
+});
+
 const at = ms => ({ toMillis: () => ms });
 
 // The Catalog before the run.

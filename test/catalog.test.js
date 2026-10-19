@@ -28,9 +28,16 @@ test('a record with every field the v1 rules allow is valid', () => {
     subcategory: 'Hazrat Abbas (a.s)',
     group: 2024,
     author: 'Mir Anees',
-    verified: true
+    verified: true,
+    styling: [{ insert: 'Pehli line' }, { insert: '\n', attributes: { align: 'center' } }]
   }), null);
   assert.equal(problem({ anjumans: ['Anjuman-e-Abbasia'] }), null);
+});
+
+test('styling is an array of objects, each with insert', () => {
+  for (const styling of ['[]', {}, [null], ['Pehli line'], [[]], [{ attributes: { bold: true } }]]) {
+    assert.equal(problem({ styling }), 'styling must be an array of objects, each with insert', JSON.stringify(styling));
+  }
 });
 
 // Readers have every Catalog lyric; whether it is published lives in Firestore.
@@ -195,8 +202,10 @@ test('the check refuses a lyric file deleted since the base', () => {
 test('the check refuses an invalid lyric file', () => {
   const dir = catalogRepo([lyric('lyric-a1')]);
   catalog.writeLyric(lyric('lyric-b2', { published: true }), dir);
+  catalog.writeLyric(lyric('lyric-c3', { styling: '[{"insert":"Pehli line\\n"}]' }), dir);
 
   const result = check(dir);
   assert.equal(result.status, 1);
   assert.match(result.stderr, /lyrics\/b2\/lyric-b2\.json: unknown field: published/);
+  assert.match(result.stderr, /lyrics\/c3\/lyric-c3\.json: styling must be an array of objects, each with insert/);
 });

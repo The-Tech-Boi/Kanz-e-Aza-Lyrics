@@ -283,7 +283,13 @@ test('the update file, lyric file and commit carry no contributor or review fiel
     ...approval(2000, 'admin-7f3a'),
     ownerUid: 'contributor-9c1e',
     termsVersion: 'terms-2026-07',
-    contentDelta: '[{"insert":"x"}]',
+    // Styling for the body, with a link the sync drops.
+    contentDelta: JSON.stringify([
+      { insert: 'Pehli line' }, { insert: '\n', attributes: { align: 'right' } },
+      { insert: { divider: '' } }, { insert: '\n' },
+      { insert: '_Doosri line_', attributes: { link: 'mailto:poet@example.com' } },
+      { insert: '\n', attributes: { align: 'right' } }
+    ]),
     adminNote: 'checked by phone',
     deviceUserUuid: 'device-55aa',
     contributorEmail: 'poet@example.com'
@@ -297,6 +303,10 @@ test('the update file, lyric file and commit carry no contributor or review fiel
     'language', 'remoteId', 'source', 'subcategory', 'title'
   ]);
   const file = fs.readFileSync(lyricFile(repo, 'web-2'), 'utf8');
+  assert.deepEqual(Object.keys(JSON.parse(file)), [
+    'remoteId', 'title', 'body', 'styling', 'language', 'categories', 'subcategory', 'group',
+    'author', 'anjumans', 'verified'
+  ]);
   for (const secret of [
     'contributor-9c1e', 'admin-7f3a', 'terms-2026-07', 'poet@example.com',
     'device-55aa', 'checked by phone', 'ownerUid', 'termsVersion', '@'
@@ -305,6 +315,23 @@ test('the update file, lyric file and commit carry no contributor or review fiel
     assert.ok(!file.includes(secret), `lyric file contains ${secret}`);
     assert.ok(!run.message.includes(secret), `commit message contains ${secret}`);
   }
+});
+
+test('Styling whose words differ from the body is left out, and the log only counts it', { skip }, async () => {
+  const repo = checkout();
+  await put('web-4', websiteSubmission('web-4', {
+    ...approval(2000),
+    contentDelta: JSON.stringify([{ insert: 'Purani line' }, { insert: '\n', attributes: { align: 'right' } }])
+  }));
+
+  const run = workflowRun(repo);
+
+  assert.deepEqual(run.update.items.map(item => item.remoteId), ['web-4']);
+  assert.ok(!('styling' in JSON.parse(fs.readFileSync(lyricFile(repo, 'web-4'), 'utf8'))));
+  const log = run.stdout + run.stderr;
+  assert.match(log, /Styling left out of 1 approval\(s\): its words differ from the body\./);
+  assert.ok(!log.includes('web-4'), 'the log names the lyric');
+  assert.ok(!log.includes('Purani line'), 'the log quotes the Styling');
 });
 
 test('a lyric without personality, poet or year publishes the placeholders the app expects', { skip }, async () => {

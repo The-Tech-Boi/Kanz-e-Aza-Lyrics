@@ -116,6 +116,25 @@ test('a restore from git history carries a Verify made while withdrawn', () => {
   assert.deepEqual(plan.verifications.map(({ remoteId }) => remoteId), ['lyric-1']);
 });
 
+test('a restore keeps the Styling of the version it writes back', () => {
+  const styling = [{ insert: 'Pehli line' }, { insert: '\n', attributes: { align: 'center' } }];
+  const decisions = [decision('lyric-1', false, 6000)];
+
+  // From git history.
+  const last = lyric('lyric-1', { styling });
+  assert.deepEqual(restoreRun({ submissions: [approved('lyric-1')], decisions, last }).writes.get('lyric-1').record, last);
+
+  // From the revision held while it was withdrawn.
+  const held = restoreRun({
+    submissions: [approved('rev-1', {
+      revisionOfRemoteId: 'lyric-1', contentDelta: JSON.stringify(styling), published: false, approvedAt: at(5000)
+    })],
+    decisions,
+    last: lyric('lyric-1')
+  });
+  assert.deepEqual(held.writes.get('lyric-1').record, lyric('lyric-1', { styling }));
+});
+
 test('a lyric that never had a file is restored from its newest approved version', () => {
   const plan = restoreRun({
     submissions: [

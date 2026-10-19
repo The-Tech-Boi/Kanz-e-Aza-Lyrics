@@ -242,3 +242,27 @@ test('from contract 1.0.0 the update carries the Catalog records themselves', as
   assert.equal(run.text.includes('published'), false);
   assert.equal(run.manifest.contractVersion, '1.0.0');
 });
+
+test('a revision that changes only the Styling rewrites the file, keeps Verified and goes out', async t => {
+  quiet(t);
+  const dir = catalogRepo([lyric('lyric-a1', { verified: true })], { contractVersion: '1.0.0' });
+  const styling = [
+    { insert: 'Pehli line' }, { insert: '\n', attributes: { align: 'right' } },
+    { insert: { divider: '' } }, { insert: '\n' },
+    { insert: 'Doosri line', attributes: { bold: true } }, { insert: '\n' }
+  ];
+
+  const run = await workflowRun(dir, fakeDb({
+    submissions: {
+      'rev-1': approved('rev-1', {
+        revisionOfRemoteId: 'lyric-a1', title: 'Title of lyric-a1', contentDelta: JSON.stringify(styling)
+      })
+    }
+  }));
+
+  const { remoteId, title, body, ...rest } = lyric('lyric-a1', { verified: true });
+  const record = { remoteId, title, body, styling, ...rest };
+  assert.equal(fileOf(dir, 'lyric-a1'), catalog.serialize(record));
+  assert.equal(run.text, JSON.stringify({ contractVersion: '1.0.0', items: [record] }, null, 2) + '\n');
+  assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- Title of lyric-a1: suggested edit');
+});

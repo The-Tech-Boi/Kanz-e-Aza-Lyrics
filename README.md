@@ -39,6 +39,7 @@ To browse on GitHub, open [`index/`](index/): one page per category, listing tit
 | --- | --- |
 | `remoteId` | The lyric's id. It never changes, and it names the file. |
 | `title`, `body` | The lyric. In `body`, a line `<<DIVIDER>>` separates stanzas and `<<MINI>>` marks a short break within one. |
+| `styling` | Optional. How the lyric is shown, set in the app's Writer: line alignment, bold, italic, underline, size, lists and direction, as a [Quill delta](https://quilljs.com/docs/delta) (an array of `insert` operations). It never changes the words: line *n* of `styling` is line *n* of `body`, and `body` is what counts. Absent when the lyric has none. |
 | `language` | `Roman Urdu` or `Urdu`. |
 | `categories` | One or more of Nohay, Manqabat, Salaams, Marsiya, Munajat, Qasida, or a category added since. |
 | `subcategory` | Optional. The personality, event or topic it is about (see `taxonomy.json`; others are allowed). |
