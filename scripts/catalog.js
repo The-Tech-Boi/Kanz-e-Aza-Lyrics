@@ -15,7 +15,7 @@ const root = path.join(__dirname, '..');
 // website's rules take (NAME).
 const CANONICAL_CATEGORIES = ['Nohay', 'Manqabat', 'Salaams', 'Marsiya', 'Munajat', 'Qasida'];
 const FIELDS = [
-  'remoteId', 'title', 'body', 'language', 'categories', 'subcategory', 'group',
+  'remoteId', 'title', 'body', 'styling', 'language', 'categories', 'subcategory', 'group',
   'author', 'anjumans', 'verified'
 ];
 // firestore.rules' validNames: 1 to 100 characters on one line, no outer spaces.
@@ -58,6 +58,10 @@ function recordProblem(record, now = new Date()) {
     if (!text(record[key])) return `${key} is required and must be non-blank`;
   }
   if (!/^[A-Za-z0-9_-]+$/.test(record.remoteId)) return 'remoteId may hold only letters, digits, _ and -';
+  if ('styling' in record && !(Array.isArray(record.styling) &&
+    record.styling.every(op => op !== null && typeof op === 'object' && 'insert' in op))) {
+    return 'styling must be an array of objects, each with insert';
+  }
   if (!['Roman Urdu', 'Urdu'].includes(record.language)) return 'language must be Roman Urdu or Urdu';
 
   const { categories, anjumans } = record;

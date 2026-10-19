@@ -152,6 +152,26 @@ test('an edit that changes the text brings its own flag', () => {
   assert.equal(verified.writes.get('lyric-1').record.verified, true);
 });
 
+const styling = [{ insert: 'Pehli line' }, { insert: '\n', attributes: { align: 'right' } }];
+
+test('Verify keeps the lyric\'s Styling', () => {
+  const { writes } = plan({
+    verifications: [verification('base-6', true)],
+    lyrics: catalog(lyric('base-6', { styling }))
+  });
+  assert.deepEqual(writes.get('base-6').record, lyric('base-6', { styling, verified: true }));
+});
+
+test('an approval that changes only the Styling is written and keeps Verified', () => {
+  const { writes } = plan({
+    submissions: [approved('rev-1', {
+      revisionOfRemoteId: 'lyric-1', contentDelta: JSON.stringify(styling), published: false
+    })],
+    lyrics: catalog(lyric('lyric-1', { verified: true }))
+  });
+  assert.deepEqual(writes.get('lyric-1').record, lyric('lyric-1', { styling, verified: true }));
+});
+
 test('Verify on a published submission no longer changes the Catalog', () => {
   assert.equal(plan({
     submissions: [approved('web-6', { isVerified: true })],

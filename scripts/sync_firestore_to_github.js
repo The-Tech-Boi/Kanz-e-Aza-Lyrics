@@ -70,22 +70,96 @@ const URDU_SCRIPT = /[؀-ۿݐ-ݿ]/;
 const cleanName = value =>
   typeof value === 'string' && value.trim() && value.trim() !== 'General' ? value.trim() : undefined;
 
+// The formats Styling keeps from the Writer's Quill delta, each with the
+// values it may take. Everything else a delta can hold (links, colours,
+// images, other embeds and formats) is dropped.
+const STYLING_FORMATS = new Map([
+  ['align', ['left', 'center', 'right', 'justify']],
+  ['bold', [true]],
+  ['italic', [true]],
+  ['underline', [true]],
+  ['size', ['small', 'large', 'huge']],
+  ['list', ['ordered', 'bullet']],
+  ['direction', ['rtl']]
+]);
+// The divider embeds, by the token each is in the body.
+const DIVIDERS = new Map([['divider', '<<DIVIDER>>'], ['mini-divider', '<<MINI>>']]);
+
+// A submission's contentDelta cleaned to Styling: its text and divider
+// inserts with only the formats above. Undefined when it is missing,
+// unreadable or left without any format. Urdu loses `direction`, which would
+// run its lines left to right, but keeps every `align`: the Writer reads
+// left and right as the line's start and end.
+function cleanStyling(contentDelta, language) {
+  let ops;
+  try {
+    ops = JSON.parse(contentDelta);
+  } catch {
+    return undefined;
+  }
+  if (!Array.isArray(ops)) return undefined;
+  const styling = [];
+  for (const op of ops) {
+    const insert = op?.insert;
+    const divider = insert !== null && typeof insert === 'object' &&
+      [...DIVIDERS.keys()].find(key => key in insert);
+    if (typeof insert !== 'string' && !divider) continue;
+    const attributes = Object.fromEntries(Object.entries(op.attributes ?? {}).filter(([key, value]) =>
+      STYLING_FORMATS.get(key)?.includes(value) && !(key === 'direction' && language === 'Urdu')));
+    styling.push({
+      insert: divider ? { [divider]: '' } : insert,
+      ...(Object.keys(attributes).length && { attributes })
+    });
+  }
+  return styling.some(op => op.attributes) ? styling : undefined;
+}
+
+// The body the Writer saves for `styling`, rebuilt as the app's
+// plainTextWithDividersFromDelta (lib/features/writer/lyric_document_codec.dart)
+// does: each divider is its token, on a line of its own even when the
+// delta has it inside a line.
+function stylingBody(styling) {
+  let body = '';
+  let atLineStart = true;
+  let afterToken = false;
+  for (const { insert } of styling) {
+    const isToken = typeof insert !== 'string';
+    const text = isToken ? DIVIDERS.get(Object.keys(insert)[0]) : insert;
+    if ((isToken && !atLineStart) || (afterToken && !text.startsWith('\n'))) body += '\n';
+    body += text;
+    atLineStart = text.endsWith('\n');
+    afterToken = isToken;
+  }
+  return body;
+}
+
+const withoutTrailingLines = text => String(text).replace(/\n+$/, '');
+
 // An approved submission as a Catalog record. Built from an allow-list, so
 // contributor fields (ownerUid, termsVersion, ...) never reach the Catalog.
 // Documents from before contract v1 get its values: `category` becomes
 // `categories`, a missing language is read from the title's script, and
 // "General" or a group that isn't a year is left out.
-function toRecord(remoteId, data) {
+// Styling is kept only when its words are the body's, line for line, or
+// readers would style the wrong lines; otherwise `onStylingDropped` is called.
+function toRecord(remoteId, data, onStylingDropped = () => {}) {
   const categories = Array.isArray(data.categories) && data.categories.length
     ? data.categories
     : [normalizeCategory(data.category)];
   const year = Number.isInteger(data.group) ? data.group
     : /^\d{4}$/.test(String(data.group ?? '')) ? Number(data.group) : undefined;
+  const language = data.language || (URDU_SCRIPT.test(data.title ?? '') ? 'Urdu' : 'Roman Urdu');
+  let styling = cleanStyling(data.contentDelta, language);
+  if (styling && withoutTrailingLines(stylingBody(styling)) !== withoutTrailingLines(data.body)) {
+    styling = undefined;
+    onStylingDropped();
+  }
   const record = {
     remoteId,
     title: data.title,
     body: data.body,
-    language: data.language || (URDU_SCRIPT.test(data.title ?? '') ? 'Urdu' : 'Roman Urdu'),
+    ...(styling && { styling }),
+    language,
     categories
   };
   if (cleanName(data.subcategory)) record.subcategory = cleanName(data.subcategory);
@@ -96,9 +170,10 @@ function toRecord(remoteId, data) {
   return record;
 }
 
-// A Catalog record as an item of an old-shape update file, which every
-// installed build reads. Until the switch-over (manifest.json's
-// contractVersion), updates use this shape.
+// A Catalog record as an item of an old-shape update file, for a manifest
+// without a contractVersion. This repository's manifest has "1.0.0", so its
+// updates carry whole records instead (buildPayload). This shape has no
+// Styling.
 function toUpdateItem(record) {
   const { remoteId, categories, anjumans } = record;
   const item = {
@@ -163,8 +238,9 @@ const newestApproval = docs => docs.reduce((newest, doc) =>
 // Docs are `{ id, data }`. Returns the records to write and the lyrics to
 // delete, each with the kind of change for the commit message; the
 // submission ids, decisions and verifications to mark published; the
-// restores that couldn't be found (left pending, unmarked); and approvals
-// held because their record is invalid.
+// restores that couldn't be found (left pending, unmarked); approvals
+// held because their record is invalid; and how many approvals lost their
+// Styling because its words weren't the body's.
 function planUpdate({ submissions, decisions, verifications = [], lyrics = new Map(), lastVersion = () => null }) {
   const withdrawn = new Set(
     decisions.filter(({ data }) => data.withdrawn === true).map(({ id }) => id)
@@ -187,9 +263,10 @@ function planUpdate({ submissions, decisions, verifications = [], lyrics = new M
   const deletes = new Map();
   const submissionIds = [];
   const held = [];
+  let unstyled = 0;
   const publish = (remoteId, docs, kind) => {
     const newest = newestApproval(docs);
-    const record = toRecord(remoteId, newest.data);
+    const record = toRecord(remoteId, newest.data, () => unstyled++);
     // Verified belongs to the text: an edit that keeps the title and body
     // keeps the Catalog's flag; one that changes them brings its own.
     const current = lyrics.get(remoteId);
@@ -270,7 +347,8 @@ function planUpdate({ submissions, decisions, verifications = [], lyrics = new M
     decisions: [...withdrawals, ...restores],
     verifications: verified.map(({ id, updateTime }) => ({ remoteId: id, updateTime })),
     unresolved,
-    held
+    held,
+    unstyled
   };
 }
 
@@ -380,6 +458,11 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
   }
   for (const remoteId of plan.unresolved) {
     console.warn(`Restore of ${remoteId} not published: no approval or earlier file has it. It stays pending.`);
+  }
+  // Only a count: which lyric, and what its Styling said, stay out of the
+  // public workflow log.
+  if (plan.unstyled) {
+    console.warn(`Styling left out of ${plan.unstyled} approval(s): its words differ from the body.`);
   }
 
   for (const { record } of plan.writes.values()) catalog.writeLyric(record, dir);
