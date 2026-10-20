@@ -163,13 +163,14 @@ test('Verify keeps the lyric\'s Styling', () => {
 });
 
 test('an approval that changes only the Styling is written and keeps Verified', () => {
+  // The Writer ends the body with a line break the Catalog's body lacks.
   const { writes } = plan({
     submissions: [approved('rev-1', {
-      revisionOfRemoteId: 'lyric-1', contentDelta: JSON.stringify(styling), published: false
+      revisionOfRemoteId: 'lyric-1', body: 'Pehli line\n', contentDelta: JSON.stringify(styling), published: false
     })],
     lyrics: catalog(lyric('lyric-1', { verified: true }))
   });
-  assert.deepEqual(writes.get('lyric-1').record, lyric('lyric-1', { styling, verified: true }));
+  assert.deepEqual(writes.get('lyric-1').record, lyric('lyric-1', { body: 'Pehli line\n', styling, verified: true }));
 });
 
 test('Verify on a published submission no longer changes the Catalog', () => {
