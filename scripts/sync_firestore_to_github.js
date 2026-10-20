@@ -268,9 +268,11 @@ function planUpdate({ submissions, decisions, verifications = [], lyrics = new M
     const newest = newestApproval(docs);
     const record = toRecord(remoteId, newest.data, () => unstyled++);
     // Verified belongs to the text: an edit that keeps the title and body
-    // keeps the Catalog's flag; one that changes them brings its own.
+    // keeps the Catalog's flag; one that changes them brings its own. The
+    // Writer's body ends with a line break, so trailing empty lines don't count.
     const current = lyrics.get(remoteId);
-    if (current && current.title === record.title && current.body === record.body) {
+    if (current && current.title === record.title &&
+        withoutTrailingLines(current.body) === withoutTrailingLines(record.body)) {
       record.verified = current.verified;
     }
     const problem = catalog.recordProblem(record);
