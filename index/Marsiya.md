@@ -1,6 +1,6 @@
 # Marsiya
 
-222 lyrics.
+223 lyrics.
 
 ## Rasool-e-Khuda (s.a.w.s)
 
@@ -10,6 +10,7 @@
 
 - [bilqees paasbaan hai ye](../lyrics/a6/local_0415b728ee1a488f7275c0ce01554aa6.json)
 - [BISTAR SE THARTHARA KE UTHEY THAM KAR ASAA](../lyrics/a7/local_38a5ef0c4fe08790a7bb1bddae16bfa7.json)
+- [DAR HAAL-E SHEHZADI-E KOUNAIN (S.A.)](../lyrics/wa/nk44q0Ruld3LrmW0UBWA.json)
 - [FARZANDOUN KO PHIR FATIMA ZEHRA NE BULAYA](../lyrics/97/local_22e544989de683941559ddfb9a7ff497.json)
 - [Fatima kubra duqtare shabbir](../lyrics/66/local_45f0997f8353b68be4841994b3cca266.json)
 - [KAHTI THI ROKE ZAINAB-E- NALAAN JAWAB DO](../lyrics/e3/local_c59fbd6f756db674aef57c37e84506e3.json)
