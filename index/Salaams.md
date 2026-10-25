@@ -19,11 +19,14 @@
 - [Afsous Nabi Zaadiyoun ka Shaam mein jaana Sajjad sey poocho](../lyrics/62/local_8d953e38f8ffeb8f2999014aac556a62.json)
 - [Aye Shaheede Jafa imam e Raza](../lyrics/db/local_7f1ad7f47dea3cdf3d26a8bacbb001db.json)
 
+## Arbayeen - Wapasi
+
+- [Aao Sughra Suno Lo Sunani Suno](../lyrics/hr/GydQtBtRi7OnttOMSfhR.json)
+
 ## Without a Personality
 
 - [Aahe soza'n lab tak aayi ashke naab aane ko hai](../lyrics/d3/local_8487a31510beaf53f62bde19f65330d3.json)
 - [Aankho me basi thi karbobala sajjad tadapte rehte](../lyrics/c0/local_e6938995669025080b0a5763a73b1ec0.json)
-- [Aao Sughra Suno Lo Sunani Suno](../lyrics/hr/GydQtBtRi7OnttOMSfhR.json)
 - [Aasmaan larzaa Zameen kaampee Samandar roay](../lyrics/22/chashme_aza_21d71481e25406c7f4d57722.json)
 - [Ae ghuncha dahan bekas dulha](../lyrics/23/local_88754636e4eaad0c7274e028525a7923.json)
 - [Ae shahe do jaha'n khudahafiz](../lyrics/a6/local_6d194c7f6f440283372ba7191b0800a6.json)
