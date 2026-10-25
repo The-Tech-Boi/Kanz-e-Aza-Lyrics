@@ -10,6 +10,10 @@
 
 - [Baanu kehti hai Khudaaya kya karoon](../lyrics/a4/local_8981638533c1a5637a9f8b29e956a0a4.json)
 
+## Imam Hussain (a.s)
+
+- [Aakhri waqt hai marney ki rezaa do Zainab](../lyrics/dd/chashme_aza_7cf8530e98cf9aa3e9ca6cdd.json)
+
 ## Imam Raza (a.s)
 
 - [Afsous Nabi Zaadiyoun ka Shaam mein jaana Sajjad sey poocho](../lyrics/62/local_8d953e38f8ffeb8f2999014aac556a62.json)
@@ -18,7 +22,6 @@
 ## Without a Personality
 
 - [Aahe soza'n lab tak aayi ashke naab aane ko hai](../lyrics/d3/local_8487a31510beaf53f62bde19f65330d3.json)
-- [Aakhri waqt hai marney ki rezaa do Zainab](../lyrics/dd/chashme_aza_7cf8530e98cf9aa3e9ca6cdd.json)
 - [Aankho me basi thi karbobala sajjad tadapte rehte](../lyrics/c0/local_e6938995669025080b0a5763a73b1ec0.json)
 - [Aao Sughra Suno Lo Sunani Suno](../lyrics/hr/GydQtBtRi7OnttOMSfhR.json)
 - [Aasmaan larzaa Zameen kaampee Samandar roay](../lyrics/22/chashme_aza_21d71481e25406c7f4d57722.json)
