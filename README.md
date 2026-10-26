@@ -45,7 +45,7 @@ To browse on GitHub, open [`index/`](index/): one page per category, listing tit
 | `subcategory` | Optional. The personality, event or topic it is about (see `taxonomy.json`; others are allowed). |
 | `group` | Optional. The release year. |
 | `author` | Optional. The poet. Never the reciter. |
-| `anjumans` | The Anjumans that recite it. A lyric in an Anjuman is a Nohay. |
+| `anjumans` | The Anjumans that recite it. A lyric in an Anjuman includes the Nohay category. |
 | `verified` | Whether the text has been checked against a trusted source. |
 
 `scripts/catalog.js` holds the exact rules every file is checked against.

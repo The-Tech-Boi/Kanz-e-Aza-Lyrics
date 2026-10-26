@@ -74,8 +74,8 @@ function recordProblem(record, now = new Date()) {
   if (!Array.isArray(anjumans) || !anjumans.every(text) || new Set(anjumans).size !== anjumans.length) {
     return 'anjumans must be an array of unique non-blank names';
   }
-  if (anjumans.length && !(categories.length === 1 && categories[0] === 'Nohay')) {
-    return 'a lyric in an Anjuman can only be in the Nohay category';
+  if (anjumans.length && !categories.includes('Nohay')) {
+    return 'a lyric in an Anjuman must include the Nohay category';
   }
 
   if ('subcategory' in record) {
