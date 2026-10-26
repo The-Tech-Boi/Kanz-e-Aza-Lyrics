@@ -59,11 +59,12 @@ test('a built-in Personality must fit every Category of the lyric', () => {
   );
 });
 
-test('a lyric in an Anjuman can only be a Nohay', () => {
-  for (const categories of [['Manqabat'], ['Nohay', 'Salaams']]) {
+test('a lyric in an Anjuman includes the Nohay category', () => {
+  assert.equal(problem({ categories: ['Nohay', 'Manqabat'], anjumans: ['Anjuman-e-Abbasia'] }), null);
+  for (const categories of [['Manqabat'], ['Salaams', 'Manqabat']]) {
     assert.equal(
       problem({ categories, anjumans: ['Anjuman-e-Abbasia'] }),
-      'a lyric in an Anjuman can only be in the Nohay category'
+      'a lyric in an Anjuman must include the Nohay category'
     );
   }
 });
