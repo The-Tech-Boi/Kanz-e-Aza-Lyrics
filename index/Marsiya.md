@@ -58,6 +58,7 @@
 - [JAB QATL KIYA NAHAR PA SAQQA-E- HARAM KO](../lyrics/9d/local_82cb5acfcc66a7a52fa1499d0a0be19d.json)
 - [JAB SADR-E- ZEEN SE GIR PADE ABBAS-E- BAAWAFAA](../lyrics/56/local_a40d991bcd079d8e45117b9e484f0356.json)
 - [Nikla wo sher khaime ke bahar alam liye](../lyrics/f6/local_c81ec0d6d4eb3048bcaed7f2f6c515f6.json)
+- [جب صدرزیں سے گر پڑے عباسِ باوفا](../lyrics/ur/KMMtDg2e16mjIyn7U2uR.json)
 
 ## Ali Akbar (a.s)
 
@@ -403,7 +404,3 @@
 - [جب قتل کیا نہر پہ سقائے حرم کو](../lyrics/06/local_ba89e49ef930f5999f722222dcedb006.json)
 - [جب کٹ گئے دریا پہ علمدار کے بازو](../lyrics/33/local_a9ee4aa83313164e8ce333a44702f733.json)
 - [جب گرے رن میں باوفا عباس](../lyrics/b9/local_b2dd6fa330d88972466a154cd29a68b9.json)
-
-## Without a Personality
-
-- [جب صدرزیں سے گر پڑے عباسِ باوفا](../lyrics/ur/KMMtDg2e16mjIyn7U2uR.json)
