@@ -17,6 +17,7 @@
 ## Shehzadi Sakina (s.a)
 
 - [Bano ki dilruba sakina jaa'n](../lyrics/73/local_ad5de842228c06c3f562633ffd17f073.json)
+- [Thi Sakina ki yeh sadaa bhaayi](../lyrics/bd/chashme_aza_5ca3f64b48cd7c988e79fdbd.json)
 
 ## Imam Raza (a.s)
 
@@ -117,7 +118,6 @@
 - [Soja asghar jaani soja](../lyrics/46/local_85e0a28229676bf22c615cc19ad80346.json)
 - [Tashnalab mazloom sarwar alvida](../lyrics/55/local_ed7a702f6e926c9ef5f11214198d1355.json)
 - [Thi kisi ki dasht mein sadaa Haaye hum yateem hogaye](../lyrics/20/chashme_aza_037cbc442b04158010accc20.json)
-- [Thi Sakina ki yeh sadaa bhaayi](../lyrics/bd/chashme_aza_5ca3f64b48cd7c988e79fdbd.json)
 - [Wajibur rehm the zinda'n ke sazawaar na the](../lyrics/ee/local_49870774e7404758553924ba93f75fee.json)
 - [Ya Ali Karbala me aag lagi](../lyrics/9b/local_03cf17579340c9025a9cdbe3e32c5f9b.json)
 - [ya imaame raza khuda hafiz](../lyrics/08/local_4f78bde3402951159d25fd06b4474908.json)
