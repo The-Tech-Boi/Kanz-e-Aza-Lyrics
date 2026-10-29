@@ -402,6 +402,8 @@ function commitMessage(changes) {
 
 const marksPath = path.join(__dirname, '../publish_marks.json');
 const messagePath = path.join(__dirname, '../commit_message.txt');
+// For notify_new_lyrics.js: the lyrics this run published as new.
+const newLyricsPath = path.join(__dirname, '../new_lyrics.json');
 
 function checkLyricFiles(dir) {
   const problems = catalog.problems(dir);
@@ -516,6 +518,12 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
     ...ids.map(id => ({ title: after.get(id).title, kind: kindOf(id, added.includes(id) ? 'new' : 'Owner edit') })),
     ...removed.map(id => plan.deletes.get(id) ?? { title: catalog.recordIn(baseline, id, dir).title, kind: 'removed' })
   ]));
+  // New to readers: a restore brings back a lyric they had.
+  const fresh = added.filter(id => plan.writes.get(id)?.kind !== 'restore');
+  if (fresh.length) {
+    fs.writeFileSync(path.join(dir, path.basename(newLyricsPath)), JSON.stringify(
+      fresh.map(id => ({ remoteId: id, title: after.get(id).title })), null, 2) + '\n');
+  }
   console.log(`Success! Created ${updateFilename} and updated manifest.json.`);
 }
 
@@ -573,6 +581,7 @@ module.exports = {
   isAdminEdit,
   loadManifest,
   markPublished,
+  newLyricsPath,
   normalizeCategory,
   pendingRestores,
   pendingWithdrawals,
