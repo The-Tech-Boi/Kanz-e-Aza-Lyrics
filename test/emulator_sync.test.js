@@ -98,7 +98,7 @@ function node(repo, args) {
 // Returns the update file it published, or null.
 function workflowRun(repo, { mark = true } = {}) {
   repo.runs++;
-  for (const leftover of ['output', 'publish_marks.json', 'commit_message.txt']) {
+  for (const leftover of ['output', 'publish_marks.json', 'commit_message.txt', 'new_lyrics.json']) {
     fs.rmSync(path.join(repo.dir, leftover), { recursive: true, force: true });
   }
   const { stdout, stderr } = node(repo, ['scripts/sync_firestore_to_github.js']);

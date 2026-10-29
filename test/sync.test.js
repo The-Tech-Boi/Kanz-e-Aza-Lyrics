@@ -128,6 +128,8 @@ test('a Withdrawal deletes the file; a restore with no approval brings back its 
   assert.deepEqual(restore.update, { items: [toUpdateItem(bundled)] });
   assert.equal(restore.message, 'Publish 1 lyric change [skip ci]\n\n- Bundled: restore');
   assert.deepEqual(restore.marks.withdrawals, [{ remoteId: 'lyric-b2', updatedAt: 6000 }]);
+  // Readers had it before: no new-lyric notification.
+  assert.ok(!exists(dir, 'new_lyrics.json'));
   assert.equal((await workflowRun(dir, fakeDb(firestore))).update, null);
 });
 
@@ -147,6 +149,12 @@ test('the Owner\'s commits to lyrics/ are published, after this run\'s approvals
 
   assert.deepEqual(run.update.items.map(item => item.remoteId), ['web-zz', 'lyric-c3', 'lyric-a1']);
   assert.equal(run.update.items[2].author, 'Mir Anees');
+  // New lyrics wait for the notification; the Owner's edit doesn't.
+  const fresh = JSON.parse(fs.readFileSync(path.join(dir, 'new_lyrics.json'), 'utf8'));
+  assert.deepEqual(fresh.sort((a, b) => a.remoteId.localeCompare(b.remoteId)), [
+    { remoteId: 'lyric-c3', title: 'Title of lyric-c3' },
+    { remoteId: 'web-zz', title: 'Approved this run' }
+  ]);
   assert.deepEqual(run.update.removed, ['lyric-b2']);
   assert.equal(run.message, [
     'Publish 4 lyric changes [skip ci]',

@@ -28,7 +28,7 @@ function catalogRepo(records = [], manifest = {}) {
   fs.appendFileSync(path.join(dir, '.git', 'config'),
     '[user]\n\tname = Test\n\temail = test@example.com\n' +
     '[core]\n\tautocrlf = false\n[commit]\n\tgpgsign = false\n');
-  fs.writeFileSync(path.join(dir, '.gitignore'), 'output/\npublish_marks.json\ncommit_message.txt\n');
+  fs.writeFileSync(path.join(dir, '.gitignore'), 'output/\npublish_marks.json\ncommit_message.txt\nnew_lyrics.json\n');
   fs.cpSync(path.join(root, 'scripts'), path.join(dir, 'scripts'), { recursive: true });
   fs.copyFileSync(path.join(root, 'taxonomy.json'), path.join(dir, 'taxonomy.json'));
   for (const record of records) catalog.writeLyric(record, dir);
@@ -75,7 +75,7 @@ function fakeDb(collections) {
 // then "Mark Lyrics Published". Returns the marks and, when something was
 // published, the update file and the commit message.
 async function workflowRun(dir, db, releaseTag = 'v1.0.1-test') {
-  for (const leftover of ['output', 'publish_marks.json', 'commit_message.txt']) {
+  for (const leftover of ['output', 'publish_marks.json', 'commit_message.txt', 'new_lyrics.json']) {
     fs.rmSync(path.join(dir, leftover), { recursive: true, force: true });
   }
   delete process.env.ONLY_IF_ADMIN_EDIT;

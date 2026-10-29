@@ -12,7 +12,7 @@ test('lyrics are marked published as the last workflow step', () => {
   const workflow = fs.readFileSync(
     path.join(__dirname, '../.github/workflows/sync_lyrics.yml'), 'utf8');
   const steps = [...workflow.matchAll(/- name: (.+)/g)].map(m => m[1].trim());
-  assert.equal(steps.at(-1), 'Mark Lyrics Published');
+  assert.deepEqual(steps.slice(-2), ['Mark Lyrics Published', 'Notify New Lyrics']);
   assert.ok(steps.indexOf('Create Release') < steps.indexOf('Commit the Catalog and the Update'));
   assert.ok(steps.indexOf('Commit the Catalog and the Update') < steps.indexOf('Mark Lyrics Published'));
 
