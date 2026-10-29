@@ -58,7 +58,6 @@
 - [JAB QATL KIYA NAHAR PA SAQQA-E- HARAM KO](../lyrics/9d/local_82cb5acfcc66a7a52fa1499d0a0be19d.json)
 - [JAB SADR-E- ZEEN SE GIR PADE ABBAS-E- BAAWAFAA](../lyrics/56/local_a40d991bcd079d8e45117b9e484f0356.json)
 - [Nikla wo sher khaime ke bahar alam liye](../lyrics/f6/local_c81ec0d6d4eb3048bcaed7f2f6c515f6.json)
-- [جب صدرزیں سے گر پڑے عباسِ باوفا](../lyrics/ur/KMMtDg2e16mjIyn7U2uR.json)
 
 ## Ali Akbar (a.s)
 
@@ -400,6 +399,7 @@
 - [اہلِ حرم کا مونس و غم خوار مر گیا](../lyrics/a0/local_12d00fa690c37d57c8cdb7848aff53a0.json)
 - [جب ابنِ بوتراب بروئے زمیں گرا](../lyrics/ab/local_68315ca1f60c3fd245e5073128ba2bab.json)
 - [جب اِذن پانی لانے کا عباس کو ملا](../lyrics/57/local_d27f05fb2459753034ecc16023242957.json)
+- [جب صدرزیں سے گر پڑے عباسِ باوفا](../lyrics/ur/KMMtDg2e16mjIyn7U2uR.json)
 - [جب صدرزیں سے گر پڑے عباسِ باوفا](../lyrics/d9/local_b3f3937b2e880a72d460cb54315bd3d9.json)
 - [جب قتل کیا نہر پہ سقائے حرم کو](../lyrics/06/local_ba89e49ef930f5999f722222dcedb006.json)
 - [جب کٹ گئے دریا پہ علمدار کے بازو](../lyrics/33/local_a9ee4aa83313164e8ce333a44702f733.json)
