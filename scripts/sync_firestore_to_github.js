@@ -235,22 +235,42 @@ const newestApproval = docs => docs.reduce((newest, doc) =>
 //                  Unverify of a Published Lyric, waiting for this run
 //   lyrics         the Catalog before the run (remoteId -> record)
 //   lastVersion    a deleted lyric's last record, from git history, or null
+//   firstAdded     when a lyric's file first came into the Catalog (ms), or null
 // Docs are `{ id, data }`. Returns the records to write and the lyrics to
 // delete, each with the kind of change for the commit message; the
 // submission ids, decisions and verifications to mark published; the
 // restores that couldn't be found (left pending, unmarked); approvals
 // held because their record is invalid; and how many approvals lost their
 // Styling because its words weren't the body's.
-function planUpdate({ submissions, decisions, verifications = [], lyrics = new Map(), lastVersion = () => null }) {
+function planUpdate({
+  submissions, decisions, verifications = [], lyrics = new Map(), lastVersion = () => null, firstAdded = () => null
+}) {
   const withdrawn = new Set(
     decisions.filter(({ data }) => data.withdrawn === true).map(({ id }) => id)
   );
   const restoring = new Set(pendingRestores(decisions).map(({ remoteId }) => remoteId));
 
+  // A submission without `revisionOfRemoteId` is a new lyric under its own
+  // ID. Changes to a Published Lyric come only as Revision Submissions, so
+  // an unpublished one created after a lyric with its ID came into the
+  // Catalog is held instead of replacing that lyric. The submission a lyric
+  // was published from is older than its file, so it still goes out when
+  // it changed during the run that published it, or wasn't marked.
+  const takesPublishedId = ({ id, data }) => {
+    if (data.revisionOfRemoteId || data.published !== false) return false;
+    const added = firstAdded(id);
+    return added !== null && millis(data.createdAt) > added;
+  };
+
   // Approved submissions by the lyric they publish. A Revision Submission is
   // its own document whose `revisionOfRemoteId` names the lyric it replaces.
   const approvals = new Map();
+  const held = [];
   for (const doc of submissions) {
+    if (takesPublishedId(doc)) {
+      held.push({ remoteId: doc.id, id: doc.id, problem: 'a Published Lyric has this ID; send a change to it as a revision' });
+      continue;
+    }
     const remoteId = doc.data.revisionOfRemoteId || doc.id;
     approvals.set(remoteId, [...(approvals.get(remoteId) ?? []), doc]);
   }
@@ -262,7 +282,6 @@ function planUpdate({ submissions, decisions, verifications = [], lyrics = new M
   const writes = new Map();
   const deletes = new Map();
   const submissionIds = [];
-  const held = [];
   let unstyled = 0;
   const publish = (remoteId, docs, kind) => {
     const newest = newestApproval(docs);
@@ -455,7 +474,8 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
       updateTime: { seconds: doc.updateTime.seconds, nanoseconds: doc.updateTime.nanoseconds }
     })),
     lyrics: before,
-    lastVersion: remoteId => catalog.lastVersion(remoteId, dir)
+    lastVersion: remoteId => catalog.lastVersion(remoteId, dir),
+    firstAdded: remoteId => catalog.firstAdded(remoteId, dir)
   });
   for (const { remoteId, problem } of plan.held) {
     console.warn(`Approval of ${remoteId} held, not published: ${problem}`);
