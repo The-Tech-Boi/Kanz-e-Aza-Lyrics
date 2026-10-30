@@ -267,6 +267,10 @@ function planUpdate({ submissions, decisions, verifications = [], lyrics = new M
   const publish = (remoteId, docs, kind) => {
     const newest = newestApproval(docs);
     const record = toRecord(remoteId, newest.data, () => unstyled++);
+    // A Revision Submission doesn't change Anjuman membership: the lyric
+    // keeps the Anjumans the Catalog has, or had before a Withdrawal.
+    const published = newest.data.revisionOfRemoteId && (lyrics.get(remoteId) ?? lastVersion(remoteId));
+    if (published) record.anjumans = published.anjumans;
     // Verified belongs to the text: an edit that keeps the title and body
     // keeps the Catalog's flag; one that changes them brings its own. The
     // Writer's body ends with a line break, so trailing empty lines don't count.
