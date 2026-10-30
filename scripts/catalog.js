@@ -46,6 +46,10 @@ const lyricPath = remoteId =>
 const serialize = record => JSON.stringify(record, null, 2) + '\n';
 
 const text = value => typeof value === 'string' && /\S/.test(value);
+// A title or name readers can see: at least one letter or digit. Format
+// characters (zero-width space, ZWNJ and ZWJ, bidi controls, BOM, soft
+// hyphen) may be in it, since Urdu uses ZWNJ, but don't count.
+const visible = value => typeof value === 'string' && /[\p{L}\p{N}]/u.test(value);
 
 // What is wrong with a lyric record, or null. The v1 rules the phone and the
 // website read by, with the Owner's own Category and Personality names
@@ -63,6 +67,7 @@ function recordProblem(record, now = new Date()) {
     return 'styling must be an array of objects, each with insert';
   }
   if (!['Roman Urdu', 'Urdu'].includes(record.language)) return 'language must be Roman Urdu or Urdu';
+  if (!visible(record.title)) return 'title must have a letter or digit';
 
   const { categories, anjumans } = record;
   if (!Array.isArray(categories) || !categories.length || !categories.every(text)) {
@@ -71,8 +76,8 @@ function recordProblem(record, now = new Date()) {
   if (new Set(categories).size !== categories.length) return 'categories must be unique';
   const badName = categories.find(category => !NAME.test(category));
   if (badName !== undefined) return `not a category name: ${JSON.stringify(badName)}`;
-  if (!Array.isArray(anjumans) || !anjumans.every(text) || new Set(anjumans).size !== anjumans.length) {
-    return 'anjumans must be an array of unique non-blank names';
+  if (!Array.isArray(anjumans) || !anjumans.every(visible) || new Set(anjumans).size !== anjumans.length) {
+    return 'anjumans must be an array of unique names, each with a letter or digit';
   }
   if (anjumans.length && !categories.includes('Nohay')) {
     return 'a lyric in an Anjuman must include the Nohay category';
@@ -80,8 +85,8 @@ function recordProblem(record, now = new Date()) {
 
   if ('subcategory' in record) {
     const personality = record.subcategory;
-    if (!text(personality) || personality === 'General') {
-      return 'subcategory must be absent or a non-blank name other than General';
+    if (!visible(personality) || personality === 'General') {
+      return 'subcategory must be absent or a name with a letter or digit, other than General';
     }
     const lists = subjectsByCategory();
     if ([...lists.values()].some(list => list.includes(personality))) {
@@ -93,7 +98,7 @@ function recordProblem(record, now = new Date()) {
   if ('group' in record && !(Number.isInteger(record.group) && record.group >= 1900 && record.group <= year)) {
     return `group must be a release year from 1900 to ${year}`;
   }
-  if ('author' in record && !text(record.author)) return 'author must be absent or non-blank';
+  if ('author' in record && !visible(record.author)) return 'author must be absent or have a letter or digit';
   if (typeof record.verified !== 'boolean') return 'verified must be true or false';
   return null;
 }

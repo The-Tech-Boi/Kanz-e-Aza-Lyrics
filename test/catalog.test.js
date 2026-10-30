@@ -50,6 +50,36 @@ test('the Owner\'s own Category and Personality names are allowed', () => {
   assert.equal(problem({ categories: ['Rubai'], subcategory: 'Shaheed-e-Salis' }), null);
 });
 
+// Format characters alone: zero-width space, ZWNJ and ZWJ, bidi isolates,
+// a bidi override, BOM, soft hyphen, and a mix with spaces. The same inputs
+// as the visible-text cases of shared/lyric_metadata/v1/fixtures/invalid.json
+// in the RomanUrduLyricsApp repository.
+const invisible = ['\u200B', '\u200C\u200D', '\u2066\u2069', '\u202E', '\uFEFF', '\u00AD', ' \u200B\u200F '];
+
+test('a title, Poet, Personality and Anjuman need a letter or digit', () => {
+  for (const value of invisible) {
+    const shown = JSON.stringify(value);
+    // A BOM is white space to JavaScript, so it already fails the blank check.
+    assert.match(problem({ title: value }), /^title (is required|must have a letter or digit)/, shown);
+    assert.equal(problem({ author: value }), 'author must be absent or have a letter or digit', shown);
+    assert.equal(problem({ subcategory: value }),
+      'subcategory must be absent or a name with a letter or digit, other than General', shown);
+    assert.equal(problem({ anjumans: [value] }),
+      'anjumans must be an array of unique names, each with a letter or digit', shown);
+  }
+});
+
+test('format characters inside visible text are allowed', () => {
+  // Urdu joins with ZWNJ.
+  assert.equal(problem({
+    title: 'ہم\u200Cسفر',
+    author: 'Mir\u00ADAnees',
+    subcategory: '\u2066Alam\u2069',
+    anjumans: ['Anjuman\u200B A']
+  }), null);
+  assert.equal(problem({ title: '1857' }), null);
+});
+
 test('a built-in Personality must fit every Category of the lyric', () => {
   // Ibteda-e-Aza is a Nohay Personality only.
   assert.equal(problem({ subcategory: 'Ibteda-e-Aza' }), null);
