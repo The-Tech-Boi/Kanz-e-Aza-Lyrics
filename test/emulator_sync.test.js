@@ -419,6 +419,24 @@ test('two approved revisions of one lyric: the newest approval wins, both are ma
   assert.equal(workflowRun(repo).update, null);
 });
 
+test('a revision keeps the lyric\'s Anjumans, whatever it sends', { skip }, async () => {
+  const { subcategory, ...nohay } = bundled;
+  const repo = checkout({ lyrics: [{ ...nohay, categories: ['Nohay'], anjumans: ['Anjuman A'] }] });
+  await put('rev-c', websiteSubmission('rev-c', {
+    title: 'Corrected',
+    revisionOfRemoteId: 'base-7',
+    subcategory: 'Hazrat Abbas (a.s)',
+    anjumans: ['Anjuman B'],
+    ...approval(3000)
+  }));
+
+  const run = workflowRun(repo);
+
+  assert.deepEqual(run.update.items.map(i => [i.remoteId, i.title, i.anjumans]), [['base-7', 'Corrected', ['Anjuman A']]]);
+  assert.deepEqual(JSON.parse(fs.readFileSync(lyricFile(repo, 'base-7'), 'utf8')).anjumans, ['Anjuman A']);
+  assert.equal((await read('rev-c')).published, true);
+});
+
 test('a lyric rejected after approval, before the run, is not published', { skip }, async () => {
   const repo = checkout();
   await put('web-4', websiteSubmission('web-4', { ...approval(2000), ...rejection(3000, 'Wrong poet') }));
