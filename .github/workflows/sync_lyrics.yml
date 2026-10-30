@@ -31,7 +31,7 @@ jobs:
       RELEASE_TAG: v1.0.${{ github.run_number }}-${{ github.run_id }}
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@a37ce9120846195fa4ece8f58b268e6043cb2f26 # v3.7.0
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           # The whole history: the run compares lyrics/ with the tree the
           # manifest names, and a restore reads a deleted file's last version.
