@@ -376,6 +376,24 @@ test('a revision replaces the published lyric instead of adding one', { skip }, 
   assert.equal(catalogNow.get('lyric-1').title, 'Original (corrected)');
 });
 
+test('a new-lyric Submission under a Published Lyric\'s ID is held, and the lyric stays as it is', { skip }, async () => {
+  const repo = checkout({ lyrics: [bundled] });
+  const before = fs.readFileSync(lyricFile(repo, 'base-7'), 'utf8');
+  await put('base-7', websiteSubmission('base-7', {
+    title: 'Other title',
+    body: 'Other line',
+    createdAt: Timestamp.now(),
+    ...approval(Date.now())
+  }));
+
+  const run = workflowRun(repo);
+
+  assert.equal(run.update, null);
+  assert.equal(fs.readFileSync(lyricFile(repo, 'base-7'), 'utf8'), before);
+  assert.equal((await read('base-7')).published, false);
+  assert.match(run.stderr, /held/);
+});
+
 test('two approved revisions of one lyric: the newest approval wins, both are marked', { skip }, async () => {
   const repo = checkout({ lyrics: [bundled] });
   // Created in the opposite order to their approval.

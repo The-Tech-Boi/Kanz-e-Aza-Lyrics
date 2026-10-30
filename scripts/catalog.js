@@ -189,6 +189,13 @@ function changesBetween(from, to, dir = root) {
 const recordIn = (tree, remoteId, dir = root) =>
   JSON.parse(git(['show', `${tree}:${path.posix.relative('lyrics', lyricPath(remoteId))}`], dir));
 
+// When a lyric's file first came into the Catalog, in ms (the commit time),
+// or null if it never had one.
+function firstAdded(remoteId, dir = root) {
+  const added = git(['log', '--format=%ct', '--diff-filter=A', '--', lyricPath(remoteId)], dir);
+  return added ? Number(added.split('\n').at(-1)) * 1000 : null;
+}
+
 // A deleted lyric's last version from git history, or null if it never had a file.
 function lastVersion(remoteId, dir = root) {
   const file = lyricPath(remoteId);
@@ -261,6 +268,7 @@ module.exports = {
   catalogTree,
   changesBetween,
   deleteLyric,
+  firstAdded,
   lastVersion,
   lyricFiles,
   lyricPath,
