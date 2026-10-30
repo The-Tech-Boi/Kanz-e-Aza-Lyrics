@@ -228,6 +228,30 @@ const hasAdminEdit = docs => docs.some(isAdminEdit);
 const newestApproval = docs => docs.reduce((newest, doc) =>
   millis(doc.data.approvedAt) >= millis(newest.data.approvedAt) ? doc : newest);
 
+// The names an approval may use: the Owner's approved Personalities (the
+// built-in ones until the Owner saves a list), and every Personality and
+// Anjuman the Catalog has. Contributors choose from these and can't add
+// others; the Owner adds Anjumans through the Catalog.
+function allowedNames(lyrics, personalities) {
+  const builtIn = [...catalog.subjectsByCategory().values()].flat();
+  const records = [...lyrics.values()];
+  return {
+    personalities: new Set([...(personalities ?? builtIn), ...records.map(r => r.subcategory).filter(Boolean)]),
+    anjumans: new Set(records.flatMap(r => r.anjumans))
+  };
+}
+
+// The first name in `record` that isn't allowed, as a problem, or null.
+// `kept` is the lyric as last published, whose own names stay allowed.
+function unapprovedName(record, allowed, kept) {
+  const { subcategory, anjumans } = record;
+  if (subcategory !== undefined && !allowed.personalities.has(subcategory) && subcategory !== kept?.subcategory) {
+    return `the Personality ${JSON.stringify(subcategory)} is not on the approved list`;
+  }
+  const anjuman = anjumans.find(name => !allowed.anjumans.has(name) && !kept?.anjumans.includes(name));
+  return anjuman === undefined ? null : `the Anjuman ${JSON.stringify(anjuman)} is not in the Catalog`;
+}
+
 // What one run writes into the Catalog, from Firestore.
 //   submissions    approved `submissions` docs, published or not
 //   decisions      every `catalogWithdrawals` doc
@@ -236,6 +260,8 @@ const newestApproval = docs => docs.reduce((newest, doc) =>
 //   lyrics         the Catalog before the run (remoteId -> record)
 //   lastVersion    a deleted lyric's last record, from git history, or null
 //   firstAdded     when a lyric's file first came into the Catalog (ms), or null
+//   personalities  the Owner's approved Personalities (taxonomy/personalities
+//                  names), or undefined until the Owner saves them
 // Docs are `{ id, data }`. Returns the records to write and the lyrics to
 // delete, each with the kind of change for the commit message; the
 // submission ids, decisions and verifications to mark published; the
@@ -243,7 +269,8 @@ const newestApproval = docs => docs.reduce((newest, doc) =>
 // held because their record is invalid; and how many approvals lost their
 // Styling because its words weren't the body's.
 function planUpdate({
-  submissions, decisions, verifications = [], lyrics = new Map(), lastVersion = () => null, firstAdded = () => null
+  submissions, decisions, verifications = [], lyrics = new Map(), lastVersion = () => null, firstAdded = () => null,
+  personalities
 }) {
   const withdrawn = new Set(
     decisions.filter(({ data }) => data.withdrawn === true).map(({ id }) => id)
@@ -283,6 +310,7 @@ function planUpdate({
   const deletes = new Map();
   const submissionIds = [];
   let unstyled = 0;
+  const allowed = allowedNames(lyrics, personalities);
   const publish = (remoteId, docs, kind) => {
     const newest = newestApproval(docs);
     const record = toRecord(remoteId, newest.data, () => unstyled++);
@@ -294,7 +322,8 @@ function planUpdate({
         withoutTrailingLines(current.body) === withoutTrailingLines(record.body)) {
       record.verified = current.verified;
     }
-    const problem = catalog.recordProblem(record);
+    const problem = catalog.recordProblem(record) ??
+      unapprovedName(record, allowed, current ?? lastVersion(remoteId));
     if (problem) {
       held.push({ remoteId, problem });
       return false;
@@ -475,7 +504,8 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
     })),
     lyrics: before,
     lastVersion: remoteId => catalog.lastVersion(remoteId, dir),
-    firstAdded: remoteId => catalog.firstAdded(remoteId, dir)
+    firstAdded: remoteId => catalog.firstAdded(remoteId, dir),
+    personalities: docs(await db.collection('taxonomy').get()).find(({ id }) => id === 'personalities')?.data.names
   });
   for (const { remoteId, problem } of plan.held) {
     console.warn(`Approval of ${remoteId} held, not published: ${problem}`);
