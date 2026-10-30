@@ -240,7 +240,7 @@ const newestApproval = docs => docs.reduce((newest, doc) =>
 // delete, each with the kind of change for the commit message; the
 // submission ids, decisions and verifications to mark published; the
 // restores that couldn't be found (left pending, unmarked); approvals
-// held because their record is invalid; and how many approvals lost their
+// held, each with the submission held and why; and how many approvals lost their
 // Styling because its words weren't the body's.
 function planUpdate({
   submissions, decisions, verifications = [], lyrics = new Map(), lastVersion = () => null, firstAdded = () => null
@@ -300,7 +300,7 @@ function planUpdate({
     }
     const problem = catalog.recordProblem(record);
     if (problem) {
-      held.push({ remoteId, problem });
+      held.push({ remoteId, id: newest.id, problem });
       return false;
     }
     kind ??= lyrics.has(remoteId) ? (isAdminEdit(newest) ? 'admin edit' : 'suggested edit')
@@ -482,8 +482,9 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
     lastVersion: remoteId => catalog.lastVersion(remoteId, dir),
     firstAdded: remoteId => catalog.firstAdded(remoteId, dir)
   });
-  for (const { remoteId, problem } of plan.held) {
-    console.warn(`Approval of ${remoteId} held, not published: ${problem}`);
+  // Only a count: which lyric, and why, go onto the Submission for Admins.
+  if (plan.held.length) {
+    console.warn(`${plan.held.length} approval(s) held, not published; each Submission says why.`);
   }
   for (const remoteId of plan.unresolved) {
     console.warn(`Restore of ${remoteId} not published: no approval or earlier file has it. It stays pending.`);
@@ -501,17 +502,22 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
   // What --mark-published marks. Kept out of output/, which the release
   // uploads: submission ids aren't catalog data. Each submission with the
   // exact updateTime this run read, so only a version nobody changed since
-  // is marked. `withdrawals` lists the catalogWithdrawals docs published,
+  // is marked. `held` are the held submissions whose stored reason is not
+  // this run's. `withdrawals` lists the catalogWithdrawals docs published,
   // withdrawals and restores alike. Written even when the Catalog already
   // had everything, so an approval a failed run wrote is still marked.
-  if (plan.submissionIds.length || plan.decisions.length || plan.verifications.length) {
-    const readAt = new Map(approved.docs.map(doc => [doc.id, doc.updateTime]));
-    const submissions = plan.submissionIds.map(id => {
-      const { seconds, nanoseconds } = readAt.get(id);
-      return { id, updateTime: { seconds, nanoseconds } };
-    });
+  const read = new Map(approved.docs.map(doc => [doc.id, doc]));
+  const updateTime = id => {
+    const { seconds, nanoseconds } = read.get(id).updateTime;
+    return { seconds, nanoseconds };
+  };
+  const held = plan.held
+    .filter(({ id, problem }) => read.get(id).data().held?.reason !== problem)
+    .map(({ id, problem }) => ({ id, reason: problem, updateTime: updateTime(id) }));
+  if (plan.submissionIds.length || held.length || plan.decisions.length || plan.verifications.length) {
+    const submissions = plan.submissionIds.map(id => ({ id, updateTime: updateTime(id) }));
     fs.writeFileSync(path.join(dir, path.basename(marksPath)), JSON.stringify(
-      { submissions, withdrawals: plan.decisions, verifications: plan.verifications },
+      { submissions, held, withdrawals: plan.decisions, verifications: plan.verifications },
       null, 2) + '\n');
   }
 
@@ -578,12 +584,18 @@ async function writeUnchanged(docs, write) {
 // Runs as the workflow's last step, after the release exists. If any earlier
 // step fails, the lyrics stay unpublished and the next run publishes them again.
 async function markPublished(file = marksPath, db = getDb()) {
-  const { submissions = [], withdrawals = [], verifications = [] } = JSON.parse(fs.readFileSync(file, 'utf8'));
+  const { submissions = [], held = [], withdrawals = [], verifications = [] } =
+    JSON.parse(fs.readFileSync(file, 'utf8'));
+  const { FieldValue, Timestamp } = admin.firestore;
   // A submission changed since this run read it (rejected, edited and
   // approved again, say) stays unpublished: the next run publishes the
-  // version it has now.
+  // version it has now. A published one is no longer held.
   const marked = await writeUnchanged(submissions, ({ id }, precondition) =>
-    db.collection('submissions').doc(id).update({ published: true }, precondition));
+    db.collection('submissions').doc(id).update({ published: true, held: FieldValue.delete() }, precondition));
+  // Why an approval is held, for the Admins' queues. One an Admin changed
+  // since is left for the next run to judge again.
+  const flagged = await writeUnchanged(held, ({ id, reason }, precondition) =>
+    db.collection('submissions').doc(id).update({ held: { reason, at: Timestamp.now() } }, precondition));
   // Withdrawals and restores. The updatedAt this run saw: if the Owner
   // changed the decision since, updatedAt stays newer and the next run
   // publishes it again.
@@ -598,7 +610,7 @@ async function markPublished(file = marksPath, db = getDb()) {
   // read it; then it waits for the next run.
   const deleted = await writeUnchanged(verifications, ({ remoteId }, precondition) =>
     db.collection('catalogVerifications').doc(remoteId).delete(precondition));
-  console.log(`Marked ${marked} submissions, ${withdrawals.length} withdrawals and ${deleted} verifications as published.`);
+  console.log(`Marked ${marked} submissions, ${withdrawals.length} withdrawals and ${deleted} verifications as published; ${flagged} submissions held.`);
 }
 
 if (require.main === module) {

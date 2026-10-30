@@ -7,6 +7,8 @@ const os = require('os');
 const path = require('path');
 const { execFileSync } = require('child_process');
 
+const { FieldValue } = require('firebase-admin').firestore;
+
 const catalog = require('../scripts/catalog');
 const { markPublished, sync } = require('../scripts/sync_firestore_to_github');
 
@@ -65,7 +67,10 @@ function fakeDb(collections) {
         const current = collections[name]?.[id];
         if (!current) throw fail(5);
         if (lastUpdateTime && lastUpdateTime.seconds !== updateTime(current).seconds) throw fail(9);
-        Object.assign(current, data);
+        for (const [field, value] of Object.entries(data)) {
+          if (FieldValue.delete().isEqual(value)) delete current[field];
+          else current[field] = value;
+        }
       }
     }),
     get: async () => ({

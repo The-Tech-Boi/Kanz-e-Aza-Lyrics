@@ -4,6 +4,8 @@ const fs = require('fs');
 const os = require('os');
 const path = require('path');
 
+const { FieldValue } = require('firebase-admin').firestore;
+
 const { markPublished, pendingWithdrawals } = require('../scripts/sync_firestore_to_github');
 
 // Lyrics are marked published only after the release and the Catalog commit,
@@ -57,8 +59,38 @@ test('markPublished marks each submission the run published, if unchanged since 
   await markPublished(file, db);
 
   assert.deepEqual(updated, [
-    ['submissions/a', { published: true }, 1790000000, 5000],
-    ['submissions/revision-of-a', { published: true }, 1790000000, 5000]
+    ['submissions/a', { published: true, held: FieldValue.delete() }, 1790000000, 5000],
+    ['submissions/revision-of-a', { published: true, held: FieldValue.delete() }, 1790000000, 5000]
+  ]);
+});
+
+test('markPublished writes why each held submission is held, if unchanged since the run read it', async () => {
+  const file = path.join(fs.mkdtempSync(path.join(os.tmpdir(), 'mark-')), 'publish_marks.json');
+  const read = { seconds: 1790000000, nanoseconds: 0 };
+  fs.writeFileSync(file, JSON.stringify({
+    submissions: [],
+    held: [
+      { id: 'web-bad', reason: 'group must be a release year from 1900 to 2026', updateTime: read },
+      { id: 'changed-since', reason: 'unknown field: x', updateTime: read }
+    ]
+  }));
+  const updated = [];
+  const db = {
+    collection: name => ({
+      doc: id => ({
+        update: async (data, { lastUpdateTime }) => {
+          if (id === 'changed-since') throw Object.assign(new Error('changed'), { code: 9 });
+          updated.push([`${name}/${id}`, data.held.reason, lastUpdateTime.seconds, typeof data.held.at.toMillis]);
+        }
+      })
+    }),
+    batch: () => ({ update: () => {}, commit: async () => {} })
+  };
+
+  await markPublished(file, db);
+
+  assert.deepEqual(updated, [
+    ['submissions/web-bad', 'group must be a release year from 1900 to 2026', 1790000000, 'function']
   ]);
 });
 
