@@ -80,6 +80,17 @@ test('format characters inside visible text are allowed', () => {
   assert.equal(problem({ title: '1857' }), null);
 });
 
+test('a title, Poet and Personality are one line', () => {
+  for (const value of ['Ya Hussain\n\n## Heading', 'Ya Hussain\r\n- [link](https://example.com)', 'Ya Hussain\r']) {
+    const shown = JSON.stringify(value);
+    assert.equal(problem({ title: value }), 'title must be one line', shown);
+    assert.equal(problem({ author: value }), 'author must be one line', shown);
+    assert.equal(problem({ subcategory: value }), 'subcategory must be one line', shown);
+  }
+  // The body has many lines.
+  assert.equal(problem({ body: 'Pehli line\nDoosri line\r\nTeesri line' }), null);
+});
+
 test('a built-in Personality must fit every Category of the lyric', () => {
   // Ibteda-e-Aza is a Nohay Personality only.
   assert.equal(problem({ subcategory: 'Ibteda-e-Aza' }), null);
@@ -163,6 +174,21 @@ test('the index lists each Category\'s titles by Personality, linking to each fi
     '## Without a Personality',
     '',
     '- [Without one](../lyrics/ty/no-personality.json)',
+    ''
+  ].join('\n'));
+});
+
+test('the index keeps each title and Personality on its own line', () => {
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'kanz-index-'));
+  catalog.writeIndex([lyric('lyric-a1', { title: 'Ya Hussain\n\n## Heading', subcategory: 'Alam\r\n- item' })], dir);
+  assert.equal(fs.readFileSync(path.join(dir, 'index', 'Nohay.md'), 'utf8'), [
+    '# Nohay',
+    '',
+    '1 lyrics.',
+    '',
+    '## Alam - item',
+    '',
+    '- [Ya Hussain ## Heading](../lyrics/a1/lyric-a1.json)',
     ''
   ].join('\n'));
 });

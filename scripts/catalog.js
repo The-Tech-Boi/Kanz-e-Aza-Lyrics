@@ -50,6 +50,9 @@ const text = value => typeof value === 'string' && /\S/.test(value);
 // characters (zero-width space, ZWNJ and ZWJ, bidi controls, BOM, soft
 // hyphen) may be in it, since Urdu uses ZWNJ, but don't count.
 const visible = value => typeof value === 'string' && /[\p{L}\p{N}]/u.test(value);
+// Titles, Poets and Personalities are one line: the index lists them one
+// per line, and the sync's commit message names each change by title.
+const oneLine = value => !/[\n\r]/.test(value);
 
 // What is wrong with a lyric record, or null. The v1 rules the phone and the
 // website read by, with the Owner's own Category and Personality names
@@ -69,6 +72,7 @@ function recordProblem(record, now = new Date()) {
   }
   if (!['Roman Urdu', 'Urdu'].includes(record.language)) return 'language must be Roman Urdu or Urdu';
   if (!visible(record.title)) return 'title must have a letter or digit';
+  if (!oneLine(record.title)) return 'title must be one line';
 
   const { categories, anjumans } = record;
   if (!Array.isArray(categories) || !categories.length || !categories.every(text)) {
@@ -89,6 +93,7 @@ function recordProblem(record, now = new Date()) {
     if (!visible(personality) || personality === 'General') {
       return 'subcategory must be absent or a name with a letter or digit, other than General';
     }
+    if (!oneLine(personality)) return 'subcategory must be one line';
     const lists = subjectsByCategory();
     if ([...lists.values()].some(list => list.includes(personality))) {
       const unfit = categories.find(category => !lists.get(category)?.includes(personality));
@@ -100,6 +105,7 @@ function recordProblem(record, now = new Date()) {
     return `group must be a release year from 1900 to ${year}`;
   }
   if ('author' in record && !visible(record.author)) return 'author must be absent or have a letter or digit';
+  if ('author' in record && !oneLine(record.author)) return 'author must be one line';
   if (typeof record.verified !== 'boolean') return 'verified must be true or false';
   return null;
 }
@@ -208,7 +214,8 @@ function lastVersion(remoteId, dir = root) {
   return commit ? JSON.parse(git(['show', `${commit}^:${file}`], dir)) : null;
 }
 
-const escapeMarkdown = value => value.replace(/([\\`*_[\]<>])/g, '\\$1');
+// Markdown-safe on one line of the index.
+const escapeMarkdown = value => value.replace(/[\n\r]+/g, ' ').replace(/([\\`*_[\]<>])/g, '\\$1');
 
 // index/<Category>.md for every Category in use: titles grouped by
 // Personality, each linking to its file. Built-in Personalities come in
