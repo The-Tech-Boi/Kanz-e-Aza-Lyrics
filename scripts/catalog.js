@@ -58,9 +58,10 @@ function recordProblem(record, now = new Date()) {
     if (!text(record[key])) return `${key} is required and must be non-blank`;
   }
   if (!/^[A-Za-z0-9_-]+$/.test(record.remoteId)) return 'remoteId may hold only letters, digits, _ and -';
-  if ('styling' in record && !(Array.isArray(record.styling) &&
+  // A lyric without Styling leaves it out; readers refuse an empty one.
+  if ('styling' in record && !(Array.isArray(record.styling) && record.styling.length &&
     record.styling.every(op => op !== null && typeof op === 'object' && 'insert' in op))) {
-    return 'styling must be an array of objects, each with insert';
+    return 'styling must be a non-empty array of objects, each with insert';
   }
   if (!['Roman Urdu', 'Urdu'].includes(record.language)) return 'language must be Roman Urdu or Urdu';
 

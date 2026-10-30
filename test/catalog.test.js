@@ -34,9 +34,9 @@ test('a record with every field the v1 rules allow is valid', () => {
   assert.equal(problem({ anjumans: ['Anjuman-e-Abbasia'] }), null);
 });
 
-test('styling is an array of objects, each with insert', () => {
-  for (const styling of ['[]', {}, [null], ['Pehli line'], [[]], [{ attributes: { bold: true } }]]) {
-    assert.equal(problem({ styling }), 'styling must be an array of objects, each with insert', JSON.stringify(styling));
+test('styling is a non-empty array of objects, each with insert', () => {
+  for (const styling of ['[]', {}, [], [null], ['Pehli line'], [[]], [{ attributes: { bold: true } }]]) {
+    assert.equal(problem({ styling }), 'styling must be a non-empty array of objects, each with insert', JSON.stringify(styling));
   }
 });
 
@@ -208,5 +208,5 @@ test('the check refuses an invalid lyric file', () => {
   const result = check(dir);
   assert.equal(result.status, 1);
   assert.match(result.stderr, /lyrics\/b2\/lyric-b2\.json: unknown field: published/);
-  assert.match(result.stderr, /lyrics\/c3\/lyric-c3\.json: styling must be an array of objects, each with insert/);
+  assert.match(result.stderr, /lyrics\/c3\/lyric-c3\.json: styling must be a non-empty array of objects, each with insert/);
 });
