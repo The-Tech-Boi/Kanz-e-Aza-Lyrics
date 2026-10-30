@@ -258,7 +258,13 @@ test('an approved website lyric is published with its metadata, then marked', { 
   assert.equal(run.manifest.latestReleaseTag, 'v1.0.1-test');
   assert.equal(entry.sha256, crypto.createHash('sha256').update(run.bytes).digest('hex'));
   assert.equal(run.manifest.catalogTree, catalog.treeAt('HEAD', repo.dir));
-  assert.deepEqual(run.marks, { submissions: ['web-1'], withdrawals: [], verifications: [] });
+  // Each submission with the updateTime the run read.
+  const { updateTime } = await submission('web-1').get();
+  assert.deepEqual(run.marks, {
+    submissions: [{ id: 'web-1', updateTime: { seconds: updateTime.seconds, nanoseconds: updateTime.nanoseconds } }],
+    withdrawals: [],
+    verifications: []
+  });
   assert.ok(!fs.existsSync(path.join(repo.dir, 'output', 'publish_marks.json')));
   assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- یا عباس: new');
   assert.equal(JSON.parse(fs.readFileSync(lyricFile(repo, 'web-1'), 'utf8')).language, 'Urdu');
@@ -389,7 +395,7 @@ test('two approved revisions of one lyric: the newest approval wins, both are ma
   const run = workflowRun(repo);
 
   assert.deepEqual(run.update.items.map(i => [i.remoteId, i.title]), [['base-7', 'Approved last']]);
-  assert.deepEqual(run.marks.submissions.sort(), ['rev-a', 'rev-b']);
+  assert.deepEqual(run.marks.submissions.map(({ id }) => id).sort(), ['rev-a', 'rev-b']);
   assert.equal((await read('rev-a')).published, true);
   assert.equal((await read('rev-b')).published, true);
   assert.equal(workflowRun(repo).update, null);
@@ -401,6 +407,22 @@ test('a lyric rejected after approval, before the run, is not published', { skip
 
   assert.equal(workflowRun(repo).update, null);
   assert.equal((await read('web-4')).published, false);
+});
+
+test('an approval changed during the run stays unpublished, and the next run publishes it', { skip }, async () => {
+  const repo = checkout();
+  await put('web-6', websiteSubmission('web-6', { title: 'First version', ...approval(2000) }));
+  assert.deepEqual(workflowRun(repo, { mark: false }).update.items.map(i => i.title), ['First version']);
+
+  // Rejected, edited by its Contributor and approved again before marking.
+  await submission('web-6').update(rejection(3000, 'Line 2 is missing'));
+  await submission('web-6').update({ title: 'Second version', status: 'pending', lastEdited: at(4000) });
+  await submission('web-6').update(approval(5000));
+  node(repo, ['scripts/sync_firestore_to_github.js', '--mark-published', 'publish_marks.json']);
+
+  assert.equal((await read('web-6')).published, false);
+  assert.deepEqual(workflowRun(repo).update.items.map(i => i.title), ['Second version']);
+  assert.equal((await read('web-6')).published, true);
 });
 
 test('an Owner withdrawal is published once and not sent again', { skip }, async () => {
@@ -491,7 +513,7 @@ test('a restore sends the newest approved text, with the revision held while wit
     ['lyric-1', 'Revised', 'Corrected line']
   ]);
   assert.ok(!('removed' in run.update));
-  assert.deepEqual(run.marks, {
+  assert.deepEqual({ ...run.marks, submissions: run.marks.submissions.map(({ id }) => id) }, {
     submissions: ['rev-1'],
     withdrawals: [{ remoteId: 'lyric-1', updatedAt: 6000 }],
     verifications: []

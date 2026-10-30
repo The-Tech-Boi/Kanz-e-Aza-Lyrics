@@ -442,10 +442,11 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
 
   checkLyricFiles(dir);
   const before = catalog.readCatalog(dir);
+  // Published ones too: a restore may send the lyric's newest approved
+  // version, and an approval newer than a Verify decides the flag.
+  const approved = await db.collection('submissions').where('status', '==', 'approved').get();
   const plan = planUpdate({
-    // Published ones too: a restore may send the lyric's newest approved
-    // version, and an approval newer than a Verify decides the flag.
-    submissions: docs(await db.collection('submissions').where('status', '==', 'approved').get()),
+    submissions: docs(approved),
     decisions: docs(await db.collection('catalogWithdrawals').get()),
     // Only waiting ones: --mark-published deletes each once it is out. The
     // exact updateTime lets it delete only a doc nobody changed since.
@@ -474,13 +475,19 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
   checkLyricFiles(dir);
 
   // What --mark-published marks. Kept out of output/, which the release
-  // uploads: submission ids aren't catalog data. `withdrawals` lists the
-  // catalogWithdrawals docs published, withdrawals and restores alike.
-  // Written even when the Catalog already had everything, so an approval
-  // a failed run wrote is still marked.
+  // uploads: submission ids aren't catalog data. Each submission with the
+  // exact updateTime this run read, so only a version nobody changed since
+  // is marked. `withdrawals` lists the catalogWithdrawals docs published,
+  // withdrawals and restores alike. Written even when the Catalog already
+  // had everything, so an approval a failed run wrote is still marked.
   if (plan.submissionIds.length || plan.decisions.length || plan.verifications.length) {
+    const readAt = new Map(approved.docs.map(doc => [doc.id, doc.updateTime]));
+    const submissions = plan.submissionIds.map(id => {
+      const { seconds, nanoseconds } = readAt.get(id);
+      return { id, updateTime: { seconds, nanoseconds } };
+    });
     fs.writeFileSync(path.join(dir, path.basename(marksPath)), JSON.stringify(
-      { submissions: plan.submissionIds, withdrawals: plan.decisions, verifications: plan.verifications },
+      { submissions, withdrawals: plan.decisions, verifications: plan.verifications },
       null, 2) + '\n');
   }
 
@@ -527,17 +534,36 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
   console.log(`Success! Created ${updateFilename} and updated manifest.json.`);
 }
 
+// Counts the docs `write` changed. Each write has the updateTime this run
+// read as precondition, and runs on its own, so a doc changed since
+// (FAILED_PRECONDITION) or gone (NOT_FOUND) is skipped without stopping the
+// others; the next run reads it as it is now.
+async function writeUnchanged(docs, write) {
+  let written = 0;
+  for (const doc of docs) {
+    try {
+      await write(doc, { lastUpdateTime: new admin.firestore.Timestamp(doc.updateTime.seconds, doc.updateTime.nanoseconds) });
+      written++;
+    } catch (err) {
+      if (err.code !== 9 && err.code !== 5) throw err;
+    }
+  }
+  return written;
+}
+
 // Runs as the workflow's last step, after the release exists. If any earlier
 // step fails, the lyrics stay unpublished and the next run publishes them again.
 async function markPublished(file = marksPath, db = getDb()) {
   const { submissions = [], withdrawals = [], verifications = [] } = JSON.parse(fs.readFileSync(file, 'utf8'));
-  const batch = db.batch();
-  for (const id of submissions) {
-    batch.update(db.collection('submissions').doc(id), { published: true });
-  }
+  // A submission changed since this run read it (rejected, edited and
+  // approved again, say) stays unpublished: the next run publishes the
+  // version it has now.
+  const marked = await writeUnchanged(submissions, ({ id }, precondition) =>
+    db.collection('submissions').doc(id).update({ published: true }, precondition));
   // Withdrawals and restores. The updatedAt this run saw: if the Owner
   // changed the decision since, updatedAt stays newer and the next run
   // publishes it again.
+  const batch = db.batch();
   for (const { remoteId, updatedAt } of withdrawals) {
     batch.update(db.collection('catalogWithdrawals').doc(remoteId), {
       publishedAt: admin.firestore.Timestamp.fromMillis(updatedAt)
@@ -545,21 +571,10 @@ async function markPublished(file = marksPath, db = getDb()) {
   }
   await batch.commit();
   // A published Verify is deleted, unless an Admin changed it since this run
-  // read it; then it waits for the next run. One by one, so that one doesn't
-  // stop the others.
-  let deleted = 0;
-  for (const { remoteId, updateTime } of verifications) {
-    try {
-      await db.collection('catalogVerifications').doc(remoteId).delete({
-        lastUpdateTime: new admin.firestore.Timestamp(updateTime.seconds, updateTime.nanoseconds)
-      });
-      deleted++;
-    } catch (err) {
-      // FAILED_PRECONDITION: changed since; NOT_FOUND: already gone.
-      if (err.code !== 9 && err.code !== 5) throw err;
-    }
-  }
-  console.log(`Marked ${submissions.length} submissions, ${withdrawals.length} withdrawals and ${deleted} verifications as published.`);
+  // read it; then it waits for the next run.
+  const deleted = await writeUnchanged(verifications, ({ remoteId }, precondition) =>
+    db.collection('catalogVerifications').doc(remoteId).delete(precondition));
+  console.log(`Marked ${marked} submissions, ${withdrawals.length} withdrawals and ${deleted} verifications as published.`);
 }
 
 if (require.main === module) {
