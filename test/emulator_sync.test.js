@@ -353,6 +353,23 @@ test('a lyric without personality, poet or year publishes the placeholders the a
   assert.ok(!('author' in item));
 });
 
+test('only approved Personalities and the Catalog\'s Anjumans are published', { skip }, async () => {
+  const repo = checkout();
+  // The Owner's lists, as the website's Owner panel saves them.
+  await db.collection('taxonomy').doc('personalities').set({ names: ['Alam'], hidden: [] });
+  await put('web-alam', websiteSubmission('web-alam', { subcategory: 'Alam', ...approval(2000) }));
+  await put('web-invented', websiteSubmission('web-invented', { subcategory: 'Invented Personality', ...approval(2000) }));
+  await put('web-anjuman', websiteSubmission('web-anjuman', { anjumans: ['Invented Anjuman'], ...approval(2000) }));
+
+  const run = workflowRun(repo);
+
+  assert.deepEqual(run.update.items.map(i => [i.remoteId, i.subcategory]), [['web-alam', 'Alam']]);
+  assert.equal((await read('web-alam')).published, true);
+  assert.equal((await read('web-invented')).published, false);
+  assert.equal((await read('web-anjuman')).published, false);
+  assert.ok(!fs.existsSync(lyricFile(repo, 'web-invented')));
+});
+
 test('a revision replaces the published lyric instead of adding one', { skip }, async () => {
   const repo = checkout();
   await put('lyric-1', websiteSubmission('lyric-1', { title: 'Original', ...approval(2000) }));
