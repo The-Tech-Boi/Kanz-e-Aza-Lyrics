@@ -33,26 +33,33 @@ test('marking runs whenever the sync left marks, and the commit names the change
   assert.match(workflow, /git add manifest\.json updates lyrics index\s+git commit -F commit_message\.txt/);
 });
 
-test('markPublished marks every submission the run published', async () => {
+test('markPublished marks each submission the run published, if unchanged since the run read it', async () => {
   const file = path.join(fs.mkdtempSync(path.join(os.tmpdir(), 'mark-')), 'publish_marks.json');
-  fs.writeFileSync(file, JSON.stringify({ submissions: ['a', 'revision-of-a'] }));
+  const read = { seconds: 1790000000, nanoseconds: 5000 };
+  fs.writeFileSync(file, JSON.stringify({
+    submissions: ['a', 'changed-since', 'deleted-since', 'revision-of-a'].map(id => ({ id, updateTime: read }))
+  }));
   const updated = [];
-  let committed = false;
   const db = {
-    collection: name => ({ doc: id => `${name}/${id}` }),
-    batch: () => ({
-      update: (ref, data) => updated.push([ref, data]),
-      commit: async () => { committed = true; }
-    })
+    collection: name => ({
+      doc: id => ({
+        update: async (data, { lastUpdateTime }) => {
+          // FAILED_PRECONDITION and NOT_FOUND, as Firestore answers.
+          if (id === 'changed-since') throw Object.assign(new Error('changed'), { code: 9 });
+          if (id === 'deleted-since') throw Object.assign(new Error('gone'), { code: 5 });
+          updated.push([`${name}/${id}`, data, lastUpdateTime.seconds, lastUpdateTime.nanoseconds]);
+        }
+      })
+    }),
+    batch: () => ({ update: () => {}, commit: async () => {} })
   };
 
   await markPublished(file, db);
 
   assert.deepEqual(updated, [
-    ['submissions/a', { published: true }],
-    ['submissions/revision-of-a', { published: true }]
+    ['submissions/a', { published: true }, 1790000000, 5000],
+    ['submissions/revision-of-a', { published: true }, 1790000000, 5000]
   ]);
-  assert.ok(committed);
 });
 
 test('the marks file stays out of the release assets', () => {

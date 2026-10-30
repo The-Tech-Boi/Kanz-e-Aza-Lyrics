@@ -66,12 +66,33 @@ test('an approved Revision Submission changes only its lyric\'s file', async t =
   assert.deepEqual(JSON.parse(fileOf(dir, 'lyric-a1')), lyric('lyric-a1', { title: 'Corrected title' }));
   assert.equal(fileOf(dir, 'lyric-b2'), before);
   assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- Corrected title: suggested edit');
-  assert.deepEqual(run.marks, { submissions: ['rev-7f3a'], withdrawals: [], verifications: [] });
+  assert.deepEqual({ ...run.marks, submissions: run.marks.submissions.map(({ id }) => id) },
+    { submissions: ['rev-7f3a'], withdrawals: [], verifications: [] });
   assert.equal(firestore.submissions['rev-7f3a'].published, true);
   // The manifest names the tree readers have now.
   assert.equal(run.manifest.catalogTree, catalog.treeAt('HEAD', dir));
 
   assert.equal((await workflowRun(dir, fakeDb(firestore))).update, null);
+});
+
+test('an approval that changed during the run stays unpublished, and the next run publishes it', async t => {
+  quiet(t);
+  const dir = catalogRepo([lyric('lyric-a1')]);
+  const firestore = { submissions: { 'web-c3': approved('web-c3', { title: 'First version' }) } };
+  const db = fakeDb(firestore);
+
+  // Rejected, edited and approved again between the sync and marking.
+  const run = await workflowRun(dir, db, undefined, {
+    beforeMark: async () => {
+      firestore.submissions['web-c3'] = approved('web-c3', { title: 'Second version', approvedAt: at(3000) });
+    }
+  });
+
+  assert.deepEqual(run.update.items.map(item => item.title), ['First version']);
+  assert.equal(firestore.submissions['web-c3'].published, false);
+  const next = await workflowRun(dir, db);
+  assert.deepEqual(next.update.items.map(item => item.title), ['Second version']);
+  assert.equal(firestore.submissions['web-c3'].published, true);
 });
 
 test('the commit names each change by title and kind, never who made it', async t => {
@@ -225,7 +246,7 @@ test('an approval whose record breaks the rules is held, neither written nor mar
 
   assert.deepEqual(run.update.items.map(item => item.remoteId), ['web-good']);
   assert.ok(!exists(dir, catalog.lyricPath('web-bad')));
-  assert.deepEqual(run.marks.submissions, ['web-good']);
+  assert.deepEqual(run.marks.submissions.map(({ id }) => id), ['web-good']);
   assert.equal(firestore.submissions['web-bad'].published, false);
   assert.match(warn.mock.calls.map(call => call.arguments.join(' ')).join('\n'),
     /Approval of web-bad held, not published: group must be a release year/);

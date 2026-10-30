@@ -45,16 +45,33 @@ function catalogRepo(records = [], manifest = {}) {
 
 const at = ms => ({ toMillis: () => ms });
 
+// A doc's updateTime in fakeDb: it changes whenever the doc's fields do.
+const updateTime = data => ({
+  seconds: [...JSON.stringify(data)].reduce((hash, c) => (hash * 31 + c.charCodeAt(0)) % 2147483647, 7),
+  nanoseconds: 0
+});
+
 // Firestore as the sync reads and marks it. `collections` maps a collection
-// name to { docId: data }; marking updates those objects.
+// name to { docId: data }; marking updates those objects. A write with a
+// lastUpdateTime precondition fails as Firestore's does when the doc changed.
 function fakeDb(collections) {
+  const fail = code => Object.assign(new Error(`fakeDb: ${code}`), { code });
   const query = (name, filters) => ({
     where: (field, op, value) => query(name, [...filters, [field, value]]),
-    doc: id => ({ name, id }),
+    doc: id => ({
+      name,
+      id,
+      update: async (data, { lastUpdateTime } = {}) => {
+        const current = collections[name]?.[id];
+        if (!current) throw fail(5);
+        if (lastUpdateTime && lastUpdateTime.seconds !== updateTime(current).seconds) throw fail(9);
+        Object.assign(current, data);
+      }
+    }),
     get: async () => ({
       docs: Object.entries(collections[name] ?? {})
         .filter(([, data]) => filters.every(([field, value]) => data[field] === value))
-        .map(([id, data]) => ({ id, data: () => data }))
+        .map(([id, data]) => ({ id, data: () => data, updateTime: updateTime(data) }))
     })
   });
   return {
@@ -73,8 +90,9 @@ function fakeDb(collections) {
 
 // One run of sync_lyrics.yml: sync, then "Commit the Catalog and the Update",
 // then "Mark Lyrics Published". Returns the marks and, when something was
-// published, the update file and the commit message.
-async function workflowRun(dir, db, releaseTag = 'v1.0.1-test') {
+// published, the update file and the commit message. `beforeMark` runs
+// between the sync and marking: Firestore changing during the run.
+async function workflowRun(dir, db, releaseTag = 'v1.0.1-test', { beforeMark = async () => {} } = {}) {
   for (const leftover of ['output', 'publish_marks.json', 'commit_message.txt', 'new_lyrics.json']) {
     fs.rmSync(path.join(dir, leftover), { recursive: true, force: true });
   }
@@ -102,6 +120,7 @@ async function workflowRun(dir, db, releaseTag = 'v1.0.1-test') {
       message: git(dir, 'log', '-1', '--format=%B')
     };
   }
+  await beforeMark();
   if (marks) await markPublished(marksFile, db);
   return run;
 }
