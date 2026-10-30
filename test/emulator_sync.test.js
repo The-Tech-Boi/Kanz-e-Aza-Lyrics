@@ -262,6 +262,7 @@ test('an approved website lyric is published with its metadata, then marked', { 
   const { updateTime } = await submission('web-1').get();
   assert.deepEqual(run.marks, {
     submissions: [{ id: 'web-1', updateTime: { seconds: updateTime.seconds, nanoseconds: updateTime.nanoseconds } }],
+    held: [],
     withdrawals: [],
     verifications: []
   });
@@ -425,6 +426,33 @@ test('an approval changed during the run stays unpublished, and the next run pub
   assert.equal((await read('web-6')).published, true);
 });
 
+test('a held approval says why on its Submission, once, until it is published', { skip }, async () => {
+  const repo = checkout();
+  await put('web-7', websiteSubmission('web-7', { group: 3000, ...approval(2000) }));
+
+  const run = workflowRun(repo);
+
+  assert.equal(run.update, null);
+  assert.match(run.stderr, /1 approval\(s\) held, not published/);
+  assert.doesNotMatch(run.stderr, /web-7|group/);
+  const held = await read('web-7');
+  assert.equal(held.published, false);
+  assert.match(held.held.reason, /^group must be a release year/);
+  assert.ok(held.held.at.toMillis() > 0);
+
+  // Same reason on the next run: the Submission isn't written again.
+  const { updateTime } = await submission('web-7').get();
+  assert.equal(workflowRun(repo).marks, null);
+  assert.ok((await submission('web-7').get()).updateTime.isEqual(updateTime));
+
+  // Corrected and approved again: published, and no longer held.
+  await submission('web-7').update({ group: 2024, ...approval(5000) });
+  assert.deepEqual(workflowRun(repo).update.items.map(i => i.remoteId), ['web-7']);
+  const published = await read('web-7');
+  assert.equal(published.published, true);
+  assert.ok(!('held' in published));
+});
+
 test('an Owner withdrawal is published once and not sent again', { skip }, async () => {
   const repo = checkout({ lyrics: [bundled] });
   await withdrawal('base-7', true, 4000);
@@ -476,7 +504,7 @@ test('an Owner restore brings the lyric back from git history', { skip }, async 
     }]
   });
   assert.equal(run.message, 'Publish 1 lyric change [skip ci]\n\n- Bundled: restore');
-  assert.deepEqual(run.marks, { submissions: [], withdrawals: [{ remoteId: 'base-7', updatedAt: 6000 }], verifications: [] });
+  assert.deepEqual(run.marks, { submissions: [], held: [], withdrawals: [{ remoteId: 'base-7', updatedAt: 6000 }], verifications: [] });
   apply(phone, run.update);
   assert.equal(phone.get('base-7').title, 'Bundled');
   assert.equal(catalogAfter(repo, base).get('base-7').title, 'Bundled');
@@ -515,6 +543,7 @@ test('a restore sends the newest approved text, with the revision held while wit
   assert.ok(!('removed' in run.update));
   assert.deepEqual({ ...run.marks, submissions: run.marks.submissions.map(({ id }) => id) }, {
     submissions: ['rev-1'],
+    held: [],
     withdrawals: [{ remoteId: 'lyric-1', updatedAt: 6000 }],
     verifications: []
   });
