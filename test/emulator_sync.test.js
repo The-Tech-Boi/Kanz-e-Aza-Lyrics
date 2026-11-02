@@ -156,7 +156,7 @@ const websiteSubmission = (remoteId, fields = {}) => ({
   body: 'Pehli line\n<<DIVIDER>>\n_Doosri line_',
   language: 'Roman Urdu',
   categories: ['Nohay'],
-  subcategory: 'Hazrat Abbas (a.s)',
+  subcategory: 'Moula Abbas (a.s)',
   group: 2024,
   author: 'Example Poet',
   anjumans: [],
@@ -243,7 +243,7 @@ test('an approved website lyric is published with its metadata, then marked', { 
       body: 'پہلی لائن\n<<DIVIDER>>\n_دوسری لائن_\n<<MINI>>\nآخری لائن',
       category: 'Nohay',
       categories: ['Nohay', 'Salaams'],
-      subcategory: 'Hazrat Abbas (a.s)',
+      subcategory: 'Moula Abbas (a.s)',
       group: 2024,
       isVerified: true,
       source: 'firestore',
@@ -443,7 +443,7 @@ test('a revision keeps the lyric\'s Anjumans, whatever it sends', { skip }, asyn
   await put('rev-c', websiteSubmission('rev-c', {
     title: 'Corrected',
     revisionOfRemoteId: 'base-7',
-    subcategory: 'Hazrat Abbas (a.s)',
+    subcategory: 'Moula Abbas (a.s)',
     anjumans: ['Anjuman B'],
     ...approval(3000)
   }));

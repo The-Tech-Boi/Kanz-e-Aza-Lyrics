@@ -50,9 +50,9 @@ const run = (fields, options = {}) => planUpdate({
 
 test('a built-in Personality, one the Catalog has, or one on the Owner\'s list is published', () => {
   for (const [subcategory, personalities] of [
-    ['Hazrat Abbas (a.s)', undefined],
+    ['Moula Abbas (a.s)', undefined],
     ['Shaheed-e-Salis', undefined],
-    ['Alam', ['Hazrat Abbas (a.s)', 'Alam']]
+    ['Alam', ['Moula Abbas (a.s)', 'Alam']]
   ]) {
     const plan = run({ subcategory }, { personalities });
     assert.deepEqual(plan.held, [], subcategory);
@@ -70,7 +70,7 @@ test('a Personality on neither the approved list nor in the Catalog is held', ()
 });
 
 test('once the Owner saves a list, a built-in Personality left off it is held', () => {
-  const plan = run({ subcategory: 'Ali Akbar (a.s)' }, { personalities: ['Hazrat Abbas (a.s)'] });
+  const plan = run({ subcategory: 'Ali Akbar (a.s)' }, { personalities: ['Moula Abbas (a.s)'] });
   assert.match(plan.held[0].problem, /"Ali Akbar \(a\.s\)" is not on the approved list/);
 });
 
@@ -100,11 +100,11 @@ test('the sync reads the Owner\'s approved Personalities from taxonomy/personali
   const firestore = {
     taxonomy: {
       categories: { names: ['Nohay'], hidden: [] },
-      personalities: { names: ['Alam'], hidden: ['Hazrat Abbas (a.s)'] }
+      personalities: { names: ['Alam'], hidden: ['Moula Abbas (a.s)'] }
     },
     submissions: {
       'web-alam': approved('web-alam', { subcategory: 'Alam' }).data,
-      'web-abbas': approved('web-abbas', { subcategory: 'Hazrat Abbas (a.s)' }).data
+      'web-abbas': approved('web-abbas', { subcategory: 'Moula Abbas (a.s)' }).data
     }
   };
 

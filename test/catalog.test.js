@@ -25,7 +25,7 @@ const problem = (fields, now = june2026) => catalog.recordProblem(lyric('lyric-a
 test('a record with every field the v1 rules allow is valid', () => {
   assert.equal(problem({
     categories: ['Nohay', 'Salaams'],
-    subcategory: 'Hazrat Abbas (a.s)',
+    subcategory: 'Moula Abbas (a.s)',
     group: 2024,
     author: 'Mir Anees',
     verified: true,
@@ -142,8 +142,8 @@ test('the index lists each Category\'s titles by Personality, linking to each fi
     lyric('owner-z', { title: 'Zuljanah aya', subcategory: 'Zuljanah' }),
     lyric('owner-a', { title: 'Alam utha', subcategory: 'Alam' }),
     lyric('akbar-1', { title: 'Akbar', subcategory: 'Ali Akbar (a.s)' }),
-    lyric('abbas-2', { title: 'Saqi-e-Sakina', subcategory: 'Hazrat Abbas (a.s)', categories: ['Nohay', 'Salaams'] }),
-    lyric('abbas-1', { title: 'Ghazi *Abbas*', subcategory: 'Hazrat Abbas (a.s)' })
+    lyric('abbas-2', { title: 'Saqi-e-Sakina', subcategory: 'Moula Abbas (a.s)', categories: ['Nohay', 'Salaams'] }),
+    lyric('abbas-1', { title: 'Ghazi *Abbas*', subcategory: 'Moula Abbas (a.s)' })
   ], dir);
 
   assert.deepEqual(fs.readdirSync(path.join(dir, 'index')).sort(), ['Nohay.md', 'Salaams.md']);
@@ -154,7 +154,7 @@ test('the index lists each Category\'s titles by Personality, linking to each fi
     '',
     '6 lyrics.',
     '',
-    '## Hazrat Abbas (a.s)',
+    '## Moula Abbas (a.s)',
     '',
     '- [Ghazi \\*Abbas\\*](../lyrics/-1/abbas-1.json)',
     '- [Saqi-e-Sakina](../lyrics/-2/abbas-2.json)',

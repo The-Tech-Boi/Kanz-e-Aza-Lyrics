@@ -27,7 +27,7 @@ To browse on GitHub, open [`index/`](index/): one page per category, listing tit
   "body": "Aye mere baradar e eemani\n<<DIVIDER>>\nmat ghayr se apni yaari rakh",
   "language": "Roman Urdu",
   "categories": ["Nohay"],
-  "subcategory": "Hazrat Abbas (a.s)",
+  "subcategory": "Moula Abbas (a.s)",
   "group": 2019,
   "author": "Mir Anees",
   "anjumans": [],
