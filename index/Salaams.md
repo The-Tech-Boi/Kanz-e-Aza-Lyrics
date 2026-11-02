@@ -6,7 +6,7 @@
 
 - [Ghar ko chodha shaah ne](../lyrics/0e/local_ef2e62cea4e72de55173ed710cb2e30e.json)
 
-## Qasim (a.s)
+## Shahzade Qasim (a.s)
 
 - [RUN MEIN AAKAR SAKINA PUKARI](../lyrics/7e/yOQdBShzo7QjFJtQUI7e.json)
 

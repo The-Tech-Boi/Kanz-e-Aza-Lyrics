@@ -41,14 +41,14 @@
 - [Ummat pe pisar apne fida karti hai zainab](../lyrics/8a/local_79c7a33759132cabd2d96616317b188a.json)
 - [YEH ZIKR ABHI THA KAY SADAA RONEY KI AAYI](../lyrics/dd/local_924fbc354cd22190735972b1d040eedd.json)
 
-## Qasim (a.s)
+## Shahzade Qasim (a.s)
 
 - [NARGHA HAE DILBAR-E- HASSAN-E- SABZ POSH PAR](../lyrics/68/local_f4ab25763de295a0d92c3eda9f75a568.json)
 - [Qasim jo hum Shabihey janab-e-Ameer tha](../lyrics/2a/local_4ea888965d098046dcb45b747001c32a.json)
 - [ROTE THE DHAADE MAARKE NAAMOOSE SHAAHE DEE\_N](../lyrics/02/local_a471ed4bd9d26e76e23d41be6bc89502.json)
 - [ZAQMI JO RAN ME QAASIM-E- GUL PAHRAHAN HUWA](../lyrics/f3/local_badb888307d1e5e526f3f05e287e42f3.json)
 
-## Hazrat Abbas (a.s)
+## Moula Abbas (a.s)
 
 - [Ahle Haram ka moniso ghamqaar margaya](../lyrics/54/local_7787f3881779b0426bd52494e471c954.json)
 - [Jab gire ran me baawafa abbas](../lyrics/14/local_9edc6eda022d3f39ca28130e4f0bdb14.json)
@@ -191,7 +191,7 @@
 - [QAID SE CHUT KE AAI HAI ZAINAB](../lyrics/a0/local_03e2fc777dfaa2e244f089070300a9a0.json)
 - [SUNAA THA JAB SE KE AATHE HAIN SYED-E- AKRAM](../lyrics/d6/local_dad51a0b11ae0096aa2ebb79903998d6.json)
 
-## Janaab e Abu Talib (a.s)
+## Hazrat Abu Talib (a.s)
 
 - [Aye Kafeele nabi abu talib](../lyrics/28/local_69552fb8c7e3217c6b7f43f22dec9928.json)
 

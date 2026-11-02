@@ -2,68 +2,16 @@
 
 207 lyrics.
 
-## Imam Hassan (a.s)
+## Rasool-e-Khuda (s.a.w.s)
 
-- [Aagaye Hassan](../lyrics/02/local_6b95bf4bea5ff2a9eabb55216cb05b02.json)
+- [Dastoor juda jaana](../lyrics/83/local_4a4e64565112f41d241bb3b940404883.json)
+- [Kaash mai daur e payambar mein](../lyrics/25/local_348787c0a38d0392ec58362914cd1f25.json)
+- [Madine ka musafir hu](../lyrics/2a/local_4681006fec87e6eae73dae8eb297992a.json)
+- [Nalain rakh dena](../lyrics/54/local_fe61d5e5d5f8966914c1e88cbd27b954.json)
+- [Ya Muhammad](../lyrics/5a/local_7b615f639e8f4271343f671fb730b75a.json)
+- [Ya Mustafa](../lyrics/0b/local_ea21034db938a4f61a704f52de4d510b.json)
 
-## Ali Akbar (a.s)
-
-- [Yu tere naam se](../lyrics/d0/local_5e07e32281a3642c04acda83457d0cd0.json)
-
-## Ali Asghar (a.s)
-
-- [Bade badon se bada hai](../lyrics/d7/local_d891e05b4943e195bf7c1708b6b084d7.json)
-
-## Imam Hussain (a.s)
-
-- [Allah Muje Lashkare mehdi se mila de](../lyrics/e1/local_33e366dc19496c7fd65f6474ac722de1.json)
-- [Aye Zaire Hussain assalam](../lyrics/e0/local_1c0fdb740e0093ab4766152ce0e6f0e0.json)
-- [Bichana Chod de](../lyrics/3d/local_08b10291c98c2c699aea451c22186a3d.json)
-- [Dilo pe aaj bhi jo hukmaran hai hussain hai](../lyrics/f2/local_12b83c053e9525df09e50d5691c38ff2.json)
-- [Husain baat rahe hai nijaat le jao](../lyrics/41/local_a347dd229f45a711d25ee5d15a11b541.json)
-- [Hussain aaj bhi hai](../lyrics/e2/local_9e4848119787b6323c5f0b3ee2b484e2.json)
-- [Hussain bant rahe hai nijaat le jao](../lyrics/23/local_f8c8e6f5f678ef191edfca5e0df63923.json)
-- [Hussain Bismillah](../lyrics/5e/local_4412a8893d123f1655b331574734fb5e.json)
-- [Hussain hai na](../lyrics/fb/local_250d468cb58c47755350a9a3f6180ffb.json)
-- [Hussain ka matam](../lyrics/46/local_f3589d8dd6f938e4765d0975c32f4546.json)
-- [Hussain ka rutba](../lyrics/a2/local_d3394387cdc54ba5c69d3ed1e4e13ba2.json)
-- [Hussain Tere Liye](../lyrics/43/local_c71678fffaff8498393903296df86c43.json)
-- [Jo Azadar Nahi Ho Sakta](../lyrics/bd/local_ad8b1ccafc69ab49341e0adc393531bd.json)
-- [KUL NAZME QAAENAAT HAI ZAHRA KE HAATH MEI](../lyrics/03/local_7d7eb7743afaa544b12db6ef7f9f2503.json)
-- [Mai Husain ibne Ali hu](../lyrics/c3/local_213ce94131948458dd8ddc5287f05ac3.json)
-- [MAI HUSSAIN IBNE ALI HOON](../lyrics/d2/local_f43f6f1f541dc9203eb8d7b336d300d2.json)
-- [Main husain hun](../lyrics/ff/local_309e5b2934a13ea85a587490b77617ff.json)
-- [Main kya bataon dosto tumhein keh kya HUSSAIN hai](../lyrics/0c/local_b2fdcb85e3d3869aeb7aaaca62b2e30c.json)
-- [maula zahoor kijiye dil bekarar hai](../lyrics/33/local_b0becdbca5462aaab5d20e015a128933.json)
-- [Mera Murshad Hussain hai](../lyrics/39/local_fbe49542e09b64dd9391d218f49fd039.json)
-- [Na puchiye ke kya husain hai](../lyrics/f4/local_849046aefbe23837eaebf00b548bcff4.json)
-- [Rokega rab zarur](../lyrics/73/local_759841c76279195c119f888c5f7a0e73.json)
-- [Sajda ek aisa](../lyrics/07/local_fa585a3a90f8d310b617faf96344bf07.json)
-- [Sarwar ke azadar](../lyrics/71/local_5482e5285d9f0e4f1ab07ec13463af71.json)
-- [Shehr e sarwar](../lyrics/e9/local_65b657352680031042ff7c826684afe9.json)
-- [Tabarrukat e husaini ka ehteraam karo](../lyrics/8c/local_db01194751aadeea263a2a534b3ddc8c.json)
-- [Wo ghar ke hukm jahan](../lyrics/11/local_aed1ef460b980d2b58097f14acf80811.json)
-- [woh husain mera hai](../lyrics/9e/local_6342fb9ba32a722873385317ba19309e.json)
-
-## Imam Raza (a.s)
-
-- [Allah Mohammad Ali Fatema Hasan Husain](../lyrics/a9/local_5014e7d3ab7ab1e4be6089ddfee090a9.json)
-- [Aye maula Raza shahe khurasan](../lyrics/7c/local_e405cc1ea6488dd534cbed4a29a4bb7c.json)
-- [Aye zamin e ahoo](../lyrics/ef/local_0ef6b5c1ceb4d2477d0b93c3f121f9ef.json)
-- [BAAP](../lyrics/8c/local_b30d8ef438310d5bfd9ff6ee626c008c.json)
-- [Bandae Rehman nahi](../lyrics/48/local_27d2e72278d85025baa6d17f82b0e348.json)
-- [Mashhad mein](../lyrics/c7/local_57c1603c4618a44dd4cdc9bd122befc7.json)
-- [Qasim e Ibne Hassan](../lyrics/18/local_a6d3230b5cf150b63b05bd8d3a628d18.json)
-- [Raza ke rouze par](../lyrics/a6/local_b35a6834c2afa14970c20d9a1d0b09a6.json)
-- [Shehre Mashhad me](../lyrics/7c/local_fbcdd6f10175e18d8f10f9cba1051f7c.json)
-- [Ya ali musa reza](../lyrics/1e/local_2dcca50ed5938694c4eddd995c7f1a1e.json)
-- [Ya imam e raza](../lyrics/fc/local_aaf26383eb2b859364be25fd566ba1fc.json)
-
-## Eid e Ghadeer
-
-- [Mouaiyo Ghadeer Ka Rastaa Na Chorna](../lyrics/92/local_a7a93f1313aeb3e3c2d3ef351c477992.json)
-
-## Fatima Zahra (sa)
+## Shehzadi Fatima (s.a)
 
 - [Aap kya jaane Fatema kya hai](../lyrics/6b/local_26efe3e77f231c5c7572f35c317fef6b.json)
 - [Bibi Zehra ki hai rukhsati](../lyrics/93/local_2b3cc3fd2c70785553e88594f3bea193.json)
@@ -79,30 +27,6 @@
 - [Ye Fatima bhi hai Zehra bhi hai](../lyrics/af/local_bce6613985e986dae4c92e49c2e50faf.json)
 - [Zehra ki hai rukhsati](../lyrics/12/local_ae118c7c2d3fd8ac689677d6b5f17c12.json)
 - [Zehra s.a ke haath me](../lyrics/0d/local_036b7f0004cf29d5f19822716c75ec0d.json)
-
-## Hazrat Abu Talib (a.s)
-
-- [Ali ke baba ka](../lyrics/1a/local_9c672b1ba0f0ee8d0b5b16ec4a68331a.json)
-- [Ali shere khuda haider haider](../lyrics/e0/local_a1da9eaf1ee8c394e77a111fc06db8e0.json)
-- [eid aayi hai rajab shaban ki](../lyrics/d5/local_2dc998db4cf9ec4b1f981ac5e0dff4d5.json)
-- [La hawla wala quwwata illa billah](../lyrics/57/local_a77000c77be5cf0101e491430ec46957.json)
-- [Marhaba Shere Ali](../lyrics/bd/local_4551fdd6123f6bd3ed00b95dc3035cbd.json)
-- [Uska rutba sare mehshar bhi nirala hoga](../lyrics/0c/local_614e7d6b7b090954858049ab2f27b20c.json)
-
-## Hazrat e Mukhtar
-
-- [Kar de ghaazi karam](../lyrics/04/local_73ff074a6e72802e2efe64107edf1b04.json)
-- [Mukhtar Zindabad](../lyrics/ee/local_626378f03db919746a0e4c01010b7cee.json)
-- [Musadas Hazrat e zahra](../lyrics/56/local_78c87e37540a2e480145ff41822e9356.json)
-- [Tere Sadqay Main Zahra Ho Raha hai](../lyrics/e6/local_071682a1cab69a4fba5c83813a3abfe6.json)
-
-## Hazrat Masooma e Qum (s.a)
-
-- [Arbaab Raza Maula](../lyrics/96/local_9763d08a4afd7781e455814ca230f696.json)
-- [Jaisa mera maula waisa koi nahi](../lyrics/36/local_1224c42494183cdf39462e570858e936.json)
-- [Lylatul qadr ka tarjuma Fatima](../lyrics/cb/local_1fae253fdf66f03546757cedf8c54acb.json)
-- [Wo Moula Raza Hai](../lyrics/0f/local_cc56475191a7b263d428188e2d35b50f.json)
-- [Ya kareema](../lyrics/24/local_721b44559449313e11feaa67b1da1524.json)
 
 ## Imam Ali (a.s)
 
@@ -143,37 +67,9 @@
 - [Zikr Khayber Ka Sunaya](../lyrics/92/local_59382819566905b4f420c2bd02cf9a92.json)
 - [zulm ko sheh ki himayat nhi milne wali](../lyrics/c1/local_eae57c01c173abf6bea3cdd223cab4c1.json)
 
-## Imam e Zamaana (ajtf)
+## Imam Hassan (a.s)
 
-- [Aap aajae jo maula](../lyrics/83/local_41a58011ae20bd02667d885d08bcd583.json)
-- [Aap par durood aur salaam aye mere imam](../lyrics/92/local_1876419484dac90d58df99e49c7fed92.json)
-- [Aapke aane ke baad](../lyrics/8f/local_48d64e72cbd865de7e84c175f983e08f.json)
-- [Al ajal ya mehdi](../lyrics/fd/local_a46f18c4012a81f3707ad6fe1c3514fd.json)
-- [Gar ho meri hayaat mere ikhteyar me](../lyrics/93/local_35fe579af84cdec1ef21e2fb353dc493.json)
-- [Hussain ghaiz mein hai](../lyrics/d4/local_19e4579d85adefead9dd06d21bde46d4.json)
-- [Imam e zamana ka ashiq bana de](../lyrics/ad/local_7e996a9f642e6844bfef73fe017d64ad.json)
-- [Jab Imam Aayenge](../lyrics/11/local_d808dc40efbd3ed5cd0c573557853e11.json)
-- [Jab maula mehdi aaenge](../lyrics/dc/local_40200f20be815cf99ee603c633a857dc.json)
-- [Kab aaoge maula](../lyrics/62/local_30e1808b93a475d162b66164c8e82b62.json)
-- [Kaho ya mehdi](../lyrics/a6/local_e68a2489405d951714fa1617a73016a6.json)
-- [Mai hua sajda hua](../lyrics/54/local_aa5b55f883987f228e1ffdea318d7254.json)
-- [Maula mehdi aa jaiye](../lyrics/8a/local_fcd64e1b171fe5ad6ff6128330281c8a.json)
-- [Suno arsh walo Sehra ali ka](../lyrics/73/local_79fff43002d496d72a44478a99c6c373.json)
-- [Suno Baad e Zahoor Kiya](../lyrics/db/local_a24e3c5120c6d79fa91084ab27be8edb.json)
-- [Wo aa raha hai ke jiske aage kisi ka kehna nahi chalega](../lyrics/24/local_95004c54bb55eb04e7fef4b98a3f7924.json)
-- [Ye meri zindagi maula ke naam hai](../lyrics/bb/local_9dc0bea8905f7a4540d1b0f44055cabb.json)
-- [Yeh Baat Maan Lijiye](../lyrics/a5/local_bbdd9808c976877aba6d4798a7380da5.json)
-
-## Imam Sajjad (a.s)
-
-- [Aao tareekh sunau mai shabe hijrat ki](../lyrics/66/local_badf06c486e00ae5ab8f63a8dcaaa066.json)
-
-## Janabe Fizza (s.a)
-
-- [Jab Aayae Balligh](../lyrics/d2/local_9537bb7b049e93ef45ed8fa0e37faad2.json)
-- [Jab koi dua aur na dawa](../lyrics/0d/local_5a195f87f6723f18c637820a0247740d.json)
-- [Khuld me sabr](../lyrics/6f/local_4eda6a6c816dc3c4a9ef6113b1e0a96f.json)
-- [Qambar aur fizza](../lyrics/5b/local_51a7c8a0767803144b7b1372da1b755b.json)
+- [Aagaye Hassan](../lyrics/02/local_6b95bf4bea5ff2a9eabb55216cb05b02.json)
 
 ## Moula Abbas (a.s)
 
@@ -216,6 +112,124 @@
 - [Wah hamshakle nabi](../lyrics/2c/local_7b8b60bc53aedbdb04fcd427cbadb52c.json)
 - [Wiladat ki khushiyaa'n manaane ke din hai](../lyrics/95/local_54259edd255637869a1d05e0dc950595.json)
 
+## Ali Akbar (a.s)
+
+- [Yu tere naam se](../lyrics/d0/local_5e07e32281a3642c04acda83457d0cd0.json)
+
+## Ali Asghar (a.s)
+
+- [Bade badon se bada hai](../lyrics/d7/local_d891e05b4943e195bf7c1708b6b084d7.json)
+
+## Imam Hussain (a.s)
+
+- [Allah Muje Lashkare mehdi se mila de](../lyrics/e1/local_33e366dc19496c7fd65f6474ac722de1.json)
+- [Aye Zaire Hussain assalam](../lyrics/e0/local_1c0fdb740e0093ab4766152ce0e6f0e0.json)
+- [Bichana Chod de](../lyrics/3d/local_08b10291c98c2c699aea451c22186a3d.json)
+- [Dilo pe aaj bhi jo hukmaran hai hussain hai](../lyrics/f2/local_12b83c053e9525df09e50d5691c38ff2.json)
+- [Husain baat rahe hai nijaat le jao](../lyrics/41/local_a347dd229f45a711d25ee5d15a11b541.json)
+- [Hussain aaj bhi hai](../lyrics/e2/local_9e4848119787b6323c5f0b3ee2b484e2.json)
+- [Hussain bant rahe hai nijaat le jao](../lyrics/23/local_f8c8e6f5f678ef191edfca5e0df63923.json)
+- [Hussain Bismillah](../lyrics/5e/local_4412a8893d123f1655b331574734fb5e.json)
+- [Hussain hai na](../lyrics/fb/local_250d468cb58c47755350a9a3f6180ffb.json)
+- [Hussain ka matam](../lyrics/46/local_f3589d8dd6f938e4765d0975c32f4546.json)
+- [Hussain ka rutba](../lyrics/a2/local_d3394387cdc54ba5c69d3ed1e4e13ba2.json)
+- [Hussain Tere Liye](../lyrics/43/local_c71678fffaff8498393903296df86c43.json)
+- [Jo Azadar Nahi Ho Sakta](../lyrics/bd/local_ad8b1ccafc69ab49341e0adc393531bd.json)
+- [KUL NAZME QAAENAAT HAI ZAHRA KE HAATH MEI](../lyrics/03/local_7d7eb7743afaa544b12db6ef7f9f2503.json)
+- [Mai Husain ibne Ali hu](../lyrics/c3/local_213ce94131948458dd8ddc5287f05ac3.json)
+- [MAI HUSSAIN IBNE ALI HOON](../lyrics/d2/local_f43f6f1f541dc9203eb8d7b336d300d2.json)
+- [Main husain hun](../lyrics/ff/local_309e5b2934a13ea85a587490b77617ff.json)
+- [Main kya bataon dosto tumhein keh kya HUSSAIN hai](../lyrics/0c/local_b2fdcb85e3d3869aeb7aaaca62b2e30c.json)
+- [maula zahoor kijiye dil bekarar hai](../lyrics/33/local_b0becdbca5462aaab5d20e015a128933.json)
+- [Mera Murshad Hussain hai](../lyrics/39/local_fbe49542e09b64dd9391d218f49fd039.json)
+- [Na puchiye ke kya husain hai](../lyrics/f4/local_849046aefbe23837eaebf00b548bcff4.json)
+- [Rokega rab zarur](../lyrics/73/local_759841c76279195c119f888c5f7a0e73.json)
+- [Sajda ek aisa](../lyrics/07/local_fa585a3a90f8d310b617faf96344bf07.json)
+- [Sarwar ke azadar](../lyrics/71/local_5482e5285d9f0e4f1ab07ec13463af71.json)
+- [Shehr e sarwar](../lyrics/e9/local_65b657352680031042ff7c826684afe9.json)
+- [Tabarrukat e husaini ka ehteraam karo](../lyrics/8c/local_db01194751aadeea263a2a534b3ddc8c.json)
+- [Wo ghar ke hukm jahan](../lyrics/11/local_aed1ef460b980d2b58097f14acf80811.json)
+- [woh husain mera hai](../lyrics/9e/local_6342fb9ba32a722873385317ba19309e.json)
+
+## Shehzadi Sakina (s.a)
+
+- [Kya hai sakina](../lyrics/59/local_9a68246fb79df5d3f3acebc276fb0559.json)
+- [Midhat e sakina](../lyrics/00/local_bb72dff68386c8072c6d878c578e2f00.json)
+
+## Zain-ul-Abedeen (a.s)
+
+- [Aao tareekh sunau mai shabe hijrat ki](../lyrics/66/local_badf06c486e00ae5ab8f63a8dcaaa066.json)
+
+## Imam Raza (a.s)
+
+- [Allah Mohammad Ali Fatema Hasan Husain](../lyrics/a9/local_5014e7d3ab7ab1e4be6089ddfee090a9.json)
+- [Aye maula Raza shahe khurasan](../lyrics/7c/local_e405cc1ea6488dd534cbed4a29a4bb7c.json)
+- [Aye zamin e ahoo](../lyrics/ef/local_0ef6b5c1ceb4d2477d0b93c3f121f9ef.json)
+- [BAAP](../lyrics/8c/local_b30d8ef438310d5bfd9ff6ee626c008c.json)
+- [Bandae Rehman nahi](../lyrics/48/local_27d2e72278d85025baa6d17f82b0e348.json)
+- [Mashhad mein](../lyrics/c7/local_57c1603c4618a44dd4cdc9bd122befc7.json)
+- [Qasim e Ibne Hassan](../lyrics/18/local_a6d3230b5cf150b63b05bd8d3a628d18.json)
+- [Raza ke rouze par](../lyrics/a6/local_b35a6834c2afa14970c20d9a1d0b09a6.json)
+- [Shehre Mashhad me](../lyrics/7c/local_fbcdd6f10175e18d8f10f9cba1051f7c.json)
+- [Ya ali musa reza](../lyrics/1e/local_2dcca50ed5938694c4eddd995c7f1a1e.json)
+- [Ya imam e raza](../lyrics/fc/local_aaf26383eb2b859364be25fd566ba1fc.json)
+
+## Eid e Ghadeer
+
+- [Mouaiyo Ghadeer Ka Rastaa Na Chorna](../lyrics/92/local_a7a93f1313aeb3e3c2d3ef351c477992.json)
+
+## Hazrat Abu Talib (a.s)
+
+- [Ali ke baba ka](../lyrics/1a/local_9c672b1ba0f0ee8d0b5b16ec4a68331a.json)
+- [Ali shere khuda haider haider](../lyrics/e0/local_a1da9eaf1ee8c394e77a111fc06db8e0.json)
+- [eid aayi hai rajab shaban ki](../lyrics/d5/local_2dc998db4cf9ec4b1f981ac5e0dff4d5.json)
+- [La hawla wala quwwata illa billah](../lyrics/57/local_a77000c77be5cf0101e491430ec46957.json)
+- [Marhaba Shere Ali](../lyrics/bd/local_4551fdd6123f6bd3ed00b95dc3035cbd.json)
+- [Uska rutba sare mehshar bhi nirala hoga](../lyrics/0c/local_614e7d6b7b090954858049ab2f27b20c.json)
+
+## Hazrat e Mukhtar
+
+- [Kar de ghaazi karam](../lyrics/04/local_73ff074a6e72802e2efe64107edf1b04.json)
+- [Mukhtar Zindabad](../lyrics/ee/local_626378f03db919746a0e4c01010b7cee.json)
+- [Musadas Hazrat e zahra](../lyrics/56/local_78c87e37540a2e480145ff41822e9356.json)
+- [Tere Sadqay Main Zahra Ho Raha hai](../lyrics/e6/local_071682a1cab69a4fba5c83813a3abfe6.json)
+
+## Hazrat Masooma e Qum (s.a)
+
+- [Arbaab Raza Maula](../lyrics/96/local_9763d08a4afd7781e455814ca230f696.json)
+- [Jaisa mera maula waisa koi nahi](../lyrics/36/local_1224c42494183cdf39462e570858e936.json)
+- [Lylatul qadr ka tarjuma Fatima](../lyrics/cb/local_1fae253fdf66f03546757cedf8c54acb.json)
+- [Wo Moula Raza Hai](../lyrics/0f/local_cc56475191a7b263d428188e2d35b50f.json)
+- [Ya kareema](../lyrics/24/local_721b44559449313e11feaa67b1da1524.json)
+
+## Imam e Zamaana (ajtf)
+
+- [Aap aajae jo maula](../lyrics/83/local_41a58011ae20bd02667d885d08bcd583.json)
+- [Aap par durood aur salaam aye mere imam](../lyrics/92/local_1876419484dac90d58df99e49c7fed92.json)
+- [Aapke aane ke baad](../lyrics/8f/local_48d64e72cbd865de7e84c175f983e08f.json)
+- [Al ajal ya mehdi](../lyrics/fd/local_a46f18c4012a81f3707ad6fe1c3514fd.json)
+- [Gar ho meri hayaat mere ikhteyar me](../lyrics/93/local_35fe579af84cdec1ef21e2fb353dc493.json)
+- [Hussain ghaiz mein hai](../lyrics/d4/local_19e4579d85adefead9dd06d21bde46d4.json)
+- [Imam e zamana ka ashiq bana de](../lyrics/ad/local_7e996a9f642e6844bfef73fe017d64ad.json)
+- [Jab Imam Aayenge](../lyrics/11/local_d808dc40efbd3ed5cd0c573557853e11.json)
+- [Jab maula mehdi aaenge](../lyrics/dc/local_40200f20be815cf99ee603c633a857dc.json)
+- [Kab aaoge maula](../lyrics/62/local_30e1808b93a475d162b66164c8e82b62.json)
+- [Kaho ya mehdi](../lyrics/a6/local_e68a2489405d951714fa1617a73016a6.json)
+- [Mai hua sajda hua](../lyrics/54/local_aa5b55f883987f228e1ffdea318d7254.json)
+- [Maula mehdi aa jaiye](../lyrics/8a/local_fcd64e1b171fe5ad6ff6128330281c8a.json)
+- [Suno arsh walo Sehra ali ka](../lyrics/73/local_79fff43002d496d72a44478a99c6c373.json)
+- [Suno Baad e Zahoor Kiya](../lyrics/db/local_a24e3c5120c6d79fa91084ab27be8edb.json)
+- [Wo aa raha hai ke jiske aage kisi ka kehna nahi chalega](../lyrics/24/local_95004c54bb55eb04e7fef4b98a3f7924.json)
+- [Ye meri zindagi maula ke naam hai](../lyrics/bb/local_9dc0bea8905f7a4540d1b0f44055cabb.json)
+- [Yeh Baat Maan Lijiye](../lyrics/a5/local_bbdd9808c976877aba6d4798a7380da5.json)
+
+## Janabe Fizza (s.a)
+
+- [Jab Aayae Balligh](../lyrics/d2/local_9537bb7b049e93ef45ed8fa0e37faad2.json)
+- [Jab koi dua aur na dawa](../lyrics/0d/local_5a195f87f6723f18c637820a0247740d.json)
+- [Khuld me sabr](../lyrics/6f/local_4eda6a6c816dc3c4a9ef6113b1e0a96f.json)
+- [Qambar aur fizza](../lyrics/5b/local_51a7c8a0767803144b7b1372da1b755b.json)
+
 ## Qataat
 
 - [Aa gaye panjetan aagaye](../lyrics/98/local_20145d5a587ed305e8f465036040c998.json)
@@ -243,20 +257,6 @@
 - [Sab ke bas ki baat nahi](../lyrics/ac/local_f8d8d9f1b390f8e4e18850f5d27251ac.json)
 - [Wila ki mehfil](../lyrics/5a/local_c3b0f5e4be92f276cf3d7a0616d36a5a.json)
 - [Ye kahani phir sahi](../lyrics/2d/local_7f4bab62899f77ac85356af4b7ae512d.json)
-
-## Rasool e Khuda (saws)
-
-- [Dastoor juda jaana](../lyrics/83/local_4a4e64565112f41d241bb3b940404883.json)
-- [Kaash mai daur e payambar mein](../lyrics/25/local_348787c0a38d0392ec58362914cd1f25.json)
-- [Madine ka musafir hu](../lyrics/2a/local_4681006fec87e6eae73dae8eb297992a.json)
-- [Nalain rakh dena](../lyrics/54/local_fe61d5e5d5f8966914c1e88cbd27b954.json)
-- [Ya Muhammad](../lyrics/5a/local_7b615f639e8f4271343f671fb730b75a.json)
-- [Ya Mustafa](../lyrics/0b/local_ea21034db938a4f61a704f52de4d510b.json)
-
-## Shahzadi Sakina (sa)
-
-- [Kya hai sakina](../lyrics/59/local_9a68246fb79df5d3f3acebc276fb0559.json)
-- [Midhat e sakina](../lyrics/00/local_bb72dff68386c8072c6d878c578e2f00.json)
 
 ## Shahzadi Zainab o Kulsoom (sa)
 

@@ -81,7 +81,7 @@
 - [zahra nahi ghar me](../lyrics/38/local_e3e478e750b78107a8f9feae361b5038.json)
 - [zakhmi hai fatima tooti hai pasliyaa](../lyrics/ac/local_becadf1b1f4e1f0a8929e35ce6712eac.json)
 
-## Hazrat Ali (a.s)
+## Imam Ali (a.s)
 
 - [Ali Ke Ghar Me Qayamat Ki Subha Aayi Hai](../lyrics/ab/local_dde5c9f61d00565c756f620e0b490aab.json)
 - [BABA KO MERE CHHORH KE AAYE HO TUM KAHAN ZAINAB LIPAT KE BHAI SE KARTI THI YE BAYAN](../lyrics/11/karbala_wale_english_2021_011.json)
@@ -288,7 +288,7 @@
 - [Zainab Tumahare Bacche Margaye](../lyrics/ea/local_3c1be3ee97dbc11ce59070deabdcfcea.json)
 - [Zainab ye fugha karti thi tum aankhe to kholo](../lyrics/a7/local_b6f81a3e2aaa0644bb01198004b010a7.json)
 
-## Qasim (a.s)
+## Shahzade Qasim (a.s)
 
 - [Ab Jaraha Hai Dulha](../lyrics/0c/local_4d3274fcaea6f4838c4d61d18169090c.json)
 - [Abbas dekho lasha e qasim ko ek nazar](../lyrics/be/local_0358bc519df89b1f12b740d84ca615be.json)
@@ -367,7 +367,7 @@
 - [Yeh Kis Shaheed Ki Mayyat Hussain Laate Hain](../lyrics/a0/local_0e988902d39a2af103e6fe054dd28ba0.json)
 - [Zulm Huwa Ye Kaisa Qasim](../lyrics/a5/local_070df76b4dd27a5b994e9c7e20c0eda5.json)
 
-## Hazrat Abbas (a.s)
+## Moula Abbas (a.s)
 
 - [Aa alamdar](../lyrics/03/local_c4459537484f4c743153b99bccd6d603.json)
 - [Aa dekh mere Gazi](../lyrics/72/local_4de42eaeea6abb46bcb0d8ca991edf72.json)
@@ -2033,6 +2033,7 @@
 - [LOOT KE AAYI HAI WATAN DIL KO SAMBHALE ZAINAB](../lyrics/8e/local_aff1401133ec1f977388fe475859e18e.json)
 - [Lut Gaya dashte bala me tera kunba amma](../lyrics/d6/local_2a47acf633147368a96ecf3d88ae69d6.json)
 - [Lut Gaya Zainab Ka Kunba Nana Jaan Pardes Me](../lyrics/b6/local_df1fea9b86f73abeb42cc1f8d5530cb6.json)
+- [Lut gayi Karbobala me Teri Duniya Amma](../lyrics/ak/THpJrSyDg0y5kf8z7GaK.json)
 - [LUT GAYI KARBOBALA ME TERI DUNIYA AMMA](../lyrics/03/karbala_wale_english_2021_103.json)
 - [Lutaake ayi hoon karbal me ghar tera amma](../lyrics/94/local_cf19845802c85b6eb81c1c197c703594.json)
 - [Luthkar Madina Zainab Tashreef Larahi Hai](../lyrics/d5/local_ed4eaf4b4d2b272555c5eaa360a0bcd5.json)
@@ -2130,7 +2131,7 @@
 - [sar peet ke sab kehte the aye sarware zeesha'n](../lyrics/c2/local_d990586283e4bba3cb0a9e6e7927acc2.json)
 - [ya Jaffere sadiq](../lyrics/6a/local_75e955334fae51dfb845b7ba9f026c6a.json)
 
-## Musa Kazim (a.s)
+## Imam Moosa e Kazim (a.s)
 
 - [aaj baghdad me koi qaidi](../lyrics/4d/local_e98c7c9857c71845da567326b66dd64d.json)
 - [Baghdaad ke pul par kazim ka](../lyrics/7d/local_5c6740a97521d79f4b96ace634549e7d.json)
@@ -2164,7 +2165,7 @@
 - [saare jaha ka hadi rehbar guzar gaya](../lyrics/67/local_dd9d9323a3fca02ab9883cbe35913467.json)
 - [samere me ghul hai bapa haaye haaye](../lyrics/9e/local_5a5d0720ef63198e17b09caf11185d9e.json)
 
-## Hasan e Askary (a.s)
+## Imam Hassan Askari (a.s)
 
 - [Matam hai Askari ka sab momino ke ghar ghar](../lyrics/3a/local_414f2e88c89168c186c8be62d48fa33a.json)
 
@@ -2383,13 +2384,13 @@
 - [Zehra Ko Do Pursa](../lyrics/fa/local_9174eda991adea157a663002ea3fc3fa.json)
 - [Zuljanah ay zuljanah](../lyrics/0b/local_98b6ac3a7ee8b8bc6c62a2159dd79a0b.json)
 
-## Janaab e Fizza (sa)
-
-- [Fizza teri wafa ki had](../lyrics/f2/local_4af3ed51f654a452e05e8c919b9a0ef2.json)
-
 ## Janaabe Hur (a.s)
 
 - [Hur alaihis salam](../lyrics/f3/local_c7c7418bf228f5bd17d1bb1c74dbc1f3.json)
+
+## Janabe Fizza (s.a)
+
+- [Fizza teri wafa ki had](../lyrics/f2/local_4af3ed51f654a452e05e8c919b9a0ef2.json)
 
 ## Karbala o Azadaari
 
@@ -2663,10 +2664,6 @@
 - [Waada apna nibhadiya sheh ne](../lyrics/a8/local_d92cb6c3c75508248e87c9d4d24e39a8.json)
 - [Ya rab koi masooma](../lyrics/ba/local_48805a53c6604b2feffd2048a5c5a9ba.json)
 - [Zindaa ke andhere me matam hai sakina ka](../lyrics/d5/local_b47bc4eabb33c1c9ce83766cce3bdfd5.json)
-
-## Wapasi e Ahle Haram
-
-- [Lut gayi Karbobala me Teri Duniya Amma](../lyrics/ak/THpJrSyDg0y5kf8z7GaK.json)
 
 ## Without a Personality
 
