@@ -201,7 +201,7 @@
 - [Zuljana hai kahan bhai mera](../lyrics/9b/local_444a23c7d9bb56d1eeee054966589e9b.json)
 - [Zuljanah zuljanah](../lyrics/44/local_6b517e2464b48d9bdbc6aa6971af1044.json)
 
-## Ibteda-e-Aza
+## Ibtedaye Ayyam e Aza
 
 - [Aagaya maahe Aza](../lyrics/76/local_130bc8f2f850976540d95fe7ff2b8276.json)
 - [Aye Chand Moharram Ke Tu Badli Me Chala Ja](../lyrics/a4/local_f8593230ea6ee935061a05f3c96aa5a4.json)
@@ -2076,40 +2076,6 @@
 - [Zindaa se chuti karbobala jati hai zainab](../lyrics/a1/local_b9690f02017668240abf91010cd49ea1.json)
 - [Zindaan se chut ke](../lyrics/fd/local_bafcd0286245042bee654d47fa739dfd.json)
 
-## Alvida
-
-- [Aao Hum Kare Karbal Ke Pyaso Ko Ruksat Ka Salam](../lyrics/f4/local_2bca03a7798b8622bdf4957916993cf4.json)
-- [Aaya jo karbala me mohammed ka gharaana](../lyrics/ca/local_f7d8237b2abf362647075716d83031ca.json)
-- [Ab wida hota hai humse laal zehra ka](../lyrics/59/local_40ceecbb33593f58d9b0870d20e86b59.json)
-- [Alajal Alajal Alajal](../lyrics/2f/local_4bd9c783f584e651d59a28dba182862f.json)
-- [alvida aye hussain](../lyrics/c6/local_9f9885fcbb0cbc8a9fdd4c94497dabc6.json)
-- [ALVIDA MOULA HUSSAIN ALVIDA MOULA](../lyrics/76/local_119a4bca864f30e5452c4e0cd9defb76.json)
-- [Alvida moula Hussain alvida moula Hussain](../lyrics/02/local_34ea177e76529f077fd27bda89de1802.json)
-- [Alweda Alweda Alweda](../lyrics/de/local_cd915876a7883a1734fedd0ac46a1ede.json)
-- [Alweda Alweda Alweda ay Hussain](../lyrics/66/local_3937bb80f0a0a7394ceca5975d909766.json)
-- [Alweda Alweda Aye Hussain Alweda](../lyrics/47/local_b541de0b23bd7088b57529410c2c7747.json)
-- [Alweda Alweda Aye Jaane Zehra Alweda](../lyrics/df/local_ecf003f2a3a42f94a4b1ede6275aa7df.json)
-- [Alweda aye Fatima Zehra ke dilbar](../lyrics/8c/local_65c66bbe6090dc91e5308c6c87241f8c.json)
-- [Alweda aye fatima zehra ke dilbar alweda](../lyrics/c8/local_d929685f90d54b8ca23ab57b1cb067c8.json)
-- [Alweda Aye Hussain Aye Hussain Alweda](../lyrics/0f/local_c50f6aa9125c389c3ef848c4bf666b0f.json)
-- [Alweda Moula Hussain](../lyrics/a4/local_917c48691f9d5ca160dc83d52c630ea4.json)
-- [Alweda Zehra ke laal](../lyrics/ec/local_3eef1ebd9e3b79c4ed9f1bab2ac03fec.json)
-- [Alweeda Alweeda jaane khairul bashar](../lyrics/24/local_cb8c6e2103d25e5e6d4523c46ae12a24.json)
-- [ALWIDA ALWIDA](../lyrics/12/karbala_wale_english_2021_112.json)
-- [Ay naserane Aza tumho fatima ki duaa](../lyrics/23/local_4ff4c7fff45305389716bed989f05e23.json)
-- [AYE FATIMA KE LAL TUJHE AAKHRI SALAAM](../lyrics/11/karbala_wale_english_2021_111.json)
-- [AYE MOMEENO YEH DIN HAI QAYAMAT KE BARABAR](../lyrics/13/karbala_wale_english_2021_113.json)
-- [AYE NOORE AINE FATIMA ZEHRA NA JAAIYE](../lyrics/10/karbala_wale_english_2021_110.json)
-- [Azaae shaah ke aaye zamaane](../lyrics/60/local_dd909cf6fe1d6369874466465cc92160.json)
-- [Fatima ke dil  ke chain  alvida](../lyrics/9b/local_614cfee18b8354875af732c79f88439b.json)
-- [Fatima ki jaan sarwar ab tera khuda hafiz](../lyrics/59/local_85f4016b17d52ee7d4e0586e63aead59.json)
-- [Haye ghareebul watan aye asiremehan](../lyrics/d6/local_c328d7370e84697a54632992affeb6d6.json)
-- [Jati hai teri bahen alweda shahe zaman](../lyrics/54/local_89d6b368ebdbd31acf8ba976ee71fc54.json)
-- [Nusrate haq ke liye karbala me aaye Hussain](../lyrics/61/local_edd7b611eebc45baf74f8aa3e1662261.json)
-- [Saro pe qaak udao hai ruqsate shabbir](../lyrics/56/local_c06f02f6b7f63e63bb38a658e013e256.json)
-- [WA HASRATA HUSSAINA](../lyrics/09/karbala_wale_english_2021_109.json)
-- [Ye maahe moharram hai mazloom ka maatam hai](../lyrics/d6/local_7b0c16ef53ccc30762013c26d81ac0d6.json)
-
 ## Imam Mohd Baqar (a.s)
 
 - [aaj roze aza hai waawaila](../lyrics/b7/local_f207b96d958b9ce0ba489304c86ba3b7.json)
@@ -2216,6 +2182,40 @@
 - [Moula Meri Amma guzar gayi](../lyrics/80/local_1a586ad3a52daea918424c821ed55b80.json)
 - [UMMUL BANEEN KAY GHAM MAI MAGHMOOM HAI MADINA](../lyrics/23/karbala_wale_english_2021_123.json)
 - [Ummul baneen ne ki jaha se qaza hai aaj](../lyrics/df/local_a99aa58452db632df1acb471779bffdf.json)
+
+## Widaye Ayyam e Aza
+
+- [Aao Hum Kare Karbal Ke Pyaso Ko Ruksat Ka Salam](../lyrics/f4/local_2bca03a7798b8622bdf4957916993cf4.json)
+- [Aaya jo karbala me mohammed ka gharaana](../lyrics/ca/local_f7d8237b2abf362647075716d83031ca.json)
+- [Ab wida hota hai humse laal zehra ka](../lyrics/59/local_40ceecbb33593f58d9b0870d20e86b59.json)
+- [Alajal Alajal Alajal](../lyrics/2f/local_4bd9c783f584e651d59a28dba182862f.json)
+- [alvida aye hussain](../lyrics/c6/local_9f9885fcbb0cbc8a9fdd4c94497dabc6.json)
+- [ALVIDA MOULA HUSSAIN ALVIDA MOULA](../lyrics/76/local_119a4bca864f30e5452c4e0cd9defb76.json)
+- [Alvida moula Hussain alvida moula Hussain](../lyrics/02/local_34ea177e76529f077fd27bda89de1802.json)
+- [Alweda Alweda Alweda](../lyrics/de/local_cd915876a7883a1734fedd0ac46a1ede.json)
+- [Alweda Alweda Alweda ay Hussain](../lyrics/66/local_3937bb80f0a0a7394ceca5975d909766.json)
+- [Alweda Alweda Aye Hussain Alweda](../lyrics/47/local_b541de0b23bd7088b57529410c2c7747.json)
+- [Alweda Alweda Aye Jaane Zehra Alweda](../lyrics/df/local_ecf003f2a3a42f94a4b1ede6275aa7df.json)
+- [Alweda aye Fatima Zehra ke dilbar](../lyrics/8c/local_65c66bbe6090dc91e5308c6c87241f8c.json)
+- [Alweda aye fatima zehra ke dilbar alweda](../lyrics/c8/local_d929685f90d54b8ca23ab57b1cb067c8.json)
+- [Alweda Aye Hussain Aye Hussain Alweda](../lyrics/0f/local_c50f6aa9125c389c3ef848c4bf666b0f.json)
+- [Alweda Moula Hussain](../lyrics/a4/local_917c48691f9d5ca160dc83d52c630ea4.json)
+- [Alweda Zehra ke laal](../lyrics/ec/local_3eef1ebd9e3b79c4ed9f1bab2ac03fec.json)
+- [Alweeda Alweeda jaane khairul bashar](../lyrics/24/local_cb8c6e2103d25e5e6d4523c46ae12a24.json)
+- [ALWIDA ALWIDA](../lyrics/12/karbala_wale_english_2021_112.json)
+- [Ay naserane Aza tumho fatima ki duaa](../lyrics/23/local_4ff4c7fff45305389716bed989f05e23.json)
+- [AYE FATIMA KE LAL TUJHE AAKHRI SALAAM](../lyrics/11/karbala_wale_english_2021_111.json)
+- [AYE MOMEENO YEH DIN HAI QAYAMAT KE BARABAR](../lyrics/13/karbala_wale_english_2021_113.json)
+- [AYE NOORE AINE FATIMA ZEHRA NA JAAIYE](../lyrics/10/karbala_wale_english_2021_110.json)
+- [Azaae shaah ke aaye zamaane](../lyrics/60/local_dd909cf6fe1d6369874466465cc92160.json)
+- [Fatima ke dil  ke chain  alvida](../lyrics/9b/local_614cfee18b8354875af732c79f88439b.json)
+- [Fatima ki jaan sarwar ab tera khuda hafiz](../lyrics/59/local_85f4016b17d52ee7d4e0586e63aead59.json)
+- [Haye ghareebul watan aye asiremehan](../lyrics/d6/local_c328d7370e84697a54632992affeb6d6.json)
+- [Jati hai teri bahen alweda shahe zaman](../lyrics/54/local_89d6b368ebdbd31acf8ba976ee71fc54.json)
+- [Nusrate haq ke liye karbala me aaye Hussain](../lyrics/61/local_edd7b611eebc45baf74f8aa3e1662261.json)
+- [Saro pe qaak udao hai ruqsate shabbir](../lyrics/56/local_c06f02f6b7f63e63bb38a658e013e256.json)
+- [WA HASRATA HUSSAINA](../lyrics/09/karbala_wale_english_2021_109.json)
+- [Ye maahe moharram hai mazloom ka maatam hai](../lyrics/d6/local_7b0c16ef53ccc30762013c26d81ac0d6.json)
 
 ## Aghaaze Moharram
 

@@ -1,6 +1,6 @@
 # Salaams
 
-109 lyrics.
+110 lyrics.
 
 ## Safar e Imam Hussain
 
@@ -13,6 +13,7 @@
 ## Ali Asghar (a.s)
 
 - [Baanu kehti hai Khudaaya kya karoon](../lyrics/a4/local_8981638533c1a5637a9f8b29e956a0a4.json)
+- [RO RO KEHTI THI BANO-E DUKHIYA](../lyrics/lr/7YAB0jKaEJr5OplLq2LR.json)
 - [RO RO KEHTI THI BANO-E DUKHIYA](../lyrics/jc/UD9HXpmgfHktVfGMKmJc.json)
 - [SHAHER BAANU KAHI PEET KAY SAR,](../lyrics/pk/WgjoC3tpQGol0Qj0Qkpk.json)
 
