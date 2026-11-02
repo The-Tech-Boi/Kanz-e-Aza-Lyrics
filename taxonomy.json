@@ -30,7 +30,7 @@
     "Nohay": {
       "additionalSubjects": [
         {
-          "value": "Ibteda-e-Aza",
+          "value": "Ibtedaye Ayyam e Aza",
           "insertAfter": "Imam Hassan (a.s)"
         },
         {
@@ -54,7 +54,7 @@
           "insertAfter": "Arbayeen"
         },
         {
-          "value": "Alvida",
+          "value": "Widaye Ayyam e Aza",
           "insertAfter": "Wapasi-e-Ahle Haram"
         },
         {
@@ -321,14 +321,21 @@
       },
       {
         "input": "Alweda",
-        "target": "Alvida",
+        "target": "Widaye Ayyam e Aza",
         "categories": [
           "Nohay"
         ]
       },
       {
-        "input": "Widaye Ayyam e Aza",
-        "target": "Alvida",
+        "input": "Alvida",
+        "target": "Widaye Ayyam e Aza",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Ibteda-e-Aza",
+        "target": "Ibtedaye Ayyam e Aza",
         "categories": [
           "Nohay"
         ]

@@ -92,11 +92,11 @@ test('a title, Poet and Personality are one line', () => {
 });
 
 test('a built-in Personality must fit every Category of the lyric', () => {
-  // Ibteda-e-Aza is a Nohay Personality only.
-  assert.equal(problem({ subcategory: 'Ibteda-e-Aza' }), null);
+  // Shehzadi Sugra (s.a) is a Nohay Personality only.
+  assert.equal(problem({ subcategory: 'Shehzadi Sugra (s.a)' }), null);
   assert.equal(
-    problem({ categories: ['Nohay', 'Manqabat'], subcategory: 'Ibteda-e-Aza' }),
-    'Ibteda-e-Aza is not a Personality for Manqabat'
+    problem({ categories: ['Nohay', 'Manqabat'], subcategory: 'Shehzadi Sugra (s.a)' }),
+    'Shehzadi Sugra (s.a) is not a Personality for Manqabat'
   );
 });
 
