@@ -1,18 +1,25 @@
 # Salaams
 
-102 lyrics.
+109 lyrics.
 
 ## Safar e Imam Hussain
 
 - [Ghar ko chodha shaah ne](../lyrics/0e/local_ef2e62cea4e72de55173ed710cb2e30e.json)
 
+## Qasim (a.s)
+
+- [RUN MEIN AAKAR SAKINA PUKARI](../lyrics/7e/yOQdBShzo7QjFJtQUI7e.json)
+
 ## Ali Asghar (a.s)
 
 - [Baanu kehti hai Khudaaya kya karoon](../lyrics/a4/local_8981638533c1a5637a9f8b29e956a0a4.json)
+- [RO RO KEHTI THI BANO-E DUKHIYA](../lyrics/jc/UD9HXpmgfHktVfGMKmJc.json)
+- [SHAHER BAANU KAHI PEET KAY SAR,](../lyrics/pk/WgjoC3tpQGol0Qj0Qkpk.json)
 
 ## Imam Hussain (a.s)
 
 - [Aakhri waqt hai marney ki rezaa do Zainab](../lyrics/dd/chashme_aza_7cf8530e98cf9aa3e9ca6cdd.json)
+- [ASHUR KI SHAB ZAINAB NE KAHA AYE RAAT ZARA AAHISTA GUZAR](../lyrics/et/XnhQunSOd7mWLXmAP3et.json)
 
 ## Shehzadi Sakina (s.a)
 
@@ -24,9 +31,15 @@
 - [Afsous Nabi Zaadiyoun ka Shaam mein jaana Sajjad sey poocho](../lyrics/62/local_8d953e38f8ffeb8f2999014aac556a62.json)
 - [Aye Shaheede Jafa imam e Raza](../lyrics/db/local_7f1ad7f47dea3cdf3d26a8bacbb001db.json)
 
+## Shehzadi Zainab (s.a)
+
+- [KEHTI THI YEHI ZAINAB DUKHIYA](../lyrics/vc/TQltxq1JI2ntAj7spqVc.json)
+
 ## Arbayeen - Wapasi
 
 - [Aao Sughra Suno Lo Sunani Suno](../lyrics/hr/GydQtBtRi7OnttOMSfhR.json)
+- [AYE SHAHEY DO JAHAAN KHUDA HAAFEZ](../lyrics/7i/6ytMiGedZz5bGDAyC37i.json)
+- [SHAAM KE BAAD](../lyrics/fg/8Hzwr6vPywF71InvCrfg.json)
 
 ## Widaye Ayyam e Aza
 
