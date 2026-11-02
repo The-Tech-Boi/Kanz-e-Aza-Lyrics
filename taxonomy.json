@@ -6,15 +6,15 @@
   "baseSubjects": [
     "Rasool-e-Khuda (s.a.w.s)",
     "Shehzadi Fatima (s.a)",
-    "Hazrat Ali (a.s)",
+    "Imam Ali (a.s)",
     "Imam Hassan (a.s)",
     "Ibtedaye Ayyam e Aza",
     "Hazrat Muslim (a.s)",
     "Pisaraan-e-Muslim (a.s)",
     "Safar e Imam Hussain",
     "Aon o Mohd (a.s)",
-    "Qasim (a.s)",
-    "Hazrat Abbas (a.s)",
+    "Shahzade Qasim (a.s)",
+    "Moula Abbas (a.s)",
     "Ali Akbar (a.s)",
     "Ali Asghar (a.s)",
     "Imam Hussain (a.s)",
@@ -24,7 +24,8 @@
     "Shehzadi Zainab (s.a)",
     "Imam Mohd Baqar (a.s)",
     "Imam Jaffer e Sadiq (a.s)",
-    "Hasan e Askary (a.s)",
+    "Imam Moosa e Kazim (a.s)",
+    "Imam Hassan Askari (a.s)",
     "Umme Kulsoom (s.a)",
     "Widaye Ayyam e Aza"
   ],
@@ -52,12 +53,8 @@
           "insertAfter": "Arbayeen"
         },
         {
-          "value": "Musa Kazim (a.s)",
-          "insertAfter": "Imam Jaffer e Sadiq (a.s)"
-        },
-        {
           "value": "Mohd Taqi (a.s)",
-          "insertAfter": "Musa Kazim (a.s)"
+          "insertAfter": "Imam Moosa e Kazim (a.s)"
         },
         {
           "value": "Ali un Naqi (a.s)",
@@ -65,7 +62,7 @@
         },
         {
           "value": "Inhedaam e Jannat ul Baqee",
-          "insertAfter": "Hasan e Askary (a.s)"
+          "insertAfter": "Imam Hassan Askari (a.s)"
         },
         {
           "value": "Ummul Baneen (s.a)",
@@ -115,12 +112,8 @@
           "insertAfter": "Arbayeen"
         },
         {
-          "value": "Musa Kazim (a.s)",
-          "insertAfter": "Imam Jaffer e Sadiq (a.s)"
-        },
-        {
           "value": "Mohd Taqi (a.s)",
-          "insertAfter": "Musa Kazim (a.s)"
+          "insertAfter": "Imam Moosa e Kazim (a.s)"
         },
         {
           "value": "Ali un Naqi (a.s)",
@@ -128,7 +121,7 @@
         },
         {
           "value": "Inhedaam e Jannat ul Baqee",
-          "insertAfter": "Hasan e Askary (a.s)"
+          "insertAfter": "Imam Hassan Askari (a.s)"
         },
         {
           "value": "Ummul Baneen (s.a)",
@@ -207,15 +200,8 @@
         ]
       },
       {
-        "input": "Shahzade Qasim (a.s)",
-        "target": "Qasim (a.s)",
-        "categories": [
-          "Nohay"
-        ]
-      },
-      {
         "input": "Shehzada Qasim (a.s)",
-        "target": "Qasim (a.s)",
+        "target": "Shahzade Qasim (a.s)",
         "categories": [
           "Nohay",
           "Salaams",
@@ -232,9 +218,7 @@
       {
         "input": "Shahzadi Sakina (sa)",
         "target": "Shehzadi Sakina (s.a)",
-        "categories": [
-          "Nohay"
-        ]
+        "categories": "all"
       },
       {
         "input": "Shahzadi Zainab (sa)",
@@ -251,15 +235,8 @@
         ]
       },
       {
-        "input": "Moula Abbas (a.s)",
-        "target": "Hazrat Abbas (a.s)",
-        "categories": [
-          "Nohay"
-        ]
-      },
-      {
         "input": "Saqqae Haram",
-        "target": "Hazrat Abbas (a.s)",
+        "target": "Moula Abbas (a.s)",
         "categories": [
           "Nohay"
         ]
@@ -337,15 +314,8 @@
         ]
       },
       {
-        "input": "Imam Ali (a.s)",
-        "target": "Hazrat Ali (a.s)",
-        "categories": [
-          "Nohay"
-        ]
-      },
-      {
         "input": "Imam Ali (as)",
-        "target": "Hazrat Ali (a.s)",
+        "target": "Imam Ali (a.s)",
         "categories": [
           "Nohay"
         ]
@@ -366,6 +336,63 @@
       },
       {
         "input": "Rehaayi o Arbayeen",
+        "target": "Wapasi-e-Ahle Haram",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Rasool e Khuda (saws)",
+        "target": "Rasool-e-Khuda (s.a.w.s)",
+        "categories": "all"
+      },
+      {
+        "input": "Fatima Zahra (sa)",
+        "target": "Shehzadi Fatima (s.a)",
+        "categories": "all"
+      },
+      {
+        "input": "Hazrat Ali (a.s)",
+        "target": "Imam Ali (a.s)",
+        "categories": "all"
+      },
+      {
+        "input": "Hazrat Abbas (a.s)",
+        "target": "Moula Abbas (a.s)",
+        "categories": "all"
+      },
+      {
+        "input": "Qasim (a.s)",
+        "target": "Shahzade Qasim (a.s)",
+        "categories": "all"
+      },
+      {
+        "input": "Imam Sajjad (a.s)",
+        "target": "Zain-ul-Abedeen (a.s)",
+        "categories": "all"
+      },
+      {
+        "input": "Imam Baqar (a.s)",
+        "target": "Imam Mohd Baqar (a.s)",
+        "categories": "all"
+      },
+      {
+        "input": "Imam Jaffer Sadiq (a.s)",
+        "target": "Imam Jaffer e Sadiq (a.s)",
+        "categories": "all"
+      },
+      {
+        "input": "Musa Kazim (a.s)",
+        "target": "Imam Moosa e Kazim (a.s)",
+        "categories": "all"
+      },
+      {
+        "input": "Hasan e Askary (a.s)",
+        "target": "Imam Hassan Askari (a.s)",
+        "categories": "all"
+      },
+      {
+        "input": "Wapasi e Ahle Haram",
         "target": "Wapasi-e-Ahle Haram",
         "categories": [
           "Nohay"

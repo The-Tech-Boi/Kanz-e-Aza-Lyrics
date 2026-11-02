@@ -126,7 +126,7 @@ test('the commit names each change by title and kind, never who made it', async 
 
 test('a Withdrawal deletes the file; a restore with no approval brings back its last version', async t => {
   quiet(t);
-  const bundled = lyric('lyric-b2', { title: 'Bundled', subcategory: 'Hazrat Abbas (a.s)', group: 2007 });
+  const bundled = lyric('lyric-b2', { title: 'Bundled', subcategory: 'Moula Abbas (a.s)', group: 2007 });
   const dir = catalogRepo([lyric('lyric-a1'), bundled]);
   const firestore = {
     catalogWithdrawals: { 'lyric-b2': { withdrawn: true, updatedBy: 'owner-uid', updatedAt: at(4000) } }
