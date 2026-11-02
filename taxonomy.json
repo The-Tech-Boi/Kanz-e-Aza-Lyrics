@@ -8,6 +8,7 @@
     "Shehzadi Fatima (s.a)",
     "Hazrat Ali (a.s)",
     "Imam Hassan (a.s)",
+    "Ibtedaye Ayyam e Aza",
     "Hazrat Muslim (a.s)",
     "Pisaraan-e-Muslim (a.s)",
     "Safar e Imam Hussain",
@@ -24,15 +25,12 @@
     "Imam Mohd Baqar (a.s)",
     "Imam Jaffer e Sadiq (a.s)",
     "Hasan e Askary (a.s)",
-    "Umme Kulsoom (s.a)"
+    "Umme Kulsoom (s.a)",
+    "Widaye Ayyam e Aza"
   ],
   "categoryExceptions": {
     "Nohay": {
       "additionalSubjects": [
-        {
-          "value": "Ibteda-e-Aza",
-          "insertAfter": "Imam Hassan (a.s)"
-        },
         {
           "value": "Shehzadi Sugra (s.a)",
           "insertAfter": "Shehzadi Sakina (s.a)"
@@ -52,10 +50,6 @@
         {
           "value": "Wapasi-e-Ahle Haram",
           "insertAfter": "Arbayeen"
-        },
-        {
-          "value": "Alvida",
-          "insertAfter": "Wapasi-e-Ahle Haram"
         },
         {
           "value": "Musa Kazim (a.s)",
@@ -85,16 +79,8 @@
     "Salaams": {
       "additionalSubjects": [
         {
-          "value": "Ibtedaye Ayyam e Aza",
-          "insertAfter": "Safar e Imam Hussain"
-        },
-        {
           "value": "Arbayeen - Wapasi",
           "insertAfter": "Shehzadi Zainab (s.a)"
-        },
-        {
-          "value": "Widaye Ayyam e Aza",
-          "insertAfter": "Arbayeen - Wapasi"
         }
       ]
     },
@@ -127,10 +113,6 @@
         {
           "value": "Wapasi-e-Ahle Haram",
           "insertAfter": "Arbayeen"
-        },
-        {
-          "value": "Widaye Ayyam e Aza",
-          "insertAfter": "Wapasi-e-Ahle Haram"
         },
         {
           "value": "Musa Kazim (a.s)",
@@ -321,14 +303,21 @@
       },
       {
         "input": "Alweda",
-        "target": "Alvida",
+        "target": "Widaye Ayyam e Aza",
         "categories": [
           "Nohay"
         ]
       },
       {
-        "input": "Widaye Ayyam e Aza",
-        "target": "Alvida",
+        "input": "Alvida",
+        "target": "Widaye Ayyam e Aza",
+        "categories": [
+          "Nohay"
+        ]
+      },
+      {
+        "input": "Ibteda-e-Aza",
+        "target": "Ibtedaye Ayyam e Aza",
         "categories": [
           "Nohay"
         ]
