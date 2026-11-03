@@ -27,6 +27,10 @@
 - [Bano ki dilruba sakina jaa'n](../lyrics/73/local_ad5de842228c06c3f562633ffd17f073.json)
 - [Thi Sakina ki yeh sadaa bhaayi](../lyrics/bd/chashme_aza_5ca3f64b48cd7c988e79fdbd.json)
 
+## Zain-ul-Abedeen (a.s)
+
+- [Aankho me basi thi karbobala sajjad tadapte rehte](../lyrics/c0/local_e6938995669025080b0a5763a73b1ec0.json)
+
 ## Imam Raza (a.s)
 
 - [Afsous Nabi Zaadiyoun ka Shaam mein jaana Sajjad sey poocho](../lyrics/62/local_8d953e38f8ffeb8f2999014aac556a62.json)
@@ -49,7 +53,6 @@
 ## Without a Personality
 
 - [Aahe soza'n lab tak aayi ashke naab aane ko hai](../lyrics/d3/local_8487a31510beaf53f62bde19f65330d3.json)
-- [Aankho me basi thi karbobala sajjad tadapte rehte](../lyrics/c0/local_e6938995669025080b0a5763a73b1ec0.json)
 - [Aasmaan larzaa Zameen kaampee Samandar roay](../lyrics/22/chashme_aza_21d71481e25406c7f4d57722.json)
 - [Ae ghuncha dahan bekas dulha](../lyrics/23/local_88754636e4eaad0c7274e028525a7923.json)
 - [Aey raat zaraa aahista guzar](../lyrics/21/chashme_aza_3a1dabea5dd4a96ded0a1f21.json)
