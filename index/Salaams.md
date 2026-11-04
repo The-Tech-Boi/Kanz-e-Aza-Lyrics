@@ -26,7 +26,6 @@
 ## Imam Hussain (a.s)
 
 - [Aakhri waqt hai marney ki rezaa do Zainab](../lyrics/dd/chashme_aza_7cf8530e98cf9aa3e9ca6cdd.json)
-- [Aey raat zaraa aahista guzar](../lyrics/21/chashme_aza_3a1dabea5dd4a96ded0a1f21.json)
 - [ASHUR KI SHAB ZAINAB NE KAHA AYE RAAT ZARA AAHISTA GUZAR](../lyrics/et/XnhQunSOd7mWLXmAP3et.json)
 
 ## Shehzadi Sakina (s.a)
@@ -56,6 +55,10 @@
 ## Widaye Ayyam e Aza
 
 - [Ae shahe do jaha'n khudahafiz](../lyrics/a6/local_6d194c7f6f440283372ba7191b0800a6.json)
+
+## Shab-e-Ashoor
+
+- [Aey raat zaraa aahista guzar](../lyrics/21/chashme_aza_3a1dabea5dd4a96ded0a1f21.json)
 
 ## Without a Personality
 
