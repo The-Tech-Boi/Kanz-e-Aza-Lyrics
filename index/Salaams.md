@@ -18,6 +18,7 @@
 
 - [Asghar salaami teer-e-sitam khaaye aathay hain](../lyrics/05/local_75c4c7ec5698805e87fbbbf29ebd9905.json)
 - [Baanu kehti hai Khudaaya kya karoon](../lyrics/a4/local_8981638533c1a5637a9f8b29e956a0a4.json)
+- [Bano maqtal me kehti ye aayi aa meri godi aa mere](../lyrics/74/local_5203b7c8b0d406830d8d39b071be0774.json)
 - [RO RO KEHTI THI BANO-E DUKHIYA](../lyrics/lr/7YAB0jKaEJr5OplLq2LR.json)
 - [RO RO KEHTI THI BANO-E DUKHIYA](../lyrics/jc/UD9HXpmgfHktVfGMKmJc.json)
 - [SHAHER BAANU KAHI PEET KAY SAR,](../lyrics/pk/WgjoC3tpQGol0Qj0Qkpk.json)
@@ -65,7 +66,6 @@
 - [Ali sa bhi na koi aadile zamana hua](../lyrics/aa/local_1b6667163e3eda3b3039f85f930b1eaa.json)
 - [arbaee'n ke sogwaaro alvidah](../lyrics/9f/local_9fb049a456b80d5b94b9ab78649d0f9f.json)
 - [Aye salami qayaam jalte hai](../lyrics/09/local_79490953e28c971a8306a4361397bd09.json)
-- [Bano maqtal me kehti ye aayi aa meri godi aa mere](../lyrics/74/local_5203b7c8b0d406830d8d39b071be0774.json)
 - [Behre zikre murtaza irfane dawar chahiye](../lyrics/d0/local_ef4330f038415e7cc57582ec89cc95d0.json)
 - [Bekasi ka sheh ke charcha reh gaya](../lyrics/3a/local_ac7cd7e175e803079e6f03cf4f90dc3a.json)
 - [boli maa kya hua sakina ko](../lyrics/26/local_253eaf978cff2a8ea209ef03d5a07f26.json)
