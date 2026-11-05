@@ -72,6 +72,7 @@
 ## Shab-e-Ashoor
 
 - [Aey raat zaraa aahista guzar](../lyrics/21/chashme_aza_3a1dabea5dd4a96ded0a1f21.json)
+- [Rasane zulm me nanhi si kalaai hogi](../lyrics/be/local_01e08361a66f3e6426b696ad16e26dbe.json)
 
 ## Without a Personality
 
@@ -128,7 +129,6 @@
 - [Qaafela sheh ka salaami labe darya](../lyrics/c3/local_0a50d00f5e87591dc74d2b67d2ce61c3.json)
 - [Qabr asghar ki banane me bohot der lagi](../lyrics/85/local_52cb66f6bda49acf1b18e55e6ebdc485.json)
 - [Ran me gala kata diya moula hussain ne](../lyrics/71/local_cc76e7f7da88b131f79c9f733920c571.json)
-- [Rasane zulm me nanhi si kalaai hogi](../lyrics/be/local_01e08361a66f3e6426b696ad16e26dbe.json)
 - [Ro ro maqtal mein kehti thi Zainab](../lyrics/7e/chashme_aza_e05e7591f699fcc8fa64fb7e.json)
 - [Salaami har taraf shore buka hai](../lyrics/c4/local_80f20d6ed91f987ee5c494e99db7e2c4.json)
 - [salaami jaagaza hai ranjo gham](../lyrics/e0/local_cf9874eedb6cef3bb4e65146b631d7e0.json)
