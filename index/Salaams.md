@@ -47,6 +47,7 @@
 
 - [Afsous Nabi Zaadiyoun ka Shaam mein jaana Sajjad sey poocho](../lyrics/62/local_8d953e38f8ffeb8f2999014aac556a62.json)
 - [Aye Shaheede Jafa imam e Raza](../lyrics/db/local_7f1ad7f47dea3cdf3d26a8bacbb001db.json)
+- [ya imaame raza khuda hafiz](../lyrics/08/local_4f78bde3402951159d25fd06b4474908.json)
 
 ## Shehzadi Zainab (s.a)
 
@@ -146,7 +147,6 @@
 - [Thi kisi ki dasht mein sadaa Haaye hum yateem hogaye](../lyrics/20/chashme_aza_037cbc442b04158010accc20.json)
 - [Wajibur rehm the zinda'n ke sazawaar na the](../lyrics/ee/local_49870774e7404758553924ba93f75fee.json)
 - [Ya Ali Karbala me aag lagi](../lyrics/9b/local_03cf17579340c9025a9cdbe3e32c5f9b.json)
-- [ya imaame raza khuda hafiz](../lyrics/08/local_4f78bde3402951159d25fd06b4474908.json)
 - [Ye keh rahe hai aaj bhi naale furaat ke](../lyrics/f1/local_e568dcf0b91fa82e947c8d4037ca60f1.json)
 - [Yu sakina ne pukaara](../lyrics/3c/local_eca8ba1d534d39a2d6ab2910e09cb83c.json)
 - [Zabaa'n par mad'ha hai baaghe Ali ke nounehaalo ki](../lyrics/e6/local_5a1957947de29871f69a15b3f66678e6.json)
