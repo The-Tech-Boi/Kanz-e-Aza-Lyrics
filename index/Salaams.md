@@ -8,6 +8,7 @@
 
 ## Shahzade Qasim (a.s)
 
+- [Ae ghuncha dahan bekas dulha](../lyrics/23/local_88754636e4eaad0c7274e028525a7923.json)
 - [RUN MEIN AAKAR SAKINA PUKARI](../lyrics/7e/yOQdBShzo7QjFJtQUI7e.json)
 
 ## Ali Akbar (a.s)
@@ -64,7 +65,6 @@
 
 - [Aahe soza'n lab tak aayi ashke naab aane ko hai](../lyrics/d3/local_8487a31510beaf53f62bde19f65330d3.json)
 - [Aasmaan larzaa Zameen kaampee Samandar roay](../lyrics/22/chashme_aza_21d71481e25406c7f4d57722.json)
-- [Ae ghuncha dahan bekas dulha](../lyrics/23/local_88754636e4eaad0c7274e028525a7923.json)
 - [Ali ki mad'ha karta hu'n](../lyrics/b2/local_827a348617fb1a41e264a7833ea6f5b2.json)
 - [Ali sa bhi na koi aadile zamana hua](../lyrics/aa/local_1b6667163e3eda3b3039f85f930b1eaa.json)
 - [arbaee'n ke sogwaaro alvidah](../lyrics/9f/local_9fb049a456b80d5b94b9ab78649d0f9f.json)
