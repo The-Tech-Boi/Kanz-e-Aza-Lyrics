@@ -51,6 +51,7 @@
 
 ## Shehzadi Zainab (s.a)
 
+- [Gham zada saara ghar hai zainab ka](../lyrics/fb/local_0b0a4be875dfdf648aea9a13c98b17fb.json)
 - [KEHTI THI YEHI ZAINAB DUKHIYA](../lyrics/vc/TQltxq1JI2ntAj7spqVc.json)
 
 ## Arbayeen - Wapasi
@@ -58,6 +59,10 @@
 - [Aao Sughra Suno Lo Sunani Suno](../lyrics/hr/GydQtBtRi7OnttOMSfhR.json)
 - [AYE SHAHEY DO JAHAAN KHUDA HAAFEZ](../lyrics/7i/6ytMiGedZz5bGDAyC37i.json)
 - [SHAAM KE BAAD](../lyrics/fg/8Hzwr6vPywF71InvCrfg.json)
+
+## Umme Kulsoom (s.a)
+
+- [Hai aale nabi me shore buka dunya se uthi umme kul](../lyrics/4c/local_bafb99cc0b865f575d19e3fad1adbf4c.json)
 
 ## Widaye Ayyam e Aza
 
@@ -85,10 +90,8 @@
 - [Ek sakta hai biyabaan ki fiza qamosh hai](../lyrics/20/local_50ea04aeeb59f2430ae083d762c4e720.json)
 - [Fida hoon us pay salaami hai jis ka naam Hussain](../lyrics/c4/local_d3216e6dbe05fb82c0da9fb66aa6b7c4.json)
 - [Ghabraaegi Zainab dukh payegi Zainab](../lyrics/5f/local_62963485f2deb91aeb62f3fc00ebf25f.json)
-- [Gham zada saara ghar hai zainab ka](../lyrics/fb/local_0b0a4be875dfdf648aea9a13c98b17fb.json)
 - [ghar chalo bhai mehndi lagaoo'n](../lyrics/e5/local_92e3f476dfed2c5d64c69c9a32c88ae5.json)
 - [Ghurbat ki inteha hai, na saya na rida hai](../lyrics/67/local_724e0241c69833518d2dd17a2252b167.json)
-- [Hai aale nabi me shore buka dunya se uthi umme kul](../lyrics/4c/local_bafb99cc0b865f575d19e3fad1adbf4c.json)
 - [Hai ahle haram me shore buka sheh laate hai lasha](../lyrics/30/local_b74cce1569640cea4b591c7c5d56a230.json)
 - [Hai rukhsat  ki ghadi ae karbala  walo](../lyrics/03/local_5d0a34185420d0b294d6c0fdb41c6d03.json)
 - [Hai Salaam us pe jo qaidi bhi hai](../lyrics/21/local_f75b5e3bb5f10993a0b93f82eb9e9421.json)
