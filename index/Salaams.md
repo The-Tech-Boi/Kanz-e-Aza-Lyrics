@@ -54,6 +54,7 @@
 
 - [Gham zada saara ghar hai zainab ka](../lyrics/fb/local_0b0a4be875dfdf648aea9a13c98b17fb.json)
 - [KEHTI THI YEHI ZAINAB DUKHIYA](../lyrics/vc/TQltxq1JI2ntAj7spqVc.json)
+- [khoke bhai ko aayi hai zainab](../lyrics/68/local_e9b9a8dcfe6f69776b8d4a3e78d28f68.json)
 
 ## Arbayeen - Wapasi
 
@@ -108,7 +109,6 @@
 - [Khaak par maiyyath padi hai aur maa khaamoush hai](../lyrics/d6/chashme_aza_e3363e540233cf9acea36fd6.json)
 - [Khaakar sina jo seene pa akber guzar gaye](../lyrics/45/local_3392083e3b844986070e9d80888b0145.json)
 - [khat me soughra ne ye likha baba](../lyrics/0d/local_e66fcbbe1a80f9ff9e0afb308a3cdf0d.json)
-- [khoke bhai ko aayi hai zainab](../lyrics/68/local_e9b9a8dcfe6f69776b8d4a3e78d28f68.json)
 - [Khoon me tar qamar hai Muslim ke](../lyrics/fc/local_0130c59ab2e6aa5d21a09c86fd5e21fc.json)
 - [Main sonchta hoon kay Abid ka haal kya hogaa](../lyrics/32/chashme_aza_466a45b40b82af9e4de2a532.json)
 - [maqtal me tha jo laashae asghar tamaam raat](../lyrics/73/local_d6773794fbd029e242ef8fa623365973.json)
