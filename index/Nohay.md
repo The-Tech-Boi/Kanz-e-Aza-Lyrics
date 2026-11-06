@@ -1676,7 +1676,7 @@
 - [Abid ghareeb beykas-o-naachaar margaya](../lyrics/2c/local_90f5e39a91401bedacb1fe5873ccc32c.json)
 - [Abid ko jaha'n Ghash aata hai](../lyrics/b5/local_f3030faa735dbe95d179b3a1e38c37b5.json)
 - [Ae mere bhai reza](../lyrics/29/local_ce8dc3f51d14716801002d0416f57229.json)
-- [Afsous Nabi Zaadiyoun ka Shaam mein jaana Sajjad sey poocho](../lyrics/62/local_8d953e38f8ffeb8f2999014aac556a62.json)
+- [AFSOUS NABI ZAADIYOUN KA SHAAM MEIN JAANA](../lyrics/62/local_8d953e38f8ffeb8f2999014aac556a62.json)
 - [ahle haram me shor hai moula kahan chale](../lyrics/25/local_2e5114ff3f09031b9274480454b07325.json)
 - [Ali Ali Ali Hyder](../lyrics/9a/local_f6bbc2bb6f144ca244d9b9ccebe0ba9a.json)
 - [Ali Ali moula Moula Ali Ali](../lyrics/f7/local_cbbe1aa07f89bf9343852c00663ae0f7.json)
