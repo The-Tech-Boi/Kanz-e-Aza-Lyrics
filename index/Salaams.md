@@ -45,6 +45,7 @@
 - [Bano ki dilruba sakina jaa'n](../lyrics/73/local_ad5de842228c06c3f562633ffd17f073.json)
 - [BOLI MAA KYA HUVA SAKINA KO](../lyrics/26/local_253eaf978cff2a8ea209ef03d5a07f26.json)
 - [Thi Sakina ki yeh sadaa bhaayi](../lyrics/bd/chashme_aza_5ca3f64b48cd7c988e79fdbd.json)
+- [Yu sakina ne pukaara](../lyrics/3c/local_eca8ba1d534d39a2d6ab2910e09cb83c.json)
 
 ## Zain-ul-Abedeen (a.s)
 
@@ -58,6 +59,7 @@
 
 ## Shehzadi Zainab (s.a)
 
+- [Ghabraaegi Zainab dukh payegi Zainab](../lyrics/5f/local_62963485f2deb91aeb62f3fc00ebf25f.json)
 - [Gham zada saara ghar hai zainab ka](../lyrics/fb/local_0b0a4be875dfdf648aea9a13c98b17fb.json)
 - [KEHTI THI YEHI ZAINAB DUKHIYA](../lyrics/vc/TQltxq1JI2ntAj7spqVc.json)
 - [khoke bhai ko aayi hai zainab](../lyrics/68/local_e9b9a8dcfe6f69776b8d4a3e78d28f68.json)
@@ -96,7 +98,6 @@
 - [Ek musaafir qaid hai beemaar hai](../lyrics/a6/local_f9b074409ee170db95b8473f86a3f9a6.json)
 - [Ek sakta hai biyabaan ki fiza qamosh hai](../lyrics/20/local_50ea04aeeb59f2430ae083d762c4e720.json)
 - [FIDA HOON US PAY SALAAMI HAI JIS KA NAAM HUSSAIN](../lyrics/c4/local_d3216e6dbe05fb82c0da9fb66aa6b7c4.json)
-- [Ghabraaegi Zainab dukh payegi Zainab](../lyrics/5f/local_62963485f2deb91aeb62f3fc00ebf25f.json)
 - [ghar chalo bhai mehndi lagaoo'n](../lyrics/e5/local_92e3f476dfed2c5d64c69c9a32c88ae5.json)
 - [Ghurbat ki inteha hai, na saya na rida hai](../lyrics/67/local_724e0241c69833518d2dd17a2252b167.json)
 - [Hai ahle haram me shore buka sheh laate hai lasha](../lyrics/30/local_b74cce1569640cea4b591c7c5d56a230.json)
@@ -154,7 +155,6 @@
 - [Wajibur rehm the zinda'n ke sazawaar na the](../lyrics/ee/local_49870774e7404758553924ba93f75fee.json)
 - [Ya Ali Karbala me aag lagi](../lyrics/9b/local_03cf17579340c9025a9cdbe3e32c5f9b.json)
 - [Ye keh rahe hai aaj bhi naale furaat ke](../lyrics/f1/local_e568dcf0b91fa82e947c8d4037ca60f1.json)
-- [Yu sakina ne pukaara](../lyrics/3c/local_eca8ba1d534d39a2d6ab2910e09cb83c.json)
 - [Zabaa'n par mad'ha hai baaghe Ali ke nounehaalo ki](../lyrics/e6/local_5a1957947de29871f69a15b3f66678e6.json)
 - [Zainab pukaari rokar Abbas tum kahaan ho](../lyrics/50/chashme_aza_e09a5beb5094f3eeec5b6a50.json)
 - [ZIKR GHAME HUSSAIN SE MEHFIL SAJI RAHI](../lyrics/b7/local_61d3d70b5bf67fc32d60c73466664cb7.json)
