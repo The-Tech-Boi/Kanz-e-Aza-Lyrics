@@ -168,9 +168,29 @@
 - [Jab Zaaeyraan shaahey ghareebul watan phirey](../lyrics/e8/local_7d9d59c7f39ef67354f588a4fa7d27e8.json)
 - [SUNAA THA JAB SE KE AATHE HAIN SYED-E- AKRAM](../lyrics/d6/local_dad51a0b11ae0096aa2ebb79903998d6.json)
 
+## Imam Mohd Baqar (a.s)
+
+- [HAI QASD KUCH FAZAEL-E BAQUAR RAQAM KAROON](../lyrics/65/local_b1df7e0a4c9e4aa83e12719778ae7f65.json)
+
 ## Imam Jaffer e Sadiq (a.s)
 
 - [Beychain dil thay Hazrat-e-Baqar ki yaad mein](../lyrics/93/local_9fb42461f3ca6184abd94a35d9a16d93.json)
+
+## Imam Moosa e Kazim (a.s)
+
+- [SAR PEETO AAJ MOOSA-E JAAFAR HUWA SHAHEED](../lyrics/06/local_cc3515320df0a2fdfc307931cbe9ef06.json)
+
+## Mohd Taqi (a.s)
+
+- [KYA HAAL HO RAZAA KE JIGAR BAND KA BAYAAN](../lyrics/dc/local_00941d157b26d0cf78f8b1633d1588dc.json)
+
+## Ali un Naqi (a.s)
+
+- [KIS UMR ME ALI-E NAQI BE PIDAR HUWE](../lyrics/3b/local_05bbe3005063c8a14abcd84e000eff3b.json)
+
+## Imam Hassan Askari (a.s)
+
+- [SHORA JAHAAN ME HASSAN-E ASKARI KA HAI](../lyrics/68/local_5abd5e2a7317f23abefe5d4ef56e7968.json)
 
 ## Inhedaam e Jannat ul Baqee
 
@@ -199,16 +219,8 @@
 ## 2 5 6 7 9 10th(Imaam)
 
 - [BAQUAR BHI THE SHAREEK-E SHAHINSHAAH-E TASHNALAB](../lyrics/94/local_20a8442a18bcb33708ce669f9b340b94.json)
-- [HAI QASD KUCH FAZAEL-E BAQUAR RAQAM KAROON](../lyrics/65/local_b1df7e0a4c9e4aa83e12719778ae7f65.json)
-- [KIS UMR ME ALI-E NAQI BE PIDAR HUWE](../lyrics/3b/local_05bbe3005063c8a14abcd84e000eff3b.json)
-- [KYA HAAL HO RAZAA KE JIGAR BAND KA BAYAAN](../lyrics/dc/local_00941d157b26d0cf78f8b1633d1588dc.json)
 - [Momino qaana e zehra me qayamat hai aaj](../lyrics/36/local_706b1dd19e6fb508ae9b16dd5ff27e36.json)
-- [SAR PEETO AAJ MOOSA-E JAAFAR HUWA SHAHEED](../lyrics/06/local_cc3515320df0a2fdfc307931cbe9ef06.json)
 - [ZINDAAN-E GHAM THA MOOSA-E KAAZIM KE WAASTHE](../lyrics/c6/local_1bd94a0cf19d2da5b8a55b48cdb611c6.json)
-
-## Alvida and 11th Imaam
-
-- [SHORA JAHAAN ME HASSAN-E ASKARI KA HAI](../lyrics/68/local_5abd5e2a7317f23abefe5d4ef56e7968.json)
 
 ## Chehlum aur waapsi
 

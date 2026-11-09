@@ -1221,6 +1221,7 @@
 - [MOULA HUSSAIN A](../lyrics/72/local_8c18d7b834703a4ac9a641250b4db972.json)
 - [Mujhe pe kyu band karte ho paani](../lyrics/27/local_56adc389607e646654a9a23830563227.json)
 - [Mujhe shabbir kehte hai](../lyrics/da/local_8f0a81f01c50d281ac472be5c33efbda.json)
+- [Mushkil Kusha E Khalq Khudaara Madad Karo](../lyrics/f6/local_e2e0298b33ce20af0ada33b25f03c1f6.json)
 - [Na bhoole na bhoole](../lyrics/e2/local_9cf5558cefaed71949d094d92f35fae2.json)
 - [Na milenga tuje shabbir sa bhayi](../lyrics/33/local_f72e96e8c346e0f4f94cee861d332433.json)
 - [Na Raha Koyi Mera Chahane Wala Zainab](../lyrics/5d/local_bd58aad005a3217e0de34d4a492f015d.json)
@@ -2317,7 +2318,6 @@
 - [Inna lillahi wa inna ilayhi rajiun](../lyrics/89/local_7ca9b38c8e9d158bc3494cad4c099e89.json)
 - [Islaam pe ehsaan hai tera asghar e beshee](../lyrics/9e/local_02c7c0625dd932b0ac763f23492ea29e.json)
 - [Matam Hussain Ka](../lyrics/5e/local_d0491f06b8ea9ff4cec36796abf37a5e.json)
-- [Mushkil Kusha E Khalq Khudaara Madad Karo](../lyrics/f6/local_e2e0298b33ce20af0ada33b25f03c1f6.json)
 - [Sajjad Ka Gala Hai](../lyrics/2b/local_0aed67119f9a02979b0836c1a6350a2b.json)
 - [Sher e Khuda Ali](../lyrics/36/local_7b6ba9f8bea384efc02ce717e1a54636.json)
 
