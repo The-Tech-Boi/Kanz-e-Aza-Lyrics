@@ -21,6 +21,16 @@
 - [Sote hai aah shaahe qurasaan mazaar me](../lyrics/5f/local_5df038d85bf0ad5251a3c7620732375f.json)
 - [Zainab sifat bahen thi Imam e Raza ki bhi](../lyrics/6c/local_139659e9360f3b3f32d2e4620f1b7b6c.json)
 
+## Imam Ali (a.s)
+
+- [Aye rozey daaro aaho bukaa ke yeh roz hain](../lyrics/d4/local_727c1ace6e82c6018fec2f5629ffadd4.json)
+- [IMAAN KI JAAN KYA HAI MOHABBAT ALI KI HAI](../lyrics/89/local_784d42796f89d9f3901785e34dc30d89.json)
+- [WARID HUWI NAAGAAH SHAB-E ZARBATH-E HYDER](../lyrics/41/local_9d183ce04c900d9d364046c46e93c041.json)
+
+## Imam Hassan (a.s)
+
+- [JIS DAM HASSAN KA ZAHER SE TUKDE JIGAR HUWA](../lyrics/7d/local_7de60b17c0b6e4bbb326642da60eaf7d.json)
+
 ## Hazrat Muslim (a.s)
 
 - [DARBAAR ME JAB KATKE YATIMOUN KE SAR AAE](../lyrics/18/local_e6f2d6ce0a9bf7305fb88e6737572018.json)
@@ -134,11 +144,8 @@
 
 - [AAJ IMAAM-E- RAZA SHAHEED HUWE](../lyrics/89/local_6cd1df57ca31eb2d1afd7b526ea53c89.json)
 - [Aye hyderio Rahlate HYDER Ki Ye Shab Hai](../lyrics/aa/local_c02fe87a3f6757f9f8ebf7c596fc69aa.json)
-- [Aye rozey daaro aaho bukaa ke yeh roz hain](../lyrics/d4/local_727c1ace6e82c6018fec2f5629ffadd4.json)
-- [IMAAN KI JAAN KYA HAI MOHABBAT ALI KI HAI](../lyrics/89/local_784d42796f89d9f3901785e34dc30d89.json)
 - [Momino ro o ke ye roze ghamo aafat hai](../lyrics/7a/local_215a8486e92a2293590e40ac55262c7a.json)
 - [MOMINOU AAJ QURASAAN ME HAI TAAZA MAATAM](../lyrics/5a/local_dae0cb53703a4fa25d1c85f38711645a.json)
-- [WARID HUWI NAAGAAH SHAB-E ZARBATH-E HYDER](../lyrics/41/local_9d183ce04c900d9d364046c46e93c041.json)
 
 ## Shehzadi Zainab (s.a)
 
@@ -157,7 +164,9 @@
 
 - [Durood padhke watak ko chala Hussain ka laal](../lyrics/b2/local_691b0dae4bfb040581d747758ddfddb2.json)
 - [Jab baad dafn Shah watan ko haram chale](../lyrics/80/local_7d2e3c79186bd15d71751e4befdfb680.json)
+- [JAB SHAAH KO SAFAR ME BAHOTH DIN GUZAAR GAYE](../lyrics/c5/local_c70937af76514e445e24ad752802dbc5.json)
 - [Jab Zaaeyraan shaahey ghareebul watan phirey](../lyrics/e8/local_7d9d59c7f39ef67354f588a4fa7d27e8.json)
+- [SUNAA THA JAB SE KE AATHE HAIN SYED-E- AKRAM](../lyrics/d6/local_dad51a0b11ae0096aa2ebb79903998d6.json)
 
 ## Imam Jaffer e Sadiq (a.s)
 
@@ -175,6 +184,10 @@
 
 - [Ummul baneen madare abbase zi wiqaar](../lyrics/fc/local_1f3dddb6c8a707601d89d6e0a3c93efc.json)
 
+## Widaye Ayyam e Aza
+
+- [AYE SHAAH-E KARBALA TERI QIDMATH NA HO SAKI](../lyrics/e1/local_b96511b83eb8d5f8ac3fec6feb4185e1.json)
+
 ## (ص) أم البنين
 
 - [أم البنين مادرِ عباس ذی وقار](../lyrics/8b/local_e61f6bdb5768e823f0b837694e44928b.json)
@@ -187,7 +200,6 @@
 
 - [BAQUAR BHI THE SHAREEK-E SHAHINSHAAH-E TASHNALAB](../lyrics/94/local_20a8442a18bcb33708ce669f9b340b94.json)
 - [HAI QASD KUCH FAZAEL-E BAQUAR RAQAM KAROON](../lyrics/65/local_b1df7e0a4c9e4aa83e12719778ae7f65.json)
-- [JIS DAM HASSAN KA ZAHER SE TUKDE JIGAR HUWA](../lyrics/7d/local_7de60b17c0b6e4bbb326642da60eaf7d.json)
 - [KIS UMR ME ALI-E NAQI BE PIDAR HUWE](../lyrics/3b/local_05bbe3005063c8a14abcd84e000eff3b.json)
 - [KYA HAAL HO RAZAA KE JIGAR BAND KA BAYAAN](../lyrics/dc/local_00941d157b26d0cf78f8b1633d1588dc.json)
 - [Momino qaana e zehra me qayamat hai aaj](../lyrics/36/local_706b1dd19e6fb508ae9b16dd5ff27e36.json)
@@ -196,15 +208,12 @@
 
 ## Alvida and 11th Imaam
 
-- [AYE SHAAH-E KARBALA TERI QIDMATH NA HO SAKI](../lyrics/e1/local_b96511b83eb8d5f8ac3fec6feb4185e1.json)
 - [SHORA JAHAAN ME HASSAN-E ASKARI KA HAI](../lyrics/68/local_5abd5e2a7317f23abefe5d4ef56e7968.json)
 
 ## Chehlum aur waapsi
 
 - [Aaj Chehlum tamaam hota hai](../lyrics/76/local_c030bcd5663dbf30eddd38ba0a3d9676.json)
-- [JAB SHAAH KO SAFAR ME BAHOTH DIN GUZAAR GAYE](../lyrics/c5/local_c70937af76514e445e24ad752802dbc5.json)
 - [QAID SE CHUT KE AAI HAI ZAINAB](../lyrics/a0/local_03e2fc777dfaa2e244f089070300a9a0.json)
-- [SUNAA THA JAB SE KE AATHE HAIN SYED-E- AKRAM](../lyrics/d6/local_dad51a0b11ae0096aa2ebb79903998d6.json)
 
 ## Hazrat Abu Talib (a.s)
 
