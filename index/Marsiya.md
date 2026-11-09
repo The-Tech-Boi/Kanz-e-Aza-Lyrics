@@ -35,6 +35,15 @@
 - [GHAR SE JAB BAHRE SAFAR SYED-E- AALAM NIKLE](../lyrics/63/local_01db27d1e956b3ae64ad41fa7206d163.json)
 - [Likhthe Hain Raaviyaan-E Jigar Souz Ye Kalaam](../lyrics/d3/local_6fbd094ee75ebcb3c1bdd964e32e7ad3.json)
 
+## Warid-e-Karbala
+
+- [AYE MOMINO HUSSAIN SE MAQTAL QAREEB HAI](../lyrics/61/local_a129b3966db951aa1186e5ba0a8fda61.json)
+- [KISI BEEMAR NE KHAT APNE MASIHA KO LIKHA](../lyrics/8e/local_bd43f70b920e2907da33ce0d139bec8e.json)
+
+## Hazrat Hur (a.s)
+
+- [RAN ME JAB SHEH KI TARAF SE HURR-E- DEENDAR AAYA](../lyrics/a6/local_949e6a6574216c79a98415b882e82ca6.json)
+
 ## Aon o Mohd (a.s)
 
 - [JAB ZAINAB-E- GHAREEB KE RAN ME PISAR LADE](../lyrics/21/local_7ba125425b8ecec8669b4a2aa7a44f21.json)
@@ -70,7 +79,6 @@
 
 ## Ali Asghar (a.s)
 
-- [Aah huvey Kaaba-e-qurbaani-e-daavar hai Hussain](../lyrics/33/local_37726f472a332159e580c36d1b905833.json)
 - [BANO KE SHEER QHWAAR KO HAFTUM SE PYAAS HAE](../lyrics/47/local_74d6d977041dcc278361e32f160da747.json)
 - [BANO PICHLE PAHAR ASGHAR KE LIYE ROTI HAI](../lyrics/83/local_59b60a3cd53e276340b80c47c6cd8083.json)
 - [HAAE KIS BEKAS-O MAZLOOM KA YE MAATAM HAE](../lyrics/44/local_a7fb068effb4daa282c82c23ef98c844.json)
@@ -81,6 +89,7 @@
 ## Imam Hussain (a.s)
 
 - [AADA SE KEH RAHE THE YE MOULA GHAREEB HOO\_N](../lyrics/f4/local_8e44eae789ba3e2b55b82998e47df6f4.json)
+- [Aah huvey Kaaba-e-qurbaani-e-daavar hai Hussain](../lyrics/33/local_37726f472a332159e580c36d1b905833.json)
 - [EK JAA\_N LAAKH QAREEDAAR AYAAZAN BILLAH](../lyrics/23/local_ece4ec933327de835e44d0ff3fc8ca23.json)
 - [IBN-E- ALI JO BAAGH-E- RISAALATH LUTAA CHUKA](../lyrics/45/local_f974187c76190b8e92091514ca379c45.json)
 - [Jab katt gaye haftaad doh tanh raahey Khuda main](../lyrics/c5/chashme_aza_6427b69acd90c8b10339bec5.json)
@@ -108,12 +117,18 @@
 - [ROKAR KAHAA YEH MAA NEY KAY DILBAR JAWAAB DO](../lyrics/72/local_9c50c97951e95578b68a631783d2e472.json)
 - [ZINDAAN ME MUQAYAAD HUWE JIS DAM HARAM-E SHAAH](../lyrics/e2/local_52e859ef09150f3db32ccc144a0629e2.json)
 
+## Zain-ul-Abedeen (a.s)
+
+- [SHAH-E WAALA NE SHAHAADAT KA SAR ANJAAM KIYAA](../lyrics/fe/local_5e2344c35a8a3b23b0fd9c3ea52630fe.json)
+- [SHAHEED SE KOYI SHAMSHEER KA MAZAA POOCHE](../lyrics/50/local_35ccd2f10660d287d5b0d6882396a350.json)
+
 ## Darbaar e Shaam
 
 - [Aamadh hai Ahlebaith-e-Payamber ki Shaam main](../lyrics/e9/local_58e568601304bbbea5f9c347f16a5de9.json)
 - [Jab lut ke karbala se aseere sitam chale](../lyrics/e7/local_67ecad7b72f3626dc73097c8cf1d2ae7.json)
 - [Jab mehfil-e-yazeed mein daakhil harum huvey](../lyrics/3b/local_64219bb1590f4bb508a89b9f1d4ca63b.json)
 - [Mehshar ki subha aaj numaya hai shaam me](../lyrics/5b/local_fbbc24a09b0e3760ea56ae79f180a45b.json)
+- [QAID QAANE ME TALAATUM HAI KE HIND AATHI HAI](../lyrics/24/local_90a189c6a5db7f059282c8110834d124.json)
 
 ## Imam Raza (a.s)
 
@@ -123,9 +138,6 @@
 - [IMAAN KI JAAN KYA HAI MOHABBAT ALI KI HAI](../lyrics/89/local_784d42796f89d9f3901785e34dc30d89.json)
 - [Momino ro o ke ye roze ghamo aafat hai](../lyrics/7a/local_215a8486e92a2293590e40ac55262c7a.json)
 - [MOMINOU AAJ QURASAAN ME HAI TAAZA MAATAM](../lyrics/5a/local_dae0cb53703a4fa25d1c85f38711645a.json)
-- [QAID QAANE ME TALAATUM HAI KE HIND AATHI HAI](../lyrics/24/local_90a189c6a5db7f059282c8110834d124.json)
-- [SHAH-E WAALA NE SHAHAADAT KA SAR ANJAAM KIYAA](../lyrics/fe/local_5e2344c35a8a3b23b0fd9c3ea52630fe.json)
-- [SHAHEED SE KOYI SHAMSHEER KA MAZAA POOCHE](../lyrics/50/local_35ccd2f10660d287d5b0d6882396a350.json)
 - [WARID HUWI NAAGAAH SHAB-E ZARBATH-E HYDER](../lyrics/41/local_9d183ce04c900d9d364046c46e93c041.json)
 
 ## Shehzadi Zainab (s.a)
@@ -136,8 +148,14 @@
 - [Sajjad jab dobaara aseer-e-jafaa huvey](../lyrics/51/chashme_aza_9504dee52b35360825bbe951.json)
 - [Zainab pa huva khaatema har ranj-o-balaa ka](../lyrics/51/chashme_aza_b84698b237ed75aa8195aa51.json)
 
+## Arbayeen
+
+- [Bala uthaake haram karbala se aate hai](../lyrics/51/local_ea330f75782c1ba1d53ebd9df76d3b51.json)
+- [CHAHLUM JO KARBALA ME BAHATTAR KA HO CHUKA](../lyrics/45/local_40aed12d787d9dfc77bd1759ecc3f545.json)
+
 ## Wapasi-e-Ahle Haram
 
+- [Durood padhke watak ko chala Hussain ka laal](../lyrics/b2/local_691b0dae4bfb040581d747758ddfddb2.json)
 - [Jab baad dafn Shah watan ko haram chale](../lyrics/80/local_7d2e3c79186bd15d71751e4befdfb680.json)
 - [Jab Zaaeyraan shaahey ghareebul watan phirey](../lyrics/e8/local_7d9d59c7f39ef67354f588a4fa7d27e8.json)
 
@@ -184,9 +202,6 @@
 ## Chehlum aur waapsi
 
 - [Aaj Chehlum tamaam hota hai](../lyrics/76/local_c030bcd5663dbf30eddd38ba0a3d9676.json)
-- [Bala uthaake haram karbala se aate hai](../lyrics/51/local_ea330f75782c1ba1d53ebd9df76d3b51.json)
-- [CHAHLUM JO KARBALA ME BAHATTAR KA HO CHUKA](../lyrics/45/local_40aed12d787d9dfc77bd1759ecc3f545.json)
-- [Durood padhke watak ko chala Hussain ka laal](../lyrics/b2/local_691b0dae4bfb040581d747758ddfddb2.json)
 - [JAB SHAAH KO SAFAR ME BAHOTH DIN GUZAAR GAYE](../lyrics/c5/local_c70937af76514e445e24ad752802dbc5.json)
 - [QAID SE CHUT KE AAI HAI ZAINAB](../lyrics/a0/local_03e2fc777dfaa2e244f089070300a9a0.json)
 - [SUNAA THA JAB SE KE AATHE HAIN SYED-E- AKRAM](../lyrics/d6/local_dad51a0b11ae0096aa2ebb79903998d6.json)
@@ -201,10 +216,7 @@
 
 ## Moharram(1 2 3)
 
-- [AYE MOMINO HUSSAIN SE MAQTAL QAREEB HAI](../lyrics/61/local_a129b3966db951aa1186e5ba0a8fda61.json)
-- [KISI BEEMAR NE KHAT APNE MASIHA KO LIKHA](../lyrics/8e/local_bd43f70b920e2907da33ce0d139bec8e.json)
 - [MUSAFEROUN KI MADINE ME JAB RASEED AAI](../lyrics/f8/local_51dbfc7d368577ebe5a67dcd3ed57bf8.json)
-- [RAN ME JAB SHEH KI TARAF SE HURR-E- DEENDAR AAYA](../lyrics/a6/local_949e6a6574216c79a98415b882e82ca6.json)
 
 ## الوداع
 
