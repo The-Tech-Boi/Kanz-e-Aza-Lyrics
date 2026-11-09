@@ -204,9 +204,12 @@
 ## Ibtedaye Ayyam e Aza
 
 - [Aagaya maahe Aza](../lyrics/76/local_130bc8f2f850976540d95fe7ff2b8276.json)
+- [aayi haatif ki aawaz sheh ko](../lyrics/0b/local_edc14e64ab8b9670a815be31a109990b.json)
 - [Aye Chand Moharram Ke Tu Badli Me Chala Ja](../lyrics/a4/local_f8593230ea6ee935061a05f3c96aa5a4.json)
+- [Bula kar sab to hazrat ne](../lyrics/e7/local_c8dbae0ac7b044ff289e689a341f20e7.json)
 - [Hayya ala qairil amal hayya ala qairil amal](../lyrics/f0/local_5e9edd094e929c84767212bc364676f0.json)
 - [Is mahe moharram me ajab hashr bapa hai](../lyrics/63/local_daf4785b5261c854d17b1c34f1490763.json)
+- [Lutaa hai gulshan-e-Zehra isi Moharram mein](../lyrics/7a/local_f7ace59cef188ee2779d9ecb2b39f47a.json)
 
 ## Hazrat Muslim (a.s)
 
@@ -2396,12 +2399,9 @@
 
 ## Karbala o Azadaari
 
-- [aayi haatif ki aawaz sheh ko](../lyrics/0b/local_edc14e64ab8b9670a815be31a109990b.json)
 - [abbas se kehti thi ye fouje](../lyrics/7b/local_184470a44ce282e2af75ab53906cef7b.json)
-- [Bula kar sab to hazrat ne](../lyrics/e7/local_c8dbae0ac7b044ff289e689a341f20e7.json)
 - [Ibtedaae aza hai](../lyrics/ca/local_b1b0666685589fff79ff865e9c2a33ca.json)
 - [Is maahe moharram me](../lyrics/49/local_bf07128fd71bf311f5b1b42b48851449.json)
-- [Lutaa hai gulshan-e-Zehra isi Moharram mein](../lyrics/7a/local_f7ace59cef188ee2779d9ecb2b39f47a.json)
 - [MATAMI ANJUMAN KARWAN E AZA](../lyrics/72/local_feddcd353f768b08c28f58c933cee072.json)
 - [Nade Aliyan Aliyan ya ali](../lyrics/e9/local_e576f612615a3e2ad9d8df2005664ee9.json)
 - [TA HASR KARWAN-E-AZA GHAM MANAINGE](../lyrics/9b/local_301f5c5ae2540c5ec9291d62c359009b.json)
