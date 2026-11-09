@@ -86,13 +86,16 @@
 - [Aey raat zaraa aahista guzar](../lyrics/21/chashme_aza_3a1dabea5dd4a96ded0a1f21.json)
 - [RASANE ZULM MEIN NANHI SI KALAAYI HOGI](../lyrics/be/local_01e08361a66f3e6426b696ad16e26dbe.json)
 
+## Sham-e-Ghariba'n
+
+- [DAROUNA JUNGLE, HAI RAAT ANDHERI,](../lyrics/74/local_22d5f01ca8e52f93570a636df2eac274.json)
+
 ## Without a Personality
 
 - [Aahe soza'n lab tak aayi ashke naab aane ko hai](../lyrics/d3/local_8487a31510beaf53f62bde19f65330d3.json)
 - [Aasmaan larzaa Zameen kaampee Samandar roay](../lyrics/22/chashme_aza_21d71481e25406c7f4d57722.json)
 - [Behre zikre murtaza irfane dawar chahiye](../lyrics/d0/local_ef4330f038415e7cc57582ec89cc95d0.json)
 - [Bekasi ka sheh ke charcha reh gaya](../lyrics/3a/local_ac7cd7e175e803079e6f03cf4f90dc3a.json)
-- [DAROUNA JUNGLE, HAI RAAT ANDHERI,](../lyrics/74/local_22d5f01ca8e52f93570a636df2eac274.json)
 - [DIL THAAM KAY YEH KUBRA NEY KAHAA](../lyrics/81/local_d44c86d02e1133933ba9e88ed61ae581.json)
 - [Ek beemaar se ae mujrayi sab ghar choota](../lyrics/b3/local_d612e0540b3470b87a242cab3ace4cb3.json)
 - [Ek musaafir qaid hai beemaar hai](../lyrics/a6/local_f9b074409ee170db95b8473f86a3f9a6.json)
