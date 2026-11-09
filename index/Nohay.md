@@ -1,6 +1,6 @@
 # Nohay
 
-2586 lyrics.
+2588 lyrics.
 
 ## Rasool-e-Khuda (s.a.w.s)
 
@@ -933,6 +933,7 @@
 - [Bano ka tha nouha Ali asghar ki lahed par](../lyrics/fe/local_79e76ba78802eed9d3b332269344a2fe.json)
 - [Bano ke bain the  ali asghar kidhar](../lyrics/d0/local_d6236ec6f785009ff0ec4736296589d0.json)
 - [bano se aake](../lyrics/4c/local_d6bf1b75d8665f261cb19b6a79120e4c.json)
+- [BE-SHEER KI GARDAN PAR JAB TEER LAGA HOGA](../lyrics/vn/mjgBQONxGydykWAXijVn.json)
 - [Bohat Deer lagi](../lyrics/8b/local_356e460e2dc55f60b7667f727d7cbf8b.json)
 - [Boli ro ro ke Maa Ali Asghar](../lyrics/21/local_d16b38eb12caaf85594dd23992ac7521.json)
 - [Boond Pani Bhi Mayyasar Na Hua Asghar Ko](../lyrics/cb/local_447c0b5165e7c20a91ee4216bdd518cb.json)
@@ -1228,6 +1229,7 @@
 - [Noujawaan Akbare Man aarame jaan akbare man](../lyrics/2e/local_51e42ff9d44bf36448b173daf2c5202e.json)
 - [PADA HAI JALTI ZAMEE'N PAR HUSSAIN KA LAASHA](../lyrics/59/karbala_wale_english_2021_059.json)
 - [PARWANA-E-SHABBIR](../lyrics/01/karbala_wale_english_2021_001.json)
+- [PEETO SAR APNE AHLE AZAA WA-WAILAA](../lyrics/lq/gGPo15D6gt4zyXXiyJlq.json)
 - [POHNCHO NAJAF SE KARBOBALA YA ALI](../lyrics/77/karbala_wale_english_2021_077.json)
 - [Pukaari Zainab-e-muztarr Hussain aajaao](../lyrics/15/local_113a721658f8c048521aa23d5e661815.json)
 - [Pukari zainab e muztar mere Hussain utho](../lyrics/4b/local_fadccca7746caa068a4720183f3bd74b.json)
