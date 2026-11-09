@@ -16,6 +16,10 @@
 - [AYE GHUNCHA DAHAN BEKAS DULHA](../lyrics/23/local_88754636e4eaad0c7274e028525a7923.json)
 - [RUN MEIN AAKAR SAKINA PUKARI](../lyrics/7e/yOQdBShzo7QjFJtQUI7e.json)
 
+## Moula Abbas (a.s)
+
+- [BOLI ZAINAB UTHO IMDAD KO AAO ABBAS](../lyrics/22/local_02d7e5611825ea712eaaf9348950c622.json)
+
 ## Ali Akbar (a.s)
 
 - [Aey salaami peer marthay hain jawaan kay saamney](../lyrics/2b/chashme_aza_7dcbd1ddd504b5d63b91232b.json)
@@ -34,6 +38,7 @@
 
 - [Aakhri waqt hai marney ki rezaa do Zainab](../lyrics/dd/chashme_aza_7cf8530e98cf9aa3e9ca6cdd.json)
 - [ASHUR KI SHAB ZAINAB NE KAHA AYE RAAT ZARA AAHISTA GUZAR](../lyrics/et/XnhQunSOd7mWLXmAP3et.json)
+- [AYE SALAAMI KHIYAAM JALTEY HAIN](../lyrics/09/local_79490953e28c971a8306a4361397bd09.json)
 
 ## Shehzadi Sakina (s.a)
 
@@ -82,11 +87,9 @@
 
 - [Aahe soza'n lab tak aayi ashke naab aane ko hai](../lyrics/d3/local_8487a31510beaf53f62bde19f65330d3.json)
 - [Aasmaan larzaa Zameen kaampee Samandar roay](../lyrics/22/chashme_aza_21d71481e25406c7f4d57722.json)
-- [AYE SALAAMI KHIYAAM JALTEY HAIN](../lyrics/09/local_79490953e28c971a8306a4361397bd09.json)
 - [Behre zikre murtaza irfane dawar chahiye](../lyrics/d0/local_ef4330f038415e7cc57582ec89cc95d0.json)
 - [Bekasi ka sheh ke charcha reh gaya](../lyrics/3a/local_ac7cd7e175e803079e6f03cf4f90dc3a.json)
 - [Boli ye zainab dukhya tera chehlum karne](../lyrics/87/local_cd198e0423457a73b06095950367c787.json)
-- [BOLI ZAINAB UTHO IMDAD KO AAO ABBAS](../lyrics/22/local_02d7e5611825ea712eaaf9348950c622.json)
 - [DAROUNA JUNGLE, HAI RAAT ANDHERI,](../lyrics/74/local_22d5f01ca8e52f93570a636df2eac274.json)
 - [DIL THAAM KAY YEH KUBRA NEY KAHAA](../lyrics/81/local_d44c86d02e1133933ba9e88ed61ae581.json)
 - [Ek beemaar se ae mujrayi sab ghar choota](../lyrics/b3/local_d612e0540b3470b87a242cab3ace4cb3.json)
