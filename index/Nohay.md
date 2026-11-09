@@ -178,7 +178,6 @@
 - [Par baddua na ki](../lyrics/b3/local_1a998c473de6a365193fc74bf40a9eb3.json)
 - [Roke Kehti thi sakina mere baba se milado](../lyrics/88/local_32d53e4091dd6c0a0ca53d82fb74c688.json)
 - [roke madar ye karti thi nouha](../lyrics/39/local_1634c424a7c9e470c59803a1ee2a7b39.json)
-- [samere me ghul hai bapa haaye haaye](../lyrics/61/local_036ae31df90c137043cfa074f1f2d061.json)
 - [SHABBAR KA JANAZA JAATA HAIN AUR TEER LAYEEN BARSAAT E HAIN](../lyrics/0a/local_3b9e86dffc2c8f2421e250f9e0dece0a.json)
 - [Sughra ko rulata hai](../lyrics/d2/local_7ae7571f03911bf9dd424c242cd92ed2.json)
 - [Sugra se tu sakina badi khushnaseeb hai](../lyrics/94/local_63d7318d39ee38ff28b8d19a48da6a94.json)
@@ -1617,6 +1616,7 @@
 - [Matam hai bahrobar mein bimar-e-karbala ka](../lyrics/97/local_878d09a1ce349472578a55805dffb497.json)
 - [Sarwar ke Azadar](../lyrics/1d/local_7d614cbc0b65289a101881135598f61d.json)
 - [Sarwar ke sogwaar Haaye Abid e Beemaar](../lyrics/9d/local_46182dd05b3baeffdbe584dc1a23109d.json)
+- [Shaam ka bazaar Abid-e-beemaar](../lyrics/22/local_6a051a0e603d287e22f36a7866406222.json)
 - [Ye Beemaar kehta tha kufe me](../lyrics/40/local_031163b0a52e32b3b38f4b8de5342840.json)
 - [Zanjeer mein jakde huve beemar ka maatam](../lyrics/17/karbala_wale_english_2021_117.json)
 
@@ -1780,7 +1780,6 @@
 - [SAR PA AB SHAAHE KHURASAN KA SAYA NA RAHA](../lyrics/20/karbala_wale_english_2021_120.json)
 - [Sar peet ke chillayi ye masoma e muztar](../lyrics/7f/local_3891a6948672fbaeac6d573d2f8da47f.json)
 - [sar peeto momino ke ye zarbat ki raat hai](../lyrics/5c/local_8a74fbc1f2290c7f8376aa90f03c025c.json)
-- [Shaam ka bazaar Abid-e-beemaar](../lyrics/22/local_6a051a0e603d287e22f36a7866406222.json)
 - [Shaam ne maar diya](../lyrics/63/local_f927b0046886eea440cff78187f8e863.json)
 - [shabbar utharahe hai hyder ka janaza](../lyrics/3b/local_ddc329e05f2cd0675e32c7187e43383b.json)
 - [SHOUR HAI YAHI BARPA QATL HOGAYE MOULA](../lyrics/95/local_dcb18689e2ea9f4a8a10394ca461e895.json)
@@ -2175,6 +2174,7 @@
 ## Imam Hassan Askari (a.s)
 
 - [Matam hai Askari ka sab momino ke ghar ghar](../lyrics/3a/local_414f2e88c89168c186c8be62d48fa33a.json)
+- [samere me ghul hai bapa haaye haaye](../lyrics/61/local_036ae31df90c137043cfa074f1f2d061.json)
 
 ## Inhedaam e Jannat ul Baqee
 
@@ -2215,6 +2215,7 @@
 - [AYE FATIMA KE LAL TUJHE AAKHRI SALAAM](../lyrics/11/karbala_wale_english_2021_111.json)
 - [AYE MOMEENO YEH DIN HAI QAYAMAT KE BARABAR](../lyrics/13/karbala_wale_english_2021_113.json)
 - [AYE NOORE AINE FATIMA ZEHRA NA JAAIYE](../lyrics/10/karbala_wale_english_2021_110.json)
+- [Aye Sarware Zeeshaan Khuda hafiz-o-Naser](../lyrics/71/chashme_aza_d77ec2d71ce5c2217966f971.json)
 - [Azaae shaah ke aaye zamaane](../lyrics/60/local_dd909cf6fe1d6369874466465cc92160.json)
 - [Fatima ke dil  ke chain  alvida](../lyrics/9b/local_614cfee18b8354875af732c79f88439b.json)
 - [Fatima ki jaan sarwar ab tera khuda hafiz](../lyrics/59/local_85f4016b17d52ee7d4e0586e63aead59.json)
@@ -2680,7 +2681,6 @@
 - [Aye momino Hussain ka tum par salaam hai](../lyrics/b5/local_22bbbffefa0a4fd89b1df36e662331b5.json)
 - [Aye momino payaam  e sarwar](../lyrics/34/local_0a503933b00e943caa18cbf5cfa98234.json)
 - [Aye momino ye Gham karo](../lyrics/d1/local_3739cbbe11a0b9040571f9db205ff7d1.json)
-- [Aye Sarware Zeeshaan Khuda hafiz-o-Naser](../lyrics/71/chashme_aza_d77ec2d71ce5c2217966f971.json)
 - [Barbaad hua haaye Mohd ka gharana](../lyrics/4c/local_52f6914cd71ac54bc1aa7e69f632214c.json)
 - [Bazaar kay manzar ko, aur apney khuley sar ko bhuli nahi mai](../lyrics/71/chashme_aza_7a4e039576ec8c9b309c1f71.json)
 - [Binte zehra ne bade karb ke manzar dekhe](../lyrics/72/local_a8e6a886a61b616deaaa20e25ddf1e72.json)
