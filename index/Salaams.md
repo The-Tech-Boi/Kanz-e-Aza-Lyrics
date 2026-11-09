@@ -38,6 +38,7 @@
 ## Shehzadi Sakina (s.a)
 
 - [Bano ki dilruba sakina jaa'n](../lyrics/73/local_ad5de842228c06c3f562633ffd17f073.json)
+- [BOLI MAA KYA HUVA SAKINA KO](../lyrics/26/local_253eaf978cff2a8ea209ef03d5a07f26.json)
 - [Thi Sakina ki yeh sadaa bhaayi](../lyrics/bd/chashme_aza_5ca3f64b48cd7c988e79fdbd.json)
 
 ## Zain-ul-Abedeen (a.s)
@@ -84,7 +85,6 @@
 - [AYE SALAAMI KHIYAAM JALTEY HAIN](../lyrics/09/local_79490953e28c971a8306a4361397bd09.json)
 - [Behre zikre murtaza irfane dawar chahiye](../lyrics/d0/local_ef4330f038415e7cc57582ec89cc95d0.json)
 - [Bekasi ka sheh ke charcha reh gaya](../lyrics/3a/local_ac7cd7e175e803079e6f03cf4f90dc3a.json)
-- [BOLI MAA KYA HUVA SAKINA KO](../lyrics/26/local_253eaf978cff2a8ea209ef03d5a07f26.json)
 - [Boli ye zainab dukhya tera chehlum karne](../lyrics/87/local_cd198e0423457a73b06095950367c787.json)
 - [BOLI ZAINAB UTHO IMDAD KO AAO ABBAS](../lyrics/22/local_02d7e5611825ea712eaaf9348950c622.json)
 - [DAROUNA JUNGLE, HAI RAAT ANDHERI,](../lyrics/74/local_22d5f01ca8e52f93570a636df2eac274.json)
