@@ -2,6 +2,10 @@
 
 152 lyrics.
 
+## Shehzadi Fatima (s.a)
+
+- [Ghurbat ki inteha hai, na saya na rida hai](../lyrics/67/local_724e0241c69833518d2dd17a2252b167.json)
+
 ## Imam Ali (a.s)
 
 - [ALI KI MADHAA KARTHA HOON YEHI EK KAAM BAAQI HAI](../lyrics/b2/local_827a348617fb1a41e264a7833ea6f5b2.json)
@@ -123,7 +127,6 @@
 - [Ghabraegi zainab](../lyrics/85/g2611_u3685.json)
 - [ghar chalo bhai mehndi lagaoo'n](../lyrics/e5/local_92e3f476dfed2c5d64c69c9a32c88ae5.json)
 - [Ghar ko choda](../lyrics/86/g2611_u3686.json)
-- [Ghurbat ki inteha hai, na saya na rida hai](../lyrics/67/local_724e0241c69833518d2dd17a2252b167.json)
 - [Guzar gaye thay](../lyrics/13/g2611_r4213.json)
 - [Guzar gaye thay](../lyrics/87/g2611_u3687.json)
 - [Hai ahle haram me shore buka sheh laate hai lasha](../lyrics/30/local_b74cce1569640cea4b591c7c5d56a230.json)
