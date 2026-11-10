@@ -1,6 +1,6 @@
 # Manqabat
 
-207 lyrics.
+215 lyrics.
 
 ## Rasool-e-Khuda (s.a.w.s)
 
@@ -267,4 +267,12 @@
 
 ## Without a Personality
 
+- [Ali Mola Haider](../lyrics/04/g2611_r0004.json)
+- [Ali Walon Ko Ali Mubarak 13 Rajab New Manqabat 2024](../lyrics/05/g2611_r0005.json)
+- [Ali Walon Ko Ali Mubarak 13 Rajab New Manqabat 2024](../lyrics/01/g2611_u0001.json)
+- [Imam e Zamana](../lyrics/11/g2611_r0011.json)
+- [JAB AANE WALA AYEGA](../lyrics/12/g2611_r0012.json)
+- [Magar Fatima (sa) Fatima (sa) Hai](../lyrics/15/g2611_r0015.json)
+- [Malaika Ko Be Sajda Seekha Raha Hai Hussain](../lyrics/16/g2611_r0016.json)
 - [Mubarak ho ye shaadi](../lyrics/c2/local_eb4b2e8060f344090c0b3c653a3012c2.json)
+- [Zindagani Hussain Dete Hain](../lyrics/21/g2611_r0021.json)
