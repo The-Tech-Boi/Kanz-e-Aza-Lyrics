@@ -1,6 +1,6 @@
 # Marsiya
 
-226 lyrics.
+231 lyrics.
 
 ## Rasool-e-Khuda (s.a.w.s)
 
@@ -441,5 +441,10 @@
 ## Without a Personality
 
 - [Aaj maqtal may](../lyrics/22/g2611_r0022.json)
+- [Aaj maqtal may](../lyrics/02/g2611_u0002.json)
 - [Aaj shabbir pe kya](../lyrics/23/g2611_r0023.json)
+- [Aaj shabbir pe kya](../lyrics/03/g2611_u0003.json)
 - [Bakhi jo rafiqe shahe](../lyrics/24/g2611_r0024.json)
+- [Bakhi jo rafiqe shahe](../lyrics/04/g2611_u0004.json)
+- [Hussain jab ke chale](../lyrics/05/g2611_u0005.json)
+- [Zindan may jab dukhtare](../lyrics/06/g2611_u0006.json)

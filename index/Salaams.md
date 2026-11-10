@@ -1,6 +1,6 @@
 # Salaams
 
-110 lyrics.
+121 lyrics.
 
 ## Imam Ali (a.s)
 
@@ -96,13 +96,20 @@
 
 - [Aahe soza'n lab tak aayi ashke naab aane ko hai](../lyrics/d3/local_8487a31510beaf53f62bde19f65330d3.json)
 - [Aasmaan larzaa Zameen kaampee Samandar roay](../lyrics/22/chashme_aza_21d71481e25406c7f4d57722.json)
+- [Ay paalne waale](../lyrics/07/g2611_r4207.json)
+- [Bano ne kaha jaan se](../lyrics/08/g2611_r4208.json)
+- [Bas hussain bas](../lyrics/09/g2611_r4209.json)
 - [Behre zikre murtaza irfane dawar chahiye](../lyrics/d0/local_ef4330f038415e7cc57582ec89cc95d0.json)
 - [Bekasi ka sheh ke charcha reh gaya](../lyrics/3a/local_ac7cd7e175e803079e6f03cf4f90dc3a.json)
+- [Chala hai karbala ko](../lyrics/10/g2611_r4210.json)
+- [Ek baar aur mujhe](../lyrics/11/g2611_r4211.json)
 - [Ek beemaar se ae mujrayi sab ghar choota](../lyrics/b3/local_d612e0540b3470b87a242cab3ace4cb3.json)
 - [Ek sakta hai biyabaan ki fiza qamosh hai](../lyrics/20/local_50ea04aeeb59f2430ae083d762c4e720.json)
+- [Farshe aza pe aao](../lyrics/12/g2611_r4212.json)
 - [FIDA HOON US PAY SALAAMI HAI JIS KA NAAM HUSSAIN](../lyrics/c4/local_d3216e6dbe05fb82c0da9fb66aa6b7c4.json)
 - [ghar chalo bhai mehndi lagaoo'n](../lyrics/e5/local_92e3f476dfed2c5d64c69c9a32c88ae5.json)
 - [Ghurbat ki inteha hai, na saya na rida hai](../lyrics/67/local_724e0241c69833518d2dd17a2252b167.json)
+- [Guzar gaye thay](../lyrics/13/g2611_r4213.json)
 - [Hai ahle haram me shore buka sheh laate hai lasha](../lyrics/30/local_b74cce1569640cea4b591c7c5d56a230.json)
 - [HAI SALAAM US PEY JO QAIDI BHI HAI BEEMAR BHI HAI](../lyrics/21/local_f75b5e3bb5f10993a0b93f82eb9e9421.json)
 - [Hussain ban ke zamane pe chaa gayi Zainab](../lyrics/81/local_abb5e90e8c3463f10803e42165fec681.json)
@@ -117,6 +124,7 @@
 - [KHAAKAR SINAA JO SEENAY PA AKBAR GUZAR GAYE](../lyrics/45/local_3392083e3b844986070e9d80888b0145.json)
 - [khat me soughra ne ye likha baba](../lyrics/0d/local_e66fcbbe1a80f9ff9e0afb308a3cdf0d.json)
 - [Khoon me tar qamar hai Muslim ke](../lyrics/fc/local_0130c59ab2e6aa5d21a09c86fd5e21fc.json)
+- [Maa kehti thi uth jaag](../lyrics/14/g2611_r4214.json)
 - [Main sonchta hoon kay Abid ka haal kya hogaa](../lyrics/32/chashme_aza_466a45b40b82af9e4de2a532.json)
 - [maqtal me tha jo laashae asghar tamaam raat](../lyrics/73/local_d6773794fbd029e242ef8fa623365973.json)
 - [Meri tarah mere baba ,koi yateem na ho](../lyrics/b4/local_f5de832bec22168dc3f5ef506b4c20b4.json)
@@ -128,6 +136,7 @@
 - [Mujrayi qahate aab bhi tha aur ghiza na thi](../lyrics/8d/local_2472aa46ca54ffed39bde3139b0fe58d.json)
 - [Mujrayi qalq me in aankho ne kya kya](../lyrics/0f/local_0f05f81cfad9d9d57a3f91815442f90f.json)
 - [Mujrayi sheh ne kaha bhool na jaana zainab](../lyrics/60/local_ec1bdcc3fae8ef9bb0912d9a7bcaa560.json)
+- [Musafiron ko madina](../lyrics/15/g2611_r4215.json)
 - [naam par shaah ke paani](../lyrics/6a/local_a9637ba4b168b0bc504640fed1b6676a.json)
 - [PAHUNCHE YEH NAZM YOON SHAHE ZEESHAAN KE SAAMNE](../lyrics/58/local_f965f0c192eb367680738115c30bc558.json)
 - [PARDES MEIN ZAINAB KHO BAITHI](../lyrics/08/local_fa0346d04f279154ee15eec880f54a08.json)
@@ -155,9 +164,11 @@
 - [Soja asghar jaani soja](../lyrics/46/local_85e0a28229676bf22c615cc19ad80346.json)
 - [Tashnalab mazloom sarwar alvida](../lyrics/55/local_ed7a702f6e926c9ef5f11214198d1355.json)
 - [Thi kisi ki dasht mein sadaa Haaye hum yateem hogaye](../lyrics/20/chashme_aza_037cbc442b04158010accc20.json)
+- [Ummat ne baade](../lyrics/17/g2611_r4217.json)
 - [Wajibur rehm the zinda'n ke sazawaar na the](../lyrics/ee/local_49870774e7404758553924ba93f75fee.json)
 - [Ya Ali Karbala me aag lagi](../lyrics/9b/local_03cf17579340c9025a9cdbe3e32c5f9b.json)
 - [Ye keh rahe hai aaj bhi naale furaat ke](../lyrics/f1/local_e568dcf0b91fa82e947c8d4037ca60f1.json)
+- [Ye kehta hua doob](../lyrics/18/g2611_r4218.json)
 - [Zabaa'n par mad'ha hai baaghe Ali ke nounehaalo ki](../lyrics/e6/local_5a1957947de29871f69a15b3f66678e6.json)
 - [Zainab pukaari rokar Abbas tum kahaan ho](../lyrics/50/chashme_aza_e09a5beb5094f3eeec5b6a50.json)
 - [ZIKR GHAME HUSSAIN SE MEHFIL SAJI RAHI](../lyrics/b7/local_61d3d70b5bf67fc32d60c73466664cb7.json)
