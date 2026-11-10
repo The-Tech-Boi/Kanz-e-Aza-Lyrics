@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
   "contractVersion": "1.0.0",
-  "latestReleaseTag": "v1.0.1017-42883296930",
-  "catalogTree": "9598722d2e650a52c104fe379e993b58b1e34add",
+  "latestReleaseTag": "v1.0.1018-42883435884",
+  "catalogTree": "4516bbb120e3584206506c3a1fc753f3c86f0ab5",
   "updates": [
     {
       "id": "update_1792258565269",
@@ -879,6 +879,12 @@
       "assetName": "update_1794338099879.json",
       "sha256": "ffadf3953663b20951a40067215c954d202e6fc7510f03ba6ab653ff220c9d86",
       "releaseTag": "v1.0.1017-42883296930"
+    },
+    {
+      "id": "update_1794338149049",
+      "assetName": "update_1794338149049.json",
+      "sha256": "6298cd7be6dd1f9b9c9fa1450b05b4fd495453909467bd8006377f6a8c1d82bd",
+      "releaseTag": "v1.0.1018-42883435884"
     }
   ]
 }

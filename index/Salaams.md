@@ -40,6 +40,7 @@
 - [Aakhri waqt hai marney ki rezaa do Zainab](../lyrics/dd/chashme_aza_7cf8530e98cf9aa3e9ca6cdd.json)
 - [ASHUR KI SHAB ZAINAB NE KAHA AYE RAAT ZARA AAHISTA GUZAR](../lyrics/et/XnhQunSOd7mWLXmAP3et.json)
 - [AYE SALAAMI KHIYAAM JALTEY HAIN](../lyrics/09/local_79490953e28c971a8306a4361397bd09.json)
+- [FIDA HOON US PAY SALAAMI HAI JIS KA NAAM HUSSAIN](../lyrics/c4/local_d3216e6dbe05fb82c0da9fb66aa6b7c4.json)
 
 ## Shehzadi Sakina (s.a)
 
@@ -106,7 +107,6 @@
 - [Ek beemaar se ae mujrayi sab ghar choota](../lyrics/b3/local_d612e0540b3470b87a242cab3ace4cb3.json)
 - [Ek sakta hai biyabaan ki fiza qamosh hai](../lyrics/20/local_50ea04aeeb59f2430ae083d762c4e720.json)
 - [Farshe aza pe aao](../lyrics/12/g2611_r4212.json)
-- [FIDA HOON US PAY SALAAMI HAI JIS KA NAAM HUSSAIN](../lyrics/c4/local_d3216e6dbe05fb82c0da9fb66aa6b7c4.json)
 - [ghar chalo bhai mehndi lagaoo'n](../lyrics/e5/local_92e3f476dfed2c5d64c69c9a32c88ae5.json)
 - [Ghurbat ki inteha hai, na saya na rida hai](../lyrics/67/local_724e0241c69833518d2dd17a2252b167.json)
 - [Guzar gaye thay](../lyrics/13/g2611_r4213.json)
