@@ -44,6 +44,7 @@
 - [Ali nahi to kuch nahi](../lyrics/c9/local_b3e9fc8e2d20f21b75da253522e7e1c9.json)
 - [Ali waley jahan baithe](../lyrics/0a/local_9a87a663f788d27ed95253ca7b98f10a.json)
 - [Ali Walon Ko Ali Mubarak 13 Rajab New Manqabat 2024](../lyrics/05/g2611_r0005.json)
+- [Ali Walon Ko Ali Mubarak 13 Rajab New Manqabat 2024](../lyrics/01/g2611_u0001.json)
 - [Amal se apne](../lyrics/24/local_7c9351f79dc23789a64944366f334424.json)
 - [Ba Mansha e Rab e Jahan Khenchtey Hain](../lyrics/02/local_3a0158ff876631b4037087d7d87fce02.json)
 - [Dam mast qalandar Ali Ali](../lyrics/1a/local_14b5a28aaa0442e9fb1d7bb184218d1a.json)
@@ -272,7 +273,6 @@
 
 ## Without a Personality
 
-- [Ali Walon Ko Ali Mubarak 13 Rajab New Manqabat 2024](../lyrics/01/g2611_u0001.json)
 - [Imam e Zamana](../lyrics/11/g2611_r0011.json)
 - [JAB AANE WALA AYEGA](../lyrics/12/g2611_r0012.json)
 - [Mubarak ho ye shaadi](../lyrics/c2/local_eb4b2e8060f344090c0b3c653a3012c2.json)

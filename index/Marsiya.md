@@ -101,7 +101,9 @@
 - [AADA SE KEH RAHE THE YE MOULA GHAREEB HOO\_N](../lyrics/f4/local_8e44eae789ba3e2b55b82998e47df6f4.json)
 - [Aah huvey Kaaba-e-qurbaani-e-daavar hai Hussain](../lyrics/33/local_37726f472a332159e580c36d1b905833.json)
 - [Aaj shabbir pe kya](../lyrics/23/g2611_r0023.json)
+- [Aaj shabbir pe kya](../lyrics/03/g2611_u0003.json)
 - [EK JAA\_N LAAKH QAREEDAAR AYAAZAN BILLAH](../lyrics/23/local_ece4ec933327de835e44d0ff3fc8ca23.json)
+- [Hussain jab ke chale](../lyrics/05/g2611_u0005.json)
 - [IBN-E- ALI JO BAAGH-E- RISAALATH LUTAA CHUKA](../lyrics/45/local_f974187c76190b8e92091514ca379c45.json)
 - [Jab katt gaye haftaad doh tanh raahey Khuda main](../lyrics/c5/chashme_aza_6427b69acd90c8b10339bec5.json)
 - [Jab naujawan pisar shahe deen se juda hua](../lyrics/31/local_2392931bc9e6c188d62e7215a04aa231.json)
@@ -115,6 +117,7 @@
 ## Shaam e Ghareeba
 
 - [Aaj maqtal may](../lyrics/22/g2611_r0022.json)
+- [Aaj maqtal may](../lyrics/02/g2611_u0002.json)
 - [Ahley haram pey aaj qayamat ki raat hai](../lyrics/c8/chashme_aza_41800352e18c19e0fbfdffc8.json)
 
 ## Shehzadi Sakina (s.a)
@@ -128,6 +131,7 @@
 - [KAHTHI THI RAN ME AAKE SAKINA JAWAAB DO](../lyrics/5c/local_23ac0ac729d8c541770141b8d3683f5c.json)
 - [ROKAR KAHAA YEH MAA NEY KAY DILBAR JAWAAB DO](../lyrics/72/local_9c50c97951e95578b68a631783d2e472.json)
 - [ZINDAAN ME MUQAYAAD HUWE JIS DAM HARAM-E SHAAH](../lyrics/e2/local_52e859ef09150f3db32ccc144a0629e2.json)
+- [Zindan may jab dukhtare](../lyrics/06/g2611_u0006.json)
 
 ## Zain-ul-Abedeen (a.s)
 
@@ -442,9 +446,5 @@
 
 ## Without a Personality
 
-- [Aaj maqtal may](../lyrics/02/g2611_u0002.json)
-- [Aaj shabbir pe kya](../lyrics/03/g2611_u0003.json)
 - [Bakhi jo rafiqe shahe](../lyrics/24/g2611_r0024.json)
 - [Bakhi jo rafiqe shahe](../lyrics/04/g2611_u0004.json)
-- [Hussain jab ke chale](../lyrics/05/g2611_u0005.json)
-- [Zindan may jab dukhtare](../lyrics/06/g2611_u0006.json)
