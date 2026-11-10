@@ -50,6 +50,7 @@
 
 - [Bano ki dilruba sakina jaa'n](../lyrics/73/local_ad5de842228c06c3f562633ffd17f073.json)
 - [BOLI MAA KYA HUVA SAKINA KO](../lyrics/26/local_253eaf978cff2a8ea209ef03d5a07f26.json)
+- [Ek baar aur mujhe](../lyrics/11/g2611_r4211.json)
 - [Thi Sakina ki yeh sadaa bhaayi](../lyrics/bd/chashme_aza_5ca3f64b48cd7c988e79fdbd.json)
 - [Yu sakina ne pukaara](../lyrics/3c/local_eca8ba1d534d39a2d6ab2910e09cb83c.json)
 
@@ -115,7 +116,6 @@
 - [Chala hai karbala ko](../lyrics/10/g2611_r4210.json)
 - [Chala hai karbala ko](../lyrics/81/g2611_u3681.json)
 - [Darona jangal](../lyrics/82/g2611_u3682.json)
-- [Ek baar aur mujhe](../lyrics/11/g2611_r4211.json)
 - [Ek baar aur mujhe](../lyrics/83/g2611_u3683.json)
 - [Ek beemaar se ae mujrayi sab ghar choota](../lyrics/b3/local_d612e0540b3470b87a242cab3ace4cb3.json)
 - [Farshe aza pe aao](../lyrics/12/g2611_r4212.json)
