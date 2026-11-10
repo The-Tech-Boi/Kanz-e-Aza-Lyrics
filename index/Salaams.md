@@ -43,7 +43,6 @@
 - [ASHUR KI SHAB ZAINAB NE KAHA AYE RAAT ZARA AAHISTA GUZAR](../lyrics/et/XnhQunSOd7mWLXmAP3et.json)
 - [Ay paalne waale](../lyrics/07/g2611_r4207.json)
 - [AYE SALAAMI KHIYAAM JALTEY HAIN](../lyrics/09/local_79490953e28c971a8306a4361397bd09.json)
-- [Ek sakta hai biyabaan ki fiza qamosh hai](../lyrics/20/local_50ea04aeeb59f2430ae083d762c4e720.json)
 - [FIDA HOON US PAY SALAAMI HAI JIS KA NAAM HUSSAIN](../lyrics/c4/local_d3216e6dbe05fb82c0da9fb66aa6b7c4.json)
 
 ## Shehzadi Sakina (s.a)
@@ -97,6 +96,7 @@
 ## Sham-e-Ghariba'n
 
 - [DAROUNA JUNGLE, HAI RAAT ANDHERI,](../lyrics/74/local_22d5f01ca8e52f93570a636df2eac274.json)
+- [Ek sakta hai biyabaan ki fiza qamosh hai](../lyrics/20/local_50ea04aeeb59f2430ae083d762c4e720.json)
 
 ## Without a Personality
 
