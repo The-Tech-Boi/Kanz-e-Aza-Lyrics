@@ -20,6 +20,7 @@
 - [Haan wo hai fatima](../lyrics/e1/local_4228cd3e2bb12e3ea74c9dab1b5ac6e1.json)
 - [Jab Khuda ko Pukaara Ali Aagae](../lyrics/99/local_1fedfe177cb62a2a3a8d24e7efa55b99.json)
 - [Khuda ki pehchan banke jabse](../lyrics/24/local_9c8208a79de76a6934a59607d28de324.json)
+- [Magar Fatima (sa) Fatima (sa) Hai](../lyrics/15/g2611_r0015.json)
 - [Noor ki anjuman Fatema](../lyrics/05/local_12da4551bea53155d890d8045a433c05.json)
 - [Rashke Maryam naaze Saara Sayyeda](../lyrics/9f/local_131a776aca1191cb8287fa5bc26f699f.json)
 - [Sayyada, fatima, zehra o batool e azra](../lyrics/9b/local_cf25c6625ed1787ee37feec31897909b.json)
@@ -39,8 +40,10 @@
 - [Ali ka darwaza](../lyrics/47/local_4d16b796f25c3dc834b5df9f19470647.json)
 - [Ali ke dar par](../lyrics/88/local_16c08ad908623ee5b4a5416ba73f5088.json)
 - [Ali ke noor ka sadqa dikhai deta hai](../lyrics/28/local_f983f07cd6a0f37b9e98da172f9c9e28.json)
+- [Ali Mola Haider](../lyrics/04/g2611_r0004.json)
 - [Ali nahi to kuch nahi](../lyrics/c9/local_b3e9fc8e2d20f21b75da253522e7e1c9.json)
 - [Ali waley jahan baithe](../lyrics/0a/local_9a87a663f788d27ed95253ca7b98f10a.json)
+- [Ali Walon Ko Ali Mubarak 13 Rajab New Manqabat 2024](../lyrics/05/g2611_r0005.json)
 - [Amal se apne](../lyrics/24/local_7c9351f79dc23789a64944366f334424.json)
 - [Ba Mansha e Rab e Jahan Khenchtey Hain](../lyrics/02/local_3a0158ff876631b4037087d7d87fce02.json)
 - [Dam mast qalandar Ali Ali](../lyrics/1a/local_14b5a28aaa0442e9fb1d7bb184218d1a.json)
@@ -140,6 +143,7 @@
 - [MAI HUSSAIN IBNE ALI HOON](../lyrics/d2/local_f43f6f1f541dc9203eb8d7b336d300d2.json)
 - [Main husain hun](../lyrics/ff/local_309e5b2934a13ea85a587490b77617ff.json)
 - [Main kya bataon dosto tumhein keh kya HUSSAIN hai](../lyrics/0c/local_b2fdcb85e3d3869aeb7aaaca62b2e30c.json)
+- [Malaika Ko Be Sajda Seekha Raha Hai Hussain](../lyrics/16/g2611_r0016.json)
 - [maula zahoor kijiye dil bekarar hai](../lyrics/33/local_b0becdbca5462aaab5d20e015a128933.json)
 - [Mera Murshad Hussain hai](../lyrics/39/local_fbe49542e09b64dd9391d218f49fd039.json)
 - [Na puchiye ke kya husain hai](../lyrics/f4/local_849046aefbe23837eaebf00b548bcff4.json)
@@ -150,6 +154,7 @@
 - [Tabarrukat e husaini ka ehteraam karo](../lyrics/8c/local_db01194751aadeea263a2a534b3ddc8c.json)
 - [Wo ghar ke hukm jahan](../lyrics/11/local_aed1ef460b980d2b58097f14acf80811.json)
 - [woh husain mera hai](../lyrics/9e/local_6342fb9ba32a722873385317ba19309e.json)
+- [Zindagani Hussain Dete Hain](../lyrics/21/g2611_r0021.json)
 
 ## Shehzadi Sakina (s.a)
 
@@ -267,12 +272,7 @@
 
 ## Without a Personality
 
-- [Ali Mola Haider](../lyrics/04/g2611_r0004.json)
-- [Ali Walon Ko Ali Mubarak 13 Rajab New Manqabat 2024](../lyrics/05/g2611_r0005.json)
 - [Ali Walon Ko Ali Mubarak 13 Rajab New Manqabat 2024](../lyrics/01/g2611_u0001.json)
 - [Imam e Zamana](../lyrics/11/g2611_r0011.json)
 - [JAB AANE WALA AYEGA](../lyrics/12/g2611_r0012.json)
-- [Magar Fatima (sa) Fatima (sa) Hai](../lyrics/15/g2611_r0015.json)
-- [Malaika Ko Be Sajda Seekha Raha Hai Hussain](../lyrics/16/g2611_r0016.json)
 - [Mubarak ho ye shaadi](../lyrics/c2/local_eb4b2e8060f344090c0b3c653a3012c2.json)
-- [Zindagani Hussain Dete Hain](../lyrics/21/g2611_r0021.json)
