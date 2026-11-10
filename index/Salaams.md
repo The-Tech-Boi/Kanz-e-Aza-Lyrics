@@ -93,6 +93,7 @@
 
 - [Ghabraaegi Zainab dukh payegi Zainab](../lyrics/5f/local_62963485f2deb91aeb62f3fc00ebf25f.json)
 - [Gham zada saara ghar hai zainab ka](../lyrics/fb/local_0b0a4be875dfdf648aea9a13c98b17fb.json)
+- [Hussain ban ke zamane pe chaa gayi Zainab](../lyrics/81/local_abb5e90e8c3463f10803e42165fec681.json)
 - [Kehti thi yehi zainab](../lyrics/89/g2611_u3689.json)
 - [KEHTI THI YEHI ZAINAB DUKHIYA](../lyrics/vc/TQltxq1JI2ntAj7spqVc.json)
 - [khoke bhai ko aayi hai zainab](../lyrics/68/local_e9b9a8dcfe6f69776b8d4a3e78d28f68.json)
@@ -145,7 +146,6 @@
 - [ghar chalo bhai mehndi lagaoo'n](../lyrics/e5/local_92e3f476dfed2c5d64c69c9a32c88ae5.json)
 - [Guzar gaye thay](../lyrics/13/g2611_r4213.json)
 - [Guzar gaye thay](../lyrics/87/g2611_u3687.json)
-- [Hussain ban ke zamane pe chaa gayi Zainab](../lyrics/81/local_abb5e90e8c3463f10803e42165fec681.json)
 - [Is qoum ke rone ko yahi baat badi hai](../lyrics/64/local_90122223ab48ab8b58e13ccd69d50c64.json)
 - [Jawan bete ke laashe par ye Laila sonchti hogi](../lyrics/06/chashme_aza_07f0f3fbc5983a90a3fe0206.json)
 - [Juz panjetan kisi se tawalla na chahiye](../lyrics/1e/local_a224747fb4ad40888f7a902ddf91321e.json)
