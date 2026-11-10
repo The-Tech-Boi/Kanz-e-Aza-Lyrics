@@ -51,6 +51,7 @@
 ## Zain-ul-Abedeen (a.s)
 
 - [Aankho me basi thi karbobala sajjad tadapte rehte](../lyrics/c0/local_e6938995669025080b0a5763a73b1ec0.json)
+- [Ek musaafir qaid hai beemaar hai](../lyrics/a6/local_f9b074409ee170db95b8473f86a3f9a6.json)
 
 ## Imam Raza (a.s)
 
@@ -98,7 +99,6 @@
 - [Behre zikre murtaza irfane dawar chahiye](../lyrics/d0/local_ef4330f038415e7cc57582ec89cc95d0.json)
 - [Bekasi ka sheh ke charcha reh gaya](../lyrics/3a/local_ac7cd7e175e803079e6f03cf4f90dc3a.json)
 - [Ek beemaar se ae mujrayi sab ghar choota](../lyrics/b3/local_d612e0540b3470b87a242cab3ace4cb3.json)
-- [Ek musaafir qaid hai beemaar hai](../lyrics/a6/local_f9b074409ee170db95b8473f86a3f9a6.json)
 - [Ek sakta hai biyabaan ki fiza qamosh hai](../lyrics/20/local_50ea04aeeb59f2430ae083d762c4e720.json)
 - [FIDA HOON US PAY SALAAMI HAI JIS KA NAAM HUSSAIN](../lyrics/c4/local_d3216e6dbe05fb82c0da9fb66aa6b7c4.json)
 - [ghar chalo bhai mehndi lagaoo'n](../lyrics/e5/local_92e3f476dfed2c5d64c69c9a32c88ae5.json)

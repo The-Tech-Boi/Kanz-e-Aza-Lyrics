@@ -1,6 +1,6 @@
 # Marsiya
 
-223 lyrics.
+226 lyrics.
 
 ## Rasool-e-Khuda (s.a.w.s)
 
@@ -437,3 +437,9 @@
 - [جب قتل کیا نہر پہ سقائے حرم کو](../lyrics/06/local_ba89e49ef930f5999f722222dcedb006.json)
 - [جب کٹ گئے دریا پہ علمدار کے بازو](../lyrics/33/local_a9ee4aa83313164e8ce333a44702f733.json)
 - [جب گرے رن میں باوفا عباس](../lyrics/b9/local_b2dd6fa330d88972466a154cd29a68b9.json)
+
+## Without a Personality
+
+- [Aaj maqtal may](../lyrics/22/g2611_r0022.json)
+- [Aaj shabbir pe kya](../lyrics/23/g2611_r0023.json)
+- [Bakhi jo rafiqe shahe](../lyrics/24/g2611_r0024.json)
