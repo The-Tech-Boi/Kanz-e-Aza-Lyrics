@@ -38,6 +38,7 @@
 - [Bano maqtal me kehti ye aayi aa meri godi aa mere](../lyrics/74/local_5203b7c8b0d406830d8d39b071be0774.json)
 - [Bano ne kaha jaan se](../lyrics/08/g2611_r4208.json)
 - [Bas hussain bas](../lyrics/09/g2611_r4209.json)
+- [Hai ahle haram me shore buka sheh laate hai lasha](../lyrics/30/local_b74cce1569640cea4b591c7c5d56a230.json)
 - [ro ro kehti thi baanoe dukhya](../lyrics/cb/local_26d313652368c9d412510545878068cb.json)
 - [RO RO KEHTI THI BANO-E DUKHIYA](../lyrics/lr/7YAB0jKaEJr5OplLq2LR.json)
 - [RO RO KEHTI THI BANO-E DUKHIYA](../lyrics/jc/UD9HXpmgfHktVfGMKmJc.json)
@@ -65,6 +66,7 @@
 
 - [Aankho me basi thi karbobala sajjad tadapte rehte](../lyrics/c0/local_e6938995669025080b0a5763a73b1ec0.json)
 - [Ek musaafir qaid hai beemaar hai](../lyrics/a6/local_f9b074409ee170db95b8473f86a3f9a6.json)
+- [HAI SALAAM US PEY JO QAIDI BHI HAI BEEMAR BHI HAI](../lyrics/21/local_f75b5e3bb5f10993a0b93f82eb9e9421.json)
 
 ## Imam Raza (a.s)
 
@@ -133,8 +135,6 @@
 - [Ghar ko choda](../lyrics/86/g2611_u3686.json)
 - [Guzar gaye thay](../lyrics/13/g2611_r4213.json)
 - [Guzar gaye thay](../lyrics/87/g2611_u3687.json)
-- [Hai ahle haram me shore buka sheh laate hai lasha](../lyrics/30/local_b74cce1569640cea4b591c7c5d56a230.json)
-- [HAI SALAAM US PEY JO QAIDI BHI HAI BEEMAR BHI HAI](../lyrics/21/local_f75b5e3bb5f10993a0b93f82eb9e9421.json)
 - [Hussain aaj bhi hai](../lyrics/88/g2611_u3688.json)
 - [Hussain ban ke zamane pe chaa gayi Zainab](../lyrics/81/local_abb5e90e8c3463f10803e42165fec681.json)
 - [Is qoum ke rone ko yahi baat badi hai](../lyrics/64/local_90122223ab48ab8b58e13ccd69d50c64.json)
