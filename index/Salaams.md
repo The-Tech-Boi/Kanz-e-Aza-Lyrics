@@ -11,11 +11,13 @@
 - [ALI KI MADHAA KARTHA HOON YEHI EK KAAM BAAQI HAI](../lyrics/b2/local_827a348617fb1a41e264a7833ea6f5b2.json)
 - [Ali sa bhi na koi aadile zamana hua](../lyrics/aa/local_1b6667163e3eda3b3039f85f930b1eaa.json)
 - [Ye kehta hua doob](../lyrics/18/g2611_r4218.json)
+- [Ye kehta hua doob](../lyrics/98/g2611_u3698.json)
 
 ## Safar e Imam Hussain
 
 - [GHAR KO CHHODA SHAH NAY JUNGAL BASANEY KAY LIYE](../lyrics/0e/local_ef2e62cea4e72de55173ed710cb2e30e.json)
 - [Musafiron ko madina](../lyrics/15/g2611_r4215.json)
+- [Musafiron ko madina](../lyrics/92/g2611_u3692.json)
 
 ## Shahzade Qasim (a.s)
 
@@ -30,6 +32,8 @@
 ## Ali Akbar (a.s)
 
 - [Aey salaami peer marthay hain jawaan kay saamney](../lyrics/2b/chashme_aza_7dcbd1ddd504b5d63b91232b.json)
+- [Pardes may zainab kho](../lyrics/93/g2611_u3693.json)
+- [Tadapna wo akbar ka](../lyrics/96/g2611_u3696.json)
 
 ## Ali Asghar (a.s)
 
@@ -37,8 +41,11 @@
 - [Baanu kehti hai Khudaaya kya karoon](../lyrics/a4/local_8981638533c1a5637a9f8b29e956a0a4.json)
 - [Bano maqtal me kehti ye aayi aa meri godi aa mere](../lyrics/74/local_5203b7c8b0d406830d8d39b071be0774.json)
 - [Bano ne kaha jaan se](../lyrics/08/g2611_r4208.json)
+- [Bano ne kaha jaan se](../lyrics/79/g2611_u3679.json)
 - [Bas hussain bas](../lyrics/09/g2611_r4209.json)
+- [Bas hussain bas](../lyrics/80/g2611_u3680.json)
 - [Hai ahle haram me shore buka sheh laate hai lasha](../lyrics/30/local_b74cce1569640cea4b591c7c5d56a230.json)
+- [Qabr asghar ki](../lyrics/94/g2611_u3694.json)
 - [ro ro kehti thi baanoe dukhya](../lyrics/cb/local_26d313652368c9d412510545878068cb.json)
 - [RO RO KEHTI THI BANO-E DUKHIYA](../lyrics/lr/7YAB0jKaEJr5OplLq2LR.json)
 - [RO RO KEHTI THI BANO-E DUKHIYA](../lyrics/jc/UD9HXpmgfHktVfGMKmJc.json)
@@ -46,19 +53,26 @@
 
 ## Imam Hussain (a.s)
 
+- [Aaj bhi zainab](../lyrics/72/g2611_u3672.json)
 - [Aakhri waqt hai marney ki rezaa do Zainab](../lyrics/dd/chashme_aza_7cf8530e98cf9aa3e9ca6cdd.json)
+- [Aqraba kat gaye](../lyrics/74/g2611_u3674.json)
 - [ASHUR KI SHAB ZAINAB NE KAHA AYE RAAT ZARA AAHISTA GUZAR](../lyrics/et/XnhQunSOd7mWLXmAP3et.json)
 - [AYE SALAAMI KHIYAAM JALTEY HAIN](../lyrics/09/local_79490953e28c971a8306a4361397bd09.json)
 - [Ek baar aur mujhe](../lyrics/11/g2611_r4211.json)
+- [Ek baar aur mujhe](../lyrics/83/g2611_u3683.json)
 - [FIDA HOON US PAY SALAAMI HAI JIS KA NAAM HUSSAIN](../lyrics/c4/local_d3216e6dbe05fb82c0da9fb66aa6b7c4.json)
+- [Ghar ko choda](../lyrics/86/g2611_u3686.json)
+- [Hussain aaj bhi hai](../lyrics/88/g2611_u3688.json)
 - [Sughra (sa) Salaam Aakhri Lelo Hussain (as) ka](../lyrics/16/g2611_r4216.json)
 
 ## Shehzadi Sakina (s.a)
 
 - [Ay paalne waale](../lyrics/07/g2611_r4207.json)
+- [Ay paalne waale](../lyrics/77/g2611_u3677.json)
 - [Bano ki dilruba sakina jaa'n](../lyrics/73/local_ad5de842228c06c3f562633ffd17f073.json)
 - [BOLI MAA KYA HUVA SAKINA KO](../lyrics/26/local_253eaf978cff2a8ea209ef03d5a07f26.json)
 - [Maa kehti thi uth jaag](../lyrics/14/g2611_r4214.json)
+- [Maa kehti thi uth jaag](../lyrics/90/g2611_u3690.json)
 - [Thi Sakina ki yeh sadaa bhaayi](../lyrics/bd/chashme_aza_5ca3f64b48cd7c988e79fdbd.json)
 - [Yu sakina ne pukaara](../lyrics/3c/local_eca8ba1d534d39a2d6ab2910e09cb83c.json)
 
@@ -67,6 +81,7 @@
 - [Aankho me basi thi karbobala sajjad tadapte rehte](../lyrics/c0/local_e6938995669025080b0a5763a73b1ec0.json)
 - [Ek musaafir qaid hai beemaar hai](../lyrics/a6/local_f9b074409ee170db95b8473f86a3f9a6.json)
 - [HAI SALAAM US PEY JO QAIDI BHI HAI BEEMAR BHI HAI](../lyrics/21/local_f75b5e3bb5f10993a0b93f82eb9e9421.json)
+- [Ye sochta hoo](../lyrics/99/g2611_u3699.json)
 
 ## Imam Raza (a.s)
 
@@ -78,8 +93,10 @@
 
 - [Ghabraaegi Zainab dukh payegi Zainab](../lyrics/5f/local_62963485f2deb91aeb62f3fc00ebf25f.json)
 - [Gham zada saara ghar hai zainab ka](../lyrics/fb/local_0b0a4be875dfdf648aea9a13c98b17fb.json)
+- [Kehti thi yehi zainab](../lyrics/89/g2611_u3689.json)
 - [KEHTI THI YEHI ZAINAB DUKHIYA](../lyrics/vc/TQltxq1JI2ntAj7spqVc.json)
 - [khoke bhai ko aayi hai zainab](../lyrics/68/local_e9b9a8dcfe6f69776b8d4a3e78d28f68.json)
+- [Zia e khoone](../lyrics/00/g2611_u3700.json)
 
 ## Arbayeen - Wapasi
 
@@ -87,6 +104,8 @@
 - [AYE SHAHEY DO JAHAAN KHUDA HAAFEZ](../lyrics/7i/6ytMiGedZz5bGDAyC37i.json)
 - [Boli ye zainab dukhya tera chehlum karne](../lyrics/87/local_cd198e0423457a73b06095950367c787.json)
 - [Chala hai karbala ko](../lyrics/10/g2611_r4210.json)
+- [Chala hai karbala ko](../lyrics/81/g2611_u3681.json)
+- [Ghabraegi zainab](../lyrics/85/g2611_u3685.json)
 - [SHAAM KE BAAD](../lyrics/fg/8Hzwr6vPywF71InvCrfg.json)
 
 ## Umme Kulsoom (s.a)
@@ -96,6 +115,7 @@
 ## Widaye Ayyam e Aza
 
 - [Ae shahe do jaha'n khudahafiz](../lyrics/a6/local_6d194c7f6f440283372ba7191b0800a6.json)
+- [Arbaeen ke soghwaro](../lyrics/75/g2611_u3675.json)
 - [ARBAYEEN KAY SOGHVAARO ALVEDA](../lyrics/9f/local_9fb049a456b80d5b94b9ab78649d0f9f.json)
 - [HAI RUKHSATH KI GHADI AYE KARBALA WAALO KHUDA HAFEZ](../lyrics/03/local_5d0a34185420d0b294d6c0fdb41c6d03.json)
 
@@ -112,30 +132,19 @@
 ## Without a Personality
 
 - [Aahe soza'n lab tak aayi ashke naab aane ko hai](../lyrics/d3/local_8487a31510beaf53f62bde19f65330d3.json)
-- [Aaj bhi zainab](../lyrics/72/g2611_u3672.json)
 - [Aasmaan larzaa Zameen kaampee Samandar roay](../lyrics/22/chashme_aza_21d71481e25406c7f4d57722.json)
 - [Ab aaye ho baba](../lyrics/73/g2611_u3673.json)
-- [Aqraba kat gaye](../lyrics/74/g2611_u3674.json)
-- [Arbaeen ke soghwaro](../lyrics/75/g2611_u3675.json)
 - [Ay chand karbala ke](../lyrics/76/g2611_u3676.json)
-- [Ay paalne waale](../lyrics/77/g2611_u3677.json)
 - [Bano kahan talaash](../lyrics/78/g2611_u3678.json)
-- [Bano ne kaha jaan se](../lyrics/79/g2611_u3679.json)
-- [Bas hussain bas](../lyrics/80/g2611_u3680.json)
 - [Behre zikre murtaza irfane dawar chahiye](../lyrics/d0/local_ef4330f038415e7cc57582ec89cc95d0.json)
 - [Bekasi ka sheh ke charcha reh gaya](../lyrics/3a/local_ac7cd7e175e803079e6f03cf4f90dc3a.json)
-- [Chala hai karbala ko](../lyrics/81/g2611_u3681.json)
 - [Darona jangal](../lyrics/82/g2611_u3682.json)
-- [Ek baar aur mujhe](../lyrics/83/g2611_u3683.json)
 - [Ek beemaar se ae mujrayi sab ghar choota](../lyrics/b3/local_d612e0540b3470b87a242cab3ace4cb3.json)
 - [Farshe aza pe aao](../lyrics/12/g2611_r4212.json)
 - [Farshe aza pe aao](../lyrics/84/g2611_u3684.json)
-- [Ghabraegi zainab](../lyrics/85/g2611_u3685.json)
 - [ghar chalo bhai mehndi lagaoo'n](../lyrics/e5/local_92e3f476dfed2c5d64c69c9a32c88ae5.json)
-- [Ghar ko choda](../lyrics/86/g2611_u3686.json)
 - [Guzar gaye thay](../lyrics/13/g2611_r4213.json)
 - [Guzar gaye thay](../lyrics/87/g2611_u3687.json)
-- [Hussain aaj bhi hai](../lyrics/88/g2611_u3688.json)
 - [Hussain ban ke zamane pe chaa gayi Zainab](../lyrics/81/local_abb5e90e8c3463f10803e42165fec681.json)
 - [Is qoum ke rone ko yahi baat badi hai](../lyrics/64/local_90122223ab48ab8b58e13ccd69d50c64.json)
 - [Jawan bete ke laashe par ye Laila sonchti hogi](../lyrics/06/chashme_aza_07f0f3fbc5983a90a3fe0206.json)
@@ -144,12 +153,10 @@
 - [kaunsa ranj tha jo sheh se uthaya na gaya](../lyrics/24/local_017564a3a69122459f9fa1e4e3db6e24.json)
 - [Kehke sab ya imam rote hai](../lyrics/89/local_1d9d91a0a728a51fadd0da2d3070b589.json)
 - [kehti thi yahi zainab dukhya mere](../lyrics/5c/local_f55683ec21fc6e00857f1e78dcc4915c.json)
-- [Kehti thi yehi zainab](../lyrics/89/g2611_u3689.json)
 - [Khaak par maiyyath padi hai aur maa khaamoush hai](../lyrics/d6/chashme_aza_e3363e540233cf9acea36fd6.json)
 - [KHAAKAR SINAA JO SEENAY PA AKBAR GUZAR GAYE](../lyrics/45/local_3392083e3b844986070e9d80888b0145.json)
 - [khat me soughra ne ye likha baba](../lyrics/0d/local_e66fcbbe1a80f9ff9e0afb308a3cdf0d.json)
 - [Khoon me tar qamar hai Muslim ke](../lyrics/fc/local_0130c59ab2e6aa5d21a09c86fd5e21fc.json)
-- [Maa kehti thi uth jaag](../lyrics/90/g2611_u3690.json)
 - [Main sonchta hoon kay Abid ka haal kya hogaa](../lyrics/32/chashme_aza_466a45b40b82af9e4de2a532.json)
 - [maqtal me tha jo laashae asghar tamaam raat](../lyrics/73/local_d6773794fbd029e242ef8fa623365973.json)
 - [Meri tarah mere baba ,koi yateem na ho](../lyrics/b4/local_f5de832bec22168dc3f5ef506b4c20b4.json)
@@ -162,15 +169,12 @@
 - [Mujrayi qahate aab bhi tha aur ghiza na thi](../lyrics/8d/local_2472aa46ca54ffed39bde3139b0fe58d.json)
 - [Mujrayi qalq me in aankho ne kya kya](../lyrics/0f/local_0f05f81cfad9d9d57a3f91815442f90f.json)
 - [Mujrayi sheh ne kaha bhool na jaana zainab](../lyrics/60/local_ec1bdcc3fae8ef9bb0912d9a7bcaa560.json)
-- [Musafiron ko madina](../lyrics/92/g2611_u3692.json)
 - [naam par shaah ke paani](../lyrics/6a/local_a9637ba4b168b0bc504640fed1b6676a.json)
 - [PAHUNCHE YEH NAZM YOON SHAHE ZEESHAAN KE SAAMNE](../lyrics/58/local_f965f0c192eb367680738115c30bc558.json)
-- [Pardes may zainab kho](../lyrics/93/g2611_u3693.json)
 - [PARDES MEIN ZAINAB KHO BAITHI](../lyrics/08/local_fa0346d04f279154ee15eec880f54a08.json)
 - [Phir hai ab shaam ka safar bhai](../lyrics/87/local_098dec25b78aada315f19d948bf43a87.json)
 - [Pyaso se zyada door na tha behte hue darya ka pani](../lyrics/87/local_2062fa37ef951cadffee46d4ecd1ac87.json)
 - [QAAFELA SHEH KA SALAAMI LAB-E-DARYA UTHRAA](../lyrics/c3/local_0a50d00f5e87591dc74d2b67d2ce61c3.json)
-- [Qabr asghar ki](../lyrics/94/g2611_u3694.json)
 - [Qabr asghar ki banane me bohot der lagi](../lyrics/85/local_52cb66f6bda49acf1b18e55e6ebdc485.json)
 - [Ran me gala kata diya moula hussain ne](../lyrics/71/local_cc76e7f7da88b131f79c9f733920c571.json)
 - [Ro ro maqtal mein kehti thi Zainab](../lyrics/7e/chashme_aza_e05e7591f699fcc8fa64fb7e.json)
@@ -192,7 +196,6 @@
 - [Shehr bano kahi peet ke sar gor me mera bacha darega](../lyrics/cd/local_9944866142d0375c90602e439942e4cd.json)
 - [Soghra ke kaleijay par barchi si lagi hogi](../lyrics/71/chashme_aza_f7a0b58baae6ec6105607371.json)
 - [Soja asghar jaani soja](../lyrics/46/local_85e0a28229676bf22c615cc19ad80346.json)
-- [Tadapna wo akbar ka](../lyrics/96/g2611_u3696.json)
 - [Tashnalab mazloom sarwar alvida](../lyrics/55/local_ed7a702f6e926c9ef5f11214198d1355.json)
 - [Thi kisi ki dasht mein sadaa Haaye hum yateem hogaye](../lyrics/20/chashme_aza_037cbc442b04158010accc20.json)
 - [Ummat ne baade](../lyrics/17/g2611_r4217.json)
@@ -200,10 +203,7 @@
 - [Wajibur rehm the zinda'n ke sazawaar na the](../lyrics/ee/local_49870774e7404758553924ba93f75fee.json)
 - [Ya Ali Karbala me aag lagi](../lyrics/9b/local_03cf17579340c9025a9cdbe3e32c5f9b.json)
 - [Ye keh rahe hai aaj bhi naale furaat ke](../lyrics/f1/local_e568dcf0b91fa82e947c8d4037ca60f1.json)
-- [Ye kehta hua doob](../lyrics/98/g2611_u3698.json)
-- [Ye sochta hoo](../lyrics/99/g2611_u3699.json)
 - [Zabaa'n par mad'ha hai baaghe Ali ke nounehaalo ki](../lyrics/e6/local_5a1957947de29871f69a15b3f66678e6.json)
 - [Zainab pukaari rokar Abbas tum kahaan ho](../lyrics/50/chashme_aza_e09a5beb5094f3eeec5b6a50.json)
-- [Zia e khoone](../lyrics/00/g2611_u3700.json)
 - [ZIKR GHAME HUSSAIN SE MEHFIL SAJI RAHI](../lyrics/b7/local_61d3d70b5bf67fc32d60c73466664cb7.json)
 - [Zulm karte the jo sheh par baanie shar baar baar](../lyrics/4c/local_1034cc93ab198e9e247bf1babf79e04c.json)
