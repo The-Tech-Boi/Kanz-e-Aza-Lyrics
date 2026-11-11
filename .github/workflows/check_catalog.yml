@@ -1,7 +1,9 @@
 name: Check the Catalog
 
 # Every pull request: the tests, every lyric file against the record rules,
-# and no lyric file deleted (Withdrawals happen from the website's Owner panel).
+# no lyric file deleted (Withdrawals happen from the website's Owner panel),
+# no more lyric changes than one sync run publishes, and the update limits on
+# the manifest and the update files it adds.
 on:
   pull_request:
 

@@ -64,6 +64,10 @@ Pull requests changing `lyrics/` are not merged unless they come from the reposi
 
 The workflow `sync_lyrics.yml` publishes everything approved every 6 hours, and the Owner's merged pull request to `lyrics/` at once.
 
+A run publishes at most 2,000 changed lyrics (records plus removals): phones on 1.1.2 and 1.1.3 apply a whole run back to back. Raise or drop the limit (`RUN_LYRICS` in `scripts/catalog.js`) once most phones run 1.1.4. The Owner's merged pull requests go first, whole and in the order they were merged; then approvals, the longest waiting first. What doesn't fit stays pending and goes out in the next runs: an approval stays unpublished in Firestore, a merged pull request stays after the manifest's `catalogTree`. A pull request may change at most 2,000 lyrics; its check refuses more.
+
+A run writes its changes in update files of at most 500 lyrics and 2,000,000 bytes each (`update_<ms>`, 1 ms apart), in one release and one commit. `manifest.json` lists at most 1,000 updates: from 500 the sync warns, and over 1,000 it stops before publishing anything. The Owner then removes old entries in a reviewed pull request, never the sync: only updates published before the Base Catalog of the oldest app build still supported was copied, since every supported build already holds their lyrics. `update_1793650281638` (547 lyrics) was published before these limits and stays as it is.
+
 An Admin's own edit is published within minutes. The watchdog `scripts/admin_edit_watchdog.js` listens to Firestore for approved, unpublished submissions. A minute after the first Admin edit, it starts the workflow with `only_if_admin_edit`, and that run publishes everything approved so far. Each submission gets one run: if the run fails, the submission waits for the 6-hour batch. When the watchdog is down, Admin edits wait for the 6-hour batch too.
 
 It runs on Coolify (project *Kanz e Aza*, application *admin-edit-watchdog*), built from the `Dockerfile` on `main`. Two secrets, set as Coolify environment variables:

@@ -95,7 +95,8 @@ function fakeDb(collections) {
 
 // One run of sync_lyrics.yml: sync, then "Commit the Catalog and the Update",
 // then "Mark Lyrics Published". Returns the marks and, when something was
-// published, the update file and the commit message. `beforeMark` runs
+// published, the update files (`files`, in manifest order; the first also as
+// `name`, `text` and `update`) and the commit message. `beforeMark` runs
 // between the sync and marking: Firestore changing during the run.
 async function workflowRun(dir, db, releaseTag = 'v1.0.1-test', { beforeMark = async () => {} } = {}) {
   for (const leftover of ['output', 'publish_marks.json', 'commit_message.txt', 'new_lyrics.json']) {
@@ -110,17 +111,18 @@ async function workflowRun(dir, db, releaseTag = 'v1.0.1-test', { beforeMark = a
   const output = path.join(dir, 'output');
   let run = { marks, update: null };
   if (fs.existsSync(output)) {
-    const name = fs.readdirSync(output).find(file => file.startsWith('update_'));
-    const text = fs.readFileSync(path.join(output, name), 'utf8');
     fs.mkdirSync(path.join(dir, 'updates'), { recursive: true });
-    fs.copyFileSync(path.join(output, name), path.join(dir, 'updates', name));
+    const files = fs.readdirSync(output).filter(file => file.startsWith('update_')).sort().map(name => {
+      fs.copyFileSync(path.join(output, name), path.join(dir, 'updates', name));
+      const text = fs.readFileSync(path.join(output, name), 'utf8');
+      return { name, text, update: JSON.parse(text) };
+    });
     git(dir, 'add', 'manifest.json', 'updates', 'lyrics', 'index');
     git(dir, 'commit', '-q', '-F', 'commit_message.txt');
     run = {
       marks,
-      name,
-      text,
-      update: JSON.parse(text),
+      ...files[0],
+      files,
       manifest: JSON.parse(fs.readFileSync(path.join(output, 'manifest.json'), 'utf8')),
       message: git(dir, 'log', '-1', '--format=%B')
     };

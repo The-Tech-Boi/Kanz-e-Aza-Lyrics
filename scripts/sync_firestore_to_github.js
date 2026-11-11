@@ -406,6 +406,45 @@ function planUpdate({
   };
 }
 
+// The lyrics whose Firestore change has to wait for a later run: the plan's
+// changes to the Catalog beyond the first `room`, the longest waiting first.
+// `lyrics` is the Catalog before the run; `firestore` the docs the plan read.
+// An approval that leaves its file as it is costs no room.
+function waitingChanges(plan, lyrics, { submissions, decisions, verifications }, room) {
+  // When each lyric's oldest change still waiting in Firestore came in (ms).
+  const since = new Map();
+  const add = (remoteId, ms) => since.set(remoteId, Math.min(since.get(remoteId) ?? Infinity, ms));
+  for (const { id, data } of submissions) {
+    if (data.published === false) add(data.revisionOfRemoteId || id, millis(data.approvedAt));
+  }
+  for (const { remoteId, updatedAt } of unpublishedDecisions(decisions)) add(remoteId, updatedAt);
+  for (const { id, data } of verifications) add(id, millis(data.updatedAt));
+
+  const changes = [
+    ...[...plan.writes]
+      .filter(([id, { record }]) => !lyrics.has(id) || catalog.serialize(record) !== catalog.serialize(lyrics.get(id)))
+      .map(([id]) => id),
+    ...plan.deletes.keys()
+  ];
+  changes.sort((a, b) => (since.get(a) ?? 0) - (since.get(b) ?? 0));
+  return new Set(changes.slice(room));
+}
+
+// `plan` without its changes to `remoteIds`: neither written nor marked, so
+// they stay pending in Firestore and the next run publishes them.
+function withoutLyrics(plan, remoteIds, submissions) {
+  const lyricOf = new Map(submissions.map(({ id, data }) => [id, data.revisionOfRemoteId || id]));
+  const keep = remoteId => !remoteIds.has(remoteId);
+  return {
+    ...plan,
+    writes: new Map([...plan.writes].filter(([remoteId]) => keep(remoteId))),
+    deletes: new Map([...plan.deletes].filter(([remoteId]) => keep(remoteId))),
+    submissionIds: plan.submissionIds.filter(id => keep(lyricOf.get(id))),
+    decisions: plan.decisions.filter(({ remoteId }) => keep(remoteId)),
+    verifications: plan.verifications.filter(({ remoteId }) => keep(remoteId))
+  };
+}
+
 const CONTRACT_VERSION = '1.0.0';
 
 // The update file for `records` and `removed`, or null when both are empty.
@@ -419,6 +458,38 @@ function buildPayload(records, removed, contractVersion) {
     ? { contractVersion, items: records }
     : { items: records.map(toUpdateItem) };
   return removed.length ? { ...payload, removed } : payload;
+}
+
+// The update files for `records` then `removed`, in that order, as written:
+// as few as hold at most UPDATE_ENTRIES entries and UPDATE_BYTES bytes each.
+// Changes that fit one file make the one file earlier runs wrote, byte for byte.
+function splitUpdate(records, removed, contractVersion) {
+  const entries = [...records, ...removed];
+  const text = (from, to) => {
+    const part = entries.slice(from, to);
+    const payload = buildPayload(
+      part.filter(entry => typeof entry !== 'string'), part.filter(entry => typeof entry === 'string'), contractVersion);
+    return JSON.stringify(payload, null, 2) + '\n';
+  };
+  const fits = (from, to) => Buffer.byteLength(text(from, to)) <= catalog.UPDATE_BYTES;
+  const files = [];
+  for (let from = 0; from < entries.length;) {
+    // The most entries from `from` that fit, found by halving.
+    let low = from + 1;
+    let high = Math.min(from + catalog.UPDATE_ENTRIES, entries.length);
+    if (fits(from, high)) low = high;
+    while (low < high) {
+      const middle = Math.ceil((low + high) / 2);
+      if (fits(from, middle)) low = middle;
+      else high = middle - 1;
+    }
+    if (!fits(from, low)) {
+      throw new Error(`${entries[from].remoteId}: one lyric over ${catalog.UPDATE_BYTES} bytes as an update file. Nothing published.`);
+    }
+    files.push(text(from, low));
+    from = low;
+  }
+  return files;
 }
 
 // Every update stays listed. The website and a fresh install build the
@@ -497,7 +568,7 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
   // Published ones too: a restore may send the lyric's newest approved
   // version, and an approval newer than a Verify decides the flag.
   const approved = await db.collection('submissions').where('status', '==', 'approved').get();
-  const plan = planUpdate({
+  const firestore = {
     submissions: docs(approved),
     decisions: docs(await db.collection('catalogWithdrawals').get()),
     // Only waiting ones: --mark-published deletes each once it is out. The
@@ -506,7 +577,10 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
       id: doc.id,
       data: doc.data(),
       updateTime: { seconds: doc.updateTime.seconds, nanoseconds: doc.updateTime.nanoseconds }
-    })),
+    }))
+  };
+  let plan = planUpdate({
+    ...firestore,
     lyrics: before,
     lastVersion: remoteId => catalog.lastVersion(remoteId, dir),
     firstAdded: remoteId => catalog.firstAdded(remoteId, dir),
@@ -523,6 +597,37 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
   // public workflow log.
   if (plan.unstyled) {
     console.warn(`Styling left out of ${plan.unstyled} approval(s): its words differ from the body.`);
+  }
+
+  // A run publishes at most RUN_LYRICS changed lyrics; the rest wait for the
+  // next runs. First what lyrics/ gained since the last update (the Owner's
+  // merged pull requests), whole commits in order, then Firestore's changes,
+  // the longest waiting first.
+  const baseline = manifest.catalogTree;
+  const changeCount = tree => {
+    const { added, changed, removed } = catalog.changesBetween(baseline, tree, dir);
+    return added.length + changed.length + removed.length;
+  };
+  const committed = changeCount(catalog.catalogTree(dir));
+  // When lyrics/ as it is now is over the limit: the newest commit on main
+  // whose lyrics/ is within it. Its tree is in history, so the next run can
+  // compare with it.
+  let target;
+  if (committed > catalog.RUN_LYRICS) {
+    const commits = catalog.commitsSince(baseline, dir).map(c => ({ ...c, count: changeCount(c.tree) }));
+    target = commits.findLast(({ count }) => count > 0 && count <= catalog.RUN_LYRICS);
+    if (!target) {
+      const over = commits.find(({ count }) => count > catalog.RUN_LYRICS);
+      throw new Error(`${committed} lyrics changed in lyrics/ since the last update, over the ${catalog.RUN_LYRICS} a run publishes, ` +
+        (over ? `and commit ${over.commit} alone changes ${over.count}. Revert it and merge its changes in pull requests of at most ${catalog.RUN_LYRICS}.`
+          : 'and no commit on main since the last update changes fewer.') + ' Nothing published.');
+    }
+    console.log(`Publishing lyrics/ as of ${target.commit}; the later commits wait for the next run.`);
+  }
+  const waiting = waitingChanges(plan, before, firestore, target ? 0 : catalog.RUN_LYRICS - committed);
+  if (waiting.size) {
+    plan = withoutLyrics(plan, waiting, firestore.submissions);
+    console.log(`${waiting.size} approved change(s) wait for the next run.`);
   }
 
   for (const { record } of plan.writes.values()) catalog.writeLyric(record, dir);
@@ -544,54 +649,75 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
   const held = plan.held
     .filter(({ id, problem }) => read.get(id).data().held?.reason !== problem)
     .map(({ id, problem }) => ({ id, reason: problem, updateTime: updateTime(id) }));
-  if (plan.submissionIds.length || held.length || plan.decisions.length || plan.verifications.length) {
+  const writeMarks = () => {
+    if (!plan.submissionIds.length && !held.length && !plan.decisions.length && !plan.verifications.length) return;
     const submissions = plan.submissionIds.map(id => ({ id, updateTime: updateTime(id) }));
     fs.writeFileSync(path.join(dir, path.basename(marksPath)), JSON.stringify(
       { submissions, held, withdrawals: plan.decisions, verifications: plan.verifications },
       null, 2) + '\n');
-  }
+  };
 
-  const baseline = manifest.catalogTree;
-  const tree = catalog.catalogTree(dir);
-  const { added, changed, removed } = catalog.changesBetween(baseline, tree, dir);
-  const after = catalog.readCatalog(dir);
+  const published = target?.tree ?? catalog.catalogTree(dir);
+  const { added, changed, removed } = catalog.changesBetween(baseline, published, dir);
   // This run's approvals first, in the order the plan wrote them.
   const edited = new Set([...added, ...changed]);
   const ids = [...new Set([...[...plan.writes.keys()].filter(id => edited.has(id)), ...edited])];
-  const payload = buildPayload(ids.map(id => after.get(id)), removed, manifest.contractVersion);
-  if (!payload) {
+  if (!ids.length && !removed.length) {
+    writeMarks();
     console.log('No lyric changed since the last update.');
     return;
   }
+  // As in the tree published. An earlier commit's file may since have been
+  // fixed, and readers refuse a whole update for one bad record.
+  const records = catalog.recordsIn(published, ids, dir);
+  const invalid = ids.map(id => [id, catalog.recordProblem(records.get(id))]).filter(([, problem]) => problem);
+  if (invalid.length) {
+    throw new Error(`Invalid lyric files in ${target?.commit ?? 'lyrics/'}, nothing published:\n` +
+      invalid.map(([id, problem]) => `${catalog.lyricPath(id)}: ${problem}`).join('\n'));
+  }
   console.log(`Publishing ${ids.length} changed lyrics and ${removed.length} removals.`);
 
-  const updateId = `update_${Date.now()}`;
-  const updateFilename = `${updateId}.json`;
+  // update_<ms>, 1 ms apart: unique and increasing, in the order readers apply them.
+  const firstId = Date.now();
+  const updates = splitUpdate(ids.map(id => records.get(id)), removed, manifest.contractVersion)
+    .map((text, i) => ({ updateFilename: `update_${firstId + i}.json`, text }));
+  for (const { updateFilename, text } of updates) {
+    manifest = applyUpdateToManifest(manifest, {
+      updateId: path.basename(updateFilename, '.json'),
+      updateFilename,
+      // Hash the exact bytes published; the app rejects an update whose hash differs.
+      sha256: crypto.createHash('sha256').update(text).digest('hex'),
+      releaseTag,
+      catalogTree: published
+    });
+  }
+  const limits = catalog.updateProblems(manifest, updates.map(({ updateFilename, text }) => [updateFilename, text]));
+  for (const warning of limits.warnings) console.warn(warning);
+  if (limits.problems.length) {
+    throw new Error(`Update limits broken, nothing published:\n${limits.problems.join('\n')}`);
+  }
+
   const outputDir = path.join(dir, 'output');
   fs.mkdirSync(outputDir, { recursive: true });
-  const payloadStr = JSON.stringify(payload, null, 2) + '\n';
-  fs.writeFileSync(path.join(outputDir, updateFilename), payloadStr);
-  // Hash the exact bytes published; the app rejects an update whose hash differs.
-  const sha256 = crypto.createHash('sha256').update(payloadStr).digest('hex');
-
-  manifest = applyUpdateToManifest(manifest, { updateId, updateFilename, sha256, releaseTag, catalogTree: tree });
+  for (const { updateFilename, text } of updates) fs.writeFileSync(path.join(outputDir, updateFilename), text);
   const manifestStr = JSON.stringify(manifest, null, 2) + '\n';
   fs.writeFileSync(path.join(outputDir, 'manifest.json'), manifestStr);
   fs.writeFileSync(manifestPath, manifestStr);
+  writeMarks();
 
-  catalog.writeIndex([...after.values()], dir);
+  catalog.writeIndex([...catalog.readCatalog(dir).values()], dir);
   const kindOf = (id, fallback) => plan.writes.get(id)?.kind ?? fallback;
   fs.writeFileSync(path.join(dir, path.basename(messagePath)), commitMessage([
-    ...ids.map(id => ({ title: after.get(id).title, kind: kindOf(id, added.includes(id) ? 'new' : 'Owner edit') })),
+    ...ids.map(id => ({ title: records.get(id).title, kind: kindOf(id, added.includes(id) ? 'new' : 'Owner edit') })),
     ...removed.map(id => plan.deletes.get(id) ?? { title: catalog.recordIn(baseline, id, dir).title, kind: 'removed' })
   ]));
   // New to readers: a restore brings back a lyric they had.
   const fresh = added.filter(id => plan.writes.get(id)?.kind !== 'restore');
   if (fresh.length) {
     fs.writeFileSync(path.join(dir, path.basename(newLyricsPath)), JSON.stringify(
-      fresh.map(id => ({ remoteId: id, title: after.get(id).title })), null, 2) + '\n');
+      fresh.map(id => ({ remoteId: id, title: records.get(id).title })), null, 2) + '\n');
   }
-  console.log(`Success! Created ${updateFilename} and updated manifest.json.`);
+  console.log(`Success! Created ${updates.map(({ updateFilename }) => updateFilename).join(', ')} and updated manifest.json.`);
 }
 
 // Counts the docs `write` changed. Each write has the updateTime this run
@@ -667,6 +793,7 @@ module.exports = {
   pendingRestores,
   pendingWithdrawals,
   planUpdate,
+  splitUpdate,
   sync,
   toRecord,
   toUpdateItem
