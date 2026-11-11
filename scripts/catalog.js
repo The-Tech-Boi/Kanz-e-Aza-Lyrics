@@ -4,7 +4,10 @@
 // `published`. The sync and the pull request check both read it here.
 //
 //   node scripts/catalog.js check [<base>]
-// checks every lyric file and, given a base commit, refuses deleted ones.
+// checks every lyric file and the update limits and, given a base commit,
+// refuses deleted lyric files, and warns, failing, on more lyric changes than one run publishes.
+//   node scripts/catalog.js updates <dir>
+// checks the update limits on the manifest and update files the sync wrote to <dir>.
 const fs = require('fs');
 const path = require('path');
 const { execFileSync } = require('child_process');
@@ -21,6 +24,18 @@ const FIELDS = [
 // firestore.rules' validNames: 1 to 100 characters on one line, no outer spaces.
 const NAME = /^[^\t\n\f\r ](?:[^\n]{0,98}[^\t\n\f\r ])?$/u;
 const EMPTY_TREE = '4b825dc642cb6eb9a060e54bf8d69288fbee4904';
+
+// What readers apply in one go. Installed 1.1.2 and 1.1.3 phones apply every
+// listed update back to back, each file in one transaction on a busy thread.
+// Raise RUN_LYRICS, or drop it, once most phones run 1.1.4.
+const RUN_LYRICS = 2000; // changed lyrics (records plus removals) one sync run publishes
+const UPDATE_ENTRIES = 500; // items plus removed ids in one update file
+const UPDATE_BYTES = 2000000; // one update file as written
+const MANIFEST_WARN = 500; // listed updates
+const MANIFEST_UPDATES = 1000;
+// Listed before these limits, and phones have applied it: splitting or
+// renaming it would make them apply it again.
+const OVER_LIMIT = new Set(['update_1793650281638']);
 
 // The built-in Personalities of each canonical Category, in taxonomy order.
 let subjects;
@@ -161,8 +176,8 @@ function deleteLyric(remoteId, dir = root) {
   if (fs.existsSync(folder) && !fs.readdirSync(folder).length) fs.rmdirSync(folder);
 }
 
-const git = (args, dir = root) =>
-  execFileSync('git', args, { cwd: dir, encoding: 'utf8', maxBuffer: 1 << 28 }).trim();
+const git = (args, dir = root, options = {}) =>
+  execFileSync('git', args, { cwd: dir, encoding: 'utf8', maxBuffer: 1 << 28, ...options }).trim();
 
 // The git tree of lyrics/ as the working tree has it now. Stages lyrics/.
 function catalogTree(dir = root) {
@@ -199,6 +214,64 @@ function changesBetween(from, to, dir = root) {
 // A lyric's record in a lyrics/ tree.
 const recordIn = (tree, remoteId, dir = root) =>
   JSON.parse(git(['show', `${tree}:${path.posix.relative('lyrics', lyricPath(remoteId))}`], dir));
+
+// Lyrics' records in a lyrics/ tree, by remoteId, read in one go.
+function recordsIn(tree, remoteIds, dir = root) {
+  const input = remoteIds.map(id => `${tree}:${path.posix.relative('lyrics', lyricPath(id))}\n`).join('');
+  const out = execFileSync('git', ['cat-file', '--batch'], { cwd: dir, input, maxBuffer: 1 << 28 });
+  const records = new Map();
+  let at = 0;
+  // Each answer is "<object> blob <size>\n<content>\n".
+  for (const remoteId of remoteIds) {
+    const header = out.indexOf(10, at);
+    const size = Number(out.toString('utf8', at, header).split(' ')[2]);
+    records.set(remoteId, JSON.parse(out.toString('utf8', header + 1, header + 1 + size)));
+    at = header + 1 + size + 1;
+  }
+  return records;
+}
+
+// The commits on HEAD's first-parent line (main: merged pull requests and
+// sync commits) after the newest whose lyrics/ is `tree`, oldest first, each
+// with its lyrics/ tree. Empty when no commit there has `tree`.
+function commitsSince(tree, dir = root) {
+  const commits = git(['rev-list', '--first-parent', 'HEAD'], dir).split('\n');
+  const trees = git(['cat-file', '--batch-check=%(objectname)'], dir,
+    { input: commits.map(commit => `${commit}:lyrics\n`).join('') }).split('\n');
+  const end = trees.indexOf(tree);
+  return end < 0 ? [] : commits.slice(0, end).map((commit, i) => ({ commit, tree: trees[i] })).reverse();
+}
+
+// What breaks the update limits: each of `files` ([update file name, its
+// bytes as published]) and the number of updates `manifest` lists. Returns
+// { problems, warnings }.
+function updateProblems(manifest, files) {
+  const problems = [];
+  for (const [name, bytes] of files) {
+    if (OVER_LIMIT.has(path.basename(name, '.json'))) continue;
+    let update;
+    try {
+      update = JSON.parse(String(bytes));
+    } catch {
+      problems.push(`${name}: not valid JSON`);
+      continue;
+    }
+    const entries = (update.items?.length ?? 0) + (update.removed?.length ?? 0);
+    if (entries > UPDATE_ENTRIES) problems.push(`${name}: ${entries} entries, over ${UPDATE_ENTRIES}`);
+    const size = Buffer.byteLength(bytes);
+    if (size > UPDATE_BYTES) problems.push(`${name}: ${size} bytes, over ${UPDATE_BYTES}`);
+  }
+  const listed = manifest.updates?.length ?? 0;
+  const warnings = [];
+  if (listed > MANIFEST_UPDATES) {
+    problems.push(`manifest.json: ${listed} updates listed, over ${MANIFEST_UPDATES}. The Owner removes old ` +
+      'entries in a reviewed pull request (README, Publishing).');
+  } else if (listed >= MANIFEST_WARN) {
+    warnings.push(`manifest.json: ${listed} updates listed; over ${MANIFEST_UPDATES} the sync stops. ` +
+      'Remove old entries soon (README, Publishing).');
+  }
+  return { problems, warnings };
+}
 
 // When a lyric's file first came into the Catalog, in ms (the commit time),
 // or null if it never had one.
@@ -257,28 +330,59 @@ function writeIndex(records, dir = root) {
 }
 
 if (require.main === module) {
-  const [command, base] = process.argv.slice(2);
-  if (command !== 'check') {
-    console.error('Usage: node scripts/catalog.js check [<base commit>]');
-    process.exit(2);
-  }
-  const found = problems();
-  if (base) {
-    for (const remoteId of changesBetween(treeAt(base), treeAt('HEAD')).removed) {
-      found.push(`${lyricPath(remoteId)}: deleted. Withdraw a lyric from the website's Owner panel instead.`);
+  const [command, arg] = process.argv.slice(2);
+  const readJson = file => JSON.parse(fs.readFileSync(file, 'utf8'));
+  // The update limits on `manifest` and the listed updates in `folder`.
+  const checkUpdates = (manifest, updates, folder) => {
+    const files = updates.map(({ assetName }) => [assetName, fs.readFileSync(path.join(folder, assetName))]);
+    const { problems: found, warnings } = updateProblems(manifest, files);
+    for (const warning of warnings) console.log(`::warning::${warning}`);
+    return found;
+  };
+  let found;
+  if (command === 'check') {
+    const base = arg;
+    found = problems();
+    // A pull request's own updates; without a base, every listed one.
+    const manifest = readJson(path.join(root, 'manifest.json'));
+    const known = new Set(base ? JSON.parse(git(['show', `${base}:manifest.json`])).updates.map(({ id }) => id) : []);
+    found.push(...checkUpdates(manifest, manifest.updates.filter(({ id }) => !known.has(id)), path.join(root, 'updates')));
+    if (base) {
+      const { added, changed, removed } = changesBetween(treeAt(base), treeAt('HEAD'));
+      for (const remoteId of removed) {
+        found.push(`${lyricPath(remoteId)}: deleted. Withdraw a lyric from the website's Owner panel instead.`);
+      }
+      const count = added.length + changed.length + removed.length;
+      if (count > RUN_LYRICS) {
+        found.push(`Warning: lyrics/: ${count} lyrics changed, over the ${RUN_LYRICS} one sync run publishes. Merged, ` +
+          'it goes out in one run of its own, and phones on 1.1.2 and 1.1.3 apply it all at once. ' +
+          `Split it into pull requests of at most ${RUN_LYRICS}.`);
+      }
     }
+  } else if (command === 'updates' && arg) {
+    const manifest = readJson(path.join(arg, 'manifest.json'));
+    found = checkUpdates(manifest, manifest.updates.filter(({ assetName }) => fs.existsSync(path.join(arg, assetName))), arg);
+  } else {
+    console.error('Usage: node scripts/catalog.js check [<base commit>] | updates <dir>');
+    process.exit(2);
   }
   if (found.length) {
     console.error(found.join('\n'));
     process.exit(1);
   }
-  console.log(`${lyricFiles().length} lyric files are valid.`);
+  console.log(command === 'check' ? `${lyricFiles().length} lyric files are valid.` : 'The updates are within the limits.');
 }
 
 module.exports = {
   CANONICAL_CATEGORIES,
+  MANIFEST_UPDATES,
+  MANIFEST_WARN,
+  RUN_LYRICS,
+  UPDATE_BYTES,
+  UPDATE_ENTRIES,
   catalogTree,
   changesBetween,
+  commitsSince,
   deleteLyric,
   firstAdded,
   lastVersion,
@@ -288,9 +392,11 @@ module.exports = {
   readCatalog,
   recordIn,
   recordProblem,
+  recordsIn,
   serialize,
   subjectsByCategory,
   treeAt,
+  updateProblems,
   writeIndex,
   writeLyric
 };

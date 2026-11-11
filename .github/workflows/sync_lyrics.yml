@@ -60,6 +60,9 @@ jobs:
         run: |
           node -e "const fs=require('fs'); const manifest=JSON.parse(fs.readFileSync('output/manifest.json','utf8')); if (manifest.latestReleaseTag !== process.env.RELEASE_TAG) throw new Error('latestReleaseTag mismatch'); const bad=manifest.updates.filter(u => !u.releaseTag); if (bad.length) throw new Error('missing releaseTag in manifest updates');"
           node -e "const fs=require('fs'), crypto=require('crypto'); const manifest=JSON.parse(fs.readFileSync('output/manifest.json','utf8')); for (const u of manifest.updates) { const f='output/'+u.assetName; if (fs.existsSync(f) && crypto.createHash('sha256').update(fs.readFileSync(f)).digest('hex') !== u.sha256) throw new Error('sha256 mismatch for '+u.assetName); }"
+          # The update limits again, on the files themselves: entries and bytes
+          # of each update file, and the number of updates listed.
+          node scripts/catalog.js updates output
 
       - name: Create Release
         if: success() && hashFiles('output/manifest.json') != ''
