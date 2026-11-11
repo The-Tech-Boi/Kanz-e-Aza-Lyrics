@@ -5,7 +5,7 @@
 //
 //   node scripts/catalog.js check [<base>]
 // checks every lyric file and the update limits and, given a base commit,
-// refuses deleted lyric files and more lyric changes than one run publishes.
+// refuses deleted lyric files, and warns, failing, on more lyric changes than one run publishes.
 //   node scripts/catalog.js updates <dir>
 // checks the update limits on the manifest and update files the sync wrote to <dir>.
 const fs = require('fs');
@@ -354,7 +354,9 @@ if (require.main === module) {
       }
       const count = added.length + changed.length + removed.length;
       if (count > RUN_LYRICS) {
-        found.push(`lyrics/: ${count} lyrics changed, over the ${RUN_LYRICS} one sync run publishes. Split it into pull requests of at most ${RUN_LYRICS}.`);
+        found.push(`Warning: lyrics/: ${count} lyrics changed, over the ${RUN_LYRICS} one sync run publishes. Merged, ` +
+          'it goes out in one run of its own, and phones on 1.1.2 and 1.1.3 apply it all at once. ' +
+          `Split it into pull requests of at most ${RUN_LYRICS}.`);
       }
     }
   } else if (command === 'updates' && arg) {

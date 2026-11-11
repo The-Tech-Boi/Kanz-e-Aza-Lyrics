@@ -609,22 +609,36 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
     return added.length + changed.length + removed.length;
   };
   const committed = changeCount(catalog.catalogTree(dir));
-  // When lyrics/ as it is now is over the limit: the newest commit on main
-  // whose lyrics/ is within it. Its tree is in history, so the next run can
-  // compare with it.
+  // A record in an earlier commit's lyrics/ that breaks a rule (its file was
+  // fixed since). Readers refuse a whole update for one.
+  const invalidIn = tree => {
+    const { added, changed } = catalog.changesBetween(baseline, tree, dir);
+    return [...catalog.recordsIn(tree, [...added, ...changed], dir)].find(([, record]) => catalog.recordProblem(record))?.[0];
+  };
+  // Over the limit, the run publishes lyrics/ as of an earlier commit on main,
+  // whose tree is in history for the next run to compare with: the newest
+  // within the limit, else the first one over it by itself, whole. Publishing
+  // never stops. Firestore's changes wait for a later run.
   let target;
   if (committed > catalog.RUN_LYRICS) {
     const commits = catalog.commitsSince(baseline, dir).map(c => ({ ...c, count: changeCount(c.tree) }));
     target = commits.findLast(({ count }) => count > 0 && count <= catalog.RUN_LYRICS);
     if (!target) {
-      const over = commits.find(({ count }) => count > catalog.RUN_LYRICS);
-      throw new Error(`${committed} lyrics changed in lyrics/ since the last update, over the ${catalog.RUN_LYRICS} a run publishes, ` +
-        (over ? `and commit ${over.commit} alone changes ${over.count}. Revert it and merge its changes in pull requests of at most ${catalog.RUN_LYRICS}.`
-          : 'and no commit on main since the last update changes fewer.') + ' Nothing published.');
+      target = commits.find(({ count }) => count > catalog.RUN_LYRICS);
+      if (target) {
+        console.warn(`Commit ${target.commit} alone changes ${target.count} lyrics, over the ${catalog.RUN_LYRICS} a run ` +
+          'publishes: publishing it by itself. Phones on 1.1.2 and 1.1.3 apply it all at once.');
+      }
     }
-    console.log(`Publishing lyrics/ as of ${target.commit}; the later commits wait for the next run.`);
+    const invalid = target && invalidIn(target.tree);
+    if (invalid) {
+      console.warn(`${catalog.lyricPath(invalid)} breaks a rule as of ${target.commit}, fixed since.`);
+      target = undefined;
+    }
+    if (target) console.log(`Publishing lyrics/ as of ${target.commit}; the later commits wait for the next run.`);
+    else console.warn(`Publishing lyrics/ as it is now: all ${committed} lyric changes in one run.`);
   }
-  const waiting = waitingChanges(plan, before, firestore, target ? 0 : catalog.RUN_LYRICS - committed);
+  const waiting = waitingChanges(plan, before, firestore, Math.max(catalog.RUN_LYRICS - committed, 0));
   if (waiting.size) {
     plan = withoutLyrics(plan, waiting, firestore.submissions);
     console.log(`${waiting.size} approved change(s) wait for the next run.`);
@@ -667,14 +681,8 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
     console.log('No lyric changed since the last update.');
     return;
   }
-  // As in the tree published. An earlier commit's file may since have been
-  // fixed, and readers refuse a whole update for one bad record.
+  // As in the tree published.
   const records = catalog.recordsIn(published, ids, dir);
-  const invalid = ids.map(id => [id, catalog.recordProblem(records.get(id))]).filter(([, problem]) => problem);
-  if (invalid.length) {
-    throw new Error(`Invalid lyric files in ${target?.commit ?? 'lyrics/'}, nothing published:\n` +
-      invalid.map(([id, problem]) => `${catalog.lyricPath(id)}: ${problem}`).join('\n'));
-  }
   console.log(`Publishing ${ids.length} changed lyrics and ${removed.length} removals.`);
 
   // update_<ms>, 1 ms apart: unique and increasing, in the order readers apply them.

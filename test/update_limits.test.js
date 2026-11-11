@@ -247,23 +247,57 @@ test('the Owner\'s commits go out whole and in order, before approvals, at most 
   assert.equal(new Set(all).size, 2150);
 });
 
-test('one commit of more than 2,000 lyric changes stops the run, and fails its pull request check', async t => {
-  quiet(t);
-  const dir = catalogRepo([lyric('lyric-a1')]);
-  const manifest = fs.readFileSync(path.join(dir, 'manifest.json'), 'utf8');
-  for (const id of range(2001, i => `big-${i}`)) catalog.writeLyric(lyric(id), dir);
-  commit(dir, 'Import 2001 lyrics at once');
+test('one commit of more than 2,000 lyric changes goes out by itself in one run, with a warning; approvals wait for the next', async t => {
+  const warn = quiet(t);
+  const dir = catalogRepo([lyric('lyric-a1')], { contractVersion: '1.0.0' });
+  const imported = range(2600, i => `big-${String(i).padStart(4, '0')}`);
+  for (const id of imported) catalog.writeLyric(lyric(id), dir);
+  commit(dir, 'Import 2600 lyrics at once');
   const sha = git(dir, 'rev-parse', 'HEAD');
-  const firestore = { submissions: { 'web-c3': approved('web-c3') } };
+  const approvals = range(10, i => `web-${i}`);
+  const firestore = { submissions: Object.fromEntries(approvals.map(id => [id, approved(id)])) };
+  const db = fakeDb(firestore);
 
-  await assert.rejects(workflowRun(dir, fakeDb(firestore)), new RegExp(`commit ${sha} alone changes 2001\\..* Nothing published\\.`));
-  for (const file of ['output', 'publish_marks.json', catalog.lyricPath('web-c3')]) assert.ok(!exists(dir, file), file);
-  assert.equal(fs.readFileSync(path.join(dir, 'manifest.json'), 'utf8'), manifest);
-  assert.equal(firestore.submissions['web-c3'].published, false);
+  // Its pull request check fails, as a warning the Owner can merge past.
+  const check = cli(dir, 'check', 'main~1');
+  assert.equal(check.status, 1);
+  assert.match(check.stderr, /Warning: lyrics\/: 2600 lyrics changed, over the 2000 one sync run publishes\. Merged, it goes out in one run of its own, and phones on 1\.1\.2 and 1\.1\.3 apply it all at once\./);
 
-  const result = cli(dir, 'check', 'main~1');
-  assert.equal(result.status, 1);
-  assert.match(result.stderr, /lyrics\/: 2001 lyrics changed, over the 2000 one sync run publishes/);
+  const first = await workflowRun(dir, db);
+  assert.deepEqual(first.files.map(entries), [500, 500, 500, 500, 500, 100]);
+  assert.deepEqual(itemIds(first), imported.sort(byPath));
+  assert.equal(first.manifest.catalogTree, catalog.treeAt(sha, dir));
+  const log = warn.mock.calls.map(call => call.arguments.join(' ')).join('\n');
+  assert.match(log, new RegExp(`Commit ${sha} alone changes 2600 lyrics, over the 2000 a run publishes: publishing it by itself\.`));
+  assert.equal(first.marks, null);
+  assert.ok(approvals.every(id => firestore.submissions[id].published === false));
+
+  const second = await workflowRun(dir, db);
+  assert.deepEqual(itemIds(second), approvals);
+  assert.ok(approvals.every(id => firestore.submissions[id].published === true));
+  assert.equal(second.manifest.catalogTree, catalog.treeAt('HEAD', dir));
+  assert.equal((await workflowRun(dir, db)).update, null);
+});
+
+test('an earlier commit with a file fixed since is not published; lyrics/ as it is now goes out instead', async t => {
+  const warn = quiet(t);
+  const dir = catalogRepo([lyric('lyric-a1')], { contractVersion: '1.0.0' });
+  for (const id of range(1500, i => `first-${i}`)) catalog.writeLyric(lyric(id), dir);
+  catalog.writeLyric(lyric('lyric-a1', { group: 3000 }), dir);
+  commit(dir, 'Import 1500 lyrics, with a typo');
+  const sha = git(dir, 'rev-parse', 'HEAD');
+  for (const id of range(600, i => `second-${i}`)) catalog.writeLyric(lyric(id), dir);
+  catalog.writeLyric(lyric('lyric-a1', { group: 2024 }), dir);
+  commit(dir, 'Import 600 more, and fix the typo');
+
+  const run = await workflowRun(dir, fakeDb({}));
+
+  assert.equal(itemIds(run).length, 2101);
+  assert.ok(run.files.flatMap(({ update }) => update.items).every(item => catalog.recordProblem(item) === null));
+  assert.equal(run.manifest.catalogTree, catalog.treeAt('HEAD', dir));
+  const log = warn.mock.calls.map(call => call.arguments.join(' ')).join('\n');
+  assert.match(log, new RegExp(`lyrics/a1/lyric-a1\.json breaks a rule as of ${sha}, fixed since\.`));
+  assert.match(log, /Publishing lyrics\/ as it is now: all 2101 lyric changes in one run\./);
 });
 
 test('the sync stops before writing anything when the manifest would list more than 1,000 updates', async t => {
