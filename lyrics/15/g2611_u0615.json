@@ -2,6 +2,413 @@
   "remoteId": "g2611_u0615",
   "title": "Ay ali teri tanhaiyan",
   "body": "آج تک کوئی سمجھا کہاں\nاے علی تیری تنہائیاں\nبس فقط ہیں تیری رازداں\nاے علی تیری تنہائیاں\n<<DIVIDER>>\nجگمگاتی نہ توحید میں\nگر سمٹتی نہ توحید میں\nآخرش پھر سماتی کہاں\nاے علی تیری تنہائیاں۔۔۔\n<<DIVIDER>>\nپوچھتی ہے سلونی یہی\nہے کوئی علم کش ہے کوئی\nہائے کوئی نہیں ہے یہاں\nاے علی تیری تنہائیاں۔۔۔\n<<DIVIDER>>\nکیسا کوئی سلام و کلام\nجب نہیں ہے جوابِ سلام\nاُف یہ توقیرِ علم الاماں\nاے علی تیری تنہائیاں۔۔۔\n<<DIVIDER>>\nرو رہی ہیں جو شام و سحر\nفاطمہ تیری تنہائی پر\nفاطمہ پہ ہیں گریہ کناں\nاے علی تیری تنہائیاں۔۔۔\n<<DIVIDER>>\nکس کو یارا کرے گفتگو\nگونجتی ہے یہاں صرف ھُو\nبولتی ہیں خدا کی زباں\nاے علی تیری تنہائیاں۔۔۔\n<<DIVIDER>>\nابتدا انتہا کبریا\nانبیاء اولیاء اوصیا\nسب ہیں چپ بولتی ہیں جہاں\nاے علی تیری تنہائیاں۔۔۔\n<<DIVIDER>>\nدم بہ دم پے بہ پے جا بجا\nکہہ رہی ہے یہ کُن کی صدا\nکاڑھ لیتی ہیں خود سے جہاں\nاے علی تیری تنہائیاں۔۔۔\n<<DIVIDER>>\nذاتِ شاھد میں مشھود میں\nہاں وجود اور موجود میں\nکم سے کم ہے جو فصلِ کماں\nاے علی تیری تنہائیاں۔۔۔\n<<DIVIDER>>\nحُسن کی دید کی عین تک\nجلوہءِ قابَ قوصین تک\nہاں بس اِک پردہءِ درمیاں\nاے علی تیری تنہائیاں۔۔۔",
+  "styling": [
+    {
+      "insert": "آج تک کوئی سمجھا کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی تیری تنہائیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس فقط ہیں تیری رازداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی تیری تنہائیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجگمگاتی نہ توحید میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر سمٹتی نہ توحید میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخرش پھر سماتی کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی تیری تنہائیاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپوچھتی ہے سلونی یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کوئی علم کش ہے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے کوئی نہیں ہے یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی تیری تنہائیاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسا کوئی سلام و کلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب نہیں ہے جوابِ سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُف یہ توقیرِ علم الاماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی تیری تنہائیاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو رہی ہیں جو شام و سحر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ تیری تنہائی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ پہ ہیں گریہ کناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی تیری تنہائیاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس کو یارا کرے گفتگو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجتی ہے یہاں صرف ھُو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولتی ہیں خدا کی زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی تیری تنہائیاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nابتدا انتہا کبریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انبیاء اولیاء اوصیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب ہیں چپ بولتی ہیں جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی تیری تنہائیاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدم بہ دم پے بہ پے جا بجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ رہی ہے یہ کُن کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاڑھ لیتی ہیں خود سے جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی تیری تنہائیاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nذاتِ شاھد میں مشھود میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں وجود اور موجود میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کم سے کم ہے جو فصلِ کماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی تیری تنہائیاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحُسن کی دید کی عین تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلوہءِ قابَ قوصین تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں بس اِک پردہءِ درمیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی تیری تنہائیاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

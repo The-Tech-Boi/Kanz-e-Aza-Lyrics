@@ -2,6 +2,384 @@
   "remoteId": "g2611_u2287",
   "title": "Mashk",
   "body": "العطش العطش العطش\nآقا ادرکنی ادرکنی\n<<DIVIDER>>\nکوشش تو بہت کی میں نے\nبھاری تھی یہ مشک بھی میں نے\nآقا حسین شرمندہ ہوں\nمولا حسین شرمندہ ہوں\nآنکھوں سے نظر نہیں آتا\nنہ بازو ہے تن پر مولا\nکرنا تھا جو نہ پایا\nآقا حسین شرمندہ ہوں\nافسوس مشک خالی ہے\n<<DIVIDER>>\nلے جاؤ علم یہ میرا\nلے جاؤ یہ مشک سکینہ\nپورا نہ ہوا میرا وعدہ\nلاشہ میرا نہ لے جانا\nدانتوں سے بھی مشک کو تھاما\nسینے سے اس کو چھپایا\nگیا تھا کہ واپس آؤں\nپر کچھ بھی نہ میں کر پایا\nافسوس مشک خالی ہے\n<<DIVIDER>>\nکوشش تو بہت کی میں نے\nبھاری تھی یہ مشک بھی میں نے\nآقا حسین شرمندہ ہوں\nمولا حسین شرمندہ ہوں\nآنکھوں سے نظر نہیں آتا\nنہ بازو ہے تن پر مولا\nکرنا تھا جو نہ پایا\nآقا حسین شرمندہ ہوں\nافسوس مشک خالی ہے\n<<DIVIDER>>\nلے جاؤ علم یہ میرا\nلے جاؤ یہ مشک سکینہ\nپورا نہ ہوا میرا وعدہ\nلاشہ میرا نہ لے جانا\nدانتوں سے بھی مشک کو تھاما\nسینے سے اس کو چھپایا\nگیا تھا کہ واپس آؤں\nپر کچھ بھی نہ میں کر پایا\nافسوس مشک خالی ہے\n<<DIVIDER>>\nآقا ادرکنی",
+  "styling": [
+    {
+      "insert": "العطش العطش العطش"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آقا ادرکنی ادرکنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوشش تو بہت کی میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھاری تھی یہ مشک بھی میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آقا حسین شرمندہ ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا حسین شرمندہ ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے نظر نہیں آتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ بازو ہے تن پر مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرنا تھا جو نہ پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آقا حسین شرمندہ ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افسوس مشک خالی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلے جاؤ علم یہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے جاؤ یہ مشک سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پورا نہ ہوا میرا وعدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ میرا نہ لے جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دانتوں سے بھی مشک کو تھاما"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے سے اس کو چھپایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گیا تھا کہ واپس آؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پر کچھ بھی نہ میں کر پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افسوس مشک خالی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوشش تو بہت کی میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھاری تھی یہ مشک بھی میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آقا حسین شرمندہ ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا حسین شرمندہ ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے نظر نہیں آتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ بازو ہے تن پر مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرنا تھا جو نہ پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آقا حسین شرمندہ ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افسوس مشک خالی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلے جاؤ علم یہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے جاؤ یہ مشک سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پورا نہ ہوا میرا وعدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ میرا نہ لے جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دانتوں سے بھی مشک کو تھاما"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے سے اس کو چھپایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گیا تھا کہ واپس آؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پر کچھ بھی نہ میں کر پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افسوس مشک خالی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآقا ادرکنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

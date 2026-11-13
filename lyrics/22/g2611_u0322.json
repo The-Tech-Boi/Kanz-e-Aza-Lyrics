@@ -2,6 +2,628 @@
   "remoteId": "g2611_u0322",
   "title": "Aisa alam hai kahan",
   "body": "ایسا علم ہے کہاں\nایسا جواں ہے کہاں\n<<DIVIDER>>\nیہ ہے ابو طالب کا گھرانہ\nاس پہ خدا کا خاص کرم ہے\nسارے عرب میں سارے اجم میں\nکس کو ملا یہ جاہ و ہشم ہے\nان میں کوئی یاسین و مزمل\nان‌ میں کوئی سردار ارم ہے\nاس کی الگ ہی شان ہے مولا\nجس کو ملا حیدر کا علم ہے\nایسا علم ہے کہاں۔۔۔\n<<DIVIDER>>\nکیسا سجا ہے کیسا حسیں ہے\nکربوبلا میں شاہ کا لشکر\nیوں تو سبھی ہیں شیر دلاور\nعون و محمد قاسم و اکبر\nابن مظاہر وہب کلبی\nجون بھی حر بھی سارے دلاور\nاپنی جگہ یہ سب ہیں بہادر\nفوج میں تیری اے شہ صفدر\nایسا علم ہے کہاں۔۔۔\n<<DIVIDER>>\nبعد نماز فجر زیارت\nتیرے علم کی کرتا ہوں\nشرف غلامی کا مل جائے\nمیں یہ وظیفہ پڑھتا ہوں\nکر کے زیارت تیرے علم کی\nپھر میں گھر سے چلتا ہوں\nساے میں چودہ معصوموں کے\nشکر خدا میں رہتا ہوں\nایسا علم ہے کہاں۔۔۔\n<<DIVIDER>>\nہم‌ تو سگے دربار علی ہیں\nخاص یہ تجھ سے رشتہ ہے\nجد بھی ہے تیرا کل کا مولا\nتو بھی ہمارا آقا ہے\nتیرے فقیروں میں اے غازی\nعرش بریں بھی رہتا ہے\nسندھ میں آؤ مولا قدم پر\nلعل قلندر کہتا ہے\nایسا علم ہے کہاں۔۔۔\n<<DIVIDER>>\nشام کے لشکر میں ہلچل تھی\nکون جری اب آتا ہے\nبوڑھے جوانوں سے کہتے تھے\nیہ تو علی اب آتا ہے\nسر پہ خدا ٹھوکر میں قضا ہے\nقہر جلی اب آتا ہے\nکہنا پڑا احمد کو علی سے\nتیرا وصی اب آتا ہے\nایسا علم ہے کہاں۔۔۔\n<<DIVIDER>>\nتیری شہادت سے کنبے پر\nکیسے قیامت ٹوٹ‌ گیء\nجس کو کہا کرتے تھے آقا\nقتل ہوا وہ بھای بھی\nسر سے چھنی زینب کے چادر\nتیری سکینہ قید ہوی\nہاے تیری مجبوری غازی\nماں زہرا یہ کہتی رہی\nایسا علم ہے کہاں۔۔۔\n<<DIVIDER>>\nاب بھی عزاخانوں میں پرچم\nتیرا ایسے رہتا ہے\nشام ڈھلے ایسا لگتا ہے\nکوئی لپٹ کے روتا ہے\nتیرے علم کا سرخ پھریرا\nہاے سکینہ کہتا ہے\nتم ہی کیا ریحان و سرور\nسب کی زباں پر رہتا ہے\nایسا علم ہے کہاں۔۔۔",
+  "styling": [
+    {
+      "insert": "ایسا علم ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا جواں ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ ہے ابو طالب کا گھرانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس پہ خدا کا خاص کرم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سارے عرب میں سارے اجم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو ملا یہ جاہ و ہشم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان میں کوئی یاسین و مزمل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان‌ میں کوئی سردار ارم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کی الگ ہی شان ہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو ملا حیدر کا علم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا علم ہے کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسا سجا ہے کیسا حسیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا میں شاہ کا لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں تو سبھی ہیں شیر دلاور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عون و محمد قاسم و اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابن مظاہر وہب کلبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جون بھی حر بھی سارے دلاور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی جگہ یہ سب ہیں بہادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فوج میں تیری اے شہ صفدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا علم ہے کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد نماز فجر زیارت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے علم کی کرتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شرف غلامی کا مل جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں یہ وظیفہ پڑھتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر کے زیارت تیرے علم کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر میں گھر سے چلتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساے میں چودہ معصوموں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکر خدا میں رہتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا علم ہے کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم‌ تو سگے دربار علی ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاص یہ تجھ سے رشتہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جد بھی ہے تیرا کل کا مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بھی ہمارا آقا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے فقیروں میں اے غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عرش بریں بھی رہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سندھ میں آؤ مولا قدم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعل قلندر کہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا علم ہے کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام کے لشکر میں ہلچل تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون جری اب آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بوڑھے جوانوں سے کہتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو علی اب آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پہ خدا ٹھوکر میں قضا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قہر جلی اب آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنا پڑا احمد کو علی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا وصی اب آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا علم ہے کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیری شہادت سے کنبے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے قیامت ٹوٹ‌ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو کہا کرتے تھے آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوا وہ بھای بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر سے چھنی زینب کے چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری سکینہ قید ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تیری مجبوری غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں زہرا یہ کہتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا علم ہے کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب بھی عزاخانوں میں پرچم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا ایسے رہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ڈھلے ایسا لگتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی لپٹ کے روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے علم کا سرخ پھریرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے سکینہ کہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہی کیا ریحان و سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کی زباں پر رہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا علم ہے کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -2,6 +2,388 @@
   "remoteId": "g2611_u2019",
   "title": "Khudara chale aao",
   "body": "سکینہ کہتی ہے بابا\nچلے آؤ چلے آؤ\nنہ آے عمو نہ آے تم\nخدارا چلے آؤ\n<<DIVIDER>>\nبہت ہوں چھوٹی بتاؤں کیسے\nجو مجھکو تکلیف ہو رہی ہے\nارے اے بابا تیری سکینہ\nاندھیرے زنداں میں رو رہی ہے\nبچھڑ کے اصغر سے اور تم سے\nسکینہ جاں اپنی کھو رہی ہے\nنہ آے عمو نہ آے تم\nخدارا چلے آؤ\nسکینہ کہتی ہے بابا۔۔۔\n<<DIVIDER>>\nیہ سال و سن یہ اسیری\nاندھیرا زندان سکینہ\nسہارا دینے کو کون آے\nجو آے دینے کو آے ایذا\nجو زخم شام الم میں پایا\nوہ دیکھو بابا ہے اب بھی تازہ\nنہ آے عمو نہ آے تم\nخدارا چلے آؤ\nسکینہ کہتی ہے بابا۔۔۔\n<<DIVIDER>>\nیہ میری طفلی یہ میرا بچپن\nمصیبتوں کے پہاڑ ٹوٹے\nاس ایک ننھے سے دل پہ دیکھو\nاٹھاے ہیں میں نے کتنے صدمے\nصداییں دیتی تھی میں تڑپ کر\nمگر خبر میری لی نہ تم نے\nنہ آے عمو نہ آے تم\nخدارا چلے آؤ\nسکینہ کہتی ہے بابا۔۔۔\n<<DIVIDER>>\nدنوں کو بازار میں پھرے ہم\nتو رات زندان کا اندھیرا\nنہر پہ عمو گےء ہیں جب سے\nتڑپ گیء آب کو سکینہ\nزمانہ گزرا نہ مل سکا ہے\nسکون کا مجھکو ایک لمحہ\nنہ آے عمو نہ آے تم\nخدارا چلے آؤ\nسکینہ کہتی ہے بابا۔۔۔",
+  "styling": [
+    {
+      "insert": "سکینہ کہتی ہے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ چلے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ آے عمو نہ آے تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدارا چلے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہت ہوں چھوٹی بتاؤں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مجھکو تکلیف ہو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ارے اے بابا تیری سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اندھیرے زنداں میں رو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچھڑ کے اصغر سے اور تم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ جاں اپنی کھو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ آے عمو نہ آے تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدارا چلے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کہتی ہے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سال و سن یہ اسیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اندھیرا زندان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہارا دینے کو کون آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو آے دینے کو آے ایذا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو زخم شام الم میں پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ دیکھو بابا ہے اب بھی تازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ آے عمو نہ آے تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدارا چلے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کہتی ہے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ میری طفلی یہ میرا بچپن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مصیبتوں کے پہاڑ ٹوٹے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس ایک ننھے سے دل پہ دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھاے ہیں میں نے کتنے صدمے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں دیتی تھی میں تڑپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر خبر میری لی نہ تم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ آے عمو نہ آے تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدارا چلے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کہتی ہے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدنوں کو بازار میں پھرے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو رات زندان کا اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہر پہ عمو گےء ہیں جب سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپ گیء آب کو سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمانہ گزرا نہ مل سکا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکون کا مجھکو ایک لمحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ آے عمو نہ آے تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدارا چلے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کہتی ہے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

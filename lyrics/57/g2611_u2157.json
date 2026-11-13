@@ -2,6 +2,346 @@
   "remoteId": "g2611_u2157",
   "title": "Lutgaya aap ka ghar",
   "body": "لُٹ گیا آپ کا گھر آپ کہاں تھے بابا\nکٹ گیا شاہ کا سر آپ کہاں تھے بابا\n<<DIVIDER>>\nباپ سے شامِ غریباں یہ کہا زینب نے\nمل گیا خاک میں گھر آپ کہاں تھے بابا\nلُٹ گیا آپ کا گھر۔۔۔\n<<DIVIDER>>\nتیر اصغر کے لگا برچھی علی اکبر کے\nبچھڑے سب نورِ نظر آپ کہاں تھے بابا\nلُٹ گیا آپ کا گھر۔۔۔\n<<DIVIDER>>\nمیرے بھیا نے اُٹھائے ہیں سحر سے لاشے\nجھُک گئی شہہ کی کمر آپ کہاں تھے بابا\nلُٹ گیا آپ کا گھر۔۔۔\n<<DIVIDER>>\nلاش فرزند کی سرور نے اُٹھائی کیسے\nاُجڑی آغوشِ پسر آپ کہاں تھے بابا\nلُٹ گیا آپ کا گھر۔۔۔\n<<DIVIDER>>\nشاہ گرتے تھے تنابوں میں اُلجھ کر ہر سُو\nسُن کے آوازِ پسر آپ کہاں تھے بابا\nلُٹ گیا آپ کا گھر۔۔۔\n<<DIVIDER>>\nجب میرے بھائی کے سینے پہ چڑھا تھا قاتل\nاماں آئی تھی آپ کہاں تھے بابا\nلُٹ گیا آپ کا گھر۔۔۔\n<<DIVIDER>>\nجب چھِنی میری ردا ڈھونڈ رہی تھی ہر سُو\nآپ کو میری نظر آپ کہاں تھے بابا\nلُٹ گیا آپ کا گھر۔۔۔\n<<DIVIDER>>\nآگ دامن سے سکینہ کے بجھائی میں نے\nجل گئے خیمے ادھر آپ کہاں تھے بابا\nلُٹ گیا آپ کا گھر۔۔۔\n<<DIVIDER>>\nپہرا میں اُجڑی بہاروں کا دیئے جاتی ہوں\nچھُپ گئے شمس و قمر آپ کہاں تھے بابا\nلُٹ گیا آپ کا گھر۔۔۔\n<<DIVIDER>>\nبیٹی حیدر کی تھی مصروفِ شکایت انور\nمل گیا خاک میں گھر آپ کہاں تھے بابا\nلُٹ گیا آپ کا گھر۔۔۔",
+  "styling": [
+    {
+      "insert": "لُٹ گیا آپ کا گھر آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کٹ گیا شاہ کا سر آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ سے شامِ غریباں یہ کہا زینب نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل گیا خاک میں گھر آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹ گیا آپ کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیر اصغر کے لگا برچھی علی اکبر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچھڑے سب نورِ نظر آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹ گیا آپ کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے بھیا نے اُٹھائے ہیں سحر سے لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھُک گئی شہہ کی کمر آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹ گیا آپ کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاش فرزند کی سرور نے اُٹھائی کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُجڑی آغوشِ پسر آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹ گیا آپ کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاہ گرتے تھے تنابوں میں اُلجھ کر ہر سُو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُن کے آوازِ پسر آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹ گیا آپ کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب میرے بھائی کے سینے پہ چڑھا تھا قاتل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں آئی تھی آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹ گیا آپ کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب چھِنی میری ردا ڈھونڈ رہی تھی ہر سُو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کو میری نظر آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹ گیا آپ کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآگ دامن سے سکینہ کے بجھائی میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل گئے خیمے ادھر آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹ گیا آپ کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہرا میں اُجڑی بہاروں کا دیئے جاتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھُپ گئے شمس و قمر آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹ گیا آپ کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹی حیدر کی تھی مصروفِ شکایت انور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل گیا خاک میں گھر آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹ گیا آپ کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -2,6 +2,313 @@
   "remoteId": "g2611_u1057",
   "title": "Chaadare maangi to",
   "body": "چادریں مانگیں تو ہر شہرسے آے پتھر\nبنت زھرا نے کہاں پر نہیں کھاےُ پتھر\n<<DIVIDER>>\nسر جھکاےً ہوےً روتی ہے علی کی بیٹی\nاور لعیں ہنستے ہیں ہاتھوں میں اٹھاےً پتھر\n...بنت زھرا نے\n...چادریں مانگیں\n<<DIVIDER>>\nکیا کریمی ہے کے بازار میں چلتے چلتے\nخون سجاد نے یاقوت بنا َے پتھر\n...بنت زھرا نے\n...چادریں مانگیں\n<<DIVIDER>>\nہاتھ تو تیرے پس ‍‍پشت بندھے تھے زینب\nکیسے پھر بھائی کے لاشے سے ہٹا ے پتھر\n...بنت زھرا نے\n...چادریں مانگیں\n<<DIVIDER>>\nیہ تو انصاف نہیں جس نے بچایا اسلام\nاسکی بیٹی بھرے بازار میں کھاے پتھر\n...بنت زھرا نے\n...چادریں مانگیں\n<<DIVIDER>>\nطعنے دے دے کے کیا زخمی دل زینب کو\nکچھ مسلمانوں کے جب ہاتھ نہ اے پتھر\n...بنت زھرا نے\n...چادریں مانگیں\n<<DIVIDER>>\nتیرا بھائی نہ رہا بنت علی ہا ے غضب\nورنہ ممکن تھا کوئی تجھ پہ اٹھا ے پتھر\n...بنت زھرا نے\n...چادریں مانگی\n<<DIVIDER>>\nخون ٹپکا تھا سر شاہ سے اس پر سجاد\nخون پھر کیے حلب میں نہ بہا ے پتھر\n...بنت زھرا نے\n...چادریں مانگی",
+  "styling": [
+    {
+      "insert": "چادریں مانگیں تو ہر شہرسے آے پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنت زھرا نے کہاں پر نہیں کھاےُ پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر جھکاےً ہوےً روتی ہے علی کی بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور لعیں ہنستے ہیں ہاتھوں میں اٹھاےً پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بنت زھرا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چادریں مانگیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا کریمی ہے کے بازار میں چلتے چلتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون سجاد نے یاقوت بنا َے پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بنت زھرا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چادریں مانگیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھ تو تیرے پس ‍‍پشت بندھے تھے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے پھر بھائی کے لاشے سے ہٹا ے پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بنت زھرا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چادریں مانگیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ تو انصاف نہیں جس نے بچایا اسلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسکی بیٹی بھرے بازار میں کھاے پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بنت زھرا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چادریں مانگیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطعنے دے دے کے کیا زخمی دل زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ مسلمانوں کے جب ہاتھ نہ اے پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بنت زھرا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چادریں مانگیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرا بھائی نہ رہا بنت علی ہا ے غضب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ورنہ ممکن تھا کوئی تجھ پہ اٹھا ے پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بنت زھرا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چادریں مانگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون ٹپکا تھا سر شاہ سے اس پر سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون پھر کیے حلب میں نہ بہا ے پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بنت زھرا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چادریں مانگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

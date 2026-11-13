@@ -2,6 +2,335 @@
   "remoteId": "g2611_u0549",
   "title": "Asghar aajao",
   "body": "ماں ڈھونڈ رہی ہے کب سے اصغر آ جائو آجائو\nچھایا ہے ہرسمت اندھیرا دلبر آجائو\nماں ڈھونڈرہی ۔۔۔\n<<DIVIDER>>\nتم سے بچھڑکر دلبر میرے\nتڑپوں گی میںشام سویرے\nکیسے جائے گی ماں بن تیرے\nآجائو آجائو اصغرآجائو\nماں ڈھونڈ رہی ۔۔۔\n<<DIVIDER>>\nبھوکا عالم گور اندھیرا\nسُونے جنگل میں ہے بسیرا\nگُھٹتا ہے دم خوف سے میرا\nپھیلے ہیں ہر سمت ستمگر آجائو\nماں ڈھونڈ رہی ۔۔۔\n<<DIVIDER>>\nخشک گلا ہو گا میرے جانی\nآئو پلا لائوں تمہیں پانی\nکچھ تو پتہ دو کچھ تو نشانی\nکھاتی ہوں میں ٹھوکریں د ر در\nماں ڈھونڈ رہی ۔۔۔\n<<DIVIDER>>\nآجا میرے راج دُلارے\nآ میری آنکھوں کے تارے\nدُکھیا ماں رو رو کے پُکارے\nکیسے جیوں گی تم سے بچھڑ کر آجائو\nماں ڈھونڈ رہی ۔۔۔\n<<DIVIDER>>\nجب سے سُنا ہے فکر سوا ہے\nننھے گلے میں تیرِ جفا ہے\nدل کو اک دھڑکا سا لگا ہے\nچلتا ہے دل پہ میرے خنجر آجائو\nماں ڈھونڈ رہی ۔۔۔\n<<DIVIDER>>\nڈھونڈ رہی ہوں کب سے رو رو\nچین سے مقتل میں سوتے ہو\nترسو گے ماں کی صورت کو\nجاتی ہوں میں شام کُھلے سر آجائو\nماں ڈھونڈ رہی ۔۔۔",
+  "styling": [
+    {
+      "insert": "ماں ڈھونڈ رہی ہے کب سے اصغر آ جائو آجائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھایا ہے ہرسمت اندھیرا دلبر آجائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں ڈھونڈرہی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم سے بچھڑکر دلبر میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپوں گی میںشام سویرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے جائے گی ماں بن تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجائو آجائو اصغرآجائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں ڈھونڈ رہی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھوکا عالم گور اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُونے جنگل میں ہے بسیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گُھٹتا ہے دم خوف سے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھیلے ہیں ہر سمت ستمگر آجائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں ڈھونڈ رہی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخشک گلا ہو گا میرے جانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئو پلا لائوں تمہیں پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ تو پتہ دو کچھ تو نشانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھاتی ہوں میں ٹھوکریں د ر در"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں ڈھونڈ رہی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآجا میرے راج دُلارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ میری آنکھوں کے تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُکھیا ماں رو رو کے پُکارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے جیوں گی تم سے بچھڑ کر آجائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں ڈھونڈ رہی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے سُنا ہے فکر سوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھے گلے میں تیرِ جفا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کو اک دھڑکا سا لگا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتا ہے دل پہ میرے خنجر آجائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں ڈھونڈ رہی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈھونڈ رہی ہوں کب سے رو رو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چین سے مقتل میں سوتے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ترسو گے ماں کی صورت کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتی ہوں میں شام کُھلے سر آجائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں ڈھونڈ رہی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -2,6 +2,353 @@
   "remoteId": "g2611_u2797",
   "title": "Royi sakina",
   "body": "روئی سکینہ سر نہوڑائے\nپانی چچا کاہے ناہیں لائے\nدر پہ کھڑی ہوں آس لگائے\nپانی چچا کاہے ناہیں لائے\n---روئی سکینہ\n<<DIVIDER>>\nخالی کوزہ ہاتھ م تھامے\nراہ تکت ہے کب سے بچی\nکوئی تو اس کی آس بندھائے\nپانی چچا کاہے ناہیں لائے\n---روئی سکینہ\n<<DIVIDER>>\nکب کے گئے تھے لینے پانی\nبھول گئے کا ہمری کہانی\nاب کون ہمری پیاس بجھائے\nپانی چچا کاہے ناہیں لائے\n---روئی سکینہ\n<<DIVIDER>>\nمشک و علم جب لے کے گئے تھے\nبچے رستہ دیکھ رہے تھے\nپوچھت ہے ہم سے کون بتائے\nپانی چچا کاہے ناہیں لائے\n---روئی سکینہ\n<<DIVIDER>>\nبنتی کرت ہوں کوئی یہ کہہ دے\nنہر پہ جا کر مورے عمو سے\nسانج بہے اب تک نہیں آئے\nپانی چچا کاہے ناہیں لائے\n---روئی سکینہ\n<<DIVIDER>>\nخیمے جلت میں چھینٹ ہیں چادر\nلیگوا مورا بندہ ستمگر\nعموں کو میرے کوئی گھوئے لائے\nپانی چچا کاہے ناہیں لائے\n---روئی سکینہ\n<<DIVIDER>>\nمحسن ابھی تک خوں ہے رلاتی\nپیاس سکینہ اور اصغر کی\nبس یہ صدا مورا دل تڑپائے\nپانی چچا کاہے ناہیں لائے\n---روئی سکینہ",
+  "styling": [
+    {
+      "insert": "روئی سکینہ سر نہوڑائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی چچا کاہے ناہیں لائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در پہ کھڑی ہوں آس لگائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی چچا کاہے ناہیں لائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---روئی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخالی کوزہ ہاتھ م تھامے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راہ تکت ہے کب سے بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی تو اس کی آس بندھائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی چچا کاہے ناہیں لائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---روئی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکب کے گئے تھے لینے پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھول گئے کا ہمری کہانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کون ہمری پیاس بجھائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی چچا کاہے ناہیں لائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---روئی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشک و علم جب لے کے گئے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچے رستہ دیکھ رہے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوچھت ہے ہم سے کون بتائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی چچا کاہے ناہیں لائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---روئی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبنتی کرت ہوں کوئی یہ کہہ دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہر پہ جا کر مورے عمو سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سانج بہے اب تک نہیں آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی چچا کاہے ناہیں لائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---روئی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے جلت میں چھینٹ ہیں چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیگوا مورا بندہ ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عموں کو میرے کوئی گھوئے لائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی چچا کاہے ناہیں لائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---روئی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمحسن ابھی تک خوں ہے رلاتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاس سکینہ اور اصغر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس یہ صدا مورا دل تڑپائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی چچا کاہے ناہیں لائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---روئی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
