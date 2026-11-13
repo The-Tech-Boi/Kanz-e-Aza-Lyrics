@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u1161",
-  "title": "Deti rahi bacchon",
+  "title": "دیتی رہی بچوں",
   "body": "دیتی رہی بچوں کو سکینہ یہ دلاسے\nپانی کا میں کہہ آی ہوں عباس چچا سے\n<<DIVIDER>>\nمشکیزہ رکھا میں نے جو شانے پہ چچا کے\nرونے لگے بابا انہیں سینے سے لگا کے\nروتی تھی پھپھی ڈھانپ کے منہ اپنا ردا سے\nدیتی رہی بچوں کو۔۔۔\n<<DIVIDER>>\nتپتے تھے چچا جس گھڑی میں نے یہ کہا تھا\nزندہ نہیں رہ پاے گا چھ ماہ کا بچہ\nمر جاے نہ اصغر کہیں سہہ روز کے پیاسے\nدیتی رہی بچوں کو۔۔۔\n<<DIVIDER>>\nہاتھوں سے کسی کوزوں کو گرنے نہیں دینا\nاے پیاس کے مارو ابھی کچھ حوصلہ رکھنا\nکچھ دیر میں بھر جائیں گے پانی سے یہ کاسے\nدیتی رہی بچوں کو۔۔۔\n<<DIVIDER>>\nہو جائے گا دریا پہ ابھی قبضہ ہمارا\nساحل پہ انہیں کوی بھی آواز نہ دینا\nبھٹکے نہ دھیان ان کا کہیں رن میں صدا سے\nدیتی رہی بچوں کو۔۔۔\n<<DIVIDER>>\nمشکیزے کی کرتے ہیں یوں ہاتھوں سے حفاظت\nجیسے ہو کوی فاطمہ زہرا کی امانت\nامید تھی مجھکو یہی دادی کی دعا سے\nدیتی رہی بچوں کو۔۔۔\n<<DIVIDER>>\nہاے میرے بابا کا برادر ہوا زخمی\nوہ مشک چھدی بہہ گیا میدان میں پانی\nبچ جائے چچا سب یہ دعا مانگو خدا سے\nدیتی رہی بچوں کو۔۔۔\n<<DIVIDER>>\nاکبر یہ فغاں کرتی تھی رو رو کے سکینہ\nدریا سے پلٹ کر نہیں آیا میرا سقہ\nنیند آ نہ گیء ہو کہیں ساحل کی ہوا سے\nدیتی رہی بچوں کو۔۔۔",
+  "styling": [
+    {
+      "insert": "دیتی رہی بچوں کو سکینہ یہ دلاسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی کا میں کہہ آی ہوں عباس چچا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشکیزہ رکھا میں نے جو شانے پہ چچا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے لگے بابا انہیں سینے سے لگا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی تھی پھپھی ڈھانپ کے منہ اپنا ردا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتی رہی بچوں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتپتے تھے چچا جس گھڑی میں نے یہ کہا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ نہیں رہ پاے گا چھ ماہ کا بچہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جاے نہ اصغر کہیں سہہ روز کے پیاسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتی رہی بچوں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھوں سے کسی کوزوں کو گرنے نہیں دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے پیاس کے مارو ابھی کچھ حوصلہ رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ دیر میں بھر جائیں گے پانی سے یہ کاسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتی رہی بچوں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہو جائے گا دریا پہ ابھی قبضہ ہمارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساحل پہ انہیں کوی بھی آواز نہ دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھٹکے نہ دھیان ان کا کہیں رن میں صدا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتی رہی بچوں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشکیزے کی کرتے ہیں یوں ہاتھوں سے حفاظت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے ہو کوی فاطمہ زہرا کی امانت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امید تھی مجھکو یہی دادی کی دعا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتی رہی بچوں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے میرے بابا کا برادر ہوا زخمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ مشک چھدی بہہ گیا میدان میں پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچ جائے چچا سب یہ دعا مانگو خدا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتی رہی بچوں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر یہ فغاں کرتی تھی رو رو کے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا سے پلٹ کر نہیں آیا میرا سقہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند آ نہ گیء ہو کہیں ساحل کی ہوا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتی رہی بچوں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "group": 2026,
   "author": "Hasnain Akbar",
   "anjumans": [],

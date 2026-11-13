@@ -1,12 +1,397 @@
 {
   "remoteId": "g2611_u1514",
-  "title": "Haye tanha sakina",
+  "title": "ہاے تنہا سکینہ",
   "body": "ہاے سکینہ ہاے سکینہ\n<<DIVIDER>>\nقید خانے یہی اب بھی آتی ہے صدا\nہاے تنہا ہے سکینہ کتنی تنہا ہے سکینہ\n<<DIVIDER>>\nکون آے گا بھلا اب جلانے کو دیا\nہاے تنہا ہے سکینہ کتنی تنہا ہے سکینہ\n<<DIVIDER>>\nپیاس معصوم سکینہ کی بجھا دو جا کر\nنوحہ عمو کا بھتیجی کو سنا دو جا کر\nہو کہاں اہل عزا شام کا وقت ہوا\nہاے تنہا ہے سکینہ۔۔۔\n<<DIVIDER>>\nجا چکے اہل حرم اس کو رہائی نہ ملی\nقبر میں جا کے بھی بچی ہے ابھی تک قیدی\nاس کا ننھا سا گلا ریسماں سے ہے بندھا\nہاے تنہا ہے سکینہ۔۔۔\n<<DIVIDER>>\nجب تلک زندہ تھی فضہ یہ کیا کرتی تھی\nجب روشن اسی تربت پہ دیا کرتی تھی\nآی جب اس کو قضاء دل فضہ نے کہا\nہاے تنہا ہے سکینہ۔۔۔\n<<DIVIDER>>\nدشت میں چھوٹ گےء سارے سہارے اس کے\nسارے پیارے ہوے اللہ کو پیارے اس کے\nآے بابا نہ چچا ساتھ کوئی نہ رہا\nہاے تنہا ہے سکینہ۔۔۔\n<<DIVIDER>>\nماں مدینے میں بہت دور تڑپ جاتی تھی\nشام کے وقت بہت شام کی یاد آتی تھی\nجب دیا گھر میں جلا ماں نے لو صغرا سے کہا\nہاے تنہا ہے سکینہ۔۔۔\n<<DIVIDER>>\nاپنے قیام کو زرا جلد بلا لو مولا\nاب سکینہ کو اندھیروں سے بچا لو مولا\nروز یہ کربوبلا جا کے کہتی ہے ہوا\nہاے تنہا ہے سکینہ۔۔۔\n<<DIVIDER>>\nآج بے چین ہر ایک اہل نظر ہوتا ہے\nشام کے سنتے ہے حالات تو دل روتا ہے\nنہ وہ مجلس نہ بکا پھر ہے خاموش فضا\nہاے تنہا ہے سکینہ۔۔۔\n<<DIVIDER>>\nشادماں ہے یہ دعا پھر سے ہو ماتم برپا\nپھر سکینہ کو تکلم دے چچا کا پرسہ\nپھر بچھے فرش عزا دل تڑپتا ہے میرا\nہاے تنہا ہے سکینہ۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے سکینہ ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقید خانے یہی اب بھی آتی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تنہا ہے سکینہ کتنی تنہا ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکون آے گا بھلا اب جلانے کو دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تنہا ہے سکینہ کتنی تنہا ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاس معصوم سکینہ کی بجھا دو جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ عمو کا بھتیجی کو سنا دو جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو کہاں اہل عزا شام کا وقت ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تنہا ہے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجا چکے اہل حرم اس کو رہائی نہ ملی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر میں جا کے بھی بچی ہے ابھی تک قیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کا ننھا سا گلا ریسماں سے ہے بندھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تنہا ہے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب تلک زندہ تھی فضہ یہ کیا کرتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب روشن اسی تربت پہ دیا کرتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی جب اس کو قضاء دل فضہ نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تنہا ہے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدشت میں چھوٹ گےء سارے سہارے اس کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سارے پیارے ہوے اللہ کو پیارے اس کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے بابا نہ چچا ساتھ کوئی نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تنہا ہے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں مدینے میں بہت دور تڑپ جاتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کے وقت بہت شام کی یاد آتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب دیا گھر میں جلا ماں نے لو صغرا سے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تنہا ہے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے قیام کو زرا جلد بلا لو مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سکینہ کو اندھیروں سے بچا لو مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز یہ کربوبلا جا کے کہتی ہے ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تنہا ہے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآج بے چین ہر ایک اہل نظر ہوتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کے سنتے ہے حالات تو دل روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ وہ مجلس نہ بکا پھر ہے خاموش فضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تنہا ہے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشادماں ہے یہ دعا پھر سے ہو ماتم برپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر سکینہ کو تکلم دے چچا کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بچھے فرش عزا دل تڑپتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تنہا ہے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "group": 2026,
   "author": "Mir Takallum",
   "anjumans": [],

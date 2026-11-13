@@ -1,12 +1,410 @@
 {
   "remoteId": "g2611_u2093",
-  "title": "La denge tumhe",
+  "title": "لے دینگے تمہیں",
   "body": "میرے عمو عباس\n<<DIVIDER>>\nجب پیاس بڑی پانی نہ ملا\nتو رو کے سکینہ نے دی صدا\nاے میرے چچا میں تم پہ فدا\nاصغر ہے میرا کب سے پیاسا\nتم پیاسوں کی سقای کرو\nدریا سے ہمیں پانی لا دو\nسر چوم کے پھر شہزادی کا\nعباس جری نے فرمایا\n<<DIVIDER>>\nلے دینگے تمہیں پانی یہ بچوں کو بتا دو\nہم نہر پہ جاتے ہیں اے شہزادی دعا دو\n<<DIVIDER>>\nہم بیٹھے ہیں دو زانوں تم آ گے بڑھو بی بی\nخود ہاتھوں سے مشکیزہ کاندھے پہ رکھو بی بی\nاے پیاسی سکینہ ہمیں سقہ تو بنا دو\nہم نہر پہ جاتے ہیں۔۔۔\n<<DIVIDER>>\nمیں جاؤں جو میدان میں ٹیلے پہ چلی آنا\nخود دیکھنا آنکھوں سے ساحل پہ میرا جانا\nتم روز ہی کہتی تھی کہ صفین سنا دو\nہم نہر پہ جاتے ہیں۔۔۔\n<<DIVIDER>>\nاللہ کرے جلدی یہ ختم اداسی ہو\nعباس کہ ہوتے بھی سہ روز سے پیاسی ہو\nمیرے بندھے ہاتھوں کو آزاد کرا دو\nہم نہر پہ جاتے ہیں۔۔۔\n<<DIVIDER>>\nاظہار نہ ہو پایا اس قوت بازو کا\nمجبور اطاعت ہے دل پھٹتا ہے عمو کا\nللللہ اب نہ کہنا میری پیاس بجھا دو\nہم نہر پہ جاتے ہیں۔۔۔\n<<DIVIDER>>\nخدمت میں بھتیجی کی کام آے میرے بازو\nبلفرض جو دریا پر کٹ جائے میرے بازو\nتڑپاو گی نہیں بی بی یقین مجھکو دلا دو\nہم نہر پہ جاتے ہیں۔۔۔\n<<DIVIDER>>\nیہ رخصت آخر ہے بابا کو تجھے سونپا\nاب تیروں کی بارش میں جاتا ہے تیرا سقہ\nایک شہر ہے فوجوں میں کمر شہ کی جھکا دو\nہم نہر پہ جاتے ہیں۔۔۔\n<<DIVIDER>>\nپر خوں میں تکلم جب وہ مشک و علم دیکھے\nعباس کے بیٹے نے رو کر کہا بی بی سے\nبابا کی طرح سے ہمیں مشکیزہ تو لا دو\nہم نہر پہ جاتے ہیں۔۔۔",
+  "styling": [
+    {
+      "insert": "میرے عمو عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب پیاس بڑی پانی نہ ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو رو کے سکینہ نے دی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے چچا میں تم پہ فدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر ہے میرا کب سے پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم پیاسوں کی سقای کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا سے ہمیں پانی لا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر چوم کے پھر شہزادی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس جری نے فرمایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلے دینگے تمہیں پانی یہ بچوں کو بتا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم نہر پہ جاتے ہیں اے شہزادی دعا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم بیٹھے ہیں دو زانوں تم آ گے بڑھو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود ہاتھوں سے مشکیزہ کاندھے پہ رکھو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے پیاسی سکینہ ہمیں سقہ تو بنا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم نہر پہ جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں جاؤں جو میدان میں ٹیلے پہ چلی آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود دیکھنا آنکھوں سے ساحل پہ میرا جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم روز ہی کہتی تھی کہ صفین سنا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم نہر پہ جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللہ کرے جلدی یہ ختم اداسی ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کہ ہوتے بھی سہ روز سے پیاسی ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بندھے ہاتھوں کو آزاد کرا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم نہر پہ جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاظہار نہ ہو پایا اس قوت بازو کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجبور اطاعت ہے دل پھٹتا ہے عمو کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "للللہ اب نہ کہنا میری پیاس بجھا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم نہر پہ جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخدمت میں بھتیجی کی کام آے میرے بازو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلفرض جو دریا پر کٹ جائے میرے بازو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپاو گی نہیں بی بی یقین مجھکو دلا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم نہر پہ جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ رخصت آخر ہے بابا کو تجھے سونپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تیروں کی بارش میں جاتا ہے تیرا سقہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک شہر ہے فوجوں میں کمر شہ کی جھکا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم نہر پہ جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپر خوں میں تکلم جب وہ مشک و علم دیکھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کے بیٹے نے رو کر کہا بی بی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کی طرح سے ہمیں مشکیزہ تو لا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم نہر پہ جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "group": 2026,
   "author": "Mir Takallum",
   "anjumans": [],

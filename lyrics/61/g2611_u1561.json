@@ -1,12 +1,531 @@
 {
   "remoteId": "g2611_u1561",
-  "title": "Hum ko ya hussain",
+  "title": "ہم کو یا حسین",
   "body": "ہو دل میں عشق کی شدت تو لا الٰہ پڑھو\nگرا دو قلعہء بیعت تو لا الٰہ پڑھو\nہو مثل حر جو ریاضت تو لا الٰہ پڑھو\nدل و نظر میں ہو غیرت تو لا الٰہ پڑھو\nزباں سے کہہ بھی دیا لا الہ تو کیا حاصل\nدل و نگاہ مسلمان نہیں تو کچھ بھی نہیں\n<<DIVIDER>>\nوقت کے یزید کو برباد کر دیا\nہم کو یا حسین نے آزاد کر دیا\nلبیک یا حسین\n<<DIVIDER>>\nزندگی حسین ہے روشنی حسین ہے\nآ گہی حسین ہے بندگی حسین ہے\nسر فروش ہوں میری عاشقی حسین ہے\nحر نے ایسا راستہ ایجاد کر دیا\nہم کو یا حسین نے۔۔۔\n<<DIVIDER>>\nعاقلوں کے شہر میں ظلمتوں کے بہر میں\nسانس لے رہے ہیں ہم نفرتوں کے زہر میں\nیا حسین آسرا ظالموں کے دہر میں\nآنسوؤں کو آپ نے امداد کر دیا\nہم کو یا حسین نے۔۔۔\n<<DIVIDER>>\nدولت کیا ہے مٹی ہے شہرت کیا ہے مٹی ہے\nجو ہو سروں پر دل پر نہ ہو ایسی حکومت مٹی ہے\nخاک شفا ایک تیرے سوا سب کی حقیقت مٹی ہے\nخاک کربلا نے دل آباد کر دیا\nہم کو یا حسین نے۔۔۔\n<<DIVIDER>>\nسنو سنو\nکلیجہ تھام کے روداد عشق سارے سنو\nبرائے نصرت ایمان ایک مسلم تھا\nجسے بلایا تھا مہمان ایک مسلم تھا\nسجا تھا کوفے کا دیوان ایک مسلم تھا\nتھے باقی سارے مسلمان ایک مسلم تھا\nبلا کے کوفہ اسے ظالموں نے چھوڑ دیا\nکیا تھا وعدہ جو مولا سے سب نے توڑ دیا\n<<DIVIDER>>\nسنا وطن میں جو زہرا کے پیارے بیٹے نے\nحسین چھوڑ کر مدینہ کربلا کو چلے\nسعید و جون زہیر اور اوسجا بھی جڑے\nکہا یہ حر نے اکیلا تمہیں نہ چھوڑیں گے\nتمہاری پیاس پہ مولا یہ جان دے دیں گے\nناتواں قلب کو فولاد کر دیا\nہم کو یا حسین نے۔۔۔\n<<DIVIDER>>\nاٹھا کے لاشوں پہ لاشے لایا\nنبی کا بیٹا حسین تنہا\nتھا تپتے صحرا میں بھوکا پیاسا\nغریب زہرا حسین تنہا\nجس نے جواں کو مرتے دیکھا\nقاسم کے ٹکڑوں کو بھی سمیٹا\nننھے گلے سے تیر نکالا\nغازی کو گھوڑے سے گرتے دیکھا\nعون و محمد کے لاشے لایا\nغریب ایسا کوئی نہیں ہے\nوہ جس نے سجدے میں سر کٹایا\nکیا تھا وعدہ جو وہ نبھایا\nخدا بھی درویش پھر پکارا\n<<DIVIDER>>\nسلام حسین سلام حسین",
+  "styling": [
+    {
+      "insert": "ہو دل میں عشق کی شدت تو لا الٰہ پڑھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرا دو قلعہء بیعت تو لا الٰہ پڑھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو مثل حر جو ریاضت تو لا الٰہ پڑھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل و نظر میں ہو غیرت تو لا الٰہ پڑھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زباں سے کہہ بھی دیا لا الہ تو کیا حاصل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل و نگاہ مسلمان نہیں تو کچھ بھی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوقت کے یزید کو برباد کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کو یا حسین نے آزاد کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لبیک یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزندگی حسین ہے روشنی حسین ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گہی حسین ہے بندگی حسین ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر فروش ہوں میری عاشقی حسین ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حر نے ایسا راستہ ایجاد کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کو یا حسین نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاقلوں کے شہر میں ظلمتوں کے بہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سانس لے رہے ہیں ہم نفرتوں کے زہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین آسرا ظالموں کے دہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنسوؤں کو آپ نے امداد کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کو یا حسین نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدولت کیا ہے مٹی ہے شہرت کیا ہے مٹی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ہو سروں پر دل پر نہ ہو ایسی حکومت مٹی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک شفا ایک تیرے سوا سب کی حقیقت مٹی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک کربلا نے دل آباد کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کو یا حسین نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنو سنو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلیجہ تھام کے روداد عشق سارے سنو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برائے نصرت ایمان ایک مسلم تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسے بلایا تھا مہمان ایک مسلم تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجا تھا کوفے کا دیوان ایک مسلم تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھے باقی سارے مسلمان ایک مسلم تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلا کے کوفہ اسے ظالموں نے چھوڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تھا وعدہ جو مولا سے سب نے توڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنا وطن میں جو زہرا کے پیارے بیٹے نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین چھوڑ کر مدینہ کربلا کو چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سعید و جون زہیر اور اوسجا بھی جڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا یہ حر نے اکیلا تمہیں نہ چھوڑیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہاری پیاس پہ مولا یہ جان دے دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناتواں قلب کو فولاد کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کو یا حسین نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھا کے لاشوں پہ لاشے لایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی کا بیٹا حسین تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا تپتے صحرا میں بھوکا پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب زہرا حسین تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس نے جواں کو مرتے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کے ٹکڑوں کو بھی سمیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھے گلے سے تیر نکالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کو گھوڑے سے گرتے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عون و محمد کے لاشے لایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب ایسا کوئی نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جس نے سجدے میں سر کٹایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تھا وعدہ جو وہ نبھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا بھی درویش پھر پکارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلام حسین سلام حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "group": 2026,
   "author": "Shahid Baltistani",
   "anjumans": [],

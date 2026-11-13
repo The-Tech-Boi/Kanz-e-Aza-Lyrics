@@ -1,12 +1,590 @@
 {
   "remoteId": "g2611_u0576",
-  "title": "Ashoor ka manzar",
+  "title": "عاشور کا منظر",
   "body": "سجاد کی آنکھوں میں صغرا\nعاشور کا منظر دیکھے گی\n<<DIVIDER>>\nلٹتے ہوئے اپنی آنکھوں سے\nزہرا کا بھرا گھر دیکھے گی\n<<DIVIDER>>\nوہ لمحہ نظر آے گا اسے\nخیمے سے چلے تھے جب اکبر\nکچھ دیر لڑے پھر زخمی ہوئے\nگھوڑے سے گرے تھے جب اکبر\nپھٹ جائے گا سینہ صدمے سے\nجب سینۂ اکبر دیکھے گی\nسجاد کی آنکھوں۔۔۔\n<<DIVIDER>>\nجب چشم برادر میں اس کو\nآے گا نظر غازی کا علم\nچہرے پہ سکوں آ جائے گا\nکچھ دیر میں کم ہو جاے گا غم\nدو بازو انہیں آنکھوں میں پھر\nوہ جلتی زمیں پر دیکھے گی\nسجاد کی آنکھوں۔۔۔\n<<DIVIDER>>\nجب باپ کے کاندھے پر گھٹڑی\nدیکھی تو خیال آے ہونگے\nصغرا نے کہا ہو گا دل میں\nقاسم کی بری لاے ہونگے\nجب گھٹڑی کھلے گی تو صغرا\nٹکڑوں میں گل تر دیکھے گی\nسجاد کی آنکھوں۔۔۔\n<<DIVIDER>>\nاصغر کو ان آنکھوں میں ہر سو\nڈھونڈے گی بہت بیمار بہن\nشبیر کے ہاتھوں پہ ایک دم\nآے گا نظر وہ تشنہ دہن\nایک تیر چلے گا اس دل پر\nجب تیر گلے پر دیکھے گی\nسجاد کی آنکھوں۔۔۔\n<<DIVIDER>>\nہے دھوپ میں تربت اصغر کی\nدو لاشیں قریب دریا ہے\nسمجھے گی نہیں کچھ دیر تلک\nکہ دشت میں بابا تنہا ہے\nروے گی بہت اور سمجھے گی\nجب لاش بہتر دیکھے گی\nسجاد کی آنکھوں۔۔۔\n<<DIVIDER>>\nزینب نہ سنانے پائے گی\nشبیر کی غربت کا قصہ\nدیکھے گی نگاہوں میں پھر سے\nبابا کے ساتھ ہوا کیا تھا\nٹوٹے گی قیامت صغرا پر\nجب حلق پہ خنجر دیکھے گی\nسجاد کی آنکھوں۔۔۔\n<<DIVIDER>>\nجب شام غریباں دیکھے گی\nبے آس حرم اور آگ دھواں\nدل تھام کے اپنے ہاتھوں سے\nبیمار کرے گی آہ و فغاں\nرخسار سکینہ کے زخمی\nاور نیزوں پہ چادر دیکھے گی\nسجاد کی آنکھوں۔۔۔\n<<DIVIDER>>\nبس صفدر و مظہر ختم کرو\nروداد ستم کو یہ کہہ کر\nسجاد کی آنکھیں بند ہوی\nاور بین یہی آے لب پر\nمر جائے گی غم سے جب خواہر\nبازار کا منظر دیکھے گی",
+  "styling": [
+    {
+      "insert": "سجاد کی آنکھوں میں صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کا منظر دیکھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلٹتے ہوئے اپنی آنکھوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کا بھرا گھر دیکھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ لمحہ نظر آے گا اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے سے چلے تھے جب اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ دیر لڑے پھر زخمی ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھوڑے سے گرے تھے جب اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھٹ جائے گا سینہ صدمے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سینۂ اکبر دیکھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کی آنکھوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب چشم برادر میں اس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے گا نظر غازی کا علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرے پہ سکوں آ جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ دیر میں کم ہو جاے گا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بازو انہیں آنکھوں میں پھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جلتی زمیں پر دیکھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کی آنکھوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب باپ کے کاندھے پر گھٹڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھی تو خیال آے ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا نے کہا ہو گا دل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کی بری لاے ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب گھٹڑی کھلے گی تو صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑوں میں گل تر دیکھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کی آنکھوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر کو ان آنکھوں میں ہر سو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈے گی بہت بیمار بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کے ہاتھوں پہ ایک دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے گا نظر وہ تشنہ دہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک تیر چلے گا اس دل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تیر گلے پر دیکھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کی آنکھوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے دھوپ میں تربت اصغر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو لاشیں قریب دریا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سمجھے گی نہیں کچھ دیر تلک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ دشت میں بابا تنہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روے گی بہت اور سمجھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب لاش بہتر دیکھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کی آنکھوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نہ سنانے پائے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کی غربت کا قصہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھے گی نگاہوں میں پھر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کے ساتھ ہوا کیا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹوٹے گی قیامت صغرا پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب حلق پہ خنجر دیکھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کی آنکھوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب شام غریباں دیکھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے آس حرم اور آگ دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل تھام کے اپنے ہاتھوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار کرے گی آہ و فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخسار سکینہ کے زخمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور نیزوں پہ چادر دیکھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کی آنکھوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبس صفدر و مظہر ختم کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روداد ستم کو یہ کہہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کی آنکھیں بند ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور بین یہی آے لب پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جائے گی غم سے جب خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار کا منظر دیکھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "group": 2026,
   "author": "Mazhar Abidi",
   "anjumans": [],

@@ -1,12 +1,333 @@
 {
   "remoteId": "g2611_u2545",
-  "title": "Namazi maara gaya",
+  "title": "نمازی مارا گیا",
   "body": "واویلا واویلا\n<<DIVIDER>>\nمسجد میں نمازی مارا گیا واویلا\nحسنین کا بابا قتل ہوا واویلا\n<<DIVIDER>>\nیہ کیسا عجب ہے ظلم ہوا\nاحمد کے وصی کو قتل کیا\nہے خون میں ڈوبی ساری قبا\nمسجد میں نمازی۔۔۔\n<<DIVIDER>>\nکلثوم اور زینب روتی ہے\nبابا سے لپٹ کر کہتی ہے\nآنکھیں تو زرا کھولو بابا\nمسجد میں نمازی۔۔۔\n<<DIVIDER>>\nبچوں سے جدا ہوتے ہیں علی\nزہرا نے لحد اپنی چھوڑی\nہے بنت پیمبر کا نوحہ\nمسجد میں نمازی۔۔۔\n<<DIVIDER>>\nبے حال ہے جاں کھوتے ہیں حسین\nیہ کہہ کے بہت روتے ہیں حسین\nامداد کرو اماں زہرا\nمسجد میں نمازی۔۔۔\n<<DIVIDER>>\nغازی کی عجب ہی حالت ہے\nچہرے پہ عجب سی غربت ہے\nصدمہ ہے بہت دل پر گہرا\nمسجد میں نمازی۔۔۔\n<<DIVIDER>>\nتابوت علی جب گھر سے چلا\nبیٹی کا کلیجہ پھٹنے لگا\nغش کھا کے گری زینب دکھیا\nمسجد میں نمازی۔۔۔\n<<DIVIDER>>\nکوفے میں قیامت برپا تھی\nحور جن و بشر روتے تھے سبھی\nسر پیٹ کے کہتی تھی زہرا\nمسجد میں نمازی۔۔۔",
+  "styling": [
+    {
+      "insert": "واویلا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسجد میں نمازی مارا گیا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین کا بابا قتل ہوا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کیسا عجب ہے ظلم ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "احمد کے وصی کو قتل کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خون میں ڈوبی ساری قبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں نمازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکلثوم اور زینب روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا سے لپٹ کر کہتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھیں تو زرا کھولو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں نمازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچوں سے جدا ہوتے ہیں علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا نے لحد اپنی چھوڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بنت پیمبر کا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں نمازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے حال ہے جاں کھوتے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ کے بہت روتے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امداد کرو اماں زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں نمازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغازی کی عجب ہی حالت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرے پہ عجب سی غربت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدمہ ہے بہت دل پر گہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں نمازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتابوت علی جب گھر سے چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی کا کلیجہ پھٹنے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غش کھا کے گری زینب دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں نمازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوفے میں قیامت برپا تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حور جن و بشر روتے تھے سبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹ کے کہتی تھی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں نمازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "group": 2026,
   "author": "Hurr Sultanpuri",
   "anjumans": [],

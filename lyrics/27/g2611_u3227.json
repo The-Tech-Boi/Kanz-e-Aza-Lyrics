@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u3227",
-  "title": "Tu bekafan hai baba",
+  "title": "تو بے کفن ہے بابا",
   "body": "تو بے کفن ہے بابا اور میں ہوں بے ردا\nنیزے پہ سر تمہارا رسن میں میرا گلا\n<<DIVIDER>>\nرک جانے پہ لگاے درے مجھے لعیں نے\nچلتی ہوں تو رسن سے گھٹتا ہے دم‌ میرا\nتو بے کفن ہے بابا۔۔۔\n<<DIVIDER>>\nہم سر سے پاؤں تک ہے زخموں سے چور دونوں\nپتھر تمہیں لگا ہے درہ مجھے لگا\nتو بے کفن ہے بابا۔۔۔\n<<DIVIDER>>\nہر ایک قدم پہ ہم کو مارے گےء طمانچے\nزخمی ہے گلا میرے زخمی ہے سر تیرا\nتو بے کفن ہے بابا۔۔۔\n<<DIVIDER>>\nانگلی تمہاری کاٹی انگشتری کی خاطر\nدو بالیوں کی خاطر مارا مجھے گیا\nتو بے کفن ہے بابا۔۔۔\n<<DIVIDER>>\nظالم نے جب پکارا مجھکو کنیز کہہ کر\nدیتی رہی میں بابا رو کر تمہیں صدا\nتو بے کفن ہے بابا۔۔۔\n<<DIVIDER>>\nایسا سفر نہ دیکھیں اب کوئی باپ بیٹی\nکانٹوں پہ میں چلی ہوں نیزے پہ تو چلا\nتو بے کفن ہے بابا۔۔۔\n<<DIVIDER>>\nنیزے سے اس لئے بھی گرتا ہے سر چچا کا\nمجھکو گرا گرا کے ہنستے ہیں اشقیاء\nتو بے کفن ہے بابا۔۔۔\n<<DIVIDER>>\nخاک شفا بنا ہے بابا کفن تمہارا\nمیرا کفن بنا ہے کرتہ جلا ہوا\nتو بے کفن ہے بابا۔۔۔\n<<DIVIDER>>\nاذلان یہ مصائب سجاد نے سنے تھے\nچالیس سال اس کی آنکھوں سے خوں بہا\nتو بے کفن ہے بابا۔۔۔",
+  "styling": [
+    {
+      "insert": "تو بے کفن ہے بابا اور میں ہوں بے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ سر تمہارا رسن میں میرا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرک جانے پہ لگاے درے مجھے لعیں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتی ہوں تو رسن سے گھٹتا ہے دم‌ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم سر سے پاؤں تک ہے زخموں سے چور دونوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر تمہیں لگا ہے درہ مجھے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر ایک قدم پہ ہم کو مارے گےء طمانچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہے گلا میرے زخمی ہے سر تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانگلی تمہاری کاٹی انگشتری کی خاطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بالیوں کی خاطر مارا مجھے گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظالم نے جب پکارا مجھکو کنیز کہہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتی رہی میں بابا رو کر تمہیں صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایسا سفر نہ دیکھیں اب کوئی باپ بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کانٹوں پہ میں چلی ہوں نیزے پہ تو چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزے سے اس لئے بھی گرتا ہے سر چچا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو گرا گرا کے ہنستے ہیں اشقیاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاک شفا بنا ہے بابا کفن تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا کفن بنا ہے کرتہ جلا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاذلان یہ مصائب سجاد نے سنے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چالیس سال اس کی آنکھوں سے خوں بہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "group": 2026,
   "author": "Arsalan Azmi",
   "anjumans": [],
