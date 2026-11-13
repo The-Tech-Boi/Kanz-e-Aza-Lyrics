@@ -74,14 +74,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
+      # Also a run that only moved manifest.json past base-only commits
+      # (Catalog-Publish: base-only): a commit, no release.
       - name: Commit the Catalog and the Update
-        if: success() && hashFiles('output/manifest.json') != ''
+        if: success() && (hashFiles('output/manifest.json') != '' || hashFiles('commit_message.txt') != '')
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           # The website reads updates from the repo; browsers can't download release assets.
           mkdir -p updates
-          cp output/update_*.json updates/
+          if [ -d output ]; then cp output/update_*.json updates/; fi
           git add manifest.json updates lyrics index
           git commit -F commit_message.txt
           git push

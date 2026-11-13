@@ -30,5 +30,9 @@ jobs:
       - name: Run Tests
         run: npm test
 
+      # PR_BODY: a "Catalog-Publish: base-only" line in the description skips
+      # the warning about more lyric changes than one run publishes.
       - name: Check Lyric Files
+        env:
+          PR_BODY: ${{ github.event.pull_request.body }}
         run: node scripts/catalog.js check origin/${{ github.base_ref }}

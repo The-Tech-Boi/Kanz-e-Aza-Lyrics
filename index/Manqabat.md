@@ -1,6 +1,6 @@
 # Manqabat
 
-215 lyrics.
+216 lyrics.
 
 ## Rasool-e-Khuda (s.a.w.s)
 
@@ -110,6 +110,7 @@
 - [Shabbir Ye sab Duniya Tere Naam Se Zinda Hai](../lyrics/30/local_e1c925ddd6f56ebb92e801d3f1435f30.json)
 - [Suno shabbir se ghazi ki sana](../lyrics/70/local_591501c4845f1ca00de8b35c95658170.json)
 - [Suno Siffeen suno](../lyrics/bc/local_2e14ad695bf0f728f5a0194fdba04dbc.json)
+- [TERA RUTBA ABBAS](../lyrics/10/s2611_0410.json)
 - [Teri Kya baat hai](../lyrics/4d/local_4716b08d02c3cd9b334d29d528a4804d.json)
 - [Utri hain aaj fatima zehra zameen par](../lyrics/a4/local_dd0645bdebf8dd9d08a217fdc19926a4.json)
 - [Wafa jiska padhe kalma](../lyrics/2c/local_d98855d09eb09df7c60ee1a9ea26fb2c.json)
