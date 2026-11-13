@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u1267",
-  "title": "Fatema ne haath",
+  "title": "فاطمہ نے ہاتھ",
   "body": "فاطمہ نے ہاتھ پہلو پر رکھا ہے آج بھی\nپسلیاں ٹوٹی ہے اور خوں رس رہا ہے آج بھی\n<<DIVIDER>>\nقبر میں نوحہ کناں ہے فاطمہ کی مامتا\nہاے محسن ہاے محسن کی صدا ہے آج بھی\nفاطمہ نے ہاتھ پہلو۔۔۔\n<<DIVIDER>>\nماں کے ہاتھوں میں ہے کرتہ حضرتِ شبیر کا\nقبر زہرا میں مسلسل کربلا ہے آج بھی\nفاطمہ نے ہاتھ پہلو۔۔۔\n<<DIVIDER>>\nایک دن تہمت لگی ہے سیدہ چھوٹی ہو تم\nفاطمہ زہرا کو صدمہ یہ بڑا ہے آج بھی\nفاطمہ نے ہاتھ پہلو۔۔۔\n<<DIVIDER>>\nروح زہرا کربلا اور شام میں کہتی ہے یہ\nبیکفن بیٹا ہے بیٹی بے ردا ہے آج بھی\nفاطمہ نے ہاتھ پہلو۔۔۔\n<<DIVIDER>>\nمانگنے پر حق ملا جو امتی کے ہاتھ سے\nنیل وہ زہرا کے چہرے پر جمع ہے آج بھی\nفاطمہ نے ہاتھ پہلو۔۔۔\n<<DIVIDER>>\nدکھ رہی ہے یا الٰہی میری ماں کی پسلیاں\nپسلیاں تھامے یہ مہدی کی اذاں ہے آج بھی\nفاطمہ نے ہاتھ پہلو۔۔۔\n<<DIVIDER>>\nبین نوحہ اشک واری پر ہے پابندی وہاں\nقبر زہرا پر ستم کا سلسلہ ہے آج بھی\nفاطمہ نے ہاتھ پہلو۔۔۔\n<<DIVIDER>>\nقبر میں یاسر محمد مصطفیٰ کی ہے بکا\nیہ میرا غم ہے کہ زہرا غم زدہ ہے آج بھی\nفاطمہ نے ہاتھ پہلو۔۔۔",
+  "styling": [
+    {
+      "insert": "فاطمہ نے ہاتھ پہلو پر رکھا ہے آج بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں ٹوٹی ہے اور خوں رس رہا ہے آج بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر میں نوحہ کناں ہے فاطمہ کی مامتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے محسن ہاے محسن کی صدا ہے آج بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ نے ہاتھ پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں کے ہاتھوں میں ہے کرتہ حضرتِ شبیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر زہرا میں مسلسل کربلا ہے آج بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ نے ہاتھ پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک دن تہمت لگی ہے سیدہ چھوٹی ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ زہرا کو صدمہ یہ بڑا ہے آج بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ نے ہاتھ پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروح زہرا کربلا اور شام میں کہتی ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکفن بیٹا ہے بیٹی بے ردا ہے آج بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ نے ہاتھ پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمانگنے پر حق ملا جو امتی کے ہاتھ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیل وہ زہرا کے چہرے پر جمع ہے آج بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ نے ہاتھ پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدکھ رہی ہے یا الٰہی میری ماں کی پسلیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں تھامے یہ مہدی کی اذاں ہے آج بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ نے ہاتھ پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبین نوحہ اشک واری پر ہے پابندی وہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر زہرا پر ستم کا سلسلہ ہے آج بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ نے ہاتھ پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر میں یاسر محمد مصطفیٰ کی ہے بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میرا غم ہے کہ زہرا غم زدہ ہے آج بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ نے ہاتھ پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Yasir Abbas",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,504 @@
 {
   "remoteId": "g2611_u0185",
-  "title": "Abbas beta marhaba",
+  "title": "عباس بیٹا مرحبا",
   "body": "کہتی ہے رن میں فاطمہ\nعباس بیٹا مرحبا\n<<DIVIDER>>\nتو عشق کی معراج ہے\nسر پر وفا کا تاج ہے\nثابت یہ تو نے کر دیا\nدریا پہ تیرا راج ہے\nچلو میں لے لی علقمہ\nعباس بیٹا مرحبا۔۔۔\n<<DIVIDER>>\nآل نبی کی آس ہے\nعمران کا عکاس ہے\nتیری طلب دریا نہیں\nدریا کو تیری پیاس ہے\nسقاے آل مصطفیٰ\nعباس بیٹا مرحبا۔۔۔\n<<DIVIDER>>\nتجھ سے زبر بھی زیر ہے\nتشنہ لبی سے سیر ہے\nحیبت ہے شیروں پر تیری\nتو شیر حق کا شیر ہے\nشمشیر شاہ کربلا\nعباس بیٹا مرحبا۔۔۔\n<<DIVIDER>>\nاجداد کی پہچان ہے\nبنت علی کا مان ہے\nبچپن سے لے کر آج تک\nشبیر پر قربان ہے\nقربان تجھ پر ہے وفا\nعباس بیٹا مرحبا۔۔۔\n<<DIVIDER>>\nتیرے شانوں پہ قربان جون\nآجا سینے سے اپنے لگاؤں\nتجھکو شبیر جیسا سمجھ کر\nاپنے ہاتھوں سے پانی پلاؤں\nدریا سے پیاسا آ گیا\nعباس بیٹا مرحبا۔۔۔\n<<DIVIDER>>\nتھا یہ مظہر میں عباس لکھا\nتشنہ لب ہی رہے گی سکینہ\nغم نہ کر مشک گر چھد گیء ہے\nتجھ سے راضی ہے شاہ مدینہ\nتو نے ادا حق کر دیا\nعباس بیٹا مرحبا۔۔۔\n<<DIVIDER>>\nجو محافظ تھے آل نبی کے\nکٹ گےء ہاے بازو وہ تیرے\nآج سے حشر تک دین کا پرچم\nتو اٹھاے گا بن بازوؤں کے\nاب یہ علم تیرا ہوا\nعباس بیٹا مرحبا۔۔۔\n<<DIVIDER>>\nجو تکلم ہے ایمان تیرا\nشادماں کا وہی ہے عقیدہ\nروضہء ابن شیر خدا پر\nدل یہ کہتا ہے اہلِ عزا کا\nایک ماں کی آتی ہے صدا\nعباس بیٹا مرحبا۔۔۔",
+  "styling": [
+    {
+      "insert": "کہتی ہے رن میں فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس بیٹا مرحبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو عشق کی معراج ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پر وفا کا تاج ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثابت یہ تو نے کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا پہ تیرا راج ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو میں لے لی علقمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس بیٹا مرحبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآل نبی کی آس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمران کا عکاس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری طلب دریا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کو تیری پیاس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقاے آل مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس بیٹا مرحبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتجھ سے زبر بھی زیر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تشنہ لبی سے سیر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیبت ہے شیروں پر تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو شیر حق کا شیر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمشیر شاہ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس بیٹا مرحبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاجداد کی پہچان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنت علی کا مان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچپن سے لے کر آج تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر پر قربان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قربان تجھ پر ہے وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس بیٹا مرحبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے شانوں پہ قربان جون"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا سینے سے اپنے لگاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھکو شبیر جیسا سمجھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے ہاتھوں سے پانی پلاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا سے پیاسا آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس بیٹا مرحبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھا یہ مظہر میں عباس لکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تشنہ لب ہی رہے گی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم نہ کر مشک گر چھد گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھ سے راضی ہے شاہ مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو نے ادا حق کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس بیٹا مرحبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو محافظ تھے آل نبی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کٹ گےء ہاے بازو وہ تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج سے حشر تک دین کا پرچم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو اٹھاے گا بن بازوؤں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب یہ علم تیرا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس بیٹا مرحبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو تکلم ہے ایمان تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شادماں کا وہی ہے عقیدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روضہء ابن شیر خدا پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل یہ کہتا ہے اہلِ عزا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ماں کی آتی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس بیٹا مرحبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

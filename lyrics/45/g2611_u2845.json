@@ -1,7 +1,328 @@
 {
   "remoteId": "g2611_u2845",
-  "title": "Sadae fatema zahra",
+  "title": "صدائے فاطمہ زہرا",
   "body": "یا امام زمانہ\n<<DIVIDER>>\nصدائے فاطمہ زہرا بقعہ سے آتی ہے\nحسین عصر تجھے کربلا بلاتی ہے\n<<DIVIDER>>\nلحد میں مادر مضطر کے دل کو چین آے\nمیں راہ تکتی ہوں کب میرا نور عین آے\nیوں انتظار میں ہر صبح بیت جاتی ہے\nصدائے فاطمہ زہرا۔۔۔\n<<DIVIDER>>\nجلا تھا جس سے میرے پاک گھر کا دروازہ\nنہیں ہے بابا کی امت تمہیں یہ اندازہ\nیہ آگ گنبد خضرا کو بھی جلاتی ہے\nصدائے فاطمہ زہرا۔۔۔\n<<DIVIDER>>\nپدر کی یاد ستاتی ہے جب حزینہ کو\nتسلی دے کے میری لاڈلی سکینہ کو\nتمہارے نام کی لوری لحد سناتی ہے\nصدائے فاطمہ زہرا۔۔۔\n<<DIVIDER>>\nمیرا جری میرا عباس شیر دل بیٹا\nجو کربلا میں تھا پابند لڑ نہیں پایا\nابھی تو اس کے بھی حصے کے جنگ باقی ہے\nصدائے فاطمہ زہرا۔۔۔\n<<DIVIDER>>\nتیرے ظہور میں تعجیل کی دعا لب پر\nشکستہ پہلو کو تھامے ہوئے تیری مادر\nعزا کے فرش پہ پہلے سے بیٹھ‌ جاتی ہے\nصدائے فاطمہ زہرا۔۔۔\n<<DIVIDER>>\nجواں کے نام کی برچھی ہے میرے سینے میں\nبہن ہے جس کی ابھی منتظر مدینے میں\nنشان قبر بناتی کبھی مٹاتی ہے\nصدائے فاطمہ زہرا۔۔۔\n<<DIVIDER>>\nمیرا حسین میرا با وفا میرا محسن\nصغیر قاسم و اکبر سکینہ اور حسن\nجھے علی کی تنہائی یاد آتی ہے\nصدائے فاطمہ زہرا۔۔۔",
+  "styling": [
+    {
+      "insert": "یا امام زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصدائے فاطمہ زہرا بقعہ سے آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین عصر تجھے کربلا بلاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلحد میں مادر مضطر کے دل کو چین آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں راہ تکتی ہوں کب میرا نور عین آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں انتظار میں ہر صبح بیت جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدائے فاطمہ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلا تھا جس سے میرے پاک گھر کا دروازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہیں ہے بابا کی امت تمہیں یہ اندازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ آگ گنبد خضرا کو بھی جلاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدائے فاطمہ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپدر کی یاد ستاتی ہے جب حزینہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تسلی دے کے میری لاڈلی سکینہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے نام کی لوری لحد سناتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدائے فاطمہ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا جری میرا عباس شیر دل بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو کربلا میں تھا پابند لڑ نہیں پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی تو اس کے بھی حصے کے جنگ باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدائے فاطمہ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے ظہور میں تعجیل کی دعا لب پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکستہ پہلو کو تھامے ہوئے تیری مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزا کے فرش پہ پہلے سے بیٹھ‌ جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدائے فاطمہ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجواں کے نام کی برچھی ہے میرے سینے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہن ہے جس کی ابھی منتظر مدینے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نشان قبر بناتی کبھی مٹاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدائے فاطمہ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا حسین میرا با وفا میرا محسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغیر قاسم و اکبر سکینہ اور حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھے علی کی تنہائی یاد آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدائے فاطمہ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

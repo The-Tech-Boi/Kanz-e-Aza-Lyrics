@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u1152",
-  "title": "Dekha jab baap ka",
+  "title": "دیکھا جب باپ کا",
   "body": "دیکھا جب باپ کا لاشہ تو سکینہ روی\nشمر نے مارا جو درہ تو سکینہ روی\n<<DIVIDER>>\nنہ ملا پانی اسے آگ بجھانے کے لئے\nجل گیا بھای کا جھولا تو سکینہ روی\nدیکھا جب باپ کا۔۔۔\n<<DIVIDER>>\nاوڑھ کر سر پہ ردا کان میں در پہنے ہوے\nسامنے آی جو رملہ تو سکینہ روی\nدیکھا جب باپ کا۔۔۔\n<<DIVIDER>>\nمار کر سیدے مظلوم کے ہونٹوں پہ چھڑی\nجب ہنسا حاکم کوفہ تو سکینہ روی\nدیکھا جب باپ کا۔۔۔\n<<DIVIDER>>\nکیا سکینہ ہو تمہیں اتنا بتادو بی بی\nہند نے آ کے جو پوچھا تو سکینہ روی\nدیکھا جب باپ کا۔۔۔\n<<DIVIDER>>\nچاہتی تھی کہ وہ لے آے اسے خیمے میں\nباپ کا لاشہ نہ اٹھا تو سکینہ روی\nدیکھا جب باپ کا۔۔۔\n<<DIVIDER>>\nقید میں سنتے ہوئے باپ کے سر سے لوری\nزخمی ہونٹوں کو جو دیکھا تو سکینہ روی\nدیکھا جب باپ کا۔۔۔\n<<DIVIDER>>\nمیر سجاد وہ ناقے سے گری روی نہیں\nآ کے دادی نے اٹھایا تو سکینہ روی\nدیکھا جب باپ کا۔۔۔",
+  "styling": [
+    {
+      "insert": "دیکھا جب باپ کا لاشہ تو سکینہ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر نے مارا جو درہ تو سکینہ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ ملا پانی اسے آگ بجھانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل گیا بھای کا جھولا تو سکینہ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جب باپ کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاوڑھ کر سر پہ ردا کان میں در پہنے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سامنے آی جو رملہ تو سکینہ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جب باپ کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمار کر سیدے مظلوم کے ہونٹوں پہ چھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہنسا حاکم کوفہ تو سکینہ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جب باپ کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا سکینہ ہو تمہیں اتنا بتادو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہند نے آ کے جو پوچھا تو سکینہ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جب باپ کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاہتی تھی کہ وہ لے آے اسے خیمے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کا لاشہ نہ اٹھا تو سکینہ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جب باپ کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقید میں سنتے ہوئے باپ کے سر سے لوری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہونٹوں کو جو دیکھا تو سکینہ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جب باپ کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیر سجاد وہ ناقے سے گری روی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ کے دادی نے اٹھایا تو سکینہ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جب باپ کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mir Sajjad Mir",
   "anjumans": [],
   "verified": false

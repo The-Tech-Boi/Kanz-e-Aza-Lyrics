@@ -1,12 +1,378 @@
 {
   "remoteId": "g2611_u2410",
-  "title": "Mere ghazi kahan",
+  "title": "میرے غازی کہاں",
   "body": "میرے غازی کہاں ہو\nتیری جاگیر سے چل پڑا قافلہ\nاے میرے باوفا ہے بہن بے ردا\nمیرے غازی کہاں۔۔۔\n<<DIVIDER>>\nتجھ کو دیکھے بِنا چین آتا نہیں\nنوکِ نیزہ پہ سر تیرا ملتا نہیں\nمیں زیارت کروں کس طرح یہ بتا\nمیرے غازی کہاں۔۔۔\n<<DIVIDER>>\nلاج رکھ لو بہن کی برادر میرے\nخاکِ مقتل میرے سر کا پردہ بنے\nحکم دے دو ذرا منتظر ہے ہوا\nمیرے غازی کہاں۔۔۔\n<<DIVIDER>>\nتیرے بازو مجھے رستے میں ملے\nمیں نے چادر سمجھ کر وہ سر پر رکھے\nبازوئوں سے تیرا پوچھتی ہوں پتہ\nمیرے غازی کہاں۔۔۔\n<<DIVIDER>>\nدیکھ کر بہن کو دشت میں ننگے سر\nکیا حیا آ گئی چھُپ گئے ہو کدھر\nخود چلی آئوں گی تم بتا دو ذرا\nمیرے غازی کہاں۔۔۔\n<<DIVIDER>>\nمیں نے بچپن میں لوری سُنائی تھی تجھے\nمیں نے چلنا سیکھایا تھا بھائی تجھے\nراہِ پُر خار پر مجھ کو چلنا سیکھا\nمیرے غازی کہاں۔۔۔\n<<DIVIDER>>\nوہ تیری لاڈلی وہ سکینہ تیری\nچلتے ناقے سے جب خاک پر گِر گئی\nدیکھتی رِہ گئی وہ سُوئے علقمہ\nمیرے غازی کہاں۔۔۔\n<<DIVIDER>>\nجو بنے مرتضیٰ میں وہ احساس ہوں\nبے ردا بیبیوں کی میں آس ہوں\nتم میری آس تھے اے میرے باوفا\nمیرے غازی کہاں۔۔۔\n<<DIVIDER>>\nوارثِ انبیائ کی میں ہمشیر ہوں\nعینِ حیدر ہوں قرآن کی تفسیر ہوں\nکوئی یاور نہیں کس کو دوں میں صدا\nمیرے غازی کہاں۔۔۔",
+  "styling": [
+    {
+      "insert": "میرے غازی کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری جاگیر سے چل پڑا قافلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے باوفا ہے بہن بے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے غازی کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتجھ کو دیکھے بِنا چین آتا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ نیزہ پہ سر تیرا ملتا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں زیارت کروں کس طرح یہ بتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے غازی کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاج رکھ لو بہن کی برادر میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاکِ مقتل میرے سر کا پردہ بنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حکم دے دو ذرا منتظر ہے ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے غازی کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے بازو مجھے رستے میں ملے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے چادر سمجھ کر وہ سر پر رکھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازوئوں سے تیرا پوچھتی ہوں پتہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے غازی کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھ کر بہن کو دشت میں ننگے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا حیا آ گئی چھُپ گئے ہو کدھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود چلی آئوں گی تم بتا دو ذرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے غازی کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں نے بچپن میں لوری سُنائی تھی تجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے چلنا سیکھایا تھا بھائی تجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راہِ پُر خار پر مجھ کو چلنا سیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے غازی کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ تیری لاڈلی وہ سکینہ تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتے ناقے سے جب خاک پر گِر گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھتی رِہ گئی وہ سُوئے علقمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے غازی کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو بنے مرتضیٰ میں وہ احساس ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا بیبیوں کی میں آس ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم میری آس تھے اے میرے باوفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے غازی کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوارثِ انبیائ کی میں ہمشیر ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عینِ حیدر ہوں قرآن کی تفسیر ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی یاور نہیں کس کو دوں میں صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے غازی کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Yawar Abbas",
   "anjumans": [],
   "verified": false

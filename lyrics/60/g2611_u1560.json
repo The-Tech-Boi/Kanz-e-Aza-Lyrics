@@ -1,12 +1,623 @@
 {
   "remoteId": "g2611_u1560",
-  "title": "Hum karte hai",
+  "title": "ہم کرتے ہیں",
   "body": "ہم کرتے ہیں ماتم اصغر کا\n<<DIVIDER>>\nبے شیر مجاہد ششماہا\nتھا ثاقیء کوثر کا پوتا\nکیا صبر تھا جھولے والے کا\nدریا کے کنارے پیاسا تھا\nہم کرتے ہیں۔۔۔\n<<DIVIDER>>\nوہ دھوپ وہ صحرا گرم ہوا\nگونجی رن میں ھل من کی صدا\nخیموں سے اٹھا غل رونے کا\nگہوارے سے اصغر رن کو چلا\nہم کرتے ہیں۔۔۔\n<<DIVIDER>>\nکیا پیاس تھی جھولے والے کی\nاور دیکھ کے اس کی تشنہ لبی\nخود ظلم کا لشکر رونے لگا\nاصغر کی تبسم صل علی\nہم کرتے ہیں۔۔۔\n<<DIVIDER>>\nسرور نے سوال آب کیا\nاصغر کے گلے پر تیر چلا\nاور ڈھل گیا منکا پیاسے کا\nشبیر کی غربت واویلا\nہم کرتے ہیں۔۔۔\n<<DIVIDER>>\nتھے سبط نبی کتنے بے چین\nیہ سوچتے تھے مظلوم حسین\nبانو سے کہیں گے جا کر کیا\nچھ ماہ کا بیٹا قتل ہوا\nہم کرتے ہیں۔۔۔\n<<DIVIDER>>\nیہ آہ و بکا اور یہ آنسوں\nیہ مجلسیں اور یہ بہتا لہو\nغم خواروں کا ہے نزرانہ\nمظلوم کی نصرت کا جزبہ\nہم کرتے ہیں۔۔۔\n<<DIVIDER>>\nشبیر کرم فرماتے ہیں\nعباس مدد کو آتے ہیں\nہم پڑھتے ہیں اصغر کا نوحہ\nاور زہرا کرتی ہے گریہ\nہم کرتے ہیں۔۔۔\n<<DIVIDER>>\nہر دل کی دھڑکن کہتی ہے\nیاں یاد اصغر رہتی ہے\nہر دل ہے اصغر کا جھولا\nہر لب پہ رہے گا یہ نوحہ\nہم کرتے ہیں۔۔۔\n<<DIVIDER>>\nوہ نوکِ سناں وہ پھول سا سر\nتھا ماں کی نظر میں یہ منظر\nپروانے دیتے ہیں پرسہ\nپلکوں پہ سجائے اشک عزا\nہم کرتے ہیں۔۔۔\n<<DIVIDER>>\nجس تیر سے اصغر ذبح ہوا\nوہ زخم کہاں تک ہے پھیلا\nکس کس کا کلیجہ اس سے چھدا\nپوچھے یہ کوئی عابد سے زرا\nہم کرتے ہیں۔۔۔\n<<DIVIDER>>\nپروانے ہیں شبیر کے ہم\nعباس کا ہے ہم پر یہ کرم\nبے شیر پہ ہم رویینگے صدا\nزہرا دیتی ہے ہم کو دعا\nہم کرتے ہیں۔۔۔\n<<DIVIDER>>\nاے جان علی جان زہرا\nکرتا ہے رشید اب معروضہ\nتو کرلے قبول اب یہ نوحہ\nپہنچا دے سب کو کربوبلا\nہم کرتے ہیں۔۔۔",
+  "styling": [
+    {
+      "insert": "ہم کرتے ہیں ماتم اصغر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے شیر مجاہد ششماہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا ثاقیء کوثر کا پوتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا صبر تھا جھولے والے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کے کنارے پیاسا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کرتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ دھوپ وہ صحرا گرم ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی رن میں ھل من کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں سے اٹھا غل رونے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گہوارے سے اصغر رن کو چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کرتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا پیاس تھی جھولے والے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور دیکھ کے اس کی تشنہ لبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود ظلم کا لشکر رونے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کی تبسم صل علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کرتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسرور نے سوال آب کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کے گلے پر تیر چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ڈھل گیا منکا پیاسے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کی غربت واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کرتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھے سبط نبی کتنے بے چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سوچتے تھے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بانو سے کہیں گے جا کر کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھ ماہ کا بیٹا قتل ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کرتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ آہ و بکا اور یہ آنسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ مجلسیں اور یہ بہتا لہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم خواروں کا ہے نزرانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم کی نصرت کا جزبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کرتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر کرم فرماتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس مدد کو آتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم پڑھتے ہیں اصغر کا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور زہرا کرتی ہے گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کرتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر دل کی دھڑکن کہتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاں یاد اصغر رہتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر دل ہے اصغر کا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر لب پہ رہے گا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کرتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ نوکِ سناں وہ پھول سا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا ماں کی نظر میں یہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پروانے دیتے ہیں پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پلکوں پہ سجائے اشک عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کرتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس تیر سے اصغر ذبح ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ زخم کہاں تک ہے پھیلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کس کا کلیجہ اس سے چھدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوچھے یہ کوئی عابد سے زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کرتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپروانے ہیں شبیر کے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا ہے ہم پر یہ کرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے شیر پہ ہم رویینگے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا دیتی ہے ہم کو دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کرتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے جان علی جان زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتا ہے رشید اب معروضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو کرلے قبول اب یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہنچا دے سب کو کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کرتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "group": 2025,
   "author": "Rasheed Shaheedi",
   "anjumans": [],

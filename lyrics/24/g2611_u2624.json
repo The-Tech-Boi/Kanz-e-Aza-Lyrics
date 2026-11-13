@@ -1,12 +1,374 @@
 {
   "remoteId": "g2611_u2624",
-  "title": "Phasliyan pakde hue",
+  "title": "پسلیاں پکڑے ہوے",
   "body": "بابا تیری امت نے کیسا یہ ستم ڈھایا\n<<DIVIDER>>\nکتنا غم ناک ہے زہرا کا افسانہ ہاے\nگزری جو فاطمہ پہ کیسے کوئی بتلائے\nلاش محسن کو لےء روتی ہے زہرا اب تک\nگود میں فاطمہ کے زخمی ہے بچہ اب تک\n<<DIVIDER>>\nپسلیاں پکڑے ہوے کرتی ہے نوحہ اب تک\nکتنی تکلیف میں ہے روتی ہے زہرا اب تک\n<<DIVIDER>>\nحشر میں باپ سے پوچھے گی کی مانگا کیا تھا\nبابا آخر میرے محسن نے بگاڑا کیا تھا\nگود میں فاطمہ کے زخمی ہے بچہ اب تک\nپسلیاں پکڑے ہوے۔۔۔\n<<DIVIDER>>\nآگ اور لکڑیاں لیکر جونہی دشمن آے\nبولے دروازہء زہرا کو جلایا جاے\nاس قدر ظلم ہوے روتی ہے فضہ اب تک\nپسلیاں پکڑے ہوے۔۔۔\n<<DIVIDER>>\nاس قدر کوہ ستم ٹوٹ پڑے ہیں ان پر\nعمر اٹھارہ برس اور خمیدہ ہے کمر\nہاے دشوار ہے شہزادی کا چلنا اب تک\nپسلیاں پکڑے ہوے۔۔۔\n<<DIVIDER>>\nقبر شبیر سے لگتا ہے کی ماں لپٹی ہے\nہاے یہ روضہء سرور سے صدا اٹھتی ہے\nبن نہ پایا نہیں اماں تیرا روضہ اب تک\nپسلیاں پکڑے ہوے۔۔۔\n<<DIVIDER>>\nسینۂ شاہ سے اصغر کو اٹھا لیتی ہے\nچوم کر چہرۂ بے شیر کو یہ کہتی ہے\nزخمی حلقوم لیےء تو بھی ہے سویا اب تک\nپسلیاں پکڑے ہوے۔۔۔\n<<DIVIDER>>\nروح غازی در زنداں پہ کھڑی روتی ہے\nاک بھتیجی ہے جو کرتے میں ابھی سوی ہے\nچھٹ نہ پائی نہیں زنداں سے سکینہ اب تک\nپسلیاں پکڑے ہوے۔۔۔\n<<DIVIDER>>\nہے مبارک جونہی ریحان نے نوحہ یہ پڑھا\nخلد سے روتے ہوے آے علی و زہرا\nہاے زخموں کا ہے شہزادی پہ پہرہ اب تک\nپسلیاں پکڑے ہوے۔۔۔",
+  "styling": [
+    {
+      "insert": "بابا تیری امت نے کیسا یہ ستم ڈھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنا غم ناک ہے زہرا کا افسانہ ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گزری جو فاطمہ پہ کیسے کوئی بتلائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاش محسن کو لےء روتی ہے زہرا اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گود میں فاطمہ کے زخمی ہے بچہ اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپسلیاں پکڑے ہوے کرتی ہے نوحہ اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنی تکلیف میں ہے روتی ہے زہرا اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحشر میں باپ سے پوچھے گی کی مانگا کیا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا آخر میرے محسن نے بگاڑا کیا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گود میں فاطمہ کے زخمی ہے بچہ اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں پکڑے ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآگ اور لکڑیاں لیکر جونہی دشمن آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے دروازہء زہرا کو جلایا جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس قدر ظلم ہوے روتی ہے فضہ اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں پکڑے ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس قدر کوہ ستم ٹوٹ پڑے ہیں ان پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمر اٹھارہ برس اور خمیدہ ہے کمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے دشوار ہے شہزادی کا چلنا اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں پکڑے ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر شبیر سے لگتا ہے کی ماں لپٹی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے یہ روضہء سرور سے صدا اٹھتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن نہ پایا نہیں اماں تیرا روضہ اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں پکڑے ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسینۂ شاہ سے اصغر کو اٹھا لیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چوم کر چہرۂ بے شیر کو یہ کہتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی حلقوم لیےء تو بھی ہے سویا اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں پکڑے ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروح غازی در زنداں پہ کھڑی روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بھتیجی ہے جو کرتے میں ابھی سوی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھٹ نہ پائی نہیں زنداں سے سکینہ اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں پکڑے ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے مبارک جونہی ریحان نے نوحہ یہ پڑھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خلد سے روتے ہوے آے علی و زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے زخموں کا ہے شہزادی پہ پہرہ اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں پکڑے ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Mubarak Jalalpuri",
   "anjumans": [],
   "verified": false

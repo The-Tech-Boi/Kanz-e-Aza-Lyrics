@@ -1,12 +1,332 @@
 {
   "remoteId": "g2611_u0337",
-  "title": "Akbar chala hai",
+  "title": "اکبر چلا ہے",
   "body": "اکبر چلا ہے مرنے کو\nکوی بڑھ کے اس کو رو کو\n<<DIVIDER>>\nزینب نے اس کو پالا ہے\nلیلیٰ کا چاند نکلا ہے\nاٹھارہ سال والے کو\nکوی بڑھ کے اس کو رو کو\nاکبر چلا ہے۔۔۔\n<<DIVIDER>>\nبھیا نظر نہ اسکو لگے\nشادی ہو اس کی پھولے پھلے\nارمان پورے ہونے دو\nکوی بڑھ کے اس کو رو کو\nاکبر چلا ہے۔۔۔\n<<DIVIDER>>\nصدقہ اتار لوں اس کا\nدے وقت مجھکو میرے خدا\nرک جاے اس کو اتنا کہوں\nکوی بڑھ کے اس کو رو کو\nاکبر چلا ہے۔۔۔\n<<DIVIDER>>\nشبیر کا ہے نور نظر\nزندہ ہے دواہشیں مادر\nزینب کی آرزو ہے وہ\nکوی بڑھ کے اس کو رو کو\nاکبر چلا ہے۔۔۔\n<<DIVIDER>>\nماں غمزدہ یہ کہتی ہے\nزینب دہائی دیتی ہے\nلب اپنے کوی تو کھولو\nکوی بڑھ کے اس کو رو کو\nاکبر چلا ہے۔۔۔\n<<DIVIDER>>\nلیلیٰ کے دل کی ہے دھڑکن\nاقبال کے ہیں لب پہ سخن\nصابر سے نوحہ یہ سن لو\nکوی بڑھ کے اس کو رو کو\nاکبر چلا ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "اکبر چلا ہے مرنے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی بڑھ کے اس کو رو کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے اس کو پالا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ کا چاند نکلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ سال والے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی بڑھ کے اس کو رو کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر چلا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھیا نظر نہ اسکو لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شادی ہو اس کی پھولے پھلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ارمان پورے ہونے دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی بڑھ کے اس کو رو کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر چلا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصدقہ اتار لوں اس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے وقت مجھکو میرے خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رک جاے اس کو اتنا کہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی بڑھ کے اس کو رو کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر چلا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر کا ہے نور نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ ہے دواہشیں مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی آرزو ہے وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی بڑھ کے اس کو رو کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر چلا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں غمزدہ یہ کہتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب دہائی دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لب اپنے کوی تو کھولو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی بڑھ کے اس کو رو کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر چلا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلیلیٰ کے دل کی ہے دھڑکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اقبال کے ہیں لب پہ سخن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صابر سے نوحہ یہ سن لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی بڑھ کے اس کو رو کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر چلا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Iqbal Abedi",
   "anjumans": [],
   "verified": false

@@ -1,7 +1,345 @@
 {
   "remoteId": "g2611_u3624",
-  "title": "Zehra ki duayein",
+  "title": "زہرا کی دُعائیں",
   "body": "زہرا کی دُعائیں لو ماتم کرو سرور کا\nعزادارِ حسین\nغمگین فضائیں ہیں پُرسہ دو بہتر کا\nعزادارِ حسین\n<<DIVIDER>>\nلبریز ہوں دل اپنے بس جامِ مو،دت سے\nگھبرائو نہ اے لوگو تم ایسی شہادت سے\nحیدر کی شجاعت ہو اور جام ہو کوثر کا\nعزادارِ حسین\nزہرا کی دعائیں لو۔۔۔\n<<DIVIDER>>\nعباس کے پرچم کے سائے میں جو آ جائے\nحُر جیسے مقدر ہوں جنت کی ہوا پائے\nپرچم ہے نگاہوں میں عباسِ دلاور کا\nعزادارِ حسین\nزہرا کی دعائیں لو۔۔۔\n<<DIVIDER>>\nسینے پہ لگی برچھی صورت تھی نبی جیسی\nاکبر کی صدا آئی لو بابا خبر میری\nوہ جان تھا لیلیٰ کا ماتم کرو اکبر کا\nعزادارِ حسین\nزہرا کی دعائیں لو۔۔۔\n<<DIVIDER>>\nمیدان میں لے آئے شاہ آخری دلبر کو\nاک تیرِ تبسم سے بہلا دیا لشکر کو\nوہ فاتح کربلا ہے ماتم کرو اصغر کا\nعزادارِ حسین\nزہرا کی دعائیں لو۔۔۔\n<<DIVIDER>>\nعابد کو رُلایا تھا خوں ایسے لعینوں نے\nبے مکھنہ و چادر کے تھی آلِ نبی بن میں\nماتم کرو عابد کا اور زینبِ مضطر کا\nعزادارِ حسین\nزہرا کی دعائیں لو۔۔۔\n<<DIVIDER>>\nاظہر نے لکھا نوحہ یہ کیسی قیامت کا\nآنسُو جو نکل آیا پروانا ہے جنت کا\nہو رُتبہ حاصل جو میثم و قمبر کا\nعزادارِ حسین\nزہرا کی دعائیں لو۔۔۔",
+  "styling": [
+    {
+      "insert": "زہرا کی دُعائیں لو ماتم کرو سرور کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزادارِ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمگین فضائیں ہیں پُرسہ دو بہتر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزادارِ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلبریز ہوں دل اپنے بس جامِ مو،دت سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھبرائو نہ اے لوگو تم ایسی شہادت سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کی شجاعت ہو اور جام ہو کوثر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزادارِ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی دعائیں لو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس کے پرچم کے سائے میں جو آ جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حُر جیسے مقدر ہوں جنت کی ہوا پائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچم ہے نگاہوں میں عباسِ دلاور کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزادارِ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی دعائیں لو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسینے پہ لگی برچھی صورت تھی نبی جیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کی صدا آئی لو بابا خبر میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جان تھا لیلیٰ کا ماتم کرو اکبر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزادارِ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی دعائیں لو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیدان میں لے آئے شاہ آخری دلبر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک تیرِ تبسم سے بہلا دیا لشکر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ فاتح کربلا ہے ماتم کرو اصغر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزادارِ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی دعائیں لو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعابد کو رُلایا تھا خوں ایسے لعینوں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے مکھنہ و چادر کے تھی آلِ نبی بن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو عابد کا اور زینبِ مضطر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزادارِ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی دعائیں لو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاظہر نے لکھا نوحہ یہ کیسی قیامت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنسُو جو نکل آیا پروانا ہے جنت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو رُتبہ حاصل جو میثم و قمبر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزادارِ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی دعائیں لو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

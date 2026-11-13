@@ -1,7 +1,440 @@
 {
   "remoteId": "g2611_u1225",
-  "title": "Ek luta khafela safar",
+  "title": "ایک لٹا قافلہ سفر",
   "body": "ایک لٹا قافلہ سفر میں ہے\nہر قدم کربلا نظر میں ہے\n<<DIVIDER>>\nقلب میں سب کے داغ اکبر ہے\nاور نظروں میں زخم اکبر ہے\nپاس شہ رگ کے کند خنجر ہے\nخشک ہونٹوں پہ نام حیدر ہے\nمقصد شاہ دیں نظر میں ہے\nایک لٹا قافلہ۔۔۔\n<<DIVIDER>>\nقافلے میں بہت سے بچے تھے\nگیارہویں کو جو کربلا سے چلے\nراستوں میں گرے تھے اونٹوں سے\nاس طرح سے کہ پھر کبھی نہ اٹھے\nموت کی گونج رہ گذر میں ہے\nایک لٹا قافلہ۔۔۔\n<<DIVIDER>>\nقافلے میں ہیں ایسی مائیں بھی\nگود اجڑی چھینی ردائیں بھی\nاب تو لب پر نہیں دعائیں بھی\nسو گئیں تھک کے سب صدائیں بھی\nبس دھواں ہی دھواں نظر میں ہے\nایک لٹا قافلہ۔۔۔\n<<DIVIDER>>\nایک بیمار قافلہ سالار\nطوق و زنجیر کا اٹھائے بار\nمائوں بہنوں کا ساتھ اور بازار\nآخری مرحلہ بھرا دربار\nصبر ہی صبر راہ بار میں ہے\nایک لٹا قافلہ۔۔۔\n<<DIVIDER>>\nرونق قافلہ تھی ایک بچی\nباپ کو یاد کر کے جب روتی\nاس کو اس جرم کی سزا ملتی\nظلم اتنا ہوا کہ جی نہ سکی\nاب وہ بچی اندھیرے گھر میں ہے\nایک لٹا قافلہ۔۔۔\n<<DIVIDER>>\nہو چکی جب تمام رسوائی\nیعنی اسلام کی مسیحائی\nقافلہ لے کے شہہ کی ماں جائی\nلٹ کے نینوا کی سمت آئی\nعصر عاشور چشم تر میں ہے\nایک لٹا قافلہ۔۔۔\n<<DIVIDER>>\nجب مدینے کو جائے گا کنبہ\nہوں گی شاہد قیامتیں برپا\nسوچتی ہے یہ زینب کبریٰ\nکیسے صغرا کا سامنا ہو گا\nشکل صغرا کی بس نظر میں ہے\nایک لٹا قافلہ۔۔۔",
+  "styling": [
+    {
+      "insert": "ایک لٹا قافلہ سفر میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر قدم کربلا نظر میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقلب میں سب کے داغ اکبر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور نظروں میں زخم اکبر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاس شہ رگ کے کند خنجر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خشک ہونٹوں پہ نام حیدر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقصد شاہ دیں نظر میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک لٹا قافلہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقافلے میں بہت سے بچے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گیارہویں کو جو کربلا سے چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راستوں میں گرے تھے اونٹوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح سے کہ پھر کبھی نہ اٹھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کی گونج رہ گذر میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک لٹا قافلہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقافلے میں ہیں ایسی مائیں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گود اجڑی چھینی ردائیں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو لب پر نہیں دعائیں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو گئیں تھک کے سب صدائیں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس دھواں ہی دھواں نظر میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک لٹا قافلہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک بیمار قافلہ سالار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طوق و زنجیر کا اٹھائے بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مائوں بہنوں کا ساتھ اور بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری مرحلہ بھرا دربار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبر ہی صبر راہ بار میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک لٹا قافلہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرونق قافلہ تھی ایک بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کو یاد کر کے جب روتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کو اس جرم کی سزا ملتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم اتنا ہوا کہ جی نہ سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب وہ بچی اندھیرے گھر میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک لٹا قافلہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہو چکی جب تمام رسوائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یعنی اسلام کی مسیحائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ لے کے شہہ کی ماں جائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ کے نینوا کی سمت آئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عصر عاشور چشم تر میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک لٹا قافلہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب مدینے کو جائے گا کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوں گی شاہد قیامتیں برپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوچتی ہے یہ زینب کبریٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے صغرا کا سامنا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکل صغرا کی بس نظر میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک لٹا قافلہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

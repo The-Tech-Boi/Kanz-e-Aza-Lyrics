@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u2911",
-  "title": "Sakina tum nahi",
+  "title": "سکینہ تم نہیں",
   "body": "تڑپ کر یوں نہ تڑپانا\nسکینہ تم نہیں رونا\n<<DIVIDER>>\nسنو بابا کا یہ کہنا\nتمہیں ہے صبر سے رہنا\nبدل جاے گی یہ دنیا\nسکینہ تم نہیں رونا۔۔۔\n<<DIVIDER>>\nجلانے آییںنگے اعدا\nہمارے بعد یہ خیمے\nجلے گا جب تیرا کرتہ\nسکینہ تم نہیں رونا۔۔۔\n<<DIVIDER>>\nڈرانے آیینگے ظالم\nلیےء ہاتھوں میں جب خنجر\nمیری بچی نہ تم ڈرنا\nسکینہ تم نہیں رونا۔۔۔\n<<DIVIDER>>\nطمانچے مارے گا دشمن\nتمہارے چھین کر گوہر\nنہ ہوگا جب کوئی اپنا\nسکینہ تم نہیں رونا۔۔۔\n<<DIVIDER>>\nبڑے گی پیاس کی شدت\nجب ہوگی ہر نیء آفت\nنہ ہوگا بھای جب میرا\nسکینہ تم نہیں رونا۔۔۔\n<<DIVIDER>>\nتمہیں کب نیند آے گی\nنہ ہوگا جب میرا سینہ\nتمہیں کانٹوں پہ ہے سونا\nسکینہ تم نہیں رونا۔۔۔\n<<DIVIDER>>\nاندھیرے قید خانے میں\nتمہیں نیند آے گی کیوں کر\nنہ ہوگا باپ کا سینہ\nسکینہ تم نہیں رونا۔۔۔\n<<DIVIDER>>\nرضا ہو آپ کی مولا\nلکھا ہے اس نے یہ نوحہ\nسکینہ تم نہیں رونا\nسکینہ تم نہیں رونا۔۔۔",
+  "styling": [
+    {
+      "insert": "تڑپ کر یوں نہ تڑپانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ تم نہیں رونا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنو بابا کا یہ کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں ہے صبر سے رہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بدل جاے گی یہ دنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ تم نہیں رونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلانے آییںنگے اعدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمارے بعد یہ خیمے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلے گا جب تیرا کرتہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ تم نہیں رونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈرانے آیینگے ظالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیےء ہاتھوں میں جب خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بچی نہ تم ڈرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ تم نہیں رونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطمانچے مارے گا دشمن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے چھین کر گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ہوگا جب کوئی اپنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ تم نہیں رونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبڑے گی پیاس کی شدت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہوگی ہر نیء آفت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ہوگا بھای جب میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ تم نہیں رونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہیں کب نیند آے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ہوگا جب میرا سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں کانٹوں پہ ہے سونا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ تم نہیں رونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاندھیرے قید خانے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں نیند آے گی کیوں کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ہوگا باپ کا سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ تم نہیں رونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرضا ہو آپ کی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھا ہے اس نے یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ تم نہیں رونا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ تم نہیں رونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "anjumans": [],
   "verified": false
 }

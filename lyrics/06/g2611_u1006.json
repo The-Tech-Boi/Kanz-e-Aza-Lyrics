@@ -1,12 +1,465 @@
 {
   "remoteId": "g2611_u1006",
-  "title": "Bhaiya kyun nahi",
+  "title": "بھیا کیوں نہیں",
   "body": "پوچھ رہی ہے کربوبلا کے رستوں سے بیمار\nبھیا کیوں نہیں آے\n<<DIVIDER>>\nخون رلاتے ہیں مجھکو یثرب کے در و دیوار\nبھیا کیوں نہیں آے\n<<DIVIDER>>\nآنکھوں سے اوجھل نہیں ہوتا چہرہ اکبر کا\nڈھونڈتی رہتی ہوں خوابوں میں سہرا اکبر کا\nٹوٹ کے روز بکھر جاتے ہیں آنسوؤں کے ہار\nبھیا کیوں نہیں آے۔۔۔\n<<DIVIDER>>\nجب سے فلک پر چاند نظر آیا ہے محرم کا\nلگتا ہے مجھکو عرش بھی جیسے فرش ہو ماتم کا\nچاند کے پیچھے جیسے چھپی ہو برچھی اور تلوار\nبھیا کیوں نہیں آے۔۔۔\n<<DIVIDER>>\nہے یہ دعا اے مالک میرا باب الخیر سے ہو\nغیر نہ لے سہرای درندے دلدل خیر سے ہو\nاچھے نہیں حالات بھی شاید کوفے کے اس پار\nبھیا کیوں نہیں آے۔۔۔\n<<DIVIDER>>\nکیا ہوی آخر مجھ سے خطا معلوم تو ہو مجھکو\nپای ہے کیوں فرقت کی سزا معلوم تو ہو مجھکو\nروٹھ گیا مجبور بہن سے کیوں بیرن کا پیار\nبھیا کیوں نہیں آے۔۔۔\n<<DIVIDER>>\nخط بھیجا اور قاصد سے سندیس بھی کہہ لایا\nپھر بھی مجھ برہن کا کسی کو دھیان نہیں آیا\nبھول گیا پردیس میں جا کر مجھکو میرا پریوار\nبھیا کیوں نہیں آے۔۔۔\n<<DIVIDER>>\nہار گیء میں قسمت کی تحریریں جیت گیء\nراستہ تکتے تکتے دو دو عیدیں بیت گیء\nہو نہ سکا ہمشکل نبی کے چہرے کا دیدار\nبھیا کیوں نہیں آے۔۔۔\n<<DIVIDER>>\nکیسے بتاؤں کتنا کٹھن ہے ہجر کا غم بھیا\nچومتی رہتی ہوں میں تیرے نقش قدم بھیا\nڈر ہے مٹ جائے نہ کہیں ان قدموں کے آثار\nبھیا کیوں نہیں آے۔۔۔\n<<DIVIDER>>\nمیرے مالک پردیسی کنبے کی خیر\nبہنوں کے ماؤں کے پھپھیوں کے پردے کی خیر\nخواب میں میں نے دیکھے ہیں کچھ پتھر اور بازار\nبھیا کیوں نہیں آے۔۔۔\n<<DIVIDER>>\nدیکھ رہی ہوں نیزہ نیزہ چادر چادر خوں\nبستی بستی سہرا سہرا پتھر پتھر خوں\nشیشے میں جو خاک تھی وہ بھی ہو گیء خون کی دھار\nبھیا کیوں نہیں آے۔۔۔\n<<DIVIDER>>\nجیسے کسی برچھی کی چبھن محسوس ہو سینے میں\nرونے لگتی ہے ایک بی بی اب بھی مدینے میں\nسنتے ہی عامر کی زباں سے نیر کے اشعار\nبھیا کیوں نہیں آے۔۔۔",
+  "styling": [
+    {
+      "insert": "پوچھ رہی ہے کربوبلا کے رستوں سے بیمار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا کیوں نہیں آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون رلاتے ہیں مجھکو یثرب کے در و دیوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا کیوں نہیں آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھوں سے اوجھل نہیں ہوتا چہرہ اکبر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈتی رہتی ہوں خوابوں میں سہرا اکبر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹوٹ کے روز بکھر جاتے ہیں آنسوؤں کے ہار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا کیوں نہیں آے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے فلک پر چاند نظر آیا ہے محرم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگتا ہے مجھکو عرش بھی جیسے فرش ہو ماتم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند کے پیچھے جیسے چھپی ہو برچھی اور تلوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا کیوں نہیں آے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے یہ دعا اے مالک میرا باب الخیر سے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غیر نہ لے سہرای درندے دلدل خیر سے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھے نہیں حالات بھی شاید کوفے کے اس پار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا کیوں نہیں آے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا ہوی آخر مجھ سے خطا معلوم تو ہو مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پای ہے کیوں فرقت کی سزا معلوم تو ہو مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روٹھ گیا مجبور بہن سے کیوں بیرن کا پیار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا کیوں نہیں آے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخط بھیجا اور قاصد سے سندیس بھی کہہ لایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی مجھ برہن کا کسی کو دھیان نہیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھول گیا پردیس میں جا کر مجھکو میرا پریوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا کیوں نہیں آے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہار گیء میں قسمت کی تحریریں جیت گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راستہ تکتے تکتے دو دو عیدیں بیت گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو نہ سکا ہمشکل نبی کے چہرے کا دیدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا کیوں نہیں آے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے بتاؤں کتنا کٹھن ہے ہجر کا غم بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چومتی رہتی ہوں میں تیرے نقش قدم بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈر ہے مٹ جائے نہ کہیں ان قدموں کے آثار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا کیوں نہیں آے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے مالک پردیسی کنبے کی خیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہنوں کے ماؤں کے پھپھیوں کے پردے کی خیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خواب میں میں نے دیکھے ہیں کچھ پتھر اور بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا کیوں نہیں آے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھ رہی ہوں نیزہ نیزہ چادر چادر خوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بستی بستی سہرا سہرا پتھر پتھر خوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیشے میں جو خاک تھی وہ بھی ہو گیء خون کی دھار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا کیوں نہیں آے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجیسے کسی برچھی کی چبھن محسوس ہو سینے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے لگتی ہے ایک بی بی اب بھی مدینے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنتے ہی عامر کی زباں سے نیر کے اشعار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا کیوں نہیں آے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Nayyar Jalalpuri",
   "anjumans": [],
   "verified": false

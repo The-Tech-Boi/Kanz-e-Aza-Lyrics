@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u1215",
-  "title": "Ek bemaar ko tum",
+  "title": "ایک بیمار کو تم",
   "body": "ایک بیمار کو تم اتنا رلایا نہ کرو\nظالموں آل محمّد کو ستایا نہ کرو\n<<DIVIDER>>\nشدت دھوپ سے عابد کا بدن جلتا ہے\nگرم زنجیر کو تم اتنا ہلایا نہ کرو\nایک بیمار کو تم۔۔۔\n<<DIVIDER>>\nناتواں ہے میرا بیمار یہ زینب نے کہا\nطوق و زنجیر میں عابد کو پھرایا نہ کرو\nایک بیمار کو تم۔۔۔\n<<DIVIDER>>\nدو قدم چلتے ہی بیمار کو غش آتا ہے\nپاؤں میں چھالے ہیں عابد کو چلایا نہ کرو\nایک بیمار کو تم۔۔۔\n<<DIVIDER>>\nنیند بیمار کو آتی ہے بڑی مشکل سے\nبیڑیاں کھینچ کے عابد کو جگایا نہ کرو\nایک بیمار کو تم۔۔۔\n<<DIVIDER>>\nمانگ لو بالی سکینہ سے یہ بچی ہے سخی\nبالیاں کھینچ کے کانوں سے رلایا نہ کرو\nایک بیمار کو تم۔۔۔\n<<DIVIDER>>\nسر کھلے زینب دلگیر ہے بازاروں میں\nبے ردا آل محمّد کو پھرایا نہ کرو\nایک بیمار کو تم۔۔۔\n<<DIVIDER>>\nقید میں پھوٹ کے روتی ہے سکینہ بی بی\nباپ کا سر اسے ہر بار دکھایا نہ کرو\nایک بیمار کو تم۔۔۔\n<<DIVIDER>>\nہاشمی روتے ہیں عرفان سے نوحہ سن کر\nمنکروں رونے دو رونے سے رکایا نہ کرو\nایک بیمار کو تم۔۔۔",
+  "styling": [
+    {
+      "insert": "ایک بیمار کو تم اتنا رلایا نہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالموں آل محمّد کو ستایا نہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشدت دھوپ سے عابد کا بدن جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرم زنجیر کو تم اتنا ہلایا نہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بیمار کو تم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nناتواں ہے میرا بیمار یہ زینب نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طوق و زنجیر میں عابد کو پھرایا نہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بیمار کو تم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدو قدم چلتے ہی بیمار کو غش آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاؤں میں چھالے ہیں عابد کو چلایا نہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بیمار کو تم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیند بیمار کو آتی ہے بڑی مشکل سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیڑیاں کھینچ کے عابد کو جگایا نہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بیمار کو تم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمانگ لو بالی سکینہ سے یہ بچی ہے سخی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالیاں کھینچ کے کانوں سے رلایا نہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بیمار کو تم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر کھلے زینب دلگیر ہے بازاروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا آل محمّد کو پھرایا نہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بیمار کو تم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقید میں پھوٹ کے روتی ہے سکینہ بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کا سر اسے ہر بار دکھایا نہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بیمار کو تم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاشمی روتے ہیں عرفان سے نوحہ سن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منکروں رونے دو رونے سے رکایا نہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بیمار کو تم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Zain-ul-Abedeen (a.s)",
+  "subcategory": "مولا سجّاد (ع)",
   "author": "Alamdar Hashmi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,278 @@
 {
   "remoteId": "g2611_u1420",
-  "title": "Har gham ki khabar",
+  "title": "ہر غم کی خبر",
   "body": "بابا کو سکینہ تیرے ہر غم کی خبر ہے\nنیزے کی انی پر ہے مگر تجھ پہ نظر ہے\n<<DIVIDER>>\nتکلیف تیری نور نظر دیکھ رہا ہوں\nدیکھا نہیں جاتا ہے مگر دیکھ رہا ہوں\nاس غم سے میری روح تلک خاک بسر ہے\nبابا کو سکینہ تیرے۔۔۔\n<<DIVIDER>>\nکانوں سے ٹپکتے ہیں تیرے خون کے خطرے\nیہ دیکھ کے ہوتا ہے کلیجہ میرا ٹکڑے\nآنسوں نہیں آنکھوں میں میرا خون جگر ہے\nبابا کو سکینہ تیرے۔۔۔\n<<DIVIDER>>\nمیں دیکھ رہا ہوں تیری گردن میں رسن کو\nکیا کیا نہ اذیت ہے تیرے گل سے بدن کو\nگھبرا کے نہ مر جاۓ مصائب سے یہ ڈر ہے\nبابا کو سکینہ تیرے۔۔۔\n<<DIVIDER>>\nدربار میں خوش ہوکے چلی جانا سکینہ\nبابا کی قسم تجھکو نہ گھبرانا سکینہ\nنیزے پہ پریشان تیرے باپ کا سر ہے\nبابا کو سکینہ تیرے۔۔۔\n<<DIVIDER>>\nاب تیرے مقدر میں کہاں شہر مدینہ\nاے بیٹی سیکھ لے زندان میں جینا\nاے لختِ جگر آج سے تیرا یہی گھر ہے\nبابا کو سکینہ تیرے۔۔۔\n<<DIVIDER>>\nعباس کی سنگت ہے یہ احوالِ سکینہ\nعرفان بیاں کیسے کرے ہاے سکینہ\nدل ہلتا ہے اختر تیرے نوحے میں اثر ہے\nبابا کو سکینہ تیرے۔۔۔",
+  "styling": [
+    {
+      "insert": "بابا کو سکینہ تیرے ہر غم کی خبر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے کی انی پر ہے مگر تجھ پہ نظر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتکلیف تیری نور نظر دیکھ رہا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا نہیں جاتا ہے مگر دیکھ رہا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس غم سے میری روح تلک خاک بسر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو سکینہ تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکانوں سے ٹپکتے ہیں تیرے خون کے خطرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دیکھ کے ہوتا ہے کلیجہ میرا ٹکڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنسوں نہیں آنکھوں میں میرا خون جگر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو سکینہ تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں دیکھ رہا ہوں تیری گردن میں رسن کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کیا نہ اذیت ہے تیرے گل سے بدن کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھبرا کے نہ مر جاۓ مصائب سے یہ ڈر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو سکینہ تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدربار میں خوش ہوکے چلی جانا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کی قسم تجھکو نہ گھبرانا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ پریشان تیرے باپ کا سر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو سکینہ تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب تیرے مقدر میں کہاں شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بیٹی سیکھ لے زندان میں جینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لختِ جگر آج سے تیرا یہی گھر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو سکینہ تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس کی سنگت ہے یہ احوالِ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عرفان بیاں کیسے کرے ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل ہلتا ہے اختر تیرے نوحے میں اثر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو سکینہ تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Akhtar Sirsvi",
   "anjumans": [],
   "verified": false

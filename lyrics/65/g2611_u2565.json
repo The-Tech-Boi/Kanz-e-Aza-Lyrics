@@ -1,12 +1,446 @@
 {
   "remoteId": "g2611_u2565",
-  "title": "Neend kya khaak",
+  "title": "نیند کیا خاک",
   "body": "شام کے گھپ اَندھیرے میں سکینہ کی فغاں تھی\n<<DIVIDER>>\nآپ کے سینہ تو تیروں سے بھرا ہے\nنیند کیا خاک پہ آے گی بابا\n<<DIVIDER>>\nماں کی آغوش یا آغوش پدر بھاتی ہے\nنیند بچوں کو اندھیرے میں کہاں آتی ہے\nیاد سینے کی ستاے گی بابا\nآپ کے سینہ تو۔۔۔\nنیند کیا خاک پہ۔۔۔\n<<DIVIDER>>\nآگ اور خون کے ماحول سے گھبرای ہوں\nاس لےء آپ کے لاشے پہ چلی آی ہوں\nکچھ کمی درد میں آے گی بابا\nآپ کے سینہ تو۔۔۔\nنیند کیا خاک پہ۔۔۔\n<<DIVIDER>>\nاب دہکتے ہوے صحرا کو کہوں گی بستر\nمیرا تکیہ ہے یہ پتھر تو فلک ہے چادر\nہاں یہ غربت ہی رلاے گی بابا\nآپ کے سینہ تو۔۔۔\nنیند کیا خاک پہ۔۔۔\n<<DIVIDER>>\nآپ روٹھے تو مقدر بھی میرا روٹھ گیا\nہو گیا ٹکڑے جگر غم سے یہ دل ٹوٹ گیا\nزندگی چین نہ پاے گی بابا\nآپ کے سینہ تو۔۔۔\nنیند کیا خاک پہ۔۔۔\n<<DIVIDER>>\nکیا اسی دن کے لیےء رب سے مجھے مانگا تھا\nوقت مشکل میں اکیلا جو مجھے چھوڑ دیا\nاب سکینہ کہاں جاے گی بابا\nآپ کے سینہ تو۔۔۔\nنیند کیا خاک پہ۔۔۔\n<<DIVIDER>>\nتم تڑپ جاتے سکینہ جو کبھی روتی تھی\nآہ کرتی تھی میں تکلیف تمہیں ہوتی تھی\nاک ایک بات رلاے گی بابا\nآپ کے سینہ تو۔۔۔\nنیند کیا خاک پہ۔۔۔\n<<DIVIDER>>\nہر دفعہ مجھکو ہی سینے پہ سلایا بابا\nآج کیوں تیروں کو سینے پہ سلایا بابا\nنہ سکینہ یہ بھلاے گی بابا\nآپ کے سینہ تو۔۔۔\nنیند کیا خاک پہ۔۔۔\n<<DIVIDER>>\nکیسے فرحان یہ روداد لکھے گا مظہر\nباپ سے کہتی تھی مقتل میں سکینہ رو کر\nبات یہ مجھکو جگاے گی بابا\nآپ کے سینہ تو۔۔۔\nنیند کیا خاک پہ۔۔۔",
+  "styling": [
+    {
+      "insert": "شام کے گھپ اَندھیرے میں سکینہ کی فغاں تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کے سینہ تو تیروں سے بھرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند کیا خاک پہ آے گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں کی آغوش یا آغوش پدر بھاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند بچوں کو اندھیرے میں کہاں آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد سینے کی ستاے گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے سینہ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند کیا خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآگ اور خون کے ماحول سے گھبرای ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس لےء آپ کے لاشے پہ چلی آی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ کمی درد میں آے گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے سینہ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند کیا خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب دہکتے ہوے صحرا کو کہوں گی بستر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا تکیہ ہے یہ پتھر تو فلک ہے چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ غربت ہی رلاے گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے سینہ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند کیا خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ روٹھے تو مقدر بھی میرا روٹھ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیا ٹکڑے جگر غم سے یہ دل ٹوٹ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندگی چین نہ پاے گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے سینہ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند کیا خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا اسی دن کے لیےء رب سے مجھے مانگا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقت مشکل میں اکیلا جو مجھے چھوڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سکینہ کہاں جاے گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے سینہ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند کیا خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم تڑپ جاتے سکینہ جو کبھی روتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہ کرتی تھی میں تکلیف تمہیں ہوتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ایک بات رلاے گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے سینہ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند کیا خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر دفعہ مجھکو ہی سینے پہ سلایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج کیوں تیروں کو سینے پہ سلایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ سکینہ یہ بھلاے گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے سینہ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند کیا خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے فرحان یہ روداد لکھے گا مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ سے کہتی تھی مقتل میں سکینہ رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بات یہ مجھکو جگاے گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے سینہ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند کیا خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u3061",
-  "title": "Sheh na khanjar pe",
+  "title": "شہ نہ خنجر پہ",
   "body": "شہ نہ خنجر پہ نہ شہ خستہ تنی پر روے\nاپنے قاتل کی مگر ذود ہسی پر روے\n<<DIVIDER>>\nاپنے زخموں کو کہاں روے کریم ابنِ کریم\nجس کسی نے بھی دیا زخم اسی پر روے\nاپنے قاتل کی مگر۔۔۔\nشہ نہ خنجر پہ۔۔۔\n<<DIVIDER>>\nاپنے پیرہن خستہ کا کوئی غم نہ کیا\nحاکم شام کی بے پیرہنی پر روے\nاپنے قاتل کی مگر۔۔۔\nشہ نہ خنجر پہ۔۔۔\n<<DIVIDER>>\nمل کے چہرے پہ خود اپنے علی اصغر کا لہو\nقاتل دین تیری دنیا طلبی پر روے\nاپنے قاتل کی مگر۔۔۔\nشہ نہ خنجر پہ۔۔۔\n<<DIVIDER>>\nدل اکبر کی قاسم ہاے سناں ابنِ انس\nکھینچ کر برچھی تیری سنگ دلی پر روے\nاپنے قاتل کی مگر۔۔۔\nشہ نہ خنجر پہ۔۔۔\n<<DIVIDER>>\nکر کے ماتم تو کرے غربت شہ کا ماتم\nکوئی روے تو حسین ابنِ علی روے\nاپنے قاتل کی مگر۔۔۔\nشہ نہ خنجر پہ۔۔۔\n<<DIVIDER>>\nانکی ہی نظروں سے دیکھا کیےء گرتے انکو\nجب حسین انکی کسی بے ادبی پر روے\nاپنے قاتل کی مگر۔۔۔\nشہ نہ خنجر پہ۔۔۔\n<<DIVIDER>>\nتیر جس نے بھی کہیں تولا چلانے کے لئے\nکر کے حجت کو تمام اسکی کجی پر روے\nاپنے قاتل کی مگر۔۔۔\nشہ نہ خنجر پہ۔۔۔\n<<DIVIDER>>\nاپنے اصحاب سے ایک شام اٹھا کر بیعت\nابنِ مرجانا کی بیعت طلبی پر روے\nاپنے قاتل کی مگر۔۔۔\nشہ نہ خنجر پہ۔۔۔\n<<DIVIDER>>\nخون اصغر کا بہا کر بھی نہ سنبھلے جو نوید\nکیوں خدا نہ بے انکی بے راہ روی پر روے\nاپنے قاتل کی مگر۔۔۔\nشہ نہ خنجر پہ۔۔۔",
+  "styling": [
+    {
+      "insert": "شہ نہ خنجر پہ نہ شہ خستہ تنی پر روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے قاتل کی مگر ذود ہسی پر روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے زخموں کو کہاں روے کریم ابنِ کریم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کسی نے بھی دیا زخم اسی پر روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے قاتل کی مگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ نہ خنجر پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے پیرہن خستہ کا کوئی غم نہ کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حاکم شام کی بے پیرہنی پر روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے قاتل کی مگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ نہ خنجر پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمل کے چہرے پہ خود اپنے علی اصغر کا لہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاتل دین تیری دنیا طلبی پر روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے قاتل کی مگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ نہ خنجر پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل اکبر کی قاسم ہاے سناں ابنِ انس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھینچ کر برچھی تیری سنگ دلی پر روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے قاتل کی مگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ نہ خنجر پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکر کے ماتم تو کرے غربت شہ کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی روے تو حسین ابنِ علی روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے قاتل کی مگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ نہ خنجر پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانکی ہی نظروں سے دیکھا کیےء گرتے انکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب حسین انکی کسی بے ادبی پر روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے قاتل کی مگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ نہ خنجر پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیر جس نے بھی کہیں تولا چلانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر کے حجت کو تمام اسکی کجی پر روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے قاتل کی مگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ نہ خنجر پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے اصحاب سے ایک شام اٹھا کر بیعت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابنِ مرجانا کی بیعت طلبی پر روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے قاتل کی مگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ نہ خنجر پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون اصغر کا بہا کر بھی نہ سنبھلے جو نوید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں خدا نہ بے انکی بے راہ روی پر روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے قاتل کی مگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ نہ خنجر پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Ahmed Naved",
   "anjumans": [],
   "verified": false

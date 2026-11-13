@@ -1,12 +1,522 @@
 {
   "remoteId": "g2611_u2271",
-  "title": "Mar gaya sher darya",
+  "title": "مر گیا شیر دریا",
   "body": "مر گیا شیر دریا پہ جا کر\nرن میں کسکو پکارے گی زینب\nدلبر فاطمہ تیرے صدقے\nتجھکو کیسے بچاے گی زینب\n<<DIVIDER>>\nتھی جس سے قلب کو قوت گزر گیا ہاے ہاے\nنگاہیں ڈھونڈ رہی ہے کدھر گیا ہاے ہاے\nلب فرات میرا شیر مر گیا ہاے ہاے\nاپنے بھای کو أہل ستم سے\nہاے کیسے بچاے گی زینب\nمر گیا شیر دریا پہ۔۔۔\n<<DIVIDER>>\nہجوم اہلِ ستم اور علی کا نور نظر\nسپاہ شام کے لشکر میں مصطفٰی کا قمر\nحد نگاہ تلک اہلِ ظلم اہلِ شر\nاس قیامت میں افسوس کس کو\nشہ کا مونس بناے گی زینب\nمر گیا شیر دریا پہ۔۔۔\n<<DIVIDER>>\nعجیب یاس سے تکتی ہے چہرہء سرور\nنہ بھای بھانجے بیٹے نہ مونس و یاور\nنہ اب ہے عون و محمد نہ قاسم و جعفر\nبہر امداد غربت میں غازی\nبولو کس کو بلاے گی زینب\nمر گیا شیر دریا پہ۔۔۔\n<<DIVIDER>>\nفضاے نہر حرم کی صدا سے گونجتی ہے\nچلے بھی آؤ کہ آل رسول پیاسی ہے\nتڑپ کے زینب ناشاد بس یہ کہتی ہے\nہے یتیم بعد تیرے برادر\nبھای کو رو نہ پاے گی زینب\nمر گیا شیر دریا پہ۔۔۔\n<<DIVIDER>>\nمیرے جری تیری غیرت کو ہے سلام میرا\nتجھے غریب برادر کا کتنا دھیان رہا\nجنازہ شہ کو نہ لانے دیا سوے خیمہ\nاتنا بتلا دے کیسے تیرا غم\nاپنے دل پہ اٹھاے گی زینب\nمر گیا شیر دریا پہ۔۔۔\n<<DIVIDER>>\nقوی تھے تیرے ہی دم سے امام کے بازو\nہوے ہیں خم تیری فرقت سے زیست کے گیسوں\nشکستہ ہو گیا امید آل کا پہلو\nاب تیرے بعد وعدہ ہے تجھ سے\nلاش اکبر اٹھاے گی زینب\nمر گیا شیر دریا پہ۔۔۔\n<<DIVIDER>>\nردا بھی سر پہ نہ ہوے گی اے میرے صفدر\nہجوم درد و الم اور قلب خستہ جگر\nہر ایک قدم نیء مشکل جفا شعار کا ڈر\nایسے عالم میں اتنا بتا دو\nشام کس طرح جاے گی زینب\nمر گیا شیر دریا پہ۔۔۔\n<<DIVIDER>>\nنگاہیں پھیر لی کیوں کر میرے غیور جری\nاٹھو اٹھو زرا اٹھکر خبر لو تم بھی کہیں\nصداے دایم و یزداں لب غریب پہ تھی\nبعد تیرے نشان مظالم\nہاے کس کو دکھاے گی زینب\nمر گیا شیر دریا پہ۔۔۔",
+  "styling": [
+    {
+      "insert": "مر گیا شیر دریا پہ جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رن میں کسکو پکارے گی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دلبر فاطمہ تیرے صدقے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھکو کیسے بچاے گی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھی جس سے قلب کو قوت گزر گیا ہاے ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نگاہیں ڈھونڈ رہی ہے کدھر گیا ہاے ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لب فرات میرا شیر مر گیا ہاے ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بھای کو أہل ستم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے کیسے بچاے گی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیا شیر دریا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہجوم اہلِ ستم اور علی کا نور نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سپاہ شام کے لشکر میں مصطفٰی کا قمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حد نگاہ تلک اہلِ ظلم اہلِ شر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس قیامت میں افسوس کس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کا مونس بناے گی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیا شیر دریا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعجیب یاس سے تکتی ہے چہرہء سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ بھای بھانجے بیٹے نہ مونس و یاور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ اب ہے عون و محمد نہ قاسم و جعفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہر امداد غربت میں غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولو کس کو بلاے گی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیا شیر دریا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفضاے نہر حرم کی صدا سے گونجتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے بھی آؤ کہ آل رسول پیاسی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپ کے زینب ناشاد بس یہ کہتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یتیم بعد تیرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کو رو نہ پاے گی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیا شیر دریا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے جری تیری غیرت کو ہے سلام میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھے غریب برادر کا کتنا دھیان رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنازہ شہ کو نہ لانے دیا سوے خیمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا بتلا دے کیسے تیرا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے دل پہ اٹھاے گی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیا شیر دریا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقوی تھے تیرے ہی دم سے امام کے بازو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوے ہیں خم تیری فرقت سے زیست کے گیسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکستہ ہو گیا امید آل کا پہلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تیرے بعد وعدہ ہے تجھ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاش اکبر اٹھاے گی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیا شیر دریا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nردا بھی سر پہ نہ ہوے گی اے میرے صفدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہجوم درد و الم اور قلب خستہ جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک قدم نیء مشکل جفا شعار کا ڈر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے عالم میں اتنا بتا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کس طرح جاے گی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیا شیر دریا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنگاہیں پھیر لی کیوں کر میرے غیور جری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو اٹھو زرا اٹھکر خبر لو تم بھی کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداے دایم و یزداں لب غریب پہ تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد تیرے نشان مظالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے کس کو دکھاے گی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیا شیر دریا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Dayam Najafi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,352 @@
 {
   "remoteId": "g2611_u1632",
-  "title": "Hussain yaad aaye",
+  "title": "حسین یاد آۓ",
   "body": "اُٹھا جو کوئی جنازہ حسین یاد آۓ\nجو دیکھا کوئی بھی پیاسا حسین یاد آۓ\n<<DIVIDER>>\nچھری چلانے سے پہلے کسی ذبیحے پر\nجب اس کو پانی پلایا حسین یاد آۓ\nاُٹھا جو کوئی جنازہ۔۔۔\n<<DIVIDER>>\nوہ جس کا کوئی بھی وارث نہیں تھا دنیا میں\nکفن جب اس نے بھی پایا حسین یاد آۓ\nاُٹھا جو کوئی جنازہ۔۔۔\n<<DIVIDER>>\nکسی یتیمہ کو میت سے اس کے بابا کی\nجو پیار کرکے ہٹایا حسین یاد آۓ\nاُٹھا جو کوئی جنازہ۔۔۔\n<<DIVIDER>>\nنظر میں پھر گیا کڑیل جوان کا لاشہ\nکسی نے باندھا جو سہرا حسین یاد آۓ\nاُٹھا جو کوئی جنازہ۔۔۔\n<<DIVIDER>>\nجوان بھائی کے لاشے کو ایک بھائی نے\nجو رو کے سینے لگایا حسین یاد آۓ\nاُٹھا جو کوئی جنازہ۔۔۔\n<<DIVIDER>>\nخوشی کہاں ہوئی صغریٰ کا درد اور بڑھا\nجو چاند عید کا دیکھا حسین یاد آۓ\nاُٹھا جو کوئی جنازہ۔۔۔\n<<DIVIDER>>\nپکڑ کے باپ کا دامن کسی بھی بچی نے\nنا جائیں بابا جو بولا حسین یاد آۓ\nاُٹھا جو کوئی جنازہ۔۔۔\n<<DIVIDER>>\nمیرا پسر ہوا جس روز چھہ مہینے کا\nبتاؤں کیسے میں کتنا حسین یاد آۓ\nاُٹھا جو کوئی جنازہ۔۔۔\n<<DIVIDER>>\nلپٹ لپٹ گئی تربت سے ثانی زہرا\nبنی جو قبرِ سکینہ حسین یاد آۓ\nاُٹھا جو کوئی جنازہ۔۔۔\n<<DIVIDER>>\nہمیشہ کرب و بلا کے سفر پہ اے سجاد\nگلے جو ماں نے لگایا حسین یاد آۓ\nاُٹھا جو کوئی جنازہ۔۔۔",
+  "styling": [
+    {
+      "insert": "اُٹھا جو کوئی جنازہ حسین یاد آۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو دیکھا کوئی بھی پیاسا حسین یاد آۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھری چلانے سے پہلے کسی ذبیحے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب اس کو پانی پلایا حسین یاد آۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھا جو کوئی جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ جس کا کوئی بھی وارث نہیں تھا دنیا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کفن جب اس نے بھی پایا حسین یاد آۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھا جو کوئی جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکسی یتیمہ کو میت سے اس کے بابا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو پیار کرکے ہٹایا حسین یاد آۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھا جو کوئی جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنظر میں پھر گیا کڑیل جوان کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی نے باندھا جو سہرا حسین یاد آۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھا جو کوئی جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجوان بھائی کے لاشے کو ایک بھائی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو رو کے سینے لگایا حسین یاد آۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھا جو کوئی جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوشی کہاں ہوئی صغریٰ کا درد اور بڑھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو چاند عید کا دیکھا حسین یاد آۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھا جو کوئی جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپکڑ کے باپ کا دامن کسی بھی بچی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نا جائیں بابا جو بولا حسین یاد آۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھا جو کوئی جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا پسر ہوا جس روز چھہ مہینے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتاؤں کیسے میں کتنا حسین یاد آۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھا جو کوئی جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلپٹ لپٹ گئی تربت سے ثانی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنی جو قبرِ سکینہ حسین یاد آۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھا جو کوئی جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہمیشہ کرب و بلا کے سفر پہ اے سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلے جو ماں نے لگایا حسین یاد آۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھا جو کوئی جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mir Sajjad Mir",
   "anjumans": [],
   "verified": false

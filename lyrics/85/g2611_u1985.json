@@ -1,7 +1,468 @@
 {
   "remoteId": "g2611_u1985",
-  "title": "Khafila gharibon ka",
+  "title": "قافلہ غریبوں کا",
   "body": "قافلہ غریبوں کا قید ہوکے جاتا ہے\n<<DIVIDER>>\nکیسا وقت بدلہ ہے کیسا یہ زمانہ ہے\nکون کس کو بتلاے کس کا یہ گھرانہ ہے\nبے کجاوا اونٹوں پر کارواں روانہ ہے\nعرش جس کا مسکن تھا اب وہ بے ٹھکانہ ہے\nقافلہ غریبوں کا۔۔۔\n<<DIVIDER>>\nآفتاب کے رخ پر تیرگی سی چھائی ہے\nکربلا کی دھرتی کے لب پہ بھی دہائی ہے\nتشنگی شہیدوں کی خوں میں نہائی ہے\nبیکفن ہے سب لاشے پاس ہی ترای ہے\nقافلہ غریبوں کا۔۔۔\n<<DIVIDER>>\nاب نہ آے گا لب پر پھر سوال پانی کا\nعلقمہ پشیمان ہے شرمسار مشکیزہ\nاور کنارے دریا کے مضطرب ہے اک لاشہ\nرخ پہ ہے یتیمی کے تشنگی کا سناٹا\nقافلہ غریبوں کا۔۔۔\n<<DIVIDER>>\nایک یتیم بچی کے زخم کتنے گہرے ہیں\nکمسنی کی راہوں میں کتنے ظلم ٹہرے ہیں\nسوے کیسے آنکھوں میں ظالموں کے چہرے ہیں\nآنکھ رو نہیں سکتی آنسوؤں پہ پہرے ہیں\nقافلہ غریبوں کا۔۔۔\n<<DIVIDER>>\nسب نشانیاں جل کر خاک میں ہوی مسمار\nگرم راخ میں کوئی ڈھونڈتا ہے کچھ آثار\nاب نہ خالی جھولا ہے اور نہ بستر بیمار\nبیکسوں پہ ہر لمحہ زندگی ہوی دشوار\nقافلہ غریبوں کا۔۔۔\n<<DIVIDER>>\nتشنگی ہے غربت ہے بیکس ہے آہیں ہے\nدشت ہے اسیری ہے اور زخمی راہیں ہے\nچادریں نہیں سر پر مضطرب نگاہیں ہے\nجستجو میں بچوں کی مامتا کی باہیں ہے\nقافلہ غریبوں کا۔۔۔\n<<DIVIDER>>\nپاے صبر میں کانٹے راستوں کے دستے ہیں\nدشت میں اسیری کے آبلے سسکتے ہیں\nدھوپ کی تمازت سے سارے زخم جلتے ہیں\nچشمِ نم سے بہنے کو اشک بھی ترستے ہیں\nقافلہ غریبوں کا۔۔۔\n<<DIVIDER>>\nاضطراب ہے کتنا دشت کی ہواؤں میں\nکیوں لہو امڈتا ہے بیکسی کی آنکھوں میں\nہر طرف دھواں کیوں ہے تشنگی کی آہوں میں\nکس قدر ہے تنہائی مامتا کی باہوں میں\nقافلہ غریبوں کا۔۔۔\n<<DIVIDER>>\nگر رشید تربت میں زندگی کی حاجت ہے\nقلب کے دھڑکنے کو اشک کی ضرورت ہے\nکربلا کے پیاسوں کا غم بڑی عبادت ہے\nزخم ماتم شہ کا روح کی طہارت ہے\nقافلہ غریبوں کا۔۔۔",
+  "styling": [
+    {
+      "insert": "قافلہ غریبوں کا قید ہوکے جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسا وقت بدلہ ہے کیسا یہ زمانہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون کس کو بتلاے کس کا یہ گھرانہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے کجاوا اونٹوں پر کارواں روانہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عرش جس کا مسکن تھا اب وہ بے ٹھکانہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ غریبوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآفتاب کے رخ پر تیرگی سی چھائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کی دھرتی کے لب پہ بھی دہائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تشنگی شہیدوں کی خوں میں نہائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکفن ہے سب لاشے پاس ہی ترای ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ غریبوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب نہ آے گا لب پر پھر سوال پانی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علقمہ پشیمان ہے شرمسار مشکیزہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور کنارے دریا کے مضطرب ہے اک لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخ پہ ہے یتیمی کے تشنگی کا سناٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ غریبوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک یتیم بچی کے زخم کتنے گہرے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کمسنی کی راہوں میں کتنے ظلم ٹہرے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوے کیسے آنکھوں میں ظالموں کے چہرے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھ رو نہیں سکتی آنسوؤں پہ پہرے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ غریبوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب نشانیاں جل کر خاک میں ہوی مسمار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرم راخ میں کوئی ڈھونڈتا ہے کچھ آثار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہ خالی جھولا ہے اور نہ بستر بیمار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسوں پہ ہر لمحہ زندگی ہوی دشوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ غریبوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتشنگی ہے غربت ہے بیکس ہے آہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت ہے اسیری ہے اور زخمی راہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادریں نہیں سر پر مضطرب نگاہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جستجو میں بچوں کی مامتا کی باہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ غریبوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپاے صبر میں کانٹے راستوں کے دستے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت میں اسیری کے آبلے سسکتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دھوپ کی تمازت سے سارے زخم جلتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چشمِ نم سے بہنے کو اشک بھی ترستے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ غریبوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاضطراب ہے کتنا دشت کی ہواؤں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں لہو امڈتا ہے بیکسی کی آنکھوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف دھواں کیوں ہے تشنگی کی آہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس قدر ہے تنہائی مامتا کی باہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ غریبوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگر رشید تربت میں زندگی کی حاجت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلب کے دھڑکنے کو اشک کی ضرورت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کے پیاسوں کا غم بڑی عبادت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم ماتم شہ کا روح کی طہارت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ غریبوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

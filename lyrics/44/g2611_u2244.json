@@ -1,12 +1,419 @@
 {
   "remoteId": "g2611_u2244",
-  "title": "Maidan se lekar",
+  "title": "میدان‌ سے لے کر",
   "body": "عاشور کے دن وہ شور اٹھا\nمیدان‌ سے لے کر خیمے تک\nتھی تیروں کی گھنگھور گھٹا\nمیدان‌ سے لے کر خیمے تک\n<<DIVIDER>>\nاکبر کو اٹھایا جب شہ نے\nاور پاؤں سے وہ خط دیتے چلے\nایک نقش زمیں پر بانٹا گیا\nمیدان‌ سے لے کر۔۔۔\n<<DIVIDER>>\nاکبر کا جنازہ کاندھوں پر\nزہرا کا پسر لایا تو مگر\nسو بار زمیں پر گر کے اٹھا\nمیدان‌ سے لے کر۔۔۔\n<<DIVIDER>>\nہاتھوں پہ اٹھا کر میت کو\nچلتے ہیں کبھی رک جاتے ہیں\nاللہ وہ رستہ کیسے کٹا\nمیدان‌ سے لے کر۔۔۔\n<<DIVIDER>>\nیہ چاند سا چہرہ اصغر کا\nمٹی میں چھپاؤں گا کیسے\nیہ سوچ کے شہ نے پیار کیا\nمیدان‌ سے لے کر۔۔۔\n<<DIVIDER>>\nایک لاش اٹھا کر لاے ہیں\nایک لاش اٹھانے جاتے ہیں\nعاشور کو بس یہ ہوتا رہا\nمیدان‌ سے لے کر۔۔۔\n<<DIVIDER>>\nگھوڑے سے یہ اپنے رو کے کہا\nبن بازؤں والے غازی نے\nاے اسپ مجھے پہنچا دے زرا\nمیدان‌ سے لے کر۔۔۔\n<<DIVIDER>>\nعباس کا لاشہ رو رو کر\nدریا کی ترای پر چھوڑا\nلاے ہے علم شبیر جھکا\nمیدان‌ سے لے کر۔۔۔\n<<DIVIDER>>\nبھای کی شہادت کا لوگوں\nزینب کو یقیں تب آ ہی گیا\nرہوار جو آیا خوں میں بھرا\nمیدان‌ سے لے کر۔۔۔\n<<DIVIDER>>\nجس وقت بھی عامر سرور کا\nنظرانہ کوئی مقبول ہوا\nہر گام پہ عینی شکر کیا\nمیدان‌ سے لے کر۔۔۔",
+  "styling": [
+    {
+      "insert": "عاشور کے دن وہ شور اٹھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان‌ سے لے کر خیمے تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی تیروں کی گھنگھور گھٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان‌ سے لے کر خیمے تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر کو اٹھایا جب شہ نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پاؤں سے وہ خط دیتے چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک نقش زمیں پر بانٹا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان‌ سے لے کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر کا جنازہ کاندھوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کا پسر لایا تو مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو بار زمیں پر گر کے اٹھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان‌ سے لے کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھوں پہ اٹھا کر میت کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتے ہیں کبھی رک جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ وہ رستہ کیسے کٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان‌ سے لے کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ چاند سا چہرہ اصغر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مٹی میں چھپاؤں گا کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سوچ کے شہ نے پیار کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان‌ سے لے کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک لاش اٹھا کر لاے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک لاش اٹھانے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کو بس یہ ہوتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان‌ سے لے کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھوڑے سے یہ اپنے رو کے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن بازؤں والے غازی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے اسپ مجھے پہنچا دے زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان‌ سے لے کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس کا لاشہ رو رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کی ترای پر چھوڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاے ہے علم شبیر جھکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان‌ سے لے کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای کی شہادت کا لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کو یقیں تب آ ہی گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہوار جو آیا خوں میں بھرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان‌ سے لے کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس وقت بھی عامر سرور کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نظرانہ کوئی مقبول ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گام پہ عینی شکر کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان‌ سے لے کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Ainee Rizvi",
   "anjumans": [],
   "verified": false

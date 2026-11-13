@@ -1,12 +1,594 @@
 {
   "remoteId": "g2611_u0174",
-  "title": "Abbas abbas jaati hai",
+  "title": "عباس عباس جاتی ہے",
   "body": "عباس عباس\nجاتی ہے بہن اب بے پردہ\nسقہ سقہ\nاک پیاسی بہن کا سر ہے کھلا\n<<DIVIDER>>\nجب زیں سے گرے بن ہاتھوں کے\nبھیا میرے منہ کے بل تھے پڑے\nکروٹ بھی بدلنا مشکل تھا\nپھر بھی نہ کسی سے لب کھولے\nحالت تیری دیکھے کون بھلا\nسقہ ہے بہن کو یہ صدمہ\nعباس عباس جاتی ہے۔۔۔\n<<DIVIDER>>\nجس طرح وطن سے لاے تھے ہم\nویسے ہی بھلا کیسے جاے\nکیا ظلم ہوے چادر بھی چھنی\nکس طرح حرم چادر پاییں\nاٹھو بھیا اٹھو بھیا\nچادر تو دلادو اے سقہ\nعباس عباس جاتی ہے۔۔۔\n<<DIVIDER>>\nاے شیر تو کتنا پیاس تھا\nزینب کو تیری احساس ہوا\nاور تشنہ دہن بھی مارا گیا\nدو گھونٹ تمہیں پانی نہ ملا\nمشکیزہ چھدا دل ٹوٹ گیا\nپانی نہیں تیرا خون بہا\nعباس عباس جاتی ہے۔۔۔\n<<DIVIDER>>\nجب تک تو رہا زندہ بھیا\nنظریں نہ اٹھاتا تھا کوئی\nزہرا کی میں بیٹی ہوں غازی\nہاں سر پہ میرے چادر نہ رہی\nآ سر پہ میرے سایہ کر دے\nاے بھای میرے پھر سو جانا\nعباس عباس جاتی ہے۔۔۔\n<<DIVIDER>>\nتھی تیری خطا بھی کوئی نہیں\nاور سر پہ تمہارے گرز لگا\nبہنیں روتی ہے یہ کہہ کر\nبھیا کو میرے کس نے مارا\nسنبھلا نہ گیا تم سے زیں پر\nسر خون میں تیرا ڈوب گیا\nعباس عباس جاتی ہے۔۔۔\n<<DIVIDER>>\nلاے تھے وطن سے جس طرح\nاس طرح وطن اب پہنچا دو\nبھیا میری چادر دلوادو\nمحمل میں بھی مجھکو بٹھوا دو\nعباس میرے آ دیکھ زرا\nہے تیری بہن کا شانہ بندھا\nعباس عباس جاتی ہے۔۔۔\n<<DIVIDER>>\nکس میں یہ بھلا جرت آتی\nجو باندھتا شانوں میں رسی\nبھیا میرے زندہ ہوتے اگر\nچادر نہ میرے سر سے لٹتی\nمیں ثانیء زہرا ہوں غازی\nکس طرح رہوں گی بے پردہ\nعباس عباس جاتی ہے۔۔۔\n<<DIVIDER>>\nریحان و مبارک زینب کا\nپردیس میں یوں گھر بار لٹا\nبھای پردیس میں مارے گئے\nشانہ بندھا پردہ لوٹا گیا\nمقتل میں چودہ صدی سے\nہے فاطمہ زہرا کا نوحہ\nعباس عباس جاتی ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتی ہے بہن اب بے پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقہ سقہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک پیاسی بہن کا سر ہے کھلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب زیں سے گرے بن ہاتھوں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا میرے منہ کے بل تھے پڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کروٹ بھی بدلنا مشکل تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی نہ کسی سے لب کھولے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حالت تیری دیکھے کون بھلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقہ ہے بہن کو یہ صدمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس جاتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس طرح وطن سے لاے تھے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویسے ہی بھلا کیسے جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ظلم ہوے چادر بھی چھنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح حرم چادر پاییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو بھیا اٹھو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر تو دلادو اے سقہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس جاتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شیر تو کتنا پیاس تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کو تیری احساس ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور تشنہ دہن بھی مارا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو گھونٹ تمہیں پانی نہ ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشکیزہ چھدا دل ٹوٹ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی نہیں تیرا خون بہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس جاتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب تک تو رہا زندہ بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نظریں نہ اٹھاتا تھا کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی میں بیٹی ہوں غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں سر پہ میرے چادر نہ رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ سر پہ میرے سایہ کر دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بھای میرے پھر سو جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس جاتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھی تیری خطا بھی کوئی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سر پہ تمہارے گرز لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہنیں روتی ہے یہ کہہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا کو میرے کس نے مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنبھلا نہ گیا تم سے زیں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر خون میں تیرا ڈوب گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس جاتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاے تھے وطن سے جس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح وطن اب پہنچا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا میری چادر دلوادو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محمل میں بھی مجھکو بٹھوا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے آ دیکھ زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے تیری بہن کا شانہ بندھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس جاتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس میں یہ بھلا جرت آتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو باندھتا شانوں میں رسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا میرے زندہ ہوتے اگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر نہ میرے سر سے لٹتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ثانیء زہرا ہوں غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح رہوں گی بے پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس جاتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان و مبارک زینب کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس میں یوں گھر بار لٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای پردیس میں مارے گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شانہ بندھا پردہ لوٹا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں چودہ صدی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے فاطمہ زہرا کا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس جاتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mubarak Jalalpuri",
   "anjumans": [],
   "verified": false

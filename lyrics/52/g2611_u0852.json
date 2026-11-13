@@ -1,12 +1,631 @@
 {
   "remoteId": "g2611_u0852",
-  "title": "Bada royi sakina",
+  "title": "بڑا روی سکینہ",
   "body": "ہاں یہ ہے شہر شام\n<<DIVIDER>>\nچھوٹی شہزادی کا ہے یہی ہے قیام\nآج روضے پہ ہے روشنی صبح و شام\nپرسہ داروں کا ہے ماتمی اژدہام\nپھٹ رہا ہے جگر سونچتا ہوں اگر\nکیسا تاریک تھا کیسا ویران تھا\nکیسا ویران تھا کل یہ زندان تھا\nبڑا روی سکینہ یہاں\nہاں یہ ہے شہر شام۔۔۔\n<<DIVIDER>>\nاتنی وحشت کے اک پل نہ گزرے جہاں\nچیختی ہو جہاں صرف تنہائیاں\nرونا کیا سسکیوں پر بھی پابندیاں\nرسیوں بیڑیوں طوق کے درمیاں\nبڑا روی سکینہ یہاں\nہاں یہ ہے شہر شام۔۔۔\n<<DIVIDER>>\nسر کھلے خاک پرغمزدہ بی بیاں\nاس میں قاسم کی اکبر کی اصغر کی ماں\nمانگ اجڑی ہوی خالی تھی گودیاں\nسب کی ہمت بندھاتی تھی زینب جہاں\nبڑا روی سکینہ یہاں\nہاں یہ ہے شہر شام۔۔۔\n<<DIVIDER>>\nہاں اسی شام کے بیچ بازار میں\nبی بیاں پتھروں کی تھی بوچھار میں\nخوں میں ڈوبی محمد کی تھی بیٹیاں\nہر طرف شام میں جشن کا تھا سماں\nبڑا روی سکینہ یہاں\nہاں یہ ہے شہر شام۔۔۔\n<<DIVIDER>>\nدیکھ کر بنت زہرا کا یوں سر کھلا\nنوکِ نیزہ سے غازی کا سر گر گیا\nہاے غازی کی غیرت کا یہ امتحاں\nسر پٹکنے لگی ساری شہزادیاں\nبڑا روی سکینہ یہاں\nہاں یہ ہے شہر شام۔۔۔\n<<DIVIDER>>\nاک قیامت سی دربار میں آ گیء\nجب سکینہ کنیزی میں مانگی گیء\nنہ پدر نہ چچا بھای بھی ناتواں\nتوڑی سجاد نے غیض میں بیڑیاں\nبڑا روی سکینہ یہاں\nہاں یہ ہے شہر شام۔۔۔\n<<DIVIDER>>\nدختر ہند بولی سکینہ بتا\nکیسے دامن جلا کیوں ہے کرتہ پھٹا\nاوڑھنی تیری سر کی گیء ہے کہاں\nکھینچی ہے کس شقی نے تیری بالیاں\nبڑا روی سکینہ یہاں\nہاں یہ ہے شہر شام۔۔۔\n<<DIVIDER>>\nبولی کیا حال اپنا بتاؤں تجھے\nچھوڑ کے جب سے بابا گےء ہیں مجھے\nمیں یتیم ہو گیء اور کیا ہو بیاں\nمیری گردن میں باندھی گیء رسیاں\nبڑا روی سکینہ یہاں\nہاں یہ ہے شہر شام۔۔۔\n<<DIVIDER>>\nاور اک روز زندان رونے لگا\nجب سکینہ کو بابا کا سر مل گیا\nبولی اب آے ہو تم میرے بابا جاں\nاتنے دن دور مجھ سے رہے ہو کہاں\nبڑا روی سکینہ یہاں\nہاں یہ ہے شہر شام۔۔۔\n<<DIVIDER>>\nروی ریحان و سرور کی آنکھیں لہو\nروضہء شاہزادی پہ کی گفتگو\nہاے اس وقت ہم تم کھڑے ہے جہاں\nنور ہی نور ہے کل تھی تاریکیاں\nبڑا روی سکینہ یہاں\nہاں یہ ہے شہر شام۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاں یہ ہے شہر شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھوٹی شہزادی کا ہے یہی ہے قیام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج روضے پہ ہے روشنی صبح و شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ داروں کا ہے ماتمی اژدہام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھٹ رہا ہے جگر سونچتا ہوں اگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا تاریک تھا کیسا ویران تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا ویران تھا کل یہ زندان تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑا روی سکینہ یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ ہے شہر شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاتنی وحشت کے اک پل نہ گزرے جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چیختی ہو جہاں صرف تنہائیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونا کیا سسکیوں پر بھی پابندیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسیوں بیڑیوں طوق کے درمیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑا روی سکینہ یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ ہے شہر شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر کھلے خاک پرغمزدہ بی بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس میں قاسم کی اکبر کی اصغر کی ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانگ اجڑی ہوی خالی تھی گودیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کی ہمت بندھاتی تھی زینب جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑا روی سکینہ یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ ہے شہر شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاں اسی شام کے بیچ بازار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بیاں پتھروں کی تھی بوچھار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں میں ڈوبی محمد کی تھی بیٹیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف شام میں جشن کا تھا سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑا روی سکینہ یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ ہے شہر شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھ کر بنت زہرا کا یوں سر کھلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ نیزہ سے غازی کا سر گر گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے غازی کی غیرت کا یہ امتحاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پٹکنے لگی ساری شہزادیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑا روی سکینہ یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ ہے شہر شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک قیامت سی دربار میں آ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سکینہ کنیزی میں مانگی گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پدر نہ چچا بھای بھی ناتواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "توڑی سجاد نے غیض میں بیڑیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑا روی سکینہ یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ ہے شہر شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدختر ہند بولی سکینہ بتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے دامن جلا کیوں ہے کرتہ پھٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اوڑھنی تیری سر کی گیء ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھینچی ہے کس شقی نے تیری بالیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑا روی سکینہ یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ ہے شہر شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبولی کیا حال اپنا بتاؤں تجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ کے جب سے بابا گےء ہیں مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں یتیم ہو گیء اور کیا ہو بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری گردن میں باندھی گیء رسیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑا روی سکینہ یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ ہے شہر شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاور اک روز زندان رونے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سکینہ کو بابا کا سر مل گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولی اب آے ہو تم میرے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنے دن دور مجھ سے رہے ہو کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑا روی سکینہ یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ ہے شہر شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروی ریحان و سرور کی آنکھیں لہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روضہء شاہزادی پہ کی گفتگو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اس وقت ہم تم کھڑے ہے جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نور ہی نور ہے کل تھی تاریکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑا روی سکینہ یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ ہے شہر شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

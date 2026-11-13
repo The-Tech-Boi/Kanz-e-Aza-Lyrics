@@ -1,7 +1,450 @@
 {
   "remoteId": "g2611_u1252",
-  "title": "Farshe majlis pe",
+  "title": "فرش مجلس پہ",
   "body": "اے عزادار شاہ کربوبلا\nفرش مجلس پہ آگیء زہرا\n<<DIVIDER>>\nتم سے لینے حسین کا پرسہ\nفرش مجلس پہ آگیء زہرا\n<<DIVIDER>>\nکیا یہ کافی نہیں ہے رونے کو\nاپنی چشمِ عزا سے تم دیکھو\nلیکے اک خوں بھرا کرتہ\nفرش مجلس پہ آگیء زہرا\nاے عزادار شاہ۔۔۔\n<<DIVIDER>>\nبوندھ پانی نہیں ملا اس کو\nآج تک بھی حسین پیاسا ہے\nاپنی آنکھوں سے دو انہیں دریا\nفرش مجلس پہ آگیء زہرا\nاے عزادار شاہ۔۔۔\n<<DIVIDER>>\nہاتھ پھیلا ہوے ہے بی بی کے\nاک کفن اک ردا کی طالب ہے\nکیا کرے گا انہیں کوئی ہدیہ\nفرش مجلس پہ آگیء زہرا\nاے عزادار شاہ۔۔۔\n<<DIVIDER>>\nہاے وہ عون اور محمد تھے\nجنکے لاشوں پہ ماں نہیں روی\nماں کو بیٹی کے غم کا دو پرسہ\nفرش مجلس پہ آگیء زہرا\nاے عزادار شاہ۔۔۔\n<<DIVIDER>>\nاس کی محوی سجا کے اے لوگوں\nکوئی گھٹڑی بنا کے لے آؤ\nکرنے قاسم کی لاش پر گریہ\nفرش مجلس پہ آگیء زہرا\nاے عزادار شاہ۔۔۔\n<<DIVIDER>>\nآؤ اس پر کرے بپا ماتم\nجس کے سینے میں اک سناں ٹوٹی\nکرنے اکبر کے غم میں واویلا\nفرش مجلس پہ آگیء زہرا\nاے عزادار شاہ۔۔۔\n<<DIVIDER>>\nجس کے لاشے پہ جا کے روی تھی\nجس کے بازو اٹھا کے روی تھی\nکوئی اونچا کرے الم اسکا\nفرش مجلس پہ آگیء زہرا\nاے عزادار شاہ۔۔۔\n<<DIVIDER>>\nیہ عمل خیر بھی کرو یاسر\nتم سے راضی بتول ہو جاے\nتم جھلاو صغیر کا جھولا\nفرش مجلس پہ آگیء زہرا\nاے عزادار شاہ۔۔۔",
+  "styling": [
+    {
+      "insert": "اے عزادار شاہ کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش مجلس پہ آگیء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم سے لینے حسین کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش مجلس پہ آگیء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا یہ کافی نہیں ہے رونے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی چشمِ عزا سے تم دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکے اک خوں بھرا کرتہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش مجلس پہ آگیء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے عزادار شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبوندھ پانی نہیں ملا اس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج تک بھی حسین پیاسا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی آنکھوں سے دو انہیں دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش مجلس پہ آگیء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے عزادار شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھ پھیلا ہوے ہے بی بی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک کفن اک ردا کی طالب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کرے گا انہیں کوئی ہدیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش مجلس پہ آگیء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے عزادار شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے وہ عون اور محمد تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنکے لاشوں پہ ماں نہیں روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں کو بیٹی کے غم کا دو پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش مجلس پہ آگیء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے عزادار شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس کی محوی سجا کے اے لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی گھٹڑی بنا کے لے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرنے قاسم کی لاش پر گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش مجلس پہ آگیء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے عزادار شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآؤ اس پر کرے بپا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے سینے میں اک سناں ٹوٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرنے اکبر کے غم میں واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش مجلس پہ آگیء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے عزادار شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس کے لاشے پہ جا کے روی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے بازو اٹھا کے روی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی اونچا کرے الم اسکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش مجلس پہ آگیء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے عزادار شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ عمل خیر بھی کرو یاسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم سے راضی بتول ہو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم جھلاو صغیر کا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش مجلس پہ آگیء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے عزادار شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

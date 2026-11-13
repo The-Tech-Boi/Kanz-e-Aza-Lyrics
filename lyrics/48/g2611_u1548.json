@@ -1,12 +1,352 @@
 {
   "remoteId": "g2611_u1548",
-  "title": "Honton pe mere",
+  "title": "ہونٹوں پہ میرے",
   "body": "ہونٹوں پہ میرے نامِ علی نامِ علی ہے\nسُن کر جسے مشکل بڑی مشکل میں پڑی ہے\n<<DIVIDER>>\nاپنا تو وہی رب وہی قرآن و نبی ہے\nچودہ سو برس پہلے جو تھا دین وہی ہے\nہونٹوں پہ میرے ۔۔۔\n<<DIVIDER>>\nہے بارہ اماموں کی وہ ہی رہبری اب بھی\nاک بات بھی اس میں نہ بڑی ہے نہ گھٹی ہے\nہونٹوں پہ میرے ۔۔۔\n<<DIVIDER>>\nہے پنجتنِ پاک کسی درسے عبارت\nاپنے لیئے جو راہِ عمل ہم نے چُنی ہے\nہونٹوں پہ میرے ۔۔۔\n<<DIVIDER>>\nماں کہتی تھی قاسم تو سوئے خُلد سدھارے\nکبریٰ کے مقدر میں لکھی در بدری ہے\nہونٹوں پہ میرے ۔۔۔\n<<DIVIDER>>\nبانو کا یہ نوحہ تھاکہ کب آئو گے اصغر\nآغوش میں لینے کو یہ ماں در پہ کھڑی ہے\nہونٹوں پہ میرے ۔۔۔\n<<DIVIDER>>\nگردن سے سکینہ کے کوئی کھول دے رسی\nبچی کا گلا گھٹتاہے اب سانس رُکی ہے\nہونٹوں پہ میرے ۔۔۔\n<<DIVIDER>>\nزینب نے کہا چھوڑ گئی ساتھ سکینہ\nننھی سی لحد شام کے زندان میں بنی ہے\nہونٹوں پہ میرے ۔۔۔\n<<DIVIDER>>\nشہزادی کہی جاتی تھی کوفے میں جو زینب\nبے پردہ وہیں اب سرِ دربار کھڑی ہے\nہونٹوں پہ میرے ۔۔۔\n<<DIVIDER>>\nبیٹی ہے یہ ہی فاطمہ زہر ا و علی کی\nبازاروں میں جو ساتھ چلی جو کے پھری ہے\nہونٹوں پہ میرے ۔۔۔\n<<DIVIDER>>\nیہ ماتمِ شاہِ زیست کا حاصل ہے مجاہد\nدم سینے میں جب تک ہے یہ ہی نوحہ گری ہے\nہونٹوں پہ میرے ۔۔۔",
+  "styling": [
+    {
+      "insert": "ہونٹوں پہ میرے نامِ علی نامِ علی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُن کر جسے مشکل بڑی مشکل میں پڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنا تو وہی رب وہی قرآن و نبی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چودہ سو برس پہلے جو تھا دین وہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونٹوں پہ میرے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے بارہ اماموں کی وہ ہی رہبری اب بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بات بھی اس میں نہ بڑی ہے نہ گھٹی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونٹوں پہ میرے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے پنجتنِ پاک کسی درسے عبارت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے لیئے جو راہِ عمل ہم نے چُنی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونٹوں پہ میرے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں کہتی تھی قاسم تو سوئے خُلد سدھارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبریٰ کے مقدر میں لکھی در بدری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونٹوں پہ میرے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبانو کا یہ نوحہ تھاکہ کب آئو گے اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آغوش میں لینے کو یہ ماں در پہ کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونٹوں پہ میرے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگردن سے سکینہ کے کوئی کھول دے رسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچی کا گلا گھٹتاہے اب سانس رُکی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونٹوں پہ میرے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے کہا چھوڑ گئی ساتھ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھی سی لحد شام کے زندان میں بنی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونٹوں پہ میرے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہزادی کہی جاتی تھی کوفے میں جو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے پردہ وہیں اب سرِ دربار کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونٹوں پہ میرے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹی ہے یہ ہی فاطمہ زہر ا و علی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں جو ساتھ چلی جو کے پھری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونٹوں پہ میرے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ ماتمِ شاہِ زیست کا حاصل ہے مجاہد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم سینے میں جب تک ہے یہ ہی نوحہ گری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونٹوں پہ میرے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Mujahid Lakhnavi",
   "anjumans": [],
   "verified": false

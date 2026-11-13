@@ -1,12 +1,426 @@
 {
   "remoteId": "g2611_u2475",
-  "title": "Mujhe paidal chalna",
+  "title": "مجھے پیدل چلنا",
   "body": "زندان سے رہا ہو کر جس دم\nجب کرب و بلا میں آئے حرم\nناقے سے گری زینب دکھیا\nاور زخمی زخمی رکھتی قدم\nرو کر غازی سے کہنے لگی\nبابا نے مجھے سمجھا یا تھا\nاے بیٹی گھر میں پیدل چل\nچلنا ہے تجھے میلوں تنہا\nاو میرے غازی غیرت والے\nہا میری چادر کے رکھوالے\nہا مجھے گر کے سنبھلنا آ گیا\nمجھے پیدل چلنا آ گیا مجھے پیدل چلنا آ گیا عباس\nمیں کوں پیدل ٹُرنا آ گیا عباس\n<<DIVIDER>>\nمشک و علم والے میرے\nشاہِ وفا آواز دے\nاُمُ البنین کے لاڈلے\nہر غم سے گزرنا آ گیا\nمجھے پیدل چلنا ۔۔۔\nمیں کوں پیدل ٹُرنا ۔۔۔\n<<DIVIDER>>\nلے شام سے میں آ گئی\nغازی میں کیوں زندہ رہی\nسایہ نہ تھا میلوں کوئی\nمجھے دھوپ میں چلنا آ گیا\nمجھے پیدل چلنا ۔۔۔\nمیں کوں پیدل ٹُرنا ۔۔۔\n<<DIVIDER>>\nدیکھے سجے عدا کے گھر\nنیزوں پہ تھے پیاروں کے سر\nٹکڑے ہوا میرا جگر\nمجھے یاد مدینہ آ گیا\nمجھے پیدل چلنا ۔۔۔\nمیں کوں پیدل ٹُرنا ۔۔۔\n<<DIVIDER>>\nبازار تھا دربار تھا\nزنجیر تھی بیمار تھا\nجینا میرا دشوار تھا\nہر درد کو سہنا آ گیا\nمجھے پیدل چلنا ۔۔۔\nمیں کوں پیدل ٹُرنا ۔۔۔\n<<DIVIDER>>\nاے سرور و ریحان اب\nسوچو ذرا کیا تھا غضب\nبنتِ علی کہتی تھی جب\nمجھے جینا مرنا آ گیا\nمجھے پیدل چلنا ۔۔۔\nمیں کوں پیدل ٹُرنا ۔۔۔",
+  "styling": [
+    {
+      "insert": "زندان سے رہا ہو کر جس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کرب و بلا میں آئے حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناقے سے گری زینب دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور زخمی زخمی رکھتی قدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کر غازی سے کہنے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا نے مجھے سمجھا یا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بیٹی گھر میں پیدل چل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلنا ہے تجھے میلوں تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "او میرے غازی غیرت والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہا میری چادر کے رکھوالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہا مجھے گر کے سنبھلنا آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے پیدل چلنا آ گیا مجھے پیدل چلنا آ گیا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کوں پیدل ٹُرنا آ گیا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشک و علم والے میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہِ وفا آواز دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُمُ البنین کے لاڈلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر غم سے گزرنا آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے پیدل چلنا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کوں پیدل ٹُرنا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلے شام سے میں آ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی میں کیوں زندہ رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سایہ نہ تھا میلوں کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے دھوپ میں چلنا آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے پیدل چلنا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کوں پیدل ٹُرنا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھے سجے عدا کے گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزوں پہ تھے پیاروں کے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑے ہوا میرا جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے یاد مدینہ آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے پیدل چلنا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کوں پیدل ٹُرنا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازار تھا دربار تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنجیر تھی بیمار تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جینا میرا دشوار تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درد کو سہنا آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے پیدل چلنا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کوں پیدل ٹُرنا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے سرور و ریحان اب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوچو ذرا کیا تھا غضب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنتِ علی کہتی تھی جب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے جینا مرنا آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے پیدل چلنا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کوں پیدل ٹُرنا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Arbayeen",
+  "subcategory": "اربعین",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

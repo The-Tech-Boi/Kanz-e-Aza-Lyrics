@@ -1,12 +1,450 @@
 {
   "remoteId": "g2611_u2238",
-  "title": "Mai ye nahi kehti",
+  "title": "میں یہ نہیں کہتی",
   "body": "گھر سے جانے لگے شبیر تو صغرا نے کہا\nلے چلو مجھ کو بھی بیمار تمہیں دے گی دُعا\nہو جانا خفا راہ میں گر روئے گی صغرا\nیاں نیند کب آتی ہے جو وہاں سوئے گی صغرا\nبابا بابا\nتنہائی سزا ہے مجھے ایسی نہ سزا دو\n<<DIVIDER>>\nمیں یہ نہیں کہتی کہ عماری میں بٹھا دو\nبابا بابا\nبابا مجھے فضہ کی سواری میں بٹھا دو\n<<DIVIDER>>\nسب بیٹھیں سواری پہ میں پیدل ہی چلوں گی\nوعدہ ہے کسی کو کوئی تکلیف نہ دونگی\nبابا بابا\nاماں سے میں ہرگز نہ کہوں گی کہ دوا دو\nمیں یہ نہیں کہتی کہ۔۔۔\n<<DIVIDER>>\nپلکوں سے میں سایہ علی اصغر پہ کروں گی\nاماں کی سواری سے بہت دور رہوں گی\nبابا بابا\nہاں کہہ کے میری زیست کے کچھ روز بڑھا دو\nمیں یہ نہیں کہتی کہ۔۔۔\n<<DIVIDER>>\nمیں پانی پلاؤں گی سواری کو تمہاری\nبہلاونگی رستے میں سکینہ کو تمہاری\nبابا بابا\nجو کام کنیزوں کہ ہیں سب مجھ کو بتا دو\nمیں یہ نہیں کہتی کہ۔۔۔\n<<DIVIDER>>\nسب نظریں چُراتے ہیں کوئی دَم نہیں بھرتا\nسچ ہے کوئی مردے سے محبت نہیں کرتا\nبابا بابا\nتوقیر میری یہ ہے تو مرنے کی دعا دو\nمیں یہ نہیں کہتی کہ۔۔۔\n<<DIVIDER>>\nکیا گزرے گی جب گھر سے چلے جایئں گے اکبر\nکیسے مجھے ہر بات میں یاد آیئں گے اکبر\nبابا بابا\nکب آیئں گے لینے مجھے بھیا یہ بتا دو\nمیں یہ نہیں کہتی کہ۔۔۔\n<<DIVIDER>>\nہاں اپنی محبت کا میں اظہار تو کر لوں\nٹھہرو علی اصغر کو ذرا پیار تو کر لوں\nبابا بابا\nناقے سے جھلک ننھے مسافر کی دکھا دو\nمیں یہ نہیں کہتی کہ۔۔۔\n<<DIVIDER>>\nریحان وہ بیمار یہ تھک ہار کہ بولی\nاے سرورِ ذیشان تمنا ہے میری\nبابا بابا\nجاتے ہو تو تربت میری تم خود ہی بنا دو\nمیں یہ نہیں کہتی کہ۔۔۔",
+  "styling": [
+    {
+      "insert": "گھر سے جانے لگے شبیر تو صغرا نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے چلو مجھ کو بھی بیمار تمہیں دے گی دُعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو جانا خفا راہ میں گر روئے گی صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاں نیند کب آتی ہے جو وہاں سوئے گی صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہائی سزا ہے مجھے ایسی نہ سزا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں یہ نہیں کہتی کہ عماری میں بٹھا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا مجھے فضہ کی سواری میں بٹھا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب بیٹھیں سواری پہ میں پیدل ہی چلوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ ہے کسی کو کوئی تکلیف نہ دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں سے میں ہرگز نہ کہوں گی کہ دوا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں یہ نہیں کہتی کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپلکوں سے میں سایہ علی اصغر پہ کروں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں کی سواری سے بہت دور رہوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں کہہ کے میری زیست کے کچھ روز بڑھا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں یہ نہیں کہتی کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں پانی پلاؤں گی سواری کو تمہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہلاونگی رستے میں سکینہ کو تمہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو کام کنیزوں کہ ہیں سب مجھ کو بتا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں یہ نہیں کہتی کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب نظریں چُراتے ہیں کوئی دَم نہیں بھرتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سچ ہے کوئی مردے سے محبت نہیں کرتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "توقیر میری یہ ہے تو مرنے کی دعا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں یہ نہیں کہتی کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا گزرے گی جب گھر سے چلے جایئں گے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے مجھے ہر بات میں یاد آیئں گے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب آیئں گے لینے مجھے بھیا یہ بتا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں یہ نہیں کہتی کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاں اپنی محبت کا میں اظہار تو کر لوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹھہرو علی اصغر کو ذرا پیار تو کر لوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناقے سے جھلک ننھے مسافر کی دکھا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں یہ نہیں کہتی کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان وہ بیمار یہ تھک ہار کہ بولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے سرورِ ذیشان تمنا ہے میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتے ہو تو تربت میری تم خود ہی بنا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں یہ نہیں کہتی کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

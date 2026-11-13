@@ -1,12 +1,464 @@
 {
   "remoteId": "g2611_u3455",
-  "title": "Ye dashte wehshat",
+  "title": "یہ دشتِ وحشت",
   "body": "یہ دشتِ وحشت یہ شامِ غربت\nیہ کون دریا سے آ رہا ہے\n<<DIVIDER>>\nہے علی کی بیٹی ہے تیغ بر کر\nجلال چہرے پہ چھا رہا ہے\nیہ دشتِ وحشت۔۔۔\n<<DIVIDER>>\nجلائے پرائے اک طرف ہیں خیمیں\nہے اک طرف بے کسوں کی زاری\nہیں گودیوں میں بلکتے بچے\nسماں وہ اُن کو ڈرا رہا ہے\nیہ دشتِ وحشت۔۔۔\n<<DIVIDER>>\nبہت سے صدمے اُٹھا چکے ہیں\nنعیف اور زار ہو گئے ہیں\nہیں سامنے وارثوں کے لاشے\nیہ غم بہت ان کو کھا رہا ہے\nیہ دشتِ وحشت۔۔۔\n<<DIVIDER>>\nاُس آنے والے پہ سب ہیں حیراں\nکے اُس کے آنے کا کیا ہے مقصد\nیہ اور کیا لُوٹ لے گا آکر\nیہاں بھلا کیا دھرا رہاہے\nیہ دشتِ وحشت۔۔۔\n<<DIVIDER>>\nادھر یہ سب بیٹھے سوچتے ہیں\nاُدھر وہ بڑھتا ہے بڑھنے والا\nسوار اسکے سفید پہ ہے\nنقاب سے رُخ چھُپا رہا ہے\nیہ دشتِ وحشت۔۔۔\n<<DIVIDER>>\nعلی کی بیٹی یہ پوچھتی ہے\nاُس آنے والے کی ہے غرض کیا\nمگر وہ خاموش ہو کے\nرہوار اپنا آگے بڑھا رہا ہے\nیہ دشتِ وحشت۔۔۔\n<<DIVIDER>>\nغضب کے عالم میں کہہ رہی ہے\nکے بڑھنے والے ذرا سنبھل جا\nمیں بنتِ خلاشکن ہوں تُو سُن لے\nمجھے بھلا تُو ڈرا رہا ہے\nیہ دشتِ وحشت۔۔۔\n<<DIVIDER>>\nوہ آنے والا نقاب اُلٹ کر\nیہ کہہ رہا ہے کے دیکھ زینب\nیہ باپ تیرا ہے میری بیٹی\nتیری حفاظت کو آ رہا ہے\nیہ دشتِ وحشت۔۔۔\n<<DIVIDER>>\nیہ سُن کے زینب تڑپ گئی ہے\nیہ کہہ رہی ہے کہ ہائے بابا\nحسین دُنیا سے جا چُکے ہیں\nہمارے نزدیک کیا رہا ہے\nیہ دشتِ وحشت۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ دشتِ وحشت یہ شامِ غربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کون دریا سے آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے علی کی بیٹی ہے تیغ بر کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلال چہرے پہ چھا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دشتِ وحشت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلائے پرائے اک طرف ہیں خیمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے اک طرف بے کسوں کی زاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہیں گودیوں میں بلکتے بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سماں وہ اُن کو ڈرا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دشتِ وحشت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہت سے صدمے اُٹھا چکے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نعیف اور زار ہو گئے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہیں سامنے وارثوں کے لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم بہت ان کو کھا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دشتِ وحشت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاُس آنے والے پہ سب ہیں حیراں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کے اُس کے آنے کا کیا ہے مقصد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ اور کیا لُوٹ لے گا آکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہاں بھلا کیا دھرا رہاہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دشتِ وحشت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nادھر یہ سب بیٹھے سوچتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُدھر وہ بڑھتا ہے بڑھنے والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوار اسکے سفید پہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نقاب سے رُخ چھُپا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دشتِ وحشت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی کی بیٹی یہ پوچھتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس آنے والے کی ہے غرض کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر وہ خاموش ہو کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہوار اپنا آگے بڑھا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دشتِ وحشت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغضب کے عالم میں کہہ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کے بڑھنے والے ذرا سنبھل جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بنتِ خلاشکن ہوں تُو سُن لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے بھلا تُو ڈرا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دشتِ وحشت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ آنے والا نقاب اُلٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہا ہے کے دیکھ زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ باپ تیرا ہے میری بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری حفاظت کو آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دشتِ وحشت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سُن کے زینب تڑپ گئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہی ہے کہ ہائے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین دُنیا سے جا چُکے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمارے نزدیک کیا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دشتِ وحشت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "anjumans": [],
   "verified": false
 }

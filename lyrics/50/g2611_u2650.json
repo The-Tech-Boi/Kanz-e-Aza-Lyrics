@@ -1,12 +1,508 @@
 {
   "remoteId": "g2611_u2650",
-  "title": "Pyasi hai sakina",
+  "title": "پیاسی ہے سکینہ",
   "body": "اے بادِ صبا جا کے یہ عمو کو بتانا\nپیاسی ہے سکینہ\n<<DIVIDER>>\nاس چھوٹے سے سن میں یہ ستم میں نے اٹھاے\nاللّٰہ کسی کو نہ یتیم ایسا بنائے\nخود اپنے لہو میں کوئی بچی نہ نہائے\nمیں تم کو بلاتی رہی تم بھی تو نہ آے\nمیں بن گیء بعد اثر لعینوں کا نشانہ\nپیاسی ہے سکینہ\nاے بادِ صبا جا کے۔۔۔\n<<DIVIDER>>\nپانی کی طلب مجھکو کھلاتی رہی ٹھوکر\nکہتا تھا لعیں دونگا میں فوجوں کو پلا کر\nجب شمر لعیں کر چکا سیراب یہ لشکر\nدکھلا کے مجھے پھینک دیا پانی زمیں پر\nتب سمجھی میں کیا ہوتا ہے امید دلانا\nپیاسی ہے سکینہ\nاے بادِ صبا جا کے۔۔۔\n<<DIVIDER>>\nاک جام ہوا شام غریباں میں میسر\nوہ کوزہ میں رکھ آی تھی اصغر کی لحد پر\nتھا مجھ سے بھی چھوٹا میرا بھیا میرا دلبر\nشرمندہ میں ہو جاتی چچا پیاس بجھا کر\nاب اپنے ہی ہاتھوں سے میری پیاس بجھانا\nپیاسی ہے سکینہ\nاے بادِ صبا جا کے۔۔۔\n<<DIVIDER>>\nاک رسی میں ہم سب کے گلے باندھ کے اعدا\nکرتے ہوے تشہیر چلے جانب کوفہ\nاور اس پہ مصیبت یہ تھی قد چھوٹا تھا میرا\nاٹھتی تھی جو پھوپھیاں تو گلا کھینچتا تھا میرا\nگردن کا میرے زخم‌ چچا دیکھنے آنا\nپیاسی ہے سکینہ\nاے بادِ صبا جا کے۔۔۔\n<<DIVIDER>>\nجس روز سے اصغر کو ملا بابا کا سینہ\nاس روز سے عمو نہیں سو پای سکینہ\nاس حال میں جاؤں گی میں کس طرح مدینہ\nآ جاے مجھے موت ہے کس کام کا جینا\nجاگی ہوں بہت آ کے چچا مجھکو سلانا\nپیاسی ہے سکینہ\nاے بادِ صبا جا کے۔۔۔\n<<DIVIDER>>\nگھر لوٹ کے جاتے ہیں ہر اک شام پرندے\nقسمت میں لکھے ہیں میری زنداں کے اندھیرے\nکب تک میں جیوں گی یونہی اشکوں کے سہارے\nلگتا ہے کہ مر جاؤں گی اب دور وطن سے\nہوگا نہ میسر مجھے گھر لوٹ کے جانا\nپیاسی ہے سکینہ\nاے بادِ صبا جا کے۔۔۔\n<<DIVIDER>>\nانور یہ صدا پرچمِ عباس سے آی\nمیں بھول نہیں سکتا سکینہ میری بچی\nکاٹے گےء بازو میرے مجبور تھا بی بی\nمشکیزہ علم میں ہے لگا دیکھ لے اب بھی\nپرچم کا میرے کام ہے دنیا کو بتانا\nپیاسی ہے سکینہ\nاے بادِ صبا جا کے۔۔۔",
+  "styling": [
+    {
+      "insert": "اے بادِ صبا جا کے یہ عمو کو بتانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس چھوٹے سے سن میں یہ ستم میں نے اٹھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللّٰہ کسی کو نہ یتیم ایسا بنائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود اپنے لہو میں کوئی بچی نہ نہائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تم کو بلاتی رہی تم بھی تو نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بن گیء بعد اثر لعینوں کا نشانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بادِ صبا جا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپانی کی طلب مجھکو کھلاتی رہی ٹھوکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتا تھا لعیں دونگا میں فوجوں کو پلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب شمر لعیں کر چکا سیراب یہ لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھلا کے مجھے پھینک دیا پانی زمیں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تب سمجھی میں کیا ہوتا ہے امید دلانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بادِ صبا جا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک جام ہوا شام غریباں میں میسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ کوزہ میں رکھ آی تھی اصغر کی لحد پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا مجھ سے بھی چھوٹا میرا بھیا میرا دلبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شرمندہ میں ہو جاتی چچا پیاس بجھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب اپنے ہی ہاتھوں سے میری پیاس بجھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بادِ صبا جا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک رسی میں ہم سب کے گلے باندھ کے اعدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتے ہوے تشہیر چلے جانب کوفہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اس پہ مصیبت یہ تھی قد چھوٹا تھا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھتی تھی جو پھوپھیاں تو گلا کھینچتا تھا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گردن کا میرے زخم‌ چچا دیکھنے آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بادِ صبا جا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس روز سے اصغر کو ملا بابا کا سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس روز سے عمو نہیں سو پای سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس حال میں جاؤں گی میں کس طرح مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ جاے مجھے موت ہے کس کام کا جینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاگی ہوں بہت آ کے چچا مجھکو سلانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بادِ صبا جا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر لوٹ کے جاتے ہیں ہر اک شام پرندے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قسمت میں لکھے ہیں میری زنداں کے اندھیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب تک میں جیوں گی یونہی اشکوں کے سہارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگتا ہے کہ مر جاؤں گی اب دور وطن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگا نہ میسر مجھے گھر لوٹ کے جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بادِ صبا جا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانور یہ صدا پرچمِ عباس سے آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بھول نہیں سکتا سکینہ میری بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاٹے گےء بازو میرے مجبور تھا بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشکیزہ علم میں ہے لگا دیکھ لے اب بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچم کا میرے کام ہے دنیا کو بتانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بادِ صبا جا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Anwar Allahbadi",
   "anjumans": [],
   "verified": false

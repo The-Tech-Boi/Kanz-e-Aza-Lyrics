@@ -1,12 +1,473 @@
 {
   "remoteId": "g2611_u1492",
-  "title": "Haye mere hussain",
+  "title": "ہاے میرے حسین",
   "body": "ہاے میرے حسین و حسن\n<<DIVIDER>>\nقید سے چھٹ کے آی وطن\nجب حسین و حسن کی بہن\nقبر زہرا پہ جس دم گیء\nلای رو رو کے لب پر سخن\n<<DIVIDER>>\nاماں اماں اماں\nبھای میرے حسین و حسن\nچھلنی تیروں سے دونوں کے تن\nاک کا تیروں کی ضد پر جنازہ\nاک کا تیروں کے اوپر جنازہ\nہاے میرے حسین و حسن۔۔۔\n<<DIVIDER>>\nاک کو روتی ہوی میں گیء ہوں\nاک کو روتی ہوی آ رہی ہوں\nیہ بھی صدمہ بہن نے اٹھایا\nوہ بھی صدمہ بہن نے اٹھایا\nہاے میرے حسین و حسن۔۔۔\n<<DIVIDER>>\nاماں دونوں شبابِ جناں ہے\nاماں دونوں ہی نانا کی جاں ہے\nاک نے پہلو نبی کا نہ پایا\nاک سے شہر نبی کو چھڑایا\nہاے میرے حسین و حسن۔۔۔\n<<DIVIDER>>\nاماں اک میری آنکھوں کا تارہ\nایک کلثوم کا تھا دلارا\nاک کا ہاے جگر پارہ پارہ\nاک کو غربت میں لاکھوں نے مارا\nہاے میرے حسین و حسن۔۔۔\n<<DIVIDER>>\nاک بقیہ کی زینت بنا ہے\nاک کا مدفن بنی کربلا ہے\nایک نے اماں کا پہلو بسایا\nاک نے بیٹوں کو سینے لگایا\nہاے میرے حسین و حسن۔۔۔\n<<DIVIDER>>\nوقت اماں وطن مجھکو لایا\nبھای کوئی نہ ملنے کو آیا\nایک مجھ سے مدینے میں بچھڑا\nاک نے کربوبلا کو بسایا\nہاے میرے حسین و حسن۔۔۔\n<<DIVIDER>>\nقبر زہرا سے آواز آی\nبیٹی زینب تیرے دونوں بھای\nرو کے کہتے ہیں اے اماں زہرا\nکوئی لحد پہ کوئی نہ سایہ\nہاے میرے حسین و حسن۔۔۔\n<<DIVIDER>>\nکہدو دنیا سے ریحان و سرور\nوقت بدلا ہے بدلا ہے منظر\nجن کے لاشوں پر کل ظلم ڈھایا\nان کا اٹھا ہے گھر گھر جنازہ\nہاے میرے حسین و حسن۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے میرے حسین و حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقید سے چھٹ کے آی وطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب حسین و حسن کی بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر زہرا پہ جس دم گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لای رو رو کے لب پر سخن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں اماں اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای میرے حسین و حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھلنی تیروں سے دونوں کے تن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک کا تیروں کی ضد پر جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک کا تیروں کے اوپر جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے حسین و حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک کو روتی ہوی میں گیء ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک کو روتی ہوی آ رہی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بھی صدمہ بہن نے اٹھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بھی صدمہ بہن نے اٹھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے حسین و حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں دونوں شبابِ جناں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں دونوں ہی نانا کی جاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک نے پہلو نبی کا نہ پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک سے شہر نبی کو چھڑایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے حسین و حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں اک میری آنکھوں کا تارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک کلثوم کا تھا دلارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک کا ہاے جگر پارہ پارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک کو غربت میں لاکھوں نے مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے حسین و حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک بقیہ کی زینت بنا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک کا مدفن بنی کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک نے اماں کا پہلو بسایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک نے بیٹوں کو سینے لگایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے حسین و حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوقت اماں وطن مجھکو لایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کوئی نہ ملنے کو آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک مجھ سے مدینے میں بچھڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک نے کربوبلا کو بسایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے حسین و حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر زہرا سے آواز آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی زینب تیرے دونوں بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے کہتے ہیں اے اماں زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی لحد پہ کوئی نہ سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے حسین و حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہدو دنیا سے ریحان و سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقت بدلا ہے بدلا ہے منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جن کے لاشوں پر کل ظلم ڈھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان کا اٹھا ہے گھر گھر جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے حسین و حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Wapasi-e-Ahle Haram",
+  "subcategory": "واپسی اہل حرم",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

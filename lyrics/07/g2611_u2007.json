@@ -1,12 +1,487 @@
 {
   "remoteId": "g2611_u2007",
-  "title": "Khoon mein dooba",
+  "title": "خون میں ڈوبا",
   "body": "خون میں ڈوبا جلتی زمیں پر\nلاشہء سرور پڑا ہوا ہے\n<<DIVIDER>>\nڈوبتا سورج چرخ بریں پر\nجام لہو کا بنا ہوا ہے\n<<DIVIDER>>\nفرق شہ دیں کٹ گیا رن‌ میں\nکیسا ہوا اندھیر یہ بن میں\nمہر امامت آیا گہن میں\nحشر کہاں اب رکا ہوا ہے\nخون میں ڈوبا۔۔۔\n<<DIVIDER>>\nزینب مضطر کا تھا یہ نوحہ\nکیسا یہ دن قسمت نے دکھایا\nآہ جو کل تک بھرا ہوا تھا\nآج وہی گھر لٹا ہوا ہے\nخون میں ڈوبا۔۔۔\n<<DIVIDER>>\nروے نہ کیوں کر بالی سکینہ\nکھاے طمانچے چھن گےء گوہر\nسوجھے ہوئے رخساروں پہ اس کے\nخون ابھی تک جمع ہوا ہے\nخون میں ڈوبا۔۔۔\n<<DIVIDER>>\nکوی نہیں یہ شمر سے کہتا\nبالی سکینہ کو نہ دے ایذاء\nاٹھ گیا سر سے باپ کا سایہ\nاس کا بہت دل دکھا ہوا ہے\nخون میں ڈوبا۔۔۔\n<<DIVIDER>>\nڈھل گیا سورج شمع جلی\nننھا میرا اصغر کہاں گیا رے\nبانو پکاری کوک جلی\nننھا میرا اصغر کہاں گیا رے\n<<DIVIDER>>\nرات اندھیری سنسان بن\nڈھونڈوں کہاں تجھے اے گلبدن\nرو رو پکارے ماں دل جلی\nننھا میرا اصغر کہاں گیا رے\n<<DIVIDER>>\nرن کو گیا تھا جو شش ماہ\nتیر گلے پر اس نے بھی کھایا\nایک دکھیاری ماں کا کلیجہ\nناوک سے غم سے چھدا ہوا ہے\nخون میں ڈوبا۔۔۔\n<<DIVIDER>>\nرحم کسی کو اس پر نہ آیا\nچھین کے بستر لے گےء اعدا\nہاے میرا بھتیجا\nغش میں زمیں پر پڑا ہوا ہے\nخون میں ڈوبا۔۔۔\n<<DIVIDER>>\nیزیدیت کو جڑ سے اکھاڑا\nدین نبی کو اس نے بچایا\nتا قیامت سلطان شہیداں\nذبح ہو کر بھی فتح ہوا ہے\nخون میں ڈوبا۔۔۔",
+  "styling": [
+    {
+      "insert": "خون میں ڈوبا جلتی زمیں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہء سرور پڑا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈوبتا سورج چرخ بریں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جام لہو کا بنا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرق شہ دیں کٹ گیا رن‌ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا ہوا اندھیر یہ بن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مہر امامت آیا گہن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حشر کہاں اب رکا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب مضطر کا تھا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا یہ دن قسمت نے دکھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہ جو کل تک بھرا ہوا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج وہی گھر لٹا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروے نہ کیوں کر بالی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھاے طمانچے چھن گےء گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوجھے ہوئے رخساروں پہ اس کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون ابھی تک جمع ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوی نہیں یہ شمر سے کہتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالی سکینہ کو نہ دے ایذاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھ گیا سر سے باپ کا سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کا بہت دل دکھا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈھل گیا سورج شمع جلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھا میرا اصغر کہاں گیا رے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بانو پکاری کوک جلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھا میرا اصغر کہاں گیا رے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرات اندھیری سنسان بن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈوں کہاں تجھے اے گلبدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو پکارے ماں دل جلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھا میرا اصغر کہاں گیا رے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرن کو گیا تھا جو شش ماہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیر گلے پر اس نے بھی کھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک دکھیاری ماں کا کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناوک سے غم سے چھدا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرحم کسی کو اس پر نہ آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھین کے بستر لے گےء اعدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرا بھتیجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غش میں زمیں پر پڑا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیزیدیت کو جڑ سے اکھاڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دین نبی کو اس نے بچایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تا قیامت سلطان شہیداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذبح ہو کر بھی فتح ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوبا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "group": 2026,
   "author": "Anwar Raebarelwi",
   "anjumans": [],

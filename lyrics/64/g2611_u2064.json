@@ -1,7 +1,296 @@
 {
   "remoteId": "g2611_u2064",
-  "title": "Kufe ke shehriyo ko",
+  "title": "کوفے کے شہریوں کو",
   "body": "کہدو کوئی ہوا سے خاک اس طرح اڑاے\nکوفے کے شہریوں کو زینب نظر نہ آے\n<<DIVIDER>>\nآنکھوں کو بند کرکے زینب ہے منہ چھپائے\nکوفے کے شہریوں کو زینب نظر نہ آے\n<<DIVIDER>>\nاب جم چکی سروں پر خیموں کی راخ اڑ کر\nچادر نہیں سروں پر اب سر ہے اور پتھر\nان بی بیوں کے سر سے اب اٹھ گےء ہیں ساے\nکوفے کے شہریوں کو۔۔۔\n<<DIVIDER>>\nبازو بندھا کے اپنے مقتل سے جا رہی ہے\nآے نظر جو اسکو اک لاش آ رہی ہے\nکیسے نظر ہٹاے کیسے قدم بڑھائے\nکوفے کے شہریوں کو۔۔۔\n<<DIVIDER>>\nسر اپنا چوبے محمل سے مارتی ہے زینب\nبہتا ہے خون جیسے جاں وارتی ہے زینب\nنیزے پہ سر جو شہ کا محمل کے پاس آے\nکوفے کے شہریوں کو۔۔۔\n<<DIVIDER>>\nبڑھتا ہے جب بھی کوئی خود بڑھکے ٹوکتی ہے\nہر تازیانہ اپنے ہاتھوں پہ روکتی ہے\nفضہ جو اپنے پیچھے زینب کو ہے چھپائے\nکوفے کے شہریوں کو۔۔۔\n<<DIVIDER>>\nدیوار و در کو صغرا کیا دے جواب آخر\nسناٹا پوچھتا ہے کب آےنگے مسافر\nصغرا کا حال کیا ہے کیسے کوئی بتائے\nکوفے کے شہریوں کو۔۔۔\n<<DIVIDER>>\nیہ قرض آنسوؤں کا ہاے چکے تو کیسے\nہے یہ نوید دریا دریا رکے تو کیسے\nزینب کی بے ردائی سجاد کو رلاے\nکوفے کے شہریوں کو۔۔۔",
+  "styling": [
+    {
+      "insert": "کہدو کوئی ہوا سے خاک اس طرح اڑاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے کے شہریوں کو زینب نظر نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھوں کو بند کرکے زینب ہے منہ چھپائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے کے شہریوں کو زینب نظر نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب جم چکی سروں پر خیموں کی راخ اڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر نہیں سروں پر اب سر ہے اور پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان بی بیوں کے سر سے اب اٹھ گےء ہیں ساے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے کے شہریوں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازو بندھا کے اپنے مقتل سے جا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے نظر جو اسکو اک لاش آ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے نظر ہٹاے کیسے قدم بڑھائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے کے شہریوں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر اپنا چوبے محمل سے مارتی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتا ہے خون جیسے جاں وارتی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ سر جو شہ کا محمل کے پاس آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے کے شہریوں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبڑھتا ہے جب بھی کوئی خود بڑھکے ٹوکتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر تازیانہ اپنے ہاتھوں پہ روکتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فضہ جو اپنے پیچھے زینب کو ہے چھپائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے کے شہریوں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیوار و در کو صغرا کیا دے جواب آخر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سناٹا پوچھتا ہے کب آےنگے مسافر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا کا حال کیا ہے کیسے کوئی بتائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے کے شہریوں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ قرض آنسوؤں کا ہاے چکے تو کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یہ نوید دریا دریا رکے تو کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی بے ردائی سجاد کو رلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے کے شہریوں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

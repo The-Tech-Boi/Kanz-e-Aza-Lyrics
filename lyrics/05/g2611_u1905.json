@@ -1,7 +1,427 @@
 {
   "remoteId": "g2611_u1905",
-  "title": "Karbala na bhoolenge",
+  "title": "کربلا نہ بھولیں گے",
   "body": "بھول جاینگے ہر غم غم تیرا نہ بھولیں گے\nکربلا نہ بھولیں گے کربلا نہ بھولیں گے\n<<DIVIDER>>\nکیسے بھول جایئں مقصد حسین کو\nکیسے بھول جایئں فاطمہ کے چین کو\nبا خدا نہ بھولیں گے\nغم تیرا نہ بھولیں گے\nکربلا نہ بھولیں گے۔۔۔\n<<DIVIDER>>\nوہ ستم وہ ظلم وہ جفا کے سلسلے\nعلقمہ کے سامنے قیام جل گےء\nنینوا نہ بھولیں گے\nغم تیرا نہ بھولیں گے\nکربلا نہ بھولیں گے۔۔۔\n<<DIVIDER>>\nجس جگہ حسین کا جواں ہوا شہید\nجس جگہ ہوا تھا ایک بے زباں شہید\nوہ جگہ نہ بھولیں گے\nغم تیرا نہ بھولیں گے\nکربلا نہ بھولیں گے۔۔۔\n<<DIVIDER>>\nوہ لہو بھرا علم وہ مشک خوں بھری\nانتظار آب میں سکینہ مر گیء\nسانحہ نہ بھولیں گے\nغم تیرا نہ بھولیں گے\nکربلا نہ بھولیں گے۔۔۔\n<<DIVIDER>>\nکربلا میں بعد قتل شاہ کربلا\nبر سرِ سناں حسین نے جو تھا کہا\nلا الٰہ نہ بھولیں گے\nغم تیرا نہ بھولیں گے\nکربلا نہ بھولیں گے۔۔۔\n<<DIVIDER>>\nخون روے جس کے غم میں عمر بھر امام\nلے گیء تھی لوٹ کے ردا جو فوج شام\nوہ ردا نہ بھولیں گے\nغم تیرا نہ بھولیں گے\nکربلا نہ بھولیں گے۔۔۔\n<<DIVIDER>>\nالسلام اے کربلا کی خاک السّلام\nالسّلام اے دفن جسم پاک السّلام\nیہ صدا نہ بھولیں گے\nغم تیرا نہ بھولیں گے\nکربلا نہ بھولیں گے۔۔۔\n<<DIVIDER>>\nسرور و ریحان آرزو ہے اب یہی\nروضہء حسین پہ ہو سب کی حاضری\nیہ دعا نہ بھولیں گے\nغم تیرا نہ بھولیں گے\nکربلا نہ بھولیں گے۔۔۔",
+  "styling": [
+    {
+      "insert": "بھول جاینگے ہر غم غم تیرا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا نہ بھولیں گے کربلا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے بھول جایئں مقصد حسین کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے بھول جایئں فاطمہ کے چین کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "با خدا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم تیرا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا نہ بھولیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ ستم وہ ظلم وہ جفا کے سلسلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علقمہ کے سامنے قیام جل گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نینوا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم تیرا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا نہ بھولیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس جگہ حسین کا جواں ہوا شہید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس جگہ ہوا تھا ایک بے زباں شہید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جگہ نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم تیرا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا نہ بھولیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ لہو بھرا علم وہ مشک خوں بھری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انتظار آب میں سکینہ مر گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سانحہ نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم تیرا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا نہ بھولیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا میں بعد قتل شاہ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بر سرِ سناں حسین نے جو تھا کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لا الٰہ نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم تیرا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا نہ بھولیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون روے جس کے غم میں عمر بھر امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے گیء تھی لوٹ کے ردا جو فوج شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ردا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم تیرا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا نہ بھولیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالسلام اے کربلا کی خاک السّلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "السّلام اے دفن جسم پاک السّلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صدا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم تیرا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا نہ بھولیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسرور و ریحان آرزو ہے اب یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روضہء حسین پہ ہو سب کی حاضری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دعا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم تیرا نہ بھولیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا نہ بھولیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

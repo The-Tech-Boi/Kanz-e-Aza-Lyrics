@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u2496",
-  "title": "Muslim ka qatl",
+  "title": "مسلم کا قتل",
   "body": "مسلم کا قتل ہونا آغازِ کربلا ہے\nسید کا خوں بہانا آغازِ کربلا ہے\n<<DIVIDER>>\nجو تھا سفیر سرور اسکو شہید کرنا\nپھر باندھ کر رسن میں ہر راہ سے گزرنا\nلاشے کو یوں پھرانا آغازِ کربلا ہے\nمسلم کا قتل ہونا۔۔۔\n<<DIVIDER>>\nخط بھیج کر ہزاروں شبیر کو بلایا\nمسلم سے وعدہ شہ کی نصرت کا آ کے کرنا\nوعدے کو بھول جانا آغازِ کربلا ہے\nمسلم کا قتل ہونا۔۔۔\n<<DIVIDER>>\nصف باندھ کر نمازی سب فجر پڑھ رہے تھے\nمغرب کا وقت مسلم تنہا کھڑے ہوے تھے\nآل نبی سے دھوکہ آغازِ کربلا ہے\nمسلم کا قتل ہونا۔۔۔\n<<DIVIDER>>\nتنہائیاں اداسی پردیس تنگ راہیں\nبچے بھی کھو چکے ہیں جو ساتھ وہ تھے لاے\nہنس ہنس کے خوں رلانا آغازِ کربلا ہے\nمسلم کا قتل ہونا۔۔۔\n<<DIVIDER>>\nاک رات جب کے ٹہرے وہ آ کے گھر میں جا کر\nڈیرا بنا کے لڑنے تب آگےء ستمگر\nوہ آکے گھر پہ حملہ آغازِ کربلا ہے\nمسلم کا قتل ہونا۔۔۔\n<<DIVIDER>>\nدھوکہ دیا گڑے میں مسلم کو ہے گرایا\nسر کاٹ کے بدن کو گلیوں میں ہے پھرایا\nپامال لاش کرنا آغازِ کربلا ہے\nمسلم کا قتل ہونا۔۔۔\n<<DIVIDER>>\nدیوار خوں سے تر تھی سب راہیں خوں سے تر تھی\nپردیس میں یوں مسلم کی لاش دربدر تھی\nدشمن ہے سار کوفہ آغازِ کربلا ہے\nمسلم کا قتل ہونا۔۔۔\n<<DIVIDER>>\nمارا گیا کمیل کوفے میں یہ بھی پیاسا\nشبیر کو حقیر پیاسا شہید کرنا\nاک جیسا ظلم ڈھانا آغازِ کربلا ہے\nمسلم کا قتل ہونا۔۔۔",
+  "styling": [
+    {
+      "insert": "مسلم کا قتل ہونا آغازِ کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سید کا خوں بہانا آغازِ کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو تھا سفیر سرور اسکو شہید کرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر باندھ کر رسن میں ہر راہ سے گزرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے کو یوں پھرانا آغازِ کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کا قتل ہونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخط بھیج کر ہزاروں شبیر کو بلایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم سے وعدہ شہ کی نصرت کا آ کے کرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدے کو بھول جانا آغازِ کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کا قتل ہونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصف باندھ کر نمازی سب فجر پڑھ رہے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مغرب کا وقت مسلم تنہا کھڑے ہوے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل نبی سے دھوکہ آغازِ کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کا قتل ہونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتنہائیاں اداسی پردیس تنگ راہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچے بھی کھو چکے ہیں جو ساتھ وہ تھے لاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہنس ہنس کے خوں رلانا آغازِ کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کا قتل ہونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک رات جب کے ٹہرے وہ آ کے گھر میں جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈیرا بنا کے لڑنے تب آگےء ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ آکے گھر پہ حملہ آغازِ کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کا قتل ہونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدھوکہ دیا گڑے میں مسلم کو ہے گرایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کاٹ کے بدن کو گلیوں میں ہے پھرایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پامال لاش کرنا آغازِ کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کا قتل ہونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیوار خوں سے تر تھی سب راہیں خوں سے تر تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس میں یوں مسلم کی لاش دربدر تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشمن ہے سار کوفہ آغازِ کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کا قتل ہونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمارا گیا کمیل کوفے میں یہ بھی پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کو حقیر پیاسا شہید کرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک جیسا ظلم ڈھانا آغازِ کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کا قتل ہونا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Hazrat Muslim (a.s)",
+  "subcategory": "حضرت مسلم (ع)",
   "author": "Jawad Haqir",
   "anjumans": [],
   "verified": false

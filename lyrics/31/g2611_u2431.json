@@ -1,12 +1,428 @@
 {
   "remoteId": "g2611_u2431",
-  "title": "Mere sar pe lillah",
+  "title": "میرے سر پہ لللہ",
   "body": "ہاے سلامی لعینوں نے کیا کیا جفا کی\nنشاتی ہوی یا مشکل کشاء کی\nتھی شام غریباں قیامت بپا تھی\nاک ایک ہاتھ زینب کی چادر تک آیا\nوہ زینب کے لب پر فقط اک صدا تھی\nمیرے سر پہ لللہ رہنے دے چادر\n<<DIVIDER>>\nکچھ ہے شمر قیمت سمجھ اس ردا کی\nکہ ایک پاک چادر ہے خیرالنسا کی\nمیرے سر پہ لللہ۔۔۔\n<<DIVIDER>>\nکھلے سر جسے بھاییںوں نے نہ دیکھا\nاٹھا رات میں جس کی ماں کا جنازہ\nوہ دن میں ہے محتاج بس اک ردا کی\nمیرے سر پہ لللہ۔۔۔\n<<DIVIDER>>\nلو باندھو میرے ہاتھ کہتی تھی زینب\nنہ چھینو ردا کہہ کے روتی تھی زینب\nمیں مظلوم بیٹی ہوں مشکل کشاء کی\nمیرے سر پہ لللہ۔۔۔\n<<DIVIDER>>\nزرا جاگ اے میرے غیور بھای\nکہ اب بات میری ردا تک ہے آی\nبہن کو ضرورت ہے تیری وفا کی\nمیرے سر پہ لللہ۔۔۔\n<<DIVIDER>>\nاٹھو میرے سجاد جلتے ہیں خیمے\nسنبھالوں اکیلی میں بچوں کو کیسے\nمیں کیسے سہوں سختیاں اشقیاء کی\nمیرے سر پہ لللہ۔۔۔\n<<DIVIDER>>\nوہ شام غریباں میں بابا کا آنا\nوہ زینب کا ہاتھوں سے چہرہ چھپانا\nخدا سے ردا کے لئے التجاء کی\nمیرے سر پہ لللہ۔۔۔\n<<DIVIDER>>\nتماشائی کوفے کی گلیوں میں کہتے\nزمانے بدلتے ہیں لمحوں میں کتنے\nکہ سر ننگے زینب ہے قدرت خدا کی\nمیرے سر پہ لللہ۔۔۔\n<<DIVIDER>>\nوہ ماییں وہ بہنیں کنیزان زینب\nجو ہے آج بھی پرسہ داران زینب\nرکھے لاج زینب کی بس اس صدا کی\nمیرے سر پہ لللہ۔۔۔\n<<DIVIDER>>\nگےء ان کے روضے پہ ریحان و سرور\nملا کے سکوں شہ کا نوحہ سنا کر\nخلش آج تک ہے مگر اس بکا کی\nمیرے سر پہ لللہ۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے سلامی لعینوں نے کیا کیا جفا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نشاتی ہوی یا مشکل کشاء کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی شام غریباں قیامت بپا تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ایک ہاتھ زینب کی چادر تک آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ زینب کے لب پر فقط اک صدا تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سر پہ لللہ رہنے دے چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ ہے شمر قیمت سمجھ اس ردا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ ایک پاک چادر ہے خیرالنسا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سر پہ لللہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھلے سر جسے بھاییںوں نے نہ دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھا رات میں جس کی ماں کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ دن میں ہے محتاج بس اک ردا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سر پہ لللہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلو باندھو میرے ہاتھ کہتی تھی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ چھینو ردا کہہ کے روتی تھی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں مظلوم بیٹی ہوں مشکل کشاء کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سر پہ لللہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزرا جاگ اے میرے غیور بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اب بات میری ردا تک ہے آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہن کو ضرورت ہے تیری وفا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سر پہ لللہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھو میرے سجاد جلتے ہیں خیمے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنبھالوں اکیلی میں بچوں کو کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے سہوں سختیاں اشقیاء کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سر پہ لللہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ شام غریباں میں بابا کا آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ زینب کا ہاتھوں سے چہرہ چھپانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا سے ردا کے لئے التجاء کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سر پہ لللہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتماشائی کوفے کی گلیوں میں کہتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمانے بدلتے ہیں لمحوں میں کتنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ سر ننگے زینب ہے قدرت خدا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سر پہ لللہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ ماییں وہ بہنیں کنیزان زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ہے آج بھی پرسہ داران زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھے لاج زینب کی بس اس صدا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سر پہ لللہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگےء ان کے روضے پہ ریحان و سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملا کے سکوں شہ کا نوحہ سنا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خلش آج تک ہے مگر اس بکا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سر پہ لللہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

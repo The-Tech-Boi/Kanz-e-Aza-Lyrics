@@ -1,12 +1,397 @@
 {
   "remoteId": "g2611_u0234",
-  "title": "Abbas ko bulao",
+  "title": "عباس کو بلاؤ",
   "body": "جس وقت شام آیا زینب کا دل گھبرایا\n<<DIVIDER>>\nبازار میں ستمگر زینب کو لا رہے ہیں\nعباس کو بلاؤ\n<<DIVIDER>>\nآل نبی کو ظالم در در پھرا رہے ہیں\nعباس کو بلاؤ\n<<DIVIDER>>\nسیدانیاں تو شہ کے ماتم میں رو رہی ہے\nاور بے حیا ستمگر خوشیاں منا رہے ہیں\nعباس کو بلاؤ\nبازار میں ستمگر۔۔۔\n<<DIVIDER>>\nایک اشک پر ہے جن کے دونوں جہان صدقے\nہنس ہنس کے شام والے ان کو رلا رہے ہیں\nعباس کو بلاؤ\nبازار میں ستمگر۔۔۔\n<<DIVIDER>>\nأہل حرم پہ ظالم برسا رہے ہیں پتھر\nمظلوم سر جھکائے آنسوں بہا رہے ہیں\nعباس کو بلاؤ\nبازار میں ستمگر۔۔۔\n<<DIVIDER>>\nبے خوف ہو کے ظالم غاصب غلام زادے\nشہ کی یتیم بچی پہ ظلم ڈھا رہے ہیں\nعباس کو بلاؤ\nبازار میں ستمگر۔۔۔\n<<DIVIDER>>\nتشنہ دہن سکینہ حسرت سے دیکھتی ہے\nپانی دکھا دکھا کے شامی بہا رہے ہیں\nعباس کو بلاؤ\nبازار میں ستمگر۔۔۔\n<<DIVIDER>>\nبیمار سارباں سے گھبرا کے بولی زینب\nہم بے ردا کھلے سر دربار جا رہے ہیں\nعباس کو بلاؤ\nبازار میں ستمگر۔۔۔\n<<DIVIDER>>\nایک ماں تڑپ کے فریاد کر رہی ہے\nسجاد کے ستمگر درے لگا رہے ہیں\nعباس کو بلاؤ\nبازار میں ستمگر۔۔۔\n<<DIVIDER>>\nپھر وقت آ گیا ہے دنیا میں آج گوہر\nأہل ستم جہاں میں پھر سے اٹھا رہے ہیں\nعباس کو بلاؤ\nبازار میں ستمگر۔۔۔",
+  "styling": [
+    {
+      "insert": "جس وقت شام آیا زینب کا دل گھبرایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازار میں ستمگر زینب کو لا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کو بلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآل نبی کو ظالم در در پھرا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کو بلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسیدانیاں تو شہ کے ماتم میں رو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور بے حیا ستمگر خوشیاں منا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کو بلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں ستمگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک اشک پر ہے جن کے دونوں جہان صدقے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہنس ہنس کے شام والے ان کو رلا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کو بلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں ستمگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nأہل حرم پہ ظالم برسا رہے ہیں پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم سر جھکائے آنسوں بہا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کو بلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں ستمگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے خوف ہو کے ظالم غاصب غلام زادے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کی یتیم بچی پہ ظلم ڈھا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کو بلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں ستمگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتشنہ دہن سکینہ حسرت سے دیکھتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی دکھا دکھا کے شامی بہا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کو بلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں ستمگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیمار سارباں سے گھبرا کے بولی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم بے ردا کھلے سر دربار جا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کو بلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں ستمگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک ماں تڑپ کے فریاد کر رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کے ستمگر درے لگا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کو بلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں ستمگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر وقت آ گیا ہے دنیا میں آج گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "أہل ستم جہاں میں پھر سے اٹھا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کو بلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں ستمگر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Gohar Jarchvi",
   "anjumans": [],
   "verified": false

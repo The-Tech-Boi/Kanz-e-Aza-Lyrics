@@ -1,7 +1,441 @@
 {
   "remoteId": "g2611_u2637",
-  "title": "Pukaro aise ke",
+  "title": "پکارو ایسے کہ",
   "body": "پکارو ایسے کہ میرا امام آ جاے\n<<DIVIDER>>\nمیرا بھی لشکرِ مہدی میں نام آ جاے\nپکارو ایسے کہ میرا امام آ جاے\n<<DIVIDER>>\nولاے حق میں جہاد غلام جاری ہے\nفراز دار پہ میثم کا کام جاری ہے\nزباں کٹ گیء لیکن کلام جاری ہے\nدعا کرو ہمیں طرز کلام آ جاے\nپکارو ایسے کہ میرا۔۔۔\n<<DIVIDER>>\nقرار کے لئے ہے بیقرار پہلے سے\nدر امام پہ ہے جاں نثار پہلے سے\nبہت ہے بھیڑ بنا لو قطار پہلے سے\nچلو چلو کے غلاموں میں نام آ جاے\nپکارو ایسے کہ میرا۔۔۔\n<<DIVIDER>>\nکوئی تو راہ شہادت پہ چلنے والا ہے\nہے کوئی حر کی طرح جو سنبھالنے والا ہے\nزرا سی دیر میں سورج نکلنے والا ہے\nپلک جھپکنے میں ان کا پیام آ جاے\nپکارو ایسے کہ میرا۔۔۔\n<<DIVIDER>>\nعمل سے دور ہے دنیا کی چاہ غالب ہے\nجو حال ہے یہی کہنا یہاں مناسب ہے\nامام تو نہیں غایب عوام غایب ہے\nامام آیینگے پہلے عوام آ جاے\nپکارو ایسے کہ میرا۔۔۔\n<<DIVIDER>>\nقدم امام زمن کا رہے ساعت میں ہے\nعلی کی تیغ ہے قرآن ان کے ساتھ میں ہے\nنظام عدل امام زمن کے ہاتھ میں ہے\nہمارے ملک میں بھی وہ نظام آ جاے\nپکارو ایسے کہ میرا۔۔۔\n<<DIVIDER>>\nامام عصر سے ملنے کی جا ہے فرش عزا\nنماز پڑھ کے ہر ایک مانگ لے علم پہ دعا\nجسے بھی کرنی ہے کر لے زیارت مولا\nوہ مجلسوں میں بصد احترام آ جاے\nپکارو ایسے کہ میرا۔۔۔\n<<DIVIDER>>\nحسینی ماؤں نے کردار ان کا ڈالا ہے\nپیام کربوبلا نے انہیں سنبھالا ہے\nامام کے لئے بچوں کو میں نے پالا ہے\nمیرا یہ لختِ جگر ان کے کام آ جاے\nپکارو ایسے کہ میرا۔۔۔\n<<DIVIDER>>\nفدائے اصغر بے شیر آج ہونا ہے\nولاے اکبر مہرو نے برچھیاں کھاییں\nخدا کی راہ میں ہم بھی شہید ہو جاے\nہمارے ہاتھ میں کوثر کا جام آ جاے\nپکارو ایسے کہ میرا۔۔۔",
+  "styling": [
+    {
+      "insert": "پکارو ایسے کہ میرا امام آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا بھی لشکرِ مہدی میں نام آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکارو ایسے کہ میرا امام آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nولاے حق میں جہاد غلام جاری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فراز دار پہ میثم کا کام جاری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زباں کٹ گیء لیکن کلام جاری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعا کرو ہمیں طرز کلام آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکارو ایسے کہ میرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقرار کے لئے ہے بیقرار پہلے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در امام پہ ہے جاں نثار پہلے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت ہے بھیڑ بنا لو قطار پہلے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو چلو کے غلاموں میں نام آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکارو ایسے کہ میرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی تو راہ شہادت پہ چلنے والا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کوئی حر کی طرح جو سنبھالنے والا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زرا سی دیر میں سورج نکلنے والا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پلک جھپکنے میں ان کا پیام آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکارو ایسے کہ میرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعمل سے دور ہے دنیا کی چاہ غالب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو حال ہے یہی کہنا یہاں مناسب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امام تو نہیں غایب عوام غایب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امام آیینگے پہلے عوام آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکارو ایسے کہ میرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقدم امام زمن کا رہے ساعت میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی تیغ ہے قرآن ان کے ساتھ میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نظام عدل امام زمن کے ہاتھ میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمارے ملک میں بھی وہ نظام آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکارو ایسے کہ میرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامام عصر سے ملنے کی جا ہے فرش عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نماز پڑھ کے ہر ایک مانگ لے علم پہ دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسے بھی کرنی ہے کر لے زیارت مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ مجلسوں میں بصد احترام آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکارو ایسے کہ میرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسینی ماؤں نے کردار ان کا ڈالا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیام کربوبلا نے انہیں سنبھالا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امام کے لئے بچوں کو میں نے پالا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا یہ لختِ جگر ان کے کام آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکارو ایسے کہ میرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفدائے اصغر بے شیر آج ہونا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ولاے اکبر مہرو نے برچھیاں کھاییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کی راہ میں ہم بھی شہید ہو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمارے ہاتھ میں کوثر کا جام آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکارو ایسے کہ میرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

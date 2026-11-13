@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u2778",
-  "title": "Roke zehra ne kaha",
+  "title": "روکے زہرا نے کہا",
   "body": "روکے زہرا نے کہا پسلیاں ٹوٹ گیء\nمیرا محسن نہ رہا پسلیاں ٹوٹ گیء\n<<DIVIDER>>\nکوی بھی درد کا منظر نہیں زہرا جیسا\nکوی اٹھارہ برس میں نہیں بوڑھا ہوتا\nلے کے چلتی ہوں عصا پسلیاں ٹوٹ گیء\nروکے زہرا نے کہا۔۔۔\n<<DIVIDER>>\nہاے کر دیں گے وہ حیدر کے بھی سر کے ٹکڑے\nطشت میں ہونگے حسن کے بھی جگر کے ٹکڑے\nہے یہ آغاز جفا پسلیاں ٹوٹ گیء\nروکے زہرا نے کہا۔۔۔\n<<DIVIDER>>\nظالموں نے علی اصغر سے بھی کمسن مارا\nمجھکو شعلوں میں جلا کر میرا محسن مارا\nیوں ستم مجھ پر ہوا پسلیاں ٹوٹ گیء\nروکے زہرا نے کہا۔۔۔\n<<DIVIDER>>\nہاے زینب تیری غربت میں کہوں کیا کس سے\nشام‌ میں تو بھی کھڑی ہو گی بہتر گھنٹے\nدل یہ پھٹتا ہے میرا پسلیاں ٹوٹ گیء\nروکے زہرا نے کہا۔۔۔\n<<DIVIDER>>\nاس لئے بیٹھ کے پڑھتی ہوں نمازیں اکثر\nبعد بابا کے ہوے ظلم ایسے مجھ پر\nدرد ہوتا ہے سیاہ پسلیاں ٹوٹ گیء\nروکے زہرا نے کہا۔۔۔\n<<DIVIDER>>\nکند خنجر سے میرے لال کا کاٹیں گے گلا\nہاے آتی ہے مجھے یاد بہت کربوبلا\nصبر ہو کیسے بھلا پسلیاں ٹوٹ گیء\nروکے زہرا نے کہا۔۔۔\n<<DIVIDER>>\nدرد عرفان و شرر کیسے ہو زہرا کا بیاں\nدل‌ ہلاتی ہے عزاداروں کے بی بی کی عزا\nظلم کچھ ایسا ہوا پسلیاں ٹوٹ گیء\nروکے زہرا نے کہا۔۔۔",
+  "styling": [
+    {
+      "insert": "روکے زہرا نے کہا پسلیاں ٹوٹ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا محسن نہ رہا پسلیاں ٹوٹ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوی بھی درد کا منظر نہیں زہرا جیسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی اٹھارہ برس میں نہیں بوڑھا ہوتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے کے چلتی ہوں عصا پسلیاں ٹوٹ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے زہرا نے کہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے کر دیں گے وہ حیدر کے بھی سر کے ٹکڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طشت میں ہونگے حسن کے بھی جگر کے ٹکڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یہ آغاز جفا پسلیاں ٹوٹ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے زہرا نے کہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظالموں نے علی اصغر سے بھی کمسن مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو شعلوں میں جلا کر میرا محسن مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں ستم مجھ پر ہوا پسلیاں ٹوٹ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے زہرا نے کہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے زینب تیری غربت میں کہوں کیا کس سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام‌ میں تو بھی کھڑی ہو گی بہتر گھنٹے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل یہ پھٹتا ہے میرا پسلیاں ٹوٹ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے زہرا نے کہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس لئے بیٹھ کے پڑھتی ہوں نمازیں اکثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد بابا کے ہوے ظلم ایسے مجھ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد ہوتا ہے سیاہ پسلیاں ٹوٹ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے زہرا نے کہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکند خنجر سے میرے لال کا کاٹیں گے گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے آتی ہے مجھے یاد بہت کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبر ہو کیسے بھلا پسلیاں ٹوٹ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے زہرا نے کہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدرد عرفان و شرر کیسے ہو زہرا کا بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل‌ ہلاتی ہے عزاداروں کے بی بی کی عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم کچھ ایسا ہوا پسلیاں ٹوٹ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے زہرا نے کہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Sharar Naqvi",
   "anjumans": [],
   "verified": false

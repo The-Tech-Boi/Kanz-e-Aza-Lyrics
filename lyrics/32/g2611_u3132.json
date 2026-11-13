@@ -1,12 +1,495 @@
 {
   "remoteId": "g2611_u3132",
-  "title": "Suraj ka chehra",
+  "title": "سورج کا چہرہ",
   "body": "سورج کا چہرہ اترا ہوا ہے\nزینب کا بھای مرنے چلا ہے\n<<DIVIDER>>\nمقتل میں غش ہے شبیر تنہا\nقاتل کھڑے ہیں خاموش یک جا\nحیرت میں گردوں سکتے میں سہرا\nساکت ہے موجیں ساکت ہے دریا\nسورج کا چہرہ۔۔۔\n<<DIVIDER>>\nمظلومیت کی اللّٰہ رے حبیب\nسہمے ہوے ہیں اہلِ سخاوت\nچھایا ہوا ہے نفس امامت\nبپری ہوی ہے روح جلالت\nدنیا کا نقشہ بدلا ہوا ہے\nسورج کا چہرہ۔۔۔\n<<DIVIDER>>\nخیمے میں سب کی نظریں ہیں در پر\nدم رک گےء ہیں سینوں کے اندر\nکیا ضبط غم ہے اللّٰہ اکبر\nچھپ رہ گیء ہے اصغر کی مادر\nاصغر کا جھولا ٹہرا ہوا ہے\nسورج کا چہرہ۔۔۔\n<<DIVIDER>>\nمظلوم شکلیں غمگیں نگاہیں\nامن و اماں کی مسدود راہیں\nسوکھے گلوں پر بچوں کی باہیں\nتھم تھم گیء ہے ہونٹوں پہ آہیں\nجو ہے وہ غم کا مارا ہوا ہے\nسورج کا چہرہ۔۔۔\n<<DIVIDER>>\nتر ہے لہو میں سلطان عالی\nملت کا حاکم امت کا والی\nدلدل کا رن میں ہے زین خالی\nخیمے کی رونق کس نے اٹھالی\nمسند کا گوشہ الٹ ہوا ہے\nسورج کا چہرہ۔۔۔\n<<DIVIDER>>\nلشکر کہاں اب شاہ عرب کا\nحاضر ہے لاشہ ہر تشنہ لب کا\nخاک شفا پر بستر ہے سب کا\nایک اک مجاہد عشرے کی شب کا\nجاگا ہوا تھا سویا ہوا ہے\nسورج کا چہرہ۔۔۔\n<<DIVIDER>>\nتیروں سے زخمی تیغوں سے ٹکڑے\nسوے ہوے پر جاگے ہوے سے\nچتون کے قرباں تیور کے صدقے\nاٹھنے کے جیسے پھر ہو ارادے\nپھر جوش نصرت آیا ہوا ہے\nسورج کا چہرہ۔۔۔\n<<DIVIDER>>\nروکو قلم کو نجم سخنور\nہے سر بہ سجدہ جانے پیمبر\nنزدیک ہے اب قاتل کا خنجر\nدر پر ہے زینب مجبور و مضطر\nخیمے کا پردہ الٹا ہوا ہے\nسورج کا چہرہ۔۔۔",
+  "styling": [
+    {
+      "insert": "سورج کا چہرہ اترا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کا بھای مرنے چلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل میں غش ہے شبیر تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاتل کھڑے ہیں خاموش یک جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیرت میں گردوں سکتے میں سہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساکت ہے موجیں ساکت ہے دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سورج کا چہرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمظلومیت کی اللّٰہ رے حبیب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہمے ہوے ہیں اہلِ سخاوت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھایا ہوا ہے نفس امامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بپری ہوی ہے روح جلالت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا کا نقشہ بدلا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سورج کا چہرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے میں سب کی نظریں ہیں در پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم رک گےء ہیں سینوں کے اندر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ضبط غم ہے اللّٰہ اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھپ رہ گیء ہے اصغر کی مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کا جھولا ٹہرا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سورج کا چہرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمظلوم شکلیں غمگیں نگاہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امن و اماں کی مسدود راہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوکھے گلوں پر بچوں کی باہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھم تھم گیء ہے ہونٹوں پہ آہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ہے وہ غم کا مارا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سورج کا چہرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتر ہے لہو میں سلطان عالی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملت کا حاکم امت کا والی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دلدل کا رن میں ہے زین خالی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے کی رونق کس نے اٹھالی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسند کا گوشہ الٹ ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سورج کا چہرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلشکر کہاں اب شاہ عرب کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حاضر ہے لاشہ ہر تشنہ لب کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک شفا پر بستر ہے سب کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک اک مجاہد عشرے کی شب کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاگا ہوا تھا سویا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سورج کا چہرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیروں سے زخمی تیغوں سے ٹکڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوے ہوے پر جاگے ہوے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چتون کے قرباں تیور کے صدقے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھنے کے جیسے پھر ہو ارادے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر جوش نصرت آیا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سورج کا چہرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروکو قلم کو نجم سخنور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے سر بہ سجدہ جانے پیمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نزدیک ہے اب قاتل کا خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در پر ہے زینب مجبور و مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے کا پردہ الٹا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سورج کا چہرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Najm Afandi",
   "anjumans": [],
   "verified": false

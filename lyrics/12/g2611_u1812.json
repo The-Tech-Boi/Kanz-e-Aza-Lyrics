@@ -1,12 +1,464 @@
 {
   "remoteId": "g2611_u1812",
-  "title": "Jod kar nanhe se",
+  "title": "جوڑ کر ننھے سے",
   "body": "نماز شب میں کوئی باپ مانگتا ہے دعا\nاللہ اللّٰہ اللہ اللّٰہ\nسکون دل کے لئے کر مجھے سکینہ آتا\n<<DIVIDER>>\nجوڑ کر ننھے سے ہاتھوں کو سکینہ نے کہا\nکیا اسی دن کے لئے مجھکو تھا مانگا بابا\n<<DIVIDER>>\nجانے کیوں جشن مناتے ہے ستا کر مجھکو\nاپنے بچوں کو ہنساتے ہے رلا کر مجھکو\nشامیوں نے میرے رونے کو تماشا سمجھا\nکیا اسی دن کے لئے۔۔۔\nجوڑ کر ننھے سے۔۔۔\n<<DIVIDER>>\nبابا جاں اس کا سبب کیا ہے خدا ہی جانے\nفاطمہ نام کسی کو جو بتایا میں نے\nبے جھجھک اس نے سکینہ کو تماشا مارا\nکیا اسی دن کے لئے۔۔۔\nجوڑ کر ننھے سے۔۔۔\n<<DIVIDER>>\nآپ نے عید پہ جو در مجھے پہنااے تھے\nشمر نے کانوں سے اس طرح وہ گھر نوچے\nدر نہیں خون بھی ہے شمر کے ہاتھوں میرا\nکیا اسی دن کے لئے۔۔۔\nجوڑ کر ننھے سے۔۔۔\n<<DIVIDER>>\nقبر تک بھول نہ پائے گی تمہاری بیٹی\nکاٹ کر انگلی تمہاری جو انگوٹھی کھینچی\nپہن کر اس کو ہی ظالم نے تمانچہ مارا\nکیا اسی دن کے لئے۔۔۔\nجوڑ کر ننھے سے۔۔۔\n<<DIVIDER>>\nخمس میں مانگ رہا ہے میرا بھائی چادر\nشام کے لوگ ہمیں مار رہے ہیں پتھر\nعورتیں پھینک رہی ہے میری جانب صدقہ\nکیا اسی دن کے لئے۔۔۔\nجوڑ کر ننھے سے۔۔۔\n<<DIVIDER>>\nآپ کی لاش جو جس طرح سے پامال کیا\nجیتے جی میرے لعینوں نے وہی حال کیا\nباندھ کر گھوڑوں سے پیدل مجھے دوڑایا گیا\nکیا اسی دن کے لئے۔۔۔\nجوڑ کر ننھے سے۔۔۔\n<<DIVIDER>>\nاس نے عباس کے بدلے یوں سکینہ سے لیےء\nرہ گےء ہاتھوں میں ظالم کے کچھ بال میرے\nمجھکو آیا ہی نہیں کوئی چھڑانے والا\nکیا اسی دن کے لئے۔۔۔\nجوڑ کر ننھے سے۔۔۔\n<<DIVIDER>>\nسن کے محسن یہ بکا کرتے تھے سب عرش نشیں\nجو سکینہ تھی سکوں اس کے مقدر میں نہیں\nخوں میں ڈوبی ہے تمہاری وہ تہجد کی دعا\nکیا اسی دن کے لئے۔۔۔\nجوڑ کر ننھے سے۔۔۔",
+  "styling": [
+    {
+      "insert": "نماز شب میں کوئی باپ مانگتا ہے دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ اللّٰہ اللہ اللّٰہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکون دل کے لئے کر مجھے سکینہ آتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجوڑ کر ننھے سے ہاتھوں کو سکینہ نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اسی دن کے لئے مجھکو تھا مانگا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانے کیوں جشن مناتے ہے ستا کر مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بچوں کو ہنساتے ہے رلا کر مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شامیوں نے میرے رونے کو تماشا سمجھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اسی دن کے لئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوڑ کر ننھے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا جاں اس کا سبب کیا ہے خدا ہی جانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ نام کسی کو جو بتایا میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے جھجھک اس نے سکینہ کو تماشا مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اسی دن کے لئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوڑ کر ننھے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ نے عید پہ جو در مجھے پہنااے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر نے کانوں سے اس طرح وہ گھر نوچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در نہیں خون بھی ہے شمر کے ہاتھوں میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اسی دن کے لئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوڑ کر ننھے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر تک بھول نہ پائے گی تمہاری بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاٹ کر انگلی تمہاری جو انگوٹھی کھینچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہن کر اس کو ہی ظالم نے تمانچہ مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اسی دن کے لئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوڑ کر ننھے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخمس میں مانگ رہا ہے میرا بھائی چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کے لوگ ہمیں مار رہے ہیں پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عورتیں پھینک رہی ہے میری جانب صدقہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اسی دن کے لئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوڑ کر ننھے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کی لاش جو جس طرح سے پامال کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیتے جی میرے لعینوں نے وہی حال کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باندھ کر گھوڑوں سے پیدل مجھے دوڑایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اسی دن کے لئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوڑ کر ننھے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس نے عباس کے بدلے یوں سکینہ سے لیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ گےء ہاتھوں میں ظالم کے کچھ بال میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو آیا ہی نہیں کوئی چھڑانے والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اسی دن کے لئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوڑ کر ننھے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسن کے محسن یہ بکا کرتے تھے سب عرش نشیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو سکینہ تھی سکوں اس کے مقدر میں نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں میں ڈوبی ہے تمہاری وہ تہجد کی دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اسی دن کے لئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوڑ کر ننھے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mohsin Jaffri",
   "anjumans": [],
   "verified": false

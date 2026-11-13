@@ -1,12 +1,352 @@
 {
   "remoteId": "g2611_u2042",
-  "title": "Kohraam ajab aale",
+  "title": "کہرام عجب آل",
   "body": "کہرام عجب آل محمد میں بپا ہے\nاب سبط نبی بہر بگا رن کو چلا ہے\n<<DIVIDER>>\nلپٹی ہوئی دامن سے یہ کہتی تھی سکینہ\nمیں جانے نہیں دوں گی یہ رن دشت بلا ہے\n---کہرام عجب آل محمد\n<<DIVIDER>>\nجو بھی گیا وہ لوٹ کے گھر میں نہیں آیا\nقاسم کا نہ اکبر کا نہ عموں کا پتہ ہے\n---کہرام عجب آل محمد\n<<DIVIDER>>\nاصغر ہیں کہاں آپ گئے تھے انہیں لے کر\nکیا وہ بھی گرفتار بلا رن میں ہوا ہے\n---کہرام عجب آل محمد\n<<DIVIDER>>\nآپ آئے ہیں رخصت کے لئے فیصلہ کر کے\nکیوں ذوالجناح شاہ میں ڈیوڑھی پہ کھڑا ہے\n---کہرام عجب آل محمد\n<<DIVIDER>>\nمیں جا کے لپٹ جائوں گی پائوں سے جو اس کے\nجائے گا نہ راہ وار اگر کچھ بھی حیا ہے\n---کہرام عجب آل محمد\n<<DIVIDER>>\nگویا ہوئے لپٹا کے سکینہ کو یہ شبیر\nجو کچھ بھی کہا تمنے میری لعل بجا ہے\n---کہرام عجب آل محمد\n<<DIVIDER>>\nہم جاتے ہیں لینے کے لئے پانی جو مل جائے\nبیٹی کو میری تشنگی اب حد سے سوا ہے\n---کہرام عجب آل محمد\n<<DIVIDER>>\nفرمایا تڑپ کر یہ سکینہ نے کہ بابا\nپانی کا نہ لو نام مجھے مرنا روا ہے\n---کہرام عجب آل محمد\n<<DIVIDER>>\nبابا نہ کبھی مانگوں گی میں اب پانی کسی سے\nاس پانی کی خاطر ہی چچا مجھ سے چھٹا ہے\n---کہرام عجب آل محمد\n<<DIVIDER>>\nرخصت کا انیس حال رقم کس طرح ہو گا\nاب غم سے قلم بھی تو لہو دینے لگا ہے\n---کہرام عجب آل محمد",
+  "styling": [
+    {
+      "insert": "کہرام عجب آل محمد میں بپا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سبط نبی بہر بگا رن کو چلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلپٹی ہوئی دامن سے یہ کہتی تھی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جانے نہیں دوں گی یہ رن دشت بلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کہرام عجب آل محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو بھی گیا وہ لوٹ کے گھر میں نہیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کا نہ اکبر کا نہ عموں کا پتہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کہرام عجب آل محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر ہیں کہاں آپ گئے تھے انہیں لے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا وہ بھی گرفتار بلا رن میں ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کہرام عجب آل محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ آئے ہیں رخصت کے لئے فیصلہ کر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں ذوالجناح شاہ میں ڈیوڑھی پہ کھڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کہرام عجب آل محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں جا کے لپٹ جائوں گی پائوں سے جو اس کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جائے گا نہ راہ وار اگر کچھ بھی حیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کہرام عجب آل محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگویا ہوئے لپٹا کے سکینہ کو یہ شبیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو کچھ بھی کہا تمنے میری لعل بجا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کہرام عجب آل محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم جاتے ہیں لینے کے لئے پانی جو مل جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی کو میری تشنگی اب حد سے سوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کہرام عجب آل محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرمایا تڑپ کر یہ سکینہ نے کہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی کا نہ لو نام مجھے مرنا روا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کہرام عجب آل محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا نہ کبھی مانگوں گی میں اب پانی کسی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس پانی کی خاطر ہی چچا مجھ سے چھٹا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کہرام عجب آل محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرخصت کا انیس حال رقم کس طرح ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب غم سے قلم بھی تو لہو دینے لگا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کہرام عجب آل محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Anees Pehersari",
   "anjumans": [],
   "verified": false

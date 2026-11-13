@@ -1,12 +1,383 @@
 {
   "remoteId": "g2611_u2112",
-  "title": "Laashe pe naujawan",
+  "title": "لاشے پہ نوجواں",
   "body": "لاش اکبر کی جو مقتل سے اٹھا لاے حسین\nایک کہرام تھا خیمے میں جو مولا نے کہا\n<<DIVIDER>>\nلاشے پہ نوجواں کے چادر اڑھاو زینب\nاکبر کا زخمی سینہ ماں سے چھپاؤ زینب\n<<DIVIDER>>\nبینای بھی نہیں ہے خط کس طرح پڑھوں گا\nمیں اس سے کیا کہوں گا\nقاصد ہے آنے والا اس کو جگاؤ زینب\nلاشے پہ نوجواں کے۔۔۔\n<<DIVIDER>>\nبھای کا غم اٹھانا آساں نہیں ہے بی بی\nجی بھر کے رو لے وہ بھی\nخیمے میں نوجواں کی بہنیں بلاؤ زینب\nلاشے پہ نوجواں کے۔۔۔\n<<DIVIDER>>\nکر لو بہن تصور ارمان کچھ تو نکلیں\nہم سہرا پڑھ رہے ہیں\nتم اپنے نوجواں کو دولہا بناؤ زینب\nلاشے پہ نوجواں کے۔۔۔\n<<DIVIDER>>\nکرتہ لہو میں تر ہے مل جائے گا کفن بھی\nخواہش بھی ہو گی پوری\nاکبر کی شادی والی پوشاک لاؤ زینب\nلاشے پہ نوجواں کے۔۔۔\n<<DIVIDER>>\nشاید اسی طرح سے دل کو قرار آے\nبینای لوٹ جاے\nآنکھوں سے نوجواں کا کرتہ لگاؤ زینب\nلاشے پہ نوجواں کے۔۔۔\n<<DIVIDER>>\nمجھ سے ذیادہ تم سے نزدیک یہ رہا ہے\nتم کو تو سب پتہ ہے\nاکبر کے بچپنے کی باتیں سناؤ زینب\nلاشے پہ نوجواں کے۔۔۔\n<<DIVIDER>>\nلیلیٰ کا حال عجب ہے جب سے خبر ہے آی\nدیتا نہیں دکھائی\nبازو پکڑ کے ماں کا لاشے پہ لاؤ زینب\nلاشے پہ نوجواں کے۔۔۔\n<<DIVIDER>>\nلاشہ لیےء تکلم خیمے سے شہ جو نکلے\nرو کر بہن سے بولے\nرخصت یہی سے کر دو باہر نہ آؤ زینب\nلاشے پہ نوجواں کے۔۔۔",
+  "styling": [
+    {
+      "insert": "لاش اکبر کی جو مقتل سے اٹھا لاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک کہرام تھا خیمے میں جو مولا نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشے پہ نوجواں کے چادر اڑھاو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کا زخمی سینہ ماں سے چھپاؤ زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبینای بھی نہیں ہے خط کس طرح پڑھوں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں اس سے کیا کہوں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاصد ہے آنے والا اس کو جگاؤ زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے پہ نوجواں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای کا غم اٹھانا آساں نہیں ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جی بھر کے رو لے وہ بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے میں نوجواں کی بہنیں بلاؤ زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے پہ نوجواں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکر لو بہن تصور ارمان کچھ تو نکلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سہرا پڑھ رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم اپنے نوجواں کو دولہا بناؤ زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے پہ نوجواں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرتہ لہو میں تر ہے مل جائے گا کفن بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خواہش بھی ہو گی پوری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کی شادی والی پوشاک لاؤ زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے پہ نوجواں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاید اسی طرح سے دل کو قرار آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بینای لوٹ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے نوجواں کا کرتہ لگاؤ زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے پہ نوجواں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ سے ذیادہ تم سے نزدیک یہ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو تو سب پتہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے بچپنے کی باتیں سناؤ زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے پہ نوجواں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلیلیٰ کا حال عجب ہے جب سے خبر ہے آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتا نہیں دکھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازو پکڑ کے ماں کا لاشے پہ لاؤ زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے پہ نوجواں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشہ لیےء تکلم خیمے سے شہ جو نکلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کر بہن سے بولے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخصت یہی سے کر دو باہر نہ آؤ زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے پہ نوجواں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

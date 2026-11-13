@@ -1,12 +1,333 @@
 {
   "remoteId": "g2611_u3389",
-  "title": "Ya imame riza",
+  "title": "یا امام رضا",
   "body": "یا امام رضا\n<<DIVIDER>>\nاے غریب الوطن یا امام رضا\nوارث بیکفن یا امام رضا\n<<DIVIDER>>\nہاے ستم زہر کا دونو سہہ کر گےء\nبالیقیں لاڈلے دونوں زہرا کے تھے\nاک امام حسن یا امام رضا\nاے غریب الوطن۔۔۔\n<<DIVIDER>>\nشاہ کربوبلا سے یہ نسبت تیری\nان کے لاشے پہ بھی تیرے لاشے پہ بھی\nرو نہ پای بہن یا امام رضا\nاے غریب الوطن۔۔۔\n<<DIVIDER>>\nتیرے بابا کا تابوت اٹھ نہ سکا\nپل پہ بغداد کے لاشہ رکھا رہا\nتھا کفن پیرہن یا امام رضا\nاے غریب الوطن۔۔۔\n<<DIVIDER>>\nجو چھبھن تیرے سینے میں تھی زہر کی\nاب بھی محسوس کرتے ہیں وہ ماتمی\nاپنے دل میں چھبھن یا امام رضا\nاے غریب الوطن۔۔۔\n<<DIVIDER>>\nاے بن سیدہ اے بن مرتضیٰ\nمشکلوں میں ہمارے ہے تیرا آسرا\nبادشاہ زمن یا امام رضا\nاے غریب الوطن۔۔۔\n<<DIVIDER>>\nحق اجداد کو تجھ سے چھینا گیا\nہاے مدینہ تیرا تجھ سے چھڑوا دیا\nاے اسیر محن یا امام رضا\nاے غریب الوطن۔۔۔\n<<DIVIDER>>\nجاے سلمان و میثم خراسان میں\nتیرے روضے پہ جا کر یہ نوحہ پڑھے\nدیدے اذن سخن یا امام رضا\nاے غریب الوطن۔۔۔",
+  "styling": [
+    {
+      "insert": "یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے غریب الوطن یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وارث بیکفن یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے ستم زہر کا دونو سہہ کر گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالیقیں لاڈلے دونوں زہرا کے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک امام حسن یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الوطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاہ کربوبلا سے یہ نسبت تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان کے لاشے پہ بھی تیرے لاشے پہ بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو نہ پای بہن یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الوطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے بابا کا تابوت اٹھ نہ سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پل پہ بغداد کے لاشہ رکھا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا کفن پیرہن یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الوطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو چھبھن تیرے سینے میں تھی زہر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب بھی محسوس کرتے ہیں وہ ماتمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے دل میں چھبھن یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الوطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے بن سیدہ اے بن مرتضیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشکلوں میں ہمارے ہے تیرا آسرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بادشاہ زمن یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الوطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحق اجداد کو تجھ سے چھینا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مدینہ تیرا تجھ سے چھڑوا دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے اسیر محن یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الوطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاے سلمان و میثم خراسان میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے روضے پہ جا کر یہ نوحہ پڑھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیدے اذن سخن یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الوطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Raza (a.s)",
+  "subcategory": "امام رضا (ع)",
   "author": "Salman Azmi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,409 @@
 {
   "remoteId": "g2611_u3089",
-  "title": "So jao sakina",
+  "title": "سو جاؤ سکینہ",
   "body": "بیٹھے تھے جلے خیموں میں سادات بے اماں\nسہمی ہوی تھی بی بیاںبچے تھے حراساں\nزینب نے سن کے دختر شبیر کی فغاں\nبچی کے اشک پونچھ کے دی یوں تسلیاں\n<<DIVIDER>>\nبابا کے بدلے میں تجھے سینے پہ سلاؤں\nسو جاؤ سکینہ\nتم بند کرو آنکھیں میں لوری سناؤں\nسو جاؤ سکینہ\nبابا تو نہیں میں تمہیں پہلو میں سلاؤں\nسو جاؤ سکینہ\n<<DIVIDER>>\nآنکھیں تو کرو بند تو پھر خواب دکھے گا\nآ جاےنگے پھر خواب میں ملنے تمہیں بابا\nوہ آ نہیں سکتے یہاں یہ کیسے بتاؤں\nسو جاؤ سکینہ\nتم بند کرو آنکھیں۔۔۔\n<<DIVIDER>>\nمانا کے بہت درد ہے زخموں میں تمہارے\nظالم نے گوہر چھین کے کانوں سے اتارے\nمیں اشکوں کا مرحم تیرے زخموں پہ لگاؤں\nسو جاؤ سکینہ\nتم بند کرو آنکھیں۔۔۔\n<<DIVIDER>>\nشہزادی یونہی اب تمہیں کرنا ہے گزارا\nخیموں کی جلی خاک ہی بستر ہے تمہارا\nہے گرم زمیں اس لےء زانوں پہ لٹاوں\nسو جاؤ سکینہ\nتم بند کرو آنکھیں۔۔۔\n<<DIVIDER>>\nبابا کے بنا اب تمہیں جینا ہے میری جان\nغم باپ کی فرقت کا بھی سہنا ہے میری جان\nخود اپنی یتیمی کا میں احوال سناؤں\nسو جاؤ سکینہ\nتم بند کرو آنکھیں۔۔۔\n<<DIVIDER>>\nلاے گی ابھی زوجہء حر کوزوں میں پانی\nمٹ جاے گی کچھ دیر میں تشنہ دہانی\nپھر وقت تجھے نیند کا احساس دلاؤں\nسو جاؤ سکینہ\nتم بند کرو آنکھیں۔۔۔\n<<DIVIDER>>\nزینب کا بیاں سنتے ہی اے صفدر و مظہر\nکچھ دیر کو نیند آ گیء بچی کو زمیں پر\nیہ شہ نے کہا خواب میں سینے پہ سلاؤں\nسو جاؤ سکینہ\nتم بند کرو آنکھیں۔۔۔",
+  "styling": [
+    {
+      "insert": "بیٹھے تھے جلے خیموں میں سادات بے اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہمی ہوی تھی بی بیاںبچے تھے حراساں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے سن کے دختر شبیر کی فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچی کے اشک پونچھ کے دی یوں تسلیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا کے بدلے میں تجھے سینے پہ سلاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاؤ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم بند کرو آنکھیں میں لوری سناؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاؤ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تو نہیں میں تمہیں پہلو میں سلاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاؤ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھیں تو کرو بند تو پھر خواب دکھے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ جاےنگے پھر خواب میں ملنے تمہیں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ آ نہیں سکتے یہاں یہ کیسے بتاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاؤ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم بند کرو آنکھیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمانا کے بہت درد ہے زخموں میں تمہارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم نے گوہر چھین کے کانوں سے اتارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں اشکوں کا مرحم تیرے زخموں پہ لگاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاؤ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم بند کرو آنکھیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہزادی یونہی اب تمہیں کرنا ہے گزارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں کی جلی خاک ہی بستر ہے تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے گرم زمیں اس لےء زانوں پہ لٹاوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاؤ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم بند کرو آنکھیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا کے بنا اب تمہیں جینا ہے میری جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم باپ کی فرقت کا بھی سہنا ہے میری جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود اپنی یتیمی کا میں احوال سناؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاؤ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم بند کرو آنکھیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاے گی ابھی زوجہء حر کوزوں میں پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مٹ جاے گی کچھ دیر میں تشنہ دہانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر وقت تجھے نیند کا احساس دلاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاؤ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم بند کرو آنکھیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کا بیاں سنتے ہی اے صفدر و مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ دیر کو نیند آ گیء بچی کو زمیں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شہ نے کہا خواب میں سینے پہ سلاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاؤ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم بند کرو آنکھیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

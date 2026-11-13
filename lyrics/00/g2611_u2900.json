@@ -1,12 +1,333 @@
 {
   "remoteId": "g2611_u2900",
-  "title": "Sakina phir akeli",
+  "title": "سکینہ پھر اکیلی",
   "body": "ہاے یتیمہ ہاے سکینہ\n<<DIVIDER>>\nنہیں تربت پہ کوئی رونے والا\nسکینہ پھر اکیلی ہو گیء ہے\n<<DIVIDER>>\nکھلونے لے کے آ جاتے تھے بچے\nسناتے تھے اسے اصغر کے نوحے\nبہل جاتا تھا دل بچوں سے اس کا\nسکینہ پھر اکیلی۔۔۔\n<<DIVIDER>>\nیہ جانے کون ہے کیا ہے ارادیں\nحرم میں ہنس رہے ہیں قہقہوں سے\nکوی عباس سے کہہ دے خدارا\nسکینہ پھر اکیلی۔۔۔\n<<DIVIDER>>\nلحد میں کہہ رہی ہے بچی رو کر\nیہ ظالم آے ہیں اب کیوں لحد پر\nمجھے ڈر لگ رہا ہے میرے بابا\nسکینہ پھر اکیلی۔۔۔\n<<DIVIDER>>\nسنا ہے رات کو روتی ہے دکھیا\nیہ کر دیتے ہیں تربت پر اندھیرا\nحرام میں چھوڑ دیتے ہیں اکیلا\nسکینہ پھر اکیلی۔۔۔\n<<DIVIDER>>\nبچھا کر فرش تنہا بیٹھی ہوگی\nبہت عاشور پر وہ روی ہوگی\nملا ہوگا نہ جب بابا کا پرسہ\nسکینہ پھر اکیلی۔۔۔\n<<DIVIDER>>\nلحد میں کہتے ہونگے رو کے اصغر\nمجھے چھوڑ آییں بابا شام جا کر\nبہن کے ساتھ میں اپنی رہوں گا\nسکینہ پھر اکیلی۔۔۔\n<<DIVIDER>>\nکہو سجاد شامی عورتوں سے\nنہ بھولے ثانی زہرا کے وعدے\nدر زنداں پہ ہے پھر سے اندھیرا\nسکینہ پھر اکیلی۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے یتیمہ ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہیں تربت پہ کوئی رونے والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ پھر اکیلی ہو گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھلونے لے کے آ جاتے تھے بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سناتے تھے اسے اصغر کے نوحے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہل جاتا تھا دل بچوں سے اس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ پھر اکیلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ جانے کون ہے کیا ہے ارادیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم میں ہنس رہے ہیں قہقہوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی عباس سے کہہ دے خدارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ پھر اکیلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلحد میں کہہ رہی ہے بچی رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ظالم آے ہیں اب کیوں لحد پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے ڈر لگ رہا ہے میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ پھر اکیلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنا ہے رات کو روتی ہے دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کر دیتے ہیں تربت پر اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرام میں چھوڑ دیتے ہیں اکیلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ پھر اکیلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچھا کر فرش تنہا بیٹھی ہوگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت عاشور پر وہ روی ہوگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملا ہوگا نہ جب بابا کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ پھر اکیلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلحد میں کہتے ہونگے رو کے اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے چھوڑ آییں بابا شام جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہن کے ساتھ میں اپنی رہوں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ پھر اکیلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہو سجاد شامی عورتوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ بھولے ثانی زہرا کے وعدے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در زنداں پہ ہے پھر سے اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ پھر اکیلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mir Sajjad Mir",
   "anjumans": [],
   "verified": false

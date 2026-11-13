@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u2375",
-  "title": "Mera ishq ya hussain",
+  "title": "میرا عشق یا حسین",
   "body": "میں ارض کربلا ہوں میرا عشق یا حسین\nمیں عاشق عزا ہوں میرا عشق یا حسین\n<<DIVIDER>>\nتم جاؤ انبیاء کے عریضوں سے پوچھ لو\nدنیا کے لا علاج مریضوں سے پوچھ لو\nمیں مرکز شفا ہوں میرا عشق یا حسین\nمیں ارض کربلا ہوں۔۔۔\n<<DIVIDER>>\nمجھ پر کرم خدا کا زمانے سے ہے جدا\nمیرا بھرم ہے روضہء عباس با وفا\nمیں قبلہء وفا ہوں میرا عشق یا حسین\nمیں ارض کربلا ہوں۔۔۔\n<<DIVIDER>>\nپتھر تراش کر میں بناتی ہوں در اسے\nنابین کوئی جو ہو تو بناتی ہوں حر اسے\nبخشش کا آسرا ہوں میرا عشق یا حسین\nمیں ارض کربلا ہوں۔۔۔\n<<DIVIDER>>\nآنکھوں کے نور اور دل و جان سیدہ\nمدفن ہے میری ذات میں ارمان سیدہ\nمیں قبر فاطمہ میرا عشق یا حسین\nمیں ارض کربلا ہوں۔۔۔\n<<DIVIDER>>\nدیکھی ہے میں نے گردن سرور کٹی ہوی\nدیکھی ہے میں نے چادر زینب لٹی ہوی\nمیں غم میں مبتلا ہوں میرا عشق یا حسین\nمیں ارض کربلا ہوں۔۔۔\n<<DIVIDER>>\nعابد کی بے بسی میں بسای گیء ہوں میں\nسر کی ردائیں دے کے بچای گیء ہوں میں\nزینب کی میں صدا ہوں میرا عشق یا حسین\nمیں ارض کربلا ہوں۔۔۔\n<<DIVIDER>>\nوہ پسلیوں کو تھام کر اب تک ہے نوحہ گر\nیاسر جو کہہ رہی ہے کہ پیاسا میرا پسر\nاس ماں کی میں بکا ہوں میرا عشق یا حسین\nمیں ارض کربلا ہوں۔۔۔",
+  "styling": [
+    {
+      "insert": "میں ارض کربلا ہوں میرا عشق یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں عاشق عزا ہوں میرا عشق یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم جاؤ انبیاء کے عریضوں سے پوچھ لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا کے لا علاج مریضوں سے پوچھ لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں مرکز شفا ہوں میرا عشق یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ارض کربلا ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ پر کرم خدا کا زمانے سے ہے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بھرم ہے روضہء عباس با وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں قبلہء وفا ہوں میرا عشق یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ارض کربلا ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپتھر تراش کر میں بناتی ہوں در اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نابین کوئی جو ہو تو بناتی ہوں حر اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بخشش کا آسرا ہوں میرا عشق یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ارض کربلا ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھوں کے نور اور دل و جان سیدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدفن ہے میری ذات میں ارمان سیدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں قبر فاطمہ میرا عشق یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ارض کربلا ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھی ہے میں نے گردن سرور کٹی ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھی ہے میں نے چادر زینب لٹی ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں غم میں مبتلا ہوں میرا عشق یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ارض کربلا ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعابد کی بے بسی میں بسای گیء ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کی ردائیں دے کے بچای گیء ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی میں صدا ہوں میرا عشق یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ارض کربلا ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ پسلیوں کو تھام کر اب تک ہے نوحہ گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاسر جو کہہ رہی ہے کہ پیاسا میرا پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس ماں کی میں بکا ہوں میرا عشق یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ارض کربلا ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Yasir Abbas",
   "anjumans": [],
   "verified": false

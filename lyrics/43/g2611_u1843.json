@@ -1,7 +1,592 @@
 {
   "remoteId": "g2611_u1843",
-  "title": "Kahan ghareeb ka",
+  "title": "کہاں غریب کا",
   "body": "غم حسین میں کیسا شرف یہ پایا ہے\nکہ اپنے ہاتھوں سے میں نے الم سجایا ہے\nسنا ہے آتی ہے مجلس میں فاطمہ زہرا\nیہ بات سونچ کے فرش عزا بچھایا ہے\n<<DIVIDER>>\nکرم یہ مجلس شبیر نے کیا ورنہ\nکہاں غریب کا گھر اور کہاں حسین کی ماں\n<<DIVIDER>>\nخبر ہے بنت رسول خدا کے آنے کی\nبدل رہی ہے ہوایں غریب خانے کی\nمیرا نصیب کے مہماں ہوی میری زہرا\nکہاں غریب کا گھر۔۔۔\n<<DIVIDER>>\nفرشتے شاہ و گداگر سبھی ہیں پیش نظر\nہیں انبیاء کی خطاریں لگی میرے گھر پر\nتمہارے آنے سے بی بی یہ مرتبہ پایا\nکہاں غریب کا گھر۔۔۔\n<<DIVIDER>>\nیہ مجلسِ شبیر میں بہتے ہوئے آنسوں\nفردوس کے باغوں میں سجا دیتی ہے زہرا\nشہزادی زمیں پر اسے گرنے نہیں دیتی\nبچ جائے تو کوثر میں ملا دیتی ہے زہرا\n<<DIVIDER>>\nیہ نوحہ خوانی یہ سوز و سلام اور ماتم\nہمارے آشک ہے بی بی کے زخم کا مرحم\nاگر نہ ہوتے وسیلہ یہ ماتم و نوحہ\nکہاں غریب کا گھر۔۔۔\n<<DIVIDER>>\nغریب خانے کو جنت بنا دیا بی بی\nخوشی یہ ایسی ہے جس نے رلا دیا بی بی\nہر ایک آشک نے آنکھوں سے گرتے گرتے کہا\nکہاں غریب کا گھر۔۔۔\n<<DIVIDER>>\nسر حسین جو شیریں کے گھر میں آیا تھا\nسر حسین کے ہمراہ آی تھی زہرا\nجو دیکھا بی بی کو شیریں نے یہ کیا نوحہ\nکہاں غریب کا گھر۔۔۔\n<<DIVIDER>>\nجب کسی گھر میں کوئی مر جائے\nدنیا غم بانٹنے کو آتی ہے\nہاے کتنی غریب ہے زہرا\nپرسہ لینے بھی چل کے آتی ہیں\n<<DIVIDER>>\nگھر میں میرے مجلس ہوی\nاور بچھ گیا فرش عزا\nذاکر نے جب مجلس پڑھی\nاور حال رخصت کا جو پڑھا\nاتنا روی زہرا\n<<DIVIDER>>\nفرحان اور مظہر پڑھا\nنوحہ شہ مظلوم کا\nتھا ذکر جب عاشور کا\nشبیر پر خنجر چلا\nاتنا روی زہرا\n<<DIVIDER>>\nدیتے رہے اہل عزا\nغازی کا پرسہ سرور کا پرسہ\nاکبر کا قاسم کا اصغر کا پرسہ\nاتنا روی زہرا\n<<DIVIDER>>\nزینب کا کلثوم و فضہ کا پرسہ\nسجاد بالی سکینہ کا پرسہ\nاتنا روی زہرا\n<<DIVIDER>>\nبالی کا پرسہ چادر پرسہ\nعون و محمد کا باقر کا پرسہ\nاتنا روی زہرا\n<<DIVIDER>>\nنیزوں پہ رکھے ہر ایک سر کا پرسہ\nبی بی تمہارے بھرے گھر کا پرسہ\nاتنا روی زہرا",
+  "styling": [
+    {
+      "insert": "غم حسین میں کیسا شرف یہ پایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اپنے ہاتھوں سے میں نے الم سجایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنا ہے آتی ہے مجلس میں فاطمہ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بات سونچ کے فرش عزا بچھایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرم یہ مجلس شبیر نے کیا ورنہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں غریب کا گھر اور کہاں حسین کی ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخبر ہے بنت رسول خدا کے آنے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بدل رہی ہے ہوایں غریب خانے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا نصیب کے مہماں ہوی میری زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں غریب کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرشتے شاہ و گداگر سبھی ہیں پیش نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہیں انبیاء کی خطاریں لگی میرے گھر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے آنے سے بی بی یہ مرتبہ پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں غریب کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ مجلسِ شبیر میں بہتے ہوئے آنسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فردوس کے باغوں میں سجا دیتی ہے زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہزادی زمیں پر اسے گرنے نہیں دیتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچ جائے تو کوثر میں ملا دیتی ہے زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ نوحہ خوانی یہ سوز و سلام اور ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمارے آشک ہے بی بی کے زخم کا مرحم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر نہ ہوتے وسیلہ یہ ماتم و نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں غریب کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغریب خانے کو جنت بنا دیا بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوشی یہ ایسی ہے جس نے رلا دیا بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک آشک نے آنکھوں سے گرتے گرتے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں غریب کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر حسین جو شیریں کے گھر میں آیا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر حسین کے ہمراہ آی تھی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو دیکھا بی بی کو شیریں نے یہ کیا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں غریب کا گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب کسی گھر میں کوئی مر جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا غم بانٹنے کو آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے کتنی غریب ہے زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ لینے بھی چل کے آتی ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر میں میرے مجلس ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور بچھ گیا فرش عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذاکر نے جب مجلس پڑھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور حال رخصت کا جو پڑھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا روی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرحان اور مظہر پڑھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ شہ مظلوم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا ذکر جب عاشور کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر پر خنجر چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا روی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیتے رہے اہل عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کا پرسہ سرور کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کا قاسم کا اصغر کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا روی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کا کلثوم و فضہ کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد بالی سکینہ کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا روی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبالی کا پرسہ چادر پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عون و محمد کا باقر کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا روی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزوں پہ رکھے ہر ایک سر کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی تمہارے بھرے گھر کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا روی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

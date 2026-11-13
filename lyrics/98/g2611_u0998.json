@@ -1,12 +1,415 @@
 {
   "remoteId": "g2611_u0998",
-  "title": "Bhai se milaade",
+  "title": "بھای سے ملا دے",
   "body": "نانا بھای سے ملال دے\n<<DIVIDER>>\nچھوڑ کے مقتل میں آی ہوں\nنانا بھای سے ملال دے\n<<DIVIDER>>\nعاشور کو ایسا اجڑی\nبھای سے چھوٹی غازی سے بچھڑی\nاکبر برچھی کھاے\nنانا بھای سے ملال دے۔۔۔\n<<DIVIDER>>\nشام غریباں بابا تھے آے\nمیں بے پردہ سر کو جھکاے\nروتی تھی میں شرماے\nنانا بھای سے ملال دے۔۔۔\n<<DIVIDER>>\nلگتے تھے درے چھنتی تھی چادر\nروتے تھے بچے یہ کہہ کہہ کر\nغازی کیوں نہیں آے\nنانا بھای سے ملال دے۔۔۔\n<<DIVIDER>>\nگھر سے چلی تھی بھائی کو لے کر\nجاؤں میں کیسے سب کو کھو کر\nدل میرا گھبرایے\nنانا بھای سے ملال دے۔۔۔\n<<DIVIDER>>\nبھای کا مقصد ایسے بچاے\nپشت پہ درے میں نے کھاے\nبچے یاد نہ آے\nنانا بھای سے ملال دے۔۔۔\n<<DIVIDER>>\nہم اپنا گھر بار لٹا کر\nجلتے ہوے خیمے سے بچا کر\nدین کو تیرے لاے\nنانا بھای سے ملال دے۔۔۔\n<<DIVIDER>>\nکیسے بتاؤں میں وہ منظر\nسینے پہ قاتل حلق پہ خنجر\nکیوں یہ دن دکھلاے\nنانا بھای سے ملال دے۔۔۔\n<<DIVIDER>>\nہے یہ دعا زہرا کی تم کو\nنوحہ خوانوں ماتم داروں\nآنچ نہ تم پر آے\nنانا بھای سے ملال دے۔۔۔\n<<DIVIDER>>\nمحسن کی ہے خواہش زہرا\nجتنا ہو دشمن کا پہرہ\nآپ کو نوحہ سناے\nنانا بھای سے ملال دے۔۔۔",
+  "styling": [
+    {
+      "insert": "نانا بھای سے ملال دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھوڑ کے مقتل میں آی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا بھای سے ملال دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشور کو ایسا اجڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای سے چھوٹی غازی سے بچھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر برچھی کھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا بھای سے ملال دے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام غریباں بابا تھے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بے پردہ سر کو جھکاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی تھی میں شرماے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا بھای سے ملال دے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلگتے تھے درے چھنتی تھی چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے تھے بچے یہ کہہ کہہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کیوں نہیں آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا بھای سے ملال دے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر سے چلی تھی بھائی کو لے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاؤں میں کیسے سب کو کھو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میرا گھبرایے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا بھای سے ملال دے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای کا مقصد ایسے بچاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پشت پہ درے میں نے کھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچے یاد نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا بھای سے ملال دے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم اپنا گھر بار لٹا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے ہوے خیمے سے بچا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دین کو تیرے لاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا بھای سے ملال دے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے بتاؤں میں وہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے پہ قاتل حلق پہ خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں یہ دن دکھلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا بھای سے ملال دے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے یہ دعا زہرا کی تم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ خوانوں ماتم داروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنچ نہ تم پر آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا بھای سے ملال دے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمحسن کی ہے خواہش زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جتنا ہو دشمن کا پہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کو نوحہ سناے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا بھای سے ملال دے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Toosi Zangipuri",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,301 @@
 {
   "remoteId": "g2611_u3025",
-  "title": "Shabbir tera matam",
+  "title": "شبیر تیرا ماتم",
   "body": "ماتم کرو شبیر کا ہاے زینب دلگیر کا\nشبیر تیرا ماتم مومن کی نشانی ہے\n<<DIVIDER>>\nبخشش کی ضمانت ہے جو آنکھ میں پانی ہے\nشبیر تیرا ماتم مومن کی نشانی ہے\n<<DIVIDER>>\nیہ داغ نہیں لوگوں ہے معجزہ ماتم کا\nسینے پہ لکھی میرے کربل کی کہانی ہے\nماتم کرو شبیر کا۔۔۔\nشبیر تیرا ماتم۔۔۔\n<<DIVIDER>>\nغازی کا علم لے کے بازار میں آے ہیں\nروداد اسیروں کی دنیا کو سنانی ہے\nماتم کرو شبیر کا۔۔۔\nشبیر تیرا ماتم۔۔۔\n<<DIVIDER>>\nزینب نے شروع کی تھی زنداں میں عزاداری\nصدیوں سے چلی یہ ریت پرانی ہے\nماتم کرو شبیر کا۔۔۔\nشبیر تیرا ماتم۔۔۔\n<<DIVIDER>>\nآتی ہے صدا اب بھی کربل کی فضاؤں سے\nشبیر حقیقت میں اسلام کا بانی ہے\nماتم کرو شبیر کا۔۔۔\nشبیر تیرا ماتم۔۔۔\n<<DIVIDER>>\nدے پرسہ بہتر کا زہرا کے لٹے گھر کا\nہر سال محرم میں یہ یاد دلانی ہے\nماتم کرو شبیر کا۔۔۔\nشبیر تیرا ماتم۔۔۔\n<<DIVIDER>>\nمظلوم کے ماتم میں مرنا ہی سعادت ہے\nویسے بھی جواد اک دن یہ جان تو جانی ہے\nماتم کرو شبیر کا۔۔۔\nشبیر تیرا ماتم۔۔۔",
+  "styling": [
+    {
+      "insert": "ماتم کرو شبیر کا ہاے زینب دلگیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر تیرا ماتم مومن کی نشانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبخشش کی ضمانت ہے جو آنکھ میں پانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر تیرا ماتم مومن کی نشانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ داغ نہیں لوگوں ہے معجزہ ماتم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے پہ لکھی میرے کربل کی کہانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو شبیر کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر تیرا ماتم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغازی کا علم لے کے بازار میں آے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روداد اسیروں کی دنیا کو سنانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو شبیر کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر تیرا ماتم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے شروع کی تھی زنداں میں عزاداری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدیوں سے چلی یہ ریت پرانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو شبیر کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر تیرا ماتم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآتی ہے صدا اب بھی کربل کی فضاؤں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر حقیقت میں اسلام کا بانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو شبیر کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر تیرا ماتم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدے پرسہ بہتر کا زہرا کے لٹے گھر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سال محرم میں یہ یاد دلانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو شبیر کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر تیرا ماتم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمظلوم کے ماتم میں مرنا ہی سعادت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویسے بھی جواد اک دن یہ جان تو جانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو شبیر کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر تیرا ماتم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Jawad Jaffri",
   "anjumans": [],
   "verified": false

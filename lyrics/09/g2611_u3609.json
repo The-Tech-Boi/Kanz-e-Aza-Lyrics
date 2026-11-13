@@ -1,12 +1,442 @@
 {
   "remoteId": "g2611_u3609",
-  "title": "Zara rok le khanjar",
+  "title": "زرا روک لے خنجر",
   "body": "زینب کو دیکھا شہ نے جو نزدیک قتل گاہ\nاس دم غریب زہرا نے قاتل سے یہ کہا\n<<DIVIDER>>\nزینب نکل آئی ہے ذرا روک لے خنجر\nمولا یہ صدا دیتے تھے اے شمر ستم گر\nزینب نکل آئی ہے۔۔۔\n<<DIVIDER>>\nآخر کو صفر ہونا ہے اس دار محن سے\nدو با تیں تو کر لینے دے بھائی کو بہن سے\nآتی ہے میری سمت میری لاڈلی خواہر\nزینب نکل آئی ہے۔۔۔\n<<DIVIDER>>\nتو لاکھ ستم گر ہے مگر کام یہ کر جا\nاے شمر میرے سینے سے کچھ دیر اتر جا\nمر جائے گی اس حال میں دیکھا جو برادر\nزینب نکل آئی ہے۔۔۔\n<<DIVIDER>>\nبھائی کی محبت میں وہ بیتاب ہوئی ہے\nخیمے سے بہت تیز وہ مقتل کو چلی ہے\nسر سے میری بہنا کے اتر جائے نہ چادر\nزینب نکل آئی ہے۔۔۔\n<<DIVIDER>>\nدیدار کرے وہ میرا میں بھی اسے دیکھوں\nزخمی ہوں مگر آخری تعظیم تو کر لوں\nاے شمر بہن ہے یہ میری ماں کے برابر\nزرا روک لے خنجر۔\nزینب نکل آئی ہے۔۔۔\n<<DIVIDER>>\nزینب چلی جائے تو ستم چاہے جو ڈھانا\nہٹ جائے بہن میری تو خنجر کو چلانا\nکچھ دیر میرے شانوں پہ رہنے دے میرا سر\nزینب نکل آئی ہے۔۔۔\n<<DIVIDER>>\nعباس کی خاطر مجھے پیغام یہ دےگی\nشاید علی اکبر کی کوئی بات کرے گی\nکچھ دیر تو رونے دے بہن بھائی کو مل کر\nزینب نکل آئی ہے۔۔۔\n<<DIVIDER>>\nمظلوم کی تصویر کو آنکھوں میں بسا کر\nشبیر سے معصوم سکینہ کو ملا کر\nوعدہ ہے چلی جائے گی واپس مری خواہر\nزینب نکل آئی ہے۔۔۔\n<<DIVIDER>>\nکہنے لگا مولا سے ستم گار یہ ہنس کر\nپہلے بھی نکل آئی تھی یہ خیمے سے باہر\nشہ نے کہا جب قتل ہوا تھا علی اکبر\nزینب نکل آئی ہے۔۔۔\n<<DIVIDER>>\nسر شہ کا جدا کرنے میں مصروف لعیں تھا\nکیا کہتا ہے مظلوم وہ سنتا ہی نہیں تھا\nکہتا رہا سر تن سے جدا ہو کے بھی اکبر\nزینب نکل آئی ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "زینب کو دیکھا شہ نے جو نزدیک قتل گاہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس دم غریب زہرا نے قاتل سے یہ کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نکل آئی ہے ذرا روک لے خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا یہ صدا دیتے تھے اے شمر ستم گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل آئی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآخر کو صفر ہونا ہے اس دار محن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو با تیں تو کر لینے دے بھائی کو بہن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی ہے میری سمت میری لاڈلی خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل آئی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو لاکھ ستم گر ہے مگر کام یہ کر جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شمر میرے سینے سے کچھ دیر اتر جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جائے گی اس حال میں دیکھا جو برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل آئی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھائی کی محبت میں وہ بیتاب ہوئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے سے بہت تیز وہ مقتل کو چلی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر سے میری بہنا کے اتر جائے نہ چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل آئی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیدار کرے وہ میرا میں بھی اسے دیکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہوں مگر آخری تعظیم تو کر لوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شمر بہن ہے یہ میری ماں کے برابر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زرا روک لے خنجر۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل آئی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب چلی جائے تو ستم چاہے جو ڈھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہٹ جائے بہن میری تو خنجر کو چلانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ دیر میرے شانوں پہ رہنے دے میرا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل آئی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس کی خاطر مجھے پیغام یہ دےگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاید علی اکبر کی کوئی بات کرے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ دیر تو رونے دے بہن بھائی کو مل کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل آئی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمظلوم کی تصویر کو آنکھوں میں بسا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر سے معصوم سکینہ کو ملا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ ہے چلی جائے گی واپس مری خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل آئی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہنے لگا مولا سے ستم گار یہ ہنس کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلے بھی نکل آئی تھی یہ خیمے سے باہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ نے کہا جب قتل ہوا تھا علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل آئی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر شہ کا جدا کرنے میں مصروف لعیں تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کہتا ہے مظلوم وہ سنتا ہی نہیں تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتا رہا سر تن سے جدا ہو کے بھی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل آئی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

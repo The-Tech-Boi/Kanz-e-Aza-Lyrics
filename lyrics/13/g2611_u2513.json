@@ -1,12 +1,382 @@
 {
   "remoteId": "g2611_u2513",
-  "title": "Na jaane kis tarha",
+  "title": "نہ جانے کس طرح",
   "body": "نہ جانے کس طرح لیلیٰ نے دیکھا\nجواں بیٹا ہے اور زخمی کلیجہ\n<<DIVIDER>>\nخدایا کیسے سرور نے اٹھایا\nضعیفی میں جواں بیٹے کا لاشہ\nرکھا خیمے میں لا کر جب جنازہ\nوہ لاشہ سر سے پا تک خوں بھرا تھا\nنہ جانے کس طرح۔۔۔\n<<DIVIDER>>\nمدینے میں وہ اکثر سوچتی تھی\nبہو ہوگی ہماری چاند جیسی\nبڑا ارمان تھا شادی کا جس کا\nوہی اب سامنے بے جاں پڑا تھا\nنہ جانے کس طرح۔۔۔\n<<DIVIDER>>\nبسارت جا چکی سبط نبی کی\nہوی ہے ختم رونق زندگی کی\nلٹی دنیا حسین ابنِ علی کی\nسمٹ آیا ہے آنکھوں میں اندھیرا\nنہ جانے کس طرح۔۔۔\n<<DIVIDER>>\nبڑا ظالم ہوا تھا یہ زمانہ\nکیء ہتھیار تھے اور ایک نشانہ\nجوانی میں وہ پھل برچھی کا کھانا\nشبیہ مصطفیٰ پر ظلم ایسا\nنہ جانے کس طرح۔۔۔\n<<DIVIDER>>\nوہ جس کا حسن تھا حسن پیمبر\nتھا اس پر یہ ستم اللّٰہ اکبر\nوطن میں منتظر تھی جس کی خواہر\nوہی اب خون میں ڈوبا پڑا تھا\nنہ جانے کس طرح۔۔۔\n<<DIVIDER>>\nکمال صبر کا یہ معجزہ تھا\nکہ خدا کو کیسے زینب نے سنبھالا\nجسے اٹھارہ برسوں تک تھا پالا\nاسی کے قلب میں ٹوٹا تھا نیزہ\nنہ جانے کس طرح۔۔۔\n<<DIVIDER>>\nکوئی پوچھے علی اکبر کی ماں سے\nگزرتی کیا ہے مرگ نوجواں سے\nصدا آتی ہے احسن آسماں سے\nرہے گی عمر بھر سکتے میں دکھیا\nنہ جانے کس طرح۔۔۔",
+  "styling": [
+    {
+      "insert": "نہ جانے کس طرح لیلیٰ نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جواں بیٹا ہے اور زخمی کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخدایا کیسے سرور نے اٹھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضعیفی میں جواں بیٹے کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھا خیمے میں لا کر جب جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ لاشہ سر سے پا تک خوں بھرا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے کس طرح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمدینے میں وہ اکثر سوچتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہو ہوگی ہماری چاند جیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑا ارمان تھا شادی کا جس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہی اب سامنے بے جاں پڑا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے کس طرح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبسارت جا چکی سبط نبی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوی ہے ختم رونق زندگی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا حسین ابنِ علی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سمٹ آیا ہے آنکھوں میں اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے کس طرح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبڑا ظالم ہوا تھا یہ زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیء ہتھیار تھے اور ایک نشانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوانی میں وہ پھل برچھی کا کھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیہ مصطفیٰ پر ظلم ایسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے کس طرح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ جس کا حسن تھا حسن پیمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا اس پر یہ ستم اللّٰہ اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وطن میں منتظر تھی جس کی خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہی اب خون میں ڈوبا پڑا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے کس طرح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکمال صبر کا یہ معجزہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ خدا کو کیسے زینب نے سنبھالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسے اٹھارہ برسوں تک تھا پالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی کے قلب میں ٹوٹا تھا نیزہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے کس طرح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی پوچھے علی اکبر کی ماں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گزرتی کیا ہے مرگ نوجواں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدا آتی ہے احسن آسماں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہے گی عمر بھر سکتے میں دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے کس طرح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Hasan Abbas Ahsan",
   "anjumans": [],
   "verified": false

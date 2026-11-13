@@ -1,12 +1,503 @@
 {
   "remoteId": "g2611_u1781",
-  "title": "Jeete raho auno",
+  "title": "جیتے رہو عون",
   "body": "اے میرے پیاروں راج دلاروں\nراضی ہوی ماں خلد سدھارو\n<<DIVIDER>>\nلاشوں پہ یہ بچوں کی صدا دیتی تھی مادر\nجیتے رہو عون و محمد\n<<DIVIDER>>\nکیا جنگ لڑی پیاس میں زینب کے دلاروں\nاستاد کو آداب کرو اے میرے پیاروں\nتعریف بہت کرتے ہیں عباس دلاور\nجیتے رہو عون و محمد۔۔۔\n<<DIVIDER>>\nماں قرض اتارے تو بھلا کیسے اتارے\nکھل کر بتاتے ہیں ہمیں زخم تمہارے\nتم نے میرے بھائی کے لئے کھاے ہیں پتھر\nجیتے رہو عون و محمد۔۔۔\n<<DIVIDER>>\nمادر نہ کہے گی کہ کوئی کام کرو تم\nجا گے ہوے راتوں کے ہو آرام کرو تم\nاب تم کو جاگے گی نہ مظلوم کی خواہر\nجیتے رہو عون و محمد۔۔۔\n<<DIVIDER>>\nاے دلبران جعفر طیار\nالوداع الوداع الوداع الوداع\n<<DIVIDER>>\nشمر و عمر کے سر جو اتارو تو خوش ہوں میں\nدشمن کو جھوم جھوم کے مارو تو خوش ہوں میں\n<<DIVIDER>>\nاے دلبران جعفر طیار\nالوداع الوداع الوداع الوداع\n<<DIVIDER>>\nبھای کی طرف دیکھ کے دم بھای نے توڑا\nقبضہ نہ مگر ہاتھ سے شمشیر کا چھوڑا\nکیا خوب ہے انداز میں قربان ہوں تم پر\nجیتے رہو عون و محمد۔۔۔\n<<DIVIDER>>\nاب دل میں یہ خواہش ہے جو گھر لوٹ کے جاؤں\nپانی میں صدا نام پہ دونوں کے پلاؤں\nپیاسے جو پلٹ آے ہو تم نہر پہ جا کر\nجیتے رہو عون و محمد۔۔۔\n<<DIVIDER>>\nاے دلبران جعفر طیار\nالوداع الوداع الوداع الوداع\n<<DIVIDER>>\nبچوں ضعیف ماموں کو زحمت نہ دیجئیو\nلاشے اٹھائیں بھائی تو جنبش نہ کیجئیو\n<<DIVIDER>>\nاے دلبران جعفر طیار\nالوداع الوداع الوداع الوداع\n<<DIVIDER>>\nخون بہتا رہا منہ سے شکایت نہیں نکلی\nبازو پہ چلی تیغ جگر پر لگی برچھی\nرو رو کے دعا دیتے ہے خود ہمزہ و جعفر\nجیتے رہو عون و محمد۔۔۔\n<<DIVIDER>>\nممتا نے تکلم رکھا جزبات پہ قابو\nبھای کے لئے رکھ لیےء بی بی نے سب آنسوں\nسر چوم کے بچوں کے یہ کہتی رہی مضطر\nجیتے رہو عون و محمد۔۔۔\n<<DIVIDER>>\nاے دلبران جعفر طیار\nالوداع الوداع الوداع الوداع",
+  "styling": [
+    {
+      "insert": "اے میرے پیاروں راج دلاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راضی ہوی ماں خلد سدھارو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشوں پہ یہ بچوں کی صدا دیتی تھی مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیتے رہو عون و محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا جنگ لڑی پیاس میں زینب کے دلاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "استاد کو آداب کرو اے میرے پیاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تعریف بہت کرتے ہیں عباس دلاور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیتے رہو عون و محمد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں قرض اتارے تو بھلا کیسے اتارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھل کر بتاتے ہیں ہمیں زخم تمہارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم نے میرے بھائی کے لئے کھاے ہیں پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیتے رہو عون و محمد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمادر نہ کہے گی کہ کوئی کام کرو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا گے ہوے راتوں کے ہو آرام کرو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تم کو جاگے گی نہ مظلوم کی خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیتے رہو عون و محمد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے دلبران جعفر طیار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع الوداع الوداع"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشمر و عمر کے سر جو اتارو تو خوش ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشمن کو جھوم جھوم کے مارو تو خوش ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے دلبران جعفر طیار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع الوداع الوداع"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای کی طرف دیکھ کے دم بھای نے توڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبضہ نہ مگر ہاتھ سے شمشیر کا چھوڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا خوب ہے انداز میں قربان ہوں تم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیتے رہو عون و محمد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب دل میں یہ خواہش ہے جو گھر لوٹ کے جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی میں صدا نام پہ دونوں کے پلاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسے جو پلٹ آے ہو تم نہر پہ جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیتے رہو عون و محمد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے دلبران جعفر طیار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع الوداع الوداع"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچوں ضعیف ماموں کو زحمت نہ دیجئیو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے اٹھائیں بھائی تو جنبش نہ کیجئیو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے دلبران جعفر طیار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع الوداع الوداع"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون بہتا رہا منہ سے شکایت نہیں نکلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازو پہ چلی تیغ جگر پر لگی برچھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے دعا دیتے ہے خود ہمزہ و جعفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیتے رہو عون و محمد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nممتا نے تکلم رکھا جزبات پہ قابو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کے لئے رکھ لیےء بی بی نے سب آنسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر چوم کے بچوں کے یہ کہتی رہی مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیتے رہو عون و محمد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے دلبران جعفر طیار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع الوداع الوداع"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Aon o Mohd (a.s)",
+  "subcategory": "عون و محمد (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

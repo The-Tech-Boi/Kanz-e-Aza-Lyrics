@@ -1,12 +1,658 @@
 {
   "remoteId": "g2611_u1806",
-  "title": "Jo maango wo",
+  "title": "جو مانگو وہ",
   "body": "باب الحوایج یا عباس\nسقاے اہل حرم\nاونچا ہے جس کا علم\nکیسا وسیلہ رب نے دیا ہے\nباب حوایج جس کو کہا ہے\nدنیا سے لو نہ لگاؤ\nدل کی مرادیں پاؤ\nآؤ در عباس پہ آؤ\nجھولیاں پھیلاؤ ملنگوں\nجو مانگو وہ مل جائے گا\n<<DIVIDER>>\nیہ حضرتِ عباس کا در ہے\nجو مانگو وہ مل جائے گا\n<<DIVIDER>>\nاپنی قسمت جگانے آجاؤ\nاپنی منت اٹھانے آ جاؤ\nدل کا جو حال ہے نہ دل میں رکھو\nجو بھی غم ہے سنانے آ جاؤ\nجھولیاں پھیلاؤ ملنگوں\nجو مانگو وہ۔۔۔\n<<DIVIDER>>\nسب مرادیں یہاں پہ پاؤ گے\nجھولیاں اپنی بھر کے جاؤ گے\nکیسے ممکن ہے نہ سنے غازی\nتم جو فریاد لے کے جاؤ گے\nجھولیاں پھیلاؤ ملنگوں\nجو مانگو وہ۔۔۔\n<<DIVIDER>>\nبخت ملتا ہے سکندر کو\nبھیک ملتی ہے ہر تونگر کو\nیہ بلندی ہے اس کے چوکھٹ کی\nآسماں نے جھکا دیا سر کو\nجھولیاں پھیلاؤ ملنگوں\nجو مانگو وہ۔۔۔\n<<DIVIDER>>\nسب غموں کا علاج ہے یہ در\nخوش نصیبی کا آج ہے یہ در\nبے زروں کو بنا دیا بوزر\nکیا سخاوت مزاج ہے یہ در\nجھولیاں پھیلاؤ ملنگوں\nجو مانگو وہ۔۔۔\n<<DIVIDER>>\nخالی دامن جو ہو خواہر\nنیک اولاد مانگ لے آ کر\nیہ ہے شبیر کا سقی بھائی\nجتنے مانگو عطا کرے گا پسر\nجھولیاں پھیلاؤ ملنگوں\nجو مانگو وہ۔۔۔\n<<DIVIDER>>\nبرکت رزق کی دعا مانگو\nہر مرض کی یہاں شفا مانگو\nبھول جاؤ گے غم زمانے کا\nتم غم شاہ کربلا مانگو\nجھولیاں پھیلاؤ ملنگوں\nجو مانگو وہ۔۔۔\n<<DIVIDER>>\nزور بازو شہ مدینہ کا\nیہ چچا ہے اسی سکینہ کا\nخالی لوٹا دے ہو نہیں سکتا\nواسطہ دو اگر سکینہ کا\nجھولیاں پھیلاؤ ملنگوں\nجو مانگو وہ۔۔۔\n<<DIVIDER>>\nواسطہ دو رداے‌ زینب کا\nپیاسے بچوں کا مانگ لو صدقہ\nواسطہ دے کے بس حسین کا تم\nدر پہ غازی کے ایک بار زرا\nجھولیاں پھیلاؤ ملنگوں\nجو مانگو وہ۔۔۔\n<<DIVIDER>>\nیہ جو کہتا ہے ہر گھڑی صفدر\nبات سچی بھی ہے یہی مظہر\nسب ملے گا خلوص‌ دل سے اگر\nمولا غازی کے در پہ تم آ کر\nجھولیاں پھیلاؤ ملنگوں\nجو مانگو وہ۔۔۔",
+  "styling": [
+    {
+      "insert": "باب الحوایج یا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقاے اہل حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اونچا ہے جس کا علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا وسیلہ رب نے دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باب حوایج جس کو کہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا سے لو نہ لگاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کی مرادیں پاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ در عباس پہ آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولیاں پھیلاؤ ملنگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مانگو وہ مل جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ حضرتِ عباس کا در ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مانگو وہ مل جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنی قسمت جگانے آجاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی منت اٹھانے آ جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کا جو حال ہے نہ دل میں رکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو بھی غم ہے سنانے آ جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولیاں پھیلاؤ ملنگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مانگو وہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب مرادیں یہاں پہ پاؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولیاں اپنی بھر کے جاؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے ممکن ہے نہ سنے غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم جو فریاد لے کے جاؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولیاں پھیلاؤ ملنگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مانگو وہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبخت ملتا ہے سکندر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیک ملتی ہے ہر تونگر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بلندی ہے اس کے چوکھٹ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آسماں نے جھکا دیا سر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولیاں پھیلاؤ ملنگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مانگو وہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب غموں کا علاج ہے یہ در"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوش نصیبی کا آج ہے یہ در"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے زروں کو بنا دیا بوزر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا سخاوت مزاج ہے یہ در"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولیاں پھیلاؤ ملنگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مانگو وہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخالی دامن جو ہو خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیک اولاد مانگ لے آ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ہے شبیر کا سقی بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جتنے مانگو عطا کرے گا پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولیاں پھیلاؤ ملنگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مانگو وہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرکت رزق کی دعا مانگو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر مرض کی یہاں شفا مانگو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھول جاؤ گے غم زمانے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم غم شاہ کربلا مانگو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولیاں پھیلاؤ ملنگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مانگو وہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزور بازو شہ مدینہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ چچا ہے اسی سکینہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خالی لوٹا دے ہو نہیں سکتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واسطہ دو اگر سکینہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولیاں پھیلاؤ ملنگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مانگو وہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nواسطہ دو رداے‌ زینب کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسے بچوں کا مانگ لو صدقہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واسطہ دے کے بس حسین کا تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در پہ غازی کے ایک بار زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولیاں پھیلاؤ ملنگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مانگو وہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ جو کہتا ہے ہر گھڑی صفدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بات سچی بھی ہے یہی مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب ملے گا خلوص‌ دل سے اگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا غازی کے در پہ تم آ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولیاں پھیلاؤ ملنگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مانگو وہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

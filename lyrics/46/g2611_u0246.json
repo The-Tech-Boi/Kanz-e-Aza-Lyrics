@@ -1,12 +1,424 @@
 {
   "remoteId": "g2611_u0246",
-  "title": "Abbas mere laal",
+  "title": "عباس میرے لال",
   "body": "بیٹا میری غربت کی کمای کو سنبھالو\nعباس میرے لال کو تم آ کے بچالو\n<<DIVIDER>>\nعباس المدد میرے عباس المدد\nعباس میرے لال کو تم آ کے بچالو\n<<DIVIDER>>\nبھای کے لئے معجزہ دکھلا نہیں سکتے\nتم باب حوایج اگر آ نہیں سکتے\nمقتل کے علاقے کو ترای سے ملادو\nعباس میرے لال کو۔۔۔\n<<DIVIDER>>\nکچھ یاد ہے کیا تم سے کہا تھا دم رخصت\nکیا بھول گےء ام بنیں کی وہ وصیت\nوہ ماں ہے انہیں روٹھنے سے پہلے منالو\nعباس میرے لال کو۔۔۔\n<<DIVIDER>>\nبھای کا گلا کٹتے ہوے دیکھے گی کیسے\nٹکڑوں میں اسے بٹتے ہوی دیکھے گی کیسے\nزینب کو زرا ریت کے ٹیلے سے ہٹاؤ\nعباس میرے لال کو۔۔۔\n<<DIVIDER>>\nبابا سے بچھڑ کر اسے نیند آے گی کیسے\nسینہ نہ ملے گا تو سکوں پاے گی کیسے\nتسکین سکینہ کی کوی راہ نکالو\nعباس میرے لال کو۔۔۔\n<<DIVIDER>>\nاٹھا بھی نہیں جاتا میرے تشنہ دہن سے\nکیسے کہوں پالا ہے اسے کتنے جتن سے\nحیدر کی دعا فاطمہ زہرا کی دعا لو\nعباس میرے لال کو۔۔۔\n<<DIVIDER>>\nجو چار قدم مجھ سے چلا بھی نہیں جاتا\nپہلو ہے شکستہ تو اٹھا بھی نہیں جاتا\nبازوے بریدہ سے مجھے آ کے سنبھالو\nعباس میرے لال کو۔۔۔\n<<DIVIDER>>\nتیروں کے مصلے پہ ہے یثرب کا نمازی\nلللہ چلے آؤ کہاں ہو میرے غازی\nشبیر کے اس آخری سجدے کو بچالو\nعباس میرے لال کو۔۔۔\n<<DIVIDER>>\nتم ام وفا ام مصائب کی کلی ہو\nاے ابنِ علی تم بھی ہو اک ناد علی ہو\nاسلام پہ جو مشکلیں آی ہے وہ ٹالو\nعباس میرے لال کو۔۔۔\n<<DIVIDER>>\nزہرا تیرے نوحوں کا کرم کم ہے یہ ہم پر\nہے آج بھی ہر ماں کی دعا عامر و نیر\nغازی میرے بیٹے کو مصیبت سے چھڑالو\nعباس میرے لال کو۔۔۔",
+  "styling": [
+    {
+      "insert": "بیٹا میری غربت کی کمای کو سنبھالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے لال کو تم آ کے بچالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس المدد میرے عباس المدد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے لال کو تم آ کے بچالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای کے لئے معجزہ دکھلا نہیں سکتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم باب حوایج اگر آ نہیں سکتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل کے علاقے کو ترای سے ملادو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے لال کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ یاد ہے کیا تم سے کہا تھا دم رخصت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بھول گےء ام بنیں کی وہ وصیت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ماں ہے انہیں روٹھنے سے پہلے منالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے لال کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای کا گلا کٹتے ہوے دیکھے گی کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑوں میں اسے بٹتے ہوی دیکھے گی کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کو زرا ریت کے ٹیلے سے ہٹاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے لال کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا سے بچھڑ کر اسے نیند آے گی کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینہ نہ ملے گا تو سکوں پاے گی کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تسکین سکینہ کی کوی راہ نکالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے لال کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھا بھی نہیں جاتا میرے تشنہ دہن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے کہوں پالا ہے اسے کتنے جتن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کی دعا فاطمہ زہرا کی دعا لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے لال کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو چار قدم مجھ سے چلا بھی نہیں جاتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلو ہے شکستہ تو اٹھا بھی نہیں جاتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازوے بریدہ سے مجھے آ کے سنبھالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے لال کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیروں کے مصلے پہ ہے یثرب کا نمازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لللہ چلے آؤ کہاں ہو میرے غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کے اس آخری سجدے کو بچالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے لال کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم ام وفا ام مصائب کی کلی ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ابنِ علی تم بھی ہو اک ناد علی ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسلام پہ جو مشکلیں آی ہے وہ ٹالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے لال کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزہرا تیرے نوحوں کا کرم کم ہے یہ ہم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آج بھی ہر ماں کی دعا عامر و نیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی میرے بیٹے کو مصیبت سے چھڑالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے لال کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Nayyar Jalalpuri",
   "anjumans": [],
   "verified": false

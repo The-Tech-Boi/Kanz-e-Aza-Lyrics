@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u2856",
-  "title": "Sajdaye imtiyaz",
+  "title": "سجدئہ امتیاز",
   "body": "سجدئہ امتیاز ہو جائے\nزیرِ خنجر نماز ہو جائے\n<<DIVIDER>>\nکوئی پانی پلا کے قاتل کو\nتجھ سا مہماں نواز ہو جائے\nسجدئہ امتیاز۔۔۔\n<<DIVIDER>>\nجس نے کھائی ہو تیغ سجدے میں\nاس پہ صدقے نماز ہو جائے\nسجدئہ امتیاز۔۔۔\n<<DIVIDER>>\nجس جگہ تیرِ نقشِ پا بیٹھے\nوہ زمیں سرفراز ہو جائے\nسجدئہ امتیاز۔۔۔\n<<DIVIDER>>\nاک نمازی کے خونِ اطہر سے\nسرخرو جا نماز ہو جائے\nسجدئہ امتیاز۔۔۔\n<<DIVIDER>>\nاک نظر تیری ہو اگر مولا\nمثلِ حُر سرفراز ہو جائے\nسجدئہ امتیاز۔۔۔\n<<DIVIDER>>\nکھُل کے کرنا ہے ماتمِ سرور\nیہ شبِ غم دراز ہو جائے\nسجدئہ امتیاز۔۔۔\n<<DIVIDER>>\nدیکھنا تجھ کو حق پرستی ہے\nبے وضو ہی نماز ہو جائے\nسجدئہ امتیاز۔۔۔\n<<DIVIDER>>\nآرزو یا علی ہے مرزا کی\nتیرے در کا ایاز ہو جائے\nسجدئہ امتیاز۔۔۔",
+  "styling": [
+    {
+      "insert": "سجدئہ امتیاز ہو جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زیرِ خنجر نماز ہو جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی پانی پلا کے قاتل کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھ سا مہماں نواز ہو جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدئہ امتیاز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس نے کھائی ہو تیغ سجدے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس پہ صدقے نماز ہو جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدئہ امتیاز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس جگہ تیرِ نقشِ پا بیٹھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ زمیں سرفراز ہو جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدئہ امتیاز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک نمازی کے خونِ اطہر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرخرو جا نماز ہو جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدئہ امتیاز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک نظر تیری ہو اگر مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مثلِ حُر سرفراز ہو جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدئہ امتیاز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھُل کے کرنا ہے ماتمِ سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شبِ غم دراز ہو جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدئہ امتیاز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھنا تجھ کو حق پرستی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے وضو ہی نماز ہو جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدئہ امتیاز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآرزو یا علی ہے مرزا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے در کا ایاز ہو جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدئہ امتیاز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mirza Murtaza Ali",
   "anjumans": [],
   "verified": false

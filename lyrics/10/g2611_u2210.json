@@ -1,12 +1,549 @@
 {
   "remoteId": "g2611_u2210",
-  "title": "Mai jaa rahi hoo",
+  "title": "میں جا رہی ہوں",
   "body": "یہ کہہ رہی تھی فاطمہ\nہے آخری میرے صدا\nمیں جا رہی ہوں یا علی\n<<DIVIDER>>\nحافظ میرے گھر کے ہو تم\nحافظ تمہارا ہے خدا\nمیں جا رہی ہوں یا علی\n<<DIVIDER>>\nدرد اٹھاتی ہی رہی\nہر ضرب پہ خاموش تھی\nتم سے شکایت ہی نہ کی\nمیں اب نہیں جی پاؤں گی\nاک زخم ہے ایسا لگا\nمیں جا رہی ہوں یا علی\nیہ کہہ رہی تھی فاطمہ۔۔۔\n<<DIVIDER>>\nاس ظلم کی عادی نہ تھی\nکیا میں نبی زادی نہ تھی\nقسمت کی شہزادی نہ تھی\nمیں صبر بھی کرتی رہی\nپھر بھی ستم بڑھتا رہا\nمیں جا رہی ہوں یا علی\nیہ کہہ رہی تھی فاطمہ۔۔۔\n<<DIVIDER>>\nامت سے ناتہ توڑ کے\nدنیا سے منہ کو موڑ کے\nخالق سے رشتہ جوڑ کے\nبچوں کو تنہا چھوڑ کے\nکرتی ہوی آہ و بکا\nمیں جا رہی ہوں یا علی\nیہ کہہ رہی تھی فاطمہ۔۔۔\n<<DIVIDER>>\nیہ زینب و کلثوم ہے\nکمسن ہے اور معصوم ہے\nمیری طرح مظلوم ہے\nپردہ ہے ان کی زندگی\nہونے نہ پاے بے ردا\nمیں جا رہی ہوں یا علی\nیہ کہہ رہی تھی فاطمہ۔۔۔\n<<DIVIDER>>\nلیتی ہوں جب میں سسکیاں\nآتی ہے مجھکو ہچکیاں\nٹوٹی ہوی ہیں پسلیاں\nمیت کو میری قبر میں\nآہستہ سے رکھنا زرا\nمیں جا رہی ہوں یا علی\nیہ کہہ رہی تھی فاطمہ۔۔۔\n<<DIVIDER>>\nمیں سوچتی ہوں یا علی\nپاس ان کے جب میں جاؤں گی\nگزرے گی کیا بابا پہ بھی\nرخ پر طمانچوں کے نشاں\nدیکھے گا جب بابا میرا\nمیں جا رہی ہوں یا علی\nیہ کہہ رہی تھی فاطمہ۔۔۔\n<<DIVIDER>>\nجو احمد مختار کی\nبیٹی تھی اے ماجد وہی\nظلم و ستم سہتی رہی\nرونے لگے شیر خدا\nسن کر یہ زہرا کی صدا\nمیں جا رہی ہوں یا علی\nیہ کہہ رہی تھی فاطمہ۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ کہہ رہی تھی فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آخری میرے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جا رہی ہوں یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحافظ میرے گھر کے ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حافظ تمہارا ہے خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جا رہی ہوں یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدرد اٹھاتی ہی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ضرب پہ خاموش تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم سے شکایت ہی نہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں اب نہیں جی پاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک زخم ہے ایسا لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جا رہی ہوں یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہی تھی فاطمہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس ظلم کی عادی نہ تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا میں نبی زادی نہ تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قسمت کی شہزادی نہ تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں صبر بھی کرتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی ستم بڑھتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جا رہی ہوں یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہی تھی فاطمہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامت سے ناتہ توڑ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا سے منہ کو موڑ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خالق سے رشتہ جوڑ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچوں کو تنہا چھوڑ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی ہوی آہ و بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جا رہی ہوں یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہی تھی فاطمہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ زینب و کلثوم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کمسن ہے اور معصوم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری طرح مظلوم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردہ ہے ان کی زندگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونے نہ پاے بے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جا رہی ہوں یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہی تھی فاطمہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلیتی ہوں جب میں سسکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی ہے مجھکو ہچکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹوٹی ہوی ہیں پسلیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میت کو میری قبر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ سے رکھنا زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جا رہی ہوں یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہی تھی فاطمہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں سوچتی ہوں یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاس ان کے جب میں جاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گزرے گی کیا بابا پہ بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخ پر طمانچوں کے نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھے گا جب بابا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جا رہی ہوں یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہی تھی فاطمہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو احمد مختار کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی تھی اے ماجد وہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم و ستم سہتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے لگے شیر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کر یہ زہرا کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جا رہی ہوں یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہی تھی فاطمہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Majid Raza Abidi",
   "anjumans": [],
   "verified": false

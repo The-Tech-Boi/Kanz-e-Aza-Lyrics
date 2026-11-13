@@ -1,12 +1,265 @@
 {
   "remoteId": "g2611_u2798",
-  "title": "Royi zanjeer",
+  "title": "روی زنجیر",
   "body": "سجاد سے قدموں سے لپٹ کر روی زنجیر\nجب ہٹای گیء قدموں سے تو ہٹ کر روی زنجیر\nروی زنجیر۔۔۔\n<<DIVIDER>>\nساتھ عابد کے رہی بن کے عزادار حسین\nتارے آشک غمِ سرور میں سمٹ کر روی زنجیر\nروی زنجیر۔۔۔\n<<DIVIDER>>\nسر کھلے دیکھ کر بلوے میں نبی کی عطرت\nخون میں ڈوب گیء خاک میں اٹھ کر روی زنجیر\nروی زنجیر۔۔۔\n<<DIVIDER>>\nحشر تھا اک بپا لرزا بر اندام تھا کفر\nجس گھڑی حلقہء زنجیر سے کٹ کر روی زنجیر\nروی زنجیر۔۔۔\n<<DIVIDER>>\nدے کے پیغام شہیدوں کا لہو دیتی ہوی\nایک اک حلقۂ زنجیر میں بٹ کر روی زنجیر\nروی زنجیر۔۔۔\n<<DIVIDER>>\nدیکھنے والا نہ تھا کوئی جہاد عابد کا\nکوفہ و شام کا دربار الاٹ کر رویی زنجیر\nروی زنجیر۔۔۔\n<<DIVIDER>>\nتھر ٹھرانے لگا عباس جری کا لاشہ\nجاتے جاتے جو سوے نہر پلٹ کر روی زنجیر\nروی زنجیر۔۔۔\n<<DIVIDER>>\nجب بنانے لگا بیمار بہن کی تربت\nتھر تھرای کبھی قدموں سے لپٹ کر روی زنجیر\nروی زنجیر۔۔۔",
+  "styling": [
+    {
+      "insert": "سجاد سے قدموں سے لپٹ کر روی زنجیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہٹای گیء قدموں سے تو ہٹ کر روی زنجیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nساتھ عابد کے رہی بن کے عزادار حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تارے آشک غمِ سرور میں سمٹ کر روی زنجیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر کھلے دیکھ کر بلوے میں نبی کی عطرت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوب گیء خاک میں اٹھ کر روی زنجیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحشر تھا اک بپا لرزا بر اندام تھا کفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس گھڑی حلقہء زنجیر سے کٹ کر روی زنجیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدے کے پیغام شہیدوں کا لہو دیتی ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک اک حلقۂ زنجیر میں بٹ کر روی زنجیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھنے والا نہ تھا کوئی جہاد عابد کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفہ و شام کا دربار الاٹ کر رویی زنجیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھر ٹھرانے لگا عباس جری کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتے جاتے جو سوے نہر پلٹ کر روی زنجیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب بنانے لگا بیمار بہن کی تربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھر تھرای کبھی قدموں سے لپٹ کر روی زنجیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Zain-ul-Abedeen (a.s)",
+  "subcategory": "مولا سجّاد (ع)",
   "anjumans": [],
   "verified": false
 }

@@ -1,12 +1,544 @@
 {
   "remoteId": "g2611_u3002",
-  "title": "Shab chaak gareban",
+  "title": "شب چاک گریباں",
   "body": "شب چاک گریباں سحر گریہ کناں ہے\nمخلوق خدا مائل فریاد و فغاں ہے\nمابین زمین آسمان محشر کا سماں ہے\nانیسویں رمضان کا یہ حال بیان ہے\nتاریخ یہ وہ ہے جو قیامت سے ہے کم\nاے مومنوں سر پیٹو کرو گریہ و ماتم\n<<DIVIDER>>\nفارغ جو تہجد سے ہوئے فاتح خیبر\nاور صحن میں آئے جونہی ہجرے سے نکل کر\nبس قصد کیا ہی تھا ابھی جانے کا باہر\nہوتا کے ادا فجر کا وہ فرض مقرر\nمرغابیوں نے گھیر لیا حق کے ولی کو\nدروازے سے جانے نہیں دیتی تھیں علی کو\n---دروازے پہ جانے\n<<DIVIDER>>\nگویا ہوئے مرغابیوں سے حیدر کرار\nاس انس کی دے تم کو جزا خالق غفار\nنالے نہ کرو صبر کرو اے میری غمخوار\nجو وقت معین ہے وہ ٹلتا نہیں زنہار\nدامن کو میرے چھوڑ دو یوں اشک نہ برسائو\nمسجد میں مجھے جانے دو دروازے سے ہٹ جائو\n---مسجد میں مجھے\n<<DIVIDER>>\nپہنچے جونہی مسجد میں علی دیکھا یہ منظر\nاوندھا پڑا سوتا ہے لعین اک زمین پر\nجب اس کے قریب پہنچے تو گویا ہوئے حیدر\nاٹھو پیروئے ابلیس شقی اور ستمگر\nمعلوم ہے سب کس لئے تو آیا ہے کوفہ\nکس کام کے کرنے کا یہاں پر ہے ارادہ\n---کس کام کے\n<<DIVIDER>>\nیہ کہہ کے اذان دینے لگے خلق کے مولا\nمحراب عبادت میں ہوئے زیب مصلےٰ\nمصروف ہوئے طاعت رب میں شہہ والا\nتھی فجر کی پہلی وہ رکعت پہلا وہ سجدہ\nتلوار عقب سے بن ملجم نے لگائی\nدو پارہ کیا سر کو جبیں تک اتر آئی\n---دو پارہ کیا\n<<DIVIDER>>\nسر پیٹ کے کہتے تھے نمازی کے اے جلاد\nکیا کر دیا یہ خانہ حق میں ستم ایجاد\nکی حق کے ولی پر یہ بھلا کس لئے بیداد\nفریاد فریاد ہے فریاد ہے فریاد\nاس شور و فغاں کو سنا حسنین نے جس دم\nمسجد کو چلے گھر سے وہ کرتے ہوئے ماتم\n---مسجد کو چل\n<<DIVIDER>>\nحسنین نے آلودہ بہ خوں باپ کو پایا\nوہ بین کئے جس سے کہ منہ کو جگر آیا\nپھر ایک چٹائی پہ غرض ان کو لٹایا\nغم خواروں نے زخمی شہ صفدر کو اٹھایا\nنہ بگڑ جائےگھر لائے مبادہ کہیں حالت\nسر کھولے ہوئے ثانی زہرہ نہ نکل آئے\n---سر کھولے ہوئے\n<<DIVIDER>>\nداخل ہوئے جب گھر میں پسر باپ کو لے کر\nیوں نالہ و شیون سے بپا ہو گیا محشر\nتھامے ہوئے تھی بیٹی کوئی پائوں کوئی سر\nآہستہ سے ہجرے میں لٹایا انہیں جا کر\nتھا ورد زباں و علیا آہ و بکا میں\nآواز یہی گونجتی تھی ارض و سماں میں\n---آواز یہی گونجت",
+  "styling": [
+    {
+      "insert": "شب چاک گریباں سحر گریہ کناں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مخلوق خدا مائل فریاد و فغاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مابین زمین آسمان محشر کا سماں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انیسویں رمضان کا یہ حال بیان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تاریخ یہ وہ ہے جو قیامت سے ہے کم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مومنوں سر پیٹو کرو گریہ و ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفارغ جو تہجد سے ہوئے فاتح خیبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور صحن میں آئے جونہی ہجرے سے نکل کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس قصد کیا ہی تھا ابھی جانے کا باہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتا کے ادا فجر کا وہ فرض مقرر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرغابیوں نے گھیر لیا حق کے ولی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دروازے سے جانے نہیں دیتی تھیں علی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---دروازے پہ جانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگویا ہوئے مرغابیوں سے حیدر کرار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس انس کی دے تم کو جزا خالق غفار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نالے نہ کرو صبر کرو اے میری غمخوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو وقت معین ہے وہ ٹلتا نہیں زنہار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دامن کو میرے چھوڑ دو یوں اشک نہ برسائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں مجھے جانے دو دروازے سے ہٹ جائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مسجد میں مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہنچے جونہی مسجد میں علی دیکھا یہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اوندھا پڑا سوتا ہے لعین اک زمین پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب اس کے قریب پہنچے تو گویا ہوئے حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو پیروئے ابلیس شقی اور ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معلوم ہے سب کس لئے تو آیا ہے کوفہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کام کے کرنے کا یہاں پر ہے ارادہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کس کام کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کہہ کے اذان دینے لگے خلق کے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محراب عبادت میں ہوئے زیب مصلےٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مصروف ہوئے طاعت رب میں شہہ والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی فجر کی پہلی وہ رکعت پہلا وہ سجدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تلوار عقب سے بن ملجم نے لگائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو پارہ کیا سر کو جبیں تک اتر آئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---دو پارہ کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر پیٹ کے کہتے تھے نمازی کے اے جلاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کر دیا یہ خانہ حق میں ستم ایجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کی حق کے ولی پر یہ بھلا کس لئے بیداد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فریاد فریاد ہے فریاد ہے فریاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس شور و فغاں کو سنا حسنین نے جس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کو چلے گھر سے وہ کرتے ہوئے ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مسجد کو چل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسنین نے آلودہ بہ خوں باپ کو پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بین کئے جس سے کہ منہ کو جگر آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر ایک چٹائی پہ غرض ان کو لٹایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم خواروں نے زخمی شہ صفدر کو اٹھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ بگڑ جائےگھر لائے مبادہ کہیں حالت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کھولے ہوئے ثانی زہرہ نہ نکل آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---سر کھولے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nداخل ہوئے جب گھر میں پسر باپ کو لے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں نالہ و شیون سے بپا ہو گیا محشر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھامے ہوئے تھی بیٹی کوئی پائوں کوئی سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ سے ہجرے میں لٹایا انہیں جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا ورد زباں و علیا آہ و بکا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز یہی گونجتی تھی ارض و سماں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آواز یہی گونجت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Anees Pehersari",
   "anjumans": [],
   "verified": false

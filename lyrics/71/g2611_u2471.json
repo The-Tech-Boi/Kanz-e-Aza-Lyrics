@@ -1,12 +1,599 @@
 {
   "remoteId": "g2611_u2471",
-  "title": "Mujhe bhi watan le",
+  "title": "مجھے بھی وطن لے",
   "body": "جب رہا شام کے زندان سے ہوئے اہلِ حرم\nکیا خوشی ہوتی دوبالاہوا سادات کا غم\nجس کو ارمانِ رہائی تھا ہوئی وہ بے دم\nاک ننھی سی لحد پر تھا مسلسل ماتم\nسن کے فریاد و فغاں سانس رُکی جاتی تھی\nقبر سے بالی سکینہ کی صدا آتی تھی\n<<DIVIDER>>\nوطن جانے والو\nمجھے بھی وطن لے چلو\n<<DIVIDER>>\nمیں کیسے رہوں گی یہاں پر\nیہاں ہے بھلا کون میرا\nمجھے بھی وطن لے چلو۔۔۔\n<<DIVIDER>>\nرہا ہو کے گھر جانے والو\nمجھے بھی کہیں پر بٹھا لو\nشہیدوں کے سر ہیں جہاں پر\nمجھے بھی وہیں پر سُلا دو\nمیں بابا کے سر سے لپٹ کر\nسفر کاٹ لوں گی یہ سارا\nمجھے بھی وطن لے چلو۔۔۔\n<<DIVIDER>>\nنہ یوں چھوڑ کر جائو اماں\nمجھے شامیوں کے سہارے\nیتیمی کی ماری ہوئی کو\nستایا بہت ظالموں نے\nبہت خوف آتا ہے مجھ کو\nتمہیں واسطہ سیدہ کا\nمجھے بھی وطن لے چلو۔۔۔\n<<DIVIDER>>\nسُنا ہے کے واپس ملے ہیں\nتمہیں شمر سے میرے گوہر\nبھلا کیا کرو گی تم اُن کا\nاگر رہ گئی میں یہاں پر\nانہیں بھی امانت سمجھ کر\nیا دفنا دو زنداں میں یا\nمجھے بھی وطن لے چلو۔۔۔\n<<DIVIDER>>\nجو پہنچے مدینہ تو اماں\nپھر وقتِ مصیبت نہ آئے\nسِناں اور اکبر کی باتیں\nسُنانیں کی نوبت نہ آئے\nمیری لاش کو دیکھ کر ہی\nسمجھ لے گی ہر بات صغریٰ\nمجھے بھی وطن لے چلو۔۔۔\n<<DIVIDER>>\nیہ ہی سوچ کر زیرِ تُربت\nتڑپتا ہے دُکھیا کا لاشہ\nمجھے شمر کے شہر میں اب\nہمیشہ ہی رہنا پڑے گا\nدھڑکتا نہیں پھر بھی اماں\nیہ دل کانپ جاتا ہے میرا\nمجھے بھی وطن لے چلو۔۔۔\n<<DIVIDER>>\nسرِ شاہِ دیں کچھ تو بولو\nسفارش کرو کچھ ہماری\nقضا آ گئی ہے تو پھر کیا\nمیں بیٹی ہوں بابا تمہاری\nنہ انکار کر پائیں گی وہ\nپھوپھی سے ذرا کہہ دو بابا\nمجھے بھی وطن لے چلو۔۔۔\n<<DIVIDER>>\nیہ حالت تھی ہر اک قدم پر\nمدینے کے رستے میں اکبر\nگری تھی جہاں پر سکینہ\nتماچے لگے تھے جہاں پر\nوہاں خاک سے قیدیوں کو\nصدائیں یہ آتی تھی ہر جا\nمجھے بھی وطن لے چلو۔۔۔",
+  "styling": [
+    {
+      "insert": "جب رہا شام کے زندان سے ہوئے اہلِ حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا خوشی ہوتی دوبالاہوا سادات کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو ارمانِ رہائی تھا ہوئی وہ بے دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ننھی سی لحد پر تھا مسلسل ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کے فریاد و فغاں سانس رُکی جاتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر سے بالی سکینہ کی صدا آتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوطن جانے والو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے بھی وطن لے چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کیسے رہوں گی یہاں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہاں ہے بھلا کون میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے بھی وطن لے چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرہا ہو کے گھر جانے والو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے بھی کہیں پر بٹھا لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہیدوں کے سر ہیں جہاں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے بھی وہیں پر سُلا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بابا کے سر سے لپٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر کاٹ لوں گی یہ سارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے بھی وطن لے چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ یوں چھوڑ کر جائو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے شامیوں کے سہارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یتیمی کی ماری ہوئی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستایا بہت ظالموں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت خوف آتا ہے مجھ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں واسطہ سیدہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے بھی وطن لے چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسُنا ہے کے واپس ملے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں شمر سے میرے گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھلا کیا کرو گی تم اُن کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر رہ گئی میں یہاں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انہیں بھی امانت سمجھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا دفنا دو زنداں میں یا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے بھی وطن لے چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو پہنچے مدینہ تو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر وقتِ مصیبت نہ آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سِناں اور اکبر کی باتیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُنانیں کی نوبت نہ آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری لاش کو دیکھ کر ہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سمجھ لے گی ہر بات صغریٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے بھی وطن لے چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ ہی سوچ کر زیرِ تُربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپتا ہے دُکھیا کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے شمر کے شہر میں اب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیشہ ہی رہنا پڑے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دھڑکتا نہیں پھر بھی اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دل کانپ جاتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے بھی وطن لے چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسرِ شاہِ دیں کچھ تو بولو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفارش کرو کچھ ہماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قضا آ گئی ہے تو پھر کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بیٹی ہوں بابا تمہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ انکار کر پائیں گی وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھوپھی سے ذرا کہہ دو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے بھی وطن لے چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ حالت تھی ہر اک قدم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدینے کے رستے میں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گری تھی جہاں پر سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تماچے لگے تھے جہاں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہاں خاک سے قیدیوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدائیں یہ آتی تھی ہر جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے بھی وطن لے چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

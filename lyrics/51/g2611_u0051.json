@@ -1,12 +1,323 @@
 {
   "remoteId": "g2611_u0051",
-  "title": "Aaj hai khurasan",
+  "title": "آج ہے خراساں",
   "body": "آج ہے خراساں میں اک غریب کا ماتم\n<<DIVIDER>>\nطوس کی ہواؤں میں ہے یہ کیسی بے چینی\nہر طرف فضاؤں میں ہے یہ بے کلی کیسی\nگونجتی ہے ہر گھر میں اب صداءیں ماتم کی\nاس امام کے غم میں سب کی آنکھ ہے پرنم\n---آج ہے خراساں میں\n<<DIVIDER>>\nاک غریب و بے کس کو کس نے زہر دے ڈالا\nاس امام ہشتم پر ہوگیا ستم کیسا\nکروٹیں بدلتے ہیں خاک پر شہ والا\nدل کو تھام کر مولا خوں اگلتے ہیں پیہم\n---آج ہے خراساں میں\n<<DIVIDER>>\nآج دلبر کاظم ہم سے ہوگیا رخصت\nکیا بیاں کرے کوئی اس غریب کی حالت\nکیسی ہے یہ تنہائی ہاے کیسی ہے غربت\nاب وطن سے دوری ہے بے کسی کا ہے عالم\n---آج ہے خراساں میں\n<<DIVIDER>>\nہوتا ہے دوعالم میں غم امام ضامن کا\nکر رہے ہیں سب ماتم سب کے لب پہ ہے نوحہ\nلو جنازہ اٹھتا ہے آج اسکا واویلا\nتھا نہ جسکا غربت میں کوئی مونس و ہمدم\n---آج ہے خراساں میں\n<<DIVIDER>>\nاک بہن پہ ٹوٹا ہے بھائی کا یہ غم کیسا\nخاک اڑا کے روتی ہے آج قم کی معصومہ\nکہہ رہی ہیں رورو کر مر گیا میرا بھیا\nکیا کروں میں اب جی کر کون ہے میرا ہمدم\n---آج ہے خراساں میں\n<<DIVIDER>>\nآگیا تقی پر ہے دور اب یتیمی کا\nکمسنی کے عالم میں ہاے درد ہے کیسا\nسر سے اٹھ گیا ان کے آج باپ کا سایہ\nاس امام کو پرسہ دیتے ہیں رشید اب ہم\n---آج ہے خراساں میں",
+  "styling": [
+    {
+      "insert": "آج ہے خراساں میں اک غریب کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطوس کی ہواؤں میں ہے یہ کیسی بے چینی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف فضاؤں میں ہے یہ بے کلی کیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجتی ہے ہر گھر میں اب صداءیں ماتم کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس امام کے غم میں سب کی آنکھ ہے پرنم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے خراساں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک غریب و بے کس کو کس نے زہر دے ڈالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس امام ہشتم پر ہوگیا ستم کیسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کروٹیں بدلتے ہیں خاک پر شہ والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کو تھام کر مولا خوں اگلتے ہیں پیہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے خراساں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآج دلبر کاظم ہم سے ہوگیا رخصت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بیاں کرے کوئی اس غریب کی حالت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی ہے یہ تنہائی ہاے کیسی ہے غربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب وطن سے دوری ہے بے کسی کا ہے عالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے خراساں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوتا ہے دوعالم میں غم امام ضامن کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر رہے ہیں سب ماتم سب کے لب پہ ہے نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو جنازہ اٹھتا ہے آج اسکا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا نہ جسکا غربت میں کوئی مونس و ہمدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے خراساں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک بہن پہ ٹوٹا ہے بھائی کا یہ غم کیسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک اڑا کے روتی ہے آج قم کی معصومہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ رہی ہیں رورو کر مر گیا میرا بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کروں میں اب جی کر کون ہے میرا ہمدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے خراساں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآگیا تقی پر ہے دور اب یتیمی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کمسنی کے عالم میں ہاے درد ہے کیسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر سے اٹھ گیا ان کے آج باپ کا سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس امام کو پرسہ دیتے ہیں رشید اب ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے خراساں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Raza (a.s)",
+  "subcategory": "امام رضا (ع)",
   "author": "Rasheed Shaheedi",
   "anjumans": [],
   "verified": false

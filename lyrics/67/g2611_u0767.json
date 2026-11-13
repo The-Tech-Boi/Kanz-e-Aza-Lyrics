@@ -1,7 +1,653 @@
 {
   "remoteId": "g2611_u0767",
-  "title": "Azadari na chodenge",
+  "title": "عزاداری نہ چھوڑیں گے",
   "body": "ہے ارادہ ہے یہ وعدہ بی بی زہرا سے\n<<DIVIDER>>\nمحمد کے گھرانے سے\nوفاداری نہ چھوڑیں گے\nعزاداری نہ چھوڑیں گے\n<<DIVIDER>>\nسیاہ کپڑے سیاہ چادر\nحسینی کی نشانی ہے\nزبان پر نوحہ خوانوں کے\nلٹے گھر کی کہانی ہے\nکسی قیمت پہ اس گھر سے\nوفاداری نہ چھوڑیں گے\nعزاداری نہ چھوڑیں گے۔۔۔\n<<DIVIDER>>\nعلمدار حسینی سے\nعزاداروں کا وعدہ ہے\nہوا جتنی مخالف ہو\nمگر اپنا ارادہ ہے\nیہ بازو کٹ بھی جاے تو\nعلمداری نہ چھوڑیں گے\nعزاداری نہ چھوڑیں گے۔۔۔\n<<DIVIDER>>\nہم آنے والی نسلوں کو\nیہی باتیں بتائیں گے\nجو ہے آغوش مادر میں\nانہیں ماتم سکھاییں گے\nعقیدے کی زمینوں پر\nشجر کاری نہ چھوڑیں گے\nعزاداری نہ چھوڑیں گے۔۔۔\n<<DIVIDER>>\nہمیشہ زور باطل سے\nعلی والے ہی جیتے ہیں\nیزیدی اور حسینی تو\nاذل سے دو قبیلے ہیں\nوہ غداری نہ چھوڑیں گے\nیہ غم خواری نہ چھوڑیں گے\nعزاداری نہ چھوڑیں گے۔۔۔\n<<DIVIDER>>\nشب عاشور کے جا گے ہوؤں سے\nہم کو نسبت ہے\nیہ شب بیداریاں کیا ہے\nعقیدت ہے مودت ہے\nمقدر کو جگانا ہے\nیہ بیداری نہ چھوڑیں گے\nعزاداری نہ چھوڑیں گے۔۔۔\n<<DIVIDER>>\nجلوسوں کی یہ سالاری\nاسی گھر سے ہوئی جاری\nگےء عباس دنیا سے\nملی زینب کو سالاری‌\nیہ سالاری تو ورثہ ہے\nیہ سالاری نہ چھوڑیں گے\nعزاداری نہ چھوڑیں گے۔۔۔\n<<DIVIDER>>\nمیرے مولا تیرے زایر\nحدیثوں کی سند لے کر\nتیرے روضے پہ آییں گے\nتیرے جد کی مدد لے کر\nیہ سو حج کے برابر ہے\nیہ زواری نہ چھوڑیں گے\nعزاداری نہ چھوڑیں گے۔۔۔\n<<DIVIDER>>\nحرم بھی ساتھ ہے تیرے\nسفر میں اے میرے دکھیا\nسر شبیر بیٹی سے\nیہ دوران سفر بولا\nتمہارا ساتھ یہ قیدی\nمیری پیاری نہ چھوڑیں گے\nعزاداری نہ چھوڑیں گے۔۔۔\n<<DIVIDER>>\nیہی حق بات ہے لوگوں\nکہے فرحان اور مظہر\nعبادت سے عبادت کا\nتقبل ہم‌ کریں کیوں کر\nنمازیں بھی پڑھیں گے ہم\nعزاداری نہ چھوڑیں گے۔۔۔",
+  "styling": [
+    {
+      "insert": "ہے ارادہ ہے یہ وعدہ بی بی زہرا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمحمد کے گھرانے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفاداری نہ چھوڑیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاداری نہ چھوڑیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسیاہ کپڑے سیاہ چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسینی کی نشانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زبان پر نوحہ خوانوں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹے گھر کی کہانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی قیمت پہ اس گھر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفاداری نہ چھوڑیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاداری نہ چھوڑیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلمدار حسینی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاداروں کا وعدہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوا جتنی مخالف ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر اپنا ارادہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بازو کٹ بھی جاے تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمداری نہ چھوڑیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاداری نہ چھوڑیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم آنے والی نسلوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی باتیں بتائیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ہے آغوش مادر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انہیں ماتم سکھاییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عقیدے کی زمینوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شجر کاری نہ چھوڑیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاداری نہ چھوڑیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہمیشہ زور باطل سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی والے ہی جیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یزیدی اور حسینی تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اذل سے دو قبیلے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ غداری نہ چھوڑیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم خواری نہ چھوڑیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاداری نہ چھوڑیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشب عاشور کے جا گے ہوؤں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کو نسبت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شب بیداریاں کیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عقیدت ہے مودت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقدر کو جگانا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بیداری نہ چھوڑیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاداری نہ چھوڑیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلوسوں کی یہ سالاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی گھر سے ہوئی جاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گےء عباس دنیا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملی زینب کو سالاری‌"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سالاری تو ورثہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سالاری نہ چھوڑیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاداری نہ چھوڑیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے مولا تیرے زایر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حدیثوں کی سند لے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے روضے پہ آییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے جد کی مدد لے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سو حج کے برابر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زواری نہ چھوڑیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاداری نہ چھوڑیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحرم بھی ساتھ ہے تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر میں اے میرے دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر شبیر بیٹی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دوران سفر بولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارا ساتھ یہ قیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری پیاری نہ چھوڑیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاداری نہ چھوڑیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہی حق بات ہے لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہے فرحان اور مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عبادت سے عبادت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تقبل ہم‌ کریں کیوں کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نمازیں بھی پڑھیں گے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاداری نہ چھوڑیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u0781",
-  "title": "Baab e saat par",
+  "title": "باب ساعت پر",
   "body": "باب ساعت پر کھڑی ہے فاطمہ کی بیٹیاں\nشام کے دربار میں ہے جشن کی تیاریاں\n<<DIVIDER>>\nوا حسینا کی صدا ہے عطرت اطہار میں\nجانے کیا گزری ہے ان پر شام کے بازار میں\nخون میں تر ہوگیء کونین کی شہزادیاں\nباب ساعت پر کھڑی۔۔۔\n<<DIVIDER>>\nصبح سے تھک جاتے ہیں جب شامی پتھر مار کر\nشام ہوتے ہی چلے جاتے ہیں ظالم اپنے گھر\nرات بھر قیدی کھڑے رہتے ہیں زیرِ آسماں\nباب ساعت پر کھڑی۔۔۔\n<<DIVIDER>>\nغم تو یہ ہے چار جانب کلمہ گو آباد تھے\nچادریں پھر بھی نہ دی سر کو چھپانے کے لئے\nسر کھلے کتنی اذانیں سن چکی ہے بی بیاں\nباب ساعت پر کھڑی۔۔۔\n<<DIVIDER>>\nکوئی جا کر یہ بتا دو بے کس و مظلوم کو\nمل رہی ہے یہ یتیمی کی سزا معصوم کو\nاب سکینہ کو طمانچے دے رہے ہیں لوریاں\nباب ساعت پر کھڑی۔۔۔\n<<DIVIDER>>\nخون میں باقر کے شامل غیرتِ عباس ہے\nہے ابھی کمسن مگر اس کو بھی یہ احساس ہے\nبزم میں نوشی کہاں اور ثانی زہرا کہاں\nباب ساعت پر کھڑی۔۔۔\n<<DIVIDER>>\nبن گیا تاریخ غربت شام و کوفہ کا سفر\nظلم جتنے ہو گےء ہیں بے خطا سادات پر\nمجرموں پر بھی کہاں ہوتی ہے اتنی سختیاں\nباب ساعت پر کھڑی۔۔۔\n<<DIVIDER>>\nعابد بیمار آنسوں خون کے برساتا رہا\nبے ردائی کا اسے زینب کی غم کھاتا رہا\nآتے آتے شام تک بوڑھا ہوا ہے یہ جواں\nباب ساعت پر کھڑی۔۔۔\n<<DIVIDER>>\nجا کے چہلم پر تکلم نے یہ دیکھا ہے سماں\nکل جہاں سے بے ردا گزری تھی سب سیدانیاں\nچادریں اب نام پہ زینب کے بٹتی ہیں وہاں\nباب ساعت پر کھڑی۔۔۔",
+  "styling": [
+    {
+      "insert": "باب ساعت پر کھڑی ہے فاطمہ کی بیٹیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کے دربار میں ہے جشن کی تیاریاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوا حسینا کی صدا ہے عطرت اطہار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے کیا گزری ہے ان پر شام کے بازار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں تر ہوگیء کونین کی شہزادیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باب ساعت پر کھڑی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصبح سے تھک جاتے ہیں جب شامی پتھر مار کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہوتے ہی چلے جاتے ہیں ظالم اپنے گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات بھر قیدی کھڑے رہتے ہیں زیرِ آسماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باب ساعت پر کھڑی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم تو یہ ہے چار جانب کلمہ گو آباد تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادریں پھر بھی نہ دی سر کو چھپانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کھلے کتنی اذانیں سن چکی ہے بی بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باب ساعت پر کھڑی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی جا کر یہ بتا دو بے کس و مظلوم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل رہی ہے یہ یتیمی کی سزا معصوم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سکینہ کو طمانچے دے رہے ہیں لوریاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باب ساعت پر کھڑی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون میں باقر کے شامل غیرتِ عباس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے ابھی کمسن مگر اس کو بھی یہ احساس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بزم میں نوشی کہاں اور ثانی زہرا کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باب ساعت پر کھڑی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبن گیا تاریخ غربت شام و کوفہ کا سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم جتنے ہو گےء ہیں بے خطا سادات پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجرموں پر بھی کہاں ہوتی ہے اتنی سختیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باب ساعت پر کھڑی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعابد بیمار آنسوں خون کے برساتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردائی کا اسے زینب کی غم کھاتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتے آتے شام تک بوڑھا ہوا ہے یہ جواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باب ساعت پر کھڑی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجا کے چہلم پر تکلم نے یہ دیکھا ہے سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کل جہاں سے بے ردا گزری تھی سب سیدانیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادریں اب نام پہ زینب کے بٹتی ہیں وہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باب ساعت پر کھڑی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

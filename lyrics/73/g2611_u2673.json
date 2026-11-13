@@ -1,12 +1,329 @@
 {
   "remoteId": "g2611_u2673",
-  "title": "Qaid khane may ye",
+  "title": "قید خانے میں یہ",
   "body": "قید خانے میں یہ کہتی تھی سکینہ بھای\nظلم اعدا نے کیا ہم پہ یہ کیسا بھای\nقید خانے میں یہ۔۔۔\n<<DIVIDER>>\nچھوڑ کر ہم کو مدینے جو چلے جاؤ گے\nگھٹ کے رہ جاے گی ہر ایک تمنا بھای\nقید خانے میں یہ۔۔۔\n<<DIVIDER>>\nموت آجائے اگر شام کے زنداں میں ہمیں\nدفن کرنا انہیں کپڑوں میں جنازہ بھای\nقید خانے میں یہ۔۔۔\n<<DIVIDER>>\nاب جگانا نہیں ہم جاتے ہیں سونے کے لئے\nموت نے آ کے بچھایا ہے بچھونا بھای\nقید خانے میں یہ۔۔۔\n<<DIVIDER>>\nمیں یہاں موت کی آغوش میں سو جاؤں گی\nسب مدینے میں میرا دیکھیں گے رستہ بھای\nقید خانے میں یہ۔۔۔\n<<DIVIDER>>\nجب سے چھوڑا ہے مدینے کا بھرا گھر ہم نے\nخاک میں مل گیء ہر ایک تمنا بھای\nقید خانے میں یہ۔۔۔\n<<DIVIDER>>\nخیریت میری مدینے کے جو بچے پوچھے\nمجھ پہ کیا گزری انہیں کچھ نہ بتانا بھای\nقید خانے میں یہ۔۔۔\n<<DIVIDER>>\nجب مدینے سے پلٹ کر کبھی شام آنا ہو\nساتھ باجی کو میری قبر پہ لانا بھای\nقید خانے میں یہ۔۔۔\n<<DIVIDER>>\nتم کو پانی کے لئے بھیج کے شرمندہ تھی\nکربلا جا کے چچا جان سے کہنا بھای\nقید خانے میں یہ۔۔۔\n<<DIVIDER>>\nکہکے عشرت یہ سکینہ نے کیا سب کو سلام\nہم کو لینے کے لئے آ گےء بابا بھای\nقید خانے میں یہ۔۔۔",
+  "styling": [
+    {
+      "insert": "قید خانے میں یہ کہتی تھی سکینہ بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم اعدا نے کیا ہم پہ یہ کیسا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھوڑ کر ہم کو مدینے جو چلے جاؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹ کے رہ جاے گی ہر ایک تمنا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nموت آجائے اگر شام کے زنداں میں ہمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دفن کرنا انہیں کپڑوں میں جنازہ بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب جگانا نہیں ہم جاتے ہیں سونے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت نے آ کے بچھایا ہے بچھونا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں یہاں موت کی آغوش میں سو جاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب مدینے میں میرا دیکھیں گے رستہ بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے چھوڑا ہے مدینے کا بھرا گھر ہم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک میں مل گیء ہر ایک تمنا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیریت میری مدینے کے جو بچے پوچھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ کیا گزری انہیں کچھ نہ بتانا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب مدینے سے پلٹ کر کبھی شام آنا ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ باجی کو میری قبر پہ لانا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم کو پانی کے لئے بھیج کے شرمندہ تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا جا کے چچا جان سے کہنا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہکے عشرت یہ سکینہ نے کیا سب کو سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کو لینے کے لئے آ گےء بابا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Ishrat Lakhnavi",
   "anjumans": [],
   "verified": false

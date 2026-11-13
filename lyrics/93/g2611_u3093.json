@@ -1,12 +1,433 @@
 {
   "remoteId": "g2611_u3093",
-  "title": "Soja sakina",
+  "title": "سوجا سکینہ",
   "body": "پیاری سکینہ پیاسی سکینہ\nپیاری سکینہ بالی سکینہ\nسوجا سکینہ سوجا سکینہ\n<<DIVIDER>>\nپھر نہ ملے گا بابا کا سینہ\nسوجا سکینہ سوجا سکینہ\n<<DIVIDER>>\nنہ گھبراؤ زخمی بدن کو نہ دیکھو\nسکینہ میرے پیرہن کو نہ دیکھو\nیہ بابا کا ہے امتحاں اے حزینہ\nسوجا سکینہ۔۔۔\n<<DIVIDER>>\nمیری زندگی میں نہ آنسوں بہاؤ\nوگرنہ میں کہہ دوں گا خیمے میں جاؤ\nتمہیں میرے بن اور کچھ دن ہے جینا\nسوجا سکینہ۔۔۔\n<<DIVIDER>>\nتجھے کس طرح سے دلاسے دوں بیٹی\nمیں کچھ دیر کا اور مہماں ہوں بیٹی\nہے منجھدار میں میرا اس دم سفینہ\nسوجا سکینہ۔۔۔\n<<DIVIDER>>\nمیرے بعد گزریں گے فاقوں پہ فاقے\nمیرے بعد کھانے ہیں طمانچے\nنہ تو جا سکے گی پلٹ کر مدینہ\nسوجا سکینہ۔۔۔\n<<DIVIDER>>\nسکینہ بہت غم اٹھانے ہے تجھکو\nابھی تازیانے بھی کھانے ہے تجھکو\nہے ماتھے پہ تیرے یہ کیسا پسینہ\nسوجا سکینہ۔۔۔\n<<DIVIDER>>\nسکینہ میرے خون کی لاج رکھنا\nکسی سے کبھی کوئی شکوہ نہ کرنا\nہر ایک سانس پر خون کا گھونٹ پینا\nسوجا سکینہ۔۔۔\n<<DIVIDER>>\nتجھے آج کیوں نیند آتی نہیں ہے\nہے خاموش کیوں کچھ بتاتی نہیں ہے\nتو انگشتری کا ہے میری نگینہ\nسوجا سکینہ۔۔۔\n<<DIVIDER>>\nمیرا سر دکھاے گا تجھکو ستمگر\nتیرے سر سے پھر چھین لے گا وہ چادر\nستاے گا رہ رہ کے تجھکو کمینہ\nسوجا سکینہ۔۔۔\n<<DIVIDER>>\nصدا دیں گے آصف عزادار سن کر\nنہ پڑھ اور عامر اے شہ کے سخنور\nکہ تڑپیں گے مرقد میں شاہ مدینہ\nسوجا سکینہ۔۔۔",
+  "styling": [
+    {
+      "insert": "پیاری سکینہ پیاسی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاری سکینہ بالی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوجا سکینہ سوجا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر نہ ملے گا بابا کا سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوجا سکینہ سوجا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ گھبراؤ زخمی بدن کو نہ دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ میرے پیرہن کو نہ دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بابا کا ہے امتحاں اے حزینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوجا سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری زندگی میں نہ آنسوں بہاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وگرنہ میں کہہ دوں گا خیمے میں جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں میرے بن اور کچھ دن ہے جینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوجا سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتجھے کس طرح سے دلاسے دوں بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کچھ دیر کا اور مہماں ہوں بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے منجھدار میں میرا اس دم سفینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوجا سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے بعد گزریں گے فاقوں پہ فاقے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بعد کھانے ہیں طمانچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ تو جا سکے گی پلٹ کر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوجا سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسکینہ بہت غم اٹھانے ہے تجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی تازیانے بھی کھانے ہے تجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے ماتھے پہ تیرے یہ کیسا پسینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوجا سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسکینہ میرے خون کی لاج رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی سے کبھی کوئی شکوہ نہ کرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک سانس پر خون کا گھونٹ پینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوجا سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتجھے آج کیوں نیند آتی نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خاموش کیوں کچھ بتاتی نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو انگشتری کا ہے میری نگینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوجا سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا سر دکھاے گا تجھکو ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے سر سے پھر چھین لے گا وہ چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستاے گا رہ رہ کے تجھکو کمینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوجا سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصدا دیں گے آصف عزادار سن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پڑھ اور عامر اے شہ کے سخنور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ تڑپیں گے مرقد میں شاہ مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوجا سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Asif Bijnori",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,278 @@
 {
   "remoteId": "g2611_u2753",
-  "title": "Rehaai hogi to teri",
+  "title": "رہای ہوگی تو تیری",
   "body": "رہای ہوگی تو تیری قبر پہ آؤں گی\nحسین حال تمہیں شام کا سناؤں گی\n<<DIVIDER>>\nیہ شام والے کرے چاہے صد ہزار ستم\nنہ لڑکھڑاییں گے بھیا تیری بہن کے قدم\nعلی کی بیٹی ہوں بن کر علی دکھاؤں گی\nرہای ہوگی تو۔۔۔\n<<DIVIDER>>\nمیرے عباس سے کہدو تم ہی خدا کے لئے\nبہن کا وعدہ ہے غازی تیری وفا کے لئے\nگلی گلی میں تیرا میں علم لگاؤں گی\nرہای ہوگی تو۔۔۔\n<<DIVIDER>>\nنظر کے سامنے ہوگا تمہارا زخمی بدن\nکبھی بناؤں گی علی اور کبھی بناؤں گی حسن\nتیرا پیام میں کچھ اس طرح پھیلاؤں گی\nرہای ہوگی تو۔۔۔\n<<DIVIDER>>\nکچھ اس طرح سے کروں گی تلاوت قرآں\nنمازی مانے گا شبیر تم کو سارا جہاں\nبغیر تیغ کے میں انقلاب لاؤں گی\nرہای ہوگی تو۔۔۔\n<<DIVIDER>>\nبازار شام میں بالوں سے ڈھانپ کر چہرہ\nعلی کے لہجے کی آواز کو بھی دے کے ردا\nہجاب ایسے کیا جاتا ہے بتاؤں گی\nرہای ہوگی تو۔۔۔\n<<DIVIDER>>\nحسین تیرے غموں میں جو رونے والے ہے\nتیری قسم وہ نرالی توقیر والے ہے\nگنہگار ہو لیکن میں بخشواوں گی\nرہای ہوگی تو۔۔۔",
+  "styling": [
+    {
+      "insert": "رہای ہوگی تو تیری قبر پہ آؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین حال تمہیں شام کا سناؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ شام والے کرے چاہے صد ہزار ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ لڑکھڑاییں گے بھیا تیری بہن کے قدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی بیٹی ہوں بن کر علی دکھاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہای ہوگی تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے عباس سے کہدو تم ہی خدا کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہن کا وعدہ ہے غازی تیری وفا کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلی گلی میں تیرا میں علم لگاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہای ہوگی تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنظر کے سامنے ہوگا تمہارا زخمی بدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی بناؤں گی علی اور کبھی بناؤں گی حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا پیام میں کچھ اس طرح پھیلاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہای ہوگی تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ اس طرح سے کروں گی تلاوت قرآں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نمازی مانے گا شبیر تم کو سارا جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بغیر تیغ کے میں انقلاب لاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہای ہوگی تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازار شام میں بالوں سے ڈھانپ کر چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کے لہجے کی آواز کو بھی دے کے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہجاب ایسے کیا جاتا ہے بتاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہای ہوگی تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین تیرے غموں میں جو رونے والے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری قسم وہ نرالی توقیر والے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گنہگار ہو لیکن میں بخشواوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہای ہوگی تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Tauqeer Kamalvi",
   "anjumans": [],
   "verified": false

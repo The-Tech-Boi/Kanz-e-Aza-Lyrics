@@ -1,12 +1,585 @@
 {
   "remoteId": "g2611_u0395",
-  "title": "Alam ghazi ka",
+  "title": "علم غازی کا",
   "body": "باطل کا دَم گھٹتا ہے\nیہ جب بھی کہیں اُٹھتا ہے\nعلم غازی کا علم غازی کا\n<<DIVIDER>>\nاعجازِ عطش دکھلاتا ہے\nمفہومِ عطا سمجھاتا ہے\nاِک مشک لئے یہ آتا ہے\nاور ابرِ کرم برساتا ہے\nجب لطف و کرم کرتا ہے\nہر جھولی کو بھرتا ہے\nعلم غازی کا۔۔۔\n<<DIVIDER>>\nروشن ہے چراغِ حق جس سے\nوہ اس کے پھریرے کی ہے ہوا\nعباس سے نسبت ہے اس کو\nہے سر پہ اسی کے تاجِ و فا\nتوفیقِ عزا دیتا ہے\nپیغام وفا دیتا ہے\nعلم غازی کا۔۔۔\n<<DIVIDER>>\nحیران ہیں یوسف بھی جس پر\nپائی ہے جوانی بھی ایسی\nولیوں کی طرح یہ چلتا ہے\nقامت ہے فرشتوں کے جیسی\nجب مجلس میں آتا ہے\nکونین پہ چھا جاتا ہے\nعلم غازی کا۔۔۔\n<<DIVIDER>>\nغازی نے وفا کے جلوئوں سے\nاس طرح سجایا ہے یہ علم\nتقریبِ حلف برداری میں\nولیوں نے اٹھایا ہے یہ علم\nپیمانہِ سالاری ہے\nمینارِ وفاداری ہے\nعلم غازی کا۔۔۔\n<<DIVIDER>>\nجو حاضر ہونا چاہتے ہیں\nدربارِ امامت میں دل سے\nنزدیک بلاتا ہے ان کو\nپنجے سے اشارے کر کر کے\nمنزل کی خبر دیتا ہے\nخود زادِ سفر دیتا ہے\nعلم غازی کا۔۔۔\n<<DIVIDER>>\nجب وقت کڑا آجاتا ہے\nشبیر کے غمخواروں کے لئے\nشیروں کی طرح سے اٹھتا ہے\nمولا کے عزاداروں کے لئے\nآندھی سے الجھ پڑتا ہے\nطوفانوں سے لڑتا ہے\nعلم غازی کا۔۔۔\n<<DIVIDER>>\nتاریخ گواہی دیتی ہے\nکوئی ثانی نہیں اس پرچم کا\nزندہ ہے اگر بینائی تیری\nاے منکر غور سے دیکھ ذرا\nسب جھنڈے ہو گئے ٹھنڈے\nاونچا ہے خدا کے بندے\nعلم غازی کا۔۔۔\n<<DIVIDER>>\nاللہ رے اس کا جاہ و حشم\nچودہ سو برس کا ہے یہ علم\nنہ اس پہ ضعیفی آئی ہے\nنہ اس کی کمر میں آیا ہے خم\nعظمت کا نشاں ہے گوہر\nصدیوں سے جواں ہے گوہر\nعلم غازی کا۔۔۔",
+  "styling": [
+    {
+      "insert": "باطل کا دَم گھٹتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ جب بھی کہیں اُٹھتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم غازی کا علم غازی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاعجازِ عطش دکھلاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مفہومِ عطا سمجھاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اِک مشک لئے یہ آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ابرِ کرم برساتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب لطف و کرم کرتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر جھولی کو بھرتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم غازی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروشن ہے چراغِ حق جس سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ اس کے پھریرے کی ہے ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس سے نسبت ہے اس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے سر پہ اسی کے تاجِ و فا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "توفیقِ عزا دیتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیغام وفا دیتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم غازی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحیران ہیں یوسف بھی جس پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پائی ہے جوانی بھی ایسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ولیوں کی طرح یہ چلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قامت ہے فرشتوں کے جیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مجلس میں آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کونین پہ چھا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم غازی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغازی نے وفا کے جلوئوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح سجایا ہے یہ علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تقریبِ حلف برداری میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ولیوں نے اٹھایا ہے یہ علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیمانہِ سالاری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مینارِ وفاداری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم غازی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو حاضر ہونا چاہتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دربارِ امامت میں دل سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نزدیک بلاتا ہے ان کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پنجے سے اشارے کر کر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منزل کی خبر دیتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود زادِ سفر دیتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم غازی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب وقت کڑا آجاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کے غمخواروں کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیروں کی طرح سے اٹھتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا کے عزاداروں کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آندھی سے الجھ پڑتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طوفانوں سے لڑتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم غازی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتاریخ گواہی دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی ثانی نہیں اس پرچم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ ہے اگر بینائی تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے منکر غور سے دیکھ ذرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب جھنڈے ہو گئے ٹھنڈے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اونچا ہے خدا کے بندے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم غازی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللہ رے اس کا جاہ و حشم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چودہ سو برس کا ہے یہ علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ اس پہ ضعیفی آئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ اس کی کمر میں آیا ہے خم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عظمت کا نشاں ہے گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدیوں سے جواں ہے گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم غازی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Gohar Jarchvi",
   "anjumans": [],
   "verified": false

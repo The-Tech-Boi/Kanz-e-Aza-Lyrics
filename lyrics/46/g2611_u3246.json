@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u3246",
-  "title": "Ubhalta hai samandar",
+  "title": "اُبلتا ہے سمندر",
   "body": "اُبلتا ہے سمندر خون کا اللہ کے گھر سے\nعلی زخمی ہوئے ہیں آج شمشیرِ ستمگر سے\n<<DIVIDER>>\nعلی کی بیک علی پر زندگی آنسُو بہاتی ہے\nصدا یہ اَل فراق آتی ہے ہر اک تارے بستر سے\nاُبلتا ہے سمندر۔۔۔\n<<DIVIDER>>\nپریشان سُرخ چہرا سرد ہے اور سُرخ ہیں آنکھیں\nیتیمی کیا ہے پوچھو آج عباسِ دلاور سے\nاُبلتا ہے سمندر۔۔۔\n<<DIVIDER>>\nدلِ اسلام سے ہوک اُٹھتی ہے ایمان روتا ہے\nمُسلّے پر جو بہتا ہے نمازی کا لہو سر سے\nاُبلتا ہے سمندر۔۔۔\n<<DIVIDER>>\nدلِ اُمُ البنین کو بیوگی کا غم اُٹھانا ہے\nسہاگن زندگی خوںرو رہی ہے دیدئہ تر سے\nاُبلتا ہے سمندر۔۔۔\n<<DIVIDER>>\nتڑپ اے فطرتِ اسلام مولا جانے والے ہیں\nپیامِ اِرجعی آنے کو ہے اللہ کے گھر سے\nاُبلتا ہے سمندر۔۔۔\n<<DIVIDER>>\nسُنی ہی جس کے کانوں سے حدیثِ راس کراسی\nوہ پوچھے غم علی کی موت کا قبرِ پیعمبر سے\nاُبلتا ہے سمندر۔۔۔\n<<DIVIDER>>\nجنازہ کُلِ ایمان کا علی فطرت جب اُٹھے گا\nنہ جانے حال کیا زینب کا ہو گا غم کے خنجر سے\nاُبلتا ہے سمندر۔۔۔",
+  "styling": [
+    {
+      "insert": "اُبلتا ہے سمندر خون کا اللہ کے گھر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی زخمی ہوئے ہیں آج شمشیرِ ستمگر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی کی بیک علی پر زندگی آنسُو بہاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدا یہ اَل فراق آتی ہے ہر اک تارے بستر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُبلتا ہے سمندر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپریشان سُرخ چہرا سرد ہے اور سُرخ ہیں آنکھیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یتیمی کیا ہے پوچھو آج عباسِ دلاور سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُبلتا ہے سمندر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدلِ اسلام سے ہوک اُٹھتی ہے ایمان روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مُسلّے پر جو بہتا ہے نمازی کا لہو سر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُبلتا ہے سمندر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدلِ اُمُ البنین کو بیوگی کا غم اُٹھانا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہاگن زندگی خوںرو رہی ہے دیدئہ تر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُبلتا ہے سمندر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتڑپ اے فطرتِ اسلام مولا جانے والے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیامِ اِرجعی آنے کو ہے اللہ کے گھر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُبلتا ہے سمندر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسُنی ہی جس کے کانوں سے حدیثِ راس کراسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ پوچھے غم علی کی موت کا قبرِ پیعمبر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُبلتا ہے سمندر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنازہ کُلِ ایمان کا علی فطرت جب اُٹھے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے حال کیا زینب کا ہو گا غم کے خنجر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُبلتا ہے سمندر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Ali Fitrat",
   "anjumans": [],
   "verified": false

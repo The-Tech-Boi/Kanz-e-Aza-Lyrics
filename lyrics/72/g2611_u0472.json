@@ -1,12 +1,465 @@
 {
   "remoteId": "g2611_u0472",
-  "title": "Alwida ay mere",
+  "title": "الوداع اے میرے",
   "body": "وقتِ آخر تھا حیدر کا نوحہ\nالوداع اے میرے سوگواروں\n<<DIVIDER>>\nچھوڑ کر جا رہا ہوں میں دنیا\nالوداع اے میرے سوگواروں\n<<DIVIDER>>\nمیری میت کو کاندھا لگانا\nمیرے بچوں کی ڈھارس بندھانا\nدھیان رکھنا حسین و حسن کا\nالوداع اے میرے۔۔۔\n<<DIVIDER>>\nاے حسین و حسن پاس آؤ\nمیرے نزدیک عباس آؤ\nمیرے سینے سے لگ جاؤ بیٹا\nالوداع اے میرے۔۔۔\n<<DIVIDER>>\nمیرے عباس نازوں کے پالے\nمیری زینب ہے تیرے حوالے\nتو محافظ ہے اس کی ردا کا\nالوداع اے میرے۔۔۔\n<<DIVIDER>>\nہر قدم پر ستایا گیا ہوں\nبے سبب میں رلایا گیا ہوں\nمرتبہ کوئی سمجھا نہ میرا\nالوداع اے میرے۔۔۔\n<<DIVIDER>>\nمیں نے دیکھا ہے زہرا کا رونا\nآگ کی ضد پہ محسن کو کھونا\nسہ نہ پایا میں اب تک وہ صدمہ\nالوداع اے میرے۔۔۔\n<<DIVIDER>>\nجب گلے میں رسن بندھ رہی تھی\nمیرے نزدیک زینب کھڑی تھی\nدیکھ کر مجھکو روتی تھی زہرا\nالوداع اے میرے۔۔۔\n<<DIVIDER>>\nسہمے سہمے حسین و حسن تھے\nخونِ مادر سے تر گلبدن تھے\nکیا بتاؤں جو تھا حال میرا\nالوداع اے میرے۔۔۔\n<<DIVIDER>>\nخوں ٹپکتا تھا مولا کے سر سے\nیعنی کعبے کی دیوار و در سے\nسب سے مل مل کے کہتے تھے مولا\nالوداع اے میرے۔۔۔\n<<DIVIDER>>\nرو کے کہتے تھی شاہ مدینہ\nمنہ کو آتا ہے میرا کلیجہ\nتم کو میری قسم اب نہ کہنا\nالوداع اے میرے۔۔۔\n<<DIVIDER>>\nگونجتی تھی یہ آصف صداییں\nلینے آتی ہے زینب بلاییں\nلب پہ مولا کے عامر تھا نوحہ\nالوداع اے میرے۔۔۔",
+  "styling": [
+    {
+      "insert": "وقتِ آخر تھا حیدر کا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع اے میرے سوگواروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھوڑ کر جا رہا ہوں میں دنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع اے میرے سوگواروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری میت کو کاندھا لگانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بچوں کی ڈھارس بندھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دھیان رکھنا حسین و حسن کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع اے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے حسین و حسن پاس آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے نزدیک عباس آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سینے سے لگ جاؤ بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع اے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے عباس نازوں کے پالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری زینب ہے تیرے حوالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو محافظ ہے اس کی ردا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع اے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر قدم پر ستایا گیا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے سبب میں رلایا گیا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرتبہ کوئی سمجھا نہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع اے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں نے دیکھا ہے زہرا کا رونا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگ کی ضد پہ محسن کو کھونا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہ نہ پایا میں اب تک وہ صدمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع اے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب گلے میں رسن بندھ رہی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے نزدیک زینب کھڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر مجھکو روتی تھی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع اے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسہمے سہمے حسین و حسن تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خونِ مادر سے تر گلبدن تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بتاؤں جو تھا حال میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع اے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوں ٹپکتا تھا مولا کے سر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یعنی کعبے کی دیوار و در سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب سے مل مل کے کہتے تھے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع اے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو کے کہتے تھی شاہ مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منہ کو آتا ہے میرا کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو میری قسم اب نہ کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع اے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگونجتی تھی یہ آصف صداییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لینے آتی ہے زینب بلاییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لب پہ مولا کے عامر تھا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع اے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Asif Bijnori",
   "anjumans": [],
   "verified": false

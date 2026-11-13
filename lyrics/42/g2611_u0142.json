@@ -1,12 +1,414 @@
 {
   "remoteId": "g2611_u0142",
-  "title": "Aayi zahra ki sada",
+  "title": "آی زہرا کی صدا",
   "body": "آی زہرا کی صدا پیاسا ہے بچہ میرا\nشمر خنجر نہ چلا\n<<DIVIDER>>\nجرم کیا اس نے کچھ تو کر خوف خدا\nمجھ پہ یہ ظلم نہ ڈھا\nآی زہرا کی صدا۔۔۔\n<<DIVIDER>>\nگھر جلایا میرے محسن کو بھی مارا تم نے\nزہر شبر کو پلایا تم نے\nمیری بیٹی کے لئے ہے نگہبان یہ بچہ\nآخری بیٹا میرا\nآی زہرا کی صدا۔۔۔\n<<DIVIDER>>\nسوچ کر نیند میں یہ پیاس سے جاگے نہ کہیں\nپانی لے کر میں کھڑی رہتی تھی\nکس طرح دیکھے یہ ماں تو سرہانے پہ یہاں\nلے کے خنجر ہے کھڑا\nآی زہرا کی صدا۔۔۔\n<<DIVIDER>>\nمیرا بچہ جو سوے خیمہ نظر کرتا ہے\nیاد عباس اسے آتا ہے\nزیر خنجر بھی یہی اس کے لب پر ہے صدا\nہاے زینب کی ردا\nآی زہرا کی صدا۔۔۔\n<<DIVIDER>>\nمیں سکینہ سے تجھے مانگ کے لا دونگی گوہر\nلے لے سب اہلِ حرم کے زیور\nماں کا پھٹتا ہے جگر اتنی توحین نہ کر\nپیر سینے سے ہٹا\nآی زہرا کی صدا۔۔۔\n<<DIVIDER>>\nہاتھ پیاسے کی نہ گردن سے ہٹاے گی یہ ماں\nاپنے بچے کو بچاے گی یہ ماں\nاب نہیں فکر مجھے ہاتھ کٹ جاے میرے\nکٹنے دوں گی نہ گلا\nآی زہرا کی صدا۔۔۔\n<<DIVIDER>>\nبعد ماں کے جو بہن شاہ کی ماں جیسی تھی\nجس گھڑی خیمے سے وہ نکلی تھی\nخشک تھا شہ کا گلا زیر لب اتنا کہا\nجا بہن خیمے میں جا\nآی زہرا کی صدا۔۔۔\n<<DIVIDER>>\nقتل مادر ہوی ہمشیر بھی بیٹی بھی ہوی\nجب چھری شاہ پہ اکبر تھی چلی\nکیا قیامت تھا سماں تنہا مظلوم کہاں\nقتل خنجر سے ہوا\nآی زہرا کی صدا۔۔۔",
+  "styling": [
+    {
+      "insert": "آی زہرا کی صدا پیاسا ہے بچہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر خنجر نہ چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجرم کیا اس نے کچھ تو کر خوف خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ یہ ظلم نہ ڈھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی زہرا کی صدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر جلایا میرے محسن کو بھی مارا تم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہر شبر کو پلایا تم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بیٹی کے لئے ہے نگہبان یہ بچہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری بیٹا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی زہرا کی صدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوچ کر نیند میں یہ پیاس سے جاگے نہ کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی لے کر میں کھڑی رہتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح دیکھے یہ ماں تو سرہانے پہ یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے کے خنجر ہے کھڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی زہرا کی صدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا بچہ جو سوے خیمہ نظر کرتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد عباس اسے آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زیر خنجر بھی یہی اس کے لب پر ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے زینب کی ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی زہرا کی صدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں سکینہ سے تجھے مانگ کے لا دونگی گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لے سب اہلِ حرم کے زیور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں کا پھٹتا ہے جگر اتنی توحین نہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیر سینے سے ہٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی زہرا کی صدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھ پیاسے کی نہ گردن سے ہٹاے گی یہ ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بچے کو بچاے گی یہ ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہیں فکر مجھے ہاتھ کٹ جاے میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کٹنے دوں گی نہ گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی زہرا کی صدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد ماں کے جو بہن شاہ کی ماں جیسی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس گھڑی خیمے سے وہ نکلی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خشک تھا شہ کا گلا زیر لب اتنا کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا بہن خیمے میں جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی زہرا کی صدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقتل مادر ہوی ہمشیر بھی بیٹی بھی ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب چھری شاہ پہ اکبر تھی چلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا قیامت تھا سماں تنہا مظلوم کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل خنجر سے ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی زہرا کی صدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

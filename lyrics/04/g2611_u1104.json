@@ -1,7 +1,315 @@
 {
   "remoteId": "g2611_u1104",
-  "title": "Chodta nahi humko",
+  "title": "چھوڑتا نہیں ہم کو",
   "body": "چھوڑتا نہیں ہم کو کربلا کا غم تنہا\nورنہ چل نہیں سکتے ہم تو دو قدم تنہا\n<<DIVIDER>>\nشاہ کے عزاداروں تم کو خوف محشر کیا\nضامن شفاعت ہے ایک اشک غم تنہا\nچھوڑتا نہیں ہم کو۔۔۔\n<<DIVIDER>>\nپھر کوی غم دنیا اس کو چھو نہیں سکتا\nبخش دے جسے مالک کربلا کا غم تنہا\nچھوڑتا نہیں ہم کو۔۔۔\n<<DIVIDER>>\nآج بھی غم شہ پر کتنے تنز ہوتے ہے\nبد کدوں کی ضد پر آج بھی حرم تنہا\nچھوڑتا نہیں ہم کو۔۔۔\n<<DIVIDER>>\nسو گےء کہاں عباس وقت ہے تلاے کا\nکب سے راہ تکتے ہیں دشت میں حرم تنہا\nچھوڑتا نہیں ہم کو۔۔۔\n<<DIVIDER>>\nکتنے عیش مانگو گے خود فریب دیوانوں\nکیوں طلب نہیں کرتے کربلا کا غم تنہا\nچھوڑتا نہیں ہم کو۔۔۔\n<<DIVIDER>>\nکہہ کے یہ سر شہ سے داد چاہی عابد نے\nکربلا میں لشکر تھا شام میں ہے ہم تنہا\nچھوڑتا نہیں ہم کو۔۔۔\n<<DIVIDER>>\nباندھ دے کوی اس میں ایک مشک چھوٹی سی\nسونا سونا لگتا ہے پنجہء علم تنہا\nچھوڑتا نہیں ہم کو۔۔۔\n<<DIVIDER>>\nچشم وقت شاہد ہے ہم حسین والے ہیں\nہر یزید کی ضد پر ہم رہے ہیں ہم تنہا\nچھوڑتا نہیں ہم کو۔۔۔\n<<DIVIDER>>\nلٹ چکے حرم شہ کے رات آ گیء سر پر\nاب تو چھوڑ دے ان کو بانیء ستم تنہا\nچھوڑتا نہیں ہم کو۔۔۔",
+  "styling": [
+    {
+      "insert": "چھوڑتا نہیں ہم کو کربلا کا غم تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ورنہ چل نہیں سکتے ہم تو دو قدم تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاہ کے عزاداروں تم کو خوف محشر کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضامن شفاعت ہے ایک اشک غم تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑتا نہیں ہم کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر کوی غم دنیا اس کو چھو نہیں سکتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بخش دے جسے مالک کربلا کا غم تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑتا نہیں ہم کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآج بھی غم شہ پر کتنے تنز ہوتے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بد کدوں کی ضد پر آج بھی حرم تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑتا نہیں ہم کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسو گےء کہاں عباس وقت ہے تلاے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب سے راہ تکتے ہیں دشت میں حرم تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑتا نہیں ہم کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنے عیش مانگو گے خود فریب دیوانوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں طلب نہیں کرتے کربلا کا غم تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑتا نہیں ہم کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہہ کے یہ سر شہ سے داد چاہی عابد نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا میں لشکر تھا شام میں ہے ہم تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑتا نہیں ہم کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباندھ دے کوی اس میں ایک مشک چھوٹی سی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سونا سونا لگتا ہے پنجہء علم تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑتا نہیں ہم کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچشم وقت شاہد ہے ہم حسین والے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر یزید کی ضد پر ہم رہے ہیں ہم تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑتا نہیں ہم کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلٹ چکے حرم شہ کے رات آ گیء سر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو چھوڑ دے ان کو بانیء ستم تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑتا نہیں ہم کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

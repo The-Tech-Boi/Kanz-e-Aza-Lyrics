@@ -1,12 +1,301 @@
 {
   "remoteId": "g2611_u1491",
-  "title": "Haye mere bemaar",
+  "title": "ہاے میرے بیمار",
   "body": "أہل مدینہ کہتے تھے رو کر\nہاے میرے بیمار امام\n<<DIVIDER>>\nکر گےء رحلت جانب کوثر\nہاے میرے بیمار امام\n<<DIVIDER>>\nخیمے جلاے چادریں چھینا\nاور زر و زیور لوٹا\nلے گئے اعدا آپ کا بستر\nہاے میرے بیمار۔۔۔\n<<DIVIDER>>\nہتھکڑی بیڑے طوق پہنایا\nأہل جفا نے بعد حسین\nباندھے کمر میں آپ کے لنگر\nہاے میرے بیمار۔۔۔\n<<DIVIDER>>\nروتے رہے چالیس برس تک\nبابا کو اپنے روز و شام\nچین نہ آیا آپ کو دن‌ بھر\nہاے میرے بیمار۔۔۔\n<<DIVIDER>>\nروتی تھی جب بالی سکینہ\nدرے لگاتا تھا ظالم\nصدمے سہے سب آپ نے دل پر\nہاے میرے بیمار۔۔۔\n<<DIVIDER>>\nکانٹوں پہ پیدل آپ گےء\nاز کربوبلا تا کوفہ و شام\nآبلے پاؤں کے پھوٹے ہیں یہ کہہ کر\nہاے میرے بیمار۔۔۔\n<<DIVIDER>>\nفاطمہ زہرا لینے کو پرسہ\nآتی ہے مجلس میں اس جا\nپرسہ دو فرحت تم بھی یہ کہہ کر\nہاے میرے بیمار۔۔۔",
+  "styling": [
+    {
+      "insert": "أہل مدینہ کہتے تھے رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے بیمار امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکر گےء رحلت جانب کوثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے بیمار امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے جلاے چادریں چھینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور زر و زیور لوٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے گئے اعدا آپ کا بستر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہتھکڑی بیڑے طوق پہنایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "أہل جفا نے بعد حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باندھے کمر میں آپ کے لنگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتے رہے چالیس برس تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو اپنے روز و شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چین نہ آیا آپ کو دن‌ بھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتی تھی جب بالی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درے لگاتا تھا ظالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدمے سہے سب آپ نے دل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکانٹوں پہ پیدل آپ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "از کربوبلا تا کوفہ و شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آبلے پاؤں کے پھوٹے ہیں یہ کہہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفاطمہ زہرا لینے کو پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی ہے مجلس میں اس جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ دو فرحت تم بھی یہ کہہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Zain-ul-Abedeen (a.s)",
+  "subcategory": "مولا سجّاد (ع)",
   "author": "Farhat",
   "anjumans": [],
   "verified": false

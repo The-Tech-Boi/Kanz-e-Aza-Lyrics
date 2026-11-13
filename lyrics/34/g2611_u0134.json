@@ -1,12 +1,350 @@
 {
   "remoteId": "g2611_u0134",
-  "title": "Aati hai gardoon se",
+  "title": "آتی ہے گردوں سے",
   "body": "آتی ہے گردوں سے یہ پہیم صدا\nقتل ہوئے سجدے میں شیر خدا\nخانہ حق میں یہ غضب ہو گیا\nقتل ہوئے سجدے میں شیر خدا\n<<DIVIDER>>\nغم سے ہے زینب نڈھال کھول دئیے سر کے بال\nکہتی ہے یہ پر ملال دیکھو تو بابا کا حال\nدیتے ہیں جبریل یہ کیسی ندا\nقتل ہوئے سجدے میں شیر خدا\nآتی ہے گردوں سے\n<<DIVIDER>>\nساتھ پڑے جلوہ گر کہتی ہے سر پیٹ کر\nپھٹتا ہے میرا جگر کوئی تو لائے خبر\nگھر میں خدا کے یہ ستم کیا ہوا\nقتل ہوئے سجدے میں شیر خدا\nآتی ہے گردوں سے\n<<DIVIDER>>\nدیکھو تو حسنین جاؤ بابا کوگھر میں تولاؤ\nایسا لگا سر پہ گھاؤمجھ کو خدارابتاؤ\nپوچھو تو جراح سے ہو گی شفا\nقتل ہوئے سجدے میں شیر خدا\nآتی ہے گردوں سے\n<<DIVIDER>>\nنشترغم دل پہ کھائے دوڑ کر حسنین آئے\nدیکھا عجب حال ہائے خوں میں ہیں بابانہاے\nفرش سے تا عرش ہے محشر بپا\nقتل ہوئے سجدے میں شیر خدا\nآتی ہے گردوں سے\n<<DIVIDER>>\nہائے قیامت ہوئی تیغ ستم کی چلی\nمارا علی ولی گریہ روح بنی\nکیسی لعین نے یہ کی جور و جفا\nقتل ہوئے سجدے میں شیر خدا\nآتی ہے گردوں سے\n<<DIVIDER>>\nاے میرے زخمی امام تم پہ درود و سلام\nخوب کی تبلیغ عام دے دیا قاتل کو جام\nہو گا انیس ایسا کوئی پیشوا\nقتل ہوئے سجدے میں شیر خدا\nآتی ہے گردوں سے",
+  "styling": [
+    {
+      "insert": "آتی ہے گردوں سے یہ پہیم صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوئے سجدے میں شیر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خانہ حق میں یہ غضب ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوئے سجدے میں شیر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم سے ہے زینب نڈھال کھول دئیے سر کے بال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی ہے یہ پر ملال دیکھو تو بابا کا حال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتے ہیں جبریل یہ کیسی ندا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوئے سجدے میں شیر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی ہے گردوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nساتھ پڑے جلوہ گر کہتی ہے سر پیٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھٹتا ہے میرا جگر کوئی تو لائے خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں خدا کے یہ ستم کیا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوئے سجدے میں شیر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی ہے گردوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھو تو حسنین جاؤ بابا کوگھر میں تولاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا لگا سر پہ گھاؤمجھ کو خدارابتاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوچھو تو جراح سے ہو گی شفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوئے سجدے میں شیر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی ہے گردوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنشترغم دل پہ کھائے دوڑ کر حسنین آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا عجب حال ہائے خوں میں ہیں بابانہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش سے تا عرش ہے محشر بپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوئے سجدے میں شیر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی ہے گردوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہائے قیامت ہوئی تیغ ستم کی چلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارا علی ولی گریہ روح بنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی لعین نے یہ کی جور و جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوئے سجدے میں شیر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی ہے گردوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے میرے زخمی امام تم پہ درود و سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوب کی تبلیغ عام دے دیا قاتل کو جام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گا انیس ایسا کوئی پیشوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوئے سجدے میں شیر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی ہے گردوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Anees Pehersari",
   "anjumans": [],
   "verified": false

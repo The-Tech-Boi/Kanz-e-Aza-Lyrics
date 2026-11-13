@@ -1,12 +1,400 @@
 {
   "remoteId": "g2611_u1824",
-  "title": "Kab aaoge baba",
+  "title": "کب آؤ گے بابا",
   "body": "تھا شام کے زنداں میں سکینہ کا یہ نوحہ\nکب آؤ گے بابا\nاب اور کہاں تک مجھے رلواوء گے بابا\nکب آؤ گے بابا\n<<DIVIDER>>\nاب بھی نہ خبر لی تو میں زندہ نہ رہوں گی\nمیں بچ نہ سکوں گی\nدل کانپتا ہے دیکھ کے زنداں کا اندھیرا\nکب آؤ گے بابا\nتھا شام کے زنداں۔۔۔\n<<DIVIDER>>\nاک رات بھی میں چین سے سونے نہیں پائی\nعمو ہیں نہ بھای\nپھٹ جائے کہیں شدت غم سے نہ کلیجہ\nکب آؤ گے بابا\nتھا شام کے زنداں۔۔۔\n<<DIVIDER>>\nبھیا علی اکبر ہیں نہ قاسم ہے نہ عمو\nروٹھے ہیں یہ سب کیوں\nچلاتی ہوں رو رو کے کوئی بھی نہیں آتا\nکب آؤ گے بابا\nتھا شام کے زنداں۔۔۔\n<<DIVIDER>>\nاب میرا مقدر ہے یہی خاک پہ سونا\nتکیہ نہ بچھونا\nسونے کے لئے آپ کا سینہ نہ ملے گا\nکب آؤ گے بابا\nتھا شام کے زنداں۔۔۔\n<<DIVIDER>>\nمیں کیسے یقیں کرلوں کہ فریاد یہ میری\nتم تک نہیں پہنچتی\nسنتے رہے اور حال بھی میرا نہیں پوچھا\nکب آؤ گے بابا\nتھا شام کے زنداں۔۔۔\n<<DIVIDER>>\nبے پردہ پھراے گےء بازاروں میں جس دم\nکیوں مر نہ گےء ہم\nہر گام پہ میں نے تمہیں رو رو کے پکارا\nکب آؤ گے بابا\nتھا شام کے زنداں۔۔۔\n<<DIVIDER>>\nبابا کو بلا دے کوئی گھٹتا ہے میرا دم\nہے وقت بہت کم\nبے کس کی تو فریاد بھی کوئی نہیں سنتا\nکب آؤ گے بابا\nتھا شام کے زنداں۔۔۔",
+  "styling": [
+    {
+      "insert": "تھا شام کے زنداں میں سکینہ کا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب آؤ گے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب اور کہاں تک مجھے رلواوء گے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب آؤ گے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب بھی نہ خبر لی تو میں زندہ نہ رہوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بچ نہ سکوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کانپتا ہے دیکھ کے زنداں کا اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب آؤ گے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک رات بھی میں چین سے سونے نہیں پائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمو ہیں نہ بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھٹ جائے کہیں شدت غم سے نہ کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب آؤ گے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھیا علی اکبر ہیں نہ قاسم ہے نہ عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روٹھے ہیں یہ سب کیوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلاتی ہوں رو رو کے کوئی بھی نہیں آتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب آؤ گے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب میرا مقدر ہے یہی خاک پہ سونا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تکیہ نہ بچھونا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سونے کے لئے آپ کا سینہ نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب آؤ گے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کیسے یقیں کرلوں کہ فریاد یہ میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم تک نہیں پہنچتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنتے رہے اور حال بھی میرا نہیں پوچھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب آؤ گے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے پردہ پھراے گےء بازاروں میں جس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں مر نہ گےء ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گام پہ میں نے تمہیں رو رو کے پکارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب آؤ گے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا کو بلا دے کوئی گھٹتا ہے میرا دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وقت بہت کم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے کس کی تو فریاد بھی کوئی نہیں سنتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب آؤ گے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "anjumans": [],
   "verified": false
 }

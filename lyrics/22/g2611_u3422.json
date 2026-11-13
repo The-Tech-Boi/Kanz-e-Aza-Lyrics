@@ -1,12 +1,387 @@
 {
   "remoteId": "g2611_u3422",
-  "title": "Yaad aaoge bhaiya",
+  "title": "یاد آئے گا بھّیا",
   "body": "حسین جاتا ہے مرنے کو اے میری زینب\nقریب آ گیا اب وقتِ آ خری زینب\nسلام تم پہ اے با با کی لاڈلی زینب\n<<DIVIDER>>\nزینب نے کہا کون ہے پردیس میں میرا\nکیوں جاتے ہو تم چھوڑ کے بھّیا مجھے تنہا\n<<DIVIDER>>\nزینب کو ہر اک موڑ پہ تڑپائے گی دُنیا\nیاد آ ئو گے بھّیا\n<<DIVIDER>>\nبعد آ پ کے ہو گا میری غربت کا یہ عالم\nاُس وقت غریبی بھی کرے گی میرا ماتم\nسادات کو جب راہ میں دے گا کوئی صدقہ\nیاد آ ئو گے بھّیا\nزینب کو ہر اک موڑ۔۔۔\n<<DIVIDER>>\nیاد آئے گا بھّیا مجھے ارمان تمہارا\nتم دیکھ نہیں پائے ہو اکبر کا جو سہرا\nدعوت کوئی شادی کی مدینے میں جو دے گا\nیاد آ ئو گے بھّیا\nزینب کو ہر اک موڑ۔۔۔\n<<DIVIDER>>\nاس ماہ سے منسوب تھی بھّیا میری خوشیاں\nتھی سب سے بڑی عید میری تیسری شعباں\nشعبان کے جب چاند کو دیکھے گی یہ بہنا\nیاد آ ئو گے بھّیا\nزینب کو ہر اک موڑ۔۔۔\n<<DIVIDER>>\nاتنا تھا خیال آپ کو پردے کا برادر\nلے جاتے تھے تم رات کو اماں کی لحد پر\nاب دیکھے گی زینب کے کھُلے سر کو یہ دُنیا\nیاد آ ئو گے بھّیا\nزینب کو ہر اک موڑ۔۔۔\n<<DIVIDER>>\nدیدار بھی ہو جائے بیٹی کے بہانے\nکیا شام کے زندان میں آئو گے سُلانے\nسوئے گی نہیں جب میری لوری سے سکینہ\nیاد آ ئو گے بھّیا\nزینب کو ہر اک موڑ۔۔۔\n<<DIVIDER>>\nہوتا تھا تکلم یوں جُدا بھائی بہن سے\nجس طرح کوئی روح نکلتی ہو بدن سے\nشہہ رَن کو چلے کہتی رہی ثانیئے زہرا\nیاد آ ئو گے بھّیا\nزینب کو ہر اک موڑ۔۔۔",
+  "styling": [
+    {
+      "insert": "حسین جاتا ہے مرنے کو اے میری زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قریب آ گیا اب وقتِ آ خری زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام تم پہ اے با با کی لاڈلی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے کہا کون ہے پردیس میں میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں جاتے ہو تم چھوڑ کے بھّیا مجھے تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کو ہر اک موڑ پہ تڑپائے گی دُنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آ ئو گے بھّیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد آ پ کے ہو گا میری غربت کا یہ عالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس وقت غریبی بھی کرے گی میرا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سادات کو جب راہ میں دے گا کوئی صدقہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آ ئو گے بھّیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کو ہر اک موڑ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد آئے گا بھّیا مجھے ارمان تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم دیکھ نہیں پائے ہو اکبر کا جو سہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعوت کوئی شادی کی مدینے میں جو دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آ ئو گے بھّیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کو ہر اک موڑ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس ماہ سے منسوب تھی بھّیا میری خوشیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی سب سے بڑی عید میری تیسری شعباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شعبان کے جب چاند کو دیکھے گی یہ بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آ ئو گے بھّیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کو ہر اک موڑ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاتنا تھا خیال آپ کو پردے کا برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے جاتے تھے تم رات کو اماں کی لحد پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب دیکھے گی زینب کے کھُلے سر کو یہ دُنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آ ئو گے بھّیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کو ہر اک موڑ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیدار بھی ہو جائے بیٹی کے بہانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا شام کے زندان میں آئو گے سُلانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوئے گی نہیں جب میری لوری سے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آ ئو گے بھّیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کو ہر اک موڑ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوتا تھا تکلم یوں جُدا بھائی بہن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس طرح کوئی روح نکلتی ہو بدن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہہ رَن کو چلے کہتی رہی ثانیئے زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آ ئو گے بھّیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کو ہر اک موڑ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

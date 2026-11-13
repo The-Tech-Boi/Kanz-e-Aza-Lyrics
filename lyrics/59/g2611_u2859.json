@@ -1,12 +1,373 @@
 {
   "remoteId": "g2611_u2859",
-  "title": "Sajde mein taygh",
+  "title": "سجدے میں تیغ",
   "body": "سجدے میں تیغ کھا کے تڑپتے ہیں مرتظی\n<<DIVIDER>>\nتر آنکھ اس عظیم مصیبت پہ ہوتی ہے\nپھر سر پٹک کے کعبے کی دیوار روتی ہے\nدامن لہو میں مسجد کوفہ بھگوتی ہے\nپھر کاینات اشکوں کے موتی پروتی ہے\nسجدے میں تیغ۔۔۔\n<<DIVIDER>>\nمولا سر شگافتہ تھامے تڑپتے ہیں\nاپنے لہو سے سجدے کی تاریخ لکھتے ہیں\nحسنین سر پہ بابا کے رومال کستے ہیں\nپھر بھی لہو کے خطرے مسلسل ٹپکتے ہیں\nسجدے میں تیغ۔۔۔\n<<DIVIDER>>\nمسجد میں پھر تو رونے کا ہر سمت غل اٹھا\nمشکل کشاء نے حضرتِ شبیر سے یہ کہا\nگھر جلد لے چلو مجھے اب دے کے آسرا\nگھر سے کہیں نکل نہ پڑے بنت فاطمہ\nسجدے میں تیغ۔۔۔\n<<DIVIDER>>\nکہنے لگے یہ دختر زہرا سے مرتظی\nتجھ پر مصیبتوں کا ہے اب تازہ سلسلہ\nٹکڑے جگر کے اگلے گا مظلوم مجتبٰی\nبیٹی کٹے گا سجدے میں شبیر کا گلا\nسجدے میں تیغ۔۔۔\n<<DIVIDER>>\nزینب بنے گی دیں کی بقا کی تو آسرا\nہر گام پر دکھانا ہے میعار صبر کا\nدربار عام میں تجھے جانا ہے بے ردا\nزہرا کی بیٹی سنتی ہے روداد کربلا\nسجدے میں تیغ۔۔۔\n<<DIVIDER>>\nعباس کو بلا کے گلے سے لگا لیا\nکہنے لگے نہ روے پدر تجھ پہ ہو فدا\nتجھ پر بڑا بھروسہ ہے اے میرے دلربا\nتو کربلا میں ہوگا محافظ حسین کا\nسجدے میں تیغ۔۔۔\n<<DIVIDER>>\nکوفے کے بیکسوں پہ تھا یہ غم بڑا شدید\nبیت الشرف پہ آے لیےء آرزوے دید\nہر سمت پھر تو رونے کا اک غل اٹھا رشید\nاللہ کے مہینے میں مولا ہوئے شہید\nسجدے میں تیغ۔۔۔",
+  "styling": [
+    {
+      "insert": "سجدے میں تیغ کھا کے تڑپتے ہیں مرتظی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتر آنکھ اس عظیم مصیبت پہ ہوتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر سر پٹک کے کعبے کی دیوار روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دامن لہو میں مسجد کوفہ بھگوتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر کاینات اشکوں کے موتی پروتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدے میں تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمولا سر شگافتہ تھامے تڑپتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے لہو سے سجدے کی تاریخ لکھتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین سر پہ بابا کے رومال کستے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی لہو کے خطرے مسلسل ٹپکتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدے میں تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسجد میں پھر تو رونے کا ہر سمت غل اٹھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشکل کشاء نے حضرتِ شبیر سے یہ کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر جلد لے چلو مجھے اب دے کے آسرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سے کہیں نکل نہ پڑے بنت فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدے میں تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہنے لگے یہ دختر زہرا سے مرتظی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھ پر مصیبتوں کا ہے اب تازہ سلسلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑے جگر کے اگلے گا مظلوم مجتبٰی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی کٹے گا سجدے میں شبیر کا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدے میں تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب بنے گی دیں کی بقا کی تو آسرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گام پر دکھانا ہے میعار صبر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دربار عام میں تجھے جانا ہے بے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی بیٹی سنتی ہے روداد کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدے میں تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس کو بلا کے گلے سے لگا لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنے لگے نہ روے پدر تجھ پہ ہو فدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھ پر بڑا بھروسہ ہے اے میرے دلربا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو کربلا میں ہوگا محافظ حسین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدے میں تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوفے کے بیکسوں پہ تھا یہ غم بڑا شدید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیت الشرف پہ آے لیےء آرزوے دید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سمت پھر تو رونے کا اک غل اٹھا رشید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ کے مہینے میں مولا ہوئے شہید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدے میں تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Rasheed Shaheedi",
   "anjumans": [],
   "verified": false

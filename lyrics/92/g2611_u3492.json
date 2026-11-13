@@ -1,12 +1,450 @@
 {
   "remoteId": "g2611_u3492",
-  "title": "Ye shame ghariban",
+  "title": "یہ شام غریباں",
   "body": "یہ شام غریباں ہے\nدریا کی روانی ہے\nپیاسے نہ رہے باقی\nپھر کس لئے پانی ہے\n<<DIVIDER>>\nاصغر تیرے لاشے کو\nماں بن کے زمیں رکھے\nاجڑی ہوئی گودی کی\nمعصوم نشانی ہے\nیہ شام غریباں ہے۔۔۔\n<<DIVIDER>>\nخوں کیسے رکے لوگوں\nاکبر کا جوانی میں\nہے خون نیا لیکن\nبرچھی تو پرانی ہے\nیہ شام غریباں ہے۔۔۔\n<<DIVIDER>>\nیہ تو مجھے لگتا ہے\nلاشہ کسی دولہا کا\nپٹکا جو کمر میں ہے\nرنگ اس کا تو دہانی ہے\nیہ شام غریباں ہے۔۔۔\n<<DIVIDER>>\nمعلوم نہ تھے شہ کو\nخود اپنے ہی ہاتھوں سے\nشبر کی نشانی بھی\nمٹی میں ملانی ہے\nیہ شام غریباں ہے۔۔۔\n<<DIVIDER>>\nشبیر کو خنجر سے\nذیادہ یہ اذیت ہے\nتکلیف جو زنداں میں\nبچی کو اٹھانی ہے\nیہ شام غریباں ہے۔۔۔\n<<DIVIDER>>\nزینب نے کہا ٹہرو\nمیں دشت میں آتی ہوں\nبھیا تمہیں اکبر کی\nاب لاش اٹھانی ہے\nیہ شام غریباں ہے۔۔۔\n<<DIVIDER>>\nہر غم کو بھلا دیں گے\nہر یاد مٹا دیں گے\nزہرا تیرا بچوں کی\nبس یاد منانی ہے\nیہ شام غریباں ہے۔۔۔\n<<DIVIDER>>\nریحان کی سواری کی\nپہچان ہے جنت میں\nان دونوں کے سینوں پہ\nماتم کی نشانی ہے\nیہ شام غریباں ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ شام غریباں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کی روانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسے نہ رہے باقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر کس لئے پانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر تیرے لاشے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں بن کے زمیں رکھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اجڑی ہوئی گودی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم نشانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شام غریباں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوں کیسے رکے لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کا جوانی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خون نیا لیکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برچھی تو پرانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شام غریباں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ تو مجھے لگتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ کسی دولہا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پٹکا جو کمر میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رنگ اس کا تو دہانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شام غریباں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمعلوم نہ تھے شہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود اپنے ہی ہاتھوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبر کی نشانی بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مٹی میں ملانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شام غریباں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر کو خنجر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذیادہ یہ اذیت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تکلیف جو زنداں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچی کو اٹھانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شام غریباں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے کہا ٹہرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں دشت میں آتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا تمہیں اکبر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب لاش اٹھانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شام غریباں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر غم کو بھلا دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر یاد مٹا دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا تیرا بچوں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس یاد منانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شام غریباں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان کی سواری کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہچان ہے جنت میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان دونوں کے سینوں پہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کی نشانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شام غریباں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

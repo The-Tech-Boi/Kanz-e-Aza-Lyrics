@@ -1,7 +1,378 @@
 {
   "remoteId": "g2611_u3029",
-  "title": "Shabe ashoor",
+  "title": "شبِ عاشور",
   "body": "ہاے ہاے ہاے\nگھبراے زینب گھبراے زینب\n<<DIVIDER>>\nشبِ عاشور ڈھلتی جا رہی ہے\nعلی کی لاڈلی گھبرا رہی ہے\n<<DIVIDER>>\nزمیں چپ ہے فلک سہما ہوا ہے\nدل زینب پریشاں ہو رہا ہے\nگھٹا ظلم و ستم کی چھا رہی ہے\nشبِ عاشور ڈھلتی۔۔۔\n<<DIVIDER>>\nقضا کی ضد پہ زہر کا چمن ہے\nحسینی قافلہ تشنہ دہن ہے\nلہو چشم فلک برسا رہی ہے\nشبِ عاشور ڈھلتی۔۔۔\n<<DIVIDER>>\nجدھر دیکھو نظر آتا ہے لشکر\nعجب پر حول ہے صحرا کا منظر\nیزیدی فوج سمٹی آ رہی ہے\nشبِ عاشور ڈھلتی۔۔۔\n<<DIVIDER>>\nکبھی عون و محمد کو بلایا\nکبھی سینے سے اکبر کو لگایا\nکبھی عباس کو سمجھا رہی ہے\nشبِ عاشور ڈھلتی۔۔۔\n<<DIVIDER>>\nکبھی گہوارہء اصغر جھلا کر\nکبھی گودی میں بھای کو اٹھا کر\nسکینہ خود کو یوں بہلا رہی ہے\nشبِ عاشور ڈھلتی۔۔۔\n<<DIVIDER>>\nرسولِ پاک کی مسند بچھا کر\nعلی اکبر کو پہلو میں بٹھا کر\nسکون قلب زینب پا رہی ہے\nشبِ عاشور ڈھلتی۔۔۔\n<<DIVIDER>>\nخموشی دشت میں چھای ہوی ہے\nسکینہ آج گھبرای ہوی ہے\nصدائے العطش بس آ رہی ہے\nشبِ عاشور ڈھلتی۔۔۔\n<<DIVIDER>>\nقلم خرشید لکھتا ہی رہے گا\nغمِ شبیر کا دریا بہے گا\nگوہر فکر رسا برسا رہی ہے\nشبِ عاشور ڈھلتی۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے ہاے ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھبراے زینب گھبراے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبِ عاشور ڈھلتی جا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی لاڈلی گھبرا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزمیں چپ ہے فلک سہما ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل زینب پریشاں ہو رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹا ظلم و ستم کی چھا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبِ عاشور ڈھلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقضا کی ضد پہ زہر کا چمن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسینی قافلہ تشنہ دہن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو چشم فلک برسا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبِ عاشور ڈھلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجدھر دیکھو نظر آتا ہے لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجب پر حول ہے صحرا کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یزیدی فوج سمٹی آ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبِ عاشور ڈھلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکبھی عون و محمد کو بلایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی سینے سے اکبر کو لگایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی عباس کو سمجھا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبِ عاشور ڈھلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکبھی گہوارہء اصغر جھلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی گودی میں بھای کو اٹھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ خود کو یوں بہلا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبِ عاشور ڈھلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرسولِ پاک کی مسند بچھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی اکبر کو پہلو میں بٹھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکون قلب زینب پا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبِ عاشور ڈھلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخموشی دشت میں چھای ہوی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ آج گھبرای ہوی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدائے العطش بس آ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبِ عاشور ڈھلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقلم خرشید لکھتا ہی رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمِ شبیر کا دریا بہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گوہر فکر رسا برسا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبِ عاشور ڈھلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

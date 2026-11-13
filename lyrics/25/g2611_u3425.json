@@ -1,12 +1,351 @@
 {
   "remoteId": "g2611_u3425",
-  "title": "Yaad aayi na",
+  "title": "یاد آی نہ",
   "body": "بابا کا کرتے کرتے انتظار جب تھک گیء صغرا\nرو رو کے اپنے بابا کو صغرا نے خط لکھا\nتم گےء گھر سے میری لٹ گیء دنیا بابا\n<<DIVIDER>>\nیاد آی نہ تمہیں فاطمہ صغریٰ بابا\nکربلا جا کے ہمیں بھول نہ جانا\n<<DIVIDER>>\nکیا کہوں اس نے ہے کس طرح سے تڑپایا مجھے\nعید کا چاند فلک پر جو نظر آیا مجھے\nاس گھڑی دل میں میرے درد اٹھا تھا بابا\nیاد آی نہ تمہیں۔۔۔\n<<DIVIDER>>\nبابا تین عیدیں گزری ہے یہاں رو رو کر\nمجھکو عیدی میں ملے اشک عزا زخم جگر\nمیں نے ہر عید پہ یہ نوحہ پڑھا تھا بابا\nیاد آی نہ تمہیں۔۔۔\n<<DIVIDER>>\nاب تو اصغر بھی میرا گھٹنیوں چلتا ہوگا\nیاد کر کے مجھے جھولے میں مچلتا ہوگا\nمجھکو سب یاد ہے پر ظلم ہے کیسا بابا\nیاد آی نہ تمہیں۔۔۔\n<<DIVIDER>>\nسنتی ہوں دشت میں اکبر کی رچای شادی\nبھای قاسم کے بھی ہاتھوں میں لگای مہندی\nجب سکینہ کو وہاں نیگ دیا تھا بابا\nیاد آی نہ تمہیں۔۔۔\n<<DIVIDER>>\nبابا قسمت سے مقدر سے گلہ کیا کرنا\nمیرے اکبر نے بھلا ڈالا جو وعدہ اپنا\nخط میرا دشت میں جب آپ نے پایا بابا\nیاد آی نہ تمہیں۔۔۔\n<<DIVIDER>>\nجب نظر آتے ہیں بچوں کے یہ خالی ہجرے\nیاد پھر عون و محمد کی ستاتی ہے مجھے\nسب کے یادوں نے مجھے خون رلایا بابا\nیاد آی نہ تمہیں۔۔۔\n<<DIVIDER>>\nکیسے فرحان یہ مظہر یہ مصائب لکھے\nفاطمہ صغریٰ کے احساس قلم بند کیےء\nکون اب آ کے مجھے دے گا دلاسہ بابا\nیاد آی نہ تمہیں۔۔۔",
+  "styling": [
+    {
+      "insert": "بابا کا کرتے کرتے انتظار جب تھک گیء صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے اپنے بابا کو صغرا نے خط لکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم گےء گھر سے میری لٹ گیء دنیا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد آی نہ تمہیں فاطمہ صغریٰ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا جا کے ہمیں بھول نہ جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا کہوں اس نے ہے کس طرح سے تڑپایا مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عید کا چاند فلک پر جو نظر آیا مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس گھڑی دل میں میرے درد اٹھا تھا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آی نہ تمہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا تین عیدیں گزری ہے یہاں رو رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو عیدی میں ملے اشک عزا زخم جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے ہر عید پہ یہ نوحہ پڑھا تھا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آی نہ تمہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب تو اصغر بھی میرا گھٹنیوں چلتا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد کر کے مجھے جھولے میں مچلتا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو سب یاد ہے پر ظلم ہے کیسا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آی نہ تمہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنتی ہوں دشت میں اکبر کی رچای شادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای قاسم کے بھی ہاتھوں میں لگای مہندی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سکینہ کو وہاں نیگ دیا تھا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آی نہ تمہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا قسمت سے مقدر سے گلہ کیا کرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اکبر نے بھلا ڈالا جو وعدہ اپنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خط میرا دشت میں جب آپ نے پایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آی نہ تمہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب نظر آتے ہیں بچوں کے یہ خالی ہجرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد پھر عون و محمد کی ستاتی ہے مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کے یادوں نے مجھے خون رلایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آی نہ تمہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے فرحان یہ مظہر یہ مصائب لکھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ صغریٰ کے احساس قلم بند کیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون اب آ کے مجھے دے گا دلاسہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آی نہ تمہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

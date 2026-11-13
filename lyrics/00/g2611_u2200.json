@@ -1,12 +1,341 @@
 {
   "remoteId": "g2611_u2200",
-  "title": "Mai bahot pyasi hoon",
+  "title": "میں بہت پیاسی ہوں",
   "body": "زنداں سے آ رہی ہے یہی آج بھی صدا\nصدیاں گزر گیء مجھے پانی نہیں ملا\nمیں بہت پیاسی ہوں\n<<DIVIDER>>\nوہ ساتویں کی شب تھی کہ بابا حسین نے\nپانی دیا تھا مجھکو شہ مشرقین نے\nسیراب ہو کے پھر کبھی پانی نہیں پیا\nمیں بہت پیاسی ہوں\nزنداں سے آ رہی ہے۔۔۔\n<<DIVIDER>>\nپانی پیوں میں کیسے چچا جان مر گےء\nایک روز میں سکینہ کے ارماں بکھر گےء\nکرنا نہ مجھ سے کوئی بھی پانی کا تذکرہ\nمیں بہت پیاسی ہوں\nزنداں سے آ رہی ہے۔۔۔\n<<DIVIDER>>\nوہ پیاس تھی کہ میری چٹکتی تھی ہڈیاں\nمیرا یہ حال دیکھ کہ روتی تھی بی بیاں\nسجاد خون روتے تھے سن کر یہ مرثیہ\nمیں بہت پیاسی ہوں\nزنداں سے آ رہی ہے۔۔۔\n<<DIVIDER>>\nایک روز قید خانے میں سجاد نے کہا\nکیوں تیری کھال ہونے لگی جسم سے جدا\nمیں نے کہا تڑپ کے میرے بھائی با خدا\nمیں بہت پیاسی ہوں\nزنداں سے آ رہی ہے۔۔۔\n<<DIVIDER>>\nمحسوس اب بھی ہوتا ہے روتی ہے بی بیاں\nسنتے ہے لوگ اب بھی سکینہ کی سسکیاں\nہاں اب بھی قید خانے سے آتی ہے یہ صدا\nمیں بہت پیاسی ہوں\nزنداں سے آ رہی ہے۔۔۔\n<<DIVIDER>>\nپیاسی شہید ہو گیء زنداں میں وہ حزیں\nدکھیا کو مرتے وقت بھی پانی ملا نہیں\nاس واسطے یہ نوحہ شرر نقوی ہے لکھا\nمیں بہت پیاسی ہوں\nزنداں سے آ رہی ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "زنداں سے آ رہی ہے یہی آج بھی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدیاں گزر گیء مجھے پانی نہیں ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بہت پیاسی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ ساتویں کی شب تھی کہ بابا حسین نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی دیا تھا مجھکو شہ مشرقین نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیراب ہو کے پھر کبھی پانی نہیں پیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بہت پیاسی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں سے آ رہی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپانی پیوں میں کیسے چچا جان مر گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک روز میں سکینہ کے ارماں بکھر گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرنا نہ مجھ سے کوئی بھی پانی کا تذکرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بہت پیاسی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں سے آ رہی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ پیاس تھی کہ میری چٹکتی تھی ہڈیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا یہ حال دیکھ کہ روتی تھی بی بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد خون روتے تھے سن کر یہ مرثیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بہت پیاسی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں سے آ رہی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک روز قید خانے میں سجاد نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں تیری کھال ہونے لگی جسم سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے کہا تڑپ کے میرے بھائی با خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بہت پیاسی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں سے آ رہی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمحسوس اب بھی ہوتا ہے روتی ہے بی بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنتے ہے لوگ اب بھی سکینہ کی سسکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں اب بھی قید خانے سے آتی ہے یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بہت پیاسی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں سے آ رہی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاسی شہید ہو گیء زنداں میں وہ حزیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھیا کو مرتے وقت بھی پانی ملا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس واسطے یہ نوحہ شرر نقوی ہے لکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بہت پیاسی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں سے آ رہی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Sharar Naqvi",
   "anjumans": [],
   "verified": false

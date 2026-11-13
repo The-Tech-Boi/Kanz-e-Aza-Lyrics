@@ -1,12 +1,440 @@
 {
   "remoteId": "g2611_u0795",
-  "title": "Baap ko rote rote",
+  "title": "باپ کو روتے روتے",
   "body": "باپ کو روتے روتے سکینہ\nآج زنداں میں سو گیء ہے\n<<DIVIDER>>\nپوچھا لوگوں نے عابد سے آ کر\nہے یہ زنداں میں شور کیسا\nہم پہ ٹوٹی ہے پھر اک قیامت\nرو کے عابد نے بس یہ بتایا\nوہ جو راتوں کو کرتی تھی نوحہ\nآج زنداں میں سو گیء ہے\nباپ کو روتے روتے۔۔۔\n<<DIVIDER>>\nضبط کرتی رہی اپنا گریہ\nشمر کے ڈر سے روی نہیں تھی\nجب سے چھوٹا ہے بابا کا سینہ\nایک لمحہ بھی سوی نہیں تھی\nباپ کے منہ پہ منہ رکھ کے دکھیا\nآج زنداں میں سو گیء ہے\nباپ کو روتے روتے۔۔۔\n<<DIVIDER>>\nسر شہیدوں کے جس وقت آے\nقید خانے میں تھا شور ماتم\nباپ کے سر کو سینے لگا کر\nایسے روی لبوں پر رکا دم\nماں یہ سمجھی کہ جاگی حزینہ\nآج زنداں میں سو گیء ہے\nباپ کو روتے روتے۔۔۔\n<<DIVIDER>>\nخوں بھرا اک کرتہ کفن ہے\nغسل اشکوں سے ہی اسکو دوں گا\nلوگ اپنے نہ اپنا وطن ہے\nاس غریبی میں بھای کرے کیا\nبیکفن باپ کی یہ یتیمہ\nآج زنداں میں سو گیء ہے\nباپ کو روتے روتے۔۔۔\n<<DIVIDER>>\nقبر میں کیسے اسکو اتاروں\nدست و پا میرے زنجیر میں ہے\nسب کو سمجھا گیء میری بہنا\nاور بھی زخم تقدیر میں ہے\nجی رہا ہوں میں اور میری بہنا\nآج زنداں میں سو گیء ہے\nباپ کو روتے روتے۔۔۔\n<<DIVIDER>>\nلکھتے لکھتے تڑپتا ہے مظہر\nبین بانو کے ایسے تھے صفدر\nشام کی عورتوں سے یہ بولی\nاک دیا تم جلا دینا آ کر\nاس اندھیرے میں رو رو کے دکھیا\nآج زنداں میں سو گیء ہے\nباپ کو روتے روتے۔۔۔",
+  "styling": [
+    {
+      "insert": "باپ کو روتے روتے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج زنداں میں سو گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپوچھا لوگوں نے عابد سے آ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یہ زنداں میں شور کیسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم پہ ٹوٹی ہے پھر اک قیامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے عابد نے بس یہ بتایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جو راتوں کو کرتی تھی نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج زنداں میں سو گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کو روتے روتے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nضبط کرتی رہی اپنا گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر کے ڈر سے روی نہیں تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سے چھوٹا ہے بابا کا سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک لمحہ بھی سوی نہیں تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کے منہ پہ منہ رکھ کے دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج زنداں میں سو گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کو روتے روتے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر شہیدوں کے جس وقت آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں تھا شور ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کے سر کو سینے لگا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے روی لبوں پر رکا دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں یہ سمجھی کہ جاگی حزینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج زنداں میں سو گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کو روتے روتے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوں بھرا اک کرتہ کفن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غسل اشکوں سے ہی اسکو دوں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگ اپنے نہ اپنا وطن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس غریبی میں بھای کرے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکفن باپ کی یہ یتیمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج زنداں میں سو گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کو روتے روتے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر میں کیسے اسکو اتاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دست و پا میرے زنجیر میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کو سمجھا گیء میری بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور بھی زخم تقدیر میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جی رہا ہوں میں اور میری بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج زنداں میں سو گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کو روتے روتے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلکھتے لکھتے تڑپتا ہے مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین بانو کے ایسے تھے صفدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کی عورتوں سے یہ بولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک دیا تم جلا دینا آ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس اندھیرے میں رو رو کے دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج زنداں میں سو گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کو روتے روتے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,528 @@
 {
   "remoteId": "g2611_u3515",
-  "title": "Zaeefi hussain ki",
+  "title": "ضعیفی حسین کی",
   "body": "نوجواں لال مر گیا\nہاے اکبر\n<<DIVIDER>>\nکڑیل جوان بیٹے کا لاشہ ہے خاک پر\nمقتل میں رو رہی ہے ضعیفی حسین کی\n<<DIVIDER>>\nبینائی جا چکی ہے کچھ آتا نہیں نظر\nمقتل میں رو رہی ہے ضعیفی حسین کی\n<<DIVIDER>>\nہاے مظلوم حسین\nدو بھانجے حسین کے پہلے ہی مر گےء\nقاسم بھی عمو جاں کو بے بس کر گےء\nاب ہے جوان لال کا لاشہ لہو میں تر\nمقتل میں رو رہی۔۔۔\n<<DIVIDER>>\nہاے فاطمہ کا لال\nبوڑھے پدر کے سامنے فرزند مر گیا\nسینہ غموں سے باپ کا غربت میں بھر گیا\nشبیر ہاتھ ملتے ہیں اکبر کی لاش پر\nمقتل میں رو رہی۔۔۔\n<<DIVIDER>>\nہاے حسین\nدل پھٹ رہا ہے فاطمہ زہرا کے چین کا\nکوئی نہیں ہے پوچھنے والا حسین کا\nجلتی ہوئی زمیں ہے اور لاشہء پسر\nمقتل میں رو رہی۔۔۔\n<<DIVIDER>>\nمظلوم کربلا\nتوڑا گیا ضعیف کا پردیس میں عصا\nلوٹا گیا حسین کی پیری کا آسرا\nغربت میں مار ڈالا گیا نوجواں پسر\nمقتل میں رو رہی۔۔۔\n<<DIVIDER>>\nنوجواں لال\nبیٹے کے غم سے چور ہے مظلوم کربلا\nاور ہنس رہے ہیں باپ کی غربت پہ اشقیاء\nکوئی زرا فرات پہ جا کر کرے خبر\nمقتل میں رو رہی۔۔۔\n<<DIVIDER>>\nہاے غربت حسین\nصدمہ بہت ہے بیکس و تنہا حسین کو\nدیتا نہیں ہے کوئی سہارا حسین کو\nبس نہر علقمہ کی طرف دیکھ دیکھ کر\nمقتل میں رو رہی۔۔۔\n<<DIVIDER>>\nہاے مظلوم حسین\nلاشہ ہے نوجواں کا کیسے اٹھاییں گے\nلے کر کے خیمہ گاہ تلک کیسے جایینگے\nعباس آؤ جلد ترای کو چھوڑ کر\nمقتل میں رو رہی۔۔۔\n<<DIVIDER>>\nہاے فاطمہ کا لال\nآنکھوں سے خون بہتا ہے اور سر پہ خاک ہے\nمظلوم کربلا کا گریبان چاک ہے\nاٹھارہ سال والے کا زانوں پہ رکھ کے سر\nمقتل میں رو رہی۔۔۔\n<<DIVIDER>>\nمظلوم کربلا\nوایض جواں کی لاش ہے زہرا کا لال ہے\nاب کون بوڑھے باپ کا پرساں نہال ہے\nتھامے ہیں دونوں ہاتھوں سے ٹوٹی ہوئی کمر\nمقتل میں رو رہی۔۔۔",
+  "styling": [
+    {
+      "insert": "نوجواں لال مر گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکڑیل جوان بیٹے کا لاشہ ہے خاک پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں رو رہی ہے ضعیفی حسین کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبینائی جا چکی ہے کچھ آتا نہیں نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں رو رہی ہے ضعیفی حسین کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بھانجے حسین کے پہلے ہی مر گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم بھی عمو جاں کو بے بس کر گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ہے جوان لال کا لاشہ لہو میں تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں رو رہی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے فاطمہ کا لال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بوڑھے پدر کے سامنے فرزند مر گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینہ غموں سے باپ کا غربت میں بھر گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر ہاتھ ملتے ہیں اکبر کی لاش پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں رو رہی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پھٹ رہا ہے فاطمہ زہرا کے چین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہیں ہے پوچھنے والا حسین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتی ہوئی زمیں ہے اور لاشہء پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں رو رہی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمظلوم کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "توڑا گیا ضعیف کا پردیس میں عصا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹا گیا حسین کی پیری کا آسرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غربت میں مار ڈالا گیا نوجواں پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں رو رہی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوجواں لال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹے کے غم سے چور ہے مظلوم کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ہنس رہے ہیں باپ کی غربت پہ اشقیاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی زرا فرات پہ جا کر کرے خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں رو رہی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے غربت حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدمہ بہت ہے بیکس و تنہا حسین کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتا نہیں ہے کوئی سہارا حسین کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس نہر علقمہ کی طرف دیکھ دیکھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں رو رہی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ ہے نوجواں کا کیسے اٹھاییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے کر کے خیمہ گاہ تلک کیسے جایینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس آؤ جلد ترای کو چھوڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں رو رہی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے فاطمہ کا لال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے خون بہتا ہے اور سر پہ خاک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم کربلا کا گریبان چاک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ سال والے کا زانوں پہ رکھ کے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں رو رہی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمظلوم کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وایض جواں کی لاش ہے زہرا کا لال ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کون بوڑھے باپ کا پرساں نہال ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھامے ہیں دونوں ہاتھوں سے ٹوٹی ہوئی کمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں رو رہی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Waiz Sultanpuri",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u0201",
-  "title": "Abbas ja rahe hai",
+  "title": "عباس جا رہے ہیں",
   "body": "عباس جا رہے ہیں ردائوں کی خیر ہو\nبہنوں کی خیر بیٹیوں مائوں کی خیر ہو\n<<DIVIDER>>\nمانگی ہیں وہ جو بالی سکینہ نے رات بھر\nمانگو دعا کہ ساری دعائوں کی خیر ہو\nعباس جا رہے ہیں۔۔۔\n<<DIVIDER>>\nبچوں کے لب پہ ایک صدا العطش کی ہے\nپیاسے لبوں پہ آئی صدائوں کی خیر ہو\nعباس جا رہے ہیں۔۔۔\n<<DIVIDER>>\nماتھا جری کا چوم کے زینب نے دی دعا\nاے میرے شیر تیری وفائوں کی خیر ہو\nعباس جا رہے ہیں۔۔۔\n<<DIVIDER>>\nزینب کا سائبان ہے عباسِ باوفا\nیارب بتول زادی کی چھائوں کی خیر ہو\nعباس جا رہے ہیں۔۔۔\n<<DIVIDER>>\nعباس میں تمام ادائیں علیؑ کی ہیں\nشیرِ خدا کی ساری ادائوں کی خیر ہو\nعباس جا رہے ہیں۔۔۔\n<<DIVIDER>>\nٹھنڈی ہوا جب آئی ہے کہتی ہے یہ رباب\nنہرِ فرات تیری ہوائوں کی خیر ہو\nعباس جا رہے ہیں۔۔۔\n<<DIVIDER>>\nاِک پل میں تو نے کر دئے روشن کئی چراغ\nبجھتے چراغ تیری ضیائوں کی خیر ہو\nعباس جا رہے ہیں۔۔۔\n<<DIVIDER>>\nربِ جلی سے نور علی کی ہے یہ دعا\nاہلِ عزا کی ساری عزائوں کی خیر ہو\nعباس جا رہے ہیں۔۔۔",
+  "styling": [
+    {
+      "insert": "عباس جا رہے ہیں ردائوں کی خیر ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہنوں کی خیر بیٹیوں مائوں کی خیر ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمانگی ہیں وہ جو بالی سکینہ نے رات بھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانگو دعا کہ ساری دعائوں کی خیر ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس جا رہے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچوں کے لب پہ ایک صدا العطش کی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسے لبوں پہ آئی صدائوں کی خیر ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس جا رہے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماتھا جری کا چوم کے زینب نے دی دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے شیر تیری وفائوں کی خیر ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس جا رہے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کا سائبان ہے عباسِ باوفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یارب بتول زادی کی چھائوں کی خیر ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس جا رہے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس میں تمام ادائیں علیؑ کی ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیرِ خدا کی ساری ادائوں کی خیر ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس جا رہے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹھنڈی ہوا جب آئی ہے کہتی ہے یہ رباب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہرِ فرات تیری ہوائوں کی خیر ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس جا رہے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاِک پل میں تو نے کر دئے روشن کئی چراغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بجھتے چراغ تیری ضیائوں کی خیر ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس جا رہے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nربِ جلی سے نور علی کی ہے یہ دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ عزا کی ساری عزائوں کی خیر ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس جا رہے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Noor Ali",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u2206",
-  "title": "Mai hussain hoo",
+  "title": "میں حسین ہوں",
   "body": "گونجی بوقتِ عصر صدا میں حسین ہوں\nکاٹونہ میرا خشک گلہ میں حسین ہوں\n<<DIVIDER>>\nسوکھی ہوئی ہیں شمر میرے حلق کی رگیں\nآہستہ تو چھری کو چلا میں حسین ہوں\nگونجی بوقتِ عصر۔۔۔\n<<DIVIDER>>\nاماں کسی نے پانی کی اک بوند بھی نہ دی\nمیں بار بار کہتا رہا میںحسین ہوں\nگونجی بوقتِ عصر۔۔۔\n<<DIVIDER>>\nکٹتا ہوا گلا میرا دیکھا نہ جائے گا\nنانا میں ہوں نواسا تیرا میں حسین ہوں\nگونجی بوقتِ عصر۔۔۔\n<<DIVIDER>>\nبے بازوؤں کی لاش تڑپ کر الٹ گئی\nآی فرات پر جو صدا میں حسین ہوں\nگونجی بوقتِ عصر۔۔۔\n<<DIVIDER>>\nزانو پہ رکھ کے سر کو کہا اک ضعیف نے\nاکبر کہاں ہے درد بتا میں حسین ہوں\nگونجی بوقتِ عصر۔۔۔\n<<DIVIDER>>\nاے شامیوں کفن نہ دیا مجھ کو غم نہیں\nدے دو میری بہن کو ردا میں حسین ہوں\nگونجی بوقتِ عصر۔۔۔\n<<DIVIDER>>\nدربار میں لعین کے کہرام مچ گیا\nمختار سے جو سر نے کہا میں حسین ہوں\nگونجی بوقتِ عصر۔۔۔\n<<DIVIDER>>\nمحسوس اب بھی ہوتا ہے یہ زائروں کو\nروضے سے آرہی ہے سدا میں حسین ہوں\nگونجی بوقتِ عصر۔۔۔\n<<DIVIDER>>\nایسا لگا رضا کہ شناور سے فاطمہ\nکہتی ہے بار بار سنا میں حسین ہوں\nگونجی بوقتِ عصر۔۔۔",
+  "styling": [
+    {
+      "insert": "گونجی بوقتِ عصر صدا میں حسین ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاٹونہ میرا خشک گلہ میں حسین ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوکھی ہوئی ہیں شمر میرے حلق کی رگیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ تو چھری کو چلا میں حسین ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی بوقتِ عصر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں کسی نے پانی کی اک بوند بھی نہ دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بار بار کہتا رہا میںحسین ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی بوقتِ عصر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکٹتا ہوا گلا میرا دیکھا نہ جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا میں ہوں نواسا تیرا میں حسین ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی بوقتِ عصر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے بازوؤں کی لاش تڑپ کر الٹ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی فرات پر جو صدا میں حسین ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی بوقتِ عصر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزانو پہ رکھ کے سر کو کہا اک ضعیف نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کہاں ہے درد بتا میں حسین ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی بوقتِ عصر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شامیوں کفن نہ دیا مجھ کو غم نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے دو میری بہن کو ردا میں حسین ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی بوقتِ عصر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدربار میں لعین کے کہرام مچ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مختار سے جو سر نے کہا میں حسین ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی بوقتِ عصر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمحسوس اب بھی ہوتا ہے یہ زائروں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روضے سے آرہی ہے سدا میں حسین ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی بوقتِ عصر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایسا لگا رضا کہ شناور سے فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی ہے بار بار سنا میں حسین ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی بوقتِ عصر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Raza Sirsvi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,383 @@
 {
   "remoteId": "g2611_u2625",
-  "title": "Phasliyan toot gayi",
+  "title": "پسلیاں ٹُوٹ گئیں",
   "body": "زخم پہلو کے جو بچوں سے چھپائے تھے وہی\nوقتِ رُخصت علی مولا سے بھی دیکھے نہ گئے\n<<DIVIDER>>\nپسلیاں ٹُوٹ گئیں درد سہا زہرا نے\nہاتھ پہلُو سے ہٹایا نہیں مظلومہ نے\n<<DIVIDER>>\nظلم سہہ سہہ کے جو آنسو تھے ہمیشہ ہی رواں\nوہ جو اِس بی بی کے رُخ پر تھے طمانچوں کے نشاں\nاپنے بچوں سے چھپائے وہ سدا دکھیا نے\nپسلیاں ٹُوٹ گئیں۔۔۔\n<<DIVIDER>>\nغم کی اِس ماری کو کونین کی شہزادی کو\nگھر کے حجرے میں بھی ہائے رے نبی زادی کو\nاپنے بابا پہ بھی رونے نہ دیا اعدا نے\nپسلیاں ٹُوٹ گئیں۔۔۔\n<<DIVIDER>>\nجلتا در فاطمہ زہرا پہ گرا ہے دیکھو\nکلمہ گویوں ذرا مظلومہ پہ کچھ رحم کرو\nپِیٹ کے سر کو دہائی دی یہی فضہ نے\nپسلیاں ٹُوٹ گئیں۔۔۔\n<<DIVIDER>>\nتھی زباں پر یہ بُکا مجھ پہ بہت ظلم ہُوا\nدر گرا مجھ پہ تو محسن بھی ہُوا مجھ سے جُدا\nکی ہے روتے ہوئے فریاد یہی زہرا نے\nپسلیاں ٹُوٹ گئیں۔۔۔\n<<DIVIDER>>\nٹکڑے اُس کے سرِ دربار میں چُنتی ہی رہی\nوہ سند ہائے میرے سامنے ٹکڑوں میں بنٹی\nجو سند لکھ کے مجھے دی تھی میرے بابا نے\nپسلیاں ٹُوٹ گئیں۔۔۔\n<<DIVIDER>>\nفاطمہ زہرا کا تھا سانس بھی لینا دوبھر\nپسلیاں ٹوٹی تِھیں پہلُو بھی شکستہ تھا مگر\nیہ کسی کو نہ بتایا کبھی مظلومہ نے\nپسلیاں ٹُوٹ گئیں۔۔۔\n<<DIVIDER>>\nوہ جو کہتی تھی لحد شب کو بنانا میری\nیا علی رات میں میت بھی اٹھانا میری\nشب کی تاریکی میں دفنایا اُسے مولا نے\nپسلیاں ٹُوٹ گئیں۔۔۔\n<<DIVIDER>>\nاب جلوسوں میں ہے تابوت اُسی بی بی کا\nحق بھی چھینا گیا اور جس پہ ستم ڈھایا گیا\nجس کو اظہار ستایا ہے بہت دنیا نے\nپسلیاں ٹُوٹ گئیں۔۔۔",
+  "styling": [
+    {
+      "insert": "زخم پہلو کے جو بچوں سے چھپائے تھے وہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقتِ رُخصت علی مولا سے بھی دیکھے نہ گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپسلیاں ٹُوٹ گئیں درد سہا زہرا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ پہلُو سے ہٹایا نہیں مظلومہ نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظلم سہہ سہہ کے جو آنسو تھے ہمیشہ ہی رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جو اِس بی بی کے رُخ پر تھے طمانچوں کے نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بچوں سے چھپائے وہ سدا دکھیا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں ٹُوٹ گئیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم کی اِس ماری کو کونین کی شہزادی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کے حجرے میں بھی ہائے رے نبی زادی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا پہ بھی رونے نہ دیا اعدا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں ٹُوٹ گئیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلتا در فاطمہ زہرا پہ گرا ہے دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلمہ گویوں ذرا مظلومہ پہ کچھ رحم کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پِیٹ کے سر کو دہائی دی یہی فضہ نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں ٹُوٹ گئیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھی زباں پر یہ بُکا مجھ پہ بہت ظلم ہُوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در گرا مجھ پہ تو محسن بھی ہُوا مجھ سے جُدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کی ہے روتے ہوئے فریاد یہی زہرا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں ٹُوٹ گئیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹکڑے اُس کے سرِ دربار میں چُنتی ہی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ سند ہائے میرے سامنے ٹکڑوں میں بنٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو سند لکھ کے مجھے دی تھی میرے بابا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں ٹُوٹ گئیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفاطمہ زہرا کا تھا سانس بھی لینا دوبھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں ٹوٹی تِھیں پہلُو بھی شکستہ تھا مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کسی کو نہ بتایا کبھی مظلومہ نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں ٹُوٹ گئیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ جو کہتی تھی لحد شب کو بنانا میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی رات میں میت بھی اٹھانا میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شب کی تاریکی میں دفنایا اُسے مولا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں ٹُوٹ گئیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب جلوسوں میں ہے تابوت اُسی بی بی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق بھی چھینا گیا اور جس پہ ستم ڈھایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو اظہار ستایا ہے بہت دنیا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں ٹُوٹ گئیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Ali Izhaar",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,314 @@
 {
   "remoteId": "g2611_u0715",
-  "title": "Ay rakibe doshe",
+  "title": "اے راکب دوش",
   "body": "اے راکب دوشِ شاہ لو لاک\nبہ عزو وقار واحسینا\n<<DIVIDER>>\nسینے پہ تمہارے یا شہ پاک\nقاتل ہو سوار وا حسینا\nاے راکب دوشِ۔۔۔\n<<DIVIDER>>\nفرق آپ کا اور سنان خولی\nسر آپ کا اور مکان خولی\nآلودہء خاک وہ رخ پاک\nذوالفوں میں غبار وا حسینا\nاے راکب دوشِ۔۔۔\n<<DIVIDER>>\nاے خسرو کو شہیر صد حیف\nاک تن تیرا لاکھوں تیر صد حیف\nگھوڑوں کے سموں وہ جسم صد چاک\nمیں تیرے نثار وا حسینا\nاے راکب دوشِ۔۔۔\n<<DIVIDER>>\nمجروح و الامان وہ سینہ\nزانو وہ کہاں کہاں وہ سینہ\nوہ بوسہ گاہ پیمبر لو لاک\nاور تیغ کی دھار وا حسینا\nاے راکب دوشِ۔۔۔\n<<DIVIDER>>\nخواہر تیری انجمن میں جاے\nبیٹی تیری اور طمانچے کھاے\nبیٹا تیرا کھینچے یا شہ پاک\nاونٹوں کی مہار وا حسینا\nاے راکب دوشِ۔۔۔\n<<DIVIDER>>\nکچھ صرف غیور رہی نہیں ہے\nماتم میں تیرے ہر ایک حزیں ہے\nیا شاہ ہے تیرے غم میں غمناک\nافلاک و بہار وا حسینا\nاے راکب دوشِ۔۔۔",
+  "styling": [
+    {
+      "insert": "اے راکب دوشِ شاہ لو لاک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہ عزو وقار واحسینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسینے پہ تمہارے یا شہ پاک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاتل ہو سوار وا حسینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے راکب دوشِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرق آپ کا اور سنان خولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر آپ کا اور مکان خولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آلودہء خاک وہ رخ پاک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذوالفوں میں غبار وا حسینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے راکب دوشِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے خسرو کو شہیر صد حیف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک تن تیرا لاکھوں تیر صد حیف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھوڑوں کے سموں وہ جسم صد چاک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تیرے نثار وا حسینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے راکب دوشِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجروح و الامان وہ سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زانو وہ کہاں کہاں وہ سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بوسہ گاہ پیمبر لو لاک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور تیغ کی دھار وا حسینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے راکب دوشِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخواہر تیری انجمن میں جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی تیری اور طمانچے کھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹا تیرا کھینچے یا شہ پاک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اونٹوں کی مہار وا حسینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے راکب دوشِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ صرف غیور رہی نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم میں تیرے ہر ایک حزیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا شاہ ہے تیرے غم میں غمناک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افلاک و بہار وا حسینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے راکب دوشِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "anjumans": [],
   "verified": false
 }

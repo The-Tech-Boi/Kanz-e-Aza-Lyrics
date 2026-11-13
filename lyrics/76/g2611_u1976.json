@@ -1,12 +1,432 @@
 {
   "remoteId": "g2611_u1976",
-  "title": "Khaak par neendh",
+  "title": "خاک پر نیند",
   "body": "خاک پر نیند نہیں آتی بابا\nمیں زمیں پر ہوں بہت گرم ہوا ہے\n<<DIVIDER>>\nآپ کا سینہ تو تیروں سے بھرا ہے بابا\nآپ کے سینے پہ تیروں کی ردا ہے بابا\nچین اک پل بھی نہیں پاتی بابا\nمیں زمیں پر ہوں بہت گرم ہوا ہے\nخاک پر نیند نہیں۔۔۔\n<<DIVIDER>>\nکیا کہوں پیاس سے ہے کتنی نقاہت بابا\nمیری تقدیر بنی ہاے مصیبت بابا\nکس طرح قلب کو بہلاتی بابا\nمیں زمیں پر ہوں بہت گرم ہوا ہے\nخاک پر نیند نہیں۔۔۔\n<<DIVIDER>>\nدیکھوں میداں میں بکھرے ہوئے بے سر لاشے\nاور اس پر یہ اندھیرا یہ ستم کے نرغے\nورنہ ہرگز نہ میں گھبراتی بابا\nمیں زمیں پر ہوں بہت گرم ہوا ہے\nخاک پر نیند نہیں۔۔۔\n<<DIVIDER>>\nیہ تو اچھا ہی ہوا ساتھ نہیں تھی صغرا\nجو ستم میں نے سہے سہہ نہیں پاتی دکھیا\nوہ تو اس درد سے مر جاتی بابا\nمیں زمیں پر ہوں بہت گرم ہوا ہے\nخاک پر نیند نہیں۔۔۔\n<<DIVIDER>>\nآپ کے سینے پہ آرام سے سوجاتی تھی\nآپ کی باہوں میں ہی نیند مجھے آتی تھی\nاب تو ہر سانس ہے تڑپاتی بابا\nمیں زمیں پر ہوں بہت گرم ہوا ہے\nخاک پر نیند نہیں۔۔۔\n<<DIVIDER>>\nزندگی میری تو آشکوں سے عبارت ٹہری\nگرم ریتی پہ کہاں سوے دکھوں کی ماری\nنیند ایسی میں کہاں آتی بابا\nمیں زمیں پر ہوں بہت گرم ہوا ہے\nخاک پر نیند نہیں۔۔۔\n<<DIVIDER>>\nبابا یہ گرم ہوایں ہیں ستم کا صحرا\nموت کا چاروں طرف سخت لگا ہے پہرہ\nکاش یہ موت ہی آجاتی بابا\nمیں زمیں پر ہوں بہت گرم ہوا ہے\nخاک پر نیند نہیں۔۔۔\n<<DIVIDER>>\nیہ صدا صفدر و مظہر جو سکینہ کی سنی\nلاشہء شاہ سے آواز یہ آی بیٹی\nیہ نہ کر بین کے مر جاتی بابا\nمیں زمیں پر ہوں بہت گرم ہوا ہے\nخاک پر نیند نہیں۔۔۔",
+  "styling": [
+    {
+      "insert": "خاک پر نیند نہیں آتی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں زمیں پر ہوں بہت گرم ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کا سینہ تو تیروں سے بھرا ہے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے سینے پہ تیروں کی ردا ہے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چین اک پل بھی نہیں پاتی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں زمیں پر ہوں بہت گرم ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر نیند نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا کہوں پیاس سے ہے کتنی نقاہت بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری تقدیر بنی ہاے مصیبت بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح قلب کو بہلاتی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں زمیں پر ہوں بہت گرم ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر نیند نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھوں میداں میں بکھرے ہوئے بے سر لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اس پر یہ اندھیرا یہ ستم کے نرغے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ورنہ ہرگز نہ میں گھبراتی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں زمیں پر ہوں بہت گرم ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر نیند نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ تو اچھا ہی ہوا ساتھ نہیں تھی صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ستم میں نے سہے سہہ نہیں پاتی دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ تو اس درد سے مر جاتی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں زمیں پر ہوں بہت گرم ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر نیند نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کے سینے پہ آرام سے سوجاتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کی باہوں میں ہی نیند مجھے آتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو ہر سانس ہے تڑپاتی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں زمیں پر ہوں بہت گرم ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر نیند نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزندگی میری تو آشکوں سے عبارت ٹہری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرم ریتی پہ کہاں سوے دکھوں کی ماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند ایسی میں کہاں آتی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں زمیں پر ہوں بہت گرم ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر نیند نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا یہ گرم ہوایں ہیں ستم کا صحرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کا چاروں طرف سخت لگا ہے پہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاش یہ موت ہی آجاتی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں زمیں پر ہوں بہت گرم ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر نیند نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ صدا صفدر و مظہر جو سکینہ کی سنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہء شاہ سے آواز یہ آی بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ نہ کر بین کے مر جاتی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں زمیں پر ہوں بہت گرم ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر نیند نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,460 @@
 {
   "remoteId": "g2611_u2570",
-  "title": "Nikal do mere pehlu",
+  "title": "نکال دو میرے پہلو",
   "body": "تڑپ کے فاطمہ زہرا سے شاہ نے یہ کہا\nنکال دو میرے پہلو سے تیر اے اماں\nمحال ہے میرا کروٹ بھی لینا دیکھو زرا\nنکال دو نکال دو\n<<DIVIDER>>\nہزاروں تیر تھے پیوست شاہ کے تن پر\nلکھا ہے راوی نے وہ خوف ناک ایک منظر\nحسین تیروں پہ کہتے تھے آ کے اے اماں\nنکال دو میرے پہلو۔۔۔\n<<DIVIDER>>\nوہ کون سا ہے ستم جو کیا نہیں مجھ پر\nستم بھی روتا ہے دیکھو ہماری غربت پر\nہے پاش پاش بدن اماں تیرے بیٹے کا\nنکال دو میرے پہلو۔۔۔\n<<DIVIDER>>\nدیا ہے نانا کی امت نے یہ صلہ مجھکو\nنہ ایک خطرہ بھی پانی کا مل سکا مجھکو\nاب ہڈیوں کی زباں پر ہے پیاس کا کلمہ\nنکال دو میرے پہلو۔۔۔\n<<DIVIDER>>\nمیں کیسے زین سے اماں زمین پر آؤں\nزمیں پہ آ کے میں تھوڑا سا پھر سکوں پاؤں\nچبھن ہے ایسی تڑپتا ہے آپ کا بیٹا\nنکال دو میرے پہلو۔۔۔\n<<DIVIDER>>\nیہ تین تیر ہے پیوست میرے پہلو میں\nجگر فگار ہے سانسیں نہیں ہے قابو میں\nہے درد اتنا تمہیں میں بتا نہیں سکتا\nنکال دو میرے پہلو۔۔۔\n<<DIVIDER>>\nکہ درد کہتے ہیں کس کو یہ میں نے جانا ہے\nتیری طرح میرا پہلو بھی ماں شکستہ ہے\nتیری ردا کی طرح چاک جسم ہے میرا\nنکال دو میرے پہلو۔۔۔\n<<DIVIDER>>\nرلا رلا کے مجھے ظالموں نے مارا ہے\nبدن تو دیکھو میرا جیسے پارہ پارہ ہے\nہے بھوکا پیاسا تمہارا یہ لاڈلا بیٹا\nنکال دو میرے پہلو۔۔۔\n<<DIVIDER>>\nکسی نے برچھیاں ماری کسی نے تیر و تبر\nکسی کو کچھ نہ ملا تو اٹھا لیا پتھر\nکچھ اس طرح سے بدن چھلنی کر دیا میرا\nنکال دو میرے پہلو۔۔۔\n<<DIVIDER>>\nگلا ہے خشک زباں خشک کند ہے خنجر\nجبیں جھکائے ہوئے کہہ رہے تھے یہ سرور\nزباں پہ شہ کے تھا سبحان ربی الاعلی\nنکال دو میرے پہلو۔۔۔\n<<DIVIDER>>\nاے شمس تیرا مقدر لکھا ہے داور نے\nعروج بخشا ہے عامر جہاں میں سرور نے\nبلا کی دشت میں گونجا تھا بس یہی نوحہ\nنکال دو میرے پہلو۔۔۔",
+  "styling": [
+    {
+      "insert": "تڑپ کے فاطمہ زہرا سے شاہ نے یہ کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکال دو میرے پہلو سے تیر اے اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محال ہے میرا کروٹ بھی لینا دیکھو زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکال دو نکال دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہزاروں تیر تھے پیوست شاہ کے تن پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھا ہے راوی نے وہ خوف ناک ایک منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین تیروں پہ کہتے تھے آ کے اے اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکال دو میرے پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ کون سا ہے ستم جو کیا نہیں مجھ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم بھی روتا ہے دیکھو ہماری غربت پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے پاش پاش بدن اماں تیرے بیٹے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکال دو میرے پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیا ہے نانا کی امت نے یہ صلہ مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ایک خطرہ بھی پانی کا مل سکا مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ہڈیوں کی زباں پر ہے پیاس کا کلمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکال دو میرے پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کیسے زین سے اماں زمین پر آؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پہ آ کے میں تھوڑا سا پھر سکوں پاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چبھن ہے ایسی تڑپتا ہے آپ کا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکال دو میرے پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ تین تیر ہے پیوست میرے پہلو میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جگر فگار ہے سانسیں نہیں ہے قابو میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے درد اتنا تمہیں میں بتا نہیں سکتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکال دو میرے پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہ درد کہتے ہیں کس کو یہ میں نے جانا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری طرح میرا پہلو بھی ماں شکستہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری ردا کی طرح چاک جسم ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکال دو میرے پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرلا رلا کے مجھے ظالموں نے مارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بدن تو دیکھو میرا جیسے پارہ پارہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بھوکا پیاسا تمہارا یہ لاڈلا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکال دو میرے پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکسی نے برچھیاں ماری کسی نے تیر و تبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی کو کچھ نہ ملا تو اٹھا لیا پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ اس طرح سے بدن چھلنی کر دیا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکال دو میرے پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگلا ہے خشک زباں خشک کند ہے خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جبیں جھکائے ہوئے کہہ رہے تھے یہ سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زباں پہ شہ کے تھا سبحان ربی الاعلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکال دو میرے پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شمس تیرا مقدر لکھا ہے داور نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عروج بخشا ہے عامر جہاں میں سرور نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلا کی دشت میں گونجا تھا بس یہی نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکال دو میرے پہلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Shams Rizvi",
   "anjumans": [],
   "verified": false

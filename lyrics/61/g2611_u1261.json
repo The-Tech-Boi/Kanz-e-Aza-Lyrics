@@ -1,12 +1,384 @@
 {
   "remoteId": "g2611_u1261",
-  "title": "Fatema ka tha ye noha",
+  "title": "فاطمہ کا تھا یہ نوحہ",
   "body": "فاطمہ کا تھا یہ نوحہ میرے مظلوم حسین\nمجھکو آواز دو بیٹا میرے مظلوم حسین\n<<DIVIDER>>\nماں نے پالا تھا تجھے پیس کے چکی بیٹا\nتیرا روندا گیا لاشہ میرے مظلوم حسین\nفاطمہ کا تھا یہ نوحہ۔۔۔\n<<DIVIDER>>\nسونے جنگل میں پڑی ہے تیری میت پیارے\nکوئی پرسہ نہیں تیرا میرے مظلوم حسین\nفاطمہ کا تھا یہ نوحہ۔۔۔\n<<DIVIDER>>\nبیوہ بانو سے سنبھلتی نہیں ننھی بچی\nیاد کرتی ہے سکینہ میرے مظلوم حسین\nفاطمہ کا تھا یہ نوحہ۔۔۔\n<<DIVIDER>>\nدیکھوں کن آنکھوں سے لاشہ تیرا پرزے پرزے\nٹکڑے ہوتا ہے کلیجہ میرے مظلوم حسین\nفاطمہ کا تھا یہ نوحہ۔۔۔\n<<DIVIDER>>\nیہ نہ سمجھے کہ میرا دودھ بھی شامل اس میں\nتیرا خوں رن میں بہایا میرے مظلوم حسین\nفاطمہ کا تھا یہ نوحہ۔۔۔\n<<DIVIDER>>\nکون میت پہ تیرے بیٹھ کے بیٹا رویے\nقید میں ہے تیرا کنبہ میرے مظلوم حسین\nفاطمہ کا تھا یہ نوحہ۔۔۔\n<<DIVIDER>>\nزخم ہے جسم کے گہرے نہ اذیت ہو کہیں\nتجھکو لپٹاوں میں کیسے میرے مظلوم حسین\nفاطمہ کا تھا یہ نوحہ۔۔۔\n<<DIVIDER>>\nتیغ تھی ہاتھ میں یا خنجر تھا قاتل کے\nسر تیرا کاہے سے کاٹا میرے مظلوم حسین\nفاطمہ کا تھا یہ نوحہ۔۔۔\n<<DIVIDER>>\nکرکے بے بس تجھے کیوں قتل کیا قاتل نے\nتو نے کیا جرم کیا تھا میرے مظلوم حسین\nفاطمہ کا تھا یہ نوحہ۔۔۔\n<<DIVIDER>>\nخشک حلقوم کو بے آب چھری سے کاٹا\nنہ دیا پانی کا خطرہ میرے مظلوم حسین\nفاطمہ کا تھا یہ نوحہ۔۔۔\n<<DIVIDER>>\nرنج میں دیکھو نہ سرور سے کچھ ہو جاے\nدل ہے انسان کا بیٹا میرے مظلوم حسین\nفاطمہ کا تھا یہ نوحہ۔۔۔",
+  "styling": [
+    {
+      "insert": "فاطمہ کا تھا یہ نوحہ میرے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو آواز دو بیٹا میرے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں نے پالا تھا تجھے پیس کے چکی بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا روندا گیا لاشہ میرے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا تھا یہ نوحہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسونے جنگل میں پڑی ہے تیری میت پیارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی پرسہ نہیں تیرا میرے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا تھا یہ نوحہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیوہ بانو سے سنبھلتی نہیں ننھی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد کرتی ہے سکینہ میرے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا تھا یہ نوحہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھوں کن آنکھوں سے لاشہ تیرا پرزے پرزے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑے ہوتا ہے کلیجہ میرے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا تھا یہ نوحہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ نہ سمجھے کہ میرا دودھ بھی شامل اس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا خوں رن میں بہایا میرے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا تھا یہ نوحہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکون میت پہ تیرے بیٹھ کے بیٹا رویے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید میں ہے تیرا کنبہ میرے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا تھا یہ نوحہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخم ہے جسم کے گہرے نہ اذیت ہو کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھکو لپٹاوں میں کیسے میرے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا تھا یہ نوحہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیغ تھی ہاتھ میں یا خنجر تھا قاتل کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر تیرا کاہے سے کاٹا میرے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا تھا یہ نوحہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرکے بے بس تجھے کیوں قتل کیا قاتل نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو نے کیا جرم کیا تھا میرے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا تھا یہ نوحہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخشک حلقوم کو بے آب چھری سے کاٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ دیا پانی کا خطرہ میرے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا تھا یہ نوحہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرنج میں دیکھو نہ سرور سے کچھ ہو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل ہے انسان کا بیٹا میرے مظلوم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا تھا یہ نوحہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "anjumans": [],
   "verified": false
 }

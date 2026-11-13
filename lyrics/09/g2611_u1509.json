@@ -1,12 +1,383 @@
 {
   "remoteId": "g2611_u1509",
-  "title": "Haye sham ka bazaar",
+  "title": "ہاے شام کا بازار",
   "body": "ہاے شام کا بازار\n<<DIVIDER>>\nسجاد سے رونے کا سبب پوچھ رہا ہے\nجو شام میں گزری ہے وہ سب پوچھ رہا ہے\nہاے شام کا بازار\n<<DIVIDER>>\nوہ لاکھوں تماشائی بے پردہ پھپھی بہنیں\nکیسے نہ لہو روے بیمار کی پھر آنکھیں\nاس غم کی اذیت نے اسے مار دیا ہے\nہاے شام کا بازار۔۔۔\n<<DIVIDER>>\nکس طرح کرار آے بیمار کو اے لوگوں\nسر نیزوں پہ پیاروں کے آتے ہے نظر جس کو\nبے جرم مسافر کی یہ کیسی سزا ہے\nہاے شام کا بازار۔۔۔\n<<DIVIDER>>\nآنکھوں سے ہے خوں جاری غم خوار ہے بیماری\nزنجیر ہے پیروں میں اور طوق بھی ہے بھاری\nجلتی ہے زمین ساری اور گرم ہوا ہے\nہاے شام کا بازار۔۔۔\n<<DIVIDER>>\nجاگیر نہیں مانگی زنجیر نہیں بدلی\nساے میں نہیں بیٹھا پوشاک نہیں بدلی\nماں بہنوں کی خاطر وہ ردا مانگ رہا ہے\nہاے شام کا بازار۔۔۔\n<<DIVIDER>>\nزنداں کے مصایب بھی ہر وقت رلاتا ہے\nاشکوں کو مگر اپنے زینب سے چھپاتے ہیں\nمر جائے نہ زینب یہ کہیں سوچ رہا ہے\nہاے شام کا بازار۔۔۔\n<<DIVIDER>>\nزنداں سے رہا ہو کے زنداں میں ہے سجاد\nایک ننھی سی تربت جو وہاں کرتی ہے فریاد\nمر کر بھی رہوں قید میں کیا میری خطا ہے\nہاے شام کا بازار۔۔۔\n<<DIVIDER>>\nیہ زخم بھی سجاد کو جینے نہیں دیتا\nزخموں سے سکینہ کے جو چپکا رہا کرتہ\nوہ خوں بھرا کرتہ ہی کفن اس کا بنا ہے\nہاے شام کا بازار۔۔۔\n<<DIVIDER>>\nبازار میں دربار میں زندان میں روے\nچالیس برس موت کے ارمان میں روے\nریحان میرا مولا تڑپتا ہی رہا ہے\nہاے شام کا بازار۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے شام کا بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد سے رونے کا سبب پوچھ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو شام میں گزری ہے وہ سب پوچھ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام کا بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ لاکھوں تماشائی بے پردہ پھپھی بہنیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے نہ لہو روے بیمار کی پھر آنکھیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس غم کی اذیت نے اسے مار دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام کا بازار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح کرار آے بیمار کو اے لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر نیزوں پہ پیاروں کے آتے ہے نظر جس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے جرم مسافر کی یہ کیسی سزا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام کا بازار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھوں سے ہے خوں جاری غم خوار ہے بیماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنجیر ہے پیروں میں اور طوق بھی ہے بھاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتی ہے زمین ساری اور گرم ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام کا بازار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاگیر نہیں مانگی زنجیر نہیں بدلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساے میں نہیں بیٹھا پوشاک نہیں بدلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں بہنوں کی خاطر وہ ردا مانگ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام کا بازار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنداں کے مصایب بھی ہر وقت رلاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشکوں کو مگر اپنے زینب سے چھپاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جائے نہ زینب یہ کہیں سوچ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام کا بازار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنداں سے رہا ہو کے زنداں میں ہے سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ننھی سی تربت جو وہاں کرتی ہے فریاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر کر بھی رہوں قید میں کیا میری خطا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام کا بازار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ زخم بھی سجاد کو جینے نہیں دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخموں سے سکینہ کے جو چپکا رہا کرتہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ خوں بھرا کرتہ ہی کفن اس کا بنا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام کا بازار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازار میں دربار میں زندان میں روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چالیس برس موت کے ارمان میں روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ریحان میرا مولا تڑپتا ہی رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام کا بازار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

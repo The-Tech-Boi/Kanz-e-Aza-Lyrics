@@ -1,7 +1,377 @@
 {
   "remoteId": "g2611_u0658",
-  "title": "Ay karbala mein haq",
+  "title": "اے کربلا میں حق",
   "body": "اے کربلا میں حق کے سفیروں سلام لو\nاے بے کس و یتیموں اسیروں سلام لو\n<<DIVIDER>>\nاے حامیان اہل پیمبر تمہیں سلام\nاے ناصران بے کس و مضطر تمہیں سلام\nاے کربلا کے حمزہ و جعفر تمہیں سلام\nاے پاسبان عترت حیدر تمہیں سلام\n---اے کربلا میں حق کے\n<<DIVIDER>>\nگھر بھر کے لاڈلے علی اکبر تمہیں سلام\nاے فاطمہ کے لعل کے دلبر تمہیں سلام\nبرچھی لگی ہے کیسی جگر پر تمہیں سلام\nسونا پڑا ہے اب یہ بھرا گھر تمہیں سلام\n---اے کربلا میں حق کے\n<<DIVIDER>>\nقاسم کی ہائے مرگ جوانی تمہیں سلام\nخوں میں بھری حسن کی نشانی تمہیں سلام\nاے تین دن کی تشنہ دہانی تمہیں سلام\nشہزادے بند ہو گیا پانی تمہیں سلام\n---اے کربلا میں حق کے\n<<DIVIDER>>\nشیروں کی شیر ثانی حیدر تمہیں سلام\nکیا تھی مجال روکتا لشکر تمہیں سلام\nپانی کو تم نے مار دی ٹھوکر تمہیں سلام\nبس لوٹ آئے مشک کو بھر کر تمہیں سلام\n---اے کربلا میں حق کے\n<<DIVIDER>>\nاے فوج شہہ کے ننھے سپاہی تمہیں سلام\nکیا خوب تھی تمہاری لڑائی تمہیں سلام\nایسی زباں لبوں پہ پھرائی تمہیں سلام\nالٹا کے رکھ دی ساری خدائی تمہیں سلام\n---اے کربلا میں حق کے\n<<DIVIDER>>\nتیروں سے چھلنی جسم مطاہر تمہیں سلام\nباقی نہیں لباس بدن پر تمہیں سلام\nپامال لاش سبط پیمبر تمہیں سلام\nنیزے پر ورد کرتے ہوئے سر تمہیں سلام\n---اے کربلا میں حق کے\n<<DIVIDER>>\nدکھ اے سکینہ تم نے اٹھائے تمہیں سلام\nبابا بھی لوٹ کر نہیں آئے تمہیں سلام\nرخسار پر طمانچے بھی کھائے تمہیں سلام\nنازک سے کان خوں میں نہائے تمہیں سلام\n---اے کربلا میں حق کے",
+  "styling": [
+    {
+      "insert": "اے کربلا میں حق کے سفیروں سلام لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بے کس و یتیموں اسیروں سلام لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے حامیان اہل پیمبر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ناصران بے کس و مضطر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے کربلا کے حمزہ و جعفر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے پاسبان عترت حیدر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے کربلا میں حق کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر بھر کے لاڈلے علی اکبر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے فاطمہ کے لعل کے دلبر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برچھی لگی ہے کیسی جگر پر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سونا پڑا ہے اب یہ بھرا گھر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے کربلا میں حق کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاسم کی ہائے مرگ جوانی تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں میں بھری حسن کی نشانی تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے تین دن کی تشنہ دہانی تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہزادے بند ہو گیا پانی تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے کربلا میں حق کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشیروں کی شیر ثانی حیدر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تھی مجال روکتا لشکر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی کو تم نے مار دی ٹھوکر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس لوٹ آئے مشک کو بھر کر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے کربلا میں حق کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے فوج شہہ کے ننھے سپاہی تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا خوب تھی تمہاری لڑائی تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسی زباں لبوں پہ پھرائی تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الٹا کے رکھ دی ساری خدائی تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے کربلا میں حق کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیروں سے چھلنی جسم مطاہر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باقی نہیں لباس بدن پر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پامال لاش سبط پیمبر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پر ورد کرتے ہوئے سر تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے کربلا میں حق کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدکھ اے سکینہ تم نے اٹھائے تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بھی لوٹ کر نہیں آئے تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخسار پر طمانچے بھی کھائے تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نازک سے کان خوں میں نہائے تمہیں سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے کربلا میں حق کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

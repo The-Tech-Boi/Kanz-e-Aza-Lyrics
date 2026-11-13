@@ -1,12 +1,311 @@
 {
   "remoteId": "g2611_u0115",
-  "title": "Aao taboot",
+  "title": "آؤ تابوت",
   "body": "زہرا کا ہے بابا حسنین کا نانا\n<<DIVIDER>>\nآنسوں زہرا کی یتیمی پہ بہاؤ لوگوں\nآؤ تابوت محمد کا اٹھاؤ لوگوں\nہاےء رسول اللہ\n<<DIVIDER>>\nآؤ تابوت محمد کا اٹھاؤ لوگوں\nساری دنیا کو وفاداری سکھاؤ لوگوں\n...آؤ تابوت محمد کا\n<<DIVIDER>>\nجس عقیدت سے بپا کرتے ہو میلاد نبی\nفرش غم ویسے محمد کا بچھاؤ لوگوں\n...آؤ تابوت محمد کا\n<<DIVIDER>>\nیہ صف غم ہے محمد کی یہاں فرق نہیں\nہاں اسی صف پہ زمانے کو بلاؤ لوگوں\n...آؤ تابوت محمد کا\n<<DIVIDER>>\nگھر میں ہے فاطمہ زہرا کے اندھیرا چھایا\nآج کی رات چراغوں کو بجھاؤ لوگوں\n...آؤ تابوت محمد کا\n<<DIVIDER>>\nکھاکے پتھر بھی جو امت کو دعا دیتے رہے\nایسے محسن کا نہ احسان بھلاؤ لوگوں\n...آؤ تابوت محمد کا\n<<DIVIDER>>\nاپنے غم بھول کے دیتی ہے خدیجہ یہ صدا\nآنسوں زہرا کی یتیمی پہ بہاؤ لوگوں\n...آؤ تابوت محمد کا\n<<DIVIDER>>\nغم‌ میں مظلوم کے رونا ہے نبی کی سنت\nیہ حقیقت نہ زمانے سے چھپاؤ لوگوں\n...آؤ تابوت محمد کا\n<<DIVIDER>>\nکیوں ہو خاموش بقیہ کے اجڑجانے پر\nاپنے سرکار کو ایسے نہ رلاؤ لوگوں\n...آؤ تابوت محمد کا",
+  "styling": [
+    {
+      "insert": "زہرا کا ہے بابا حسنین کا نانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنسوں زہرا کی یتیمی پہ بہاؤ لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ تابوت محمد کا اٹھاؤ لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاےء رسول اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآؤ تابوت محمد کا اٹھاؤ لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساری دنیا کو وفاداری سکھاؤ لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...آؤ تابوت محمد کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس عقیدت سے بپا کرتے ہو میلاد نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش غم ویسے محمد کا بچھاؤ لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...آؤ تابوت محمد کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ صف غم ہے محمد کی یہاں فرق نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں اسی صف پہ زمانے کو بلاؤ لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...آؤ تابوت محمد کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر میں ہے فاطمہ زہرا کے اندھیرا چھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج کی رات چراغوں کو بجھاؤ لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...آؤ تابوت محمد کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھاکے پتھر بھی جو امت کو دعا دیتے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے محسن کا نہ احسان بھلاؤ لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...آؤ تابوت محمد کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے غم بھول کے دیتی ہے خدیجہ یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنسوں زہرا کی یتیمی پہ بہاؤ لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...آؤ تابوت محمد کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم‌ میں مظلوم کے رونا ہے نبی کی سنت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ حقیقت نہ زمانے سے چھپاؤ لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...آؤ تابوت محمد کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں ہو خاموش بقیہ کے اجڑجانے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے سرکار کو ایسے نہ رلاؤ لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...آؤ تابوت محمد کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Rasool-e-Khuda (s.a.w.s)",
+  "subcategory": "رسولِ خدا (ص)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

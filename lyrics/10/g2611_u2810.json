@@ -1,12 +1,446 @@
 {
   "remoteId": "g2611_u2810",
-  "title": "Ruk nahi jaana",
+  "title": "رک نہیں جانا",
   "body": "بانو یہ پکاری اصغر ماں تجھ پہ ہے واری اصغر\n<<DIVIDER>>\nدیکھو مقتل میں کہیں رک نہیں جانا اصغر\nشام ہوتے ہی میری جاں چلے آنا اصغر\n<<DIVIDER>>\nرات بھر خود ہی سوارا ہے میری جاں میں نے\nصدقہ جھولے کا اتارا ہے میری جاں میں نے\nرن میں بابا کو نہ تم اپنے رلانا اصغر\nشام ہوتے ہی میری جاں۔۔۔\nدیکھو مقتل میں کہیں۔۔۔\n<<DIVIDER>>\nماں ہوں میں خوب سمجھتی ہوں اشارے تیرے\nلب جو سوکھے ہوے ہیں پیاس کے مارے تیرے\nپیاس تیروں سے نہ تم رن میں بجھانا اصغر\nشام ہوتے ہی میری جاں۔۔۔\nدیکھو مقتل میں کہیں۔۔۔\n<<DIVIDER>>\nلوریاں سن کے بھی کیوں نیند نہیں آتی ہے\nکچھ تو بولو کہ میری جاں چلی جاتی ہے\nصبح سے کرتے ہو پانی کا بہانا اصغر\nشام ہوتے ہی میری جاں۔۔۔\nدیکھو مقتل میں کہیں۔۔۔\n<<DIVIDER>>\nدیکھو میدان میں برسات ہے پیکانوں کی\nنسلیں اس دشت میں ملتی نہیں انسانوں کی\nمثل اکبر کہیں دھوکہ نہیں کھانا اصغر\nشام ہوتے ہی میری جاں۔۔۔\nدیکھو مقتل میں کہیں۔۔۔\n<<DIVIDER>>\nنہ سواری ہے نہ ہتھیار سجاے تم نے\nپھر بھی مقتل کی طرف پاؤں بڑھاے تم نے\nخود کو گرمی کی تپش سے ہے بچانا اصغر\nشام ہوتے ہی میری جاں۔۔۔\nدیکھو مقتل میں کہیں۔۔۔\n<<DIVIDER>>\nتیر ہے خشک زباں سوکھے ہوے ہونٹ کماں\nکام کچھ تیر تبسم سے بھی لینا میری جاں\nساتھ ہے میری دعاؤں کا خزانہ اصغر\nشام ہوتے ہی میری جاں۔۔۔\nدیکھو مقتل میں کہیں۔۔۔\n<<DIVIDER>>\nٹہر گردن پہ تیری ناد علی دم کر دوں\nگھر سے میدان تلک مشکلیں کچھ کم کردوں\nسامنے ظلم کے گردن نہ جھکانا اصغر\nشام ہوتے ہی میری جاں۔۔۔\nدیکھو مقتل میں کہیں۔۔۔\n<<DIVIDER>>\nصفدر شاہ امم تم ہو ریحان عباس\nعلقمہ پر بھی ہے غازی کی وفا کا احساس\nتم شجاعت کا علم گاڑ کے آنا اصغر\nشام ہوتے ہی میری جاں۔۔۔\nدیکھو مقتل میں کہیں۔۔۔",
+  "styling": [
+    {
+      "insert": "بانو یہ پکاری اصغر ماں تجھ پہ ہے واری اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھو مقتل میں کہیں رک نہیں جانا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہوتے ہی میری جاں چلے آنا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرات بھر خود ہی سوارا ہے میری جاں میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدقہ جھولے کا اتارا ہے میری جاں میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رن میں بابا کو نہ تم اپنے رلانا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہوتے ہی میری جاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو مقتل میں کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں ہوں میں خوب سمجھتی ہوں اشارے تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لب جو سوکھے ہوے ہیں پیاس کے مارے تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاس تیروں سے نہ تم رن میں بجھانا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہوتے ہی میری جاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو مقتل میں کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلوریاں سن کے بھی کیوں نیند نہیں آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ تو بولو کہ میری جاں چلی جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبح سے کرتے ہو پانی کا بہانا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہوتے ہی میری جاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو مقتل میں کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھو میدان میں برسات ہے پیکانوں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نسلیں اس دشت میں ملتی نہیں انسانوں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مثل اکبر کہیں دھوکہ نہیں کھانا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہوتے ہی میری جاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو مقتل میں کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ سواری ہے نہ ہتھیار سجاے تم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی مقتل کی طرف پاؤں بڑھاے تم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود کو گرمی کی تپش سے ہے بچانا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہوتے ہی میری جاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو مقتل میں کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیر ہے خشک زباں سوکھے ہوے ہونٹ کماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کام کچھ تیر تبسم سے بھی لینا میری جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ ہے میری دعاؤں کا خزانہ اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہوتے ہی میری جاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو مقتل میں کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹہر گردن پہ تیری ناد علی دم کر دوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سے میدان تلک مشکلیں کچھ کم کردوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سامنے ظلم کے گردن نہ جھکانا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہوتے ہی میری جاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو مقتل میں کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصفدر شاہ امم تم ہو ریحان عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علقمہ پر بھی ہے غازی کی وفا کا احساس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم شجاعت کا علم گاڑ کے آنا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہوتے ہی میری جاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو مقتل میں کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

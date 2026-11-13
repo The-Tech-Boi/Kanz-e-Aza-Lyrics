@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u0956",
-  "title": "Bekason ka khaafla",
+  "title": "بیکسوں کا قافلہ",
   "body": "بیکسوں کا قافلہ ہے شام کا بازار ہے\nخواہر عباس غازی قافلہ سالار ہے\n<<DIVIDER>>\nکیوں نہ رونے کی صدا آے در و دیوار سے\nبے ردا سیدانیاں ہے اور بھرا دربار ہے\nبیکسوں کا قافلہ ہے۔۔۔\n<<DIVIDER>>\nکس طرح مانگے غلاموں سے بھلا عابد ردا\nیہ ہے غازی کا بھتیجا اور بڑا خود دار ہے\nبیکسوں کا قافلہ ہے۔۔۔\n<<DIVIDER>>\nیوں حقارت سے نہ دیکھو سید سجاد کو\nیہ کوئی مفلس نہیں کونین کا سردار ہے\nبیکسوں کا قافلہ ہے۔۔۔\n<<DIVIDER>>\nخاک سر پہ تازیانوں کے نشاں ہے پشت پر\nطوق ہے زنجیر ہے اور عابد بیمار ہے\nبیکسوں کا قافلہ ہے۔۔۔\n<<DIVIDER>>\nیا الٰہی کیسے گزرے گا یہ نازوں کا پلا\nپاؤں میں چھالے پڑے ہیں راستہ پر خار ہے\nبیکسوں کا قافلہ ہے۔۔۔\n<<DIVIDER>>\nتازیانے مت لگاؤ مت ستاؤ ظالموں\nیہ بہت زخمی بہت پیاسا بہت بیمار ہے\nبیکسوں کا قافلہ ہے۔۔۔\n<<DIVIDER>>\nچھپ ہے عابد غمزدہ گھبرا رہی ہے بی بیاں\nاب بہت نزدیک شاید شام کا دربار ہے\nبیکسوں کا قافلہ ہے۔۔۔\n<<DIVIDER>>\nکہہ رہا ہے شاہ کی آنکھوں سے خوں بہتا ہوا\nشام کے بازار کی منزل بہت دشوار ہے\nبیکسوں کا قافلہ ہے۔۔۔\n<<DIVIDER>>\nجو گھرانہ لٹ گیا تھا دشت میں گوہر کبھی\nآج وہی دو جہاں کا مالک و مختار ہے\nبیکسوں کا قافلہ ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "بیکسوں کا قافلہ ہے شام کا بازار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خواہر عباس غازی قافلہ سالار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں نہ رونے کی صدا آے در و دیوار سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا سیدانیاں ہے اور بھرا دربار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسوں کا قافلہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح مانگے غلاموں سے بھلا عابد ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ہے غازی کا بھتیجا اور بڑا خود دار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسوں کا قافلہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیوں حقارت سے نہ دیکھو سید سجاد کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کوئی مفلس نہیں کونین کا سردار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسوں کا قافلہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاک سر پہ تازیانوں کے نشاں ہے پشت پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طوق ہے زنجیر ہے اور عابد بیمار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسوں کا قافلہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا الٰہی کیسے گزرے گا یہ نازوں کا پلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاؤں میں چھالے پڑے ہیں راستہ پر خار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسوں کا قافلہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتازیانے مت لگاؤ مت ستاؤ ظالموں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بہت زخمی بہت پیاسا بہت بیمار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسوں کا قافلہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھپ ہے عابد غمزدہ گھبرا رہی ہے بی بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب بہت نزدیک شاید شام کا دربار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسوں کا قافلہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہہ رہا ہے شاہ کی آنکھوں سے خوں بہتا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کے بازار کی منزل بہت دشوار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسوں کا قافلہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو گھرانہ لٹ گیا تھا دشت میں گوہر کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج وہی دو جہاں کا مالک و مختار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسوں کا قافلہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Gohar Jarchvi",
   "anjumans": [],
   "verified": false

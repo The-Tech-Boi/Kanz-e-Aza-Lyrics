@@ -1,12 +1,578 @@
 {
   "remoteId": "g2611_u0528",
-  "title": "Apni aghosh mein",
+  "title": "اپنی آغوش میں",
   "body": "ہاے یا حسین اے یا حسین\n<<DIVIDER>>\nچل رہی ہے میری گردن پہ چھری\nاپنی آغوش میں لے لو اماں\n<<DIVIDER>>\nکہہ رہے تھے یہ حسین ابنِ علی\nاپنی آغوش میں لے لو اماں\n<<DIVIDER>>\nتشنہ لب نازوں کا پالا ہے تمہارا بیٹا\nقتل اب ہونے ہی والا ہے تمہارا بیٹا\nرکنے والی ہے ہر ایک سانس میری\nاپنی آغوش میں لے لو اماں\nچل رہی ہے میری۔۔۔\n<<DIVIDER>>\nاپنے بچپن کا نبھاتا ہوں یہ وعدہ دیکھو\nمیں نے بدلہ تو نہیں اپنا ارادہ دیکھو\nسر میرا کاٹنے والا ہے شقی\nاپنی آغوش میں لے لو اماں\nچل رہی ہے میری۔۔۔\n<<DIVIDER>>\nتھک گیا لاشیں اٹھا کر بھرے لشکر کی\nلاش قاسم کی میں لایا ہوں کبھی اکبر کی\nخود بنای ہے لحد میں نے علی اصغر کی\nدو تسلی مجھے سینے سے لگا لو اماں\nہاے یا حسین اے یا حسین\nچل رہی ہے میری۔۔۔\n<<DIVIDER>>\nکتنی بے چین ہے اماں میری زینب خواہر\nآ کے ٹیلے پہ وہ خود دیکھ رہی ہے منظر\nہو رہی ہے اسے تکلیف بڑی\nاپنی آغوش میں لے لو اماں\nچل رہی ہے میری۔۔۔\n<<DIVIDER>>\nمر گیا میرا جری بھای مگر صبر کیا\nمیرے اکبر نے سناں کھای مگر صبر کیا\nمل گیء خاک میں تصویر نبی\nاپنی آغوش میں لے لو اماں\nچل رہی ہے میری۔۔۔\n<<DIVIDER>>\nہاجرہ آسیہ مریم بھی اسی دشت میں ہے\nنوح بھی حضرتِ آدم بھی اسی دشت میں ہے\nرو رہے ہیں میری غربت پہ سبھی\nاپنی آغوش میں لے لو اماں\nچل رہی ہے میری۔۔۔\n<<DIVIDER>>\nکھو دیےء دشت میں آنکھوں کے اجالے میں نے\nکھا لیا دل پہ بہت درد کے بھالے میں نے\nموت آتی ہے تو آ جاے ابھی\nاپنی آغوش میں لے لو اماں\nچل رہی ہے میری۔۔۔\n<<DIVIDER>>\nکلمہ گو خون رلاتے ہیں مجھے مقتل میں\nدیکھ لو کتنا ستاتے ہیں مجھے مقتل میں\nہل گیء دیکھ لو مقتل کی زمیں\nاپنی آغوش میں لے لو اماں\nچل رہی ہے میری۔۔۔\n<<DIVIDER>>\nاک گزارش ہے میری تم سے اب اتنی مادر\nاماں بابا کے قسم ڈھانپ لو منہ پر چادر\nدیکھا جائے گا نہ اب تم سے یہ خونی منظر\nارے قتل ہوتا ہوں نگاہوں کو ہٹا لو اماں\nہاے یا حسین اے یا حسین\n<<DIVIDER>>\nعرض کرتے ہی نواب ہو گیا محشر برپا\nخاک اڑھانے لگی مقتل میں جنابِ زہرا\nشادماں جب یہ صدا شاہ نے دی\nاپنی آغوش میں لے لو اماں\nچل رہی ہے میری۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے یا حسین اے یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچل رہی ہے میری گردن پہ چھری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی آغوش میں لے لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہہ رہے تھے یہ حسین ابنِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی آغوش میں لے لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتشنہ لب نازوں کا پالا ہے تمہارا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل اب ہونے ہی والا ہے تمہارا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکنے والی ہے ہر ایک سانس میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی آغوش میں لے لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل رہی ہے میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے بچپن کا نبھاتا ہوں یہ وعدہ دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے بدلہ تو نہیں اپنا ارادہ دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر میرا کاٹنے والا ہے شقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی آغوش میں لے لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل رہی ہے میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھک گیا لاشیں اٹھا کر بھرے لشکر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاش قاسم کی میں لایا ہوں کبھی اکبر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود بنای ہے لحد میں نے علی اصغر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو تسلی مجھے سینے سے لگا لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے یا حسین اے یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل رہی ہے میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنی بے چین ہے اماں میری زینب خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ کے ٹیلے پہ وہ خود دیکھ رہی ہے منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو رہی ہے اسے تکلیف بڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی آغوش میں لے لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل رہی ہے میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمر گیا میرا جری بھای مگر صبر کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اکبر نے سناں کھای مگر صبر کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل گیء خاک میں تصویر نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی آغوش میں لے لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل رہی ہے میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاجرہ آسیہ مریم بھی اسی دشت میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوح بھی حضرتِ آدم بھی اسی دشت میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رہے ہیں میری غربت پہ سبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی آغوش میں لے لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل رہی ہے میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھو دیےء دشت میں آنکھوں کے اجالے میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا لیا دل پہ بہت درد کے بھالے میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت آتی ہے تو آ جاے ابھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی آغوش میں لے لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل رہی ہے میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکلمہ گو خون رلاتے ہیں مجھے مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ لو کتنا ستاتے ہیں مجھے مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہل گیء دیکھ لو مقتل کی زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی آغوش میں لے لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل رہی ہے میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک گزارش ہے میری تم سے اب اتنی مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں بابا کے قسم ڈھانپ لو منہ پر چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جائے گا نہ اب تم سے یہ خونی منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ارے قتل ہوتا ہوں نگاہوں کو ہٹا لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے یا حسین اے یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعرض کرتے ہی نواب ہو گیا محشر برپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک اڑھانے لگی مقتل میں جنابِ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شادماں جب یہ صدا شاہ نے دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی آغوش میں لے لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل رہی ہے میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Nawab Cholasvi",
   "anjumans": [],
   "verified": false

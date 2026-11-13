@@ -1,12 +1,550 @@
 {
   "remoteId": "g2611_u2921",
-  "title": "Salam abbas ya",
+  "title": "سلام عباس یا",
   "body": "اے شیر نیستان حیدر\nاے سقی باب الحوایج\nبا وفا عباس\n<<DIVIDER>>\nالسلام اے با وفا باب الحوایج السلام\nبیکسوں کا آسرا باب الحوایج السلام\nخیمہء آل محمد کل اماموں کا سلام\nاے دعاے سیدہباب الحوایج السلام\n<<DIVIDER>>\nوہ روز کہ جس کا وعدہ ہے\nوہ روز یقیناً آے گا\nانسان کا مقدر بدلے گا\nجب نورِ امامت چھاے گا\nگونجے گی صداے جل الحق\nاور مہدیء دوراں آے گا\nاس روز سے سارے عالم میں\nبس ایک علم لہراے گا\n<<DIVIDER>>\nغازی کا علم ایک سایہ ہے\nجو کل بھی تھا جو آج بھی ہے\nاور اس کا کرم کل بھی ہو گا\nعباس عباس عباس عباس\n<<DIVIDER>>\nسورجوں میں چاند بند کر اس طرح زندہ رہا\nچادر زہرا کے ساے میں صدا پلٹا رہا\nیہ علی ابنِ طالب کا سرمایہ رہا\nزینب و کلثوم کی بھی آنکھ کا تارہ رہا\nسلام عباس یا مولا۔۔۔\n<<DIVIDER>>\nحرمتِ دین نبی زہرا کے گھر کی آبرو\nدل ہے یہ ام البنین کا اور حیدر کا لہو\nسیرتِ شبیر و شبر کا سراپا ہو بہو\nپنجتن کے درمیاں کس کا شرف ایسا\nسلام عباس یا مولا۔۔۔\n<<DIVIDER>>\nیہ وہ گھر ہے جس طرف دیکھا ہمیں مولا ملا\nہر طرف مولا ہی مولا ابتداء تا انتہا\nگرد ملاؤں کے یہ غازی ہے مولاے وفا\nاے خدا مولا نبی مولا علی مولا\nسلام عباس یا مولا۔۔۔\n<<DIVIDER>>\nہے علی کی بادشاہی آسماں ہو یا زمیں\nہے علی اس میں الٰہی مصطفیٰ کا جانشیں\nدوسرا حیدر نہیں ہے دوسرا غازی نہیں\nیا علی کہتا زباں کے ساتھ دل بولا\nسلام عباس یا مولا۔۔۔\n<<DIVIDER>>\nبد رہا ہے جانب دریا علم عباس کا\nکون روکے گا بھلا بڑھتا قدم عباس کا\nہاں مگر شبیر کو سہنا ہے غم عباس کا\nحکم شبیری سے اپنے غیض کو روکا\nسلام عباس یا مولا۔۔۔\n<<DIVIDER>>\nالاماں وہ مشک کا چھدنا تڑپنا شیر کا\nیا سکینہ الوداع کہہ کر وہ گرنا شیر کا\nدیکھتی ہی رہ گیء رستہ سکینہ شیر کا\nمر کے بھی سینے سے لپٹاے تھا مشکیزہ\nسلام عباس یا مولا۔۔۔\n<<DIVIDER>>\nوہ کرم لللہ بر حال غریباں یا سفیر\nآپ سے ہی لو لگاے ہیں یہ سارے ماتمی\nسرور و ریحان کی قایم رہے یہ نوکری\nاے سقی باب الحوایج فضل کے بابا\nسلام عباس یا مولا۔۔۔",
+  "styling": [
+    {
+      "insert": "اے شیر نیستان حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے سقی باب الحوایج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "با وفا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالسلام اے با وفا باب الحوایج السلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسوں کا آسرا باب الحوایج السلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمہء آل محمد کل اماموں کا سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے دعاے سیدہباب الحوایج السلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ روز کہ جس کا وعدہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ روز یقیناً آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انسان کا مقدر بدلے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب نورِ امامت چھاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجے گی صداے جل الحق"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور مہدیء دوراں آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس روز سے سارے عالم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس ایک علم لہراے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغازی کا علم ایک سایہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو کل بھی تھا جو آج بھی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اس کا کرم کل بھی ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسورجوں میں چاند بند کر اس طرح زندہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر زہرا کے ساے میں صدا پلٹا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ علی ابنِ طالب کا سرمایہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب و کلثوم کی بھی آنکھ کا تارہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام عباس یا مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحرمتِ دین نبی زہرا کے گھر کی آبرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل ہے یہ ام البنین کا اور حیدر کا لہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیرتِ شبیر و شبر کا سراپا ہو بہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پنجتن کے درمیاں کس کا شرف ایسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام عباس یا مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ وہ گھر ہے جس طرف دیکھا ہمیں مولا ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف مولا ہی مولا ابتداء تا انتہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرد ملاؤں کے یہ غازی ہے مولاے وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے خدا مولا نبی مولا علی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام عباس یا مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے علی کی بادشاہی آسماں ہو یا زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے علی اس میں الٰہی مصطفیٰ کا جانشیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دوسرا حیدر نہیں ہے دوسرا غازی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی کہتا زباں کے ساتھ دل بولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام عباس یا مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبد رہا ہے جانب دریا علم عباس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون روکے گا بھلا بڑھتا قدم عباس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں مگر شبیر کو سہنا ہے غم عباس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حکم شبیری سے اپنے غیض کو روکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام عباس یا مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالاماں وہ مشک کا چھدنا تڑپنا شیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا سکینہ الوداع کہہ کر وہ گرنا شیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھتی ہی رہ گیء رستہ سکینہ شیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر کے بھی سینے سے لپٹاے تھا مشکیزہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام عباس یا مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ کرم لللہ بر حال غریباں یا سفیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ سے ہی لو لگاے ہیں یہ سارے ماتمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور و ریحان کی قایم رہے یہ نوکری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے سقی باب الحوایج فضل کے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام عباس یا مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

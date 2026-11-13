@@ -1,7 +1,423 @@
 {
   "remoteId": "g2611_u2396",
-  "title": "Mere baba mere baba",
+  "title": "میرے بابا میرے بابا",
   "body": "میرے بابا میرے بابا\nبھائی جب مارا گیا آپ کہاں تھے بابا\nتیر اصغر پہ لگا آپ کہاں تھے بابا\nقتل عباس ہوا آپ کہاں تھے بابا\n...میرے بابا\n<<DIVIDER>>\nسب یہ کہتے ہیں کے ہے نعمتِ داور پانی\nبند کرتا ہے کہاں کون کسی پر پانی\nیہ ستم ہم پہ ہوا آپ کہاں تھے بابا\n...میرے بابا\n<<DIVIDER>>\nپیاسے بچوں کے لیے جنگ جو عباس نے کی\nایسی یلغار ہوئی مشکِ سکینہ نہ بچی\nاک اک بازو کٹا آپ کہاں تھے بابا\n...میرے بابا\n<<DIVIDER>>\nآیا اصغر سرِ میدان تو ہوا اور ستم\nسوکھے ہونٹوں پہ زباں اُس نے پھرائی جس دم\nتیر جب اس کے لگا آپ کہاں تھے بابا\n...میرے بابا\n<<DIVIDER>>\nمیرا دل بندِ حسن جب نہیں ہارا بابا\nاس طرح مل کے سبوں نے اُسے مارا بابا\nلاشہ پامال کیا آپ کہاں تھے بابا\n...میرے بابا\n<<DIVIDER>>\nبعدِ شبیر ہمارا کوئی وارث نہ رہا\nاشقیائ آ گئے خیموں میں ہوا حشر بپا\nجب چھِنی میری ردا آپ کہاں تھے بابا\n...میرے بابا\n<<DIVIDER>>\nجب ہر اک اہلِ ستم آگ لگانے آیا\nاتنا سجاد تھا بیمار کے اُٹھا نہ گیا\nجل کے سب خاک ہوا آپ کہاں تھے بابا\n...میرے بابا\n<<DIVIDER>>\nسُن کے فرمایا علی نے میری بیٹی مت رو\nآزمائش یہ ہے ہم سب کی ابھی صبر کرو\nدل مگر کہتا رہا آپ کہاں تھے بابا\n...میرے بابا\n<<DIVIDER>>\nمیں تو ہر گام پہ تھا ساتھ تمہارے بیٹی\nچُپ تھا بس مرضیئے معبود کے مارے بیٹی\nتم نے یہ کیسے کہا آپ کہاں تھے بابا\n...میرے بابا\n<<DIVIDER>>\nجب کبھی چشمِ تصور سے یہ صبر دیکھا\nباپ کو گریہ میں بیٹی کے برابر دیکھا\nہائے کیسا تھا گِلہ آپ کہاں تھے بابا\n...میرے بابا",
+  "styling": [
+    {
+      "insert": "میرے بابا میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی جب مارا گیا آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیر اصغر پہ لگا آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل عباس ہوا آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب یہ کہتے ہیں کے ہے نعمتِ داور پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بند کرتا ہے کہاں کون کسی پر پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ستم ہم پہ ہوا آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاسے بچوں کے لیے جنگ جو عباس نے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسی یلغار ہوئی مشکِ سکینہ نہ بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک اک بازو کٹا آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآیا اصغر سرِ میدان تو ہوا اور ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوکھے ہونٹوں پہ زباں اُس نے پھرائی جس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیر جب اس کے لگا آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا دل بندِ حسن جب نہیں ہارا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح مل کے سبوں نے اُسے مارا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ پامال کیا آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعدِ شبیر ہمارا کوئی وارث نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشقیائ آ گئے خیموں میں ہوا حشر بپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب چھِنی میری ردا آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب ہر اک اہلِ ستم آگ لگانے آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا سجاد تھا بیمار کے اُٹھا نہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل کے سب خاک ہوا آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسُن کے فرمایا علی نے میری بیٹی مت رو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آزمائش یہ ہے ہم سب کی ابھی صبر کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل مگر کہتا رہا آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں تو ہر گام پہ تھا ساتھ تمہارے بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چُپ تھا بس مرضیئے معبود کے مارے بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم نے یہ کیسے کہا آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب کبھی چشمِ تصور سے یہ صبر دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کو گریہ میں بیٹی کے برابر دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے کیسا تھا گِلہ آپ کہاں تھے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

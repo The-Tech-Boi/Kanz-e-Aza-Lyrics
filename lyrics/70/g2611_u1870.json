@@ -1,12 +1,337 @@
 {
   "remoteId": "g2611_u1870",
-  "title": "Kar madad meri baqir",
+  "title": "کر مدد میری باقر",
   "body": "سکینہ مر گئی زندان میںجب یہ شور اُٹھا\nالم سے زرد تھا اُس دم ہر اک کا چہرہ\nقریبِ لاشئہ ہمشیر بھائی جب پہنچا\nبندھے تھے ہاتھ بدن طوق سے لرزتا تھا\nنہ اُٹھ سکا جو جنازہ بہن کا بھائی سے\nتو رو کے بیٹے سے سجاد پھر یہ کہنے لگے\n<<DIVIDER>>\nکر مدد میری باقر بیٹا ہمشیر کی قبر بنائوں میں\nزنجیر اُٹھائو تم میری اور اُس کی لاش اُٹھائوں میں\n<<DIVIDER>>\nدادانے بڑی مظلومی میں تھا دادی کو دفنایا\nلیکن وہ مدینہ تھا باقر اور یہ ہے دیس پرایا\nاس چار برس کی زہرا کو غربت میں کہاں دفنائوں میں\nکر مدد میری باقر ۔۔۔\n<<DIVIDER>>\nجو خوں سے بھری تھی مادر کی نظروں سے چھپادی میں نے\nاک سال سے تھی جو گردن میں رسی وہ ہٹادی میں نے\nگردن پہ بنے جو رسی سے کیسے وہ نیل چھپائوں میں\nکر مدد میری باقر ۔۔۔\n<<DIVIDER>>\nمل جائے اگر واپس مجھکو وہ تیری ردا اور گوہر\nبابا کی لحد پر رکھ دوں یا صغرا کو دوں واپس جاکر\nوہ دونوں امانت ہیں تیری بتلادے کسے پہنچائوں میں\nکر مدد میری باقر ۔۔۔\n<<DIVIDER>>\nجب تم کو رہائی مل جائے پھپھیوں کو وطن پہنچانا\nرہ لیں گے یہیںغمخواری بہن تم قافلہ گھر لے جانا\nدفناتے ہوئے اس بچی کو زنداں میں اگر مرجائوں میں\nکر مدد میری باقر ۔۔۔\n<<DIVIDER>>\nدونوں کو جدا میں کیسے کروں ہمت ہی نہیں یہ میری\nہے آپ کے سر سے لپٹی ہوئی بے جان یہ آپ کی بیٹی\nکیا ساتھ سکینہ کے بابا سر آپ کا بھی دفنائوں میں\nکر مدد میری باقر ۔۔۔\n<<DIVIDER>>\nتاویز ِلحد کو بند کیا عابد نے یہ کہہ کر اکبر\nکہنا یہ حرم سے اے باقر سب روئیں یہاں پر آکر\nتربت پہ چھڑکنے کی خاطر اب پانی کہاں سے لائوں میں\nکر مدد میری باقر ۔۔۔",
+  "styling": [
+    {
+      "insert": "سکینہ مر گئی زندان میںجب یہ شور اُٹھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الم سے زرد تھا اُس دم ہر اک کا چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قریبِ لاشئہ ہمشیر بھائی جب پہنچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بندھے تھے ہاتھ بدن طوق سے لرزتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ اُٹھ سکا جو جنازہ بہن کا بھائی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو رو کے بیٹے سے سجاد پھر یہ کہنے لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکر مدد میری باقر بیٹا ہمشیر کی قبر بنائوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنجیر اُٹھائو تم میری اور اُس کی لاش اُٹھائوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدادانے بڑی مظلومی میں تھا دادی کو دفنایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن وہ مدینہ تھا باقر اور یہ ہے دیس پرایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس چار برس کی زہرا کو غربت میں کہاں دفنائوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر مدد میری باقر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو خوں سے بھری تھی مادر کی نظروں سے چھپادی میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک سال سے تھی جو گردن میں رسی وہ ہٹادی میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گردن پہ بنے جو رسی سے کیسے وہ نیل چھپائوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر مدد میری باقر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمل جائے اگر واپس مجھکو وہ تیری ردا اور گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کی لحد پر رکھ دوں یا صغرا کو دوں واپس جاکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ دونوں امانت ہیں تیری بتلادے کسے پہنچائوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر مدد میری باقر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب تم کو رہائی مل جائے پھپھیوں کو وطن پہنچانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ لیں گے یہیںغمخواری بہن تم قافلہ گھر لے جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دفناتے ہوئے اس بچی کو زنداں میں اگر مرجائوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر مدد میری باقر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدونوں کو جدا میں کیسے کروں ہمت ہی نہیں یہ میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آپ کے سر سے لپٹی ہوئی بے جان یہ آپ کی بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ساتھ سکینہ کے بابا سر آپ کا بھی دفنائوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر مدد میری باقر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتاویز ِلحد کو بند کیا عابد نے یہ کہہ کر اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنا یہ حرم سے اے باقر سب روئیں یہاں پر آکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تربت پہ چھڑکنے کی خاطر اب پانی کہاں سے لائوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر مدد میری باقر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

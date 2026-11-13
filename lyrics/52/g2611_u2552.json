@@ -1,7 +1,251 @@
 {
   "remoteId": "g2611_u2552",
-  "title": "Nange sar jab",
+  "title": "ننگے سر جب",
   "body": "ننگے سر جب کبھی ناموسِ گرفتار چلے\nپردہ داری کے لیئے سایہِ دیوار چلے\n<<DIVIDER>>\nاُس نے اک سجدئہ آخر سے سبق سیکھا ہے\nعالمِ شوق میں جب کوئی سوئے دار چلے\nننگے سر جب کبھی۔۔۔\n<<DIVIDER>>\nایک اشارہ ہے یہ ہمشیرِ برادر کی طرف\nنفس کے ساتھ اگر سانس کی رفتار چلے\nننگے سر جب کبھی۔۔۔\n<<DIVIDER>>\nمجھکو ہر لمحہ مسیحا کا گماں ہوتا ہے\nریگ زاروں میں اگر کوئی بھی بیمار چلے\nننگے سر جب کبھی۔۔۔\n<<DIVIDER>>\nاُس کے ہمراہ ذرا آپ بھی آہستہ چلیں\nپا با زنجیر اگر کوئی گرفتار چلے\nننگے سر جب کبھی۔۔۔\n<<DIVIDER>>\nبیبیاں ہوں تو ردائیں بھی مہیا کیجیئے\nقافلہ جب بھی کوئی شہر کہ بازار چلے\nننگے سر جب کبھی۔۔۔\n<<DIVIDER>>\nظلم کی حد ہے کہ جب عالمِ تنہائی میں\nخستہ جاں پر سرِ مقتل کبھی تلوار چلے\nننگے سر جب کبھی۔۔۔\n<<DIVIDER>>\nایک عالم میں رہے سانس میں روتا شکیب\nسبز پرچم کے تلے جب بھی علمدار چلے\nننگے سر جب کبھی۔۔۔",
+  "styling": [
+    {
+      "insert": "ننگے سر جب کبھی ناموسِ گرفتار چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردہ داری کے لیئے سایہِ دیوار چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاُس نے اک سجدئہ آخر سے سبق سیکھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عالمِ شوق میں جب کوئی سوئے دار چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننگے سر جب کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک اشارہ ہے یہ ہمشیرِ برادر کی طرف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نفس کے ساتھ اگر سانس کی رفتار چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننگے سر جب کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھکو ہر لمحہ مسیحا کا گماں ہوتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ریگ زاروں میں اگر کوئی بھی بیمار چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننگے سر جب کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاُس کے ہمراہ ذرا آپ بھی آہستہ چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پا با زنجیر اگر کوئی گرفتار چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننگے سر جب کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیبیاں ہوں تو ردائیں بھی مہیا کیجیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ جب بھی کوئی شہر کہ بازار چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننگے سر جب کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظلم کی حد ہے کہ جب عالمِ تنہائی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خستہ جاں پر سرِ مقتل کبھی تلوار چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننگے سر جب کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک عالم میں رہے سانس میں روتا شکیب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سبز پرچم کے تلے جب بھی علمدار چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننگے سر جب کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

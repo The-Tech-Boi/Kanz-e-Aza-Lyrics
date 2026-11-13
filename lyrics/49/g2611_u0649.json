@@ -1,12 +1,469 @@
 {
   "remoteId": "g2611_u0649",
-  "title": "Ay hussain jaan",
+  "title": "اے حسین جان",
   "body": "اے حسین جان اے حسین جان\nاے علی کے لعل اے شہ زماں\nفتح کر لئے تو نے دو جہاں\nمسکرا اٹھا جب کہ بے زباں\n---اے حسین جان\n<<DIVIDER>>\nتو پناہ دیں تو ہی شاہ دیں\nوراث نبی کعبہ یقین\nنازش حرم حق کے پاسباں\n---اے حسین جان\n<<DIVIDER>>\nکربلا جہاد کربلا قیام\nتو نے حشر تک دے دیا پیام\nروح کربلا راز کن فکاں\n---اے حسین جان\n<<DIVIDER>>\nدے کے سر لیا قلم سے فرات\nتجھ سے رہ گئی انبیا کی لاج\nابن فاطمہ فرق مرسلہ\n---اے حسین جان\n<<DIVIDER>>\nحر کا تذکرہ ہے ورق ورق\nسن کے آگیا جو صدائے حق\nصبح کربلا معنی اذان\n---اے حسین جان\n<<DIVIDER>>\nزندگی سے دور ہو گئے حرم\nجب ہوا شہید عامل علم\nجس کے دوش پر حق کا تھا نشاں\n---اے حسین جان\n<<DIVIDER>>\nجب سے ہٹ گئے سارے مرسلین\nبڑھ گئے نبی چومنے جبیں\nکہہ کے یاعلی کھینچی جو سناں\n---اے حسین جان\n<<DIVIDER>>\nجس مریض پر تھا ستم تمام\nدشت ظلم سے تا زیارے شام\nوہ اسیر غم میر کارواں\n---اے حسین جان\n<<DIVIDER>>\nمادر حسین دیتی ہے دعا\nگونجتی رہے بس یہی صدا\nفرش خاک سے تابہ آسماں\n---اے حسین جان\n<<DIVIDER>>\nزندگی تمام ذکر کربلا\nنصرت امام گریہ و بکا\nلب پہ صبح و شام ہو یہی فغاں\n---اے حسین جان\n<<DIVIDER>>\nدو صدا فرید ماتم حسین\nکوئی غم نہ ہو جز غم حسین\nحشر تک رہے بس یہی سماں\n---اے حسین جان",
+  "styling": [
+    {
+      "insert": "اے حسین جان اے حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی کے لعل اے شہ زماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فتح کر لئے تو نے دو جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسکرا اٹھا جب کہ بے زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو پناہ دیں تو ہی شاہ دیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وراث نبی کعبہ یقین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نازش حرم حق کے پاسباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا جہاد کربلا قیام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو نے حشر تک دے دیا پیام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روح کربلا راز کن فکاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدے کے سر لیا قلم سے فرات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھ سے رہ گئی انبیا کی لاج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابن فاطمہ فرق مرسلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحر کا تذکرہ ہے ورق ورق"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کے آگیا جو صدائے حق"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبح کربلا معنی اذان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزندگی سے دور ہو گئے حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہوا شہید عامل علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے دوش پر حق کا تھا نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے ہٹ گئے سارے مرسلین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑھ گئے نبی چومنے جبیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ کے یاعلی کھینچی جو سناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس مریض پر تھا ستم تمام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت ظلم سے تا زیارے شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ اسیر غم میر کارواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمادر حسین دیتی ہے دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجتی رہے بس یہی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش خاک سے تابہ آسماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزندگی تمام ذکر کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نصرت امام گریہ و بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لب پہ صبح و شام ہو یہی فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدو صدا فرید ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی غم نہ ہو جز غم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حشر تک رہے بس یہی سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Fareed Baig",
   "anjumans": [],
   "verified": false

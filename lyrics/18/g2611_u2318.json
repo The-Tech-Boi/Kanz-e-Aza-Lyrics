@@ -1,12 +1,269 @@
 {
   "remoteId": "g2611_u2318",
-  "title": "Matami fazaein hai",
+  "title": "ماتمی فضائیں ہیں",
   "body": "ماتمی فضائیں ہیں آنسوؤں کا طوفاں ہے\n<<DIVIDER>>\nدستک اجل سن کر زندگی ہراساں ہے\nہر طرف اداسی ہے ہر نگاہ ویراں ہے\nاور مسجد کوفہ فرط غم سے لرزاں ہے\nماتمی فضائیں ہیں\n<<DIVIDER>>\nآج گر گیا ہو گا پھر غلاف کعبہ سے\nبہہ رہا ہے خون پیہم شاہ کے عمامے سے\nزخم فرق حیدر کا اب خدا نگہباں ہے\nماتمی فضائیں ہیں\n<<DIVIDER>>\nزخم اتنا کاری ہے چل نہ پاؤ گے مولا\nگھر بھی جلد جانا ہے آگئی گلیم آقا\nدر پہ منتظر زینب مضطر و پریشاں ہے\nماتمی فضائیں ہیں\n<<DIVIDER>>\nفکر کربلا میں گم ہے علی سر بستر\nغالباں نگاہوں میں ہے کوئی تہہ خنجر\nدیکھ کر سوئے عباس چشم شاہ گریاں ہے\nماتمی فضائیں ہیں\n<<DIVIDER>>\nاے وفا شکن کوفے بے پدر ہوئی زینب\nآج گھر کے آنگن میں ننگے سر ہوئی زینب\nکل جو ہونے والا ہے آج سے نمایاں ہے\nماتمی فضائیں ہیں\n<<DIVIDER>>\nعترتِ پیمبر پر سازشوں کے گھیرے ہیں\nبجھ گیا چراغ آخر ہر طرف اندھیرے ہیں\nچند گام پر شاہد کربلا کا میداں ہیں\nماتمی فضائیں ہیں",
+  "styling": [
+    {
+      "insert": "ماتمی فضائیں ہیں آنسوؤں کا طوفاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدستک اجل سن کر زندگی ہراساں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف اداسی ہے ہر نگاہ ویراں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور مسجد کوفہ فرط غم سے لرزاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتمی فضائیں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآج گر گیا ہو گا پھر غلاف کعبہ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہہ رہا ہے خون پیہم شاہ کے عمامے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم فرق حیدر کا اب خدا نگہباں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتمی فضائیں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخم اتنا کاری ہے چل نہ پاؤ گے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر بھی جلد جانا ہے آگئی گلیم آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در پہ منتظر زینب مضطر و پریشاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتمی فضائیں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفکر کربلا میں گم ہے علی سر بستر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غالباں نگاہوں میں ہے کوئی تہہ خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر سوئے عباس چشم شاہ گریاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتمی فضائیں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے وفا شکن کوفے بے پدر ہوئی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج گھر کے آنگن میں ننگے سر ہوئی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کل جو ہونے والا ہے آج سے نمایاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتمی فضائیں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعترتِ پیمبر پر سازشوں کے گھیرے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بجھ گیا چراغ آخر ہر طرف اندھیرے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چند گام پر شاہد کربلا کا میداں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتمی فضائیں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Shahid Jafer",
   "anjumans": [],
   "verified": false

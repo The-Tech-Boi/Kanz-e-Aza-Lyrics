@@ -1,12 +1,382 @@
 {
   "remoteId": "g2611_u2331",
-  "title": "Maula se mere",
+  "title": "مولا سے میرے",
   "body": "مولا سے میرے نازوں کا پالا نہ اٹھے گا\nلاشے پہ کھڑے سوچتے تھے سید والا\nاٹھارہ برس ماں نے مرادوں سے تھا پالا\n<<DIVIDER>>\nخیمے کی طرف دیکھا کبھی دل کو سنبھالا\nپھر تھام کے پھل برچھی کا سینے سے نکالا\n<<DIVIDER>>\nمولا سے میرے نازوں کا پالا نہ اٹھے گا\nزخمی ہے بہت گیسوؤں والا نہ اٹھے گا\n<<DIVIDER>>\nاک باپ کو تقدیر نے حالت یہ دکھای\nتھی لاشے جواں سامنے ہونٹوں لے دہائی\nپٹکے سے کمر تھام کے میت جو اٹھای\nسر ننگے پھپھی خیمے سے باہر نکل آی\nمولا سے میرے۔۔۔\nزخمی ہے بہت۔۔۔\n<<DIVIDER>>\nمقتل میں قیامت کی گھٹا چھا گیء اکبر\nنہ جانے تجھے کس کی نظر کھا گیء اکبر\nدن بیاہ کے آے تو اجل آ گیء اکبر\nاٹھ جاؤ میرے لال پھپھی آ گیء اکبر\nمولا سے میرے۔۔۔\nزخمی ہے بہت۔۔۔\n<<DIVIDER>>\nبانو کا یہ ارمان تھا دلہن بیاہ کے لاتی\nاس چاند سے چہرے پہ وہ سہرا بھی سجاتی\nصغرا تیرے ان‌ ہاتھوں میں مہندی بھی رچاتی\nخود کرتی ہر ایک کام نہ بھابھی سے کراتی\nمولا سے میرے۔۔۔\nزخمی ہے بہت۔۔۔\n<<DIVIDER>>\nکیا خون میرے لال یہ شادی ہے رچای\nآی نہ دلہن بیاہ کے میت تیری آی\nرو رو کے یہ زینب نے دی بابا کو دہائی\nشبیر نے خود ان ہاتھوں پہ یہ لاش اٹھای\nمولا سے میرے۔۔۔\nزخمی ہے بہت۔۔۔\n<<DIVIDER>>\nسردار عزادار حسین آے ہیں پرنم\nجب تک بھی دھڑکتے ہوے سینوں میں رہے دم\nبرپا علی اکبر کا کرے گا یونہی ماتم\nاٹھ جاییں گے دنیا سے تو رہ جاے گا یہ غم\nمولا سے میرے۔۔۔\nزخمی ہے بہت۔۔۔",
+  "styling": [
+    {
+      "insert": "مولا سے میرے نازوں کا پالا نہ اٹھے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے پہ کھڑے سوچتے تھے سید والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس ماں نے مرادوں سے تھا پالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے کی طرف دیکھا کبھی دل کو سنبھالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر تھام کے پھل برچھی کا سینے سے نکالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمولا سے میرے نازوں کا پالا نہ اٹھے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہے بہت گیسوؤں والا نہ اٹھے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک باپ کو تقدیر نے حالت یہ دکھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی لاشے جواں سامنے ہونٹوں لے دہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پٹکے سے کمر تھام کے میت جو اٹھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر ننگے پھپھی خیمے سے باہر نکل آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا سے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہے بہت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل میں قیامت کی گھٹا چھا گیء اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے تجھے کس کی نظر کھا گیء اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن بیاہ کے آے تو اجل آ گیء اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھ جاؤ میرے لال پھپھی آ گیء اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا سے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہے بہت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبانو کا یہ ارمان تھا دلہن بیاہ کے لاتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس چاند سے چہرے پہ وہ سہرا بھی سجاتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا تیرے ان‌ ہاتھوں میں مہندی بھی رچاتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود کرتی ہر ایک کام نہ بھابھی سے کراتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا سے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہے بہت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا خون میرے لال یہ شادی ہے رچای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی نہ دلہن بیاہ کے میت تیری آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے یہ زینب نے دی بابا کو دہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر نے خود ان ہاتھوں پہ یہ لاش اٹھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا سے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہے بہت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسردار عزادار حسین آے ہیں پرنم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تک بھی دھڑکتے ہوے سینوں میں رہے دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برپا علی اکبر کا کرے گا یونہی ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھ جاییں گے دنیا سے تو رہ جاے گا یہ غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا سے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہے بہت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Sardar",
   "anjumans": [],
   "verified": false

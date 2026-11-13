@@ -1,12 +1,282 @@
 {
   "remoteId": "g2611_u1517",
-  "title": "Haye ye bachi kaun",
+  "title": "ہائے یہ بچی کون",
   "body": "ہائے یہ بچی کون ہے\nیہ تو سکینہ لگتی ہے\n<<DIVIDER>>\nآتی ہے مقتل کی طرف\nدیکھا ہے کیوں سوئے نجف\nکیا اس کا دادا ہے علی\nیہ تو سکینہ لگتی ہے\nہائے یہ بچی---\n<<DIVIDER>>\nآتی ہے تو روتی ہوئی\nصدموں سے جاں کھوتی ہوئی\nپڑھتی ہوئی ناد علی\nیہ تو سکینہ لگتی ہے\nہائے یہ بچی\n<<DIVIDER>>\nکیوں رو کے جاں دیتی ہے یہ\nکیوں سسکیاں لیتی ہے یہ\nکیا مر گیا اس کا کوئی\nیہ تو سکینہ لگتی ہے\nہائے یہ بچی\n<<DIVIDER>>\nکانوں سے کیوں خوں ہے رواں\nاف یہ طمانچوں کے نشاں\nیہ ظلم اور یہ کمسنی\nیہ تو سکینہ لگتی ہے\nہائے یہ بچی\n<<DIVIDER>>\nکوثر یہ مقتل کی فضا\nتڑپا رہی ہے دل میرا\nطاری ہے غم کی تیرگی\nیہ تو سکینہ لگتی ہے\nہائے یہ بچی",
+  "styling": [
+    {
+      "insert": "ہائے یہ بچی کون ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو سکینہ لگتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآتی ہے مقتل کی طرف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا ہے کیوں سوئے نجف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اس کا دادا ہے علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو سکینہ لگتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے یہ بچی---"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآتی ہے تو روتی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدموں سے جاں کھوتی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پڑھتی ہوئی ناد علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو سکینہ لگتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے یہ بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں رو کے جاں دیتی ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں سسکیاں لیتی ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا مر گیا اس کا کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو سکینہ لگتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے یہ بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکانوں سے کیوں خوں ہے رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اف یہ طمانچوں کے نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ظلم اور یہ کمسنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو سکینہ لگتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے یہ بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوثر یہ مقتل کی فضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپا رہی ہے دل میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طاری ہے غم کی تیرگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو سکینہ لگتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے یہ بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Kausar Naqvi",
   "anjumans": [],
   "verified": false

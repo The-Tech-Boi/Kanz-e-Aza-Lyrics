@@ -1,12 +1,546 @@
 {
   "remoteId": "g2611_u3632",
-  "title": "Zikre hyder",
+  "title": "ذکر حیدر",
   "body": "عجیب ضد ہے کہ ذکر حیدر نہ ہونے دیں گے\n<<DIVIDER>>\nحسد جو ہے حبیب حق کا\nوہ ذکر اطہر نہ ہونے دیں گے\n<<DIVIDER>>\nخدا نے ازم علی کی صورت\nرکھی ہے قرآن کے آیینے میں\nمگر یہ باتی مسافر ہے اس پہ\nکہ حق اجاگر نہ ہونے دیں گے\nعجیب ضد ہے۔۔۔\n<<DIVIDER>>\nخدا کرے ذکر مولا حیدر\nمگر یہ انسان کچھ کہے ہے\nکسی بھی صورت بلند ازم\nامیر تا سر دیں گے\nعجیب ضد ہے۔۔۔\n<<DIVIDER>>\nفلک پہ ذکرِ علی کی بزمِ\nسجاے بیٹھے ہے عرش والے\nزمین والے یہ ضد کےء ہیں\nکہ ہم زمیں پر نہ ہونے دیں گے\nعجیب ضد ہے۔۔۔\n<<DIVIDER>>\nہمارا بھی ایک فیصلہ ہے\nیونہی اٹھاتے رہیں گے پرچم\nسکوں کسی گام اہلِ باطل\nکو ہم میسر نہ ہونے دیں گے\nعجیب ضد ہے۔۔۔\n<<DIVIDER>>\nیہ کہہ کے زہرا نے آنسوؤں کو\nعطا کی رومال میں سکوں نہ\nتمہارے اشکوں کو ہم کبھی بھی\nشرف سے باہر نہ ہونے دیں گے\nعجیب ضد ہے۔۔۔\n<<DIVIDER>>\nعزاے سرور ہے اب بھی باقی\nوہ خود ہی دنیا سے مٹ گےء ہیں\nجو کہہ رہے تھے دہر میں ہم\nعزاے سرور نہ ہونے دیں گے\nعجیب ضد ہے۔۔۔\n<<DIVIDER>>\nیزیدیت دیکھ آجا گھر گھر\nبچھا ہے فرش عزاے سرور\nتمہارا یہ فیصلہ تھا ذکر\nحسین گھر گھر نہ ہونے دیں گے\nعجیب ضد ہے۔۔۔\n<<DIVIDER>>\nیہ شور زنجیر اور خمہ کا\nیہ کہہ رہا ہے زمانہ سن لے\nاثر کسی موسمی ہوا کا\nعزاے سرور پر نہ ہونے دیں گے\nعجیب ضد ہے۔۔۔\n<<DIVIDER>>\nپکاری زینب میرے برادر\nمیں شام و کوفہ کو سر کروں گی\nتمہارے مقصد کو ذہن\nانسانیت سے باہر نہ ہونے دینگے\nعجیب ضد ہے۔۔۔\n<<DIVIDER>>\nلبوں پہ رکھ کر علی کا چرچہ\nیہ کہتے ہیں دایم اور یزداں\nہو کوی مشکل علی کی الفت\nکو دل سے باہر نہ ہونے دینگے\nعجیب ضد ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "عجیب ضد ہے کہ ذکر حیدر نہ ہونے دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسد جو ہے حبیب حق کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ذکر اطہر نہ ہونے دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخدا نے ازم علی کی صورت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھی ہے قرآن کے آیینے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر یہ باتی مسافر ہے اس پہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ حق اجاگر نہ ہونے دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب ضد ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخدا کرے ذکر مولا حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر یہ انسان کچھ کہے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی بھی صورت بلند ازم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امیر تا سر دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب ضد ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفلک پہ ذکرِ علی کی بزمِ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاے بیٹھے ہے عرش والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین والے یہ ضد کےء ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ ہم زمیں پر نہ ہونے دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب ضد ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہمارا بھی ایک فیصلہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یونہی اٹھاتے رہیں گے پرچم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکوں کسی گام اہلِ باطل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کو ہم میسر نہ ہونے دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب ضد ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کہہ کے زہرا نے آنسوؤں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عطا کی رومال میں سکوں نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے اشکوں کو ہم کبھی بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شرف سے باہر نہ ہونے دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب ضد ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعزاے سرور ہے اب بھی باقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ خود ہی دنیا سے مٹ گےء ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو کہہ رہے تھے دہر میں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاے سرور نہ ہونے دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب ضد ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیزیدیت دیکھ آجا گھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچھا ہے فرش عزاے سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارا یہ فیصلہ تھا ذکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین گھر گھر نہ ہونے دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب ضد ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ شور زنجیر اور خمہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہا ہے زمانہ سن لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اثر کسی موسمی ہوا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاے سرور پر نہ ہونے دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب ضد ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپکاری زینب میرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں شام و کوفہ کو سر کروں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے مقصد کو ذہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انسانیت سے باہر نہ ہونے دینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب ضد ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلبوں پہ رکھ کر علی کا چرچہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہتے ہیں دایم اور یزداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو کوی مشکل علی کی الفت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کو دل سے باہر نہ ہونے دینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب ضد ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Dayam Najafi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u1200",
-  "title": "Dukhte hai mere kaan",
+  "title": "دُکھتے ہیں میرے کان",
   "body": "بھیا سجاد\nزنداں کے اندھیروں سے مجھ کو تو بچا لے\nبھائ مجھے آغوشِ امامت میں چھُپا لے\n<<DIVIDER>>\nدُکھتے ہیں میرے کان سُلا دو مجھے بھیا\nتُم ماں کی طرح لوری سُنا دو مجھے بھیا\n<<DIVIDER>>\nلگتا ہے اندھیرے سے ڈر تیری سکینہ کو\nتم سر میرے بابا کا دِلا دو مجھے بھیا\nدُکھتے ہیں میرے کان۔۔۔\n<<DIVIDER>>\nدیکھا ہے اِن آنکھوں نے بابا کا گلا کٹتے\nبھولوں گی بھلا کیسے بتا دو مجھے بھیا\nدُکھتے ہیں میرے کان۔۔۔\n<<DIVIDER>>\nمیں سات محرم سے پیاسی ہوں میرے بھیا\nدو بوند ہو گر پانی پلا دو مجھے بھیا\nدُکھتے ہیں میرے کان۔۔۔\n<<DIVIDER>>\nبھیا میرے کانوں سے اب تک ہے لہو جاری\nتُم آکے ذرا مر ہم لگا دو مجھے بھیا\nدُکھتے ہیں میرے کان۔۔۔\n<<DIVIDER>>\nکرتا ہے ستم ظالم سونے بھی نہیں دیتا\nآغوشِ امامت میں چُھپا دو مجھے بھیا\nدُکھتے ہیں میرے کان۔۔۔\n<<DIVIDER>>\nسجاد سے سکینہ روکے یہ فضل بولی\nچہرہ میرے اَصغر کا دِکھا دو مجھے بھیا\nدُکھتے ہیں میرے کان۔۔۔",
+  "styling": [
+    {
+      "insert": "بھیا سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کے اندھیروں سے مجھ کو تو بچا لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائ مجھے آغوشِ امامت میں چھُپا لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدُکھتے ہیں میرے کان سُلا دو مجھے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تُم ماں کی طرح لوری سُنا دو مجھے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلگتا ہے اندھیرے سے ڈر تیری سکینہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم سر میرے بابا کا دِلا دو مجھے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُکھتے ہیں میرے کان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھا ہے اِن آنکھوں نے بابا کا گلا کٹتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھولوں گی بھلا کیسے بتا دو مجھے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُکھتے ہیں میرے کان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں سات محرم سے پیاسی ہوں میرے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بوند ہو گر پانی پلا دو مجھے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُکھتے ہیں میرے کان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھیا میرے کانوں سے اب تک ہے لہو جاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تُم آکے ذرا مر ہم لگا دو مجھے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُکھتے ہیں میرے کان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرتا ہے ستم ظالم سونے بھی نہیں دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آغوشِ امامت میں چُھپا دو مجھے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُکھتے ہیں میرے کان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد سے سکینہ روکے یہ فضل بولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرہ میرے اَصغر کا دِکھا دو مجھے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُکھتے ہیں میرے کان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Fazal Abbas",
   "anjumans": [],
   "verified": false

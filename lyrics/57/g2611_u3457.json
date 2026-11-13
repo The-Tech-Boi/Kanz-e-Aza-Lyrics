@@ -1,12 +1,450 @@
 {
   "remoteId": "g2611_u3457",
-  "title": "Ye gham ki hai",
+  "title": "یہ غم کی ہے",
   "body": "یہ غم کی ہے داستاں ایسی\nکہ جس میں ہے دل فگار زہرا\nکوی بھی سنتے ہی رو کے کہتا\nملا تجھے کب قرار زہرا\n<<DIVIDER>>\nپدر کے غم میں دیا نہ رونے\nکبھی بھی امت نے ہاے تجھکو\nوہ کہہ رہے تھے کہ ہے پریشاں\nنہ رو تم بار بار زہرا\nیہ غم کی ہے۔۔۔\n<<DIVIDER>>\nگلے میں رسی علی کے باندھی\nستمگروں پھر اسکو کھینچا\nوہ شاہ خیبر ہے صبر اس کا\nاسی پہ ہے جانثار زہرا\nیہ غم کی ہے۔۔۔\n<<DIVIDER>>\nجلا کے گھر کو ستایا بے حد\nگرایا دروازہ جلتا تجھ پر\nشکم میں محسن کو بھی ہے کھویا\nہے ظلم تجھ پر ہزار زہرا\nیہ غم کی ہے۔۔۔\n<<DIVIDER>>\nستم جو گزرے ہیں ظالموں کے\nسنا کے احوال سارا اپنا\nنبی کے روضے میں رو رہی ہے\nتڑپ کے لہلو نہار زہرا\nیہ غم کی ہے۔۔۔\n<<DIVIDER>>\nچھپا کے ہر غم کو دل ہی دل میں\nوہ چل بسی اس جہاں سے گھٹ کر\nہے مضطرب دونوں بیٹیاں بھی\nعلی بھی ہے غم گسار زہرا\nیہ غم کی ہے۔۔۔\n<<DIVIDER>>\nلپٹ کے حسنین رو رہے ہیں\nاب اٹھکے اماں جواب دے دو\nتمہارے بن ہم جیےءنگے کیسے\nنہ دل کو ہے اب قرار زہرا\nیہ غم کی ہے۔۔۔\n<<DIVIDER>>\nوہ کیسی خوشیاں کا تھا زمانہ\nنبی کا گلشن بھرا ہوا تھا\nخزاں جونہی گھر میں تیرے آی\nچلی گیء سب بہار زہرا\nیہ غم کی ہے۔۔۔\n<<DIVIDER>>\nعلی کا وارث ابھی ہے زندہ\nبوبر ظہور اسکا ہوگا اک دن\nباقی میں ہوگی عزاے سرور\nبنے گا تیرا مزار زہرا\nیہ غم کی ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ غم کی ہے داستاں ایسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ جس میں ہے دل فگار زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی بھی سنتے ہی رو کے کہتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملا تجھے کب قرار زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپدر کے غم میں دیا نہ رونے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی بھی امت نے ہاے تجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ کہہ رہے تھے کہ ہے پریشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ رو تم بار بار زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم کی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگلے میں رسی علی کے باندھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستمگروں پھر اسکو کھینچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شاہ خیبر ہے صبر اس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی پہ ہے جانثار زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم کی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلا کے گھر کو ستایا بے حد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرایا دروازہ جلتا تجھ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکم میں محسن کو بھی ہے کھویا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے ظلم تجھ پر ہزار زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم کی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nستم جو گزرے ہیں ظالموں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنا کے احوال سارا اپنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی کے روضے میں رو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپ کے لہلو نہار زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم کی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھپا کے ہر غم کو دل ہی دل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ چل بسی اس جہاں سے گھٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مضطرب دونوں بیٹیاں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی بھی ہے غم گسار زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم کی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلپٹ کے حسنین رو رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب اٹھکے اماں جواب دے دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے بن ہم جیےءنگے کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ دل کو ہے اب قرار زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم کی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ کیسی خوشیاں کا تھا زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی کا گلشن بھرا ہوا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خزاں جونہی گھر میں تیرے آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلی گیء سب بہار زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم کی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی کا وارث ابھی ہے زندہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بوبر ظہور اسکا ہوگا اک دن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باقی میں ہوگی عزاے سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنے گا تیرا مزار زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم کی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Mir Bober Ali",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,491 @@
 {
   "remoteId": "g2611_u3333",
-  "title": "Wo mera akbar jo",
+  "title": "وہ میرا اکبر جو",
   "body": "سوگےء سینے پہ برچی کھاکے اب کڑیل جواں\nام لیلیٰ اب علی اکبر کو پاے گی کہاں\nدیکھتی ہے جب جوانوں کو گلے ملتے ہوئے\nروکے کہتی ہے عجب ہم کربلا میں لٹ گےء\nمیں کیسے دولہا بناؤں خاک میں سہرا لیےء\nجی نہ پاؤں گی میں نوجواں کو بھول کے\n<<DIVIDER>>\nوہ میرا اکبر جو تھا شادی سے پہلے مر گیا\nام لیلیٰ عمر بھر پڑھتی رہی یہ مرثیہ\n<<DIVIDER>>\nکس طرح دیکھوں جوانوں کو گلے ملتے ہوئے\nجی نہ پاؤں گی میں اپنے جواں کو بھول کے\nدیکھ کر سایہ بھی لگتا ہے کہ اکبر ہے میرا\nوہ میرا اکبر جو تھا۔۔۔\nام لیلیٰ عمر بھر۔۔۔\n<<DIVIDER>>\nمیں نے اٹھارہ برس پالا تھا میرے لال کو\nدل میں حسرت تھی کہ اکبر سر پہ سہرا باندھ لو\nاک گھڑی آی کہ اک نیزہ جگر میں لگ گیا\nوہ میرا اکبر جو تھا۔۔۔\nام لیلیٰ عمر بھر۔۔۔\n<<DIVIDER>>\nہاے نیزے کی انی پہنچی کلیجے میں جونہی\nموت کی ہچکی میرے فرزند کو آنے لگی\nباپ نے نیزہ جو کھینچا دم پسر کا اٹھ گیا\nوہ میرا اکبر جو تھا۔۔۔\nام لیلیٰ عمر بھر۔۔۔\n<<DIVIDER>>\nتھی کبھی زینب سے کہتی اور کبھی کلثوم سے\nایسے ماں آخر بتا کس طرح زندہ رہے\nجس کا اٹھارہ برس کا لاڈلا اب نہ رہا\nوہ میرا اکبر جو تھا۔۔۔\nام لیلیٰ عمر بھر۔۔۔\n<<DIVIDER>>\nمیں نے سونچا تھا کہ شادی ہوگی میرے لال کی\nفاطمہ صغریٰ رہے گی اور سکینہ بھی میری\nہاے اسکا جسم پامال سمے اسپا ہوا\nوہ میرا اکبر جو تھا۔۔۔\nام لیلیٰ عمر بھر۔۔۔\n<<DIVIDER>>\nدشت میں فرزند کی بارات تھی ایسے سجی\nہاے اک نازک کلیجہ اور نیزے کی انی\nاسکا لاشہ میں نے دیکھا خون میں ڈوبا ہوا\nوہ میرا اکبر جو تھا۔۔۔\nام لیلیٰ عمر بھر۔۔۔\n<<DIVIDER>>\nخون نے ہاتھوں پہ مہندی کی جگہ چھوڑی نہیں\nمیرے اکبر کے لہو سے سرخ ہے ساری زمیں\nہاے اسکو موت نے دولہا نہیں بننے دیا\nوہ میرا اکبر جو تھا۔۔۔\nام لیلیٰ عمر بھر۔۔۔\n<<DIVIDER>>\nہو بیاں کیسے مبارک ام لیلیٰ کا بیاں\nکربلا میں شام و کوفہ میں مدینے میں فغاں\nپوچھا جب ریحاں کسی نے روکے مادر نے کہا\nوہ میرا اکبر جو تھا۔۔۔\nام لیلیٰ عمر بھر۔۔۔",
+  "styling": [
+    {
+      "insert": "سوگےء سینے پہ برچی کھاکے اب کڑیل جواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ اب علی اکبر کو پاے گی کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھتی ہے جب جوانوں کو گلے ملتے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے کہتی ہے عجب ہم کربلا میں لٹ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے دولہا بناؤں خاک میں سہرا لیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جی نہ پاؤں گی میں نوجواں کو بھول کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ میرا اکبر جو تھا شادی سے پہلے مر گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ عمر بھر پڑھتی رہی یہ مرثیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح دیکھوں جوانوں کو گلے ملتے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جی نہ پاؤں گی میں اپنے جواں کو بھول کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر سایہ بھی لگتا ہے کہ اکبر ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ میرا اکبر جو تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ عمر بھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں نے اٹھارہ برس پالا تھا میرے لال کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں حسرت تھی کہ اکبر سر پہ سہرا باندھ لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک گھڑی آی کہ اک نیزہ جگر میں لگ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ میرا اکبر جو تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ عمر بھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے نیزے کی انی پہنچی کلیجے میں جونہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کی ہچکی میرے فرزند کو آنے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ نے نیزہ جو کھینچا دم پسر کا اٹھ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ میرا اکبر جو تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ عمر بھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھی کبھی زینب سے کہتی اور کبھی کلثوم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے ماں آخر بتا کس طرح زندہ رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کا اٹھارہ برس کا لاڈلا اب نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ میرا اکبر جو تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ عمر بھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں نے سونچا تھا کہ شادی ہوگی میرے لال کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ صغریٰ رہے گی اور سکینہ بھی میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اسکا جسم پامال سمے اسپا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ میرا اکبر جو تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ عمر بھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدشت میں فرزند کی بارات تھی ایسے سجی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اک نازک کلیجہ اور نیزے کی انی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسکا لاشہ میں نے دیکھا خون میں ڈوبا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ میرا اکبر جو تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ عمر بھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون نے ہاتھوں پہ مہندی کی جگہ چھوڑی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اکبر کے لہو سے سرخ ہے ساری زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اسکو موت نے دولہا نہیں بننے دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ میرا اکبر جو تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ عمر بھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہو بیاں کیسے مبارک ام لیلیٰ کا بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا میں شام و کوفہ میں مدینے میں فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوچھا جب ریحاں کسی نے روکے مادر نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ میرا اکبر جو تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ عمر بھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Mubarak Jalalpuri",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,516 @@
 {
   "remoteId": "g2611_u1372",
-  "title": "Haan tha mera baba",
+  "title": "ہاں تھا میرا بابا",
   "body": "رسن میں گلے بارہ اور برہنہ سر\nجب آے‌ شام کے دربار میں دریدہ جگر\nپڑی سکینہ پہ نگاہ اس شقی کی نظر\nیزید نام تھا جس کا سجاے تھا دربار\n<<DIVIDER>>\nلیےء تھا گود میں دختر کو اپنی وہ مکار\nوہ اپنی بچی کے بالوں میں ہاتھ پھیرتا تھا\nلگا کے سینے سے بچی کو پیار سے دیکھا\nلہک کے بالی سکینہ سے وہ شقی بولا\nتجھے بھی بابا تیرا ایسے ہی پیار کرتا تھا\n<<DIVIDER>>\nکہا سکینہ نے میں شاہ دیں کی پیاری ہوں\nتباہ حال ہوں اس دم دکھوں کی ماری ہوں\nتم‌ میرے بابا کا گندی زبان سے نام نہ لے\nغرور اتنا نہ کر باندھ کے رسن میں ہمیں\n<<DIVIDER>>\nمیں کتنی پیاری تھی بابا کی کیا بتاؤں تجھے\nمیں بھول سکتی نہیں اپنے بابا کو مر کے\nمیں جب بھی روتی تھی بابا مجھے مناتا تھا\nبنا کے ہاتھوں کو جھولا مجھے جھلاتا تھا\n<<DIVIDER>>\nہاں تھا میرا بابا میرے لئے زندہ\n<<DIVIDER>>\nمیں سینے پہ سوتی تھی تسکین سی ہوتی تھی\nماں بن کے مجھے جس نے آغوش میں پالا تھا\nہاں تھا میرا بابا۔۔۔\n<<DIVIDER>>\nکیا پوچھتا ہے مجھے خود پوچھ لے بابا سے\nسر طشت میں رکھا ہے وہ خود ہی بتا دے گا\nہاں تھا میرا بابا۔۔۔\n<<DIVIDER>>\nمیں کتنی دلاری ہوں وہ درد کی ماری ہوں\nگر ان کو بلاؤں میں سر گود میں آے گا\nہاں تھا میرا بابا۔۔۔\n<<DIVIDER>>\nکیوں مجھکو رلاتا ہے ایسا کہیں ہوتا ہے\nبن‌ باپ کی بچی کو دیتے ہیں دلاسہ\nہاں تھا میرا بابا۔۔۔\n<<DIVIDER>>\nتیری بھی تو بیٹی ہے گودی میں جو بیٹھی ہے\nتو دیکھ اسے ظالم پھر دیکھ میرا چہرہ\nہاں تھا میرا بابا۔۔۔\n<<DIVIDER>>\nعباس اگر ہوتے کنبے کو میرے کیسے\nتو باندھ کے رسی میں دربار میں لاتا\nہاں تھا میرا بابا۔۔۔\n<<DIVIDER>>\nیہ کرتہ پھٹا میرا جو خون میں ڈوبا ہے\nعباس جو دیکھیں گے ایک حشر اٹھے گا\nہاں تھا میرا بابا۔۔۔\n<<DIVIDER>>\nچلتا نہ اگر خنجر شبیر کی گردن پر\nہم قید نہیں ہوتے اکبر نہ سناں کھاتا\nہاں تھا میرا بابا۔۔۔\n<<DIVIDER>>\nیہ خاک اسیری کی چہروں پہ نہیں ہوتی\nبابا میرے سجدے میں گر سر نہ کٹاتا\nہاں تھا میرا بابا۔۔۔\n<<DIVIDER>>\nریحان قلم میرا لکھ کر یہ بیاں رویا\nکاغذ پہ گرے آنسوں دل درد سے تڑپا\nہاں تھا میرا بابا۔۔۔",
+  "styling": [
+    {
+      "insert": "رسن میں گلے بارہ اور برہنہ سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب آے‌ شام کے دربار میں دریدہ جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پڑی سکینہ پہ نگاہ اس شقی کی نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یزید نام تھا جس کا سجاے تھا دربار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلیےء تھا گود میں دختر کو اپنی وہ مکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ اپنی بچی کے بالوں میں ہاتھ پھیرتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگا کے سینے سے بچی کو پیار سے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہک کے بالی سکینہ سے وہ شقی بولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھے بھی بابا تیرا ایسے ہی پیار کرتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا سکینہ نے میں شاہ دیں کی پیاری ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تباہ حال ہوں اس دم دکھوں کی ماری ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم‌ میرے بابا کا گندی زبان سے نام نہ لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غرور اتنا نہ کر باندھ کے رسن میں ہمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کتنی پیاری تھی بابا کی کیا بتاؤں تجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بھول سکتی نہیں اپنے بابا کو مر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جب بھی روتی تھی بابا مجھے مناتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنا کے ہاتھوں کو جھولا مجھے جھلاتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاں تھا میرا بابا میرے لئے زندہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں سینے پہ سوتی تھی تسکین سی ہوتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں بن کے مجھے جس نے آغوش میں پالا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں تھا میرا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا پوچھتا ہے مجھے خود پوچھ لے بابا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر طشت میں رکھا ہے وہ خود ہی بتا دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں تھا میرا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کتنی دلاری ہوں وہ درد کی ماری ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر ان کو بلاؤں میں سر گود میں آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں تھا میرا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں مجھکو رلاتا ہے ایسا کہیں ہوتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن‌ باپ کی بچی کو دیتے ہیں دلاسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں تھا میرا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیری بھی تو بیٹی ہے گودی میں جو بیٹھی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو دیکھ اسے ظالم پھر دیکھ میرا چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں تھا میرا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس اگر ہوتے کنبے کو میرے کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو باندھ کے رسی میں دربار میں لاتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں تھا میرا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کرتہ پھٹا میرا جو خون میں ڈوبا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس جو دیکھیں گے ایک حشر اٹھے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں تھا میرا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلتا نہ اگر خنجر شبیر کی گردن پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم قید نہیں ہوتے اکبر نہ سناں کھاتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں تھا میرا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ خاک اسیری کی چہروں پہ نہیں ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا میرے سجدے میں گر سر نہ کٹاتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں تھا میرا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان قلم میرا لکھ کر یہ بیاں رویا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاغذ پہ گرے آنسوں دل درد سے تڑپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں تھا میرا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

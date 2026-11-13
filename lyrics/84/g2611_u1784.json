@@ -1,12 +1,491 @@
 {
   "remoteId": "g2611_u1784",
-  "title": "Jhoola hai jala",
+  "title": "جھولا ہے جلا",
   "body": "ہاتھوں میں لیے ننھے سے جھولے کو یہ مادر\nبکھرائے اپنے بالوں کو کہتی رہی اصغر\nتُو کیا گیا کے چھایا ہے آ نکھوں میں اندھیرا\nکر ب و بلا میں ہو گیا برباد میرا گھر\n<<DIVIDER>>\nجھولا ہے جلا اے لال تیرا\nہے خاک بسر رن میں بانو\nرونے بھی نہیں دیتے اعدا\nہے خاک بسر رن میں بانو\n<<DIVIDER>>\nاسباب لُٹا خیمے بھی جلے\nچادر بھی چھِنی دُرّے بھی لگے\nڈوبا ہوا رن میں ہے کنبہ\nہے خاک بسر ۔۔۔\nجھولا ہے جلا ۔۔۔\n<<DIVIDER>>\nاک ہوک سی دل میں اُٹھتی ہے\nاور درد جگر میں ہوتا ہے\nہنستا ہوا گلشن لُوٹا ہے\nہے خاک بسر ۔۔۔\nجھولا ہے جلا ۔۔۔\n<<DIVIDER>>\nکانوں سے لہو جو بہتا ہے\nشکوہ بھی کرے تو کس سے کرے\nبابا ہے اور نہ اُس کا چچا\nہے خاک بسر ۔۔۔\nجھولا ہے جلا ۔۔۔\n<<DIVIDER>>\nوہ سوکھی لبوں کی یادیں بھی\nیاد آتی ہے اُس کی پیاری ہنسی\nیاد آتی ہے اُس کی ہر اک ادا\nہے خاک بسر ۔۔۔\nجھولا ہے جلا ۔۔۔\n<<DIVIDER>>\nیہ کیسی قیامت آئی ہے\nمرجھائی گئی ننھی سی کلی\nدھڑکن میں ہے ماتم کی صدا\nہے خاک بسر ۔۔۔\nجھولا ہے جلا ۔۔۔\n<<DIVIDER>>\nوہاں غش میں پڑے ہیں زین العبا\nیاں زینبِ کبریٰ کی ہے فغاں\nکیا ماجرا ہے یا رب تُو بتا\nہے خاک بسر ۔۔۔\nجھولا ہے جلا ۔۔۔\n<<DIVIDER>>\nاب کون سہارا دے اُس کو\nاب کون دلاسا دے اُس کو\nبرباد ہوئی اُس کی دنیا\nہے خاک بسر ۔۔۔\nجھولا ہے جلا ۔۔۔\n<<DIVIDER>>\nاُس دن سے لے کر موت تلک\nسائے میں نہ بیٹھی احمد وہ\nدل کے ہیں حسن کے غم یہ بڑا\nہے خاک بسر ۔۔۔\nجھولا ہے جلا ۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاتھوں میں لیے ننھے سے جھولے کو یہ مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بکھرائے اپنے بالوں کو کہتی رہی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تُو کیا گیا کے چھایا ہے آ نکھوں میں اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر ب و بلا میں ہو گیا برباد میرا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجھولا ہے جلا اے لال تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خاک بسر رن میں بانو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے بھی نہیں دیتے اعدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خاک بسر رن میں بانو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسباب لُٹا خیمے بھی جلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر بھی چھِنی دُرّے بھی لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈوبا ہوا رن میں ہے کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خاک بسر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ہے جلا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک ہوک سی دل میں اُٹھتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور درد جگر میں ہوتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہنستا ہوا گلشن لُوٹا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خاک بسر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ہے جلا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکانوں سے لہو جو بہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکوہ بھی کرے تو کس سے کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا ہے اور نہ اُس کا چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خاک بسر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ہے جلا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ سوکھی لبوں کی یادیں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آتی ہے اُس کی پیاری ہنسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آتی ہے اُس کی ہر اک ادا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خاک بسر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ہے جلا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کیسی قیامت آئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرجھائی گئی ننھی سی کلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دھڑکن میں ہے ماتم کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خاک بسر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ہے جلا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہاں غش میں پڑے ہیں زین العبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاں زینبِ کبریٰ کی ہے فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ماجرا ہے یا رب تُو بتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خاک بسر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ہے جلا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب کون سہارا دے اُس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کون دلاسا دے اُس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برباد ہوئی اُس کی دنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خاک بسر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ہے جلا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاُس دن سے لے کر موت تلک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سائے میں نہ بیٹھی احمد وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کے ہیں حسن کے غم یہ بڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خاک بسر ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ہے جلا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Zulfiqar Ahmed",
   "anjumans": [],
   "verified": false

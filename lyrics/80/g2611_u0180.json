@@ -1,12 +1,352 @@
 {
   "remoteId": "g2611_u0180",
-  "title": "Abbas ammujanam",
+  "title": "عباس عموں جانم",
   "body": "جب آگئی شامِ غریباں ، بپا ہوا ماتم\nخیامِ شاہ سے آتی تھی اک صدا پیہم\nمیں تم سے کرتی ہوں وعدہ اے میرے پیارے چچا\nمیں تم سے پانی نہ مانگوں گی اب خدا کی قسم\n<<DIVIDER>>\nعباس عباس عموں جانم میں اب نامقاہم\n<<DIVIDER>>\nپھٹتا ہے غم سے سینا مشکل ہوا ہے جینا\nاہلِ حرم کا آیا حرطاس میں سفینہ\nبے آسرا ہوئے ہم، عباس عباس ۔۔۔\n<<DIVIDER>>\nدریا سے جلد آئو غم سے مجھے بچائو\nکب تک تماچے کھائے یہ غم زدہ بتائو\nکوئی نہیں ہے ہمدم، عباس عباس ۔۔۔\n<<DIVIDER>>\nکانوں سے خوں رواں ہے لب پر میرے فغاں ہے\nدامن سُلگ رہا ہے صحرا دھواں دھواں ہے\nساری فضا ہے برہم، عباس عباس۔۔۔\n<<DIVIDER>>\nسر پر نہیں ہے چادر میداں میں جا کے سرور\nکیوں لوٹ کے نہ آئے کچھ تو بتائو آ کر\nہے بے کس کا علم، عباس عباس۔۔۔\n<<DIVIDER>>\nاصغر نے تیر کھایا ویراں کیا ہے جھولا\nبانو کے دل پہ عموں یہ زخم ہے کچھ ایسا\nجسکا نہیں ہے مرہم، عباس عباس۔۔۔\n<<DIVIDER>>\nرسی گلے میں بندھی اعدا نے کس کے ایسی\nتم کو بتائوں کیسے رُکتی ہے سانس میری\nہونٹوں پہ آگیا دم، عباس عباس ۔۔۔\n<<DIVIDER>>\nدُر چھِن گئے ہمارے گردش میں ہیں ستارے\nروداد کیا بیاں ہو دل کس کو اب پُکارے\nہے بے کسی کا موسم، عباس عباس ۔۔۔\n<<DIVIDER>>\nجاتی ہوں سُوئے زنداں سر ہے پھُوپھی کا عُریاں\nبے وارثوں پہ اپنے کنبہ ہے سارا گِریہ\nآنکھیں ہیں سب ہی پُر نم ، عباس عباس ۔۔۔\n<<DIVIDER>>\nریحان اعظمی کا لکھا ہوا یہ نوحہ\nناصر پڑھا جو میں نے دل خود بخود پُکارا\nلازم ہے اب تو ماتم، عباس عباس ۔۔۔",
+  "styling": [
+    {
+      "insert": "جب آگئی شامِ غریباں ، بپا ہوا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیامِ شاہ سے آتی تھی اک صدا پیہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تم سے کرتی ہوں وعدہ اے میرے پیارے چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تم سے پانی نہ مانگوں گی اب خدا کی قسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس عباس عموں جانم میں اب نامقاہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھٹتا ہے غم سے سینا مشکل ہوا ہے جینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ حرم کا آیا حرطاس میں سفینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے آسرا ہوئے ہم، عباس عباس ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدریا سے جلد آئو غم سے مجھے بچائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب تک تماچے کھائے یہ غم زدہ بتائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہیں ہے ہمدم، عباس عباس ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکانوں سے خوں رواں ہے لب پر میرے فغاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دامن سُلگ رہا ہے صحرا دھواں دھواں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساری فضا ہے برہم، عباس عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر پر نہیں ہے چادر میداں میں جا کے سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں لوٹ کے نہ آئے کچھ تو بتائو آ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بے کس کا علم، عباس عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر نے تیر کھایا ویراں کیا ہے جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بانو کے دل پہ عموں یہ زخم ہے کچھ ایسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسکا نہیں ہے مرہم، عباس عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرسی گلے میں بندھی اعدا نے کس کے ایسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو بتائوں کیسے رُکتی ہے سانس میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونٹوں پہ آگیا دم، عباس عباس ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدُر چھِن گئے ہمارے گردش میں ہیں ستارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روداد کیا بیاں ہو دل کس کو اب پُکارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بے کسی کا موسم، عباس عباس ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاتی ہوں سُوئے زنداں سر ہے پھُوپھی کا عُریاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے وارثوں پہ اپنے کنبہ ہے سارا گِریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھیں ہیں سب ہی پُر نم ، عباس عباس ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان اعظمی کا لکھا ہوا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناصر پڑھا جو میں نے دل خود بخود پُکارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لازم ہے اب تو ماتم، عباس عباس ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

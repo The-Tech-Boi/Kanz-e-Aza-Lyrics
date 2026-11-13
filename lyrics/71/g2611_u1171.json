@@ -1,7 +1,581 @@
 {
   "remoteId": "g2611_u1171",
-  "title": "Dil ka kaaba",
+  "title": "دل کا کعبہ",
   "body": "مکے میں کعبہ میری جبیںن کا\nہے دل کا کعبہ کربلا میں\n<<DIVIDER>>\nاے آب زم زم کے پینے والوں\nکوئی ہے پیاسہ کربلا میں\n<<DIVIDER>>\nکیوں ہے بقیہ میں یہ اداسی\nروضہ محمد کا کیوں ہے خالی\nبیٹے کو رونے بابا کو لیکر\nآی ہے زہرا کربلا میں\n---مکے میں کعبہ\n---ہے دل کا کعبہ\n<<DIVIDER>>\nبچوں کو مایں جھولا جھلا کر\nبتلا رہی ہیں لوری سناکر\nدسویں محرم کو جل گیا تھا\nننھا سا جھولا کربلا میں\n---مکے میں کعبہ\n---ہے دل کا کعبہ\n<<DIVIDER>>\nجب میں مدینے سے کربلا کی\nجانب چلا تو آواز آئی\nپانی پلانا کیوں کہ ہے پیاسہ\nمیرا نواسہ کربلا میں\n---مکے میں کعبہ\n---ہے دل کا کعبہ\n<<DIVIDER>>\nشاید یہاں ہو شاید وہاں ہو\nآؤں کدھر میں بابا کہاں ہو\nپوچھو خدا سے کتنا چلی ہے\nبالی سکینہ کربلا میں\n---مکے میں کعبہ\n---ہے دل کا کعبہ\n<<DIVIDER>>\nیاد آرہی ہے وہ دوستی بھی\nبچپن میں جس نے ہمکو ملایا\nابنِ مظاہر کو شہ نے لکھا\nمیں ہوں اکیلا کربلا میں\n---مکے میں کعبہ\n---ہے دل کا کعبہ\n<<DIVIDER>>\nاک ایک آیت نے سسکیاں لی\nاک ایک صورت بھرتی تھی آہیں\nجب برچیوں پر کچھ حافظوں نے\nقرآں اٹھایا کربلا میں\n---مکے میں کعبہ\n---ہے دل کا کعبہ\n<<DIVIDER>>\nمارا گیا یہ کس کا محمد\nاسکا کلیجہ چھیدا گیا کیوں\nبولے مسلماں اپنے نبی کو\nہم ہی نے مارا کربلا میں\n---مکے میں کعبہ\n---ہے دل کا کعبہ\n<<DIVIDER>>\nبے حرمتی کیوں کرتے ہو میری\nآیت تو پڑھتے تطہیر کی تم\nرویا مسلماں کی غیرتوں پر\nزینب کا پردہ کربلا میں\n---مکے میں کعبہ\n---ہے دل کا کعبہ\n<<DIVIDER>>\nعمار اس غم نے خوں رلایا\nجو مصطفیٰ کے کاندھوں پہ بیٹھا\nامت نے اسکے لاشے کو ہاے\nگھوڑوں سے روندھا ہے کربلا میں\n---مکے میں کعبہ\n---ہے دل کا کعبہ",
+  "styling": [
+    {
+      "insert": "مکے میں کعبہ میری جبیںن کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے دل کا کعبہ کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے آب زم زم کے پینے والوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی ہے پیاسہ کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں ہے بقیہ میں یہ اداسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روضہ محمد کا کیوں ہے خالی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹے کو رونے بابا کو لیکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی ہے زہرا کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مکے میں کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے دل کا کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچوں کو مایں جھولا جھلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتلا رہی ہیں لوری سناکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دسویں محرم کو جل گیا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھا سا جھولا کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مکے میں کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے دل کا کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب میں مدینے سے کربلا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانب چلا تو آواز آئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پلانا کیوں کہ ہے پیاسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا نواسہ کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مکے میں کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے دل کا کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاید یہاں ہو شاید وہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤں کدھر میں بابا کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوچھو خدا سے کتنا چلی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالی سکینہ کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مکے میں کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے دل کا کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد آرہی ہے وہ دوستی بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچپن میں جس نے ہمکو ملایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابنِ مظاہر کو شہ نے لکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ہوں اکیلا کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مکے میں کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے دل کا کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک ایک آیت نے سسکیاں لی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ایک صورت بھرتی تھی آہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب برچیوں پر کچھ حافظوں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآں اٹھایا کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مکے میں کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے دل کا کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمارا گیا یہ کس کا محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسکا کلیجہ چھیدا گیا کیوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے مسلماں اپنے نبی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم ہی نے مارا کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مکے میں کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے دل کا کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے حرمتی کیوں کرتے ہو میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آیت تو پڑھتے تطہیر کی تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رویا مسلماں کی غیرتوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کا پردہ کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مکے میں کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے دل کا کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعمار اس غم نے خوں رلایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مصطفیٰ کے کاندھوں پہ بیٹھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت نے اسکے لاشے کو ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھوڑوں سے روندھا ہے کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مکے میں کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے دل کا کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

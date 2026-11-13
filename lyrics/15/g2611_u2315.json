@@ -1,12 +1,507 @@
 {
   "remoteId": "g2611_u2315",
-  "title": "Matame hussain",
+  "title": "ماتم حسین",
   "body": "بہ یاد سبط نبی جو بہاے جاتے ہیں\nان آنسوؤں سے مقدر بناے جاتے ہیں\nیقیں نہ ہو تو وہی کربل میں چل کر دیکھ\nکیسے تمام سے جنگل بساے جاتے ہیں\nعدوے آل کو ضد ہے کہ ذکرِ آل نہ ہو\nکہیں یہ نام بھی دل سے بھلاے جاتے ہیں\n<<DIVIDER>>\nرک نہ پایا کبھی رک نہ پائے گا یہ غم تیرا\nعرش سے فرش تک فرش سے عرش تک ہے صدا\nماتم تیرا ہے معجزہ ماتم تیرا\n<<DIVIDER>>\nہے مرض لا دوا کی دوا ماتم حسین\nمشکل میں بہترین دعا ماتم حسین\n<<DIVIDER>>\nمرتا ہے جسم روح میں ہوتی ہے زندگی\nروح کی ہے بہترین غذا ماتم حسین\nہے مرض لا دوا کی۔۔۔\n<<DIVIDER>>\nتاریخ دیکھ عصر شہیداں سے آج تک\nکرتے رہے ہیں ارض و سماں ماتم حسین\nہے مرض لا دوا کی۔۔۔\n<<DIVIDER>>\nیہ عہد ہے وفا ہے تعلق ہے بخت ہے\nمیثاق سے ہی ہم نے چنا ماتمِ حسین\nہے مرض لا دوا کی۔۔۔\n<<DIVIDER>>\nاس ماتم حسین کی وارث بتول ہے\nورثہ میں جس نے ہم کو دیا ماتم حسین\nہے مرض لا دوا کی۔۔۔\n<<DIVIDER>>\nماں لوریوں میں نوحے سناتی رہی ہمیں\nہم نے تو اپنی ماں سے لیا ماتم حسین\nہے مرض لا دوا کی۔۔۔\n<<DIVIDER>>\nپوچھا خدا نے لاے ہو زاد نجات کیا\nمیں نے بصد یقیں کہا ماتم حسین\nہے مرض لا دوا کی۔۔۔\n<<DIVIDER>>\nاے عاشقانِ آل محمد نہ چھوڑنا\nعشقِ علی نمازِ خدا ماتم حسین\nہے مرض لا دوا کی۔۔۔\n<<DIVIDER>>\nجس کو یہ غم ملا ہے وہی خوش نصیب ہے\nفرش عزا میں درس ولا ماتم حسین\nہے مرض لا دوا کی۔۔۔\n<<DIVIDER>>\nعاشور کی سحر سے غریبوں کی شام تک\nکرتی ہے سوگوار فضا ماتم حسین\nہے مرض لا دوا کی۔۔۔\n<<DIVIDER>>\nجس کی قبولیت میں نہ شک ہے نہ دیر ہے\nمیرے ہر ایک عمل سے بھلا ماتم حسین\nہے مرض لا دوا کی۔۔۔\n<<DIVIDER>>\nدشتِ بلا کی ریت پہ بھای تھا بیکفن\nکرتی رہی بہن کی ردا ماتم حسین\nہے مرض لا دوا کی۔۔۔\n<<DIVIDER>>\nسدرہ سے جبرییل نے مجھکو یہ دی خبر\nشوکت رضا خدا کی رضا ماتم حسین\nہے مرض لا دوا کی۔۔۔",
+  "styling": [
+    {
+      "insert": "بہ یاد سبط نبی جو بہاے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنسوؤں سے مقدر بناے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یقیں نہ ہو تو وہی کربل میں چل کر دیکھ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے تمام سے جنگل بساے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عدوے آل کو ضد ہے کہ ذکرِ آل نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں یہ نام بھی دل سے بھلاے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرک نہ پایا کبھی رک نہ پائے گا یہ غم تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عرش سے فرش تک فرش سے عرش تک ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم تیرا ہے معجزہ ماتم تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے مرض لا دوا کی دوا ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشکل میں بہترین دعا ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمرتا ہے جسم روح میں ہوتی ہے زندگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روح کی ہے بہترین غذا ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مرض لا دوا کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتاریخ دیکھ عصر شہیداں سے آج تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتے رہے ہیں ارض و سماں ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مرض لا دوا کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ عہد ہے وفا ہے تعلق ہے بخت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میثاق سے ہی ہم نے چنا ماتمِ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مرض لا دوا کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس ماتم حسین کی وارث بتول ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ورثہ میں جس نے ہم کو دیا ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مرض لا دوا کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں لوریوں میں نوحے سناتی رہی ہمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم نے تو اپنی ماں سے لیا ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مرض لا دوا کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپوچھا خدا نے لاے ہو زاد نجات کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے بصد یقیں کہا ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مرض لا دوا کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے عاشقانِ آل محمد نہ چھوڑنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عشقِ علی نمازِ خدا ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مرض لا دوا کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس کو یہ غم ملا ہے وہی خوش نصیب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش عزا میں درس ولا ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مرض لا دوا کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشور کی سحر سے غریبوں کی شام تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی ہے سوگوار فضا ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مرض لا دوا کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس کی قبولیت میں نہ شک ہے نہ دیر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے ہر ایک عمل سے بھلا ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مرض لا دوا کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدشتِ بلا کی ریت پہ بھای تھا بیکفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی رہی بہن کی ردا ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مرض لا دوا کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسدرہ سے جبرییل نے مجھکو یہ دی خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شوکت رضا خدا کی رضا ماتم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مرض لا دوا کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Shaukat Raza Shaukat",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u1343",
-  "title": "Ghazi alam tumhara",
+  "title": "غازی علم تمہارا",
   "body": "ہمیں جان سے ہے پیارا غازی علم تمہارا\nعباس یہ علم ہے قومی نشاں ہمارا\n<<DIVIDER>>\nنسبت سے تیری غازی حاجت رواں ہے یہ بھی\nپرچم یہ مشکلوں میں مومن کا ہے سہارا\nہمیں جان سے ہے۔۔۔\n<<DIVIDER>>\nشیر خدا علی ہے تو شیر مرتظی ہے\nہر لب پہ گونجتا ہے عباس تیرا نعرہ\nہمیں جان سے ہے۔۔۔\n<<DIVIDER>>\nتو ہے دعاے زہرا تو ہے رداے زینب\nام البنین کی تو آنکھوں کا ہے ستارہ\nہمیں جان سے ہے۔۔۔\n<<DIVIDER>>\nامداد اس کی کرنے بن کے علی ہے آیا\nجب بھی جہاں بھی جس نے غازی تجھے پکارا\nہمیں جان سے ہے۔۔۔\n<<DIVIDER>>\nتقدیر ہے جگاتا اولاد بانٹتا ہے\nسنتا ہے التجائیں مولا علی کا پیارا\nہمیں جان سے ہے۔۔۔\n<<DIVIDER>>\nجب بھی دیا جلا کے عباس کو صدا دی\nغم پاس ماتمی کے آیا نہیں دوبارہ\nہمیں جان سے ہے۔۔۔\n<<DIVIDER>>\nبانٹا نہیں ہے کوی زوار کربلا کا\nعباس با وفا کا جب تک نہ ہو اشارہ\nہمیں جان سے ہے۔۔۔\n<<DIVIDER>>\nجواد کر رہا ہے تعظیم کے جو سجدے\nغازی تیرا علم بھی روضے کا ہے نظارہ\nہمیں جان سے ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "ہمیں جان سے ہے پیارا غازی علم تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس یہ علم ہے قومی نشاں ہمارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنسبت سے تیری غازی حاجت رواں ہے یہ بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچم یہ مشکلوں میں مومن کا ہے سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیں جان سے ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشیر خدا علی ہے تو شیر مرتظی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر لب پہ گونجتا ہے عباس تیرا نعرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیں جان سے ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو ہے دعاے زہرا تو ہے رداے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام البنین کی تو آنکھوں کا ہے ستارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیں جان سے ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامداد اس کی کرنے بن کے علی ہے آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب بھی جہاں بھی جس نے غازی تجھے پکارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیں جان سے ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتقدیر ہے جگاتا اولاد بانٹتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنتا ہے التجائیں مولا علی کا پیارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیں جان سے ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب بھی دیا جلا کے عباس کو صدا دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پاس ماتمی کے آیا نہیں دوبارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیں جان سے ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبانٹا نہیں ہے کوی زوار کربلا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس با وفا کا جب تک نہ ہو اشارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیں جان سے ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجواد کر رہا ہے تعظیم کے جو سجدے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی تیرا علم بھی روضے کا ہے نظارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیں جان سے ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Muslim Jafri",
   "anjumans": [],
   "verified": false

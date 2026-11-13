@@ -1,12 +1,553 @@
 {
   "remoteId": "g2611_u3395",
-  "title": "Ya maula ali",
+  "title": "یا مولا علی",
   "body": "یا مولا علی یا مولا علی\nمیری جان علی ایمان علی\nیا مولا علی یا مولا علی\n<<DIVIDER>>\nنبیوں نے پکارا مشکل میں\nہر درد کا ہے درمان علی\nہے میری جان علی\nمیری جان علی ایمان علی\nیا مولا علی یا مولا علی\n<<DIVIDER>>\nپتھر میں علم گاڑھا جس نے\nجس کو ہے خدا کا شیر کہا\nداماد نبی ہے مولا علی\nجسے حیدر وصفدر لقب ملا\nہے دنیا میں یزید زیشان علی\nیا مولا علی یا مولا علی\nہے میری جان علی\nمیری جان علی۔۔۔\n<<DIVIDER>>\nممبر پہ بلا کر احمد نے\nمن کنت و مولا جس کو کہا\nجس کا بھی ہوں اب میں مولا\nمیرے بعد ہے اس کا علی مولا\nجسے اللّٰہ سے تلوار ملی\nیا مولا علی یا مولا علی\nہے میری جان علی\nمیری جان علی۔۔۔\n<<DIVIDER>>\nسوچو تو زرا اے مسلمانوں\nروضے میں اس پر وار کیا\nجو شوہر فاطمہ زہرا تھا\nاس کو مسجد میں قتل کیا\nتھا احمد کا دل و جان‌ علی\nیا مولا علی یا مولا علی\nہے میری جان علی\nمیری جان علی۔۔۔\n<<DIVIDER>>\nمہمان بلا کر کوفے میں\nامام حسن کو زہر دیا\nجو گود نبی میں کھیلا تھا\nاس کو مسجد میں ذبح کیا\nہاے روتی رہی زہرا کی کلی\nیا مولا علی یا مولا علی\nہے میری جان علی\nمیری جان علی۔۔۔\n<<DIVIDER>>\nاک اجڑا قافلہ پیاسوں کا\nجب لے کر زینب شام گیء\nمیں پاک علی کی بیٹی ہوں\nرو رو کر زینب کہتی رہی\nاب کوی نہیں ہے چارہ گر\nیا مولا علی یا مولا علی\nہے میری جان علی\nمیری جان علی۔۔۔\n<<DIVIDER>>\nمحبوب نے لکھا ہے نوحہ\nرو رو کے سناتا ہے میثم\nزینب یہ دعائیں کرتی ہے\nگھر گھر شبیر کا ہو ماتم\nہر شخص پکارے گا اک دن\nیا مولا علی یا مولا علی\nہے میری جان علی\nمیری جان علی۔۔۔",
+  "styling": [
+    {
+      "insert": "یا مولا علی یا مولا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری جان علی ایمان علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا علی یا مولا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنبیوں نے پکارا مشکل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درد کا ہے درمان علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے میری جان علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری جان علی ایمان علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا علی یا مولا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپتھر میں علم گاڑھا جس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو ہے خدا کا شیر کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داماد نبی ہے مولا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسے حیدر وصفدر لقب ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے دنیا میں یزید زیشان علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا علی یا مولا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے میری جان علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری جان علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nممبر پہ بلا کر احمد نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من کنت و مولا جس کو کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کا بھی ہوں اب میں مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بعد ہے اس کا علی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسے اللّٰہ سے تلوار ملی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا علی یا مولا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے میری جان علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری جان علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوچو تو زرا اے مسلمانوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روضے میں اس پر وار کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو شوہر فاطمہ زہرا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کو مسجد میں قتل کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا احمد کا دل و جان‌ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا علی یا مولا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے میری جان علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری جان علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمہمان بلا کر کوفے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امام حسن کو زہر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو گود نبی میں کھیلا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کو مسجد میں ذبح کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے روتی رہی زہرا کی کلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا علی یا مولا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے میری جان علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری جان علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک اجڑا قافلہ پیاسوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب لے کر زینب شام گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پاک علی کی بیٹی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کر زینب کہتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کوی نہیں ہے چارہ گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا علی یا مولا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے میری جان علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری جان علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمحبوب نے لکھا ہے نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے سناتا ہے میثم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب یہ دعائیں کرتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر گھر شبیر کا ہو ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر شخص پکارے گا اک دن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا علی یا مولا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے میری جان علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری جان علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Mehboob",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,441 @@
 {
   "remoteId": "g2611_u1100",
-  "title": "Chin gayi rida ghar",
+  "title": "چھن گئی ردا گھر",
   "body": "ڈھلنے لگی جو رات میں بے وارثوں کی شام\nآتا ہوا سوار جو دیکھا سوے قیام\nبنت علی نے تھامکےدل تھام لی لجام\nگونجی صداے دختر زہراے نیک نام\n<<DIVIDER>>\nچھن گئی ردا گھر اجڑ گیا\nآپ تھے کہاں ہاے بابا جاں\nرن میں کٹ گیا بھائی کا گلا\nآپ تھے کہاں ہاے بابا جاں\n<<DIVIDER>>\nتھام کے وہ دل خاک پر گرا\nہو بہو جو تھا شکل مصطفیٰ\nاسکے سینے پر نیزہ جب لگا\nآپ تھے کہاں ہاے بابا جاں\nچھن گئی ردا۔۔۔\n<<DIVIDER>>\nننھا سا گلا تیر سے چھدا\nخون جب بہا لرزی کربلا\nچہرے پر وہ خون بھای نے ملا\nآپ تھے کہاں ہاے بابا جاں\nچھن گئی ردا۔۔۔\n<<DIVIDER>>\nمشک کی طرف تیر جب چلا\nمیرے شیر کا بازو جب کٹا\nمشک جب چھدی گرز جب لگا\nآپ تھے کہاں ہاے بابا جاں\nچھن گئی ردا۔۔۔\n<<DIVIDER>>\nبھولونگی نہ میں وہ درد کی گھڑی\nچل رہی تھی جب بھای پر چھری\nدے رہی تھی میں اس گھڑی صدا\nآپ تھے کہاں ہاے بابا جاں\nچھن گئی ردا۔۔۔\n<<DIVIDER>>\nلوٹنے کو جب آے اشقیا\nگھر کا گھر تھا جب شعلوں میں گھرا\nچھن رہی تھی جب سر سے یہ ردا\nآپ تھے کہاں ہاے بابا جاں\nچھن گئی ردا۔۔۔\n<<DIVIDER>>\nلگ رہی تھی جب منہ پہ سہیلیاں\nہاے کانوں سے تھا لہو رواں\nجب گوہر چھنے کرتا جب جلا\nآپ تھے کہاں ہاے بابا جاں\nچھن گئی ردا۔۔۔\n<<DIVIDER>>\nہاے بابا تھا ہونٹوں پر نوید\nرورہی تھی باگ تھام کر نوید\nگونجتی تھی یہ دشت میں صدا\nآپ تھے کہاں ہاے بابا جاں\nچھن گئی ردا۔۔۔",
+  "styling": [
+    {
+      "insert": "ڈھلنے لگی جو رات میں بے وارثوں کی شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتا ہوا سوار جو دیکھا سوے قیام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنت علی نے تھامکےدل تھام لی لجام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی صداے دختر زہراے نیک نام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھن گئی ردا گھر اجڑ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ تھے کہاں ہاے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رن میں کٹ گیا بھائی کا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ تھے کہاں ہاے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھام کے وہ دل خاک پر گرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو بہو جو تھا شکل مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسکے سینے پر نیزہ جب لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ تھے کہاں ہاے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن گئی ردا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nننھا سا گلا تیر سے چھدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون جب بہا لرزی کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرے پر وہ خون بھای نے ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ تھے کہاں ہاے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن گئی ردا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشک کی طرف تیر جب چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے شیر کا بازو جب کٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشک جب چھدی گرز جب لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ تھے کہاں ہاے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن گئی ردا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھولونگی نہ میں وہ درد کی گھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل رہی تھی جب بھای پر چھری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے رہی تھی میں اس گھڑی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ تھے کہاں ہاے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن گئی ردا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلوٹنے کو جب آے اشقیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کا گھر تھا جب شعلوں میں گھرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن رہی تھی جب سر سے یہ ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ تھے کہاں ہاے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن گئی ردا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلگ رہی تھی جب منہ پہ سہیلیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے کانوں سے تھا لہو رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب گوہر چھنے کرتا جب جلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ تھے کہاں ہاے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن گئی ردا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے بابا تھا ہونٹوں پر نوید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رورہی تھی باگ تھام کر نوید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجتی تھی یہ دشت میں صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ تھے کہاں ہاے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن گئی ردا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Ahmed Naved",
   "anjumans": [],
   "verified": false

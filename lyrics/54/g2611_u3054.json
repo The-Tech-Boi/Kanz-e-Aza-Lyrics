@@ -1,12 +1,392 @@
 {
   "remoteId": "g2611_u3054",
-  "title": "Shamiyon may ghir",
+  "title": "شامیوں میں گھِر",
   "body": "شامیوں میں گھِر گیا ہے مہمانِ کربلا\n<<DIVIDER>>\nکلمئہ توحید کا عرفاں بیانِ کربلا\nامتیازِ حق و باطل داستانِ کربلا\nپیشوائے اہلِ ایماں کُشتگانِ کربلا\nشامیوں میں گھر گیا۔۔۔\n<<DIVIDER>>\nتین دن سے بندھ ہے پانی نبی کی آل پر\nکون ہے جو ترس کھائے بے کسوں کے حال پر\nخوب مہمانی ادا کی میزبانِ کربلا\nشامیوں میں گھر گیا۔۔۔\n<<DIVIDER>>\nیوسفِ کرب و بلا ہمشکلِ محبوبِ خدا\nدینِ حق پر کر دیا اپنی جوانی گو فدا\nکھا کے سینے پر سِناں وہ نوجوانِ کربلا\nشامیوں میں گھر گیا۔۔۔\n<<DIVIDER>>\nکانپ اُٹھا عرشِ معلیٰ ہل گئے قلبِ عدو\nسینہِ شبیر میں دل ہو گیا غم سے لہو\nتیر کھا کر ہنس دیا جب بے زبانِ کربلا\nشامیوں میں گھر گیا۔۔۔\n<<DIVIDER>>\nپھیر دی حلقِ شاہِ دیں پر ستمگار نے چھُری\nپیٹتی سر آگئی میدان میں بنتِ علی\nتم بھی پیٹو اپنے سر کو عاشقانِ کربلا\nشامیوں میں گھر گیا۔۔۔\n<<DIVIDER>>\nکس طرح جھُک جائے گا وہ زورِ باطل سے بھلا\nبازوئے عباس کا جس کو سہارا مل گیا\nحشر تک اُونچا رہے گا اب نشانِ کربلا\nشامیوں میں گھر گیا۔۔۔\n<<DIVIDER>>\nجل گئے خیمے چھِنی چادر بندھے رسی میں ہاتھ\nاب نہیں کوئی حرم کے سر پہ جُز آبِ کزاق\nشام کو جاتا ہے لُٹ کر کاروانِ کربلا\nشامیوں میں گھر گیا۔۔۔\n<<DIVIDER>>\nعصر کا ہنگام اور وہ شاہِ دیں کی کارزار\nتھا قیامت کا سماں جب چل رہی تھی ذوالفقار\nخون میں تر تھے زمین و آسمانِ کربلا\nشامیوں میں گھر گیا۔۔۔\n<<DIVIDER>>\nاللہ اللہ صبحِ عاشورہ وہ اکبر کی صدا\nچھوڑ کر باطل کا دامن جانبِ حق حُر چلا\nگونجی جب مومن فضائوں میں اذانِ کربلا\nشامیوں میں گھر گیا۔۔۔",
+  "styling": [
+    {
+      "insert": "شامیوں میں گھِر گیا ہے مہمانِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکلمئہ توحید کا عرفاں بیانِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امتیازِ حق و باطل داستانِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیشوائے اہلِ ایماں کُشتگانِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شامیوں میں گھر گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتین دن سے بندھ ہے پانی نبی کی آل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون ہے جو ترس کھائے بے کسوں کے حال پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوب مہمانی ادا کی میزبانِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شامیوں میں گھر گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیوسفِ کرب و بلا ہمشکلِ محبوبِ خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دینِ حق پر کر دیا اپنی جوانی گو فدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا کے سینے پر سِناں وہ نوجوانِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شامیوں میں گھر گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکانپ اُٹھا عرشِ معلیٰ ہل گئے قلبِ عدو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینہِ شبیر میں دل ہو گیا غم سے لہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیر کھا کر ہنس دیا جب بے زبانِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شامیوں میں گھر گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھیر دی حلقِ شاہِ دیں پر ستمگار نے چھُری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیٹتی سر آگئی میدان میں بنتِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم بھی پیٹو اپنے سر کو عاشقانِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شامیوں میں گھر گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح جھُک جائے گا وہ زورِ باطل سے بھلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازوئے عباس کا جس کو سہارا مل گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حشر تک اُونچا رہے گا اب نشانِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شامیوں میں گھر گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجل گئے خیمے چھِنی چادر بندھے رسی میں ہاتھ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہیں کوئی حرم کے سر پہ جُز آبِ کزاق"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کو جاتا ہے لُٹ کر کاروانِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شامیوں میں گھر گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعصر کا ہنگام اور وہ شاہِ دیں کی کارزار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا قیامت کا سماں جب چل رہی تھی ذوالفقار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں تر تھے زمین و آسمانِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شامیوں میں گھر گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللہ اللہ صبحِ عاشورہ وہ اکبر کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ کر باطل کا دامن جانبِ حق حُر چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی جب مومن فضائوں میں اذانِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شامیوں میں گھر گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Momin",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u0120",
-  "title": "Aap ke baad mujhe",
+  "title": "آپ کے بعد مجھے",
   "body": "آپ کے بعد مجھے شمر نے بابا مارا\nچور زخموں سے ہوئی تیری سکینہ بابا\n<<DIVIDER>>\nکیا یتیموں کو دلاسہ نہیں دیتا کوئی\nکیا اسیروں کا کوئی گھر نہیں ہوتا بابا\nآپ کے بعد مجھے۔۔۔\n<<DIVIDER>>\nمجھ کو اس بات پہ ظالم نے طمانچے مارے\nمیں نے بس آپ کا سر شمر سے مانگا بابا\nآپ کے بعد مجھے۔۔۔\n<<DIVIDER>>\nاتنی بے رحمی سے در میرے لعیں نے چھینے\nجیسے دادی سے فدک لوگوں نے چھینا بابا\nآپ کے بعد مجھے۔۔۔\n<<DIVIDER>>\nمنہ کی بل دوڑتے ناقے سے گری تھی جب میں\nشمر نے بالوں سے تب مجھکو اٹھایا بابا\nآپ کے بعد مجھے۔۔۔\n<<DIVIDER>>\nہاتھ پہلو سے نہیں جیسے اٹھا دادی کا\nھاتھ رخسار سے میرا نہیں اٹھتا بابا\nآپ کے بعد مجھے۔۔۔\n<<DIVIDER>>\nایسےاجڑے نی کوئی میری دعا ہے رب سے\nجیسے پردیس میں اجڑی ہے سکینہ بابا\nآپ کے بعد مجھے۔۔۔\n<<DIVIDER>>\nسو گئی شام کے زنداں میں سکینہ محسن\nقید خانے میں صدا رہ گئی بابا بابا\nآپ کے بعد مجھے۔۔۔",
+  "styling": [
+    {
+      "insert": "آپ کے بعد مجھے شمر نے بابا مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چور زخموں سے ہوئی تیری سکینہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا یتیموں کو دلاسہ نہیں دیتا کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اسیروں کا کوئی گھر نہیں ہوتا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے بعد مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ کو اس بات پہ ظالم نے طمانچے مارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے بس آپ کا سر شمر سے مانگا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے بعد مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاتنی بے رحمی سے در میرے لعیں نے چھینے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے دادی سے فدک لوگوں نے چھینا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے بعد مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنہ کی بل دوڑتے ناقے سے گری تھی جب میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر نے بالوں سے تب مجھکو اٹھایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے بعد مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھ پہلو سے نہیں جیسے اٹھا دادی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ھاتھ رخسار سے میرا نہیں اٹھتا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے بعد مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایسےاجڑے نی کوئی میری دعا ہے رب سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے پردیس میں اجڑی ہے سکینہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے بعد مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسو گئی شام کے زنداں میں سکینہ محسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں صدا رہ گئی بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے بعد مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mohsin Jaffri",
   "anjumans": [],
   "verified": false

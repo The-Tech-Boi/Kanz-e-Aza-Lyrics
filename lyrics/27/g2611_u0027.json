@@ -1,12 +1,450 @@
 {
   "remoteId": "g2611_u0027",
-  "title": "Aabad hui karbobala",
+  "title": "آباد ہوئی کربوبلا",
   "body": "آباد ہوئی کربوبلا اُجڑا مدینہ\nبرباد ہوئی میں\nزینب کو نہ راس آیا محرم کا مہینہ\nبرباد ہوئی میں\n<<DIVIDER>>\nاک دن تھا کہ اس شہر کی کرتی تھی میں شاہی\nاور آج تباہی\nبے غسل پڑا مہرِ نبوت کا نگینہ\nبرباد ہوئی میں\nآباد ہوئی کربوبلا۔۔۔\n<<DIVIDER>>\nکس لاش پہ روئوں کسے چھوڑوں میں برادر\nلاشے ہیں بہتر\nحدیہ ہے کہ رونے کی اجازت بھی ملی نہ\nبرباد ہوئی میں\nآباد ہوئی کربوبلا۔۔۔\n<<DIVIDER>>\nاصغر کا گلا بھائی کا سر سینہئ اکبر\nسب گوہر و چادر\nاِس دشت میں لُوٹا گیا زینب کا خزینہ\nبرباد ہوئی میں\nآباد ہوئی کربوبلا۔۔۔\n<<DIVIDER>>\nمائیں بھی نہ پہچان سکیں بچوں کے چہرے\nبکھرے ہوئے سہرے\nہے خون کے دریا میں غریبوں کا سفینہ\nبرباد ہوئی میں\nآباد ہوئی کربوبلا۔۔۔\n<<DIVIDER>>\nاک آگ ہے خیموں میں قیامت کا سمائ ہے\nغازی تُو کہاں ہے\nدیکھو تو ردا چھین گیا شمر کمینہ\nبرباد ہوئی میں\nآباد ہوئی کربوبلا۔۔۔\n<<DIVIDER>>\nچادر چھینی دُرلے لیئے اب ظلم نہ ڈھائو\nبابا سے ملائو\nنیزے کے تلے بیٹھ کے روتی ہے سکینہ\nبرباد ہوئی میں\nآباد ہوئی کربوبلا۔۔۔\n<<DIVIDER>>\nپابندِ رسن بیبیاں بازار کھولے سر\nہر موڑ پہ پتھر\nمعصوم یتیموں کا بہا سرخ پسینہ\nبرباد ہوئی میں\nآباد ہوئی کربوبلا۔۔۔\n<<DIVIDER>>\nشوکت سرِ مقتل یہ کہا بنتِ علی نے\nزہرا کی پلی نے\nبھیا تیرے بن خاک تیری بہنہ کا جینہ\nبرباد ہوئی میں\nآباد ہوئی کربوبلا۔۔۔",
+  "styling": [
+    {
+      "insert": "آباد ہوئی کربوبلا اُجڑا مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برباد ہوئی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کو نہ راس آیا محرم کا مہینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برباد ہوئی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک دن تھا کہ اس شہر کی کرتی تھی میں شاہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور آج تباہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے غسل پڑا مہرِ نبوت کا نگینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برباد ہوئی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آباد ہوئی کربوبلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس لاش پہ روئوں کسے چھوڑوں میں برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے ہیں بہتر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حدیہ ہے کہ رونے کی اجازت بھی ملی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برباد ہوئی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آباد ہوئی کربوبلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر کا گلا بھائی کا سر سینہئ اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب گوہر و چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اِس دشت میں لُوٹا گیا زینب کا خزینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برباد ہوئی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آباد ہوئی کربوبلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمائیں بھی نہ پہچان سکیں بچوں کے چہرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بکھرے ہوئے سہرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خون کے دریا میں غریبوں کا سفینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برباد ہوئی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آباد ہوئی کربوبلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک آگ ہے خیموں میں قیامت کا سمائ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی تُو کہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو تو ردا چھین گیا شمر کمینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برباد ہوئی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آباد ہوئی کربوبلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچادر چھینی دُرلے لیئے اب ظلم نہ ڈھائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا سے ملائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے کے تلے بیٹھ کے روتی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برباد ہوئی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آباد ہوئی کربوبلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپابندِ رسن بیبیاں بازار کھولے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر موڑ پہ پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم یتیموں کا بہا سرخ پسینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برباد ہوئی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آباد ہوئی کربوبلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشوکت سرِ مقتل یہ کہا بنتِ علی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی پلی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا تیرے بن خاک تیری بہنہ کا جینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برباد ہوئی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آباد ہوئی کربوبلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Shaukath Bilgrami",
   "anjumans": [],
   "verified": false

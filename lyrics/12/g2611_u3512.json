@@ -1,12 +1,409 @@
 {
   "remoteId": "g2611_u3512",
-  "title": "Zaban ke saath dil",
+  "title": "زباں کے ساتھ دل",
   "body": "علی کی بادشاہی ہے\nعلی اسم الہٰی ہے\nہر ایک میزان میں تولا\nزباں کے ساتھ دل بولا\nعلی مولا علی مولا\n<<DIVIDER>>\nلگے جب حیدری نعرہ\nعلی مولا علی مولا\nجہاں میں گونج ہوتی ہے\nعلی مولا علی مولا\nعلی کی بادشاہی ہے۔۔۔\n<<DIVIDER>>\nکبھی ناد علی پڑھ کر\nکہو یا فاتح خیبر\nتو مشکل ہو گی مشکل میں\nعلی کا نام ہی سن کر\nعلی کی بادشاہی ہے۔۔۔\n<<DIVIDER>>\nنصیری نے خدا مانا\nخدا نے لافتی جانا\nخدا کو وہی سمجھے گا\nعلی کو جس نے پہچانا\nعلی کی بادشاہی ہے۔۔۔\n<<DIVIDER>>\nعلی سورج پلٹا دے\nعلی دریا کو ٹہرا دے\nعلی چاہے تو منکر پر\nقضا کی آگ برسادے\nعلی کی بادشاہی ہے۔۔۔\n<<DIVIDER>>\nعلی عامل علی کامل\nعلی کشتی علی ساحل\nاگر انصاف سے پوچھو\nعلی اسلام کا ہے دل\nعلی کی بادشاہی ہے۔۔۔\n<<DIVIDER>>\nعلی ہے مظہر یزداں\nعلی ہے بولتا قرآں\nنبوت جسم کی صورت\nعلی اس جسم میں ہے جاں\nعلی کی بادشاہی ہے۔۔۔\n<<DIVIDER>>\nسلونی کی صدا بن کر\nکبھی ریحان اور سرور\nکوئی آواز آتی ہے\nجو چاہو پوچھ لو آ کر\nعلی کی بادشاہی ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "علی کی بادشاہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی اسم الہٰی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک میزان میں تولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زباں کے ساتھ دل بولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی مولا علی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلگے جب حیدری نعرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی مولا علی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جہاں میں گونج ہوتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی مولا علی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی بادشاہی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکبھی ناد علی پڑھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہو یا فاتح خیبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو مشکل ہو گی مشکل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا نام ہی سن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی بادشاہی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنصیری نے خدا مانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا نے لافتی جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کو وہی سمجھے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کو جس نے پہچانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی بادشاہی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی سورج پلٹا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی دریا کو ٹہرا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی چاہے تو منکر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قضا کی آگ برسادے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی بادشاہی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی عامل علی کامل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کشتی علی ساحل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر انصاف سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی اسلام کا ہے دل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی بادشاہی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی ہے مظہر یزداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی ہے بولتا قرآں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبوت جسم کی صورت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی اس جسم میں ہے جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی بادشاہی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلونی کی صدا بن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی ریحان اور سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی آواز آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو چاہو پوچھ لو آ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی بادشاہی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

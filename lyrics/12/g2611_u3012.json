@@ -1,12 +1,442 @@
 {
   "remoteId": "g2611_u3012",
-  "title": "Shabbir ka sar",
+  "title": "شبیر کا سر",
   "body": "طشت سے اٹھ کے چلا حضرتِ شبیر کا سر\nحسرت و یاس سے ڈالی جو سکینہ نے نظر\n<<DIVIDER>>\nامتحاں بانیء شر نے جو سکینہ کا لیا\nہو گیا شام کے دربار میں کہرام بپا\nدیکھ کر رونے لگے اہلِ نظر یہ منظر\nطشت سے اٹھ کے چلا۔۔۔\n<<DIVIDER>>\nسر جھکائے سر دربار کھڑی تھی بچی\nیہ خدا جانے کہ کیا سوچ رہی تھی بچی\nاشک آنکھوں سے گرے جب کہ زمیں کے اوپر\nطشت سے اٹھ کے چلا۔۔۔\n<<DIVIDER>>\nنیل رخسار کا بابا کو دکھایا ہو گا\nکتنے کھاے ہیں طمانچے یہ بتایا ہوگا\nاپنے دکھ درد کیےء ہونگے بیاں رو رو کر\nطشت سے اٹھ کے چلا۔۔۔\n<<DIVIDER>>\nچپ رہی بالی سکینہ نے کہاں کچھ بولا\nصرف اک بار جلے کرتے کا دامن کھولا\nکوئی شکوہ یا شکایت نہیں لای لب پر\nطشت سے اٹھ کے چلا۔۔۔\n<<DIVIDER>>\nدیکھتے روتے ہوے کیسے یتیمہ کو حسین\nکر نہیں سکتے تھے مایوس سکینہ کو حسین\nہاتھ پھیلائے بلانے کے لےء جب رو کر\nطشت سے اٹھ کے چلا۔۔۔\n<<DIVIDER>>\nچاہتے کب کہ سکینہ کو کوئی کچھ بولے\nکب گوارا تھا زباں اپنی ستمگر کھولے\nبے ردائی کا سفر رکھتے ہوے مد نظر\nطشت سے اٹھ کے چلا۔۔۔\n<<DIVIDER>>\nباپ شبیر سا اور بیٹی سکینہ جیسی\nڈھونڈنے سے بھی کسی کو نہ ملا اور نہ ملی\nہم نے دیکھا سر دربار یہ چاہت کا اثر\nطشت سے اٹھ کے چلا۔۔۔\n<<DIVIDER>>\nجلوہ گر دوش ہوا پہ سر سرور دیکھا\nجانے کن آنکھوں سے ظالم نے یہ منظر دیکھا\nشرم سے اپنا اٹھا پایا نہ سر بانیء شر\nطشت سے اٹھ کے چلا۔۔۔\n<<DIVIDER>>\nکیفیت بالی سکینہ کیبیاں کیسے کروں\nدرد جو دل میں ہے چہرے پہ عیاں کیسے کروں\nنیل ہی نیل نظر آتے تھے رخساروں پر\nطشت سے اٹھ کے چلا۔۔۔\n<<DIVIDER>>\nمنہ پہ منہ رکھ کے سکینہ نے کیےء بین آصف\nچند لمحے ہی یتیمہ کو ملا چین آصف\nدیر تک روے مؤرخ بھی یہ عامر لکھ کر\nطشت سے اٹھ کے چلا۔۔۔",
+  "styling": [
+    {
+      "insert": "طشت سے اٹھ کے چلا حضرتِ شبیر کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسرت و یاس سے ڈالی جو سکینہ نے نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامتحاں بانیء شر نے جو سکینہ کا لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیا شام کے دربار میں کہرام بپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر رونے لگے اہلِ نظر یہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طشت سے اٹھ کے چلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر جھکائے سر دربار کھڑی تھی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ خدا جانے کہ کیا سوچ رہی تھی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشک آنکھوں سے گرے جب کہ زمیں کے اوپر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طشت سے اٹھ کے چلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیل رخسار کا بابا کو دکھایا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنے کھاے ہیں طمانچے یہ بتایا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے دکھ درد کیےء ہونگے بیاں رو رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طشت سے اٹھ کے چلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچپ رہی بالی سکینہ نے کہاں کچھ بولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صرف اک بار جلے کرتے کا دامن کھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی شکوہ یا شکایت نہیں لای لب پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طشت سے اٹھ کے چلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھتے روتے ہوے کیسے یتیمہ کو حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر نہیں سکتے تھے مایوس سکینہ کو حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ پھیلائے بلانے کے لےء جب رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طشت سے اٹھ کے چلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاہتے کب کہ سکینہ کو کوئی کچھ بولے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب گوارا تھا زباں اپنی ستمگر کھولے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردائی کا سفر رکھتے ہوے مد نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طشت سے اٹھ کے چلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ شبیر سا اور بیٹی سکینہ جیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈنے سے بھی کسی کو نہ ملا اور نہ ملی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم نے دیکھا سر دربار یہ چاہت کا اثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طشت سے اٹھ کے چلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلوہ گر دوش ہوا پہ سر سرور دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے کن آنکھوں سے ظالم نے یہ منظر دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شرم سے اپنا اٹھا پایا نہ سر بانیء شر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طشت سے اٹھ کے چلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیفیت بالی سکینہ کیبیاں کیسے کروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد جو دل میں ہے چہرے پہ عیاں کیسے کروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیل ہی نیل نظر آتے تھے رخساروں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طشت سے اٹھ کے چلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنہ پہ منہ رکھ کے سکینہ نے کیےء بین آصف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چند لمحے ہی یتیمہ کو ملا چین آصف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیر تک روے مؤرخ بھی یہ عامر لکھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طشت سے اٹھ کے چلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Asif Bijnori",
   "anjumans": [],
   "verified": false

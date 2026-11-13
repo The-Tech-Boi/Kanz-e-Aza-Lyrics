@@ -1,12 +1,351 @@
 {
   "remoteId": "g2611_u2025",
-  "title": "Kidhar gaye ammu",
+  "title": "کدھر گےء عمو",
   "body": "سکینہ روتی ہے ہاے کدھر گےء عمو\n<<DIVIDER>>\nحسین خیمے میں مشک و علم لاے ہیں\nمگر ترای پہ سقہ کو چھوڑ آئے ہیں\nنہ جانے کیسی وصیت وہ کر گےء عمو\nسکینہ روتی ہے ہاے۔۔۔\n<<DIVIDER>>\nخود اپنے ہاتھوں سے پرچم میں مشک باندھی تھی\nوہی جگای تھی امید پیاسے بچوں کی\nکہاں دعاؤں کا لے کر اثر گےء عمو\nسکینہ روتی ہے ہاے۔۔۔\n<<DIVIDER>>\nکمر کو ہاتھوں سے تھامے ہوئے ہے کیوں بابا\nچھدی ہے مشک علم خوں میں ہے کیوں ڈوبا\nیہ کیا ہوا کہاں بے سفر گےء عمو\nسکینہ روتی ہے ہاے۔۔۔\n<<DIVIDER>>\nیہ کیسے آے ہیں آنسوں پھپھی کی آنکھوں میں\nابھی تو آس تھی تشنہ لبی کی آنکھوں میں\nابھر بھی دیکھتی ہے کبھی ادھر گےء عمو\nسکینہ روتی ہے ہاے۔۔۔\n<<DIVIDER>>\nکہیں وہ چاند سا چہرہ نظر نہیں آتا\nنگاہیں پیاسی ہے سقہ نظر نہیں آتا\nاداس ہے کہاں رشک کمر گےء عمو\nسکینہ روتی ہے ہاے۔۔۔\n<<DIVIDER>>\nیہ پوچھتی ہے خیالوں میں کھوی کھوی سی\nہے بی بیوں کے سروں پر رداییں تو باقی\nمگر یہ کس لئے چہرے اتر گےء عمو\nسکینہ روتی ہے ہاے۔۔۔\n<<DIVIDER>>\nشہید ہوتے تو خیمے میں لاتے شہ لاشہ\nہر ایک شہید کی میت کو لاے ہیں بابا\nکسی سے پوچھے تو کیسے کے مر گئے عمو\nسکینہ روتی ہے ہاے۔۔۔\n<<DIVIDER>>\nسکینہ بی بی کی حالت عجیب ہے فدوی\nیہ سوچتی ہے وہ عرفان پیاس کی ماری\nکہ کیسے ٹوٹ کے کوزے بکھر گےء عمو\nسکینہ روتی ہے ہاے۔۔۔",
+  "styling": [
+    {
+      "insert": "سکینہ روتی ہے ہاے کدھر گےء عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین خیمے میں مشک و علم لاے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر ترای پہ سقہ کو چھوڑ آئے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے کیسی وصیت وہ کر گےء عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ روتی ہے ہاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخود اپنے ہاتھوں سے پرچم میں مشک باندھی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہی جگای تھی امید پیاسے بچوں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں دعاؤں کا لے کر اثر گےء عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ روتی ہے ہاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکمر کو ہاتھوں سے تھامے ہوئے ہے کیوں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھدی ہے مشک علم خوں میں ہے کیوں ڈوبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کیا ہوا کہاں بے سفر گےء عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ روتی ہے ہاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کیسے آے ہیں آنسوں پھپھی کی آنکھوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی تو آس تھی تشنہ لبی کی آنکھوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھر بھی دیکھتی ہے کبھی ادھر گےء عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ روتی ہے ہاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہیں وہ چاند سا چہرہ نظر نہیں آتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نگاہیں پیاسی ہے سقہ نظر نہیں آتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اداس ہے کہاں رشک کمر گےء عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ روتی ہے ہاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ پوچھتی ہے خیالوں میں کھوی کھوی سی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بی بیوں کے سروں پر رداییں تو باقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر یہ کس لئے چہرے اتر گےء عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ روتی ہے ہاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہید ہوتے تو خیمے میں لاتے شہ لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک شہید کی میت کو لاے ہیں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی سے پوچھے تو کیسے کے مر گئے عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ روتی ہے ہاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسکینہ بی بی کی حالت عجیب ہے فدوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سوچتی ہے وہ عرفان پیاس کی ماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ کیسے ٹوٹ کے کوزے بکھر گےء عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ روتی ہے ہاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Fidwi Naqvi",
   "anjumans": [],
   "verified": false

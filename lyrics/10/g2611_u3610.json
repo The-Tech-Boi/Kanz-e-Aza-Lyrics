@@ -1,12 +1,268 @@
 {
   "remoteId": "g2611_u3610",
-  "title": "Zara sa pani",
+  "title": "زرا سا پانی",
   "body": "حسین جب کہ چلے بعد دو پہر رن کو\nنہ تھا کوئی کہ جو تھامے رکاب توسن کو\nسکینہ تھام رہی تھی عبا کے دامن کو\n<<DIVIDER>>\nحسین چپ کے کھڑے ہوے ہیں\nوا غربتا وا مصیبتا\n<<DIVIDER>>\nحسین چپ کے کھڑے ہوے ہیں\nنظر علم پر گڑی ہوی ہے\nسکینہ تھامے عبا کا دامن\nیہ اپنے بابا سے کہہ رہی ہے\nاے پیارے بابا قسم تمہاری\nمیں تشنہ لب ہوں زرا سا پانی\nوا غربتا وا مصیبتا۔۔۔\n<<DIVIDER>>\nچچا سے اے بابا جان کہہ دے\nسکینہ پیاسی ہے تین دن سے\nزباں پہ کانٹے پڑے ہوے ہیں\nیہ مشک خالی ہے تین دن سے\nلو بابا دیکھو یہ مشک خالی\nمیں تشنہ لب ہوں زرا سا پانی\nوا غربتا وا مصیبتا۔۔۔\n<<DIVIDER>>\nمجھے ہے احساس میرے بابا\nکہ ہم سے پیاسے ہو تم ذیادہ\nکروں گی تم سے نہ پھر تقاضا\nہے بابا بیٹی کا تم سے وعدہ\nمیں تم پہ صدقے میں تم پہ واری\nمیں تشنہ لب ہوں زرا سا پانی\nوا غربتا وا مصیبتا۔۔۔",
+  "styling": [
+    {
+      "insert": "حسین جب کہ چلے بعد دو پہر رن کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ تھا کوئی کہ جو تھامے رکاب توسن کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ تھام رہی تھی عبا کے دامن کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین چپ کے کھڑے ہوے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وا غربتا وا مصیبتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین چپ کے کھڑے ہوے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نظر علم پر گڑی ہوی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ تھامے عبا کا دامن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ اپنے بابا سے کہہ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے پیارے بابا قسم تمہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تشنہ لب ہوں زرا سا پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وا غربتا وا مصیبتا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچچا سے اے بابا جان کہہ دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ پیاسی ہے تین دن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زباں پہ کانٹے پڑے ہوے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ مشک خالی ہے تین دن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو بابا دیکھو یہ مشک خالی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تشنہ لب ہوں زرا سا پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وا غربتا وا مصیبتا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھے ہے احساس میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ ہم سے پیاسے ہو تم ذیادہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کروں گی تم سے نہ پھر تقاضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بابا بیٹی کا تم سے وعدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تم پہ صدقے میں تم پہ واری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تشنہ لب ہوں زرا سا پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وا غربتا وا مصیبتا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "N. Sarwar & J. Jaffri",
   "anjumans": [],
   "verified": false

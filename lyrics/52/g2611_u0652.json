@@ -1,12 +1,586 @@
 {
   "remoteId": "g2611_u0652",
-  "title": "Ay imame raza",
+  "title": "اے امام رضا",
   "body": "یا امام رضا یا امام رضا\nاے شہنشاہِ خراساں\nیا امام رضا\nاے امام رضا سلام و علیک\n<<DIVIDER>>\nشور ماتم ہے سوگواروں میں\nاے امام رضا سلام و علیک\n<<DIVIDER>>\nبیکسی کہہ رہی ہے میت پر\nوارث کربلا سلام و علیک\nشور ماتم ہے۔۔۔\nاے امام رضا۔۔۔\n<<DIVIDER>>\nہو رہا ہے فضا میں غم محسوس\nبجھ گیا آفتابِ شہر طوس\nآسمانوں سے آ رہی ہے صدا\nنایب مصطفیٰ سلام و علیک\nشور ماتم ہے۔۔۔\nاے امام رضا۔۔۔\n<<DIVIDER>>\nچھا رہی ہے اداسیاں ہر سوں\nاور ٹپکتے ہیں آنکھ سے آنسوں\nساری دنیا میں اک تلاتم ہے\nدین کے نا خدا سلام و علیک\nشور ماتم ہے۔۔۔\nاے امام رضا۔۔۔\n<<DIVIDER>>\nقلب کونین پارہ پارہ ہے\nتم کو زہر دغا سے مارا ہے\nاے غریب الوطن سلام و علیک\nاے اسیر جفا سلام و علیک\nشور ماتم ہے۔۔۔\nاے امام رضا۔۔۔\n<<DIVIDER>>\nشاہ عالی مقام کا تابوت\nاٹھ رہا ہے امام کا تابوت\nاپنا سر پیٹ کر جنازے پر\nکہہ رہی ہے قضاء سلام و علیک\nشور ماتم ہے۔۔۔\nاے امام رضا۔۔۔\n<<DIVIDER>>\nموت پر آپ کی امام مبیں\nکہہ رہے ہیں غریب اور مسکین\nہو گےء آج بے سہارا ہم\nکل کے حاجت روا سلام و علیک\nشور ماتم ہے۔۔۔\nاے امام رضا۔۔۔\n<<DIVIDER>>\nاترا اترا ہے رات کا چہرہ\nزرد ہے کاینات کا چہرہ\nزہر کی کیفیت ہے سانسوں میں\nتاجدار وفا سلام و علیک\nشور ماتم ہے۔۔۔\nاے امام رضا۔۔۔\n<<DIVIDER>>\nکیسا رنج و ملال کا دن ہے\nنور کے انتقال کا دن ہے\nآج دل کی ہر اک دھڑکن سے\nآ رہی ہے صدا سلام و علیک\nشور ماتم ہے۔۔۔\nاے امام رضا۔۔۔\n<<DIVIDER>>\nمیرے مولا قبول فرمانا\nلے کے کچھ آنسوؤں کا نظرانہ\nپرسہ دیتے ہیں عامر و اختر\nنازش انبیاء سلام و علیک\nشور ماتم ہے۔۔۔\nاے امام رضا۔۔۔",
+  "styling": [
+    {
+      "insert": "یا امام رضا یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہنشاہِ خراساں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے امام رضا سلام و علیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشور ماتم ہے سوگواروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے امام رضا سلام و علیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیکسی کہہ رہی ہے میت پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وارث کربلا سلام و علیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شور ماتم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے امام رضا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہو رہا ہے فضا میں غم محسوس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بجھ گیا آفتابِ شہر طوس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آسمانوں سے آ رہی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نایب مصطفیٰ سلام و علیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شور ماتم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے امام رضا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھا رہی ہے اداسیاں ہر سوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ٹپکتے ہیں آنکھ سے آنسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساری دنیا میں اک تلاتم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دین کے نا خدا سلام و علیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شور ماتم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے امام رضا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقلب کونین پارہ پارہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو زہر دغا سے مارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الوطن سلام و علیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے اسیر جفا سلام و علیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شور ماتم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے امام رضا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاہ عالی مقام کا تابوت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھ رہا ہے امام کا تابوت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنا سر پیٹ کر جنازے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ رہی ہے قضاء سلام و علیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شور ماتم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے امام رضا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nموت پر آپ کی امام مبیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ رہے ہیں غریب اور مسکین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گےء آج بے سہارا ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کل کے حاجت روا سلام و علیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شور ماتم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے امام رضا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاترا اترا ہے رات کا چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زرد ہے کاینات کا چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہر کی کیفیت ہے سانسوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تاجدار وفا سلام و علیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شور ماتم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے امام رضا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسا رنج و ملال کا دن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نور کے انتقال کا دن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج دل کی ہر اک دھڑکن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ رہی ہے صدا سلام و علیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شور ماتم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے امام رضا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے مولا قبول فرمانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے کے کچھ آنسوؤں کا نظرانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ دیتے ہیں عامر و اختر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نازش انبیاء سلام و علیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شور ماتم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے امام رضا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Raza (a.s)",
+  "subcategory": "امام رضا (ع)",
   "author": "Akhtar Sirsvi",
   "anjumans": [],
   "verified": false

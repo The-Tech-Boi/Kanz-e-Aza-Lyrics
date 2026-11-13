@@ -1,12 +1,555 @@
 {
   "remoteId": "g2611_u0678",
-  "title": "Ay mere bhai hussain",
+  "title": "اے میرے بھائی حسین",
   "body": "سنو سنو شب عاشور کا یہ منظر ہے\nسرہانے بھای کے بیٹھی علی کی دختر ہے\nوہ کہہ رہی ہے میرا صبر آزماؤ گے\nاے میرے بھائی حسین\n<<DIVIDER>>\nقدم قدم پہ مجھے بھای یاد آؤ گے\nاے میرے بھائی حسین اے میرے بھائی حسین\n<<DIVIDER>>\nسحر کو نانا کا وعدہ جو تم نبھاؤ گے\nاے میرے بھائی حسین اے میرے بھائی حسین\nقدم قدم پہ مجھے۔۔۔\n<<DIVIDER>>\nمیری نگاہ میں بچپن کی ساری یادیں ہے\nکہی تھی نانا نے جو یاد وہ بھی باتیں ہے\nسحر سے پہلے چراغوں کو تم بجھاو گے\nاے میرے بھائی حسین۔۔۔\nقدم قدم پہ مجھے۔۔۔\n<<DIVIDER>>\nنبی سواری تمہاری سوار تم بھای\nتھے اماں زہرا کے دل کا قرار تم بھای\nاور آج خون‌ میں اپنے ہی تم نہاو‌ گے\nاے میرے بھائی حسین۔۔۔\nقدم قدم پہ مجھے۔۔۔\n<<DIVIDER>>\nتمہارے چہرے کا یہ امتنان جانتی ہوں\nتمہارا ہونا ہے جو امتحان جانتی ہوں\nبہن سے درد جگر کو چھپا نہ پاؤ گے\nاے میرے بھائی حسین۔۔۔\nقدم قدم پہ مجھے۔۔۔\n<<DIVIDER>>\nگلوے اصغر بے شیر سینۂ اکبر\nستا رہا ہے تمہیں صبر کر رہے ہو مگر\nردا کی بات پہ نظریں ملا نہ پاؤ گے\nاے میرے بھائی حسین۔۔۔\nقدم قدم پہ مجھے۔۔۔\n<<DIVIDER>>\nابھی تو بالی سکینہ کا ذکر باقی ہے\nابھی تو شام غریباں کی فکر باقی ہے\nرکھو گے یاد کسے کس کو بھول جاؤ گے\nاے میرے بھائی حسین۔۔۔\nقدم قدم پہ مجھے۔۔۔\n<<DIVIDER>>\nنہ غم کرو میرے بھائی تمہارے بعد بہن\nردا نہ اوڑھے گی جب تک تمہیں ملے نہ کفن\nیہ دکھ ہے ساتھ ہمارے وطن نہ جاؤ گے\nاے میرے بھائی حسین۔۔۔\nقدم قدم پہ مجھے۔۔۔\n<<DIVIDER>>\nکہا حسین نے سن کر کلام زینب کا\nہماری جان کے بدلے بچے تیرا پردہ\nیہ کیا کہا کہ میرے صبر آزماؤ گے\nاے میرے بھائی حسین۔۔۔\nقدم قدم پہ مجھے۔۔۔\n<<DIVIDER>>\nتیرے بغیر مکلمل نہیں پیام میرا\nتیرے بغیر ادھورا ہے اب تو نام میرا\nکہو میں آؤں گی مجلس میں جب بلاؤ گے\nاے میرے بھائی حسین۔۔۔\nقدم قدم پہ مجھے۔۔۔\n<<DIVIDER>>\nیہ گفتگو تھی کہ گونجی اذان اکبر کی\nریحان ہوتی تھی یلگار شہ پہ لشکر کی\nعلی کی پکاری ہمیں رلاؤ گے\nاے میرے بھائی حسین۔۔۔\nقدم قدم پہ مجھے۔۔۔",
+  "styling": [
+    {
+      "insert": "سنو سنو شب عاشور کا یہ منظر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرہانے بھای کے بیٹھی علی کی دختر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ کہہ رہی ہے میرا صبر آزماؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقدم قدم پہ مجھے بھای یاد آؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حسین اے میرے بھائی حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسحر کو نانا کا وعدہ جو تم نبھاؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حسین اے میرے بھائی حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدم قدم پہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری نگاہ میں بچپن کی ساری یادیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہی تھی نانا نے جو یاد وہ بھی باتیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سحر سے پہلے چراغوں کو تم بجھاو گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدم قدم پہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنبی سواری تمہاری سوار تم بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھے اماں زہرا کے دل کا قرار تم بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور آج خون‌ میں اپنے ہی تم نہاو‌ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدم قدم پہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہارے چہرے کا یہ امتنان جانتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارا ہونا ہے جو امتحان جانتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہن سے درد جگر کو چھپا نہ پاؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدم قدم پہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگلوے اصغر بے شیر سینۂ اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستا رہا ہے تمہیں صبر کر رہے ہو مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ردا کی بات پہ نظریں ملا نہ پاؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدم قدم پہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nابھی تو بالی سکینہ کا ذکر باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی تو شام غریباں کی فکر باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھو گے یاد کسے کس کو بھول جاؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدم قدم پہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ غم کرو میرے بھائی تمہارے بعد بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ردا نہ اوڑھے گی جب تک تمہیں ملے نہ کفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دکھ ہے ساتھ ہمارے وطن نہ جاؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدم قدم پہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا حسین نے سن کر کلام زینب کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہماری جان کے بدلے بچے تیرا پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کیا کہا کہ میرے صبر آزماؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدم قدم پہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے بغیر مکلمل نہیں پیام میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے بغیر ادھورا ہے اب تو نام میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہو میں آؤں گی مجلس میں جب بلاؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدم قدم پہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ گفتگو تھی کہ گونجی اذان اکبر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ریحان ہوتی تھی یلگار شہ پہ لشکر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی پکاری ہمیں رلاؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدم قدم پہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

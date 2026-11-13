@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u1935",
-  "title": "Karti hai fughan",
+  "title": "کرتی ہے فغاں",
   "body": "کرتی تھی فغاں فاطمہ زہرا میرے بابا\nبیٹی ہوی اب آپ کی تنہا میرے بابا\n<<DIVIDER>>\nبے چین بہت آپ کے ہے دونوں نواسے\nآجایےء گھر ہو گیا سونا میرے بابا\nکرتی تھی فغاں۔۔۔\n<<DIVIDER>>\nلاشے پہ محمد کے یہی کہتی تھی زہرا\nیوں مجھ سے خفا ہو کے نہ جانا میرے بابا\nکرتی تھی فغاں۔۔۔\n<<DIVIDER>>\nہے تیری شہادت سے ہر ایک سمت اداسی\nاب ہو گیا سنسان مدینہ میرے بابا\nکرتی تھی فغاں۔۔۔\n<<DIVIDER>>\nرونے بھی نہیں دیتا مجھے تم پہ زمانہ\nگھٹ گھٹ کے میں اب تک رہوں زندہ میرے بابا\nکرتی تھی فغاں۔۔۔\n<<DIVIDER>>\nاس طرح بھی بیٹی سے خفا ہوتا ہے کوی\nدیتی ہے صدا آپ کی زہرا میرے بابا\nکرتی تھی فغاں۔۔۔\n<<DIVIDER>>\nحسنین یہ کہتے ہیں نہیں پوچھتا کوی\nکیا کہہ کے انہیں دوں میں دلاسہ میرے بابا\nکرتی تھی فغاں۔۔۔\n<<DIVIDER>>\nپاس اپنے بلا لو تو سکوں آے گا مجھکو\nجب تم نہ رہے جی کے کروں کیا میرے بابا\nکرتی تھی فغاں۔۔۔\n<<DIVIDER>>\nکس طرح سنبھالیں گے علی بنت نبی کو\nغش میں ہے مگر لب پہ ہے نوحہ میرے بابا\nکرتی تھی فغاں۔۔۔\n<<DIVIDER>>\nبس بنت نبی کا تھا رشید ایک یہی نوحہ\nبابا میرے بابا میرے بابا میرے بابا\nکرتی تھی فغاں۔۔۔",
+  "styling": [
+    {
+      "insert": "کرتی تھی فغاں فاطمہ زہرا میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی ہوی اب آپ کی تنہا میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے چین بہت آپ کے ہے دونوں نواسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجایےء گھر ہو گیا سونا میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی فغاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشے پہ محمد کے یہی کہتی تھی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں مجھ سے خفا ہو کے نہ جانا میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی فغاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے تیری شہادت سے ہر ایک سمت اداسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ہو گیا سنسان مدینہ میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی فغاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرونے بھی نہیں دیتا مجھے تم پہ زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹ گھٹ کے میں اب تک رہوں زندہ میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی فغاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس طرح بھی بیٹی سے خفا ہوتا ہے کوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتی ہے صدا آپ کی زہرا میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی فغاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسنین یہ کہتے ہیں نہیں پوچھتا کوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کہہ کے انہیں دوں میں دلاسہ میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی فغاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپاس اپنے بلا لو تو سکوں آے گا مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تم نہ رہے جی کے کروں کیا میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی فغاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح سنبھالیں گے علی بنت نبی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غش میں ہے مگر لب پہ ہے نوحہ میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی فغاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبس بنت نبی کا تھا رشید ایک یہی نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا میرے بابا میرے بابا میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی فغاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Rasool-e-Khuda (s.a.w.s)",
+  "subcategory": "رسولِ خدا (ص)",
   "author": "Rasheed Shaheedi",
   "anjumans": [],
   "verified": false

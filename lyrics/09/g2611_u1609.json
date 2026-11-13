@@ -1,12 +1,761 @@
 {
   "remoteId": "g2611_u1609",
-  "title": "Hussain ki madad",
+  "title": "حسین کی مدد",
   "body": "یہ کہہ رہے ہیں مصطفیٰ\nیہ کہہ رہے ہیں مرتظی\nیہ کہہ رہے ہیں مجتبیٰ\nیہ کہہ رہے ہیں فاطمہ\nیہ کہہ رہے ہیں خود خدا\nحسین کی مدد کرو\n<<DIVIDER>>\nجو ناصر حسین تھے\nوہ خاک و خوں میں اڑ چکے\nزمیں پہ قاسم حزیں\nٹکڑیوں میں بٹ چکے\nجو بازو حسین تھا\nاسی کے ہاتھ کٹ چکے\nہے غازی اب بھی کہہ رہا\nحسین کی مدد کرو۔۔۔\n<<DIVIDER>>\nسناں جگر میں گھس چکی\nپسر بھی کیا دکھای دے\nہے بوڑھا باپ سوچتا\nصدا کوئی سنای دے\nنظر کا نور چھن چکا\nکیا اسے دکھائی دے\nوہ گھٹنیوں ہے چل پڑا\nحسین کی مدد کرو۔۔۔\n<<DIVIDER>>\nہر ایک طرف وہ زلزلہ\nمیان شرک و غرب تھا\nحسین کی صدا سنی عجیب\nاس میں کرب تھا\nرکا نہ اصغر حزیں\nیہی تو وقتِ حرب تھا\nیہ کہہ کے جھولے سے گرا\nحسین کی مدد کرو۔۔۔\n<<DIVIDER>>\nنہیں ہے شیر باوفا\nاکیلا رہ گیا حسین\nنہ اکبر حزیں رہا\nاکیلا رہ گیا حسین\nصغیر بھی چلا گیا\nاکیلا رہ گیا حسین\nبہن نے کرب سے کہا\nحسین کی مدد کرو۔۔۔\n<<DIVIDER>>\nتڑپ رہا ہے خاک و خون میں\nفاطمہ کے دل کا چین\nزمیں سے عرش تک بلند\nزینب حزیں کے بین\nہر ایک کی لاش لے گےء\nپڑا ہے لاشہء حسین\nلعیں ہے ہر کچل رہا\nحسین کی مدد کرو۔۔۔\n<<DIVIDER>>\nیہ کہہ رہی ہے فاطمہ\nہو ختم دن‌ ملال کے\nتم اشک جو بہاؤ گے\nرکھوں گی میں سنبھال کے\nیہ اشک لے کے جاؤں گی\nبھریں گے زخم لال کے\nعزا کا فرش ہے بچھا\nحسین کی مدد کرو۔۔۔\n<<DIVIDER>>\nعروج غیرتِ نبی\nکساء کا نور لازوال\nنہ شام کو بھلا سکا\nاسے ہے آج بھی ملال\nحسین کی ہے آرزو\nرکھے ہجاب کا خیال\nسروں پہ تم رکھو ردا\nحسین کی مدد کرو۔۔۔\n<<DIVIDER>>\nجو اپنا غم چھپا رہا ہے\nآج کا حسین ہے\nجو اشک دل بہا رہا ہے\nآج کا حسین ہے\nمدد کو جو بلا رہا\nہے آج کا حسین ہے\nسنو امام کی صدا\nحسین کی مدد کرو۔۔۔\n<<DIVIDER>>\nامام عصر کی نظر میں\nکیا عمل کا ہے مقام\nقمر عزا کے ساتھ ہم نے\nکیا کیےء ہیں جن کے کام\nگروہ کتنے بن گےء\nمگر اکیلا ہے امام\nیہ آج کی ہے کربلا\nحسین کی مدد کرو۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ کہہ رہے ہیں مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہے ہیں مرتظی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہے ہیں مجتبیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہے ہیں فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ رہے ہیں خود خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کی مدد کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو ناصر حسین تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ خاک و خوں میں اڑ چکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پہ قاسم حزیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑیوں میں بٹ چکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو بازو حسین تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی کے ہاتھ کٹ چکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے غازی اب بھی کہہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کی مدد کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسناں جگر میں گھس چکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسر بھی کیا دکھای دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بوڑھا باپ سوچتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدا کوئی سنای دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نظر کا نور چھن چکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اسے دکھائی دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ گھٹنیوں ہے چل پڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کی مدد کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر ایک طرف وہ زلزلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میان شرک و غرب تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کی صدا سنی عجیب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس میں کرب تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکا نہ اصغر حزیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی تو وقتِ حرب تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ کے جھولے سے گرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کی مدد کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہیں ہے شیر باوفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکیلا رہ گیا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ اکبر حزیں رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکیلا رہ گیا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغیر بھی چلا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکیلا رہ گیا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہن نے کرب سے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کی مدد کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتڑپ رہا ہے خاک و خون میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کے دل کا چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں سے عرش تک بلند"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب حزیں کے بین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک کی لاش لے گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پڑا ہے لاشہء حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعیں ہے ہر کچل رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کی مدد کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کہہ رہی ہے فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو ختم دن‌ ملال کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم اشک جو بہاؤ گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھوں گی میں سنبھال کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ اشک لے کے جاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھریں گے زخم لال کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزا کا فرش ہے بچھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کی مدد کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعروج غیرتِ نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کساء کا نور لازوال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ شام کو بھلا سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسے ہے آج بھی ملال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کی ہے آرزو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھے ہجاب کا خیال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سروں پہ تم رکھو ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کی مدد کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو اپنا غم چھپا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج کا حسین ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو اشک دل بہا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج کا حسین ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدد کو جو بلا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آج کا حسین ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنو امام کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کی مدد کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامام عصر کی نظر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا عمل کا ہے مقام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قمر عزا کے ساتھ ہم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کیےء ہیں جن کے کام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گروہ کتنے بن گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر اکیلا ہے امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ آج کی ہے کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کی مدد کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Qamar Hasnain",
   "anjumans": [],
   "verified": false

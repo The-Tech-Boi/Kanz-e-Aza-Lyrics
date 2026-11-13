@@ -1,7 +1,355 @@
 {
   "remoteId": "g2611_u1874",
-  "title": "Karbal ke maseeha",
+  "title": "کربل کے مسیحا",
   "body": "کربل کے مسیحا سے اسلام شفا مانگے\nتا حشر زمانے میں جینے کی دعا مانگے\n<<DIVIDER>>\nسجاد سکینہ سا قیدی نہ کوئی آے\nمحفوظ کوی قیدی ایسا نہ کیا جائے\nزنجیر دعا مانگے زندان بھی دعا مانگے\nکربل کے مسیحا سے۔۔۔\n<<DIVIDER>>\nبے پردہ رسن بستہ پابند محن زینب\nمجلس میں شہ دیں کی سرور کی بہن زینب\nکچھ آہ و بکا مانگے کچھ اشک عزا مانگے\nکربل کے مسیحا سے۔۔۔\n<<DIVIDER>>\nجس بچی کو نازوں سے شبیر نے پالا تھا\nپلکوں پہ بٹھایا تھا سینے پہ سلایا تھا\nزنداں میں وہی بچی خالق سے قضا مانگے\nکربل کے مسیحا سے۔۔۔\n<<DIVIDER>>\nمیت ہے پڑی جس کی زنداں کے اندھیرے میں\nتربت ہے بنی جس کی زنداں کے اندھیرے میں\nاس بچی کے بابا سے سورج بھی ضیا مانگے\nکربل کے مسیحا سے۔۔۔\n<<DIVIDER>>\nسجاد کے ہاتھوں پر لاشہ ہے سکینہ کا\nاللّٰہ لہو میں تر کرتہ ہے سکینہ کا\nیہ دیکھ کے زنداں بھی محشر کی فضا مانگے\nکربل کے مسیحا سے۔۔۔\n<<DIVIDER>>\nسجاد سکینہ کے عباس کے غم خواروں\nاب تم سے نبی زادی اے شہ کے عزاداروں\nتربت پہ سکینہ کی ماتم کی صدا مانگے\nکربل کے مسیحا سے۔۔۔\n<<DIVIDER>>\nکربل میں سکینہ کا دامن جو جلا یا رب\nامت نے یتیمہ کو پرسہ یہ دیا یا رب\nایمان اسی دامن کی اب تک بھی ہوا مانگے\nکربل کے مسیحا سے۔۔۔\n<<DIVIDER>>\nپڑھنے کے لئے مظہر زنداں میں یہ نوحہ\nآنکھوں سے بہانے کو طوفان پھر اشکوں کا\nصابر شہ والا سے زینب سے رضا مانگے\nکربل کے مسیحا سے۔۔۔",
+  "styling": [
+    {
+      "insert": "کربل کے مسیحا سے اسلام شفا مانگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تا حشر زمانے میں جینے کی دعا مانگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد سکینہ سا قیدی نہ کوئی آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محفوظ کوی قیدی ایسا نہ کیا جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنجیر دعا مانگے زندان بھی دعا مانگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربل کے مسیحا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے پردہ رسن بستہ پابند محن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجلس میں شہ دیں کی سرور کی بہن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ آہ و بکا مانگے کچھ اشک عزا مانگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربل کے مسیحا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس بچی کو نازوں سے شبیر نے پالا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پلکوں پہ بٹھایا تھا سینے پہ سلایا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں وہی بچی خالق سے قضا مانگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربل کے مسیحا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیت ہے پڑی جس کی زنداں کے اندھیرے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تربت ہے بنی جس کی زنداں کے اندھیرے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس بچی کے بابا سے سورج بھی ضیا مانگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربل کے مسیحا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد کے ہاتھوں پر لاشہ ہے سکینہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللّٰہ لہو میں تر کرتہ ہے سکینہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دیکھ کے زنداں بھی محشر کی فضا مانگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربل کے مسیحا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد سکینہ کے عباس کے غم خواروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تم سے نبی زادی اے شہ کے عزاداروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تربت پہ سکینہ کی ماتم کی صدا مانگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربل کے مسیحا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربل میں سکینہ کا دامن جو جلا یا رب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت نے یتیمہ کو پرسہ یہ دیا یا رب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایمان اسی دامن کی اب تک بھی ہوا مانگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربل کے مسیحا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپڑھنے کے لئے مظہر زنداں میں یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے بہانے کو طوفان پھر اشکوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صابر شہ والا سے زینب سے رضا مانگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربل کے مسیحا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

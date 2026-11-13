@@ -1,12 +1,473 @@
 {
   "remoteId": "g2611_u2161",
-  "title": "Maa bhi na ho",
+  "title": "ماں بھی نا ہو",
   "body": "احساسِ یتیمی ہے ویراں ہے علی کا گھر\nبن باپ کے یہ پہلی رات آئی ہے بچوں پر\nروتی تھیں کہیں زینب شبیر کہیں شبر\nفضہ نے جو دیکھا تو کہنے لگیں رو روکر\n<<DIVIDER>>\nماں بھی نا ہو دنیا میں اور باپ بھی مرجائے\nاللہ کسی پر بھی یہ وقت نہیں آئے\n<<DIVIDER>>\nیہ رات خدا جانے کس حال میں گزریگی\nبچوں کی نگاہوں میں تصویر ہے بابا کی\nبابا سے جدا ہوکر کس طرح جیا جائے\nاللہ کسی پر بھی۔۔۔\nماں بھی نا ہو دنیا۔۔۔\n<<DIVIDER>>\nمیت جہاں رکھی تھی زینب وہیں بیٹھی ہے\nعباس کے چہرے کو اب دیکھ کے روتی ہے\nکہتی ہے کوئی میرے بابا کو بلا لائے\nاللہ کسی پر بھی۔۔۔\nماں بھی نا ہو دنیا۔۔۔\n<<DIVIDER>>\nہاتھوں میں رقیہ کے بابا کا مصلہ ہے\nکلثوم کے ہاتھوں میں بابا کا عمامہ ہے\nبابا نہیں آئینگے اب کون یہ بتلائے\nاللہ کسی پر بھی۔۔۔\nماں بھی نا ہو دنیا۔۔۔\n<<DIVIDER>>\nماں یاد جو آئے تو ہو آتے تھے تربت پر\nرخصت کیا بابا کو حسنین نے یہ کہکر\nملنے کہاں جائینگے جب باپ کی یاد آئے\nاللہ کسی پر بھی۔۔۔\nماں بھی نا ہو دنیا۔۔۔\n<<DIVIDER>>\nاب مجھکو رلاتا ہے شہزادی کا وہ کہنا\nفضہ میرے بچوں سے تم دور نہیں رہنا\nماں باپ کے بن جینا مشکل ہے بہت ہائے\nاللہ کسی پر بھی۔۔۔\nماں بھی نا ہو دنیا۔۔۔\n<<DIVIDER>>\nاس عالمِ غربت میں ماں زندہ اگر ہوتی\nبن باپ کے بچوں کو سینے سے لگا لیتی\nآغازِ یتیمی ہے دل غم سے نہ پھٹ جائے\nاللہ کسی پر بھی۔۔۔\nماں بھی نا ہو دنیا۔۔۔\n<<DIVIDER>>\nبھولی ہے کہاں زینب وہ چومنا شانوں کو\nجب شام میں دیکھے گی رسی کے نشانوں کو\nیاد آئے گی بابا کی اُس وقت بہت ہائے\nاللہ کسی پر بھی۔۔۔\nماں بھی نا ہو دنیا۔۔۔\n<<DIVIDER>>\nذیشان و رضا ہائے نوحہ تھا یہ فضہ کا\nاب بیٹیوں کے سر پہ سایہ نہیں بابا کا\nمشکل ہے یتیموں پر یہ رات گزر جائے\nاللہ کسی پر بھی۔۔۔\nماں بھی نا ہو دنیا۔۔۔",
+  "styling": [
+    {
+      "insert": "احساسِ یتیمی ہے ویراں ہے علی کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن باپ کے یہ پہلی رات آئی ہے بچوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی تھیں کہیں زینب شبیر کہیں شبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فضہ نے جو دیکھا تو کہنے لگیں رو روکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں بھی نا ہو دنیا میں اور باپ بھی مرجائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ کسی پر بھی یہ وقت نہیں آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ رات خدا جانے کس حال میں گزریگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچوں کی نگاہوں میں تصویر ہے بابا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا سے جدا ہوکر کس طرح جیا جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ کسی پر بھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں بھی نا ہو دنیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیت جہاں رکھی تھی زینب وہیں بیٹھی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کے چہرے کو اب دیکھ کے روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی ہے کوئی میرے بابا کو بلا لائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ کسی پر بھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں بھی نا ہو دنیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھوں میں رقیہ کے بابا کا مصلہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلثوم کے ہاتھوں میں بابا کا عمامہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا نہیں آئینگے اب کون یہ بتلائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ کسی پر بھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں بھی نا ہو دنیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں یاد جو آئے تو ہو آتے تھے تربت پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخصت کیا بابا کو حسنین نے یہ کہکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملنے کہاں جائینگے جب باپ کی یاد آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ کسی پر بھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں بھی نا ہو دنیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب مجھکو رلاتا ہے شہزادی کا وہ کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فضہ میرے بچوں سے تم دور نہیں رہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں باپ کے بن جینا مشکل ہے بہت ہائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ کسی پر بھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں بھی نا ہو دنیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس عالمِ غربت میں ماں زندہ اگر ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن باپ کے بچوں کو سینے سے لگا لیتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آغازِ یتیمی ہے دل غم سے نہ پھٹ جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ کسی پر بھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں بھی نا ہو دنیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھولی ہے کہاں زینب وہ چومنا شانوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب شام میں دیکھے گی رسی کے نشانوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آئے گی بابا کی اُس وقت بہت ہائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ کسی پر بھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں بھی نا ہو دنیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nذیشان و رضا ہائے نوحہ تھا یہ فضہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب بیٹیوں کے سر پہ سایہ نہیں بابا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشکل ہے یتیموں پر یہ رات گزر جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ کسی پر بھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں بھی نا ہو دنیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Zeeshan Abidi",
   "anjumans": [],
   "verified": false

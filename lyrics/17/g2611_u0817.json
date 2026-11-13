@@ -1,12 +1,237 @@
 {
   "remoteId": "g2611_u0817",
-  "title": "Baba ke shehr may",
+  "title": "بابا کے شہر میں",
   "body": "زہرا غریب ہو گیء بابا کے شہر میں\nگھٹ گھٹ کے زندگی کٹی بابا کے شہر میں\n<<DIVIDER>>\nاس در کی منزلت سے تو شاہد ہے خود خدا\nبے اذن جبریل بھی داخل نہیں ہوا\nاس در پہ آگ دیکھلی بابا کے شہر میں\nزہرا غریب ہو گیء۔۔۔\n<<DIVIDER>>\nاپنے نبی کی بیٹی کو حق نہ دیا گیا\nحق کی گواہی دینے کو کوئی نہیں ملا\nزہرا پکارتی رہی بابا کے شہر میں\nزہرا غریب ہو گیء۔۔۔\n<<DIVIDER>>\nہے فاطمہ کے واسطے محشر سے کم نہیں\nہاتھوں میں مرتظی کے ہے رسیاں بندھی ہوی\nغربت علی کی دیکھلی بابا کے شہر میں\nزہرا غریب ہو گیء۔۔۔\n<<DIVIDER>>\nرو رو کے غم میں باپ کے جاتی رہی نظر\nاٹھارہ سال میں ہوی ختم آپ کی کمر\nکتنی ضعیف ہو گیء بابا کے شہر میں\nزہرا غریب ہو گیء۔۔۔\n<<DIVIDER>>\nغم ہو بیان کس طرح ام الحسین کا\nکافی ہے رونے کے لئے علوی یہی صدا\nبیٹی تڑپ کے مر گیء بابا کے شہر میں\nزہرا غریب ہو گیء۔۔۔",
+  "styling": [
+    {
+      "insert": "زہرا غریب ہو گیء بابا کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹ گھٹ کے زندگی کٹی بابا کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس در کی منزلت سے تو شاہد ہے خود خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے اذن جبریل بھی داخل نہیں ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس در پہ آگ دیکھلی بابا کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا غریب ہو گیء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے نبی کی بیٹی کو حق نہ دیا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق کی گواہی دینے کو کوئی نہیں ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا پکارتی رہی بابا کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا غریب ہو گیء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے فاطمہ کے واسطے محشر سے کم نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں میں مرتظی کے ہے رسیاں بندھی ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غربت علی کی دیکھلی بابا کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا غریب ہو گیء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو رو کے غم میں باپ کے جاتی رہی نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ سال میں ہوی ختم آپ کی کمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنی ضعیف ہو گیء بابا کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا غریب ہو گیء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم ہو بیان کس طرح ام الحسین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کافی ہے رونے کے لئے علوی یہی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی تڑپ کے مر گیء بابا کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا غریب ہو گیء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Ali Mohammad Alvi",
   "anjumans": [],
   "verified": false

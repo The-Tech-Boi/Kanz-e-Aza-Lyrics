@@ -1,7 +1,314 @@
 {
   "remoteId": "g2611_u2214",
-  "title": "Mai khaake karbala",
+  "title": "میں خاک کربلا",
   "body": "میں خاک کربلا ہوں رتبہ میرا جدا ہے\nبنت علی نے مجھکو چادر بنا لیا ہے\n<<DIVIDER>>\nکرتے ہیں رشک مجھ پر کوثر کے بھی کنارے\nزینب کے سر میں میں نے دو سال ہیں گزارے\nمیرا ہر ایک ذرّہ ہر ظلم کا گواہ ہے\nمیں خاک کربلا ہوں...\n<<DIVIDER>>\nاکبر جوان قاسم غازی سے چند تارے\nزین الابا نے میری آگوش میں اتارے\nیعنی لہو نبی کا مجھ میں ملا ہوا ہے\nمیں خاک کربلا ہوں...\n<<DIVIDER>>\nروتی ہوں یاد کر کے وہ بیکسی کا منظر\nمولا چھپا رہے تھے مجھ میں جو لاشہ اصغر\nہاں اس دن سے آج تک نہ مجھکو سکوں ملا ہے\nمیں خاک کربلا ہوں...\n<<DIVIDER>>\nشہدا کربلا کے زخموں کو میں نے چوما\nزہرہ کی بیٹیوں کے قدموں کو میں نے چوما\nاس واسطے ہی میری تاثیر میں شفا ہے\nمیں خاک کربلا ہوں...\n<<DIVIDER>>\nاکبر کی لاش پر جب شببر جارہے تھے\nاٹھتے تھے بیٹھتے تھے اور لڑکھڑا رہے تھے\nمنظر وہ اب بھی میری آنکھوں میں پھر رہا ہے\nمیں خاک کربلا ہوں...\n<<DIVIDER>>\nاے زایرین مولا چلنا یہاں سنبھل کر\nقرآن فاطمہ کا بکھرا ہوا ہے مجھ پر\nنہ جانے کس جگہ پر کس کا لہو گرا ہے\nمیں خاک کربلا ہوں...\n<<DIVIDER>>\nتوقیر تو بھی کرلے آل عبا کا ماتم\nجا شام میں گئی تھی اس بے ردا کا ماتم\nممنون ماتمی کی مقدومہ فاطمہ ہے\nمیں خاک کربلا ہوں...",
+  "styling": [
+    {
+      "insert": "میں خاک کربلا ہوں رتبہ میرا جدا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنت علی نے مجھکو چادر بنا لیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرتے ہیں رشک مجھ پر کوثر کے بھی کنارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کے سر میں میں نے دو سال ہیں گزارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا ہر ایک ذرّہ ہر ظلم کا گواہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں خاک کربلا ہوں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر جوان قاسم غازی سے چند تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زین الابا نے میری آگوش میں اتارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یعنی لہو نبی کا مجھ میں ملا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں خاک کربلا ہوں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتی ہوں یاد کر کے وہ بیکسی کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا چھپا رہے تھے مجھ میں جو لاشہ اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں اس دن سے آج تک نہ مجھکو سکوں ملا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں خاک کربلا ہوں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہدا کربلا کے زخموں کو میں نے چوما"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرہ کی بیٹیوں کے قدموں کو میں نے چوما"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس واسطے ہی میری تاثیر میں شفا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں خاک کربلا ہوں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر کی لاش پر جب شببر جارہے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھتے تھے بیٹھتے تھے اور لڑکھڑا رہے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منظر وہ اب بھی میری آنکھوں میں پھر رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں خاک کربلا ہوں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے زایرین مولا چلنا یہاں سنبھل کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن فاطمہ کا بکھرا ہوا ہے مجھ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے کس جگہ پر کس کا لہو گرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں خاک کربلا ہوں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتوقیر تو بھی کرلے آل عبا کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا شام میں گئی تھی اس بے ردا کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ممنون ماتمی کی مقدومہ فاطمہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں خاک کربلا ہوں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

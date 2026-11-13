@@ -1,12 +1,383 @@
 {
   "remoteId": "g2611_u0796",
-  "title": "Baap se baatein karo",
+  "title": "باپ سے باتیں کرو",
   "body": "ہاے جواں لال کو مقتل سے جب اٹھا کے چلے\nحسین روتے رہے اور پسر سے کہتے رہے\n<<DIVIDER>>\nخاموش نہ ہو باپ سے باتیں کرو اکبر\nہم تم کو ملا دیں گے پھپھی جان سے جا کر\n<<DIVIDER>>\nاے لال کلیجے میں ابھی درد تو ہوگا\nنکلا ہے لہو اتنا بدن سرد تو ہوگا\nتم چپ ہو تو چلتے ہیں میرے قلب پہ خنجر\nخاموش نہ ہو۔۔۔\n<<DIVIDER>>\nقدموں کی طرف سے ہے اٹھاے ہوے بابا\nاور سر کی طرف سے سنبھالے ہوے زہرا\nآنکھوں کو زرا کھول کے دیکھو تو یہ منظر\nخاموش نہ ہو۔۔۔\n<<DIVIDER>>\nتم خون اگلتے ہو تو بھر جاتا ہے چلو\nبتلاؤ کرے ضبط کہاں تک میرے آنسوں\nبیٹا نکل آے گا کلیجہ میرا باہر\nخاموش نہ ہو۔۔۔\n<<DIVIDER>>\nدریا پہ گےء ہونگے جو لڑتے ہوے بیٹا\nجلدی سے بتاؤ میرا پھٹتا ہے کلیجہ\nکس حال میں ہے لاشہء عباس دلاور\nخاموش نہ ہو۔۔۔\n<<DIVIDER>>\nتم خود بھی سمجھتے ہو یہ مجبوری میری ہے\nآہستہ جو چلتا ہوں کمر ٹوٹی ہوئ ہے\nتھوڑا سا سفر باقی ہے ہمت کرو دلبر\nخاموش نہ ہو۔۔۔\n<<DIVIDER>>\nبیٹا ہمیں میدان کی روداد سناؤ\nکیا حال ہے اب پیاس کا بابا کو بتاؤ\nانگوٹھی دہن سے کیوں نکل آئ ہے باہر\nخاموش نہ ہو۔۔۔\n<<DIVIDER>>\nماتھے سے پسینہ تو ابھی صاف کیا ہے\nکیا زخم کی تکلیف نے منہ کھول دیا ہے\nسانسیں کیوں میری جان نہیں آتی برابر\nخاموش نہ ہو۔۔۔\n<<DIVIDER>>\nشہ بولے تکلم کے اٹھو آ گیا خیمہ\nسینے سے زرا ہاتھ ہٹا لو میرے بیٹا\nاس حال میں دیکھے گی تو مر جاۓ گی مادر\nخاموش نہ ہو۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے جواں لال کو مقتل سے جب اٹھا کے چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین روتے رہے اور پسر سے کہتے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاموش نہ ہو باپ سے باتیں کرو اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم تم کو ملا دیں گے پھپھی جان سے جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے لال کلیجے میں ابھی درد تو ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکلا ہے لہو اتنا بدن سرد تو ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم چپ ہو تو چلتے ہیں میرے قلب پہ خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش نہ ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقدموں کی طرف سے ہے اٹھاے ہوے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سر کی طرف سے سنبھالے ہوے زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں کو زرا کھول کے دیکھو تو یہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش نہ ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم خون اگلتے ہو تو بھر جاتا ہے چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتلاؤ کرے ضبط کہاں تک میرے آنسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹا نکل آے گا کلیجہ میرا باہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش نہ ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدریا پہ گےء ہونگے جو لڑتے ہوے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلدی سے بتاؤ میرا پھٹتا ہے کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس حال میں ہے لاشہء عباس دلاور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش نہ ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم خود بھی سمجھتے ہو یہ مجبوری میری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ جو چلتا ہوں کمر ٹوٹی ہوئ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھوڑا سا سفر باقی ہے ہمت کرو دلبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش نہ ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹا ہمیں میدان کی روداد سناؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا حال ہے اب پیاس کا بابا کو بتاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انگوٹھی دہن سے کیوں نکل آئ ہے باہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش نہ ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماتھے سے پسینہ تو ابھی صاف کیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا زخم کی تکلیف نے منہ کھول دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سانسیں کیوں میری جان نہیں آتی برابر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش نہ ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہ بولے تکلم کے اٹھو آ گیا خیمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے سے زرا ہاتھ ہٹا لو میرے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس حال میں دیکھے گی تو مر جاۓ گی مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش نہ ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

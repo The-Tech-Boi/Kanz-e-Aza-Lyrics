@@ -1,12 +1,564 @@
 {
   "remoteId": "g2611_u3655",
-  "title": "Zindan mein zainab",
+  "title": "زنداں میں زینب",
   "body": "زنداں میں زینب بین کرے\nمیرا کنبہ سارا قتل ہوا\n<<DIVIDER>>\nمیری چادر لٹ گیء کربلا میں\nبیمار بھتیجا روتا رہا\nزنداں میں زینب۔۔۔\n<<DIVIDER>>\nپامال ہوا بھای کا بدن\nمیرے بال کھلے ہاتھوں میں رسن\nاکبر کا جگر برچھی سے چھدا\nاصغر کو میرے پانی نہ ملا\nزنداں میں زینب۔۔۔\n<<DIVIDER>>\nکانٹوں پہ چلی ہوں اے بھائی\nہر ایک قدم تیری یاد آی\nبازار میں پتھر برسے ہے\nدربار میں تھی میں بے پردہ\nزنداں میں زینب۔۔۔\n<<DIVIDER>>\nآنکھیں میری ترسی رونے کو\nترسی ہے سکینہ سونے کو\nاعدا نے مجھے رونے نہ دیا\nبچی کو تیری سونے نہ دیا\nزنداں میں زینب۔۔۔\n<<DIVIDER>>\nتیری گردن اور ظالم کی چھری\nاے بھائی میں کچھ بھی کر نہ سکی\nرونے کے سوا میں کیا کرتی\nآنکھوں سے بہا خوں کا دریا\nزنداں میں زینب۔۔۔\n<<DIVIDER>>\nماتم میں کروں تیرا کیسے\nآزاد ہو پہلے ہاتھ میرے\nلیکن‌ ہے میرا وعدہ تجھ سے\nتا حشر رہے گا ذکر تیرا\nزنداں میں زینب۔۔۔\n<<DIVIDER>>\nتیرے بن جو وطن جاے گی بہن\nزندہ تو نہ رہ پاے گی بہن\nگھر قبر لگے گا زینب کو\nیاد آے گا بھیا ساتھ تیرا\nزنداں میں زینب۔۔۔\n<<DIVIDER>>\nپوچھے گی اگر صغرا مجھ سے\nکیوں آے نہیں بابا میرے\nمیں کیسے کہوں گی اے صغرا\nبابا نے بسای کربوبلا\nزنداں میں زینب۔۔۔\n<<DIVIDER>>\nمیں عون و محمد کے ہجرے\nدیکھوں گی بھلا خالی کیسے\nسب ضبط کے بندھن ٹوٹیں گے\nیاد آیینگے ابن عبداللہ\nزنداں میں زینب۔۔۔\n<<DIVIDER>>\nزنداں میں سکینہ مر گیء ہے\nدنیا سے سفر وہ کر گیء ہے\nنکلا نہ رہای کا ارماں\nتابوت سکینہ بھی نہ اٹھا\nزنداں میں زینب۔۔۔\n<<DIVIDER>>\nفرحان فغاں تھی زینب کی\nجو شام کے زنداں میں گونجی\nریحان فغاں وہ درد بھری\nتھا ثانیء زہرا کا نوحہ\nزنداں میں زینب۔۔۔",
+  "styling": [
+    {
+      "insert": "زنداں میں زینب بین کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا کنبہ سارا قتل ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری چادر لٹ گیء کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار بھتیجا روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپامال ہوا بھای کا بدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بال کھلے ہاتھوں میں رسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کا جگر برچھی سے چھدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کو میرے پانی نہ ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکانٹوں پہ چلی ہوں اے بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک قدم تیری یاد آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں پتھر برسے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دربار میں تھی میں بے پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھیں میری ترسی رونے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ترسی ہے سکینہ سونے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اعدا نے مجھے رونے نہ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچی کو تیری سونے نہ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیری گردن اور ظالم کی چھری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بھائی میں کچھ بھی کر نہ سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے کے سوا میں کیا کرتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے بہا خوں کا دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماتم میں کروں تیرا کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آزاد ہو پہلے ہاتھ میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن‌ ہے میرا وعدہ تجھ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تا حشر رہے گا ذکر تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے بن جو وطن جاے گی بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ تو نہ رہ پاے گی بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر قبر لگے گا زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آے گا بھیا ساتھ تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپوچھے گی اگر صغرا مجھ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں آے نہیں بابا میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے کہوں گی اے صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا نے بسای کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں عون و محمد کے ہجرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھوں گی بھلا خالی کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب ضبط کے بندھن ٹوٹیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آیینگے ابن عبداللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنداں میں سکینہ مر گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا سے سفر وہ کر گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکلا نہ رہای کا ارماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تابوت سکینہ بھی نہ اٹھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرحان فغاں تھی زینب کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو شام کے زنداں میں گونجی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ریحان فغاں وہ درد بھری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا ثانیء زہرا کا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

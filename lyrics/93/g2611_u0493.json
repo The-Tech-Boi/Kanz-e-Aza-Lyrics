@@ -1,12 +1,386 @@
 {
   "remoteId": "g2611_u0493",
-  "title": "Amma laut aayi hoo",
+  "title": "اماں لوٹ آئی ہوں",
   "body": "اماں لوٹ آئی ہوں میں\nداغ دل پہ بہتر کے لائی ہوں میں\n<<DIVIDER>>\nجب گئے تھے یہا ں سے تو گھر تھا بھرا\nگُلستان تیرا پھولوں سے آباد تھا\nہائے دشتِ ستم ہائے کرب و بلا\nلُوٹ کر لے گئے سب بھرا گھر میرا\nسب لُوٹا آئی تیری کمائی ہوں میں\nاماں لوٹ آئی ہوں۔۔۔\n<<DIVIDER>>\nقاسم و اکبر و اصغر دلربا\nسب کے سب ہو گئے کربلا میں جُدا\nشیر جیسا وہ عباس بھائی میرا\nکٹ گئے ہاتھ ساحل پہ مارا گیا\nنہر پہ بے کفن چھوڑ آئی ہوں میں\nاماں لوٹ آئی ہوں۔۔۔\n<<DIVIDER>>\nچومتی تھی بڑے پیار سے جو گلا\nدشتِ غربت میں تن سے ہوا وہ جُدا\nاک قطرہ دمِ ذبح مل نہ سکا\nلاڈلا تیرا پیاسا جہاں سے گیا\nخون بھرا پیر ہن ساتھ لائی ہوں میں\nاماں لوٹ آئی ہوں۔۔۔\n<<DIVIDER>>\nبعدِ شبیر اتنا بڑا حوصلہ\nچھین کر لے گئے چادریں اشقیائ\nخیمئہِ اہل پر تھے رسول خدا\nآگ لگتی گئی خاک ہوتا گیا\nجلتے خیموں سے عابد کو لائی ہوں میں\nاماں لوٹ آئی ہوں۔۔۔\n<<DIVIDER>>\nجا بجا پا برہنہ یونہی سر کُھلے\nشام و کوفہ کی گلیوں میں کھینچے گئے\nکیاکہوں والیئِ شام کے سامنے\nہاتھ تھے رسیوں میں ہمارے بندھے\nنیل بازو کے دکھلانے آئی ہوں میں\nاماں لوٹ آئی ہوں۔۔۔\n<<DIVIDER>>\nوہ دلاری سکینہ بھتیجی میری\nکھا رہی تھی تماچے میں چُپ تھی کھڑی\nہائے رے بے بسی ہائے بیچارگی\nوہ ستم جھیلتے جھیلتے مر گئی\nشام کی قید میں چھوڑ آئی ہوں میں\nاماں لوٹ آئی ہوں۔۔۔",
+  "styling": [
+    {
+      "insert": "اماں لوٹ آئی ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داغ دل پہ بہتر کے لائی ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب گئے تھے یہا ں سے تو گھر تھا بھرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گُلستان تیرا پھولوں سے آباد تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے دشتِ ستم ہائے کرب و بلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُوٹ کر لے گئے سب بھرا گھر میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب لُوٹا آئی تیری کمائی ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں لوٹ آئی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاسم و اکبر و اصغر دلربا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کے سب ہو گئے کربلا میں جُدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیر جیسا وہ عباس بھائی میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کٹ گئے ہاتھ ساحل پہ مارا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہر پہ بے کفن چھوڑ آئی ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں لوٹ آئی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچومتی تھی بڑے پیار سے جو گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشتِ غربت میں تن سے ہوا وہ جُدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک قطرہ دمِ ذبح مل نہ سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاڈلا تیرا پیاسا جہاں سے گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون بھرا پیر ہن ساتھ لائی ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں لوٹ آئی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعدِ شبیر اتنا بڑا حوصلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھین کر لے گئے چادریں اشقیائ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمئہِ اہل پر تھے رسول خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگ لگتی گئی خاک ہوتا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے خیموں سے عابد کو لائی ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں لوٹ آئی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجا بجا پا برہنہ یونہی سر کُھلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام و کوفہ کی گلیوں میں کھینچے گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیاکہوں والیئِ شام کے سامنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ تھے رسیوں میں ہمارے بندھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیل بازو کے دکھلانے آئی ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں لوٹ آئی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ دلاری سکینہ بھتیجی میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا رہی تھی تماچے میں چُپ تھی کھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے رے بے بسی ہائے بیچارگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ستم جھیلتے جھیلتے مر گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کی قید میں چھوڑ آئی ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں لوٹ آئی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Wapasi-e-Ahle Haram",
+  "subcategory": "واپسی اہل حرم",
   "anjumans": [],
   "verified": false
 }

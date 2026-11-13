@@ -1,12 +1,415 @@
 {
   "remoteId": "g2611_u1982",
-  "title": "Khaali jhoola hai",
+  "title": "خالی جھولا ہے",
   "body": "جھولے میں کھیلنے والے\n<<DIVIDER>>\nاے میرے غنچہ دہن خالی جھولا ہے تیرا\nتھا یہ ایک ماں کا سخن خالی جھولا ہے تیرا\n<<DIVIDER>>\nراس آیا نہیں پردیس میں جینا تجھکو\nڈھونڈتی پھرتی ہے گودوں میں سکینہ تجھکو\nکیسے بھولے گی بہن خالی جھولا ہے تیرا\nاے میرے غنچہ دہن۔۔۔\n<<DIVIDER>>\nتجھکو تنہائی بہت قبر کی تڑپاے گی\nنیند جنگل میں میرے لال کہاں آے گی\nہے یہی رنج و محن خالی جھولا ہے تیرا\nاے میرے غنچہ دہن۔۔۔\n<<DIVIDER>>\nبہہ گےء خواب سبھی خون کے فوارے میں\nعرش سے پہلے میرا چاند تھا گہوارے میں\nلگ گےء ہاے گہن خالی جھولا ہے تیرا\nاے میرے غنچہ دہن۔۔۔\n<<DIVIDER>>\nلوٹ آئے گا تو لوری سناؤں گی تجھے\nاپنی آغوش میں میں لے کے سلاوں گی تجھے\nہوگی دن بھر کی تھکن خالی جھولا ہے تیرا\nاے میرے غنچہ دہن۔۔۔\n<<DIVIDER>>\nماں کی آغوش سے جاتی نہیں خوشبو تیری\nاس کو تصویر نظر آتی ہر سو تیری\nدل میں ہوتی ہے چبھن خالی جھولا ہے تیرا\nاے میرے غنچہ دہن۔۔۔\n<<DIVIDER>>\nمیری آغوش میں آ جا کہ سواروں تجھکو\nتو ہی بتلا دے کہ کیا کہہ کے پکاروں تجھکو\nنازش شاہ زمن خالی جھولا ہے تیرا\nاے میرے غنچہ دہن۔۔۔\n<<DIVIDER>>\nپوچھے ممتا سے کہ کیا ہوتا ہے اولاد کا داغ\nکر دیا موت نے گل دشت میں جھولے کا چراغ\nاب کہاں کوی کرن خالی جھولا ہے تیرا\nاے میرے غنچہ دہن۔۔۔\n<<DIVIDER>>\nگرمیء قبر تجھے آب و ہوا کیا دے گی\nیہ کڑی دھوپ تجھے دشت میں جھلسہ دے گی\nپھول جیسا ہے بدن خالی ہے جھولا تیرا\nاے میرے غنچہ دہن۔۔۔\n<<DIVIDER>>\nکوی ماں عامر و اختر یہ صدا دیتی ہے\nاپنی آواز سے جھولے کو ہلا دیتی ہے\nآ بھی جا جان چمن خالی جھولا ہے تیرا\nاے میرے غنچہ دہن۔۔۔",
+  "styling": [
+    {
+      "insert": "جھولے میں کھیلنے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے میرے غنچہ دہن خالی جھولا ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا یہ ایک ماں کا سخن خالی جھولا ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراس آیا نہیں پردیس میں جینا تجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈتی پھرتی ہے گودوں میں سکینہ تجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے بھولے گی بہن خالی جھولا ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتجھکو تنہائی بہت قبر کی تڑپاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند جنگل میں میرے لال کہاں آے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یہی رنج و محن خالی جھولا ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہہ گےء خواب سبھی خون کے فوارے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عرش سے پہلے میرا چاند تھا گہوارے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگ گےء ہاے گہن خالی جھولا ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلوٹ آئے گا تو لوری سناؤں گی تجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی آغوش میں میں لے کے سلاوں گی تجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی دن بھر کی تھکن خالی جھولا ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں کی آغوش سے جاتی نہیں خوشبو تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کو تصویر نظر آتی ہر سو تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں ہوتی ہے چبھن خالی جھولا ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری آغوش میں آ جا کہ سواروں تجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو ہی بتلا دے کہ کیا کہہ کے پکاروں تجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نازش شاہ زمن خالی جھولا ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپوچھے ممتا سے کہ کیا ہوتا ہے اولاد کا داغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر دیا موت نے گل دشت میں جھولے کا چراغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کہاں کوی کرن خالی جھولا ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگرمیء قبر تجھے آب و ہوا کیا دے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کڑی دھوپ تجھے دشت میں جھلسہ دے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھول جیسا ہے بدن خالی ہے جھولا تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوی ماں عامر و اختر یہ صدا دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی آواز سے جھولے کو ہلا دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ بھی جا جان چمن خالی جھولا ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Akhtar Sirsvi",
   "anjumans": [],
   "verified": false

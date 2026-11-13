@@ -1,7 +1,323 @@
 {
   "remoteId": "g2611_u2766",
-  "title": "Ro rahi hai aaj",
+  "title": "رو رہی ہے آج",
   "body": "رو رہی ہے آج تک شبیر خاک کربلا\nگو معلیٰ میں ہوی افسوس تو ذبح ہوا\nرو رہی ہے آج تک۔۔۔\n<<DIVIDER>>\nجب چھپایا میں نے دامن میں تیرے بے شیر کو\nظالموں نے نیزوں سے سینہ میرا چھلنی کیا\nگو معلیٰ میں ہوی افسوس تو ذبح ہوا\nرو رہی ہے آج تک۔۔۔\n<<DIVIDER>>\nتھر تھرای خوب پیٹی اور روی خوب تھی\nحسن کی بیوہ کے ارمانوں کا سہرا جب لٹا\nگو معلیٰ میں ہوی افسوس تو ذبح ہوا\nرو رہی ہے آج تک۔۔۔\n<<DIVIDER>>\nروبرو میرے ہوے تھے انبیاء پر ظلم بھی\nلاشہء اکبر تڑپتا مجھ سے نہ دیکھا گیا\nگو معلیٰ میں ہوی افسوس تو ذبح ہوا\nرو رہی ہے آج تک۔۔۔\n<<DIVIDER>>\nبچوں کو یہ آس تھی کہ چچا پانی لاینگے\nپانی کا نہ پہنچنا غازی کے دل کو کھا گیا\nگو معلیٰ میں ہوی افسوس تو ذبح ہوا\nرو رہی ہے آج تک۔۔۔\n<<DIVIDER>>\nگو میں پردہ بن گیء تھی وارث تطہیر کا\nخاک سر زینب میں یا رب وقت کیسا آ گیا\nگو معلیٰ میں ہوی افسوس تو ذبح ہوا\nرو رہی ہے آج تک۔۔۔\n<<DIVIDER>>\nلاشہء عون و محمد پر کوی وارث نہ تھا\nصبر زینب دیکھ کر منہ کو کلیجہ آ گیا\nگو معلیٰ میں ہوی افسوس تو ذبح ہوا\nرو رہی ہے آج تک۔۔۔\n<<DIVIDER>>\nمنکر سجدۂ آدم ہو کے شیطان ہو گیا\nسجدۂ شبیر نجفی عظمت یزداں ہوا\nگو معلیٰ میں ہوی افسوس تو ذبح ہوا\nرو رہی ہے آج تک۔۔۔",
+  "styling": [
+    {
+      "insert": "رو رہی ہے آج تک شبیر خاک کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گو معلیٰ میں ہوی افسوس تو ذبح ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رہی ہے آج تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب چھپایا میں نے دامن میں تیرے بے شیر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالموں نے نیزوں سے سینہ میرا چھلنی کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گو معلیٰ میں ہوی افسوس تو ذبح ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رہی ہے آج تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھر تھرای خوب پیٹی اور روی خوب تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسن کی بیوہ کے ارمانوں کا سہرا جب لٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گو معلیٰ میں ہوی افسوس تو ذبح ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رہی ہے آج تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروبرو میرے ہوے تھے انبیاء پر ظلم بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہء اکبر تڑپتا مجھ سے نہ دیکھا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گو معلیٰ میں ہوی افسوس تو ذبح ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رہی ہے آج تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچوں کو یہ آس تھی کہ چچا پانی لاینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی کا نہ پہنچنا غازی کے دل کو کھا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گو معلیٰ میں ہوی افسوس تو ذبح ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رہی ہے آج تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگو میں پردہ بن گیء تھی وارث تطہیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک سر زینب میں یا رب وقت کیسا آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گو معلیٰ میں ہوی افسوس تو ذبح ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رہی ہے آج تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشہء عون و محمد پر کوی وارث نہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبر زینب دیکھ کر منہ کو کلیجہ آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گو معلیٰ میں ہوی افسوس تو ذبح ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رہی ہے آج تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنکر سجدۂ آدم ہو کے شیطان ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدۂ شبیر نجفی عظمت یزداں ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گو معلیٰ میں ہوی افسوس تو ذبح ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رہی ہے آج تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

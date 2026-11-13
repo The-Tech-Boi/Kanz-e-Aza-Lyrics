@@ -1,12 +1,469 @@
 {
   "remoteId": "g2611_u2881",
-  "title": "Sakina ka laasha",
+  "title": "سکینہ کا لاشہ",
   "body": "انا للہ انا للہ\n<<DIVIDER>>\nچلے آؤ عباس دینے کو کاندھا\nاٹھاتے ہیں عابد سکینہ کا لاشہ\n<<DIVIDER>>\nقیامت ہے زندان میں آج برپا\nاٹھاتے ہیں عابد سکینہ کا لاشہ\n<<DIVIDER>>\nہے دستور یہ پردے داروں کے گھر کا\nیہ بیٹی کا لاشہ ہے شب میں اٹھے گا\nستاروں سے کہہ دو کہ کردے اندھیرا\nاٹھاتے ہیں عابد سکینہ کا لاشہ\nچلے آؤ عباس۔۔۔\n<<DIVIDER>>\nفلک ہل رہا ہے زمین کانپتی ہے\nلبوں پر مسافر کے ناد علی ہے\nامامت کے ہاتھوں میں ہوتا ہے لرزا\nاٹھاتے ہیں عابد سکینہ کا لاشہ\nچلے آؤ عباس۔۔۔\n<<DIVIDER>>\nگلے سے لگالے بدن کو اٹھالے\nجنازے کو سجاد کیسے سنبھالے\nہے دھیان اس کی ٹوٹی ہوئ پسلیوں کا\nاٹھاتے ہیں عابد سکینہ کا لاشہ\nچلے آؤ عباس۔۔۔\n<<DIVIDER>>\nدعا کر رہی تھی مسلسل قضاء کی\nبڑی آرزو تھی اسے کربلا کی\nچلی اپنے بابا سے ملنے کو دکھیا\nاٹھاتے ہیں عابد سکینہ کا لاشہ\nچلے آؤ عباس۔۔۔\n<<DIVIDER>>\nوہ کہتی تھی کب گھر کو جاے نگے بھای\nیہ حسرت قضاء بھی مٹانے نہ پای\nمدینے کی جانب ہے دکھیا کا چہرہ\nاٹھاتے ہیں عابد سکینہ کا لاشہ\nچلے آؤ عباس۔۔۔\n<<DIVIDER>>\nاسے کیا خبر تھی کہ ایسے لٹے گی\nنہ بیٹا رہے گا نہ بیٹی رہے گی\nنکل جاے دم ہی نہ اصغر کی ماں کا\nاٹھاتے ہیں عابد سکینہ کا لاشہ\nچلے آؤ عباس۔۔۔\n<<DIVIDER>>\nوطن میں غریب الوطن وہ علی تھا\nہے پردیس میں یہ علی بے سہارا\nاٹھایا تھا حیدر نے زہرا کا لاشہ\nاٹھاتے ہیں عابد سکینہ کا لاشہ\nچلے آؤ عباس۔۔۔\n<<DIVIDER>>\nتکلم یہ میت ہے بے کس بہن کی\nکمر جھک رہی ہے غریب الوطن ہے\nبہتر جنازوں سے بھاری جنازہ\nاٹھاتے ہیں عابد سکینہ کا لاشہ\nچلے آؤ عباس۔۔۔",
+  "styling": [
+    {
+      "insert": "انا للہ انا للہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلے آؤ عباس دینے کو کاندھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھاتے ہیں عابد سکینہ کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقیامت ہے زندان میں آج برپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھاتے ہیں عابد سکینہ کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے دستور یہ پردے داروں کے گھر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بیٹی کا لاشہ ہے شب میں اٹھے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستاروں سے کہہ دو کہ کردے اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھاتے ہیں عابد سکینہ کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفلک ہل رہا ہے زمین کانپتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لبوں پر مسافر کے ناد علی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امامت کے ہاتھوں میں ہوتا ہے لرزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھاتے ہیں عابد سکینہ کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگلے سے لگالے بدن کو اٹھالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنازے کو سجاد کیسے سنبھالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے دھیان اس کی ٹوٹی ہوئ پسلیوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھاتے ہیں عابد سکینہ کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدعا کر رہی تھی مسلسل قضاء کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑی آرزو تھی اسے کربلا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلی اپنے بابا سے ملنے کو دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھاتے ہیں عابد سکینہ کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ کہتی تھی کب گھر کو جاے نگے بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ حسرت قضاء بھی مٹانے نہ پای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدینے کی جانب ہے دکھیا کا چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھاتے ہیں عابد سکینہ کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسے کیا خبر تھی کہ ایسے لٹے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ بیٹا رہے گا نہ بیٹی رہے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکل جاے دم ہی نہ اصغر کی ماں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھاتے ہیں عابد سکینہ کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوطن میں غریب الوطن وہ علی تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے پردیس میں یہ علی بے سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھایا تھا حیدر نے زہرا کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھاتے ہیں عابد سکینہ کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتکلم یہ میت ہے بے کس بہن کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کمر جھک رہی ہے غریب الوطن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتر جنازوں سے بھاری جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھاتے ہیں عابد سکینہ کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

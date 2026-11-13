@@ -1,7 +1,631 @@
 {
   "remoteId": "g2611_u3057",
-  "title": "Sheh ke azadaro",
+  "title": "شہ کے عزاداروں",
   "body": "عزاداروں\nتم فاطمہ زہرا کی دعا ہو\nسلامت رہو\nشہ کے عزاداروں سلامت رہو\n<<DIVIDER>>\nتم کو سبق عشق کے سب یاد ہیں\nتم سے عزاخانے یہ آباد ہیں\nاپنے مصلے پہ تمہارے لیۓ\nمحوِ دعا سید سجاد ہیں\nاپنا پیعام عزا جاری رکھو\nشہ کے عزاداروں۔۔۔\n<<DIVIDER>>\nآگ دل ظلم میں ان سے لگی\nآنسوں تمہارے ہیں بہت قیمتی\nکیسے مٹاے گا تمہیں یہ جہاں\nتم ہو دعا مادر حسنین کی\nوعدہء زہرا وفا کرتے رہو\nشہ کے عزاداروں۔۔۔\n<<DIVIDER>>\nتم سے الجھتے نہیں دنیا کے غم\nکیسا ملا ہے تمہیں جاہ و ہشم\nبڑھتے جلوسوں میں تمہارے قدم\nروندتے جاتے ہیں سپاہ ستم\nزیر الم ایسے ہی بڑھتے چلو\nشہ کے عزاداروں۔۔۔\n<<DIVIDER>>\nقدم بڑھتے رہے\nآؤ کربلا کی طرف\n<<DIVIDER>>\nصبر کا پیغام سناتے رہو\nدرد کی تصویر بناتے رہو\nآج بھی سوے ہوے انسان کو\nحیدری نعرے سے جگاتے رہو\nبارہویں سرکار کو راضی رکھو\nشہ کے عزاداروں۔۔۔\nسلامت رہو\n<<DIVIDER>>\nعشق کی تعلیم تمہارے لیۓ\nخلد کی تقسیم تمہارے لیۓ\nپیاس پہ مظلوم کی روتے ہو تم\nکوثر و تسنیم تمہارے لیۓ\nپیاسوں کو پانی بھی پلاتے رہو\nشہ کے عزاداروں۔۔۔\n<<DIVIDER>>\nکرتے رہو شاہ پہ آہ و بکا\nخوشیاں تمہیں دیتا رہے گا خدا\nجعفر صادق کی ہے تم کو دعا\nگھر رہے آباد تمہارے صدا\nتم کو زمانے کا کوئی غم نہ ہو\nشہ کے عزاداروں۔۔۔\n<<DIVIDER>>\nراضی رہے تم س خداے حسین\nغم گا تمہارا ہے عزاے حسین\nتم کو دکھانے کے لئے جنتیں\nکربوبلا جلد بلاے حسین\nدل سے دعائیں یہی کرتے رہو\nشہ کے عزاداروں۔۔۔\n<<DIVIDER>>\nآقا حسین مولا حسین\nآ رہا ہوں میں بھی کربلا\n<<DIVIDER>>\nلیکے بڑھے دین کے پیغام کو\nتوڑ دیا کفر کے اسنام کو\nاپنے اصولوں پہ رہے متحد\nکھلتا ہے یہ دشمن اسلام کو\nفرش غم شاہ پہ تم ایک ہو\nشہ کے عزاداروں۔۔۔\n<<DIVIDER>>\nپرچم عباس کا ہو سایباں\nنام مولا بڑھتا رہے کارواں\nآل محمّد بھی رہے شادماں\nایسے تکلم کرو حق کا بیاں\nدامنِ شبیر کو تھامے رہو\nشہ کے عزاداروں۔۔۔",
+  "styling": [
+    {
+      "insert": "عزاداروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم فاطمہ زہرا کی دعا ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلامت رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کے عزاداروں سلامت رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم کو سبق عشق کے سب یاد ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم سے عزاخانے یہ آباد ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے مصلے پہ تمہارے لیۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محوِ دعا سید سجاد ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنا پیعام عزا جاری رکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کے عزاداروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآگ دل ظلم میں ان سے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنسوں تمہارے ہیں بہت قیمتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے مٹاے گا تمہیں یہ جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہو دعا مادر حسنین کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہء زہرا وفا کرتے رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کے عزاداروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم سے الجھتے نہیں دنیا کے غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا ملا ہے تمہیں جاہ و ہشم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑھتے جلوسوں میں تمہارے قدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روندتے جاتے ہیں سپاہ ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زیر الم ایسے ہی بڑھتے چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کے عزاداروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقدم بڑھتے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ کربلا کی طرف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصبر کا پیغام سناتے رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد کی تصویر بناتے رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج بھی سوے ہوے انسان کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدری نعرے سے جگاتے رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بارہویں سرکار کو راضی رکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کے عزاداروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلامت رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعشق کی تعلیم تمہارے لیۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خلد کی تقسیم تمہارے لیۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاس پہ مظلوم کی روتے ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوثر و تسنیم تمہارے لیۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسوں کو پانی بھی پلاتے رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کے عزاداروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرتے رہو شاہ پہ آہ و بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوشیاں تمہیں دیتا رہے گا خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر صادق کی ہے تم کو دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر رہے آباد تمہارے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو زمانے کا کوئی غم نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کے عزاداروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراضی رہے تم س خداے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم گا تمہارا ہے عزاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو دکھانے کے لئے جنتیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا جلد بلاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل سے دعائیں یہی کرتے رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کے عزاداروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآقا حسین مولا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ رہا ہوں میں بھی کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلیکے بڑھے دین کے پیغام کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "توڑ دیا کفر کے اسنام کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے اصولوں پہ رہے متحد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھلتا ہے یہ دشمن اسلام کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش غم شاہ پہ تم ایک ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کے عزاداروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپرچم عباس کا ہو سایباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام مولا بڑھتا رہے کارواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل محمّد بھی رہے شادماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے تکلم کرو حق کا بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دامنِ شبیر کو تھامے رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کے عزاداروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -1,12 +1,646 @@
 {
   "remoteId": "g2611_u2199",
-  "title": "Mai alamdar",
+  "title": "میں علمدار",
   "body": "دیکھو وہ ترای میں ہے اک مردِ وفادار\nرکھے ہے الم دوش پہ پیاسوں کا طرفدار\nہے گونجی اسی شیر کی غازی کی یہ للکار\n<<DIVIDER>>\nگر اجازت دے حسین عرش ہلا سکتا ہوں\nاس الم سے نیء تاریخ بنا سکتا ہوں\nہاں میں علمدار ہاں میں علمدار\n<<DIVIDER>>\nمیں ہوں عباس علی میں وفاؤں کا ولی\nبات جب میری چلی گونج اٹھا علی علی\nہاں میری وفا علی ادا علی صدا علی\nہاں میری عبا علی قبا علی نوا علی\nمیں اگر چاہوں تو اک حشر اٹھا سکتا ہوں\nجلوۂ حیدر کرار دکھا سکتا ہوں\nہاں میں علمدار\n<<DIVIDER>>\nعباس یا عباس یا عباس یا علمدار\nعلم علم علمدار\n<<DIVIDER>>\nمیں علمدار حسین میں ہوں سالار حسین\nمیں وفادار حسین میں ہوں غمخوار حسین\nہاں میرا شاہ امم جان و دلم حسین حسین\nہاں میرا جاہ و ہشم میرا بھرم حسین حسین\nشان شبیر ہے کیا آج بتا سکتا ہوں\nتم کو آدابِ حسینی میں سکھا سکتا ہوں\nہاں میں علمدار\n<<DIVIDER>>\nگر اجازت دے حسین عرش ہلا سکتا ہوں\nاس الم سے نیء تاریخ بنا سکتا ہوں\nہاں میں علمدار ہاں میں علمدار\n<<DIVIDER>>\nیہ مقدر ہے میرا یہ الم مجھکو ملا\nمیں علمدار وفا حیدر کربوبلا\nیہ الم کھلا رہے اٹھا رہے سجا رہے\nیہ الم جمع رہے ڈٹا رہے صدا رہے\nاسی دریا پہ الم اپنا سجا سکتا ہوں\nاور کٹے ہاتھوں سے پرچم یہ اٹھا سکتا ہوں\nہاں میں علمدار\n<<DIVIDER>>\nعباس یا عباس یا عباس یا علمدار\nعلم علم علمدار\n<<DIVIDER>>\nمیں تو آیا ہی نہیں جنگ لڑنے کے لئے\nمشک بھرنی ہے مجھے پیاسے بچوں کے لئے\nہے یہ وعدہ ہے سکینہ سے نبھانا ہے مجھے\nپانی لینا ہے کسی سے بھی نہ لڑنا ہے مجھے\nمجھکو لڑنا جو پڑا کیا ہوں بتا سکتا ہوں\nگھاٹ سے لاکھوں کے لشکر کو بھگا سکتا ہوں\nہاں میں علمدار\n<<DIVIDER>>\nگر اجازت دے حسین عرش ہلا سکتا ہوں\nاس الم سے نیء تاریخ بنا سکتا ہوں\nہاں میں علمدار ہاں میں علمدار\n<<DIVIDER>>\nآیا دریا پہ جری کانپ اٹھی فوج شقی\nیہ ہے عباس جری یا ہے واقعی علی\nبھاگ اٹھی فوج جفا غازی جدھر جدھر مڑا\nجس کا منہ جدھر اٹھا بھاگا گرا نہیں رکا\nبولا عباس جری تیغ اٹھا سکتا ہوں\nکربلا میں تمہیں صفین دکھا سکتا ہوں\nہاں میں علمدار\n<<DIVIDER>>\nعباس یا عباس یا عباس یا علمدار\nعلم علم علمدار\n<<DIVIDER>>\nبھر کے مشکیزہ چلا جب علمدار وفا\nآ گیء فوج جفا گر گیا مولا میرا\nہاں وہ مشکیزہ چھدا بازو کٹا پانی بہا\nغازی ریتی گرا شور قیامت تھا بپا\nآی غازی کی صدا جاں لٹا سکتا ہوں\nکیسے پانی کے بنا خیموں میں جا سکتا ہوں\nہاں میں علمدار\n<<DIVIDER>>\nگر اجازت دے حسین عرش ہلا سکتا ہوں\nاس الم سے نیء تاریخ بنا سکتا ہوں\nہاں میں علمدار ہاں میں علمدار",
+  "styling": [
+    {
+      "insert": "دیکھو وہ ترای میں ہے اک مردِ وفادار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھے ہے الم دوش پہ پیاسوں کا طرفدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے گونجی اسی شیر کی غازی کی یہ للکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگر اجازت دے حسین عرش ہلا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس الم سے نیء تاریخ بنا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میں علمدار ہاں میں علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں ہوں عباس علی میں وفاؤں کا ولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بات جب میری چلی گونج اٹھا علی علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میری وفا علی ادا علی صدا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میری عبا علی قبا علی نوا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں اگر چاہوں تو اک حشر اٹھا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلوۂ حیدر کرار دکھا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میں علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس یا عباس یا عباس یا علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم علم علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں علمدار حسین میں ہوں سالار حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں وفادار حسین میں ہوں غمخوار حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میرا شاہ امم جان و دلم حسین حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میرا جاہ و ہشم میرا بھرم حسین حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شان شبیر ہے کیا آج بتا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو آدابِ حسینی میں سکھا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میں علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگر اجازت دے حسین عرش ہلا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس الم سے نیء تاریخ بنا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میں علمدار ہاں میں علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ مقدر ہے میرا یہ الم مجھکو ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں علمدار وفا حیدر کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ الم کھلا رہے اٹھا رہے سجا رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ الم جمع رہے ڈٹا رہے صدا رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی دریا پہ الم اپنا سجا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور کٹے ہاتھوں سے پرچم یہ اٹھا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میں علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس یا عباس یا عباس یا علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم علم علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں تو آیا ہی نہیں جنگ لڑنے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشک بھرنی ہے مجھے پیاسے بچوں کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یہ وعدہ ہے سکینہ سے نبھانا ہے مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی لینا ہے کسی سے بھی نہ لڑنا ہے مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو لڑنا جو پڑا کیا ہوں بتا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھاٹ سے لاکھوں کے لشکر کو بھگا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میں علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگر اجازت دے حسین عرش ہلا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس الم سے نیء تاریخ بنا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میں علمدار ہاں میں علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآیا دریا پہ جری کانپ اٹھی فوج شقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ہے عباس جری یا ہے واقعی علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھاگ اٹھی فوج جفا غازی جدھر جدھر مڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کا منہ جدھر اٹھا بھاگا گرا نہیں رکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولا عباس جری تیغ اٹھا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا میں تمہیں صفین دکھا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میں علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس یا عباس یا عباس یا علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم علم علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھر کے مشکیزہ چلا جب علمدار وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیء فوج جفا گر گیا مولا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں وہ مشکیزہ چھدا بازو کٹا پانی بہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی ریتی گرا شور قیامت تھا بپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی غازی کی صدا جاں لٹا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے پانی کے بنا خیموں میں جا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میں علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگر اجازت دے حسین عرش ہلا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس الم سے نیء تاریخ بنا سکتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میں علمدار ہاں میں علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "N. Sarwar, J. Jaffri & H. Naqvi",
   "anjumans": [],
   "verified": false

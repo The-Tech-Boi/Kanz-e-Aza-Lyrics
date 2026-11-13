@@ -1,12 +1,437 @@
 {
   "remoteId": "g2611_u2177",
-  "title": "Maa mujhe neend",
+  "title": "ماں مجھے نیند",
   "body": "ماں کو جلتے ہوے خیموں میں وہ تڑپاتی ہے\nایک اجڑی ہوی تربت سے صدا آتی ہے\n<<DIVIDER>>\nسینے لگالو لوری سنا دو مجھکو سلا دو ماں\nماں مجھے نیند آتی ہے\n<<DIVIDER>>\nشام غریباں میں اصغر نے رن سے پکارا ماں\nماں نیند آتی ہے نیند آتی ہے\nماں مجھے نیند آتی ہے۔۔۔\n<<DIVIDER>>\nرات ہے پہلی قبر کے اندر کیسے رہوں گا تنہا\nتیرا آنچل پاس نہیں ہے کس سے بھلا کھیلوں گا\nتو ہے کہاں پر یہ تو بتا دے کیوں ہے اندھیرا ماں\nماں نیند آتی ہے نیند آتی ہے\nماں مجھے نیند آتی ہے۔۔۔\n<<DIVIDER>>\nاسکی کیا اولاد نہیں تھی پانی تھا جس سے مانگا\nجس سے غیرت ہے ناقوں کو تیر وہ مجھکو مارا\nظلم تو دیکھو تیر وہ میرے قد سے بڑا تھا ماں\nماں نیند آتی ہے نیند آتی ہے\nماں مجھے نیند آتی ہے۔۔۔\n<<DIVIDER>>\nتیری قسم ماں تیر گلے پر کھا کر میں نہیں تڑپا\nدیکھ کے بہتا خوں میرے منہ سے بابا روے میں نہیں رویا\nلیکن اے ماں تیر سے مجھکو درد ہوا تھا ماں\nماں نیند آتی ہے نیند آتی ہے\nماں مجھے نیند آتی ہے۔۔۔\n<<DIVIDER>>\nجلتی زمیں پر مجھکو لٹا کر قبر بنائی میری\nصبر سے بابا جان نے آدھی لاش چھپائی میری\nلیکن مٹی ڈال کے منہ پر رو دیےء بابا ماں\nماں نیند آتی ہے نیند آتی ہے\nماں مجھے نیند آتی ہے۔۔۔\n<<DIVIDER>>\nبھیا علی اکبر سے زیادہ زخمی ہے میرا سینہ\nسہم گیا دل چونک گیا میں نیزہ جو مجھکو مارا\nمیں تو سکوں سے قبر میں اپنی سویا ہوا تھا ماں\nماں نیند آتی ہے نیند آتی ہے\nماں مجھے نیند آتی ہے۔۔۔\n<<DIVIDER>>\nآخری کام تو کر دے یہ میرا قبر بنا دے میری\nگھوڑوں سے پامال نہ کر دے لاش چھپا دے میری\nکاٹ کے سر کو لے گےء ظالم رہ گیا لاشہ ماں\nماں نیند آتی ہے نیند آتی ہے\nماں مجھے نیند آتی ہے۔۔۔\n<<DIVIDER>>\nنیزے سے سجاد تڑپ کر ماں سے اصغر بولے\nکیسے اٹھاتی گود میں مجھکو ماں تو بندھے ہاتھوں سے\nشام سے پہلے مر گیا میں بھی اچھا ہوا نہ ماں\nماں نیند آتی ہے نیند آتی ہے\nماں مجھے نیند آتی ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "ماں کو جلتے ہوے خیموں میں وہ تڑپاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک اجڑی ہوی تربت سے صدا آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسینے لگالو لوری سنا دو مجھکو سلا دو ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں مجھے نیند آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام غریباں میں اصغر نے رن سے پکارا ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نیند آتی ہے نیند آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں مجھے نیند آتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرات ہے پہلی قبر کے اندر کیسے رہوں گا تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا آنچل پاس نہیں ہے کس سے بھلا کھیلوں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو ہے کہاں پر یہ تو بتا دے کیوں ہے اندھیرا ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نیند آتی ہے نیند آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں مجھے نیند آتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسکی کیا اولاد نہیں تھی پانی تھا جس سے مانگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس سے غیرت ہے ناقوں کو تیر وہ مجھکو مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم تو دیکھو تیر وہ میرے قد سے بڑا تھا ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نیند آتی ہے نیند آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں مجھے نیند آتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیری قسم ماں تیر گلے پر کھا کر میں نہیں تڑپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کے بہتا خوں میرے منہ سے بابا روے میں نہیں رویا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن اے ماں تیر سے مجھکو درد ہوا تھا ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نیند آتی ہے نیند آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں مجھے نیند آتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلتی زمیں پر مجھکو لٹا کر قبر بنائی میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبر سے بابا جان نے آدھی لاش چھپائی میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن مٹی ڈال کے منہ پر رو دیےء بابا ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نیند آتی ہے نیند آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں مجھے نیند آتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھیا علی اکبر سے زیادہ زخمی ہے میرا سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہم گیا دل چونک گیا میں نیزہ جو مجھکو مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تو سکوں سے قبر میں اپنی سویا ہوا تھا ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نیند آتی ہے نیند آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں مجھے نیند آتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآخری کام تو کر دے یہ میرا قبر بنا دے میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھوڑوں سے پامال نہ کر دے لاش چھپا دے میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاٹ کے سر کو لے گےء ظالم رہ گیا لاشہ ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نیند آتی ہے نیند آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں مجھے نیند آتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزے سے سجاد تڑپ کر ماں سے اصغر بولے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے اٹھاتی گود میں مجھکو ماں تو بندھے ہاتھوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام سے پہلے مر گیا میں بھی اچھا ہوا نہ ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نیند آتی ہے نیند آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں مجھے نیند آتی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Mir Sajjad Mir",
   "anjumans": [],
   "verified": false

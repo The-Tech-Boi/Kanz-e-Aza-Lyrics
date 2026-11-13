@@ -1,12 +1,333 @@
 {
   "remoteId": "g2611_u0403",
-  "title": "Alamdar kahan ho",
+  "title": "علمدار کہاں ہو",
   "body": "علمدار کہاں ہو\n<<DIVIDER>>\nزینب کی بکا تھی میرے غم خوار کہاں ہو\nعلمدار کہاں ہو علمدار علمدار علمدار کہاں ہو\n<<DIVIDER>>\nعاشور گیا آی ہے اب گیارہ محرم\nناقے پہ رسن بستہ سوے شام چلے ہم\nہے آل نبی غم میں گرفتار کہاں ہو\nعلمدار کہاں ہو۔۔۔\n<<DIVIDER>>\nجب گھر سے چلی تم نے عماری میں بٹھایا\nبیزار کرو بند یہ اعلان کرایا\nمیں جاتی ہوں اب شام کے بازار کہاں ہو\nعلمدار کہاں ہو۔۔۔\n<<DIVIDER>>\nمعلوم ہے تجھکو یہ بڑا سخت سفر ہے\nانیس مقامات سے زینب کا گزر ہے\nہر گام وہاں ہونگے ستمگار کہاں ہو\nعلمدار کہاں ہو۔۔۔\n<<DIVIDER>>\nوہ دیکھو برسنے لگے سادات پہ پتھر\nجب روتے ہیں سادات تو ہنستے ہیں ستمگر\nہے آل نبی بیکس و لاچار کہاں ہو\nعلمدار کہاں ہو۔۔۔\n<<DIVIDER>>\nلمحوں کی مسافت ہوی صدیوں کے برابر\nدروازہء سعد پہ کھڑے ہم ہیں کھلے سر\nآواز تمہیں دیتا ہے بیمار کہاں ہو\nعلمدار کہاں ہو۔۔۔\n<<DIVIDER>>\nخاموش ہے سب حاکم بدکار کے ڈر سے\nگستاخی لعیں کرتا ہے شبیر کے سر سے\nاے بازوے شبیر وفادار کہاں ہو\nعلمدار کہاں ہو۔۔۔\n<<DIVIDER>>\nفریاد تھی زینب کی یہی صفدر و مظہر\nکس طرح بیاں ہوگا وہ دربار کا منظر\nآؤ میرے پردے کے نگہدار کہاں ہو\nعلمدار کہاں ہو۔۔۔",
+  "styling": [
+    {
+      "insert": "علمدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کی بکا تھی میرے غم خوار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو علمدار علمدار علمدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشور گیا آی ہے اب گیارہ محرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناقے پہ رسن بستہ سوے شام چلے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آل نبی غم میں گرفتار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب گھر سے چلی تم نے عماری میں بٹھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیزار کرو بند یہ اعلان کرایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جاتی ہوں اب شام کے بازار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمعلوم ہے تجھکو یہ بڑا سخت سفر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انیس مقامات سے زینب کا گزر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گام وہاں ہونگے ستمگار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ دیکھو برسنے لگے سادات پہ پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب روتے ہیں سادات تو ہنستے ہیں ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آل نبی بیکس و لاچار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلمحوں کی مسافت ہوی صدیوں کے برابر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دروازہء سعد پہ کھڑے ہم ہیں کھلے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز تمہیں دیتا ہے بیمار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاموش ہے سب حاکم بدکار کے ڈر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گستاخی لعیں کرتا ہے شبیر کے سر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بازوے شبیر وفادار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفریاد تھی زینب کی یہی صفدر و مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح بیاں ہوگا وہ دربار کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ میرے پردے کے نگہدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

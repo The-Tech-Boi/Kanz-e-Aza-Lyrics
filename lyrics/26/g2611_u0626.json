@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u0626",
-  "title": "Ay baqia mujhe",
+  "title": "اے بقیہ مجھے",
   "body": "اے بقیہ مجھے تیرا غم ہے\nاِس لئے تو یہ آنکھ پُر نم ہے\n<<DIVIDER>>\nجب سے تیرا یہ انہدام ہوا\nدل میں بس غم کا ہی قیام ہوا\nاب تو اِک اضطرابِ پیہم ہے\nاے بقیہ مجھے۔۔۔\n<<DIVIDER>>\nقبرِ زہرا جو ڈھائی اعدا نے\nکیا بگاڑا تھا اِن کا دکھیا نے\nہم تو جتنا بھی روئیں وہ کم ہے\nاے بقیہ مجھے۔۔۔\n<<DIVIDER>>\nہے جو بے سایہ تربتِ سجاد\nکیوں نہ ہم غمزدہ کریں فریاد\nاِس سے بڑھ کر بھی کوئی کیا غم ہے\nاے بقیہ مجھے۔۔۔\n<<DIVIDER>>\nقبر باقر کی اور جعفر کی\nہے شکستہ جو قبر شبر کی\nہر طرف سوگ کا سا عالم ہے\nاے بقیہ مجھے۔۔۔\n<<DIVIDER>>\nکہہ اُٹھا دیکھ کر دلِ مضطر\nہائے رے قبرِ مادرِ حیدر\nاِس کی توقیر تو مقدم ہے\nاے بقیہ مجھے۔۔۔\n<<DIVIDER>>\nجب بھی تشریف لائیں گے مہدی\nہو گا تعمیر پھر بقیہ بھی\nمجھ کو اِک یہ ہی آس ہر دم ہے\nاے بقیہ مجھے۔۔۔\n<<DIVIDER>>\nکیوں نہ آوازِ حق اُٹھائیں ہم\nکیسے باطل سے خوف کھائیں ہم\nسر پہ جب باوفا کا پرچم ہے\nاے بقیہ مجھے۔۔۔\n<<DIVIDER>>\nجس نے زہرا کا دل دُکھایا ہے\nاور اُنہیں عمر بھر رلایا ہے\nاُس پہ لعنت ہی اب تو ہر دَم ہے\nاے بقیہ مجھے۔۔۔\n<<DIVIDER>>\nچین اظہارؔ یوں نہیں آتا\nہر گھڑی ہے الم بقیہ کا\nہر گھڑی دل میں شورِ ماتم ہے\nاے بقیہ مجھے۔۔۔",
+  "styling": [
+    {
+      "insert": "اے بقیہ مجھے تیرا غم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اِس لئے تو یہ آنکھ پُر نم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے تیرا یہ انہدام ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں بس غم کا ہی قیام ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو اِک اضطرابِ پیہم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بقیہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبرِ زہرا جو ڈھائی اعدا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بگاڑا تھا اِن کا دکھیا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم تو جتنا بھی روئیں وہ کم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بقیہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے جو بے سایہ تربتِ سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں نہ ہم غمزدہ کریں فریاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اِس سے بڑھ کر بھی کوئی کیا غم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بقیہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر باقر کی اور جعفر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے شکستہ جو قبر شبر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف سوگ کا سا عالم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بقیہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہہ اُٹھا دیکھ کر دلِ مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے رے قبرِ مادرِ حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اِس کی توقیر تو مقدم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بقیہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب بھی تشریف لائیں گے مہدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گا تعمیر پھر بقیہ بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو اِک یہ ہی آس ہر دم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بقیہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں نہ آوازِ حق اُٹھائیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے باطل سے خوف کھائیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پہ جب باوفا کا پرچم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بقیہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس نے زہرا کا دل دُکھایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اُنہیں عمر بھر رلایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس پہ لعنت ہی اب تو ہر دَم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بقیہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچین اظہارؔ یوں نہیں آتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گھڑی ہے الم بقیہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گھڑی دل میں شورِ ماتم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بقیہ مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Inhedaam e Jannat ul Baqee",
+  "subcategory": "انہدام جنت البقیع",
   "author": "Ali Izhaar",
   "anjumans": [],
   "verified": false

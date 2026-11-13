@@ -1,12 +1,356 @@
 {
   "remoteId": "g2611_u2606",
-  "title": "Parchame islam hai",
+  "title": "پرچمِ اسلام ہے",
   "body": "پرچمِ اسلام تجھ پر سلام\nمولا غازی کا علم ہی پرچمِ اسلام ہے\nاپنے جد امجد سے پایا ورثہ میں انعام ہے\nپرچمِ اسلام ہے۔۔۔\n<<DIVIDER>>\nتُو شبیہہ مُرتضیٰ اور وارثِ جاہ و حشم\nاُڑ گیا ہیبت سے تیری کفر کا آرام ہے\nپرچمِ اسلام ہے۔۔۔\n<<DIVIDER>>\nجن کے نانا کے لیئے عالم ہوا تخلیق ہے\nبے ردا وہ بیبیاں ہیں اور بلوئہ عام ہے\nپرچمِ اسلام ہے۔۔۔\n<<DIVIDER>>\nجنہیں بھی حق نے بنایا تھا کربلا کے لئے\nوہ سب کے سب ہی نمونہ تھے دوسرا کے لئے\nمگر یقین یہ کامل کہ حضرت عباس\nبطور خاص بناے گےء وفا کے لئے\n<<DIVIDER>>\nکس قدر تیری وفا کے چرچے ہیں اقوام میں\nتھی وفا بے نام ورنہ تُو وفا کا نام ہے\nپرچمِ اسلام ہے۔۔۔\n<<DIVIDER>>\nماتم و مجلس عزاداری شاہِ مظلوم کی\nساری دنیا کے لیئے حق کا یہ ہی پیغام ہے\nپرچمِ اسلام ہے۔۔۔\n<<DIVIDER>>\nجب لگے پتھر برسنے تو سکینہ نے کہا\nیہ ستمگروں کی نگری پھُپھی اماں شام ہے\nپرچمِ اسلام ہے۔۔۔\n<<DIVIDER>>\nسہہ روز کے پیاسے بچوں کی افسوس کہ پیاس بجھی نہ\nآگیا بیچ بھنور کہ لوگوں حیدر کا پاک سفینہ\nچچا کو کب سے دیکھتی ہے پر آیا نظر کہیں نہ\nاصغر کے واسطے بیٹھی ہے لیکر کہ جام سکینہ\n<<DIVIDER>>\nمنتظر اپنے چچا کی ہے سکینہ لاڈلی\nکب سے اصغر کے لیئے وہ لے کے بیٹھی جام ہے\nپرچمِ اسلام ہے۔۔۔\n<<DIVIDER>>\nہے امیر اپنی عبادت تذکرہ شبیر کا\nمدحِ آلِ رسول کرنا یہ ہی اپنا کام ہے\nپرچمِ اسلام ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "پرچمِ اسلام تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا غازی کا علم ہی پرچمِ اسلام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے جد امجد سے پایا ورثہ میں انعام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچمِ اسلام ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتُو شبیہہ مُرتضیٰ اور وارثِ جاہ و حشم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُڑ گیا ہیبت سے تیری کفر کا آرام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچمِ اسلام ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجن کے نانا کے لیئے عالم ہوا تخلیق ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا وہ بیبیاں ہیں اور بلوئہ عام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچمِ اسلام ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنہیں بھی حق نے بنایا تھا کربلا کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ سب کے سب ہی نمونہ تھے دوسرا کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر یقین یہ کامل کہ حضرت عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بطور خاص بناے گےء وفا کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس قدر تیری وفا کے چرچے ہیں اقوام میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی وفا بے نام ورنہ تُو وفا کا نام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچمِ اسلام ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماتم و مجلس عزاداری شاہِ مظلوم کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساری دنیا کے لیئے حق کا یہ ہی پیغام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچمِ اسلام ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب لگے پتھر برسنے تو سکینہ نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ستمگروں کی نگری پھُپھی اماں شام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچمِ اسلام ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسہہ روز کے پیاسے بچوں کی افسوس کہ پیاس بجھی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا بیچ بھنور کہ لوگوں حیدر کا پاک سفینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چچا کو کب سے دیکھتی ہے پر آیا نظر کہیں نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کے واسطے بیٹھی ہے لیکر کہ جام سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنتظر اپنے چچا کی ہے سکینہ لاڈلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب سے اصغر کے لیئے وہ لے کے بیٹھی جام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچمِ اسلام ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے امیر اپنی عبادت تذکرہ شبیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدحِ آلِ رسول کرنا یہ ہی اپنا کام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچمِ اسلام ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Ameer Hussain Mashadi",
   "anjumans": [],
   "verified": false

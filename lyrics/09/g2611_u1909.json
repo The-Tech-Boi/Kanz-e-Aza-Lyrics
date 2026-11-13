@@ -1,12 +1,514 @@
 {
   "remoteId": "g2611_u1909",
-  "title": "Karbala se shaam",
+  "title": "کربلا سے شام",
   "body": "کربلا بسا کر اپنا گھر لٹا کر\nگود کے سبھی پلے ریت میں چھپا کر\nکربلا سے شام جا رہے ہیں حسین\n<<DIVIDER>>\nنیزے پہ قرآں سنا رہے ہیں حسین\nکربلا سے شام جا رہے ہیں حسین\n<<DIVIDER>>\nجنگ کربلا کو میں نے فتح کرلیا\nفاتح دمشق ہوگی بنت سیدہ\nیہ قدم قدم بتا رہے ہیں حسین\nنیزے پہ قرآں سنا۔۔۔\nکربلا سے شام۔۔۔\n<<DIVIDER>>\nبیبیوں کے سَر کھلے کوئی نہ دیکھ لے\nہر نگاہ میری سَمت ہی جمی رہے\nسب کو معجزہ دکھارہے ہیں حُسین\nنیزے پہ قرآں سنا۔۔۔\nکربلا سے شام۔۔۔\n<<DIVIDER>>\nبین تھے سکینہ کے میں رو نہیں سکی\nبابا کتنے دن ہوئے میں سو نہیں سکی\nلوری بیٹی کو سُنارہے ہیں حُسین\nنیزے پہ قرآں سنا۔۔۔\nکربلا سے شام۔۔۔\n<<DIVIDER>>\nبے ردا حرم ہیں چار سمت اہلِ شر\nخون رو رہا ہے سارباں جھکائے سر\nاُسکا حوصلہ بڑھارہے ہیں حسین\nنیزے پہ قرآں سنا۔۔۔\nکربلا سے شام۔۔۔\n<<DIVIDER>>\nآگ اور پتھروں کی بارشیں ہوئیں\nزخمی سَر بہن کا ہے لہو لہو جبیں\nزخم پتھروں سے کھارہے ہیں حُسین\nنیزے پہ قرآں سنا۔۔۔\nکربلا سے شام۔۔۔\n<<DIVIDER>>\nجب سُنا یہ شیریں نے تو روکے دی صدا\nجاگ اُٹھا نصیب میرا اے میرے خُدا\nآج میرے گھر پہ آرہے ہیں حُسین\nنیزے پہ قرآں سنا۔۔۔\nکربلا سے شام۔۔۔\n<<DIVIDER>>\nبیٹے بھانجے بھتیجے بن میں سو چُکے\nعلقمہ پہ شیر جیسا بھائی کھو چُکے\nوعدہ آخری نبھارہے ہیں حُسین\nنیزے پہ قرآں سنا۔۔۔\nکربلا سے شام۔۔۔\n<<DIVIDER>>\nقافلے سے مطمئن امام ہوگئے\nشام پہنچے ختم سارے کام ہوگئے\nنانا سے دُعائیں پارہے ہیں حُسین\nنیزے پہ قرآں سنا۔۔۔\nکربلا سے شام۔۔۔\n<<DIVIDER>>\nمانتے ہیں ماتمی بھی اور فرحان بھی\nداستانِ غم سفر کی مظہر عابدی\nلکھ رہا ہوں میں لکھا رہے ہیں حُسین\nنیزے پہ قرآں سنا۔۔۔\nکربلا سے شام۔۔۔",
+  "styling": [
+    {
+      "insert": "کربلا بسا کر اپنا گھر لٹا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گود کے سبھی پلے ریت میں چھپا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا سے شام جا رہے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزے پہ قرآں سنا رہے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا سے شام جا رہے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنگ کربلا کو میں نے فتح کرلیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاتح دمشق ہوگی بنت سیدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ قدم قدم بتا رہے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ قرآں سنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا سے شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیبیوں کے سَر کھلے کوئی نہ دیکھ لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر نگاہ میری سَمت ہی جمی رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کو معجزہ دکھارہے ہیں حُسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ قرآں سنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا سے شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبین تھے سکینہ کے میں رو نہیں سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کتنے دن ہوئے میں سو نہیں سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوری بیٹی کو سُنارہے ہیں حُسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ قرآں سنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا سے شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے ردا حرم ہیں چار سمت اہلِ شر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون رو رہا ہے سارباں جھکائے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُسکا حوصلہ بڑھارہے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ قرآں سنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا سے شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآگ اور پتھروں کی بارشیں ہوئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی سَر بہن کا ہے لہو لہو جبیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم پتھروں سے کھارہے ہیں حُسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ قرآں سنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا سے شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سُنا یہ شیریں نے تو روکے دی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاگ اُٹھا نصیب میرا اے میرے خُدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج میرے گھر پہ آرہے ہیں حُسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ قرآں سنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا سے شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹے بھانجے بھتیجے بن میں سو چُکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علقمہ پہ شیر جیسا بھائی کھو چُکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ آخری نبھارہے ہیں حُسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ قرآں سنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا سے شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقافلے سے مطمئن امام ہوگئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام پہنچے ختم سارے کام ہوگئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا سے دُعائیں پارہے ہیں حُسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ قرآں سنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا سے شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمانتے ہیں ماتمی بھی اور فرحان بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داستانِ غم سفر کی مظہر عابدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھ رہا ہوں میں لکھا رہے ہیں حُسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ قرآں سنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا سے شام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

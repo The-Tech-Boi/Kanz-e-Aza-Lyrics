@@ -1,7 +1,606 @@
 {
   "remoteId": "g2611_u3478",
-  "title": "Ye matam kaise ruk",
+  "title": "یہ ماتم کیسے رُک",
   "body": "یہ ماتم کیسے رُک جائے\nزہرا کی دُعا ہے یہ ماتم\nیہ ماتم کیسے رُک جائے\n<<DIVIDER>>\nکونین کی ہر دولت دے کر\nاس غم کی حفاظت کرنا ہے\nشبیر کی خاطر جینا ہے\nشبیر کی خاطر مرنا ہے\nیہ جسم رہے یا مٹ جائے\nمظلوم کا ماتم کرنا ہے\nزہرا کی تمنا پوری ہو\nیہ جان رہے یا مٹ جائے\nزہرا کی دُعا ہے یہ ماتم\nیہ ماتم کیسے رُک جائے\n<<DIVIDER>>\nاس پرچم کی عظمت کے لیئے\nعباس نے بازو دے ڈالے\nاس پرچم کی عزت کے لیئے\nغازی نے سہے دل پر بھالے\nاس پرچم کے مشکیزہ سے\nلپٹے ہیں سکینہ کے نالے\nعباس ِعلی کا پرچم ہے\nیہ پرچم کیسے جُھک جائے\nزہرا کی دُعا ہے یہ ماتم\nیہ ماتم کیسے رُک جائے\n<<DIVIDER>>\nسالارِ حُسینی کیا کہنا\nمعراجِ وفا سر تاجِ وفا\nہر موج تڑپتی ہے اب تک\nساحل سے جو توں پلٹا پیاسا\nتھاحُکمِ حُسینی جنگ نہ کی\nہر وار سہا ہر ظُلم سہا\nتھا ہوش میں جب تک فکر یہ تھی\nپیاسی نہ سکینہ رہ جائے\nزہرا کی دُعا ہے یہ ماتم\nیہ ماتم کیسے رُک جائے\n<<DIVIDER>>\nجب تک یہ سکت اس جسم میں ہے\nحق اپنا ادا کر دینا ہے\nاس ما جو سعادت دے ہم کو\nیہ جان فِدا کر دینا ہے\nیا اشک سے یا خونِ دل سے\nاس دامن کو بھر دینا ہے\nآئی ہے یہاں اک شہزادی\nاُمید کا دامن پھیلائے\nزہرا کی دُعا ہے یہ ماتم\nیہ ماتم کیسے رُک جائے\n<<DIVIDER>>\nوہ وقت ہے اب تک آنکھوں میں\nتھا خون میں غلطاں ابنِ علی\nاور گونج رہی تھی مقتل میں\nفریاد و فُغاں اک دُکھیا کی\nسینے سے بہیں خوں کی دھاریں\nاور ہاتھ نہ رُکنے پائے کبھی\nمظلوم کا ماتم ہوتا رہے\nزہرا کی صدا جب تک آئے\nزہرا کی دُعا ہے یہ ماتم\nیہ ماتم کیسے رُک جائے\n<<DIVIDER>>\nیہ ماتم ہے ھل من کی صدا\nہر اشک ہے جذبہ نُصرت کا\nیوں حق کی طرف آ جانے کا\nحاصل ہے ابھی تک اک موقع\nپہچان ضمیر و دل کی صدا\nاس ماتم میں شامل ہو جا\nشبیر بُلاتے ہیں اب تک\nگر حُر ہو کہیں تو آ جائے\nزہرا کی دُعا ہے یہ ماتم\nیہ ماتم کیسے رُک جائے",
+  "styling": [
+    {
+      "insert": "یہ ماتم کیسے رُک جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی دُعا ہے یہ ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ماتم کیسے رُک جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکونین کی ہر دولت دے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس غم کی حفاظت کرنا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کی خاطر جینا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کی خاطر مرنا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ جسم رہے یا مٹ جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم کا ماتم کرنا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی تمنا پوری ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ جان رہے یا مٹ جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی دُعا ہے یہ ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ماتم کیسے رُک جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس پرچم کی عظمت کے لیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نے بازو دے ڈالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس پرچم کی عزت کے لیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی نے سہے دل پر بھالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس پرچم کے مشکیزہ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لپٹے ہیں سکینہ کے نالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس ِعلی کا پرچم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ پرچم کیسے جُھک جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی دُعا ہے یہ ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ماتم کیسے رُک جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسالارِ حُسینی کیا کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معراجِ وفا سر تاجِ وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر موج تڑپتی ہے اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساحل سے جو توں پلٹا پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھاحُکمِ حُسینی جنگ نہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر وار سہا ہر ظُلم سہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا ہوش میں جب تک فکر یہ تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی نہ سکینہ رہ جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی دُعا ہے یہ ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ماتم کیسے رُک جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب تک یہ سکت اس جسم میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق اپنا ادا کر دینا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس ما جو سعادت دے ہم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ جان فِدا کر دینا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا اشک سے یا خونِ دل سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس دامن کو بھر دینا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی ہے یہاں اک شہزادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُمید کا دامن پھیلائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی دُعا ہے یہ ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ماتم کیسے رُک جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ وقت ہے اب تک آنکھوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا خون میں غلطاں ابنِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور گونج رہی تھی مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فریاد و فُغاں اک دُکھیا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے سے بہیں خوں کی دھاریں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ہاتھ نہ رُکنے پائے کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم کا ماتم ہوتا رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی صدا جب تک آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی دُعا ہے یہ ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ماتم کیسے رُک جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ ماتم ہے ھل من کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر اشک ہے جذبہ نُصرت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں حق کی طرف آ جانے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حاصل ہے ابھی تک اک موقع"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہچان ضمیر و دل کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس ماتم میں شامل ہو جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر بُلاتے ہیں اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر حُر ہو کہیں تو آ جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی دُعا ہے یہ ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ماتم کیسے رُک جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

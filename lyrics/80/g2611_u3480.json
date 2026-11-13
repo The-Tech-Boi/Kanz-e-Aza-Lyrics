@@ -1,12 +1,333 @@
 {
   "remoteId": "g2611_u3480",
-  "title": "Ye mera maula raza",
+  "title": "یہ میرا مولا رضا",
   "body": "ہاے رضا مولا رضا\n<<DIVIDER>>\nمظلوم بے وطن یہ میرا مولا رضا ہے\nجس کو زہر لوگوں مسلماں نے دیا ہے\n<<DIVIDER>>\nسب آنکھیں کرو بند دہای ہے دہای\nاک بی بی عزاداروں یہاں شام سے آی\nلپٹی ہے جنازے سے نہیں سر پہ ردا ہے\nمظلوم بے وطن۔۔۔\n<<DIVIDER>>\nآے ہیں جنازے پہ نبی شاہ امم بھی\nکلثوم و رقیہ بھی ہے معصومہء قم بھی\nوہ بی بی ہے کربلا میں جلی جس کی عبا ہے\nمظلوم بے وطن۔۔۔\n<<DIVIDER>>\nیوں لوٹا مسلمانوں نے زہر کے چمن کو\nہے زہر دیا جیسے میرے مولا حسن کو\nدہرای گیء ہاے وہی اس پہ جفا ہے\nمظلوم بے وطن۔۔۔\n<<DIVIDER>>\nمعصومہء قم دیتی ہے رو رو کے دہای\nاے کاش ملا دے کوئی مجھ سے میرا بھائی\nصغرا کی طرح ہاے بہن جس سے جدا ہے\nمظلوم بے وطن۔۔۔\n<<DIVIDER>>\nمامون عباس کی عنایت ہے یہ لوگوں\nآل پیمبر سے عداوت ہے یہ لوگوں\nسیدوں سے زرا دیکھو یہ امت کی وفا ہے\nمظلوم بے وطن۔۔۔\n<<DIVIDER>>\nقربان میرے مولا پہ ہو جان ہماری\nمقروض میرے مولا کی یہ دنیا ہے ساری\nیہ مرتبہ ہو کے بھی غریب الغربا ہے\nمظلوم بے وطن۔۔۔\n<<DIVIDER>>\nروتے ہیں فرشتے بھی زمیں اور زماں بھی\nلوح و قلم عرش بریں کون و مکاں بھی\nخیرالنسا کے لال کے ماتم کی صدا ہے\nمظلوم بے وطن۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے رضا مولا رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمظلوم بے وطن یہ میرا مولا رضا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو زہر لوگوں مسلماں نے دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب آنکھیں کرو بند دہای ہے دہای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بی بی عزاداروں یہاں شام سے آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لپٹی ہے جنازے سے نہیں سر پہ ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم بے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآے ہیں جنازے پہ نبی شاہ امم بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلثوم و رقیہ بھی ہے معصومہء قم بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بی بی ہے کربلا میں جلی جس کی عبا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم بے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیوں لوٹا مسلمانوں نے زہر کے چمن کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے زہر دیا جیسے میرے مولا حسن کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دہرای گیء ہاے وہی اس پہ جفا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم بے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمعصومہء قم دیتی ہے رو رو کے دہای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے کاش ملا دے کوئی مجھ سے میرا بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا کی طرح ہاے بہن جس سے جدا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم بے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمامون عباس کی عنایت ہے یہ لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل پیمبر سے عداوت ہے یہ لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدوں سے زرا دیکھو یہ امت کی وفا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم بے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقربان میرے مولا پہ ہو جان ہماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقروض میرے مولا کی یہ دنیا ہے ساری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ مرتبہ ہو کے بھی غریب الغربا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم بے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتے ہیں فرشتے بھی زمیں اور زماں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوح و قلم عرش بریں کون و مکاں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیرالنسا کے لال کے ماتم کی صدا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم بے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Raza (a.s)",
+  "subcategory": "امام رضا (ع)",
   "author": "Lal Hussain Hyderi",
   "anjumans": [],
   "verified": false

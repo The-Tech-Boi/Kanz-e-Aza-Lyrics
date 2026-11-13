@@ -1,12 +1,415 @@
 {
   "remoteId": "g2611_u1331",
-  "title": "Ghareeb baba",
+  "title": "غریب بابا",
   "body": "غریب بابا غریب بیٹی\n<<DIVIDER>>\nوہ بے کفن تھا یہ بے ردا تھی\nغریب بابا غریب بیٹی\n<<DIVIDER>>\nطمانچے دونوں نے بن میں کھاے\nہے دونوں پہلو شکستہ ہاے\nوہ ابنِ زہرا یہ زہرا جیسی\nغریب بابا غریب بیٹی۔۔۔\n<<DIVIDER>>\nمصلہ بابا کا یہ بچھاتی\nحسین دیتے تھے اس کو لوری\nیہ اسکی عادی وہ اسکی عادی\nغریب بابا غریب بیٹی۔۔۔\n<<DIVIDER>>\nتھا اسکو مارا رلا رلا کے\nبہایا پانی اسے دکھا کے\nتھا وہ بھی پیاسا ہے یہ بھی پیاسا\nغریب بابا غریب بیٹی۔۔۔\n<<DIVIDER>>\nہوے جو خنجر کے وار شہ پر\nکھڑی تھی پہلو میں انکی دختر\nوہ جتنا تڑپے وہ اتنا روی\nغریب بابا غریب بیٹی۔۔۔\n<<DIVIDER>>\nیہ درے ظالم سے کھا رہی ہے\nپدر کے سینے کو ڈھونڈتی ہے\nوہ جب سے سویا یہ سو نہ پائی\nغریب بابا غریب بیٹی۔۔۔\n<<DIVIDER>>\nتھے زخم شبیر کے بدن پر\nسکینہ کھاتی رہی ہے پتھر\nتھا وہ بھی زخمی ہے یہ بھی زخمی\nغریب بابا غریب بیٹی۔۔۔\n<<DIVIDER>>\nسر اسکا صندوق میں رکھا ہے\nرسن میں اسکا گلا بندھا ہے\nسفر میں رہتے تھے دونوں قیدی\nغریب بابا غریب بیٹی۔۔۔\n<<DIVIDER>>\nنبھایا ہر ایک وعدہ جس نے\nاٹھایا دونوں کا لاشہ جس نے\nبہن تھی اسکی پھپھی تھی اس کی\nغریب بابا غریب بیٹی۔۔۔\n<<DIVIDER>>\nتھا میر سجاد کیسا لمحہ\nجب اس کے بابا کا نام پوچھا\nتو ہند سے رو کے بچی بولی\nغریب بابا غریب بیٹی۔۔۔",
+  "styling": [
+    {
+      "insert": "غریب بابا غریب بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ بے کفن تھا یہ بے ردا تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب بابا غریب بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطمانچے دونوں نے بن میں کھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے دونوں پہلو شکستہ ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ابنِ زہرا یہ زہرا جیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب بابا غریب بیٹی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمصلہ بابا کا یہ بچھاتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین دیتے تھے اس کو لوری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ اسکی عادی وہ اسکی عادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب بابا غریب بیٹی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھا اسکو مارا رلا رلا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہایا پانی اسے دکھا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا وہ بھی پیاسا ہے یہ بھی پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب بابا غریب بیٹی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوے جو خنجر کے وار شہ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھڑی تھی پہلو میں انکی دختر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جتنا تڑپے وہ اتنا روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب بابا غریب بیٹی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ درے ظالم سے کھا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پدر کے سینے کو ڈھونڈتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جب سے سویا یہ سو نہ پائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب بابا غریب بیٹی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھے زخم شبیر کے بدن پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کھاتی رہی ہے پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا وہ بھی زخمی ہے یہ بھی زخمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب بابا غریب بیٹی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر اسکا صندوق میں رکھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسن میں اسکا گلا بندھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر میں رہتے تھے دونوں قیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب بابا غریب بیٹی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنبھایا ہر ایک وعدہ جس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھایا دونوں کا لاشہ جس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہن تھی اسکی پھپھی تھی اس کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب بابا غریب بیٹی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھا میر سجاد کیسا لمحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب اس کے بابا کا نام پوچھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو ہند سے رو کے بچی بولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب بابا غریب بیٹی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mir Sajjad Mir",
   "anjumans": [],
   "verified": false

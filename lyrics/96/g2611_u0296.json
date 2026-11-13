@@ -1,12 +1,613 @@
 {
   "remoteId": "g2611_u0296",
-  "title": "Abide bemaar",
+  "title": "عابد بیمار",
   "body": "عابد بیمار\n<<DIVIDER>>\nکرب میں ڈوبے زخمی وہ منظر\nظلم ہزاروں ایک دل مضطر\nتھا یہی نوحہ تیرے لبوں پر\nالشام الشام الشام\nشہر تماشا ہاے وہ بازار\nعابد بیمار۔۔۔\n<<DIVIDER>>\nکیسا ستم یہ تجھ پہ ہوا ہے\nکیسی اسیری کیسی جفا ہے\nطوق میں جکڑا تیرا گلا ہے\nالشام الشام الشام\nزینب کبرا تیری مددگار\nعابد بیمار۔۔۔\n<<DIVIDER>>\nراہوں میں کانٹے پاؤں میں چھالے\nماؤں سے بچھڑ گود کے پالے\nکون کسے اب کیسے سنبھالے\nالشام الشام الشام\nظلم مسلسل منزل دشوار\nعابد بیمار۔۔۔\n<<DIVIDER>>\nپیاس کی شدت کرب یتیمی\nننھی سی گردن اور وہ رسی\nکیسی تھی غربت چھوٹی بہن کی\nالشام الشام الشام\nتیرے جگر پر چلتی تلوار\nعابد بیمار۔۔۔\n<<DIVIDER>>\nخاک میں غلطاں خوں میں ڈوبے\nایک رسن میں بارہ گلے تھے\nان‌ کو ستمگر کھینچ رہے تھے\nالشام الشام الشام\nکوی نہیں تھا ان کا مددگار\nعابد بیمار۔۔۔\n<<DIVIDER>>\nگریہ کناں تھی آل پیمبر\nبازو میں رسی اور تھی کھلے سر\nکرسی نشیں تھے سارے ستمگر\nالشام الشام الشام\nواے مصیبت شام کا دربار\nعابد بیمار۔۔۔\n<<DIVIDER>>\nشام کا زنداں اور وہ اندھیرا\nکہتی تھی رو کے پیاسی سکینہ\nآییےء بابا آییےء بابا\nالشام الشام الشام\nماں ہے پریشاں بھای ہے بیمار\nعابد بیمار۔۔۔\n<<DIVIDER>>\nروتے ہیں باقر لب پہ ہے نوحہ\nکہتے ہیں رو کر میں ہوا تنہا\nزہر ستم سے مر گےء بابا\nالشام الشام الشام\nمر گیا پیاسوں کا غم خوار\nعابد بیمار۔۔۔\n<<DIVIDER>>\nہوتا ہے ویران شہر مدینہ\nآج ہے خاموش دیں کا مسیحا\nگونج رہا ہے اس کا یہ نوحہ\nالشام الشام الشام\nہو گیا رخصت شہ کا عزادار\nعابد بیمار۔۔۔\n<<DIVIDER>>\nکتنے مصایب لکھے رشید اب\nٹوٹ رہا ہے حوصلہ یا رب\nروتی ہے آنکھیں کانپتے ہیں لب\nالشام الشام الشام\nبس یہی آواز آتی ہے ہر بار\nعابد بیمار۔۔۔",
+  "styling": [
+    {
+      "insert": "عابد بیمار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرب میں ڈوبے زخمی وہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم ہزاروں ایک دل مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا یہی نوحہ تیرے لبوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الشام الشام الشام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہر تماشا ہاے وہ بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسا ستم یہ تجھ پہ ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی اسیری کیسی جفا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طوق میں جکڑا تیرا گلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الشام الشام الشام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کبرا تیری مددگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراہوں میں کانٹے پاؤں میں چھالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماؤں سے بچھڑ گود کے پالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون کسے اب کیسے سنبھالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الشام الشام الشام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم مسلسل منزل دشوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاس کی شدت کرب یتیمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھی سی گردن اور وہ رسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی تھی غربت چھوٹی بہن کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الشام الشام الشام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے جگر پر چلتی تلوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاک میں غلطاں خوں میں ڈوبے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک رسن میں بارہ گلے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان‌ کو ستمگر کھینچ رہے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الشام الشام الشام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی نہیں تھا ان کا مددگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگریہ کناں تھی آل پیمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازو میں رسی اور تھی کھلے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرسی نشیں تھے سارے ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الشام الشام الشام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واے مصیبت شام کا دربار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام کا زنداں اور وہ اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی رو کے پیاسی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آییےء بابا آییےء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الشام الشام الشام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں ہے پریشاں بھای ہے بیمار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتے ہیں باقر لب پہ ہے نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے ہیں رو کر میں ہوا تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہر ستم سے مر گےء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الشام الشام الشام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیا پیاسوں کا غم خوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوتا ہے ویران شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج ہے خاموش دیں کا مسیحا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونج رہا ہے اس کا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الشام الشام الشام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیا رخصت شہ کا عزادار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنے مصایب لکھے رشید اب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹوٹ رہا ہے حوصلہ یا رب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہے آنکھیں کانپتے ہیں لب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الشام الشام الشام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس یہی آواز آتی ہے ہر بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Zain-ul-Abedeen (a.s)",
+  "subcategory": "مولا سجّاد (ع)",
   "author": "Rasheed Shaheedi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,562 @@
 {
   "remoteId": "g2611_u0661",
-  "title": "Ay khuda daste",
+  "title": "اے خدا دست",
   "body": "یاد عباس سر شام غریباں آید\nدختر حضرتِ شبیر ہراساں آید\n<<DIVIDER>>\nبیکسی کیسی عیاں تھی بن میں\nلاشے پامال ہوے جب رن‌ میں\nآگ زہرا کے لگی گلشن میں\nیاد عباس تھی اور اہلِ حرم\nاے خدا دست کرم اے خدا دست کرم\nاے خدا دست کرم\nشام غریباں شام غریباں\n<<DIVIDER>>\nقاسم و اکبر و عباس کجا رفتند آہ\nہاے در دشت بلا یاد شہیداں آید\nقاسم و اکبر و عباس نہیں\nکچھ بھی سینے بہ جز یاس نہیں\nاب تو جینے کی بھی کچھ آس نہیں\nسایہ افگن نہیں غازی کا علم\nاے خدا دست کرم۔۔۔\nشام غریباں۔۔۔\n<<DIVIDER>>\nیاں کسے نیست کے آید پےء امداد حرم\nایں سفینہ طرف یورش طوفاں آید\nکوی امداد کو آے کیوں کر\nکٹ گےء اکبر و عباس کے سر\nغم کا طوفان اور یاد پدر\nچار جانب سے بڑے رنج و الم\nاے خدا دست کرم۔۔۔\nشام غریباں۔۔۔\n<<DIVIDER>>\nسیلیء شمر بہ رخسار سکینہ صد حیف\nچوں بہ ظلم و ستم آں دشمن ایماں آید\nہاے وہ پھول سے رخسار تیرے\nشمر نے جس پہ طمانچے مارے\nنیل رخسار کے دیکھے نہ گےء\nروے نیزے پہ سر شاہ امم\nاے خدا دست کرم۔۔۔\nشام غریباں۔۔۔\n<<DIVIDER>>\nحیف آں عالم غربت کے سکینہ گریہ\nیاد الطاف پدر بہ غم و حرماں آید\nدشت غربت میں سکینہ کی فغاں\nبابا ڈستہ ہے اندھیرا زنداں\nجلد آؤ کے نکل جاے نہ جاں\nآپ کی یاد میں مر جاینگے ہم\nاے خدا دست کرم۔۔۔\nشام غریباں۔۔۔\n<<DIVIDER>>\nمی کشد نالہ ز حسرت سر دربار یزید\nبے محبانہ خیال در زنداں آید\nسر دربار فغاں زینب کی\nقید کوفے میں ہوی بنت علی\nلحد شاہ نجف ہلنے لگی\nاشک زینب کے جو برسے پیہم\nاے خدا دست کرم۔۔۔\nشام غریباں۔۔۔\n<<DIVIDER>>\nتحفہء اشک عزا پیش کنم من بہ خلوص\nآہ ایں نوحہء غم بر لب ریحاں آید\nہے بھی کیا سرور و ریحان کے پاس\nان کی دولت ہے یہی غم کی اساس\nآپ کی نظر جناب عباس\nاک آواز ہے اور ایک قلم\nاے خدا دست کرم۔۔۔\nشام غریباں۔۔۔",
+  "styling": [
+    {
+      "insert": "یاد عباس سر شام غریباں آید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دختر حضرتِ شبیر ہراساں آید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیکسی کیسی عیاں تھی بن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے پامال ہوے جب رن‌ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگ زہرا کے لگی گلشن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد عباس تھی اور اہلِ حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے خدا دست کرم اے خدا دست کرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے خدا دست کرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاسم و اکبر و عباس کجا رفتند آہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے در دشت بلا یاد شہیداں آید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم و اکبر و عباس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ بھی سینے بہ جز یاس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو جینے کی بھی کچھ آس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سایہ افگن نہیں غازی کا علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے خدا دست کرم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاں کسے نیست کے آید پےء امداد حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایں سفینہ طرف یورش طوفاں آید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی امداد کو آے کیوں کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کٹ گےء اکبر و عباس کے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم کا طوفان اور یاد پدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چار جانب سے بڑے رنج و الم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے خدا دست کرم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسیلیء شمر بہ رخسار سکینہ صد حیف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چوں بہ ظلم و ستم آں دشمن ایماں آید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے وہ پھول سے رخسار تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر نے جس پہ طمانچے مارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیل رخسار کے دیکھے نہ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روے نیزے پہ سر شاہ امم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے خدا دست کرم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحیف آں عالم غربت کے سکینہ گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد الطاف پدر بہ غم و حرماں آید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت غربت میں سکینہ کی فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا ڈستہ ہے اندھیرا زنداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلد آؤ کے نکل جاے نہ جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کی یاد میں مر جاینگے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے خدا دست کرم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمی کشد نالہ ز حسرت سر دربار یزید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے محبانہ خیال در زنداں آید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر دربار فغاں زینب کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید کوفے میں ہوی بنت علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لحد شاہ نجف ہلنے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشک زینب کے جو برسے پیہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے خدا دست کرم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتحفہء اشک عزا پیش کنم من بہ خلوص"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہ ایں نوحہء غم بر لب ریحاں آید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بھی کیا سرور و ریحان کے پاس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان کی دولت ہے یہی غم کی اساس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کی نظر جناب عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک آواز ہے اور ایک قلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے خدا دست کرم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

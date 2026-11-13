@@ -1,12 +1,495 @@
 {
   "remoteId": "g2611_u0311",
-  "title": "Afsos mai nahi hoo",
+  "title": "افسوس میں نہیں ہوں",
   "body": "خواب صغرا\n<<DIVIDER>>\nبہن نے خواب یہ کل شب ہے دیکھا\nشبیہ مصطفیٰ بھیا ہمارا\nپدر کے ہاتھ سے بنتا ہے دولہا\nبہت مسرور ہے خوش ہے سکینہ\nدمکتا ہے خوشی سے سب کا چہرہ\nلیکن میں نہیں ہوں افسوس میں نہیں ہوں\n<<DIVIDER>>\nپھپھی اماں بلاییں لے رہی ہے\nبہت فضہ دعائیں دے رہی ہے\nٹھکانہ کیا ہے بہنوں کی خوشی کا\nجو مانگے وہ جو چاہے لے رہی ہے\nمناتا ہے خوشی کنبہ ہمارا\nلیکن میں نہیں ہوں۔۔۔\n<<DIVIDER>>\nعلی اصغر کو شہ والا بنا کر\nبٹھایا ماں نے اکبر کے برابر\nہتھیلی پر رکھی مہندی زرا سی\nکھڑے ہیں پاس عباس دلاور\nمجھے قاسم نے ہر خیمے میں ڈھونڈا\nلیکن میں نہیں ہوں۔۔۔\n<<DIVIDER>>\nدلہن کے پاس بیٹھی ہے سکینہ\nبہت مسرور ہے غازی کا بیٹا\nچچا اکبر کی شادی کی خوشی میں\nنیا ملبوس ہے باقر نے پہنے\nاچانک مجھکو عابد نے پکارا\nلیکن میں نہیں ہوں۔۔۔\n<<DIVIDER>>\nمہک سہرے کی یہ بتلا رہی ہے\nسواری سیدہ کی آ رہی ہے\nنجف سے مرتظی آے ہوے ہے\nہوا تعظیم کرنے جا رہی ھے\nہے آنچل مل کے سب بہنوں نے ڈالا\nلیکن میں نہیں ہوں۔۔۔\n<<DIVIDER>>\nاچانک خواب ٹوٹا روی صغرا\nتھا گھر میں ہر طرف چھایا اندھیرا\nتھا لاشوں سے بھرا گنج شہیداں\nعلی اکبر کے سینے میں تھا نیزہ\nمیرے بابا تمہیں دینے کو پرسہ\nلیکن میں نہیں ہوں۔۔۔\n<<DIVIDER>>\nابھی تو خواب تھا کتنا سہانا\nتھا جن ہاتھوں میں دیکھا میں نے کنگنا\nوہ سینے کا لہو روکے ہوے تھے\nکہاں کی رسم شادی کیسا سہرا\nسبھی دیتے ہیں بابا کو سہارا\nلیکن میں نہیں ہوں۔۔۔\n<<DIVIDER>>\nسمر بہتے رہے صغرا کے آنسوں\nبھرے اکبر کے خاک و خوں میں گیسوں\nعلی اکبر سوے جنت سدھارے\nفضا میں رہ گیء بس خون کی بو\nجنازہ میں اٹھاتی مل کے بابا\nلیکن میں نہیں ہوں۔۔۔",
+  "styling": [
+    {
+      "insert": "خواب صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہن نے خواب یہ کل شب ہے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیہ مصطفیٰ بھیا ہمارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پدر کے ہاتھ سے بنتا ہے دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت مسرور ہے خوش ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دمکتا ہے خوشی سے سب کا چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن میں نہیں ہوں افسوس میں نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھپھی اماں بلاییں لے رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت فضہ دعائیں دے رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹھکانہ کیا ہے بہنوں کی خوشی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مانگے وہ جو چاہے لے رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مناتا ہے خوشی کنبہ ہمارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن میں نہیں ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی اصغر کو شہ والا بنا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بٹھایا ماں نے اکبر کے برابر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہتھیلی پر رکھی مہندی زرا سی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھڑے ہیں پاس عباس دلاور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے قاسم نے ہر خیمے میں ڈھونڈا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن میں نہیں ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدلہن کے پاس بیٹھی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت مسرور ہے غازی کا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چچا اکبر کی شادی کی خوشی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیا ملبوس ہے باقر نے پہنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچانک مجھکو عابد نے پکارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن میں نہیں ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمہک سہرے کی یہ بتلا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سواری سیدہ کی آ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نجف سے مرتظی آے ہوے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوا تعظیم کرنے جا رہی ھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آنچل مل کے سب بہنوں نے ڈالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن میں نہیں ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاچانک خواب ٹوٹا روی صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا گھر میں ہر طرف چھایا اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا لاشوں سے بھرا گنج شہیداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی اکبر کے سینے میں تھا نیزہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا تمہیں دینے کو پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن میں نہیں ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nابھی تو خواب تھا کتنا سہانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا جن ہاتھوں میں دیکھا میں نے کنگنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ سینے کا لہو روکے ہوے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں کی رسم شادی کیسا سہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سبھی دیتے ہیں بابا کو سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن میں نہیں ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسمر بہتے رہے صغرا کے آنسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھرے اکبر کے خاک و خوں میں گیسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی اکبر سوے جنت سدھارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فضا میں رہ گیء بس خون کی بو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنازہ میں اٹھاتی مل کے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن میں نہیں ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Samar Zaidi",
   "anjumans": [],
   "verified": false

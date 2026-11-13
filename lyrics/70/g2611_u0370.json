@@ -1,12 +1,383 @@
 {
   "remoteId": "g2611_u0370",
-  "title": "Akbar tere seene se",
+  "title": "اکبر تیرے سینے سے",
   "body": "ڈر ہے نکل آے نہ سینے سے کلیجہ\nاکبر تیرے سینے سے سناں کیسے نکالوں\n<<DIVIDER>>\nیہ سونچ کے دل ٹکڑے ہوا جاتا ہے میرا\nاکبر تیرے سینے سے سناں کیسے نکالوں\n<<DIVIDER>>\nآسان‌ نہیں پیری میں سہنا کوئی صدمہ\nاک باپ کا مرنا ہے جواں بیٹے کا مرنا\nدم نکلے گا تیرا تو میں مر جاؤں گا بیٹا\nاکبر تیرے سینے سے۔۔۔\n<<DIVIDER>>\nسینہ تیرا زخمی ہے لہو بہتا ہے سارا\nالفت کا تقاضہ ہے کہ کچھ بھی نہیں دکھتا\nسینے کو تیرے باپ نے بچپن سے ہے چوما\nاکبر تیرے سینے سے۔۔۔\n<<DIVIDER>>\nتر خون میں بیٹے کو بھلا دیکھے گی کیسے\nجاری ہے ابھی خون تیرے زخم جگر سے\nمر جاۓ گی یہ دیکھ کے مادر تیری لیلیٰ\nاکبر تیرے سینے سے۔۔۔\n<<DIVIDER>>\nبرچی جو نکالی تو نہ رہ پاؤ گے زندہ\nمشکل میں بہت آج ہے بیٹا تیرا بابا\nمعلوم ہے مر جاؤ گے کچھ دیر میں بیٹا\nاکبر تیرے سینے سے۔۔۔\n<<DIVIDER>>\nہاتھوں میں نکل جائے گا دم اے میرے بیٹا\nاس دشت میں رہ جاؤں گا اب بیکس و تنہا\nیہ سونچ کے روتا ہے بہت یہ تیرا بابا\nاکبر تیرے سینے سے۔۔۔\n<<DIVIDER>>\nقاسم بھی نہیں اب میرا عباس کہاں ہے\nہر سمت ستمگار ہے دشمن یہ جہاں ہے\nتنہا ہی اٹھانا ہے مجھے اب تیرا لاشہ\nاکبر تیرے سینے سے۔۔۔\n<<DIVIDER>>\nبیٹھی ہے یہی آس لگاے ہوے دکھیا\nدولہا میں بناؤں گی میرا آے گا بھیا\nسہرے کو سجاتی ہوی رہ جائے گی صغرا\nاکبر تیرے سینے سے۔۔۔\n<<DIVIDER>>\nاے دانش و ریحان کوئی کیسے لکھے گا\nاک باپ نے دیکھا ہے نکلتے ہوےکلیجہ\nکہتے ہوے شبیر نے جب نیزہ نکالا\nاکبر تیرے سینے سے۔۔۔",
+  "styling": [
+    {
+      "insert": "ڈر ہے نکل آے نہ سینے سے کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر تیرے سینے سے سناں کیسے نکالوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سونچ کے دل ٹکڑے ہوا جاتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر تیرے سینے سے سناں کیسے نکالوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآسان‌ نہیں پیری میں سہنا کوئی صدمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک باپ کا مرنا ہے جواں بیٹے کا مرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم نکلے گا تیرا تو میں مر جاؤں گا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر تیرے سینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسینہ تیرا زخمی ہے لہو بہتا ہے سارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الفت کا تقاضہ ہے کہ کچھ بھی نہیں دکھتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے کو تیرے باپ نے بچپن سے ہے چوما"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر تیرے سینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتر خون میں بیٹے کو بھلا دیکھے گی کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاری ہے ابھی خون تیرے زخم جگر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جاۓ گی یہ دیکھ کے مادر تیری لیلیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر تیرے سینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرچی جو نکالی تو نہ رہ پاؤ گے زندہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشکل میں بہت آج ہے بیٹا تیرا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معلوم ہے مر جاؤ گے کچھ دیر میں بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر تیرے سینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھوں میں نکل جائے گا دم اے میرے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس دشت میں رہ جاؤں گا اب بیکس و تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سونچ کے روتا ہے بہت یہ تیرا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر تیرے سینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاسم بھی نہیں اب میرا عباس کہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سمت ستمگار ہے دشمن یہ جہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہی اٹھانا ہے مجھے اب تیرا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر تیرے سینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹھی ہے یہی آس لگاے ہوے دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دولہا میں بناؤں گی میرا آے گا بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہرے کو سجاتی ہوی رہ جائے گی صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر تیرے سینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے دانش و ریحان کوئی کیسے لکھے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک باپ نے دیکھا ہے نکلتے ہوےکلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے ہوے شبیر نے جب نیزہ نکالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر تیرے سینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Danish Mirza",
   "anjumans": [],
   "verified": false

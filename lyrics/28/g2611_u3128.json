@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u3128",
-  "title": "Sunlo apni beti ke",
+  "title": "سُن لو اپنی بیٹی کے",
   "body": "سُن لو اپنی بیٹی کے آخری بیاں بابا\nبند ہونے والی ہے اب میری زباں بابا\n<<DIVIDER>>\nدیکھ لو جو باقی تھے وہ بھی امتحاں بابا\nگر پڑا یتیمی کا سر پہ آسماں بابا\nسُن لو اپنی بیٹی کے ۔۔۔\n<<DIVIDER>>\nجب میرا جواں بھیا ایڑیاں رگڑتا تھا\nچُبھ رہی تھی میرے بھی دل میں برچھیاں بابا\nسُن لو اپنی بیٹی کے ۔۔۔\n<<DIVIDER>>\nچھِن چُکی ہر اک چادر جل چُکا ہراک خیمہ\nلُٹ گئی سبھی دولت رہ گئے نشاں بابا\nسُن لو اپنی بیٹی کے ۔۔۔\n<<DIVIDER>>\nکان ہو گئے زخمی گال ہو گئے نیلے\nظالموں نے یوں چھینی میری بالیاں بابا\nسُن لو اپنی بیٹی کے ۔۔۔\n<<DIVIDER>>\nہم تمہارے سینے پر سو چکے جو سونا تھا\nنیند بھی وہیں پہنچی آپ ہیں جہاں بابا\nسُن لو اپنی بیٹی کے ۔۔۔\n<<DIVIDER>>\nقید کے اندھیرے میں گھُٹ رہا ہے دم میرا\nاب نہیں سہی جاتی اور سختیاں بابا\nسُن لو اپنی بیٹی کے ۔۔۔\n<<DIVIDER>>\nکب جلا میرا دامن یہ خبر نہیں مجھ کو\nسامنے تھا آنکھوں کے دور تک دھواں بابا\nسُن لو اپنی بیٹی کے ۔۔۔\n<<DIVIDER>>\nیہ نظیر اپنا ہے اسکو بکشوا دینا\nاسنے روکے لکھی ہے میری داستان بابا\nسُن لو اپنی بیٹی کے ۔۔۔",
+  "styling": [
+    {
+      "insert": "سُن لو اپنی بیٹی کے آخری بیاں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بند ہونے والی ہے اب میری زباں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھ لو جو باقی تھے وہ بھی امتحاں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر پڑا یتیمی کا سر پہ آسماں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُن لو اپنی بیٹی کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب میرا جواں بھیا ایڑیاں رگڑتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چُبھ رہی تھی میرے بھی دل میں برچھیاں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُن لو اپنی بیٹی کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھِن چُکی ہر اک چادر جل چُکا ہراک خیمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹ گئی سبھی دولت رہ گئے نشاں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُن لو اپنی بیٹی کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکان ہو گئے زخمی گال ہو گئے نیلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالموں نے یوں چھینی میری بالیاں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُن لو اپنی بیٹی کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم تمہارے سینے پر سو چکے جو سونا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند بھی وہیں پہنچی آپ ہیں جہاں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُن لو اپنی بیٹی کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقید کے اندھیرے میں گھُٹ رہا ہے دم میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہیں سہی جاتی اور سختیاں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُن لو اپنی بیٹی کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکب جلا میرا دامن یہ خبر نہیں مجھ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سامنے تھا آنکھوں کے دور تک دھواں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُن لو اپنی بیٹی کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ نظیر اپنا ہے اسکو بکشوا دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسنے روکے لکھی ہے میری داستان بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُن لو اپنی بیٹی کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Meer Nazeer Baqari",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,415 @@
 {
   "remoteId": "g2611_u2608",
-  "title": "Pardes hai ghurbat",
+  "title": "پردیس ہے غر بت",
   "body": "مسلم کے د لارے\n<<DIVIDER>>\nپردیس ہے غر بت ہے مسلم کے د لارے ہیں\nہے دور وطن دونوں تقدیر کے مارے ہیں\n<<DIVIDER>>\nبچھڑا ہے پدر جب سے دونوں پہ مصیبت ہے\nبھوکے ہیں کئ دن کے اور پیاس کی شدت ہے\nجائیں تو کہاں جائیں یہ سوچ کے روتے ہیں\nپردیس ہے غر بت ہے۔۔۔\n<<DIVIDER>>\nحال اپنا بتانے کو ہمدرد کہاں پائیں\nانجان ہیں کوفہ سے جائیں تو کہاں جائیں\nچھپ چھپ کے وہ پردیسی دن رات بتاتے ہیں\nپردیس ہے غر بت ہے۔۔۔\n<<DIVIDER>>\nچھوٹے کو بڑا بھائی گودی میں اٹھاتا ہے\nبھائی کا سفر بھائی آسان بناتا ہے\nمل جائیگا اب رستہ یہ سوچ کے چلتے ہیں\nپردیس ہے غر بت ہے۔۔۔\n<<DIVIDER>>\nتقدیر یتیموں کو دن رات ستاتی ہے\nاور باپ کی فرقت بھی دونوں کو رلاتی ہے\nکوفہ میں بھٹکتے ہیں اور اشک بہاتے ہیں\nپردیس ہے غر بت ہے۔۔۔\n<<DIVIDER>>\nہے دونوں کے بال الجھے کپڑے بھی ہوۓ میلے\nکوئی بھی نہیں ایسا آکر کے جو یہ پوچھے\nیہ سوۓ نہیں کب سے اور کب کے یہ جاگے ہیں\nپردیس ہے غر بت ہے۔۔۔\n<<DIVIDER>>\nآ کر کے کوئی ان کو سینے سے لگا لیتا\nاور راہ مدینے کی دونوں کو بتا دیتا\nیہ دونوں مسافر ہیں حیدر کے دُلارے ہیں\nپردیس ہے غر بت ہے۔۔۔\n<<DIVIDER>>\nاک پل بھی اجل ان کے پیچھے سے نہیں ہٹتی\nاور رنج و مصیبت کی بدلی بھی نہیں گھٹتی\nدو پھول سے بچے ہیں اور موت کے ساۓ ہیں\nپردیس ہے غر بت ہے۔۔۔\n<<DIVIDER>>\nوہ دونوں مسافر تھے پردیس میں بے وارث\nجب کر کے گرفتاری لے کر کے چلا حارث\nرخ کر کے مدینہ کا اماں کو بلاتے ہیں\nپردیس ہے غر بت ہے۔۔۔\n<<DIVIDER>>\nحارث نے یتیموں پر واعظ جو ستم ڈھاۓ\nوہ ظلم علی کیسے رہ رہ کے نہ یاد آئے\nتلوار ہے ظالم کی اور چاند سے بچے ہیں\nپردیس ہے غر بت ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "مسلم کے د لارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپردیس ہے غر بت ہے مسلم کے د لارے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے دور وطن دونوں تقدیر کے مارے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچھڑا ہے پدر جب سے دونوں پہ مصیبت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھوکے ہیں کئ دن کے اور پیاس کی شدت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جائیں تو کہاں جائیں یہ سوچ کے روتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس ہے غر بت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحال اپنا بتانے کو ہمدرد کہاں پائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انجان ہیں کوفہ سے جائیں تو کہاں جائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھپ چھپ کے وہ پردیسی دن رات بتاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس ہے غر بت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھوٹے کو بڑا بھائی گودی میں اٹھاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی کا سفر بھائی آسان بناتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل جائیگا اب رستہ یہ سوچ کے چلتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس ہے غر بت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتقدیر یتیموں کو دن رات ستاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور باپ کی فرقت بھی دونوں کو رلاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفہ میں بھٹکتے ہیں اور اشک بہاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس ہے غر بت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے دونوں کے بال الجھے کپڑے بھی ہوۓ میلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی بھی نہیں ایسا آکر کے جو یہ پوچھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سوۓ نہیں کب سے اور کب کے یہ جاگے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس ہے غر بت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآ کر کے کوئی ان کو سینے سے لگا لیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور راہ مدینے کی دونوں کو بتا دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دونوں مسافر ہیں حیدر کے دُلارے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس ہے غر بت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک پل بھی اجل ان کے پیچھے سے نہیں ہٹتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور رنج و مصیبت کی بدلی بھی نہیں گھٹتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو پھول سے بچے ہیں اور موت کے ساۓ ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس ہے غر بت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ دونوں مسافر تھے پردیس میں بے وارث"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کر کے گرفتاری لے کر کے چلا حارث"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخ کر کے مدینہ کا اماں کو بلاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس ہے غر بت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحارث نے یتیموں پر واعظ جو ستم ڈھاۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ظلم علی کیسے رہ رہ کے نہ یاد آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تلوار ہے ظالم کی اور چاند سے بچے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس ہے غر بت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Pisaraan-e-Muslim (a.s)",
+  "subcategory": "پسران مسلم (ع)",
   "author": "Waiz Sultanpuri",
   "anjumans": [],
   "verified": false

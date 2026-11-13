@@ -1,12 +1,305 @@
 {
   "remoteId": "g2611_u2677",
-  "title": "Qaid zindan may",
+  "title": "قید زنداں میں",
   "body": "قید زنداں میں چھوٹی سی اک ہے قیدن\nاک ہے قیدن\n<<DIVIDER>>\nجانے کب ہوکے رہا جاے گی وہ اپنے وطن\nاک ہے قیدن\n<<DIVIDER>>\nدور بابا سے ہوی بھیا سے بھی دور ہوی\nسسکیاں لے نہ سکے کتنی وہ مجبور ہوی\nخون کانوں سے رواں ہاتھوں میں ہے اس کے رسن\nاک ہے قیدن\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nجب سے بچھڑی ہے وہ بابا سے کہاں سوتی ہے\nیاد زندان میں بابا کو کر کے روتی ہے\nکب اسے سونے بھلا دیتی ہے پتھروں کی چھبھن\nاک ہے قیدن\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nپوچھتی رہتی ہے سجاد سے کب جاؤں گی گھر\nکرنا احسان یہ مجھ پر بھای مر جاؤں اگر\nجہاں اصغر ہے وہاں کرنا مجھے بھای دفن\nاک ہے قیدن\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nجب وہ زنداں کی دیواروں سے ٹکراتی ہے\nصرف زنجیر کے رونے کی صدا آتی ہے\nروے زندان اسے روے اسے چرخ کہن\nاک ہے قیدن\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nچھایا زندان میں ہے گور اندھیرا ہاے\nاور زنداں کے اندھیروں میں وہ ڈر ڈر جاے\nہاے خرشید تھی نہ آے نہ در اس کو کرن\nاک ہے قیدن\nقید زنداں میں۔۔۔",
+  "styling": [
+    {
+      "insert": "قید زنداں میں چھوٹی سی اک ہے قیدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ہے قیدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانے کب ہوکے رہا جاے گی وہ اپنے وطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ہے قیدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدور بابا سے ہوی بھیا سے بھی دور ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سسکیاں لے نہ سکے کتنی وہ مجبور ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون کانوں سے رواں ہاتھوں میں ہے اس کے رسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ہے قیدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے بچھڑی ہے وہ بابا سے کہاں سوتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد زندان میں بابا کو کر کے روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب اسے سونے بھلا دیتی ہے پتھروں کی چھبھن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ہے قیدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپوچھتی رہتی ہے سجاد سے کب جاؤں گی گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرنا احسان یہ مجھ پر بھای مر جاؤں اگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جہاں اصغر ہے وہاں کرنا مجھے بھای دفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ہے قیدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب وہ زنداں کی دیواروں سے ٹکراتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صرف زنجیر کے رونے کی صدا آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روے زندان اسے روے اسے چرخ کہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ہے قیدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھایا زندان میں ہے گور اندھیرا ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور زنداں کے اندھیروں میں وہ ڈر ڈر جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے خرشید تھی نہ آے نہ در اس کو کرن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ہے قیدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "anjumans": [],
   "verified": false
 }

@@ -1,7 +1,410 @@
 {
   "remoteId": "g2611_u1570",
-  "title": "Hurr aa raha hai",
+  "title": "حر آ رہا ہے",
   "body": "حر ابنِ رہای آجا میرے بھائی\n<<DIVIDER>>\nحر آ رہا ہے اکبر سینے اسے لگاؤ\nمہمان کو ہمارے خیمے میں لے کے آؤ\n<<DIVIDER>>\nخود یاد ہوگا اسکو پانی تھا اس نے روکا\nخدار وہ بہت ہے شرمندہ ہم سے ہوگا\nپیاسے ہیں سارے بچے اس کو نہ یہ بتاؤ\nحر آ رہا ہے اکبر۔۔۔\n<<DIVIDER>>\nدیکھو وہ چل رہا ہے میداں میں لڑکھڑا کر\nگرنے سے پہلے اکبر اسکو سنبھالو جا کر\nاے میرے شاہ زادے جلدی قدم‌ بڑھاؤ\nحر آ رہا ہے اکبر۔۔۔\n<<DIVIDER>>\nعباس اپنے دل سے ہر بات صاف کر دو\nماں فاطمہ کے صدقے حر کو معاف کر دو\nجا کر الم کے اس کو ساے میں لے کے آؤ\nحر آ رہا ہے اکبر۔۔۔\n<<DIVIDER>>\nبیٹا حسین قیدی کیسے کسی کو دیکھے\nمیری طرف سے کھولو تم اس کے ہاتھ جا کے\nبابا خفا نہیں ہیں جا کر اسے بتاؤ\nحر آ رہا ہے اکبر۔۔۔\n<<DIVIDER>>\nتم سے بھی پہلے مرنے جاے گا اس کا بیٹا\nجی بھر کے دیکھلے وہ اپنے پسر کا چہرہ\nکم وقت رہ گیا ہے جا کر اسے بتاؤ\nحر آ رہا ہے اکبر۔۔۔\n<<DIVIDER>>\nتا حشر یہ کریمی سب یاد ہی رکھیں گے\nمہمان کا پسینہ خود صاف ہم کریں گے\nفضہ ہماری ماں کا رومال لے کے آؤ\nحر آ رہا ہے اکبر۔۔۔\n<<DIVIDER>>\nجس دم سنی علی کی بیٹی نے یہ صداییں\nآنسوں بہا کے اسکو دینے لگی دعائیں\nبچوں سے پھر یہ بولی حر کو گلے لگاؤ\nحر آ رہا ہے اکبر۔۔۔\n<<DIVIDER>>\nماں فاطمہ کے لب پر اس کے لئے دعا ہے\nغربت میں اس نے ہم پر احسان کر دیا ہے\nحر کے غلام کو بھی عزت سے لے کے آؤ\nحر آ رہا ہے اکبر۔۔۔\n<<DIVIDER>>\nسجاد کیا بیاں ہو کہتی تھی بنت زہرا\nبھای کی جاں بچانے اک اور حبیب آیا\nمیرا سلام فضہ پہنچا کے اسکو آؤ\nحر آ رہا ہے اکبر۔۔۔",
+  "styling": [
+    {
+      "insert": "حر ابنِ رہای آجا میرے بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحر آ رہا ہے اکبر سینے اسے لگاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مہمان کو ہمارے خیمے میں لے کے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخود یاد ہوگا اسکو پانی تھا اس نے روکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدار وہ بہت ہے شرمندہ ہم سے ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسے ہیں سارے بچے اس کو نہ یہ بتاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حر آ رہا ہے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھو وہ چل رہا ہے میداں میں لڑکھڑا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرنے سے پہلے اکبر اسکو سنبھالو جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے شاہ زادے جلدی قدم‌ بڑھاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حر آ رہا ہے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس اپنے دل سے ہر بات صاف کر دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں فاطمہ کے صدقے حر کو معاف کر دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا کر الم کے اس کو ساے میں لے کے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حر آ رہا ہے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹا حسین قیدی کیسے کسی کو دیکھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری طرف سے کھولو تم اس کے ہاتھ جا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا خفا نہیں ہیں جا کر اسے بتاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حر آ رہا ہے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم سے بھی پہلے مرنے جاے گا اس کا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جی بھر کے دیکھلے وہ اپنے پسر کا چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کم وقت رہ گیا ہے جا کر اسے بتاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حر آ رہا ہے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتا حشر یہ کریمی سب یاد ہی رکھیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مہمان کا پسینہ خود صاف ہم کریں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فضہ ہماری ماں کا رومال لے کے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حر آ رہا ہے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس دم سنی علی کی بیٹی نے یہ صداییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنسوں بہا کے اسکو دینے لگی دعائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچوں سے پھر یہ بولی حر کو گلے لگاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حر آ رہا ہے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں فاطمہ کے لب پر اس کے لئے دعا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غربت میں اس نے ہم پر احسان کر دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حر کے غلام کو بھی عزت سے لے کے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حر آ رہا ہے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد کیا بیاں ہو کہتی تھی بنت زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کی جاں بچانے اک اور حبیب آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا سلام فضہ پہنچا کے اسکو آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حر آ رہا ہے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

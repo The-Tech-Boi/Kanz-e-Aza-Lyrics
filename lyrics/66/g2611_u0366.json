@@ -1,12 +1,432 @@
 {
   "remoteId": "g2611_u0366",
-  "title": "Akbar ne kaha",
+  "title": "اکبر نے کہا",
   "body": "اکبر نے کہا زخم کلیجے کا چھپا دو\nاماں میری جیتی ہو تو ایک بار ملا دو\n<<DIVIDER>>\nاماں نے یہ فرمایا تھا گھر لوٹ کے آنا\nاس چاند سی صورت کو ہمیں پھر سے دکھانا\nیاں خاک بسر ان کا پسر ہو گیا بابا\nچہرہ تو میرا خون میں تر ہو گیا بابا\nاکبر نے کہا زخم۔۔۔\n<<DIVIDER>>\nبہتر ہے چھپا دے میرے سینے کے نشان کو\nحالانکہ کے خبر مل گیء ہو گی میری ماں کو\nکہنا کے ہے بے حال یہ بیمار تمہارا\nکرنے کو چلا آیا ہے دیدار تمہارا\nاکبر نے کہا زخم۔۔۔\n<<DIVIDER>>\nاماں نے بڑے نازوں سے صدقہ بھی اتارا\nدولہا کی طرح ہمیں نازوں سے سنبھالا\nاکبر نہ کوئی تم پہ مصیبت خدا لاے\nاے لال تمہیں رن سے سلامت خدا لاے\nاکبر نے کہا زخم۔۔۔\n<<DIVIDER>>\nبابا یہ میرا خون تو کپڑوں سے ہٹا دو\nاچھا تو مجھے دوسری پوشاک پہنا دو\nغلطاں مجھے دیکھے گی اگر خوں کے وضو میں\nکہہ دیں گی میرے دودھ کی خوشبو ہے لہو میں\nاکبر نے کہا زخم۔۔۔\n<<DIVIDER>>\nدم ہاتھوں میں دے جاتا ہے جب گود کا پالا\nپھر زندہ نہیں رہتی ہے وہ ماں شہ والا\nیہ بار گراں اے میرے مولا نہیں اٹھتا\nماؤں سے جواں بیٹے کا صدمہ نہیں اٹھتا\nاکبر نے کہا زخم۔۔۔\n<<DIVIDER>>\nگھر جانے کی حالت تو نہیں ایسی ہماری\nوہ زخم لگا کاری کے دم لینا ہے بھاری\nسر اونچا کیا آپ کا بتلاؤں گا بابا\nاماں کے قدم چومنے گھر جاؤں گا بابا\nاکبر نے کہا زخم۔۔۔\n<<DIVIDER>>\nکہنا کہ پسر آپ نے شبیر پہ وارا‌\nمقبول کرے آپ کی قربانی کو زہرا\nاماں ہو مبارک یہ بڑا کام ہوا ہے\nزہرا کی کنیزوں میں تیرا نام ہوا ہے\nاکبر نے کہا زخم۔۔۔\n<<DIVIDER>>\nلیلیٰ کے جواں لال کا اے شادماں نوحہ\nتاعید حسینی سے رضا آپ نے لکھا\nاللّٰہ رے مجلس میں بڑا جوش‌ فغاں ہے\nمطلب کے یہاں اور بھی ایک مرثیہ خواں ہے\nاکبر نے کہا زخم۔۔۔",
+  "styling": [
+    {
+      "insert": "اکبر نے کہا زخم کلیجے کا چھپا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں میری جیتی ہو تو ایک بار ملا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں نے یہ فرمایا تھا گھر لوٹ کے آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس چاند سی صورت کو ہمیں پھر سے دکھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاں خاک بسر ان کا پسر ہو گیا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرہ تو میرا خون میں تر ہو گیا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نے کہا زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہتر ہے چھپا دے میرے سینے کے نشان کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حالانکہ کے خبر مل گیء ہو گی میری ماں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنا کے ہے بے حال یہ بیمار تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرنے کو چلا آیا ہے دیدار تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نے کہا زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں نے بڑے نازوں سے صدقہ بھی اتارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دولہا کی طرح ہمیں نازوں سے سنبھالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نہ کوئی تم پہ مصیبت خدا لاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لال تمہیں رن سے سلامت خدا لاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نے کہا زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا یہ میرا خون تو کپڑوں سے ہٹا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھا تو مجھے دوسری پوشاک پہنا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غلطاں مجھے دیکھے گی اگر خوں کے وضو میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ دیں گی میرے دودھ کی خوشبو ہے لہو میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نے کہا زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدم ہاتھوں میں دے جاتا ہے جب گود کا پالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر زندہ نہیں رہتی ہے وہ ماں شہ والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بار گراں اے میرے مولا نہیں اٹھتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماؤں سے جواں بیٹے کا صدمہ نہیں اٹھتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نے کہا زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر جانے کی حالت تو نہیں ایسی ہماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ زخم لگا کاری کے دم لینا ہے بھاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر اونچا کیا آپ کا بتلاؤں گا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں کے قدم چومنے گھر جاؤں گا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نے کہا زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہنا کہ پسر آپ نے شبیر پہ وارا‌"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقبول کرے آپ کی قربانی کو زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں ہو مبارک یہ بڑا کام ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی کنیزوں میں تیرا نام ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نے کہا زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلیلیٰ کے جواں لال کا اے شادماں نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تاعید حسینی سے رضا آپ نے لکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللّٰہ رے مجلس میں بڑا جوش‌ فغاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مطلب کے یہاں اور بھی ایک مرثیہ خواں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نے کہا زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Raza",
   "anjumans": [],
   "verified": false

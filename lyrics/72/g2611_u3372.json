@@ -1,12 +1,323 @@
 {
   "remoteId": "g2611_u3372",
-  "title": "Ya fatema zahra",
+  "title": "یا فاطمہ زہرا",
   "body": "یا فاطمہ زہرا یا فاطمہ زہرا\n<<DIVIDER>>\nجیتے ہیں فقط ہم غم سرور کے سہارے\nاشکوں کے سوا کچھ بھی نہیں پاس ہمارے\nکیا نظر کرے مفلس و نادار ہے بی بی\nہم آپ کے بچوں کے عزادار ہے بی بی\nیا فاطمہ زہرا۔۔۔\n<<DIVIDER>>\nدیکھو تو میرے قوم کے بچوں کو بھی ہے غم\nجو ماؤں کی گودی میں کیا کرتے ہیں ماتم\nنادان ہو کہ پھر بھی سمجھدار ہے بی بی\nہم آپ کے بچوں کے عزادار ہے بی بی\nیا فاطمہ زہرا۔۔۔\n<<DIVIDER>>\nدیتے ہیں تمہیں شبر و شبیر کا پرسہ\nمخصوص بہتر میں ہے بے شیر کا پرسہ\nقاسم کے اور عباس کے غم خوار ہے بی بی\nہم آپ کے بچوں کے عزادار ہے بی بی\nیا فاطمہ زہرا۔۔۔\n<<DIVIDER>>\nدن ڈھل گیا اور عصر کا ہنگام جو آیا\nسب قتل ہوے رہ گےء تنہا شہ والا\nبھای نہ بھتیجے نہ انصار ہے بی بی\nہم آپ کے بچوں کے عزادار ہے بی بی\nیا فاطمہ زہرا۔۔۔\n<<DIVIDER>>\nعاشور کا دن ہے کہ قیامت کا ہے منظر\nاور گردن شبیر پہ چلتا ہوا خنجر\nہر سمت سے اب نیزہ و تلوار ہے بی بی\nہم آپ کے بچوں کے عزادار ہے بی بی\nیا فاطمہ زہرا۔۔۔\n<<DIVIDER>>\nکوثر کی دعا ہے لیےء عباس کا پرچم\nمحسن در شبیر پہ جا کر کرے ماتم\nبس اتنی عنایت کے طلبگار ہیں بی بی\nہم آپ کے بچوں کے عزادار ہے بی بی\nیا فاطمہ زہرا۔۔۔",
+  "styling": [
+    {
+      "insert": "یا فاطمہ زہرا یا فاطمہ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجیتے ہیں فقط ہم غم سرور کے سہارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشکوں کے سوا کچھ بھی نہیں پاس ہمارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نظر کرے مفلس و نادار ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم آپ کے بچوں کے عزادار ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا فاطمہ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھو تو میرے قوم کے بچوں کو بھی ہے غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ماؤں کی گودی میں کیا کرتے ہیں ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نادان ہو کہ پھر بھی سمجھدار ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم آپ کے بچوں کے عزادار ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا فاطمہ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیتے ہیں تمہیں شبر و شبیر کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مخصوص بہتر میں ہے بے شیر کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کے اور عباس کے غم خوار ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم آپ کے بچوں کے عزادار ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا فاطمہ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدن ڈھل گیا اور عصر کا ہنگام جو آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب قتل ہوے رہ گےء تنہا شہ والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای نہ بھتیجے نہ انصار ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم آپ کے بچوں کے عزادار ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا فاطمہ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشور کا دن ہے کہ قیامت کا ہے منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور گردن شبیر پہ چلتا ہوا خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سمت سے اب نیزہ و تلوار ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم آپ کے بچوں کے عزادار ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا فاطمہ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوثر کی دعا ہے لیےء عباس کا پرچم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محسن در شبیر پہ جا کر کرے ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس اتنی عنایت کے طلبگار ہیں بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم آپ کے بچوں کے عزادار ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا فاطمہ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Kausar",
   "anjumans": [],
   "verified": false

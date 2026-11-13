@@ -1,12 +1,448 @@
 {
   "remoteId": "g2611_u2158",
-  "title": "Luti dunya ali",
+  "title": "لٹی دنیا علی",
   "body": "لٹی دنیا علی مرتضیٰ کی\nشہادت ہو گیء ہے سیدہ کی\n<<DIVIDER>>\nخدیجہ خلد میں نوحہ کناں ہے\nدہائی دے رہی ہے وہ خدا کی\nلٹی دنیا علی۔۔۔\n<<DIVIDER>>\nملے باغ فدک کا دل کو صدمہ\nستم یہ اور محسن نے قضا کی\nلٹی دنیا علی۔۔۔\n<<DIVIDER>>\nہے غم میں مبتلا روح پیمبر\nلحد تھرا رہی ہے مصطفیٰ کی\nلٹی دنیا علی۔۔۔\n<<DIVIDER>>\nملے زخموں پہ اسکو زخم اتنے\nضرورت تھی بہت جس کو دوا کی\nلٹی دنیا علی۔۔۔\n<<DIVIDER>>\nتھا میت پر یہی زینب کا نوحہ\nسزا پای ہے ہم نے کس خطا کی\nلٹی دنیا علی۔۔۔\n<<DIVIDER>>\nکہا حسنین نے قبر نبی پر\nارے نانا میری ماں نے قضا کی\nلٹی دنیا علی۔۔۔\n<<DIVIDER>>\nبہ وقت غسل میت روے حیدر\nشکستہ پسلیاں تھی اہلیہ کی\nلٹی دنیا علی۔۔۔\n<<DIVIDER>>\nنہ لے کر جایےء مادر کو میری\nپدر سے بیٹیوں نے التجاء کی\nلٹی دنیا علی۔۔۔\n<<DIVIDER>>\nمدینہ رو رہا تھا خوں کے آنسوں\nاٹھی میت جو گھر سے فاطمہ کی\nلٹی دنیا علی۔۔۔\n<<DIVIDER>>\nمسلمانوں نہ مارو اس پہ پتھر\nکہ میت ہے یہ بنت مصطفیٰ کی\nلٹی دنیا علی۔۔۔\n<<DIVIDER>>\nغمِ زہرا میں گریہ ہو رہا ہے\nمحرم ہے صفوں میں انبیاء کی\nلٹی دنیا علی۔۔۔\n<<DIVIDER>>\nرسولِ پاک کا گلشن ہے ضد میں\nستم کی آگ ہے ایسی بلا کی\nلٹی دنیا علی۔۔۔\n<<DIVIDER>>\nغمِ شہ پر رضا کیوں کر نہ روے\nحقیقت جانتے ہیں کربلا کی\nلٹی دنیا علی۔۔۔",
+  "styling": [
+    {
+      "insert": "لٹی دنیا علی مرتضیٰ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہادت ہو گیء ہے سیدہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخدیجہ خلد میں نوحہ کناں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دہائی دے رہی ہے وہ خدا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nملے باغ فدک کا دل کو صدمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم یہ اور محسن نے قضا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے غم میں مبتلا روح پیمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لحد تھرا رہی ہے مصطفیٰ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nملے زخموں پہ اسکو زخم اتنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضرورت تھی بہت جس کو دوا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھا میت پر یہی زینب کا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سزا پای ہے ہم نے کس خطا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا حسنین نے قبر نبی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ارے نانا میری ماں نے قضا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہ وقت غسل میت روے حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکستہ پسلیاں تھی اہلیہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ لے کر جایےء مادر کو میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پدر سے بیٹیوں نے التجاء کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمدینہ رو رہا تھا خوں کے آنسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھی میت جو گھر سے فاطمہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسلمانوں نہ مارو اس پہ پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ میت ہے یہ بنت مصطفیٰ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغمِ زہرا میں گریہ ہو رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محرم ہے صفوں میں انبیاء کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرسولِ پاک کا گلشن ہے ضد میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم کی آگ ہے ایسی بلا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغمِ شہ پر رضا کیوں کر نہ روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حقیقت جانتے ہیں کربلا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹی دنیا علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Raza Ali Khan Lakhnavi",
   "anjumans": [],
   "verified": false

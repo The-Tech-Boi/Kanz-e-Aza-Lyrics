@@ -1,12 +1,599 @@
 {
   "remoteId": "g2611_u0031",
-  "title": "Aagaya khafela",
+  "title": "آ گیا قافلہ",
   "body": "سادات وطن آ گئے\nبی بی فضہ کا ہے مرثیہ\nجیت کے جنگ کربوبلا\nلٹ کے پردیس میں\nلوٹ کر دیس میں\nآ گیا آ گیا قافلہ آ گیا\n<<DIVIDER>>\nاے جوانان ہاشم کہاں ہو سنو\nکوی جا کر یہ صغرا کو پیغام دو\nآ کے اجزا ہوا قافلہ دیکھ لو\nلٹ کے پردیس میں\nلوٹ کر دیس میں\nآ گیا آ گیا۔۔۔\n<<DIVIDER>>\nیہ حسینی شہیدوں کا ہے قافلہ\nبیکسوں اور اسیروں کا ہے قافلہ\nکربلا کے یتیموں کا ہے قافلہ\nلٹ کے پردیس میں\nلوٹ کر دیس میں\nآ گیا آ گیا۔۔۔\n<<DIVIDER>>\nپہنچی‌ صغرا کے کانوں میں جب یہ صدا\nخاک اڑانے لگی غم سے وہ مہ لقا\nیہ صدا سن کے دل ہو گیا کربلا\nلٹ کے پردیس میں\nلوٹ کر دیس میں\nآ گیا آ گیا۔۔۔\n<<DIVIDER>>\nبی بی فضہ نے صغرا سے پھر یہ کہا\nآ سناؤں تجھے میں وہ سب ماجرا\nکیسے آل محمد کو لوٹا گیا\nلٹ کے پردیس میں\nلوٹ کر دیس میں\nآ گیا آ گیا۔۔۔\n<<DIVIDER>>\nدو محرم کو پہنچے تھے ہم کربلا\nساتویں سے ہوے تشنہ لب بے خطا\nقتل صبحِ دہم ہو گےء اقرباء\nلٹ کے پردیس میں\nلوٹ کر دیس میں\nآ گیا آ گیا۔۔۔\n<<DIVIDER>>\nہم‌ شبیہ پیمبر کے نیزہ لگا\nتیرے اصغر کی گردن‌ پہ تیر جفا\nلاشہ مقتل میں قاسم کا روندا گیا\nلٹ کے پردیس میں\nلوٹ کر دیس میں\nآ گیا آ گیا۔۔۔\n<<DIVIDER>>\nبعد عباس ظلم و ستم کا سفر\nطاقت صبر ہے تو کہوں نوحہ گر\nکند خنجر تھا اور فاطمہ کا پسر\nلٹ کے پردیس میں\nلوٹ کر دیس میں\nآ گیا آ گیا۔۔۔\n<<DIVIDER>>\nشام‌ غربت گیء آ گیء وہ سحر\nجانب شام سیدانیوں کا سفر\nشام و کوفہ سے زنداں گےء ننگے سر\nلٹ کے پردیس میں\nلوٹ کر دیس میں\nآ گیا آ گیا۔۔۔\n<<DIVIDER>>\nنوحہ عرفان و مظہر مکمل ہوا\nایک ایک لفظ فضہ کا ہے مرثیہ\nدختر شاہ کو سن‌‌کے غش آ گیا\nلٹ کے پردیس میں\nلوٹ کر دیس میں\nآ گیا آ گیا۔۔۔",
+  "styling": [
+    {
+      "insert": "سادات وطن آ گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی فضہ کا ہے مرثیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیت کے جنگ کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ کے پردیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کر دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا آ گیا قافلہ آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے جوانان ہاشم کہاں ہو سنو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی جا کر یہ صغرا کو پیغام دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ کے اجزا ہوا قافلہ دیکھ لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ کے پردیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کر دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا آ گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ حسینی شہیدوں کا ہے قافلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسوں اور اسیروں کا ہے قافلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کے یتیموں کا ہے قافلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ کے پردیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کر دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا آ گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہنچی‌ صغرا کے کانوں میں جب یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک اڑانے لگی غم سے وہ مہ لقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صدا سن کے دل ہو گیا کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ کے پردیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کر دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا آ گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبی بی فضہ نے صغرا سے پھر یہ کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ سناؤں تجھے میں وہ سب ماجرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے آل محمد کو لوٹا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ کے پردیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کر دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا آ گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدو محرم کو پہنچے تھے ہم کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتویں سے ہوے تشنہ لب بے خطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل صبحِ دہم ہو گےء اقرباء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ کے پردیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کر دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا آ گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم‌ شبیہ پیمبر کے نیزہ لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے اصغر کی گردن‌ پہ تیر جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ مقتل میں قاسم کا روندا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ کے پردیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کر دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا آ گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد عباس ظلم و ستم کا سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طاقت صبر ہے تو کہوں نوحہ گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کند خنجر تھا اور فاطمہ کا پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ کے پردیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کر دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا آ گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام‌ غربت گیء آ گیء وہ سحر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانب شام سیدانیوں کا سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام و کوفہ سے زنداں گےء ننگے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ کے پردیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کر دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا آ گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوحہ عرفان و مظہر مکمل ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ایک لفظ فضہ کا ہے مرثیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دختر شاہ کو سن‌‌کے غش آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ کے پردیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کر دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا آ گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Wapasi-e-Ahle Haram",
+  "subcategory": "واپسی اہل حرم",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

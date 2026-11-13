@@ -1,12 +1,617 @@
 {
   "remoteId": "g2611_u1881",
-  "title": "Karbala dikha to",
+  "title": "کربلا دکھا تو",
   "body": "اے میرے مولا حسین\nاے میرے آقا حسین\n<<DIVIDER>>\nاے میرے مولا اے میرے مولا\nمرنے سے پہلے کربلا دکھا دے\n<<DIVIDER>>\nالھم ارزقنا شفاعت الحسین\nالھم ارزقنا زیارت الحسین\n<<DIVIDER>>\nمیں مر نہ جاؤں تم سے ملے بن\nیہ سوچ کر میں روتا ہوں ہر دن\nمس کر کے تیرے روضے سے مولا\nاپنا کفن سب لاتے ہے لیکن\nتیرا کفن میں لاؤنگا مجھکو\nاے بیکفن کوئی راستہ دکھا دے\nکربلا دکھا دے\nالھم ارزقنا۔۔۔\n<<DIVIDER>>\nغربت کا عالم سب سے چھپ کر\nکربوبلا سینے میں بسا کر\nشوق زیارت میں جی رہا ہوں\nمیں بھی نمک سے روٹیاں کھا کر\nمفلسی ہوں کیسے روضے پہ آؤں\nمولا تو کوئی معجزہ دکھا دے\nکربلا دکھا دے\nالھم ارزقنا۔۔۔\n<<DIVIDER>>\nزایر بنوں میں اسکے حرم کا\nسب پر ہے سایہ جس کے علم کا\nتم تو کریم کربوبلا ہو\nمیں منتظر ہوں تیرے کرم کا\nاب بھی جہاں ہے مشک سکینہ\nمجھکو وہ روضہء باوفا دکھا دے\nکربلا دکھا دے\nالھم ارزقنا۔۔۔\n<<DIVIDER>>\nاس باوفا کا چہرہ جہاں پر\nزخمی ہوا تھا گھوڑے سے گر کر\nبازو کہیں تھے پاؤں کہیں تھے\nکس طرح دیکھا تم‌ نے وہ منظر\nغازی جہاں پر بکھرا ہوا تھا\nہاے وہ نہر علقمہ دکھا دے\nکربلا دکھا دے\nالھم ارزقنا۔۔۔\n<<DIVIDER>>\nتم کو قسم ہے اس نوجواں کی\nجس کے جگر میں ٹوٹی سناں تھی\nماتم کروں میں جا کر وہاں پر\nاکبر کے بابا حسرت ہے میری\nکھینچی جہاں پر سینے سے برچھی\nآنکھوں کو میری وہ جگہ دکھا دے\nکربلا دکھا دے\nالھم ارزقنا۔۔۔\n<<DIVIDER>>\nرن میں جہاں تم تھک کر گرے تھے\nاتنا تھا مشکل زخمی تھے اتنے\nپھر اس مقام مہدی سے چل کر\nتم قتل گاہ تک آے تھے کیسے\nکہنیوں کے بل چلنا ہے مجھکو\nوہ راہ صدرت المنتہی دکھا دے\nکربلا دکھا دے\nالھم ارزقنا۔۔۔\n<<DIVIDER>>\nیاد آ رہی ہے کربوبلا کی\nسن لو صدا زیشان و رضا کی\nبلوا لو ہم کو اس اربعیں پر\nہے یہ تمنا اہلِ عزا کی\nپیدل نجف سے آنا ہے چل کے\nجنت کا مجھکو تو راستہ دکھا دے\nکربلا دکھا دے\nالھم ارزقنا۔۔۔",
+  "styling": [
+    {
+      "insert": "اے میرے مولا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے آقا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے میرے مولا اے میرے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرنے سے پہلے کربلا دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالھم ارزقنا شفاعت الحسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الھم ارزقنا زیارت الحسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں مر نہ جاؤں تم سے ملے بن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سوچ کر میں روتا ہوں ہر دن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مس کر کے تیرے روضے سے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنا کفن سب لاتے ہے لیکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا کفن میں لاؤنگا مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بیکفن کوئی راستہ دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الھم ارزقنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغربت کا عالم سب سے چھپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا سینے میں بسا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شوق زیارت میں جی رہا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بھی نمک سے روٹیاں کھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مفلسی ہوں کیسے روضے پہ آؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا تو کوئی معجزہ دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الھم ارزقنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزایر بنوں میں اسکے حرم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب پر ہے سایہ جس کے علم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم تو کریم کربوبلا ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں منتظر ہوں تیرے کرم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب بھی جہاں ہے مشک سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو وہ روضہء باوفا دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الھم ارزقنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس باوفا کا چہرہ جہاں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہوا تھا گھوڑے سے گر کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازو کہیں تھے پاؤں کہیں تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح دیکھا تم‌ نے وہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی جہاں پر بکھرا ہوا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے وہ نہر علقمہ دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الھم ارزقنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم کو قسم ہے اس نوجواں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے جگر میں ٹوٹی سناں تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کروں میں جا کر وہاں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے بابا حسرت ہے میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھینچی جہاں پر سینے سے برچھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں کو میری وہ جگہ دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الھم ارزقنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرن میں جہاں تم تھک کر گرے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا تھا مشکل زخمی تھے اتنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر اس مقام مہدی سے چل کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم قتل گاہ تک آے تھے کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنیوں کے بل چلنا ہے مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ راہ صدرت المنتہی دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الھم ارزقنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد آ رہی ہے کربوبلا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن لو صدا زیشان و رضا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلوا لو ہم کو اس اربعیں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یہ تمنا اہلِ عزا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیدل نجف سے آنا ہے چل کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنت کا مجھکو تو راستہ دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الھم ارزقنا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Zeeshan Abidi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,352 @@
 {
   "remoteId": "g2611_u3222",
-  "title": "Tooti hai kya qayamat",
+  "title": "ٹوٹی ہے کیا قیامت",
   "body": "ہاے اولاد مرتظی پر ٹوٹی ہے کیا قیامت\nبچہ تڑپ رہے ہیں بابا کا دیکھ کر سر\n<<DIVIDER>>\nجبریل یہ تڑپ کر آواز دے رہے ہیں\nمارا گیا ہے لوگوں سجدے میں شیر داور\nہاے اولاد مرتظی پر۔۔۔\n<<DIVIDER>>\nسر سے لہو مسلسل بہتا ہی جا رہا ہے\nکیسے سنبھالے شبر بابا کا جسم لاغر\nہاے اولاد مرتظی پر۔۔۔\n<<DIVIDER>>\nاتنا بتاے مجھکو بابا پہ کیا ہے گزری\nرو رو کے پوچھتی ہے بھای سے بنت حیدر\nہاے اولاد مرتظی پر۔۔۔\n<<DIVIDER>>\nتر خون سے جبیں ہے دیکھا جو باوفا نے\nچودہ برس کا غازی رویا بلک بلک کر\nہاے اولاد مرتظی پر۔۔۔\n<<DIVIDER>>\nحیدر کی چشم تر میں کوفے کا اک سماں ہے\nمجمے میں ہو گی زینب اک دن یہی کھلے سر\nہاے اولاد مرتظی پر۔۔۔\n<<DIVIDER>>\nمظلوم کی حمیت ہر گز نہ ترک کرنا\nدنیا سے جاتے جاتے یہ کہہ رہے ہیں حیدر\nہاے اولاد مرتظی پر۔۔۔\n<<DIVIDER>>\nپھر سے یتیم ہم کو نہ کیجیو خدایا\nکوفے کے سب یتیموں کی ہے دعا یہ لب پر\nہاے اولاد مرتظی پر۔۔۔\n<<DIVIDER>>\nقدموں پہ رکھ کے سر کو زینب یہ کہہ رہی ہے\nبچھڑے جو آپ بابا مر جاے گی یہ دختر\nہاے اولاد مرتظی پر۔۔۔\n<<DIVIDER>>\nبابا کے بعد جینا دشوار ہے ہمارا\nاک پل سکوں نہ ہو گا اب آل کو میسر\nہاے اولاد مرتظی پر۔۔۔\n<<DIVIDER>>\nغش کھا رہی ہے زینب بچے تڑپ رہے ہیں\nآل نبی میں دایم برپا ہے ایک محشر\nہاے اولاد مرتظی پر۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے اولاد مرتظی پر ٹوٹی ہے کیا قیامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچہ تڑپ رہے ہیں بابا کا دیکھ کر سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجبریل یہ تڑپ کر آواز دے رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارا گیا ہے لوگوں سجدے میں شیر داور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اولاد مرتظی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر سے لہو مسلسل بہتا ہی جا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے سنبھالے شبر بابا کا جسم لاغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اولاد مرتظی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاتنا بتاے مجھکو بابا پہ کیا ہے گزری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے پوچھتی ہے بھای سے بنت حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اولاد مرتظی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتر خون سے جبیں ہے دیکھا جو باوفا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چودہ برس کا غازی رویا بلک بلک کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اولاد مرتظی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحیدر کی چشم تر میں کوفے کا اک سماں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجمے میں ہو گی زینب اک دن یہی کھلے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اولاد مرتظی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمظلوم کی حمیت ہر گز نہ ترک کرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا سے جاتے جاتے یہ کہہ رہے ہیں حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اولاد مرتظی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر سے یتیم ہم کو نہ کیجیو خدایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے کے سب یتیموں کی ہے دعا یہ لب پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اولاد مرتظی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقدموں پہ رکھ کے سر کو زینب یہ کہہ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچھڑے جو آپ بابا مر جاے گی یہ دختر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اولاد مرتظی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا کے بعد جینا دشوار ہے ہمارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک پل سکوں نہ ہو گا اب آل کو میسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اولاد مرتظی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغش کھا رہی ہے زینب بچے تڑپ رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل نبی میں دایم برپا ہے ایک محشر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اولاد مرتظی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Dayam Najafi",
   "anjumans": [],
   "verified": false

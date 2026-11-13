@@ -1,12 +1,436 @@
 {
   "remoteId": "g2611_u3192",
-  "title": "Tera mehman hoo",
+  "title": "تیرا مہمان ہوں",
   "body": "تیرا مہمان ہوں شیریں تیرا مہمان ہوں\n<<DIVIDER>>\nتو مجھے جان نہ پائی یہ میں جانتا ہوں\nتو نہ پہچانے مگر میں تجھے پہچانتا ہوں\nتو خطاوار نہیں شیریں یہ میں جانتا ہوں\nتو نے اس حال میں کب پہلے مجھے دیکھا ہے\nبا خدا جان لے مجھکو پہچان لے\nتیرا مہمان ہوں شیریں تیرا مہمان ہوں\n<<DIVIDER>>\nمیں سلامت رہوں مانی تھی یہ تو نے منت\nہو گیء ختم زمانے سے یہ تیری زحمت\nگھر تیرے آج میں مہمان ہوا اس صورت\nسر میرا نوکِ سِناں جسم کربوبلا\nبا خدا جان لے۔۔۔\nتیرا مہمان ہوں۔۔۔\n<<DIVIDER>>\nیاد شیریں تجھے وہ ہوگا زمانہ میرا\nساتھ ساے کی طرح رہتا تھا نانا میرا\nکام جبریل کا تھا ناز اٹھانا میرا\nآج بے گور و کفن جسم ہے مقتل میں پڑا\nبا خدا جان لے۔۔۔\nتیرا مہمان ہوں۔۔۔\n<<DIVIDER>>\nٹکڑے ٹکڑے تھے پڑے رن میں جگر کے پارے\nلاش اکبر کی اٹھا لاے نہ ہمت ہارے\nحوصلہ دیکھ کے حیراں تھے فرشتے سارے\nایک مہمان پہ کیا کیا نہ ہوے ظلم و جفا\nبا خدا جان لے۔۔۔\nتیرا مہمان ہوں۔۔۔\n<<DIVIDER>>\nیا علی کہکے دی مقتل میں دہائی میں نے\nآستیں کہنیوں تک اپنی چڑھائی میں نے\nیوں سناں سینۂ اکبر سے نکالی میں نے\nسامنے نظروں کے فرزند نے دم توڑ دیا\nبا خدا جان لے۔۔۔\nتیرا مہمان ہوں۔۔۔\n<<DIVIDER>>\nگھر تیرے آیا ہوں اس حال میں حیران نہ ہو\nمیری مہمان نوازی میں پریشان نہ ہو\nبس دعا کر میرے جیسا کوئی مہمان نہ ہو\nایسے عالم میں آے نہ کسی کو بھی قضا\nبا خدا جان لے۔۔۔\nتیرا مہمان ہوں۔۔۔\n<<DIVIDER>>\nاشک خوں آج بھی آنکھوں سے رواں ہے میثم\nکیوں نہ ہو کرتی ہے خود فاطمہ زہرا ماتم\nخاک اڑاتے ہیں سر خلد رسول اکرم\nکیسا پر درد ہے خرشید یہ لکھا نوحہ\nبا خدا جان لے۔۔۔\nتیرا مہمان ہوں۔۔۔",
+  "styling": [
+    {
+      "insert": "تیرا مہمان ہوں شیریں تیرا مہمان ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو مجھے جان نہ پائی یہ میں جانتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو نہ پہچانے مگر میں تجھے پہچانتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو خطاوار نہیں شیریں یہ میں جانتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو نے اس حال میں کب پہلے مجھے دیکھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "با خدا جان لے مجھکو پہچان لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا مہمان ہوں شیریں تیرا مہمان ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں سلامت رہوں مانی تھی یہ تو نے منت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیء ختم زمانے سے یہ تیری زحمت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر تیرے آج میں مہمان ہوا اس صورت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر میرا نوکِ سِناں جسم کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "با خدا جان لے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا مہمان ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد شیریں تجھے وہ ہوگا زمانہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ ساے کی طرح رہتا تھا نانا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کام جبریل کا تھا ناز اٹھانا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج بے گور و کفن جسم ہے مقتل میں پڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "با خدا جان لے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا مہمان ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹکڑے ٹکڑے تھے پڑے رن میں جگر کے پارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاش اکبر کی اٹھا لاے نہ ہمت ہارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حوصلہ دیکھ کے حیراں تھے فرشتے سارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک مہمان پہ کیا کیا نہ ہوے ظلم و جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "با خدا جان لے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا مہمان ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا علی کہکے دی مقتل میں دہائی میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آستیں کہنیوں تک اپنی چڑھائی میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں سناں سینۂ اکبر سے نکالی میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سامنے نظروں کے فرزند نے دم توڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "با خدا جان لے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا مہمان ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر تیرے آیا ہوں اس حال میں حیران نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری مہمان نوازی میں پریشان نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس دعا کر میرے جیسا کوئی مہمان نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے عالم میں آے نہ کسی کو بھی قضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "با خدا جان لے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا مہمان ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاشک خوں آج بھی آنکھوں سے رواں ہے میثم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں نہ ہو کرتی ہے خود فاطمہ زہرا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک اڑاتے ہیں سر خلد رسول اکرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا پر درد ہے خرشید یہ لکھا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "با خدا جان لے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا مہمان ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Khursheed",
   "anjumans": [],
   "verified": false

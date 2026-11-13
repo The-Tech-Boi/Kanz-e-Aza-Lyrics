@@ -1,7 +1,355 @@
 {
   "remoteId": "g2611_u1883",
-  "title": "Karbala ek baar",
+  "title": "کربلا اک بار",
   "body": "مثل حر قسمت جگا کر دیکھنا\nکربلا اک بار جا کر دیکھنا\n<<DIVIDER>>\nقبر اکبر کہہ رہی ہے دوستوں\nنوجواں کی شہادت ایسی ہو\nقد کو یوں حق پر مٹا کر دیکھنا\nکربلا اک بار۔۔۔\n<<DIVIDER>>\nبچپنے کا دوست وہ شہ کا حبیب\nروضہء شہ کی ہے دربانی نصیب\nاس طرح وعدہ نبھا کر دیکھنا\nکربلا اک بار۔۔۔\n<<DIVIDER>>\nسینۂ شہ پر ہے اصغر کا مقام\nہاے وہ مظلوم ماں کا لال فام\nدل کے جھولے میں جھلا کر دیکھنا\nکربلا اک بار۔۔۔\n<<DIVIDER>>\nآنسوؤں کے کارواں کو ساتھ لو\nقلب کے سوز نہاں کو ساتھ لو\nتب دعا کو ہاتھ اٹھا کر دیکھنا\nکربلا اک بار۔۔۔\n<<DIVIDER>>\nکربلا تطہیر والے کا ہے گھر\nکینہ و مکر و حسد کو چھوڑ کر\nقد کو تم طاہر بنا کر دیکھنا\nکربلا اک بار۔۔۔\n<<DIVIDER>>\nہاجیںوں سے کہتی ہے قبر نبی\nچاہتے ہو تم اگر میری خوشی\nاس طرح حج کو سجا کر دیکھنا\nکربلا اک بار۔۔۔\n<<DIVIDER>>\nدیکھیےء عباس غازی کا حرم\nآج بھی باقی ہے غازی کا ہشم\nوہ حرم نظریں جھکا کر دیکھنا\nکربلا اک بار۔۔۔\n<<DIVIDER>>\nآؤ ماجد چل کے دیکھیں وہ مقام\nدرد مندوں کو جو کردے شادماں\nوقت کو تارہ بنا کر دیکھنا\nکربلا اک بار۔۔۔",
+  "styling": [
+    {
+      "insert": "مثل حر قسمت جگا کر دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اک بار جا کر دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر اکبر کہہ رہی ہے دوستوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوجواں کی شہادت ایسی ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قد کو یوں حق پر مٹا کر دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اک بار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچپنے کا دوست وہ شہ کا حبیب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روضہء شہ کی ہے دربانی نصیب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح وعدہ نبھا کر دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اک بار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسینۂ شہ پر ہے اصغر کا مقام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے وہ مظلوم ماں کا لال فام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کے جھولے میں جھلا کر دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اک بار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنسوؤں کے کارواں کو ساتھ لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلب کے سوز نہاں کو ساتھ لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تب دعا کو ہاتھ اٹھا کر دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اک بار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا تطہیر والے کا ہے گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کینہ و مکر و حسد کو چھوڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قد کو تم طاہر بنا کر دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اک بار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاجیںوں سے کہتی ہے قبر نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاہتے ہو تم اگر میری خوشی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح حج کو سجا کر دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اک بار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھیےء عباس غازی کا حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج بھی باقی ہے غازی کا ہشم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ حرم نظریں جھکا کر دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اک بار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآؤ ماجد چل کے دیکھیں وہ مقام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد مندوں کو جو کردے شادماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقت کو تارہ بنا کر دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اک بار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

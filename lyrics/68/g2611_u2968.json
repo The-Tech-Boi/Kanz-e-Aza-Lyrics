@@ -1,12 +1,392 @@
 {
   "remoteId": "g2611_u2968",
-  "title": "Seene pe sone wali",
+  "title": "سینے پہ سونے والی",
   "body": "سینے پہ سونے والی مٹی پہ سو رہی ہے\n<<DIVIDER>>\nچادر بھی چھن چکی ہے گوہر بھی چھن چکے ہیں\nننھے سے پاؤں میں بھی چھالے پڑے ہوئے ہیں\nنیلی ہے پشت ہاے روتی ہے شہ کی دختر\n---سینے پہ سونے والی\n<<DIVIDER>>\nکانوں سے خوں ہے اب بھی ہے غمزدہ کے جاری\nجب جب ہیں کان دکھتے روتی ہے شہ کی بیٹی\nاب روکے کہہ رہی ہے بھیا چلیں گے گھر ہم\n---سینے پہ سونے والی\n<<DIVIDER>>\nبیمار رہ کے بھائی سینے پہ ہے سلاتا\nگر ہاتھ ہتھکڑی میں دونوں بندھا نہ ہوتا\nگردن میں طوق بھاری اور ہے کمر میں لنگر\n---سینے پہ سونے والی\n<<DIVIDER>>\nکیسے کوئی یہ لکھے کس طرح سو رہی ہے\nہے پشت و سینہ زخمی کروٹ بدل رہی ہے\nآقا کو ساتھ لے کر عباس دیکھو آکر\n---سینے پہ سونے والی\n<<DIVIDER>>\nحسرت سے قید خانے میں مجھ سے کہہ رہی ہے\nبھیا گلے کی رسی تکلیف دے رہی ہے\nہر سانس میں نہ کیونکر مر جاؤں گی میں گھٹ کر\n---سینے پہ سونے والی\n<<DIVIDER>>\nبھیا دعا یہ کردو مر جائے اب سکینہ\nکیسے سہے یتیمہ ظلم و ستم کی ایذا\nغیرت رلا رہی ہے سر پر نہیں ہے چادر\n---سینے پہ سونے والی\n<<DIVIDER>>\nسجاد کر رہے ہیں زندان میں یہ نوحہ\nجب دیکھتے ہیں در سے اڑتا ہوا پرندہ\nاڑتے ہوئے پرندے یہ دیکھلے ٹہر کر\n---سینے پہ سونے والی\n<<DIVIDER>>\nبالوں سے بی بیوں نے اپنے کیے تھے پردے\nکیسے میں منہ چھپاتی تھے بال میرے چھوٹے\nزخمی میرا جگر ہے صدمہ بہت ہے دل پر\n---سینے پہ سونے والی\n<<DIVIDER>>\nریحان اور مبارک لمحہ عجیب آیا\nسب کہکے رو رہے ہیں لو مر گیء سکینہ\nسجاد کہہ رہے ہیں اسکو لحد میں رکھ کر\n---سینے پہ سونے والی",
+  "styling": [
+    {
+      "insert": "سینے پہ سونے والی مٹی پہ سو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچادر بھی چھن چکی ہے گوہر بھی چھن چکے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھے سے پاؤں میں بھی چھالے پڑے ہوئے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیلی ہے پشت ہاے روتی ہے شہ کی دختر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---سینے پہ سونے والی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکانوں سے خوں ہے اب بھی ہے غمزدہ کے جاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب جب ہیں کان دکھتے روتی ہے شہ کی بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب روکے کہہ رہی ہے بھیا چلیں گے گھر ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---سینے پہ سونے والی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیمار رہ کے بھائی سینے پہ ہے سلاتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر ہاتھ ہتھکڑی میں دونوں بندھا نہ ہوتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گردن میں طوق بھاری اور ہے کمر میں لنگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---سینے پہ سونے والی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے کوئی یہ لکھے کس طرح سو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے پشت و سینہ زخمی کروٹ بدل رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آقا کو ساتھ لے کر عباس دیکھو آکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---سینے پہ سونے والی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسرت سے قید خانے میں مجھ سے کہہ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا گلے کی رسی تکلیف دے رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سانس میں نہ کیونکر مر جاؤں گی میں گھٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---سینے پہ سونے والی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھیا دعا یہ کردو مر جائے اب سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے سہے یتیمہ ظلم و ستم کی ایذا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غیرت رلا رہی ہے سر پر نہیں ہے چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---سینے پہ سونے والی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد کر رہے ہیں زندان میں یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب دیکھتے ہیں در سے اڑتا ہوا پرندہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اڑتے ہوئے پرندے یہ دیکھلے ٹہر کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---سینے پہ سونے والی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبالوں سے بی بیوں نے اپنے کیے تھے پردے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے میں منہ چھپاتی تھے بال میرے چھوٹے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی میرا جگر ہے صدمہ بہت ہے دل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---سینے پہ سونے والی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان اور مبارک لمحہ عجیب آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کہکے رو رہے ہیں لو مر گیء سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کہہ رہے ہیں اسکو لحد میں رکھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---سینے پہ سونے والی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mubarak Jalalpuri",
   "anjumans": [],
   "verified": false

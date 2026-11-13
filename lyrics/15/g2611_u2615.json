@@ -1,7 +1,379 @@
 {
   "remoteId": "g2611_u2615",
-  "title": "Pathar hai aankh jisme",
+  "title": "پتھر ہے آنکھ جس میں",
   "body": "پتھر ہے آنکھ جس میں کہ آشک عزا نہیں\nوہ دل نہیں کہ جس میں علی کی ولا نہیں\n<<DIVIDER>>\nجس قلب میں مودت آل عبا نہیں\nسمجھو نبی سے اس کو کوئی واسطہ نہیں\nپتھر ہے آنکھ۔۔۔\n<<DIVIDER>>\nبس اس پہ زیب دیتی ہے دستار مصطفیٰ\nجو سر یزیدیت کے مقابل جھکا نہیں\nپتھر ہے آنکھ۔۔۔\n<<DIVIDER>>\nکربوبلا نجات بشر کی یکای ہے\nکربوبلا کے بعد کوئی کربلا نہیں\nپتھر ہے آنکھ۔۔۔\n<<DIVIDER>>\nہے دل غمِ حسین میں اک آشک کے عوض\nگر خلد مل رہی ہے تو سودا برا نہیں\nپتھر ہے آنکھ۔۔۔\n<<DIVIDER>>\nصدیوں سے جل رہا ہے چراغِ غم حسین\nاشکوں کا یہ چراغ ہوا سے بجھا نہیں\nپتھر ہے آنکھ۔۔۔\n<<DIVIDER>>\nاسلام کے وقار پہ خنجر چلا تھا یہ\nشبیر کے گلے پہ یہ خنجر چلا نہیں\nپتھر ہے آنکھ۔۔۔\n<<DIVIDER>>\nآؤ غمِ حسین میں ماتم بپا کرے\nیہ وہ نماز عشق ہے جس کی قضا نہیں\nپتھر ہے آنکھ۔۔۔\n<<DIVIDER>>\nزینب کھڑی ہے اد جلے خیموں کے درمیاں\nکیا وقت آگیا ہے کہ سر پر ردا نہیں\nپتھر ہے آنکھ۔۔۔\n<<DIVIDER>>\nزینب نے بے ردائی سے بازار شام تک\nوہ کونسا ستم ہے جو دل پر سہا نہیں\nپتھر ہے آنکھ۔۔۔\n<<DIVIDER>>\nیا رب تیرے نبی کی شریعت تو بچ گیء\nآل نبی کے گھر میں تو کچھ بھی بچا نہیں\nپتھر ہے آنکھ۔۔۔\n<<DIVIDER>>\nتا زندگی محب نے منافق سے جنگ کی\nحالانکہ اس کے ہاتھ میں کوئی عصا نہیں\nپتھر ہے آنکھ۔۔۔",
+  "styling": [
+    {
+      "insert": "پتھر ہے آنکھ جس میں کہ آشک عزا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ دل نہیں کہ جس میں علی کی ولا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس قلب میں مودت آل عبا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سمجھو نبی سے اس کو کوئی واسطہ نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر ہے آنکھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبس اس پہ زیب دیتی ہے دستار مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو سر یزیدیت کے مقابل جھکا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر ہے آنکھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربوبلا نجات بشر کی یکای ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا کے بعد کوئی کربلا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر ہے آنکھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے دل غمِ حسین میں اک آشک کے عوض"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر خلد مل رہی ہے تو سودا برا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر ہے آنکھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصدیوں سے جل رہا ہے چراغِ غم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشکوں کا یہ چراغ ہوا سے بجھا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر ہے آنکھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسلام کے وقار پہ خنجر چلا تھا یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کے گلے پہ یہ خنجر چلا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر ہے آنکھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآؤ غمِ حسین میں ماتم بپا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وہ نماز عشق ہے جس کی قضا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر ہے آنکھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کھڑی ہے اد جلے خیموں کے درمیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا وقت آگیا ہے کہ سر پر ردا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر ہے آنکھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے بے ردائی سے بازار شام تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ کونسا ستم ہے جو دل پر سہا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر ہے آنکھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا رب تیرے نبی کی شریعت تو بچ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل نبی کے گھر میں تو کچھ بھی بچا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر ہے آنکھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتا زندگی محب نے منافق سے جنگ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حالانکہ اس کے ہاتھ میں کوئی عصا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر ہے آنکھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

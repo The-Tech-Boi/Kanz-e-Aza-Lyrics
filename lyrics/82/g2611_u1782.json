@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u1782",
-  "title": "Jhoola",
+  "title": "جھولا",
   "body": "ماں نے روتے ہوئے اصغر کا جھلایا جھولا\nکبھی چوما کبھی سینے سے لگایا جھولا\n<<DIVIDER>>\nدیکھ کر روتی رہی اصغر بے شیر کو ماں\nشب عاشور بہت دیر جھلایا جھولا\nماں نے روتے ہوئے۔۔۔\n<<DIVIDER>>\nرو پڑی بانوے مضطر جو یہ منظر دیکھا\nخاک پہ ہاتھ سے بچی نے بنایا جھولا\nماں نے روتے ہوئے۔۔۔\n<<DIVIDER>>\nعلی اصغر کو صدا دے کے تڑپتی تھی رباب\nراستے میں جو کبھی سامنے آیا جھولا\nماں نے روتے ہوئے۔۔۔\n<<DIVIDER>>\nبھای کی یاد میں روتے ہوئے بیہوش ہوی\nجب نظر فاطمہ صغریٰ کو نہ آیا جھولا\nماں نے روتے ہوئے۔۔۔\n<<DIVIDER>>\nراخ بھی آی ہے لوٹے ہوے اسباب کے ساتھ\nکلمہ گویوں نے ہے کچھ ایسے جلایا جھولا\nماں نے روتے ہوئے۔۔۔\n<<DIVIDER>>\nآ گیء شام سے روتے ہوئے اصغر کی بہن\nجب سر فرش عزا ہم نے اٹھایا جھولا\nماں نے روتے ہوئے۔۔۔\n<<DIVIDER>>\nنیم شب آتی ہے بی بی کوی گریہ کرنے\nجب سے گھر میں علی اصغر کا سجایا جھولا\nماں نے روتے ہوئے۔۔۔\n<<DIVIDER>>\nپھر کبھی رزق کی تنگی نہیں دیکھی یاسر\nروز عاشور جو فاقے میں اٹھایا جھولا\nماں نے روتے ہوئے۔۔۔",
+  "styling": [
+    {
+      "insert": "ماں نے روتے ہوئے اصغر کا جھلایا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی چوما کبھی سینے سے لگایا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھ کر روتی رہی اصغر بے شیر کو ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شب عاشور بہت دیر جھلایا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نے روتے ہوئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو پڑی بانوے مضطر جو یہ منظر دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پہ ہاتھ سے بچی نے بنایا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نے روتے ہوئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی اصغر کو صدا دے کے تڑپتی تھی رباب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راستے میں جو کبھی سامنے آیا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نے روتے ہوئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای کی یاد میں روتے ہوئے بیہوش ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب نظر فاطمہ صغریٰ کو نہ آیا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نے روتے ہوئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراخ بھی آی ہے لوٹے ہوے اسباب کے ساتھ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلمہ گویوں نے ہے کچھ ایسے جلایا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نے روتے ہوئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآ گیء شام سے روتے ہوئے اصغر کی بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سر فرش عزا ہم نے اٹھایا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نے روتے ہوئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیم شب آتی ہے بی بی کوی گریہ کرنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سے گھر میں علی اصغر کا سجایا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نے روتے ہوئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر کبھی رزق کی تنگی نہیں دیکھی یاسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز عاشور جو فاقے میں اٹھایا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نے روتے ہوئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Yasir Raza",
   "anjumans": [],
   "verified": false

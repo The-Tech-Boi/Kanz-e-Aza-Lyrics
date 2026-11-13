@@ -1,12 +1,377 @@
 {
   "remoteId": "g2611_u3363",
-  "title": "Ya ali ya abbas",
+  "title": "یا علی یا عباس",
   "body": "یا علی یا عباس\nایک علی مرتظی ایک علی کربلا\n<<DIVIDER>>\nواللہ یا عباس یا علی کہو\nواللہ یا غازی یا ولی کہو\nیا کہو علم و عمل یا کہو لوح و قلم\nکہدو دونوں کو علی سیدی مطلبی\nہیں یہ دونوں ہی علی دونوں ہی عباس\nیا علی یا عباس۔۔۔\n<<DIVIDER>>\nنور دو عین علی یہ مہہ جبیں\nقوت جان و جگر ام البنین\nہے سقی ابنِ سقی عین الیقیں\nدست حیدر کی انگوٹھی کی نگیں\nیا علی یا عباس۔۔۔\n<<DIVIDER>>\nاللہ اللّٰہ چلا شیر جری\nیا ابا الفضل صدا آنے لگی\nآمد مثل علی اسکی آمد جو ہوی\nایسا لہرایا علم اکھڑے اعدا کے قدم\nدشت میں دور تلک رہ گیا عباس\nیا علی یا عباس۔۔۔\n<<DIVIDER>>\nبا خدا ایسا علمدار کہاں\nثانیء حیدر کرار کہاں\nیہ علمدار جواں علوی ازم نشاں\nیہ سکینہ کا چچا مشک جب بھر کے چلا\nمشک پہ تیر لگا رو دیا عباس\nیا علی یا عباس۔۔۔\n<<DIVIDER>>\nہاں وہ عباس علی کا بیٹا\nچھد گیء مشک تو پھر کیا لڑتا\nجیسے ہی پانی بہا اس کا خوں اس پہ گرا\nلوٹ کے گھر نہ گیا مشک پہ سر کو رکھا\nیا سکینہ کہا اور سو گیا عباس\nیا علی یا عباس۔۔۔\n<<DIVIDER>>\nاس کے ہیں سرور و ریحان گدا\nہو کے بے دست جو کرتا ہے عطا\nوہ شہنشاہ وفا حیدر کربوبلا\nجس کے پرچم کی ہوا سب کو دیتی ہے شفا\nمرحبا مرحبا صد مرحبا عباس\nیا علی یا عباس۔۔۔",
+  "styling": [
+    {
+      "insert": "یا علی یا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک علی مرتظی ایک علی کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nواللہ یا عباس یا علی کہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واللہ یا غازی یا ولی کہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا کہو علم و عمل یا کہو لوح و قلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہدو دونوں کو علی سیدی مطلبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہیں یہ دونوں ہی علی دونوں ہی عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی یا عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنور دو عین علی یہ مہہ جبیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قوت جان و جگر ام البنین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے سقی ابنِ سقی عین الیقیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دست حیدر کی انگوٹھی کی نگیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی یا عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللہ اللّٰہ چلا شیر جری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا ابا الفضل صدا آنے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آمد مثل علی اسکی آمد جو ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا لہرایا علم اکھڑے اعدا کے قدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت میں دور تلک رہ گیا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی یا عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبا خدا ایسا علمدار کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء حیدر کرار کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ علمدار جواں علوی ازم نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سکینہ کا چچا مشک جب بھر کے چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشک پہ تیر لگا رو دیا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی یا عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاں وہ عباس علی کا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھد گیء مشک تو پھر کیا لڑتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے ہی پانی بہا اس کا خوں اس پہ گرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے گھر نہ گیا مشک پہ سر کو رکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا سکینہ کہا اور سو گیا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی یا عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس کے ہیں سرور و ریحان گدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو کے بے دست جو کرتا ہے عطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شہنشاہ وفا حیدر کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے پرچم کی ہوا سب کو دیتی ہے شفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرحبا مرحبا صد مرحبا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی یا عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,369 @@
 {
   "remoteId": "g2611_u1737",
-  "title": "Jaise hi ghar se",
+  "title": "جیسے ہی گھر سے",
   "body": "جیسے ہی گھر سے نکلا تابوت مجتبیٰ کا\nتیروں میں گھر گیا تھا فرزند مرتظی کا\nہاے حسن ہاے حسن\n<<DIVIDER>>\nکیا ملا تجھے اے ظالم قاسم یتیم کر کے\nکچھ بھی نہ خوف آیا دل میں تیری خدا کا\nہاے حسن ہاے حسن\nجیسے ہی گھر سے نکلا۔۔۔\n<<DIVIDER>>\nروکو نہ آج مجھکو اے چاند فاطمہ کے\nدم گھٹ رہا ہے اب تو عباس کی وفا کا\nہاے حسن ہاے حسن\nجیسے ہی گھر سے نکلا۔۔۔\n<<DIVIDER>>\nہے دوسرا آل امامت کا زہرا کے جگر پارہ\nپنجتن کے پاک گھرانے میں تھا حسن ہی سب کو پیارا\nکیوں بارش کی ہے تیروں کی کیوں زہر سے اس کو مارا\nتھا جسکا بابا نبیوں کا مشکل میں پاک سہارا\n<<DIVIDER>>\nتیروں میں ہے جنازہ ہاے اس کے لاڈلے کا\nہوتا تھا جو سہارا مشکل میں انبیاء کا\nہاے حسن ہاے حسن\nجیسے ہی گھر سے نکلا۔۔۔\n<<DIVIDER>>\nذاتی نہ کوئی جنگ تھی اولاد مرتظی کی\nسارا معاملہ تھا اسلام کی بقا کا\nہاے حسن ہاے حسن\nجیسے ہی گھر سے نکلا۔۔۔\n<<DIVIDER>>\nہے رحمت دونوں عالم کی کیوں بھولے اس ہستی کو\nطوفان کا بالکل خوف نہیں اسلام کی اب کشتی کو\nجو قلم و دوات نہ دے پاے ہے اپنے پاک نبی کو\nوہ اجر رسالت کیا دینگے ہاے اپنے نبی عربی کو\n<<DIVIDER>>\nقلم و دوات کاغذ جو نہ دے سکے نبی کو\nوہ ہاے کرے گی امت کیا آل مصطفیٰ کا\nہاے حسن ہاے حسن\nجیسے ہی گھر سے نکلا۔۔۔\n<<DIVIDER>>\nپہچان نے سے قاصر ہر کوئی امیر ہو گا\nقاسم بھرم رکھے گا کچھ اس طرح چچا کا\nہاے حسن ہاے حسن\nجیسے ہی گھر سے نکلا۔۔۔",
+  "styling": [
+    {
+      "insert": "جیسے ہی گھر سے نکلا تابوت مجتبیٰ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیروں میں گھر گیا تھا فرزند مرتظی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسن ہاے حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا ملا تجھے اے ظالم قاسم یتیم کر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ بھی نہ خوف آیا دل میں تیری خدا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسن ہاے حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے ہی گھر سے نکلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروکو نہ آج مجھکو اے چاند فاطمہ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹ رہا ہے اب تو عباس کی وفا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسن ہاے حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے ہی گھر سے نکلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے دوسرا آل امامت کا زہرا کے جگر پارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پنجتن کے پاک گھرانے میں تھا حسن ہی سب کو پیارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں بارش کی ہے تیروں کی کیوں زہر سے اس کو مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا جسکا بابا نبیوں کا مشکل میں پاک سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیروں میں ہے جنازہ ہاے اس کے لاڈلے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتا تھا جو سہارا مشکل میں انبیاء کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسن ہاے حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے ہی گھر سے نکلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nذاتی نہ کوئی جنگ تھی اولاد مرتظی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سارا معاملہ تھا اسلام کی بقا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسن ہاے حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے ہی گھر سے نکلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے رحمت دونوں عالم کی کیوں بھولے اس ہستی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طوفان کا بالکل خوف نہیں اسلام کی اب کشتی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو قلم و دوات نہ دے پاے ہے اپنے پاک نبی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ اجر رسالت کیا دینگے ہاے اپنے نبی عربی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقلم و دوات کاغذ جو نہ دے سکے نبی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ہاے کرے گی امت کیا آل مصطفیٰ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسن ہاے حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے ہی گھر سے نکلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہچان نے سے قاصر ہر کوئی امیر ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم بھرم رکھے گا کچھ اس طرح چچا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسن ہاے حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے ہی گھر سے نکلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hassan (a.s)",
+  "subcategory": "امام حسن (ع)",
   "author": "Ameer Hussain Mashadi",
   "anjumans": [],
   "verified": false

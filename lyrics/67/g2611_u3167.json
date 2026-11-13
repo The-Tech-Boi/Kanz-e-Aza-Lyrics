@@ -1,12 +1,463 @@
 {
   "remoteId": "g2611_u3167",
-  "title": "Taqadam waladi",
+  "title": "تقدم ولدی",
   "body": "فوج اعدا تھی ادھر جنگ پہ تیار کھڑی\nجان دینے پہ یہاں فوج الٰہی تھی تلی\nیک بہ یک شہ کی نظر اکبر مہرو پہ پڑی\nدیکھ کر سوے پسر شاہ نے آواز یہ دی\nتقدم ولدی تقدم ولدی\n<<DIVIDER>>\nکربلا ہو چکی تیار تقدم ولدی\nسج چکا موت کا بازار تقدم ولدی\nہوتی ہے تیروں کی بوچھار تقدم ولدی\nضد پہ ہے سب میرے انصار تقدم ولدی\nان پہ آنچ آئے نہ زنہار تقدم ولدی\n<<DIVIDER>>\nوقت یہ وہ ہے کہ تلوار اٹھالے ہم لوگ\nدین حق کو کسی صورت سے بچالے ہم لوگ\nکیوں کسی اور پر اس بار کو ڈالے ہم لوگ\nکیوں نہ یہ معرکہ خود آپ سنبھالے ہم لوگ\nکھینچ کر نیام سے تلوار تقدم ولدی\nکربلا ہو چکی تیار۔۔۔\n<<DIVIDER>>\nلشکر شام کو بڑھنے کی اجازت کیوں دے\nروک دے دور قریب آنے کی مہلت کیوں دے\nہم پہ نرغہ کرے اتنی انہیں فرصت کیوں دے\nاور اس کے لئے اصحاب کو زحمت کیوں دے\nچاروں جانب سے ہے یلگار تقدم ولدی\nکربلا ہو چکی تیار۔۔۔\n<<DIVIDER>>\nبھای عباس سنبھالے رہے لشکر کا نظام\nقاسم و عون و محمد رہے نزدیک قیام\nتا کہ اس سمت کا رخ کر نہ سکے لشکر شام\nاور تم آگے بڑھو بہر وغا لے کے ہسام\nتیرا اللہ مددگار تقدم ولدی\nکربلا ہو چکی تیار۔۔۔\n<<DIVIDER>>\nدین نانا کا مٹے اور نواسہ سہ لے\nیہ نہ ہوگا کبھی ہم سے کوئی کچھ بھی کہہ لے\nخون بہتا ہے تو ہم لوگوں کا اس پر بہہ لے\nبھیجتا جنگ پہ عابد کو میں تم سے پہلے\nمگر عابد تو ہے بیمار تقدم ولدی\nکربلا ہو چکی تیار۔۔۔\n<<DIVIDER>>\nمجھ سے وہ چاہتے ہیں بدر و عہد کا بدلہ\nمیرے اصلاف کی ہر جد و جہد کا بدلہ\nدین اسلام کی نصرت کا مدد کا بدلہ\nلینگے یہ تیرے پدر سے تیرے جد کا بدلہ\nہم اس کے لئے تیار تقدم ولدی\nکربلا ہو چکی تیار۔۔۔\n<<DIVIDER>>\nہم کو تاریخ بدل دینی ہے دشت و در کی\nجھکے آییندہ جبیں جس پہ زمانے بھر کی\nگر ضرورت ہو تو بازی بھی لگا دو سر کی\nآخری جنگ سمجھ لو اسے اپنے گھر کی\nجانے پھر کب کھنچے تلوار تقدم ولدی\nکربلا ہو چکی تیار۔۔۔",
+  "styling": [
+    {
+      "insert": "فوج اعدا تھی ادھر جنگ پہ تیار کھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جان دینے پہ یہاں فوج الٰہی تھی تلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یک بہ یک شہ کی نظر اکبر مہرو پہ پڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر سوے پسر شاہ نے آواز یہ دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تقدم ولدی تقدم ولدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا ہو چکی تیار تقدم ولدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سج چکا موت کا بازار تقدم ولدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتی ہے تیروں کی بوچھار تقدم ولدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضد پہ ہے سب میرے انصار تقدم ولدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان پہ آنچ آئے نہ زنہار تقدم ولدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوقت یہ وہ ہے کہ تلوار اٹھالے ہم لوگ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دین حق کو کسی صورت سے بچالے ہم لوگ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں کسی اور پر اس بار کو ڈالے ہم لوگ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں نہ یہ معرکہ خود آپ سنبھالے ہم لوگ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھینچ کر نیام سے تلوار تقدم ولدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا ہو چکی تیار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلشکر شام کو بڑھنے کی اجازت کیوں دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روک دے دور قریب آنے کی مہلت کیوں دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم پہ نرغہ کرے اتنی انہیں فرصت کیوں دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اس کے لئے اصحاب کو زحمت کیوں دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاروں جانب سے ہے یلگار تقدم ولدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا ہو چکی تیار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای عباس سنبھالے رہے لشکر کا نظام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم و عون و محمد رہے نزدیک قیام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تا کہ اس سمت کا رخ کر نہ سکے لشکر شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور تم آگے بڑھو بہر وغا لے کے ہسام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا اللہ مددگار تقدم ولدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا ہو چکی تیار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدین نانا کا مٹے اور نواسہ سہ لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ نہ ہوگا کبھی ہم سے کوئی کچھ بھی کہہ لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون بہتا ہے تو ہم لوگوں کا اس پر بہہ لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیجتا جنگ پہ عابد کو میں تم سے پہلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر عابد تو ہے بیمار تقدم ولدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا ہو چکی تیار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ سے وہ چاہتے ہیں بدر و عہد کا بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اصلاف کی ہر جد و جہد کا بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دین اسلام کی نصرت کا مدد کا بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لینگے یہ تیرے پدر سے تیرے جد کا بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم اس کے لئے تیار تقدم ولدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا ہو چکی تیار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم کو تاریخ بدل دینی ہے دشت و در کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھکے آییندہ جبیں جس پہ زمانے بھر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر ضرورت ہو تو بازی بھی لگا دو سر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری جنگ سمجھ لو اسے اپنے گھر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے پھر کب کھنچے تلوار تقدم ولدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا ہو چکی تیار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Hasan Imdad",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,383 @@
 {
   "remoteId": "g2611_u2852",
-  "title": "Safar jahan se",
+  "title": "سفر جہان سے",
   "body": "جگر کو تھام کے دونوں جہان روتے ہیں\nرسول زادی کے بچے یتیم ہوتے ہیں\n<<DIVIDER>>\nسفر جہان سے مولاے کاینات کا ہے\nنبی کی آل پہ یہ وقت مشکلات کا ہے\n<<DIVIDER>>\nلہو میں ڈوب کے ہم تو ہوے ہیں سرافراز\nحسن تمام کراؤ نمازیوں کی نماز\nخیال کتنا امامت کو واجبات کا ہے\nسفر جہان سے مولا۔۔۔\n<<DIVIDER>>\nقیامت اک بپا ہو رہی ہے مسجد میں\nکہ مسجد علی رو رہی ہے مسجد میں\nسہر تڑپتی ہے چہرہ نڈھال رات کا ہے\nسفر جہان سے مولا۔۔۔\n<<DIVIDER>>\nیہ کیسا ہاے ستمگر نے ظلم ڈھایا ہے\nاسی کا مسجد کوفہ میں خوں بہایا ہے\nقدم قدم پہ محافظ وہ دینیات کا ہے\nسفر جہان سے مولا۔۔۔\n<<DIVIDER>>\nیہ کہکے دیتے ہیں مولا پسر کے ہاتھ میں ہاتھ\nنہ چھوڑنا کبھی عباس تم حسین کا ساتھ\nیہ میرا لال اثاثہ نبی کی ذات کا ہے\nسفر جہان سے مولا۔۔۔\n<<DIVIDER>>\nفلک ہلاتی ہے زینب کے شور و شین کی دھوم\nتڑپ رہی ہے جنازے پہ باپ کے کلثوم\nگلہ نصیب سے بے آسرا حیات کا ہے\nسفر جہان سے مولا۔۔۔\n<<DIVIDER>>\nحسن حسین تڑپتے ہیں باپ کے غم میں\nشریک حضرت عباس بھی ہے ماتم میں\nملال سب کو یتیمی کے حادثات کا ہے\nسفر جہان سے مولا۔۔۔\n<<DIVIDER>>\nنکل رہا ہے نبی کے وزیر کا تابوت\nکہ اٹھ رہا ہے جنابِ امیر کا تابوت\nعلی سوگ میں کوفہ تصورات کا ہے\nسفر جہان سے مولا۔۔۔\n<<DIVIDER>>\nتڑپ رہے ہیں پیمبر بھی عامر و اختر\nزمیں پہ چھائی ہوی ہے اداسیاں گھر گھر\nیہ دن محافظ اسم کی وفات کا ہے\nسفر جہان سے مولا۔۔۔",
+  "styling": [
+    {
+      "insert": "جگر کو تھام کے دونوں جہان روتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسول زادی کے بچے یتیم ہوتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسفر جہان سے مولاے کاینات کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی کی آل پہ یہ وقت مشکلات کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلہو میں ڈوب کے ہم تو ہوے ہیں سرافراز"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسن تمام کراؤ نمازیوں کی نماز"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیال کتنا امامت کو واجبات کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر جہان سے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقیامت اک بپا ہو رہی ہے مسجد میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ مسجد علی رو رہی ہے مسجد میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہر تڑپتی ہے چہرہ نڈھال رات کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر جہان سے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کیسا ہاے ستمگر نے ظلم ڈھایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی کا مسجد کوفہ میں خوں بہایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدم قدم پہ محافظ وہ دینیات کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر جہان سے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کہکے دیتے ہیں مولا پسر کے ہاتھ میں ہاتھ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ چھوڑنا کبھی عباس تم حسین کا ساتھ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میرا لال اثاثہ نبی کی ذات کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر جہان سے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفلک ہلاتی ہے زینب کے شور و شین کی دھوم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپ رہی ہے جنازے پہ باپ کے کلثوم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلہ نصیب سے بے آسرا حیات کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر جہان سے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسن حسین تڑپتے ہیں باپ کے غم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شریک حضرت عباس بھی ہے ماتم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملال سب کو یتیمی کے حادثات کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر جہان سے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنکل رہا ہے نبی کے وزیر کا تابوت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اٹھ رہا ہے جنابِ امیر کا تابوت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی سوگ میں کوفہ تصورات کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر جہان سے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتڑپ رہے ہیں پیمبر بھی عامر و اختر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پہ چھائی ہوی ہے اداسیاں گھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دن محافظ اسم کی وفات کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر جہان سے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Akhtar Sirsvi",
   "anjumans": [],
   "verified": false

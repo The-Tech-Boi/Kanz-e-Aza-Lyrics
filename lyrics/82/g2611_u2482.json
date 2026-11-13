@@ -1,7 +1,445 @@
 {
   "remoteId": "g2611_u2482",
-  "title": "Mujpe kyon bandh",
+  "title": "مجھ پہ کیوں بند",
   "body": "میرے نانا نبی میری ماں سیدہ\nمیرا بابا علی میرا بھائی حسن\nہم ہی ہیں پنجتن\nمیری کیا ہے خطا میری کیا ہے خطا\n<<DIVIDER>>\nمجھ پہ کیوں بند کرتے ہو پانی\nکیا محمد کا پیارا نہیں ہوں\nکیا میں زہرا کا جایا نہیں ہوں\nکیا نبی کا نواسا نہیں ہوں\nمجھ پہ کیوں بند۔۔۔\n<<DIVIDER>>\nمیرے نانا نے کلمہ سیکھایا\nاور قرآن تم کو سُنایا\nکیا میں نانا کا سایہ نہیں ہوں\nکیا نبی کا نواسا نہیں ہوں\nمجھ پہ کیوں بند۔۔۔\n<<DIVIDER>>\nوہ مدینہ جہاں میرا گھر ہے\nاور مسجد میں اُس گھر کا در ہے\nکیا میں اُس گھر میں کھیلا نہیں ہوں\nکیا نبی کا نواسا نہیں ہوں\nمجھ پہ کیوں بند۔۔۔\n<<DIVIDER>>\nچکیاں پیس کر ماں نے پالا\nمجھ کو نانا نے جھولا جھُلایا\nاپنا بچپن میں بھولا نہیں ہوں\nکیا نبی کا نواسا نہیں ہوں\nمجھ پہ کیوں بند۔۔۔\n<<DIVIDER>>\nکملی والے کے لب چومتا تھا\nکتنا پیارا میرا بچپنا تھا\nکیا میں اُن کا دُلارا نہیں ہوں\nکیا نبی کا نواسا نہیں ہوں\nمجھ پہ کیوں بند۔۔۔\n<<DIVIDER>>\nمیں جو پانی کبھی مانگتا تھا\nکیون تڑپتی تھی ماں اب میں سمجھا\nپاس اصغر کے جاتا نہیں ہوں\nکیا نبی کا نواسا نہیں ہوں\nمجھ پہ کیوں بند۔۔۔\n<<DIVIDER>>\nمیں جو چاہوں برس جائیں بادل\nخوں میں ڈوبا نظر آئے مقتل\nجنگ کرنے میں آیا نہیں ہوں\nکیا نبی کا نواسا نہیں ہوں\nمجھ پہ کیوں بند۔۔۔\n<<DIVIDER>>\nاک صدا تھی یہ ریحان و سرور\nکہہ رہے تھے حسین ابنِ حیدر\nکیا میں مہمان آیا نہیں ہوں\nکیا نبی کا نواسا نہیں ہوں\nمجھ پہ کیوں بند۔۔۔",
+  "styling": [
+    {
+      "insert": "میرے نانا نبی میری ماں سیدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بابا علی میرا بھائی حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم ہی ہیں پنجتن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری کیا ہے خطا میری کیا ہے خطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ پہ کیوں بند کرتے ہو پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا محمد کا پیارا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا میں زہرا کا جایا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نبی کا نواسا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ کیوں بند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے نانا نے کلمہ سیکھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور قرآن تم کو سُنایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا میں نانا کا سایہ نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نبی کا نواسا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ کیوں بند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ مدینہ جہاں میرا گھر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور مسجد میں اُس گھر کا در ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا میں اُس گھر میں کھیلا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نبی کا نواسا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ کیوں بند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچکیاں پیس کر ماں نے پالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو نانا نے جھولا جھُلایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنا بچپن میں بھولا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نبی کا نواسا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ کیوں بند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکملی والے کے لب چومتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنا پیارا میرا بچپنا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا میں اُن کا دُلارا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نبی کا نواسا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ کیوں بند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں جو پانی کبھی مانگتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیون تڑپتی تھی ماں اب میں سمجھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاس اصغر کے جاتا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نبی کا نواسا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ کیوں بند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں جو چاہوں برس جائیں بادل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں میں ڈوبا نظر آئے مقتل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگ کرنے میں آیا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نبی کا نواسا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ کیوں بند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک صدا تھی یہ ریحان و سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ رہے تھے حسین ابنِ حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا میں مہمان آیا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نبی کا نواسا نہیں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ کیوں بند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

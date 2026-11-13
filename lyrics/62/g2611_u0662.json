@@ -1,12 +1,507 @@
 {
   "remoteId": "g2611_u0662",
-  "title": "Ay kufiyo",
+  "title": "اے کوفیوں",
   "body": "غل مچاتے بے ادب وہ کوفیان بد زبان\nوحشتوں کے دایرے میں تھیں علی کی بیٹیاں\nظالموں کے سامنے اور قاتلوں کے درمیاں\nچھوٹی دختر علی کی آ رہی تھی یہ صدا\n<<DIVIDER>>\nنوحہ یہ تھا کلثوم کا\nاے کوفیان بے وفا\nاے کوفیان بے وفا\nاے ظالموں أہل جفا\nہے تمہیں خبر تم ہو آشنا\nکس کا گھر لٹا کس کا خوں بہا\nہاے تم نے یہ کیا کر دیا\nکس کو لوٹ کر گھر جلا دیا\nہے زبانوں پر کلمۂ خدا\nپھر بھی سینوں میں دل ہے سنگ کا\nپھر بھی سینوں میں دل ہے سنگ کا\n---اے کوفیان بے وفا\n<<DIVIDER>>\nاس حسین کو قتل کر دیا\nجس کے پاس ہے مرضیء خدا\nدین جس کے گھر سرخرو ہوا\nجس حسین کا نانا مصطفیٰ\nجس حسین کا بابا مرتظی\nجس حسین کی ماں ہے سیدہ\nروبرو اگر ہوگا سامنا\nکیسے جاؤ گے پیش کبریا\n---اے کوفیان بے وفا\n<<DIVIDER>>\nظلم کونسا ہم پہ نہ ہوا\nپھر بھی ہم رہے راضی بہ رضا\nبھائی کو میرے دھوکہ دیدیا\nساتھ نہ دیا اکیلا کر دیا\nپہلے خط لکھے اور بلا لیا\nپھر غریب کا خوں بہا دیا\nمت زمین پر تم بنو خدا\nوقت ہے قریب ہوگا فیصلہ\n---اے کوفیان بے وفا\n<<DIVIDER>>\nاے کوفیوں ظلم ہو گیا\nآل مصطفیٰ سے مقابلہ\nعترت نبی ہم ہیں با خدا\nزیر آسماں سر کھلا ہوا\nباندھ کر ہمیں قید کر لیا\nاور پھر ہمیں باغی کہ دیا\nجس کے نانا سے دین حق ملا\nاس نواسے کو یہ صلہ ملا\n---اے کوفیان بے وفا\n<<DIVIDER>>\nوا مصیبتا یوں چمن لٹا\nگھیر کر ہمیں لاے کربلا\nبند ہم پہ پھر پانی کر دیا\nقتل کر دیا گھر کا گھر میرا\nسیدوں کے سر کر دیےء جدا\nظلم کی ہوی ہم پہ انتہا\nتم پہ واے ہو ہاے کیا\nہوا اجر مصطفیٰ یوں ادا کیا\n---اے کوفیان بے وفا",
+  "styling": [
+    {
+      "insert": "غل مچاتے بے ادب وہ کوفیان بد زبان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وحشتوں کے دایرے میں تھیں علی کی بیٹیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالموں کے سامنے اور قاتلوں کے درمیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوٹی دختر علی کی آ رہی تھی یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوحہ یہ تھا کلثوم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے کوفیان بے وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے کوفیان بے وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ظالموں أہل جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے تمہیں خبر تم ہو آشنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کا گھر لٹا کس کا خوں بہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تم نے یہ کیا کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو لوٹ کر گھر جلا دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے زبانوں پر کلمۂ خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی سینوں میں دل ہے سنگ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی سینوں میں دل ہے سنگ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے کوفیان بے وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس حسین کو قتل کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے پاس ہے مرضیء خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دین جس کے گھر سرخرو ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس حسین کا نانا مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس حسین کا بابا مرتظی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس حسین کی ماں ہے سیدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روبرو اگر ہوگا سامنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے جاؤ گے پیش کبریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے کوفیان بے وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظلم کونسا ہم پہ نہ ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی ہم رہے راضی بہ رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی کو میرے دھوکہ دیدیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ نہ دیا اکیلا کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلے خط لکھے اور بلا لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر غریب کا خوں بہا دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مت زمین پر تم بنو خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقت ہے قریب ہوگا فیصلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے کوفیان بے وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے کوفیوں ظلم ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل مصطفیٰ سے مقابلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عترت نبی ہم ہیں با خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زیر آسماں سر کھلا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باندھ کر ہمیں قید کر لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پھر ہمیں باغی کہ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے نانا سے دین حق ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس نواسے کو یہ صلہ ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے کوفیان بے وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوا مصیبتا یوں چمن لٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھیر کر ہمیں لاے کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بند ہم پہ پھر پانی کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل کر دیا گھر کا گھر میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدوں کے سر کر دیےء جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم کی ہوی ہم پہ انتہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم پہ واے ہو ہاے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوا اجر مصطفیٰ یوں ادا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے کوفیان بے وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Umme Kulsoom (s.a)",
+  "subcategory": "ام کلثوم (س)",
   "author": "Nadeem Sarwar",
   "anjumans": [],
   "verified": false

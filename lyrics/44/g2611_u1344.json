@@ -1,12 +1,352 @@
 {
   "remoteId": "g2611_u1344",
-  "title": "Ghazi alamdar teri",
+  "title": "غازی علمدار تیری",
   "body": "غازی علمدار تیری قسم\nجھکنے نہیں دینگے تیرا علم\n<<DIVIDER>>\nتیری امانت سمجھ کر اسے\nتیرے علم کو اٹھاتے ہیں ہم\nغازی علمدار۔۔۔\n<<DIVIDER>>\nلے کر علم سوے دریا گیا\nموجوں نے چومے تھے تیرے قدم\nغازی علمدار۔۔۔\n<<DIVIDER>>\nسوکھے ہوے ہونٹ بچوں کے تھے\nاس غم میں آنکھیں رہی تیری نم\nغازی علمدار۔۔۔\n<<DIVIDER>>\nتیری وفا تیرے پیکر میں تھی\nپایا تھا حیدر کا جاہ و ہشم\nغازی علمدار۔۔۔\n<<DIVIDER>>\nلکھی کتاب وفا اس طرح\nرن میں ہوے تیرے بازو قلم\nغازی علمدار۔۔۔\n<<DIVIDER>>\nمشک سکینہ سے پانی بہا\nاور آ گیا تیرا ہونٹوں پہ دم\nغازی علمدار۔۔۔\n<<DIVIDER>>\nمرنے سے تیرے غضب یہ ہوا\nشہ کی کمر ہو گیء غم سے خم\nغازی علمدار۔۔۔\n<<DIVIDER>>\nزینب کے دل سے نہ کم ہو سکا\nعباس تیری جدائی کا غم\nغازی علمدار۔۔۔\n<<DIVIDER>>\nہم جو بالوں سے بچتے رہے\nعباس غازی کا ہے یہ کرم\nغازی علمدار۔۔۔\n<<DIVIDER>>\nفرحان نوحہ یہ عباس کا\nکرتا ہے ریحان رو کے رقم\nغازی علمدار۔۔۔",
+  "styling": [
+    {
+      "insert": "غازی علمدار تیری قسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھکنے نہیں دینگے تیرا علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیری امانت سمجھ کر اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے علم کو اٹھاتے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلے کر علم سوے دریا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موجوں نے چومے تھے تیرے قدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوکھے ہوے ہونٹ بچوں کے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس غم میں آنکھیں رہی تیری نم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیری وفا تیرے پیکر میں تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پایا تھا حیدر کا جاہ و ہشم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلکھی کتاب وفا اس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رن میں ہوے تیرے بازو قلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشک سکینہ سے پانی بہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور آ گیا تیرا ہونٹوں پہ دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمرنے سے تیرے غضب یہ ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کی کمر ہو گیء غم سے خم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کے دل سے نہ کم ہو سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تیری جدائی کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم جو بالوں سے بچتے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس غازی کا ہے یہ کرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرحان نوحہ یہ عباس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتا ہے ریحان رو کے رقم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

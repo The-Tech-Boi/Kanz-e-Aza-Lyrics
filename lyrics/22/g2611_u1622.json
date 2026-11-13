@@ -1,12 +1,726 @@
 {
   "remoteId": "g2611_u1622",
-  "title": "Hussain saeen",
+  "title": "حسین ساییں",
   "body": "شاہ است حسین بادشاہ است حسین\nدیں است حسین دیں پناہ است حسین\n<<DIVIDER>>\nماں نوکر مولا سائیں آنجو\nہاں کربل وارے سائیں آنجو\nمیرے سید میرے سردار\nکرو اپنا کرم سرکار\nحسین ساییں\n<<DIVIDER>>\nواللہ تیرے ابن حیدر\nچرچے ہے سخاوت کے گھر گھر\nراحب کو دیےء ہیں سات پسر\nمم مثلی ہے فطرس کے لب پر\nہم پر بھی محض ایک بار\nکرو اپنا کرم سرکار\nحسین ساییں۔۔۔\n<<DIVIDER>>\nتم مرشد ہو تم آقا ہو\nہم مانگتے تم ان داتا ہو\nہم ادنی ہیں تم اعلیٰ ہو\nہم‌ مولای تم مولا ہو\nتم کرتے نہیں انکار\nکرو اپنا کرم سرکار\nحسین ساییں۔۔۔\n<<DIVIDER>>\nاللہ نبی کے پیارے ہو\nزہرا کے راج دلارے ہو\nقرآن علی کے پارے ہو\nتم چشم حسن کے تارے ہو\nقدرت کا حسیں شاہکار\nکرو اپنا کرم سرکار\nحسین ساییں۔۔۔\n<<DIVIDER>>\nہے ورد بڑی اجمیری کا\nکہنا ہے شمس نورانی کا\nبولے ہر بات بٹھای کا\nنعرہ ہے لال سہوانی کا\nہے تیرا کھلا دربار\nکرو اپنا کرم سرکار\nحسین ساییں۔۔۔\n<<DIVIDER>>\nسندھ والوں کی ہے شان یہی\nمہران کی ہے پہچان یہی\nہر لب پر ہے اعلان یہی\nاپنا تو ہے ایمان یہی\nہم آپ کے ہیں حبدار\nکرو اپنا کرم سرکار\nحسین ساییں۔۔۔\n<<DIVIDER>>\nڪيو مولا سائين منظور دعا\nمون کي به گهرايو کرب و بلا\nکربلا کربلا۔۔۔\n<<DIVIDER>>\nتم سے ہے معلی کربوبلا\nہیں نوری تجلی کربوبلا\nکعبے کا ہے کعبہ کربوبلا\nنبیوں کا مصلیٰ کربوبلا\nکرتے ہیں دعا زوار\nکرو اپنا کرم سرکار\nحسین ساییں۔۔۔\n<<DIVIDER>>\nخالق کی محبت مل جائے\nنوکر کو اجازت مل جائے\nمولا یہ سعادت مل جائے\nہم کو بھی شہادت مل جائے\nکہتے تھے سبھی انصار\nکرو اپنا کرم سرکار\nحسین ساییں۔۔۔\n<<DIVIDER>>\nعباس کا لاشہ واویلا\nاکبر گیا مارا واویلا\nتم رہ گےء تنہا واویلا\nیہ صبر تھا کیسا واویلا\nکہتی ہی رہی تلوار\nکرو اپنا کرم سرکار\nحسین ساییں۔۔۔\n<<DIVIDER>>\nجواد اور میثم کی ہے صدا\nہم تیرے بھکاری ہیں مولا\nجو رزق بھی ہے ہم کو ملتا\nہے صدقہ تیرے اصغر گا\nہم تیرے ہیں نمک خوار\nکرو اپنا کرم سرکار\nحسین ساییں۔۔۔",
+  "styling": [
+    {
+      "insert": "شاہ است حسین بادشاہ است حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیں است حسین دیں پناہ است حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں نوکر مولا سائیں آنجو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں کربل وارے سائیں آنجو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سید میرے سردار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرو اپنا کرم سرکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین ساییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nواللہ تیرے ابن حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چرچے ہے سخاوت کے گھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راحب کو دیےء ہیں سات پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مم مثلی ہے فطرس کے لب پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم پر بھی محض ایک بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرو اپنا کرم سرکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین ساییں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم مرشد ہو تم آقا ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم مانگتے تم ان داتا ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم ادنی ہیں تم اعلیٰ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم‌ مولای تم مولا ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کرتے نہیں انکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرو اپنا کرم سرکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین ساییں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللہ نبی کے پیارے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کے راج دلارے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن علی کے پارے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم چشم حسن کے تارے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدرت کا حسیں شاہکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرو اپنا کرم سرکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین ساییں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے ورد بڑی اجمیری کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنا ہے شمس نورانی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے ہر بات بٹھای کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نعرہ ہے لال سہوانی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے تیرا کھلا دربار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرو اپنا کرم سرکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین ساییں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسندھ والوں کی ہے شان یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مہران کی ہے پہچان یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر لب پر ہے اعلان یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنا تو ہے ایمان یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم آپ کے ہیں حبدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرو اپنا کرم سرکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین ساییں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڪيو مولا سائين منظور دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مون کي به گهرايو کرب و بلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم سے ہے معلی کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہیں نوری تجلی کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کعبے کا ہے کعبہ کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبیوں کا مصلیٰ کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتے ہیں دعا زوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرو اپنا کرم سرکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین ساییں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخالق کی محبت مل جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکر کو اجازت مل جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا یہ سعادت مل جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کو بھی شہادت مل جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے سبھی انصار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرو اپنا کرم سرکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین ساییں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس کا لاشہ واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر گیا مارا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم رہ گےء تنہا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صبر تھا کیسا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی ہی رہی تلوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرو اپنا کرم سرکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین ساییں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجواد اور میثم کی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم تیرے بھکاری ہیں مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو رزق بھی ہے ہم کو ملتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے صدقہ تیرے اصغر گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم تیرے ہیں نمک خوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرو اپنا کرم سرکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین ساییں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Jawad Jaffri",
   "anjumans": [],
   "verified": false

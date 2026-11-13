@@ -1,7 +1,522 @@
 {
   "remoteId": "g2611_u1715",
-  "title": "Jab maula aayenge",
+  "title": "جب مولا آییں گے",
   "body": "العجل لبیک مولا\n<<DIVIDER>>\nساری دنیا میں اجالا نور کا ہو جائے گا\nخانۂ کعبہ کی چھت پر ایک علم لہراے گا\nجب مولا آییں گے\n<<DIVIDER>>\nدیکھنا ایک روز منظر اس طرح کا آے گا\nمنظروں پر ایک منظر مستقل ہو جائے گا\nہاں یہی منظر قیامت کی خبر بن جائے گا\nساری دنیا میں اُجالا نور کا ہو جائے گا\nخانۂ کعبہ کی چھت پر ایک علم لہراے گا\nجب مولا آییں گے۔۔۔\n<<DIVIDER>>\nاے عزاداروں سنو گے جلد مولا کی صدا\nقایم آل محمد عسکری کا مہ لقا\nآ رہا ہے آ رہا ہے مرحبا صد مرحبا\nمجلس شبیر میں اب شور گریہ دیکھنا\nپرسہ داروں فرش غم پر اپنا مولا دیکھنا\nجب مولا آییں گے۔۔۔\n<<DIVIDER>>\nسرخ آندھیاں اٹھیں گی پھر سمجھ میں آے گا\nجس کی دنیا منتظر تھی پھر وہ منظر آے گا\nموسم انصاف لے کر میرا مولا آے گا\nکفر ہجروں میں چھپے گا در بدر ہو جائے گا\nمختصر لشکر امام عصر کا چھا جاے گا\nجب مولا آییں گے۔۔۔\n<<DIVIDER>>\nآے گا جب حیدری تلوار کا وہ ورثہ دار\nدیکھنا چلتی ہے کیسے تیغ شیر کردگار\nپھر زمین و آسماں تک ایک ہی ہوگی پکار\nشاہ مرداں شیر یزداں قوت پروردگار\nلا فتی الا علی لا سیف الا ذوالفقار\nجب مولا آییں گے۔۔۔\n<<DIVIDER>>\nدیکھنا اس طرح مولا مجلسیں کرواییں گے\nمجلسوں میں کربلا والے بلاے جایینگے\nنعرۂ حیدر لگے گا پنجتن جب آیینگے\nدیکھنا ان مجلسوں میں ہر شہید آ جائے گا\nپھر تو وہ ماتم کریں گے آسماں ہل جاے گا\nجب مولا آییں گے۔۔۔\n<<DIVIDER>>\nچاند نرجس کا فلک سے جب زمیں پر آے گا\nآیینگے سارے فرشتے اولیاء اور انبیاء\nآب کوثر کی سبیلیں بھی لگیں گی جابجا\nان کے آتے ہی ستارے خود زمیں پر آیینگے\nدیکھنا شہر خموشاں میں دیےء جل جائیں گے\nجب مولا آییں گے۔۔۔\n<<DIVIDER>>\nاکبر و عباس قاسم کے لئے گریہ کناں\nرویینگے ماتم کریں گے جب امام انس و جاں\nفاطمہ زہرا کی آے گی یہ آواز فغاں\nاے غریب و بے وطن اے کربلا والے حسین\nتیرے نانا کر رہا ہے تیری مظلومی پہ بین\nجب مولا آییں گے۔۔۔\n<<DIVIDER>>\nفرش مجلس سید سجاد خود بچھوایینگے\nمرثیہ پڑھتے ہوئے بابا کا اکبر آیینگے\nحضرتِ عباس بھی اپنے علم کو لایینگے\nنوحہ ایک ریحان سے مولا میرے لکھوایینگے\nپھر یہ نوحہ ساتھ میں سرور کے سب پڑھوایینگے\nجب مولا آییں گے۔۔۔",
+  "styling": [
+    {
+      "insert": "العجل لبیک مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nساری دنیا میں اجالا نور کا ہو جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خانۂ کعبہ کی چھت پر ایک علم لہراے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مولا آییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھنا ایک روز منظر اس طرح کا آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منظروں پر ایک منظر مستقل ہو جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہی منظر قیامت کی خبر بن جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساری دنیا میں اُجالا نور کا ہو جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خانۂ کعبہ کی چھت پر ایک علم لہراے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مولا آییں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے عزاداروں سنو گے جلد مولا کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم آل محمد عسکری کا مہ لقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ رہا ہے آ رہا ہے مرحبا صد مرحبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجلس شبیر میں اب شور گریہ دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ داروں فرش غم پر اپنا مولا دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مولا آییں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسرخ آندھیاں اٹھیں گی پھر سمجھ میں آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کی دنیا منتظر تھی پھر وہ منظر آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موسم انصاف لے کر میرا مولا آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کفر ہجروں میں چھپے گا در بدر ہو جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مختصر لشکر امام عصر کا چھا جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مولا آییں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآے گا جب حیدری تلوار کا وہ ورثہ دار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھنا چلتی ہے کیسے تیغ شیر کردگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر زمین و آسماں تک ایک ہی ہوگی پکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ مرداں شیر یزداں قوت پروردگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لا فتی الا علی لا سیف الا ذوالفقار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مولا آییں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھنا اس طرح مولا مجلسیں کرواییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجلسوں میں کربلا والے بلاے جایینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نعرۂ حیدر لگے گا پنجتن جب آیینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھنا ان مجلسوں میں ہر شہید آ جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر تو وہ ماتم کریں گے آسماں ہل جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مولا آییں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاند نرجس کا فلک سے جب زمیں پر آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آیینگے سارے فرشتے اولیاء اور انبیاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آب کوثر کی سبیلیں بھی لگیں گی جابجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان کے آتے ہی ستارے خود زمیں پر آیینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھنا شہر خموشاں میں دیےء جل جائیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مولا آییں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر و عباس قاسم کے لئے گریہ کناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رویینگے ماتم کریں گے جب امام انس و جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ زہرا کی آے گی یہ آواز فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب و بے وطن اے کربلا والے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے نانا کر رہا ہے تیری مظلومی پہ بین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مولا آییں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرش مجلس سید سجاد خود بچھوایینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرثیہ پڑھتے ہوئے بابا کا اکبر آیینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حضرتِ عباس بھی اپنے علم کو لایینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ ایک ریحان سے مولا میرے لکھوایینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر یہ نوحہ ساتھ میں سرور کے سب پڑھوایینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مولا آییں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

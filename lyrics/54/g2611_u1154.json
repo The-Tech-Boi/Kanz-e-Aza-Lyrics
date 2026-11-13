@@ -1,12 +1,329 @@
 {
   "remoteId": "g2611_u1154",
-  "title": "Dekha na sakina ne",
+  "title": "دیکھا نہ سکینہ نے",
   "body": "چہرہ نہ تیرا سامنے گر پاؤں گی بابا\nتاریکیء زندان میں گھبراؤں گی بابا\nڈرتی ہوں اندھیرے میں نظر کچھ نہیں آتا\nدیواروں سے ٹکراتی ہوں مر جاؤں گی بابا\n<<DIVIDER>>\nدیکھا نہ سکینہ نے زنداں میں سویرا ہے\nمیں کیا بتاؤں بابا یہاں کتنا اندھیرا ہے\n<<DIVIDER>>\nہر روز مارتے ہیں مجھکو طمانچے ظالم\nتیری لاڈلی کا بابا زخمی ہوا چہرہ ہے\nدیکھا نہ سکینہ نے۔۔۔\n<<DIVIDER>>\nپابندی ہے رونے پہ میں بین کروں کیسے\nاکبر کے قاتلوں نے زندان کو گھیرا ہے\nدیکھا نہ سکینہ نے۔۔۔\n<<DIVIDER>>\nہوتا نہیں گزر بھی زنداں سے ہوا کا\nگردن میں تنگ رسن ہے دم گھٹ رہا میرا ہے\nدیکھا نہ سکینہ نے۔۔۔\n<<DIVIDER>>\nسجاد کے سینے پہ میں کس طرح سو جاؤں\nبھای کا پاک سینہ زنجیروں نے گھیرا ہے\nدیکھا نہ سکینہ نے۔۔۔\n<<DIVIDER>>\nاصغر کا خوں بھرا وہ کرتہ نہیں میں بھولی\nاور یاد مجھکو بابا قاسم کا وہ سہرا ہے\nدیکھا نہ سکینہ نے۔۔۔\n<<DIVIDER>>\nتیرے گلے کو زخمی خنجر نے کیا بابا\nرسیوں سے گلا زخمی اب ہو گیا میرا ہے\nدیکھا نہ سکینہ نے۔۔۔\n<<DIVIDER>>\nپیاسا ذبح کیا ہے ان ظالموں نے تجھکو\nمیں بھی رہوں گی پیاسی اب وعدہ یہ میرا ہے\nدیکھا نہ سکینہ نے۔۔۔\n<<DIVIDER>>\nسلمان پوچھتی تھی بابا سے یہ سکینہ\nمجھ سے بھی زیادہ زخمی کیوں آپ کا چہرہ ہے\nدیکھا نہ سکینہ نے۔۔۔",
+  "styling": [
+    {
+      "insert": "چہرہ نہ تیرا سامنے گر پاؤں گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تاریکیء زندان میں گھبراؤں گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈرتی ہوں اندھیرے میں نظر کچھ نہیں آتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیواروں سے ٹکراتی ہوں مر جاؤں گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھا نہ سکینہ نے زنداں میں سویرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیا بتاؤں بابا یہاں کتنا اندھیرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر روز مارتے ہیں مجھکو طمانچے ظالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری لاڈلی کا بابا زخمی ہوا چہرہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا نہ سکینہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپابندی ہے رونے پہ میں بین کروں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے قاتلوں نے زندان کو گھیرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا نہ سکینہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوتا نہیں گزر بھی زنداں سے ہوا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گردن میں تنگ رسن ہے دم گھٹ رہا میرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا نہ سکینہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد کے سینے پہ میں کس طرح سو جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کا پاک سینہ زنجیروں نے گھیرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا نہ سکینہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر کا خوں بھرا وہ کرتہ نہیں میں بھولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور یاد مجھکو بابا قاسم کا وہ سہرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا نہ سکینہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے گلے کو زخمی خنجر نے کیا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسیوں سے گلا زخمی اب ہو گیا میرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا نہ سکینہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاسا ذبح کیا ہے ان ظالموں نے تجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بھی رہوں گی پیاسی اب وعدہ یہ میرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا نہ سکینہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلمان پوچھتی تھی بابا سے یہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ سے بھی زیادہ زخمی کیوں آپ کا چہرہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا نہ سکینہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Salman Awais Khan",
   "anjumans": [],
   "verified": false

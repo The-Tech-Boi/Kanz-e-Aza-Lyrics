@@ -1,12 +1,373 @@
 {
   "remoteId": "g2611_u0714",
-  "title": "Ay raat zara tham",
+  "title": "اے رات ذرا تھم",
   "body": "زینب ہے پریشان اے رات ذرا تھم جا\n<<DIVIDER>>\nروک سحر کو آنے سے تُو\nکہتے ہیں تجھ سے میرے آنسو\nرکھ لے پردیسی کا پردہ\nرہنے دے اندھیارا نہ جا\nاے رات ذرا ۔۔۔\n<<DIVIDER>>\nبھائی بچھڑ جاینگے بہن سے\nچھٹ جائیں گے ماؤں سے بیٹے\nلوٹنے آجائے گا سویرا\nبے وطنوں کا کنبہ نہ جا\nاے رات ذرا ۔۔۔\n<<DIVIDER>>\nزخمی کانوں کی بچی\nشدتِ غم سے سو نہ سکے گی\nدوڑے گی وہ جانبِ مقتل\nٹھوکر کھاتی دُکھیا نہ جا\nاے رات ذرا ۔۔۔\n<<DIVIDER>>\nبیوہ ہو گی دولہن ایسی\nجس کے ہاتھ میں تازہ مہندی\nبین کرے گی آہیں بھریں\nگی کہہ کر دولہن دولہا نہ جا\nاے رات ذرا ۔۔۔\n<<DIVIDER>>\nجنگ چھڑیگی تیغ چلے گی\nسرخ یہاں آندھی اٹھے گی\nروند دیگی یہ فوج ستمگر\nمیرے بھائی کا لاشہ نہ جا\nاے رات ذرا ۔۔۔\n<<DIVIDER>>\nاچھا اتنی دیر تُو رُک جا\nجب ہو سفر زندان کو میرا\nشام تلک تُو ساتھ میں رہنا\nبن کر میرا پردہ نہ جا\nاے رات ذرا ۔۔۔\n<<DIVIDER>>\nرات مگر رہنا نہ تہری\nکہتی تھی زینب بیچاری\nآئی رضا وہ صبح شہادت\nسورج کیونکر کہتا نہ جا\nاے رات ذرا ۔۔۔",
+  "styling": [
+    {
+      "insert": "زینب ہے پریشان اے رات ذرا تھم جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروک سحر کو آنے سے تُو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے ہیں تجھ سے میرے آنسو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھ لے پردیسی کا پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہنے دے اندھیارا نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے رات ذرا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھائی بچھڑ جاینگے بہن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھٹ جائیں گے ماؤں سے بیٹے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹنے آجائے گا سویرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے وطنوں کا کنبہ نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے رات ذرا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخمی کانوں کی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شدتِ غم سے سو نہ سکے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دوڑے گی وہ جانبِ مقتل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹھوکر کھاتی دُکھیا نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے رات ذرا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیوہ ہو گی دولہن ایسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے ہاتھ میں تازہ مہندی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین کرے گی آہیں بھریں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گی کہہ کر دولہن دولہا نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے رات ذرا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنگ چھڑیگی تیغ چلے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرخ یہاں آندھی اٹھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روند دیگی یہ فوج ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بھائی کا لاشہ نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے رات ذرا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاچھا اتنی دیر تُو رُک جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہو سفر زندان کو میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام تلک تُو ساتھ میں رہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن کر میرا پردہ نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے رات ذرا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرات مگر رہنا نہ تہری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی زینب بیچاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی رضا وہ صبح شہادت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سورج کیونکر کہتا نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے رات ذرا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

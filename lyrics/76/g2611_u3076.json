@@ -1,12 +1,528 @@
 {
   "remoteId": "g2611_u3076",
-  "title": "Shireen mai aagaya",
+  "title": "شیریں میں آ گیا",
   "body": "لٹ کے جب قافلہ شیریں کے مکاں تک پہنچا\nنوکِ نیزہ سے یہ آنے لگی مولا کے صدا\n<<DIVIDER>>\nوعدہ ہوا وفا ایک سر نے دی صدا\nشیریں میں آ گیا\n<<DIVIDER>>\nگھر میرا لٹ گیا زینب ہے بے ردا\nشیریں میں آ گیا\n<<DIVIDER>>\nکچھ دیر کے لئے ہے تیرے گھر میں بس قیام\nجلدی سے کر غریب کی مجلس کا اہتمام\nآی ہے فاطمہ فرش عزا بچھا\nشیریں میں آ گیا\nوعدہ ہوا وفا۔۔۔\n<<DIVIDER>>\nمارے ہیں سنگ شہر کے لوگوں نے اس قدر\nبہنوں کے ساتھ ساتھ ہے زخمی میرا بھی سر\nپہچان اب زرا چہرہ لہو بھرا\nشیریں میں آ گیا\nوعدہ ہوا وفا۔۔۔\n<<DIVIDER>>\nوہ کہہ رہی تھی بھائی مجھے شرم آے گی\nشیریں کو بنت فاطمہ کیا منہ دکھاے گی\nزینب ہے بے ردا گھر کے دیےء بجھا\nشیریں میں آ گیا\nوعدہ ہوا وفا۔۔۔\n<<DIVIDER>>\nپیروں سے میریبہنوں کے کانٹے نکال لے\nوہ دیکھ گر رہی ہے سکینہ سنبھال لے\nلے کر تمہارے گھر پیاسوں کا قافلہ\nشیریں میں آ گیا\nوعدہ ہوا وفا۔۔۔\n<<DIVIDER>>\nرخصت کے دن رداییں تجھے دی تھی کس لےء\nسر ننگے میرے کنبے کی حالت سے جان لے\nاب وقت آ گیا لا چادریں وہ لا\nشیریں میں آ گیا\nوعدہ ہوا وفا۔۔۔\n<<DIVIDER>>\nزخموں سے چور چہرے کو پہچانتی تو ہو\nمہمان تم حسین کو اب مانتی تو ہو\nبڑھ کر اتارو پھر نیزے سے سر میرا\nشیریں میں آ گیا\nوعدہ ہوا وفا۔۔۔\n<<DIVIDER>>\nبارات لے کے آیا ہوں کڑیل جوان کی\nحالت مگر عجیب ہے اس خاندان کی\nدولہا کے ساتھ ہے نیزے پہ سر میرا\nشیریں میں آ گیا\nوعدہ ہوا وفا۔۔۔\n<<DIVIDER>>\nطعنے تو روز سنتی تھی وہ بھول جائیں گے\nاتنے امیر لوگ تیرے گھر کیوں آیینگے\nجا ان سے کہہ دے جا نیزے پہ ہوں تو کیا\nشیریں میں آ گیا\nوعدہ ہوا وفا۔۔۔\n<<DIVIDER>>\nشیریں ردا سنبھال کے در کی طرف بڑھی\nہاے حسین کہہ کے تکلم وہ رو پڑی\nزخمی لبوں سے جب آنے لگی صدا\nشیریں میں آ گیا\nوعدہ ہوا وفا۔۔۔",
+  "styling": [
+    {
+      "insert": "لٹ کے جب قافلہ شیریں کے مکاں تک پہنچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ نیزہ سے یہ آنے لگی مولا کے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوعدہ ہوا وفا ایک سر نے دی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیریں میں آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر میرا لٹ گیا زینب ہے بے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیریں میں آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ دیر کے لئے ہے تیرے گھر میں بس قیام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلدی سے کر غریب کی مجلس کا اہتمام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی ہے فاطمہ فرش عزا بچھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیریں میں آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ ہوا وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمارے ہیں سنگ شہر کے لوگوں نے اس قدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہنوں کے ساتھ ساتھ ہے زخمی میرا بھی سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہچان اب زرا چہرہ لہو بھرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیریں میں آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ ہوا وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ کہہ رہی تھی بھائی مجھے شرم آے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیریں کو بنت فاطمہ کیا منہ دکھاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب ہے بے ردا گھر کے دیےء بجھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیریں میں آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ ہوا وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیروں سے میریبہنوں کے کانٹے نکال لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ دیکھ گر رہی ہے سکینہ سنبھال لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے کر تمہارے گھر پیاسوں کا قافلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیریں میں آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ ہوا وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرخصت کے دن رداییں تجھے دی تھی کس لےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر ننگے میرے کنبے کی حالت سے جان لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب وقت آ گیا لا چادریں وہ لا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیریں میں آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ ہوا وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخموں سے چور چہرے کو پہچانتی تو ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مہمان تم حسین کو اب مانتی تو ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑھ کر اتارو پھر نیزے سے سر میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیریں میں آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ ہوا وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبارات لے کے آیا ہوں کڑیل جوان کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حالت مگر عجیب ہے اس خاندان کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دولہا کے ساتھ ہے نیزے پہ سر میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیریں میں آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ ہوا وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطعنے تو روز سنتی تھی وہ بھول جائیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنے امیر لوگ تیرے گھر کیوں آیینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا ان سے کہہ دے جا نیزے پہ ہوں تو کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیریں میں آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ ہوا وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشیریں ردا سنبھال کے در کی طرف بڑھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسین کہہ کے تکلم وہ رو پڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی لبوں سے جب آنے لگی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیریں میں آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ ہوا وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

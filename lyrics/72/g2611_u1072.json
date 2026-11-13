@@ -1,12 +1,410 @@
 {
   "remoteId": "g2611_u1072",
-  "title": "Chale aao mere",
+  "title": "چلے آؤ میرے",
   "body": "محرم آ رہا ہے\nچلے آؤ میرے بچوں محرم آ رہا ہے\nیہ ماں کہتی تھی اب رونے کا موسم آ رہا ہے\n<<DIVIDER>>\nترستی ہے یہ آنکھیں دیکھنے کو اک زمانے سے\nتمہیں بھی دیکھ لوں گی میں محرم کے بہانے سے\nضعیفی سے کمر میں اور بھی خم آ رہا ہے\nچلے آؤ میرے بچوں۔۔۔\n<<DIVIDER>>\nہے مدت تمہیں پردیس میں جا کر نہیں آے\nمنالی عید بھی تنہا مگر تم گھر نہیں آے\nمگر اب فاطمہ کے لال کا غم آ رہا ہے\nچلے آؤ میرے بچوں۔۔۔\n<<DIVIDER>>\nسنا ہے مامتا پردیسیوں کو بھیچ لاتی ہے\nکہیں بھی ہو عزاداری کو مٹی کھینچ لاتی ہے\nہمارا مونس و غم خوار و حمدم آ رہا ہے\nچلے آؤ میرے بچوں۔۔۔\n<<DIVIDER>>\nرہو تم سال بھر چاہے جہاں دنیا کے کونے میں\nمگر واپس چلے آنا محرم کے مہینے میں\nکلیجے کے سبھی زخموں کا مرحم آ رہا ہے\nچلے آؤ میرے بچوں۔۔۔\n<<DIVIDER>>\nتمہیں ہے یاد بچپن میں الم چھوٹا سا لاتے تھے\nبنا کر تازیانہ شبیر کا سر پر اٹھاتے تھے\nوہی پھر مجلس و ماتم کا موسم آ رہا ہے\nچلے آؤ میرے بچوں۔۔۔\n<<DIVIDER>>\nخوشی ہے فاطمہ کے لال کا ہم غم مناینگے\nخود اپنے ہاتھ سے گھر کا عزاخانہ سجاینگے\nیہی بس سونچ کے اب دم میں کچھ دم میں آ رہا ہے\nچلے آؤ میرے بچوں۔۔۔\n<<DIVIDER>>\nالم عباس غازی کا جلوس میں اٹھانا ہے\nگلی کوچوں خیابان میں سبیلیں بھی لگانا ہے\nیہی بس سونچ کے آنکھوں میں زم زم آ رہا ہے\nچلے آؤ میرے بچوں۔۔۔\n<<DIVIDER>>\nجدائی اے میرے بچوں میرے دل کو جلاتی ہے\nیہ مادر باہیں پھیلاے ہوے تم کو بلاتی ہے\nنگاہوں میں تمہارا چہرہ ہر دم آ رہا ہے\nچلے آؤ میرے بچوں۔۔۔\n<<DIVIDER>>\nچلی جاتی ہے عینی ماں تو رب سے اذن پاتی ہے\nعزاخانے میں عامر ہاے ماں کی روح آتی ہے\nیہ کہتی ہے تڑپ کر شاہ کا غم آ رہا ہے\nچلے آؤ میرے بچوں۔۔۔",
+  "styling": [
+    {
+      "insert": "محرم آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ میرے بچوں محرم آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ماں کہتی تھی اب رونے کا موسم آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nترستی ہے یہ آنکھیں دیکھنے کو اک زمانے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں بھی دیکھ لوں گی میں محرم کے بہانے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضعیفی سے کمر میں اور بھی خم آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ میرے بچوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے مدت تمہیں پردیس میں جا کر نہیں آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منالی عید بھی تنہا مگر تم گھر نہیں آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر اب فاطمہ کے لال کا غم آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ میرے بچوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنا ہے مامتا پردیسیوں کو بھیچ لاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں بھی ہو عزاداری کو مٹی کھینچ لاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمارا مونس و غم خوار و حمدم آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ میرے بچوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرہو تم سال بھر چاہے جہاں دنیا کے کونے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر واپس چلے آنا محرم کے مہینے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلیجے کے سبھی زخموں کا مرحم آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ میرے بچوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہیں ہے یاد بچپن میں الم چھوٹا سا لاتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنا کر تازیانہ شبیر کا سر پر اٹھاتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہی پھر مجلس و ماتم کا موسم آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ میرے بچوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوشی ہے فاطمہ کے لال کا ہم غم مناینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود اپنے ہاتھ سے گھر کا عزاخانہ سجاینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی بس سونچ کے اب دم میں کچھ دم میں آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ میرے بچوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالم عباس غازی کا جلوس میں اٹھانا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلی کوچوں خیابان میں سبیلیں بھی لگانا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی بس سونچ کے آنکھوں میں زم زم آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ میرے بچوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجدائی اے میرے بچوں میرے دل کو جلاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ مادر باہیں پھیلاے ہوے تم کو بلاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نگاہوں میں تمہارا چہرہ ہر دم آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ میرے بچوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلی جاتی ہے عینی ماں تو رب سے اذن پاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزاخانے میں عامر ہاے ماں کی روح آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہتی ہے تڑپ کر شاہ کا غم آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آؤ میرے بچوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ibtedaye Ayyam e Aza",
+  "subcategory": "ابتدائے ایام عزا",
   "author": "Ainee Rizvi",
   "anjumans": [],
   "verified": false

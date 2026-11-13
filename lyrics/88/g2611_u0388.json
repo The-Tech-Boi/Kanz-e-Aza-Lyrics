@@ -1,12 +1,494 @@
 {
   "remoteId": "g2611_u0388",
-  "title": "Al madad al madad",
+  "title": "المدد المدد",
   "body": "المدد المدد یا علی\nبے ردا ہو کے زینب چلی\n<<DIVIDER>>\nبولی زینب تڑپ کر یہ ہاے\nگھر ہمارے لعیں نے جلاے\nبے خطا تازیانے لگاے\nظلم اعدا نے اس طرح ڈھاے\nسب کے مشکل کشا سن ہماری دعا\nدے غریبوں کو آ کر سہارے\nغم کے ماروں کو آ کر بچالے\nالمدد المدد۔۔۔\n<<DIVIDER>>\nکہہ رہی ہے مصیبت کی ماری\nکیسی بگڑی ہے قسمت ہماری\nبے کجاوا ملی ہے سواری\nاور مقدر میں ہے آہ و زاری\nشام تک کا سفر بے ردا ننگے سر\nشاہ والا ہے اب اور نہ اکبر\nظلم ہی ظلم ہے ہر قدم پر\nالمدد المدد۔۔۔\n<<DIVIDER>>\nجس کے دادا تھے شاہ مدینہ\nجس کا تکیہ تھا سرور کا سینہ\nدر بدر ہے وہ بالی سکینہ\nاب تو دشوار ہے اس کا جینا\nکس سے شکوہ کروں کس کو آواز دوں\nکوی سنتا نہیں آہ و زاری\nآج بیکس ہے زینب تمہاری\nالمدد المدد۔۔۔\n<<DIVIDER>>\nہاے قیدی بناے گےء ہیں\nدر بدر ہم پھراے گےء ہیں\nشام ایمن آج لاے گےء ہیں\nکوچہ و در سجاے گےء ہیں\nظلمت شام میں بلوہء عام میں\nغیر ہے کوی اپنا نہیں ہے\nہاے کوئی سہارا نہیں ہے\nالمدد المدد۔۔۔\n<<DIVIDER>>\nمیرا مانجایا پیاسا سدھارا\nمر گیا بھای عباس جیسا\nمیں نے اولاد کا غم بھی پایا\nپھر بھی شکوہ زبان پر نہ آیا\nرسم پردہ داری میرے گھر سے چلی\nبے ردا بے سہارا ہوں بابا\nکیسے دربار میں جاؤں بابا\nالمدد المدد۔۔۔\n<<DIVIDER>>\nرو عزادار سبط پیمبر\nتیرے سینے میں ہے یاد سرور\nانگلیاں ہے تیری خون میں تر\nشاعر کربلا ہے تو گوہر\nہے یہ نوحہ تیرا تیری دل کی صدا\nکوی بھی غم نہ ہوگا تجھے اب\nتیری بخشش کی ضامن ہے زینب\nالمدد المدد۔۔۔",
+  "styling": [
+    {
+      "insert": "المدد المدد یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا ہو کے زینب چلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبولی زینب تڑپ کر یہ ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر ہمارے لعیں نے جلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے خطا تازیانے لگاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم اعدا نے اس طرح ڈھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کے مشکل کشا سن ہماری دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے غریبوں کو آ کر سہارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم کے ماروں کو آ کر بچالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد المدد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہہ رہی ہے مصیبت کی ماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی بگڑی ہے قسمت ہماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے کجاوا ملی ہے سواری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور مقدر میں ہے آہ و زاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام تک کا سفر بے ردا ننگے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ والا ہے اب اور نہ اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم ہی ظلم ہے ہر قدم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد المدد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس کے دادا تھے شاہ مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کا تکیہ تھا سرور کا سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در بدر ہے وہ بالی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو دشوار ہے اس کا جینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس سے شکوہ کروں کس کو آواز دوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی سنتا نہیں آہ و زاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج بیکس ہے زینب تمہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد المدد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے قیدی بناے گےء ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در بدر ہم پھراے گےء ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ایمن آج لاے گےء ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوچہ و در سجاے گےء ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلمت شام میں بلوہء عام میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غیر ہے کوی اپنا نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے کوئی سہارا نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد المدد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا مانجایا پیاسا سدھارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیا بھای عباس جیسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے اولاد کا غم بھی پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی شکوہ زبان پر نہ آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسم پردہ داری میرے گھر سے چلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا بے سہارا ہوں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے دربار میں جاؤں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد المدد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو عزادار سبط پیمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے سینے میں ہے یاد سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انگلیاں ہے تیری خون میں تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاعر کربلا ہے تو گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یہ نوحہ تیرا تیری دل کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی بھی غم نہ ہوگا تجھے اب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری بخشش کی ضامن ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد المدد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Gohar Jarchvi",
   "anjumans": [],
   "verified": false

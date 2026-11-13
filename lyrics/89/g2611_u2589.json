@@ -1,12 +1,224 @@
 {
   "remoteId": "g2611_u2589",
-  "title": "Pahunche khareeb",
+  "title": "پہنچے قریب",
   "body": "پہنچے قریب شہر مدینہ تو رو دیے\nعابد کا دل دکھوں سے بھر آیا تو رو دیے\n<<DIVIDER>>\nپاؤں میں آبلے ہیں چلے اور ٹہر گےء\nروضہ رسول کا نظر آیا تو رو دیے\n---پہنچے قریب\n<<DIVIDER>>\nبیٹھے زمیں پہ سر کو جھکائے ہوئے امام\nسایہ کیا کسی نے ردا کا تو رو دیے\n---پہنچے قریب\n<<DIVIDER>>\nعباس کی وفا کا شجاعت کا ذکر تھا\nبیٹے نے آکے باپ کو پوچھا تو رو دیے\n---پہنچے قریب\n<<DIVIDER>>\nام البنیں کو بیٹے کا پرسہ دیا مگر\nصغرا کو دے سکے نہ دلاسہ تو رو دیے\n---پہنچے قریب\n<<DIVIDER>>\nفرماتے تھے شہید ہوئےاقربا تمام\nبے شیر کو کسی نے جو پوچھا تو رو دیے\n---پہنچے قریب\n<<DIVIDER>>\nروداد کربلا کی سنایا کےء امام\nجب ذکر شہر شام کا آیا تو رو دیے\n---پہنچے قریب",
+  "styling": [
+    {
+      "insert": "پہنچے قریب شہر مدینہ تو رو دیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کا دل دکھوں سے بھر آیا تو رو دیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپاؤں میں آبلے ہیں چلے اور ٹہر گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روضہ رسول کا نظر آیا تو رو دیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پہنچے قریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹھے زمیں پہ سر کو جھکائے ہوئے امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سایہ کیا کسی نے ردا کا تو رو دیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پہنچے قریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس کی وفا کا شجاعت کا ذکر تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹے نے آکے باپ کو پوچھا تو رو دیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پہنچے قریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nام البنیں کو بیٹے کا پرسہ دیا مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا کو دے سکے نہ دلاسہ تو رو دیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پہنچے قریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرماتے تھے شہید ہوئےاقربا تمام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے شیر کو کسی نے جو پوچھا تو رو دیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پہنچے قریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروداد کربلا کی سنایا کےء امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ذکر شہر شام کا آیا تو رو دیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پہنچے قریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Wapasi-e-Ahle Haram",
+  "subcategory": "واپسی اہل حرم",
   "author": "Zeya Jalalpuri",
   "anjumans": [],
   "verified": false

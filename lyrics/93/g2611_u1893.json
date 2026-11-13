@@ -1,12 +1,382 @@
 {
   "remoteId": "g2611_u1893",
-  "title": "Karbala khamosh hai",
+  "title": "کربلا خاموش ہے",
   "body": "آ گیء شام غریباں کربلا خاموش ہے\nہو گیا مقتول قرآں کربلا خاموش ہے\n<<DIVIDER>>\nفاطمہ کے لاڈلے سب ظلم سے مارے گئے\nمرتظی کی آنکھ کے روشن سبھی تارے گےء\nمصحف عصمت کے جتنے تھے سبھی پارے گےء\nھل اتیٰ پر غم ہے طاری انما‌ خاموش ہے\nآ گیء شام غریباں۔۔۔\n<<DIVIDER>>\nجل گےء ہیں سارے خیمے کیا کرے سیدانیاں\nچادریں بھی چھن گیء ہے کیا کرے سیدانیاں\nظلمتوں کے بھیڑ میں ہے مصطفیٰ کی بیٹیاں\nچپ ہے عباس جری اور علقمہ خاموش ہے\nآ گیء شام غریباں۔۔۔\n<<DIVIDER>>\nمادر بے شیر کو زینب سنبھالے کیا کرے\nگود میں سارے یتیموں کو اٹھالے کیا کرے\nعابد مضطر کو شعلوں سے نکالے کیا کرے\nایک زینب ہے اکیلی قافلہ خاموش ہے\nآ گیء شام غریباں۔۔۔\n<<DIVIDER>>\nایک طرف خیمے جلے اور ایک طرف مسند جلی\nہر طرف دل کی صدا ہے یا محمد یا علی\nایسے میں زینب بنی ہے خود حسین ابنِ علی\nبزم زینب دیکھ کے ہر معجزہ خاموش ہے\nآ گیء شام غریباں۔۔۔\n<<DIVIDER>>\nمشکلیں اس رات میں جب محو غیرت ہو گیء\nایک پھپھی اور ایک بھتیجی کوہ غیرت ہو گیء\nہر مصیبت جھیل کر فخر مشیعت ہو گیء\nصبر و غم کا اس جگہ ہر فلسفہ خاموش ہے\nآ گیء شام غریباں۔۔۔\n<<DIVIDER>>\nآخراش میر نجف خود بھی یہ منظر دیکھ کر\nآ گےء کربوبلا بیٹی کو مضطر دیکھ کر\nکہہ اٹھی حیدر سے یہ حیدر کی دلبر دیکھ کر\nمیرے بابا آپ کا ہر دلربا خاموش ہے\nآ گیء شام غریباں۔۔۔\n<<DIVIDER>>\nشادمان و میر طوسی غم کے ان حالت میں\nآنسوؤں کی درد کی احساس کی برسات میں\nتم کو پڑھنا مجھکو لکھا مل گیا خیرات میں\nتم کو سن کر دہر کا کا ہر خوشنوا خاموش ہے\nآ گیء شام غریباں۔۔۔",
+  "styling": [
+    {
+      "insert": "آ گیء شام غریباں کربلا خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیا مقتول قرآں کربلا خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفاطمہ کے لاڈلے سب ظلم سے مارے گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرتظی کی آنکھ کے روشن سبھی تارے گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مصحف عصمت کے جتنے تھے سبھی پارے گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ھل اتیٰ پر غم ہے طاری انما‌ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیء شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجل گےء ہیں سارے خیمے کیا کرے سیدانیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادریں بھی چھن گیء ہے کیا کرے سیدانیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلمتوں کے بھیڑ میں ہے مصطفیٰ کی بیٹیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چپ ہے عباس جری اور علقمہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیء شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمادر بے شیر کو زینب سنبھالے کیا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گود میں سارے یتیموں کو اٹھالے کیا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد مضطر کو شعلوں سے نکالے کیا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک زینب ہے اکیلی قافلہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیء شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک طرف خیمے جلے اور ایک طرف مسند جلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف دل کی صدا ہے یا محمد یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے میں زینب بنی ہے خود حسین ابنِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بزم زینب دیکھ کے ہر معجزہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیء شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشکلیں اس رات میں جب محو غیرت ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک پھپھی اور ایک بھتیجی کوہ غیرت ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر مصیبت جھیل کر فخر مشیعت ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبر و غم کا اس جگہ ہر فلسفہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیء شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآخراش میر نجف خود بھی یہ منظر دیکھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گےء کربوبلا بیٹی کو مضطر دیکھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ اٹھی حیدر سے یہ حیدر کی دلبر دیکھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا آپ کا ہر دلربا خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیء شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشادمان و میر طوسی غم کے ان حالت میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنسوؤں کی درد کی احساس کی برسات میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو پڑھنا مجھکو لکھا مل گیا خیرات میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو سن کر دہر کا کا ہر خوشنوا خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیء شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Mir Tusi",
   "anjumans": [],
   "verified": false

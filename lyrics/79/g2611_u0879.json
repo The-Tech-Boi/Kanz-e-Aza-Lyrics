@@ -1,12 +1,464 @@
 {
   "remoteId": "g2611_u0879",
-  "title": "Bainul harmain",
+  "title": "بین الحرمین",
   "body": "احساس رلاتا ہے دل بی بی سے کہتا ہے\nاے بنت علی اے خواہر حسنین\n<<DIVIDER>>\nاک سمت حرم ہے غازی کا\nاک سمت ہے حرم حسین\nاے بی بی کاش تیرا روضہ\nہوتا بین الحرمین\n<<DIVIDER>>\nاک جا پر بھای بہن رہتے\nکرتے نہ بچھڑ کر بین\nاے بی بی کاش تیرا روضہ\nہوتا بین الحرمین\n<<DIVIDER>>\nتو شرم و حیاء کی ملکہ ہے\nپھروایا تجھے ان گلیوں میں\nجس جا نہ کبھی جاتی تیری\nعزت والی نالین\nاے بی بی کاش تیرا روضہ۔۔۔\n<<DIVIDER>>\nوہ جس کے لئے تو شام‌ گیء\nگر اس کی قبر یہی ہوتی\nتجھکو بھی قرار آ جاتا اور\nبھای کو بھی ملتا چین\nاے بی بی کاش تیرا روضہ۔۔۔\n<<DIVIDER>>\nمرقد میں تمہیں جب تڑپاتا\nاکبر کے بچھڑنے کا صدمہ\nعباس دلاسہ دے دیتا\nاور پونچھتے اشک حسین\nاے بی بی کاش تیرا روضہ۔۔۔\n<<DIVIDER>>\nعاشور کی یادوں سے بی بی\nدل تیرا کبھی جو گھبراتا\nاصغر کو ساتھ سلا لیتی\nآ جاتا دل کو چین\nاے بی بی کاش تیرا روضہ۔۔۔\n<<DIVIDER>>\nوہ بیٹے جنہیں تو رو نہ سکی\nشبیر کا ماتم کرتی رہی\nکربل میں ساتھ تیرے ہوتے\nوہ تیرے نورِ عین\nاے بی بی کاش تیرا روضہ۔۔۔\n<<DIVIDER>>\nعاشور اور چہلم کرنے کو\nمیلوں کی مسافت طےء کر کے\nتو شام سے نہ آتی بی بی\nکرنے کو یہاں پر بین\nاے بی بی کاش تیرا روضہ۔۔۔\n<<DIVIDER>>\nقربان تیری مظلومی پر\nفرحان بھی ہے اور مظہر بھی\nاک ہم ہی نہیں کہتے بی بی\nکہتے ہیں یہی حسنین\nاے بی بی کاش تیرا روضہ۔۔۔",
+  "styling": [
+    {
+      "insert": "احساس رلاتا ہے دل بی بی سے کہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بنت علی اے خواہر حسنین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک سمت حرم ہے غازی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک سمت ہے حرم حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بی بی کاش تیرا روضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتا بین الحرمین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک جا پر بھای بہن رہتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتے نہ بچھڑ کر بین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بی بی کاش تیرا روضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتا بین الحرمین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو شرم و حیاء کی ملکہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھروایا تجھے ان گلیوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس جا نہ کبھی جاتی تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزت والی نالین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بی بی کاش تیرا روضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ جس کے لئے تو شام‌ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر اس کی قبر یہی ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھکو بھی قرار آ جاتا اور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کو بھی ملتا چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بی بی کاش تیرا روضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمرقد میں تمہیں جب تڑپاتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے بچھڑنے کا صدمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس دلاسہ دے دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پونچھتے اشک حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بی بی کاش تیرا روضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشور کی یادوں سے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل تیرا کبھی جو گھبراتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کو ساتھ سلا لیتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ جاتا دل کو چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بی بی کاش تیرا روضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ بیٹے جنہیں تو رو نہ سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کا ماتم کرتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربل میں ساتھ تیرے ہوتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ تیرے نورِ عین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بی بی کاش تیرا روضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشور اور چہلم کرنے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میلوں کی مسافت طےء کر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو شام سے نہ آتی بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرنے کو یہاں پر بین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بی بی کاش تیرا روضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقربان تیری مظلومی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرحان بھی ہے اور مظہر بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ہم ہی نہیں کہتے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے ہیں یہی حسنین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بی بی کاش تیرا روضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

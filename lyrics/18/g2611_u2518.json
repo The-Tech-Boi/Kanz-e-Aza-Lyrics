@@ -1,12 +1,314 @@
 {
   "remoteId": "g2611_u2518",
-  "title": "Na paae sheh ko",
+  "title": "نہ پاے شہ کو",
   "body": "نہ پاے شہ کو ہے کوئی لرزش\nنہ دست شہ تھر تھرا رہے ہیں\n<<DIVIDER>>\nعلی کو آواز دے کے لاشہ\nجواں پسر کا اٹھا رہے ہیں\nنہ پاے شہ کو۔۔۔\n<<DIVIDER>>\nرباب کھوی ہوی سی بیٹھی\nہے اشک آنکھوں سے جا رہے ہیں\nجو ہاتھ جھولہ جھلا رہے تھے\nوہ اب بھی جھولا جھلا رہے ہیں\nنہ پاے شہ کو۔۔۔\n<<DIVIDER>>\nکسی کو ہاتھوں پہ لے کے پہنچے\nکسی کا لاشہ اٹھا کے لاے\nحسین مقتل کو جا رہے ہیں\nحسین مقتل سے آ رہے ہیں\nنہ پاے شہ کو۔۔۔\n<<DIVIDER>>\nپہنچے بالیں پہ نوجواں کی\nحسین با حالت پریشاں\nصدا اٹھاے یہ ناز جس کے\nاب اس کا لاشہ اٹھا رہے ہیں\nنہ پاے شہ کو۔۔۔\n<<DIVIDER>>\nخیال اصغر کا آ رہا ہے\nآواز گم قلب ہے پریشاں\nرباب اٹھ اٹھ کے دیکھتی ہے\nکہ جیسے اصغر بجھا رہے ہیں\nنہ پاے شہ کو۔۔۔\n<<DIVIDER>>\nسعید ادب سے جھکائے سر کو\nمیں اپنا نوحہ سنا رہے ہوں\nدعائیں دیتی ہے مجھکو زہرا\nعلی میرا دل بڑا رہے ہیں\nنہ پاے شہ کو۔۔۔",
+  "styling": [
+    {
+      "insert": "نہ پاے شہ کو ہے کوئی لرزش"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ دست شہ تھر تھرا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی کو آواز دے کے لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جواں پسر کا اٹھا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پاے شہ کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرباب کھوی ہوی سی بیٹھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے اشک آنکھوں سے جا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ہاتھ جھولہ جھلا رہے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ اب بھی جھولا جھلا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پاے شہ کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکسی کو ہاتھوں پہ لے کے پہنچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی کا لاشہ اٹھا کے لاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین مقتل کو جا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین مقتل سے آ رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پاے شہ کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہنچے بالیں پہ نوجواں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین با حالت پریشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدا اٹھاے یہ ناز جس کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب اس کا لاشہ اٹھا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پاے شہ کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیال اصغر کا آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز گم قلب ہے پریشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رباب اٹھ اٹھ کے دیکھتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ جیسے اصغر بجھا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پاے شہ کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسعید ادب سے جھکائے سر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں اپنا نوحہ سنا رہے ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعائیں دیتی ہے مجھکو زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی میرا دل بڑا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پاے شہ کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Saeed Shaheedi",
   "anjumans": [],
   "verified": false

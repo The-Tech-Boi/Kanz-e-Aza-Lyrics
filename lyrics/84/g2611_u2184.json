@@ -1,12 +1,505 @@
 {
   "remoteId": "g2611_u2184",
-  "title": "Maar gaya baba",
+  "title": "مار گیا بابا",
   "body": "مار گیا بابا تیری زینب کو\nعباس کا مرنا مار گیا\n<<DIVIDER>>\nبن بازؤں کے وہ غازی کا\nگھوڑے سے گرنا مار گیا\n<<DIVIDER>>\nجب خیمے میں آے شاہ امم\nہاتھوں میں تھا بس غازی کا علم\nعباس نہیں اب آے گا\nبھای کا یہ کہنا مار گیا\nمار گیا بابا۔۔۔\n<<DIVIDER>>\nمیں شیر کے جیسے بھای کا\nپہچان نہیں پای لاشہ\nقاسم کی طرح سے غازی کا\nٹکڑوں میں بکھرنا مار گیا\nمار گیا بابا۔۔۔\n<<DIVIDER>>\nجب آنکھ سے تیر نکالا تھا\nمیں دیکھ رہی تھی خیمے سے\nمیرے غازی کا خوں سرور کے\nہاتھوں سے ٹپکنا مار گیا\nمار گیا بابا۔۔۔\n<<DIVIDER>>\nیہ شام کے ظالم تو اپنے\nگھوڑوں کو پلاتے ہیں پانی\nہاتھوں میں لیےء خالی کوزے\nبچوں کا بلکنا مار گیا\nمار گیا بابا۔۔۔\n<<DIVIDER>>\nجب سے یہ سنا ہے کہ پیاسا\nسقاے سکینہ مارا گیا\nاب پانی نہیں مل پاے گا\nاصغر کا سمجھنا مار گیا\nمار گیا بابا۔۔۔\n<<DIVIDER>>\nظالم نے چڑھایا تھا رن میں\nجس نیزے پر عباس کا سر\nاس نیزے سے بابا میرے\nچادر کا اترنا مار گیا\nمار گیا بابا۔۔۔\n<<DIVIDER>>\nرہوار پہ ہو کر بھی جس کے\nکھڑ پاؤں زمیں پر کھینچتے تھے\nاس بھائی کا اصغر جیسی\nتربت میں سمٹنا مار گیا\nمار گیا بابا۔۔۔\n<<DIVIDER>>\nمقتل میں بہت ڈھونڈا اس نے\nلاشہ نہ ملا دو ہاتھ ملے\nان ہاتھوں سے میری بچی کا\nرو رو کے لپٹنا مار گیا\nمار گیا بابا۔۔۔\n<<DIVIDER>>\nزیشان کہا یہ زینب نے\nجب شہ چلی تیرا ضربیں\nغازی کو صداییں دے دے کر\nبھای کا تڑپنا مار گیا\nمار گیا بابا۔۔۔",
+  "styling": [
+    {
+      "insert": "مار گیا بابا تیری زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا مرنا مار گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبن بازؤں کے وہ غازی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھوڑے سے گرنا مار گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب خیمے میں آے شاہ امم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں میں تھا بس غازی کا علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نہیں اب آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کا یہ کہنا مار گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مار گیا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں شیر کے جیسے بھای کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہچان نہیں پای لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کی طرح سے غازی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑوں میں بکھرنا مار گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مار گیا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب آنکھ سے تیر نکالا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں دیکھ رہی تھی خیمے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے غازی کا خوں سرور کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں سے ٹپکنا مار گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مار گیا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ شام کے ظالم تو اپنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھوڑوں کو پلاتے ہیں پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں میں لیےء خالی کوزے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچوں کا بلکنا مار گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مار گیا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے یہ سنا ہے کہ پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقاے سکینہ مارا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب پانی نہیں مل پاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کا سمجھنا مار گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مار گیا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظالم نے چڑھایا تھا رن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس نیزے پر عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس نیزے سے بابا میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر کا اترنا مار گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مار گیا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرہوار پہ ہو کر بھی جس کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھڑ پاؤں زمیں پر کھینچتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس بھائی کا اصغر جیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تربت میں سمٹنا مار گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مار گیا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل میں بہت ڈھونڈا اس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ نہ ملا دو ہاتھ ملے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان ہاتھوں سے میری بچی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے لپٹنا مار گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مار گیا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزیشان کہا یہ زینب نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب شہ چلی تیرا ضربیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کو صداییں دے دے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کا تڑپنا مار گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مار گیا بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Zeeshan Abidi",
   "anjumans": [],
   "verified": false

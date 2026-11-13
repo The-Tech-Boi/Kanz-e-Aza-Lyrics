@@ -1,12 +1,423 @@
 {
   "remoteId": "g2611_u0970",
-  "title": "Berida zainab khadi",
+  "title": "بے ردا زینب کھڑی",
   "body": "بے ردا زینب کھڑی ہے شام کا دربار ہے\n<<DIVIDER>>\nعالم غربت میں آل مختار ہیں\nاب نہ لشکر ہے نہ عباس علمدار ہے\nہاے کیا بدلی ہوئی وقت کی رفتار ہے\nسامنے رکھا ہوا فرق شہ ابرار ہے\n---بے ردا زینب کھڑی ہے\n<<DIVIDER>>\nظلم ہے کرسی نشیں کنبہ نبی کا ہے کھڑا\nاور اک بیمار ہے زنجیر میں جکڑا ہوا\nہیں رسن میں سب کے شانے اور سکینہ کا گلا\nہاے بچی کے لئے اب سانس لینا بار ہے\n---بے ردا زینب کھڑی ہے\n<<DIVIDER>>\nطشت میں رکھا ہوا ہے باپ کا سر سامنے\nسانس رکتی ہے تڑپتی ہے جو جواہر سامنے\nخون میں ڈوبے ہوئے ہیں کتنے منظر سامنے\nکس قدر زخمی نگاہ عابد بیمار ہے\n---بے ردا زینب کھڑی ہے\n<<DIVIDER>>\nغمزدہ مادر کی آنکھوں میں اندھیرا چھا گیا\nنوجواں بیٹے کا سر دربار میں لایا گیا\nجانے لیلیٰ سے یہ منظر کس طرح دیکھا گیا\nکیسی غربت میں شبیہ احمد مختار ہے\n---بے ردا زینب کھڑی ہے\n<<DIVIDER>>\nوہ علی اصغر کا سر جیسے کوئی تازہ کلی\nمادر بے شیر کی جس دم نظر اس پر پڑی\nگود میں لےکر سلانے کی تمنا جاگ اٹھی\nہاتھ میں رسی بندھے ہے ماں بہت لاچار ہے\n---بے ردا زینب کھڑی ہے\n<<DIVIDER>>\nہر گھڑی نظروں کے آگے اک قیامت ہے نیء\nسر پہ بھای کے بہن کی ہے نظر ٹہری ہوی\nہونٹ وہ شبیر کے اور دست ظالم کی چھڑی\nیہ بہن کے دل پہ اک چلتی ہوئی تلوار ہے\n---بے ردا زینب کھڑی ہے\n<<DIVIDER>>\nیاد آتا ہے مدینے سے سفر کا وہ سماں\nتھا وہ عباس جری أہل حرم کا پاسباں\nسر پرستی کو حسین ابنِ علی زہرا کی جاں\nاب تو غربت ہم سفر ہے راستہ دشوار ہے\n---بے ردا زینب کھڑی ہے\n<<DIVIDER>>\nپاس بابا بھی نہیں کوئی نہیں اب آسرا\nفاطمہ کی بیٹیوں پر وقت کیسا آگیا\nدل یہی کہتا ہے اختر اب علی کو دیں صدا\nآپکی بیٹی کو مولا اک ردا درکار ہے\n---بے ردا زینب کھڑی ہے",
+  "styling": [
+    {
+      "insert": "بے ردا زینب کھڑی ہے شام کا دربار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعالم غربت میں آل مختار ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہ لشکر ہے نہ عباس علمدار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے کیا بدلی ہوئی وقت کی رفتار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سامنے رکھا ہوا فرق شہ ابرار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بے ردا زینب کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظلم ہے کرسی نشیں کنبہ نبی کا ہے کھڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اک بیمار ہے زنجیر میں جکڑا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہیں رسن میں سب کے شانے اور سکینہ کا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے بچی کے لئے اب سانس لینا بار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بے ردا زینب کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطشت میں رکھا ہوا ہے باپ کا سر سامنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سانس رکتی ہے تڑپتی ہے جو جواہر سامنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوبے ہوئے ہیں کتنے منظر سامنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس قدر زخمی نگاہ عابد بیمار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بے ردا زینب کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغمزدہ مادر کی آنکھوں میں اندھیرا چھا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوجواں بیٹے کا سر دربار میں لایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے لیلیٰ سے یہ منظر کس طرح دیکھا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی غربت میں شبیہ احمد مختار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بے ردا زینب کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ علی اصغر کا سر جیسے کوئی تازہ کلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مادر بے شیر کی جس دم نظر اس پر پڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گود میں لےکر سلانے کی تمنا جاگ اٹھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ میں رسی بندھے ہے ماں بہت لاچار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بے ردا زینب کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر گھڑی نظروں کے آگے اک قیامت ہے نیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پہ بھای کے بہن کی ہے نظر ٹہری ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونٹ وہ شبیر کے اور دست ظالم کی چھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بہن کے دل پہ اک چلتی ہوئی تلوار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بے ردا زینب کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد آتا ہے مدینے سے سفر کا وہ سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا وہ عباس جری أہل حرم کا پاسباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پرستی کو حسین ابنِ علی زہرا کی جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو غربت ہم سفر ہے راستہ دشوار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بے ردا زینب کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپاس بابا بھی نہیں کوئی نہیں اب آسرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کی بیٹیوں پر وقت کیسا آگیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل یہی کہتا ہے اختر اب علی کو دیں صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپکی بیٹی کو مولا اک ردا درکار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بے ردا زینب کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Akhtar Zaidi",
   "anjumans": [],
   "verified": false

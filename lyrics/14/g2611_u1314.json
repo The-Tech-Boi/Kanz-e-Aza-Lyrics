@@ -1,12 +1,428 @@
 {
   "remoteId": "g2611_u1314",
-  "title": "Ghar chalo bhai",
+  "title": "گھر چلو بھای",
   "body": "شام عاشور جب روتے روتے\nغش کھا گیء سکینہ\nخواب میں دیکھتی ہے سکینہ\nبھیا قاسم کا آیا ہے سہرا\nجب نہ آیا نظر اسکو دولہا\nمقتل میں اسکو ڈھونڈنے نکلی ہے جابجا\nناگاہ اسکو لاشہء قاسم نظر آیا\n<<DIVIDER>>\nلاش قاسم پہ بولی سکینہ\nگھر چلو بھای مہندی لگا لو\n<<DIVIDER>>\nگھر میں شادی کی مسند بچھی ہے\nفاطمہ کبرا دلہن بنی ہے\nدھوم شادی کی رن میں مچی ہے\nگھر چلو بھای۔۔۔\n<<DIVIDER>>\nمنقبت دادا حیدر کی پڑھ کر\nہاتھ میں تیرا سہرا اٹھا کر\nتجھکو آواز دیتی ہے خواہر\nگھر چلو بھای۔۔۔\n<<DIVIDER>>\nیہ گھڑی مجھکو رب نے دکھائی\nآج ہے تیری رسم ہنای\nنیگ مہندی کا دینا ہے بھای\nگھر چلو بھای۔۔۔\n<<DIVIDER>>\nکیسا کبرا کا بگڑا مقدر\nسیاہ کپڑے ہیں اسکے بدن پر\nکیوں یہ کہتی ہوں میں بن میں رو کر\nگھر چلو بھای۔۔۔\n<<DIVIDER>>\nجس گھڑی ٹوٹا خواب سکینہ\nخود کو اس نے سر دشت پایا\nپیٹ کے سر پکاری وہ دکھیا\nگھر چلو بھای۔۔۔\n<<DIVIDER>>\nہے پھپھی کے لبوں پر یہ نوحہ\nہو گیا قتل مقتل میں دولہا\nرایگاں ہے میرا اب یہ کہنا\nگھر چلو بھای۔۔۔\n<<DIVIDER>>\nاماں فروا کو کیسے سنبھالوں\nکس طرح میں تسلی انہیں دوں\nپہلے خود کو یہ کہکے سنبھالو\nگھر چلو بھای۔۔۔\n<<DIVIDER>>\nدشت میں تھا جو پر درد منظر\nکہہ نہیں پاے عرفان و مظہر\nکانپتی تھی زمیں بس یہ سن کر\nگھر چلو بھای۔۔۔",
+  "styling": [
+    {
+      "insert": "شام عاشور جب روتے روتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غش کھا گیء سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خواب میں دیکھتی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا قاسم کا آیا ہے سہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب نہ آیا نظر اسکو دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں اسکو ڈھونڈنے نکلی ہے جابجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناگاہ اسکو لاشہء قاسم نظر آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاش قاسم پہ بولی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو بھای مہندی لگا لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر میں شادی کی مسند بچھی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کبرا دلہن بنی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دھوم شادی کی رن میں مچی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنقبت دادا حیدر کی پڑھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ میں تیرا سہرا اٹھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھکو آواز دیتی ہے خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ گھڑی مجھکو رب نے دکھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج ہے تیری رسم ہنای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیگ مہندی کا دینا ہے بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسا کبرا کا بگڑا مقدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیاہ کپڑے ہیں اسکے بدن پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں یہ کہتی ہوں میں بن میں رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس گھڑی ٹوٹا خواب سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود کو اس نے سر دشت پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیٹ کے سر پکاری وہ دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے پھپھی کے لبوں پر یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیا قتل مقتل میں دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رایگاں ہے میرا اب یہ کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں فروا کو کیسے سنبھالوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح میں تسلی انہیں دوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلے خود کو یہ کہکے سنبھالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدشت میں تھا جو پر درد منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ نہیں پاے عرفان و مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کانپتی تھی زمیں بس یہ سن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shahzade Qasim (a.s)",
+  "subcategory": "شہزادے قاسم (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,482 @@
 {
   "remoteId": "g2611_u0158",
-  "title": "Ab sakina may dam",
+  "title": "اب سکینہ میں دم",
   "body": "اب سکینہ میں دم کہاں اماں\nاب تو کھلواوء ریسماں اماں\n<<DIVIDER>>\nکم یہ زنداں نہیں ہے تربت سے\nموت بہتر ہے ایسی دہشت سے\nدم گھٹا جا رہا ہے وحشت سے\nشمع بھی تو نہیں ہے قسمت سے\nکیسا تاریک ہے مکاں اماں\n<<DIVIDER>>\nکان زخمی کیے لیے لو لو\nاور پھر اس پہ ظلم ہے کہ نہ رو\nیہ غضب بھی عجیب ہے دیکھو\nمیں جو روتی ہوں اپنے بابا کو\nشمر دیتا ہے گھرکیاں اماں\n<<DIVIDER>>\nلوگ دیتے ہیں کیا یونہی پرسہ\nدونوں رخسار میرے دیکھیےء گا\nدیگا کتنی یتیم کو ایذا\nپوچھیےء شمر سے براے خدا\nکتنے کھاؤں میں سیلیاں اماں\n<<DIVIDER>>\nکس میں حالت ہے مار کھانے کی\nکوئی صورت کرو بچانے کی\nکیا میں قابل ہوں تازیانے کی\nشمر کی پھر خبر ہے آنے کی\nرک رہی ہے میری زباں اماں\n<<DIVIDER>>\nکس قدر ہے شقی کے دل میں کد\nمارتا ہے جو دم بہ دم مرتد\nہو چکی ہو چکی ستم کی حد\nمیرے مرنے کے بعد ہی شاید\nشمر کھولے گا ریسماں اماں\n<<DIVIDER>>\nوا حسینا کا ہاے وہ نالہ\nہاے سونے مجھے نہیں دیتا\nقید خانے کے پاس ہی گویا\nصبح تک نام لے کے بابا کا\nآکے روتی ہے دادی جاں اماں\n<<DIVIDER>>\nچاہنے والے ہی نہ ہو جس کے\nقید خانے میں کیوں نہ وہ روے\nوہ جدا ہم سے ہم جدا ان سے\nکربلا میں ہیں کربلا والے\nکیا کریں رہ کے ہم یہاں اماں\n<<DIVIDER>>\nبابا لے جانے آگےء لیجئے\nمجھکو اب قبلہ رو لٹا دیجیےء\nاتنی تکلیف اور بھی کیجئے\nپڑھنے یاسین ان سے کہہ دیجئے\nغش میں اٹھے جو بھای جاں اماں\n<<DIVIDER>>\nلی جو بچی نے موت کی ہچکی\nیا علی کہکے غش ہوی ماں بھی\nآکے سب جمع ہوگئے قیدی\nکہکے نادان مرگیء حلمی\nاب تو کھلواوء ریسماں اماں",
+  "styling": [
+    {
+      "insert": "اب سکینہ میں دم کہاں اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو کھلواوء ریسماں اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکم یہ زنداں نہیں ہے تربت سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت بہتر ہے ایسی دہشت سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جا رہا ہے وحشت سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمع بھی تو نہیں ہے قسمت سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا تاریک ہے مکاں اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکان زخمی کیے لیے لو لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پھر اس پہ ظلم ہے کہ نہ رو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غضب بھی عجیب ہے دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جو روتی ہوں اپنے بابا کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر دیتا ہے گھرکیاں اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلوگ دیتے ہیں کیا یونہی پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دونوں رخسار میرے دیکھیےء گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیگا کتنی یتیم کو ایذا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوچھیےء شمر سے براے خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنے کھاؤں میں سیلیاں اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس میں حالت ہے مار کھانے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی صورت کرو بچانے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا میں قابل ہوں تازیانے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر کی پھر خبر ہے آنے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رک رہی ہے میری زباں اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس قدر ہے شقی کے دل میں کد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارتا ہے جو دم بہ دم مرتد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو چکی ہو چکی ستم کی حد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مرنے کے بعد ہی شاید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر کھولے گا ریسماں اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوا حسینا کا ہاے وہ نالہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے سونے مجھے نہیں دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے کے پاس ہی گویا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبح تک نام لے کے بابا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آکے روتی ہے دادی جاں اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاہنے والے ہی نہ ہو جس کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں کیوں نہ وہ روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جدا ہم سے ہم جدا ان سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا میں ہیں کربلا والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کریں رہ کے ہم یہاں اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا لے جانے آگےء لیجئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو اب قبلہ رو لٹا دیجیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنی تکلیف اور بھی کیجئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پڑھنے یاسین ان سے کہہ دیجئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غش میں اٹھے جو بھای جاں اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلی جو بچی نے موت کی ہچکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی کہکے غش ہوی ماں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آکے سب جمع ہوگئے قیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہکے نادان مرگیء حلمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو کھلواوء ریسماں اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Hilmi Afandi",
   "anjumans": [],
   "verified": false

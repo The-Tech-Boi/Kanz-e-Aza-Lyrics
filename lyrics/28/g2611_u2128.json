@@ -1,12 +1,224 @@
 {
   "remoteId": "g2611_u2128",
-  "title": "Laila ki umeedon ka",
+  "title": "لیلیٰ کی امیدوں کا",
   "body": "لیلیٰ کی امیدوں کا کیا حال ہوا ہوگا\nجب گھر سے جواں بیٹا مرنے کو چلا ہوگا\n<<DIVIDER>>\nلیلیٰ نے تصور میں سونچا بھی نہ تھا شاید\nسر اکبر غازی کا نیزے پہ چڑھا ہوگا\nلیلیٰ کی امیدوں کا۔۔۔\n<<DIVIDER>>\nاٹھارہ برس کا سن نیزے کی اَنی دل میں\nدنیا نے ستم ایسا دیکھا نہ سنا ہوگا\nلیلیٰ کی امیدوں کا۔۔۔\n<<DIVIDER>>\nجب دیکھ رہی ہوگی لیلیٰ در خیمے سے\nمادر کے کلیجے کا کیا حال ہوا ہوگا\nلیلیٰ کی امیدوں کا۔۔۔\n<<DIVIDER>>\nبرچی جو لگی دل پر آواز دی بابا کو\nبیٹے کی صدا سن کر کیا حال ہوا ہوگا\nلیلیٰ کی امیدوں کا۔۔۔\n<<DIVIDER>>\nاندھیر جہاں تھا سب نظروں میں شہ دیں کے\nلاشے تک شہ والا کس طرح گیا ہوگا\nلیلیٰ کی امیدوں کا۔۔۔\n<<DIVIDER>>\nدیکھا ہے تڑپتے ہیں سینے پہ سناں کھا کے\nزخمی جگر جواں کا برچی میں لگا ہوگا\nلیلیٰ کی امیدوں کا۔۔۔",
+  "styling": [
+    {
+      "insert": "لیلیٰ کی امیدوں کا کیا حال ہوا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب گھر سے جواں بیٹا مرنے کو چلا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلیلیٰ نے تصور میں سونچا بھی نہ تھا شاید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر اکبر غازی کا نیزے پہ چڑھا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ کی امیدوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھارہ برس کا سن نیزے کی اَنی دل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا نے ستم ایسا دیکھا نہ سنا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ کی امیدوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب دیکھ رہی ہوگی لیلیٰ در خیمے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مادر کے کلیجے کا کیا حال ہوا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ کی امیدوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرچی جو لگی دل پر آواز دی بابا کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹے کی صدا سن کر کیا حال ہوا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ کی امیدوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاندھیر جہاں تھا سب نظروں میں شہ دیں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے تک شہ والا کس طرح گیا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ کی امیدوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھا ہے تڑپتے ہیں سینے پہ سناں کھا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی جگر جواں کا برچی میں لگا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ کی امیدوں کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "anjumans": [],
   "verified": false
 }

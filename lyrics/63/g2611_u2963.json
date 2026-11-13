@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u2963",
-  "title": "Sattar qadam se",
+  "title": "ستّر قدم سے",
   "body": "پیاسے گلے پہ بھائی کے چلتی رہی چھری\nستّر قدم سے پیاسی بہن دیکھتی رہی\n<<DIVIDER>>\nکہتی تھی کیا اسی لئے پیسی تھی چکیاں\nچادر سے صاف کرتی تھی زخموں کو رو کے ماں\nزخمی سرِ حسین تھا زہرا کی گود تھی\nستّر قدم سے پیاسی۔۔۔\n<<DIVIDER>>\nروکے ہوئے تھے پیار میں خنجر کی دھار کو\nبیٹے سے کتنا پیار تھا دلدل سوار کو\nرکھے ہوئے تھے شہہ کے گلے پر گلا علی\nستّر قدم سے پیاسی۔۔۔\n<<DIVIDER>>\nخنجر سے شہہ کی زلفیں ہٹانے لگا لعیں\nداڑھی کی سمت ہاتھ بڑھانے لگا لعیں\nآنکھوں پہ ہاتھ رکھے ہوئے تھا ہر اک نبی\nستّر قدم سے پیاسی۔۔۔\n<<DIVIDER>>\nمقتل میں چار سال کی زہرا کو گود میں\nاک بار پھر اٹھا لے سکینہ کو گود میں\nافسوس قاتلوں سے اجازت نہیں ملی\nستّر قدم سے پیاسی۔۔۔\n<<DIVIDER>>\nچہرہ وطن کی سمت وہ کرتا تھا بار بار\nآنکھوں میں تھا بھرا ہوا صغرا کا انتظار\nہائے غریبِ زہرا کی آنکھیں کھلی ہوئی\nستّر قدم سے پیاسی۔۔۔\n<<DIVIDER>>\nکہتا تھا وہ اشاروں میں زینب سے جاؤ گھر\nآنکھوں کو بند کرلو کہ کٹ جائے میرا سر\nسینے پہ شہہ کے زانو تھا رکھے ہوئے شقی\nستّر قدم سے پیاسی۔۔۔\n<<DIVIDER>>\nلاشہ فرات پر کبھی اٹھا کبھی گرا\nکرب و بلا میں حشر تکلم بپا ہوا\nعباس تم کہاں ہو صدا جب یہ شہہ نے دی\nستّر قدم سے پیاسی۔۔۔",
+  "styling": [
+    {
+      "insert": "پیاسے گلے پہ بھائی کے چلتی رہی چھری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستّر قدم سے پیاسی بہن دیکھتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی تھی کیا اسی لئے پیسی تھی چکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر سے صاف کرتی تھی زخموں کو رو کے ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی سرِ حسین تھا زہرا کی گود تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستّر قدم سے پیاسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروکے ہوئے تھے پیار میں خنجر کی دھار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹے سے کتنا پیار تھا دلدل سوار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھے ہوئے تھے شہہ کے گلے پر گلا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستّر قدم سے پیاسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخنجر سے شہہ کی زلفیں ہٹانے لگا لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داڑھی کی سمت ہاتھ بڑھانے لگا لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں پہ ہاتھ رکھے ہوئے تھا ہر اک نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستّر قدم سے پیاسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل میں چار سال کی زہرا کو گود میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بار پھر اٹھا لے سکینہ کو گود میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افسوس قاتلوں سے اجازت نہیں ملی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستّر قدم سے پیاسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچہرہ وطن کی سمت وہ کرتا تھا بار بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں میں تھا بھرا ہوا صغرا کا انتظار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے غریبِ زہرا کی آنکھیں کھلی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستّر قدم سے پیاسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتا تھا وہ اشاروں میں زینب سے جاؤ گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں کو بند کرلو کہ کٹ جائے میرا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے پہ شہہ کے زانو تھا رکھے ہوئے شقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستّر قدم سے پیاسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشہ فرات پر کبھی اٹھا کبھی گرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرب و بلا میں حشر تکلم بپا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تم کہاں ہو صدا جب یہ شہہ نے دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستّر قدم سے پیاسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

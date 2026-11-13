@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u2284",
-  "title": "Marne ke liye",
+  "title": "مرنے کے لئے",
   "body": "مرنے کے لئے جاتا ہے بھای تیرا زینب\nہر سمت سے مانجایا تیرا گھر گیا زینب\n<<DIVIDER>>\nتم جانتی ہو خیمے میں اب کوئی نہیں ہے\nعباس نہیں قاسم و اکبر بھی نہیں ہے\nبے شیر کی میت بھی میں دفنا چکا زینب\nمرنے کے لئے جاتا۔۔۔\n<<DIVIDER>>\nکس طرح سنبھالے دل بے چین کو لیلیٰ\nوہ بھول نہیں پائے گی اکبر کا کلیجہ\nاس کے دل مضطر کو بھی دو حوصلہ زینب\nمرنے کے لئے جاتا۔۔۔\n<<DIVIDER>>\nبے شیر کی ماں بیٹھی ہے جھولے کو سنبھالے\nسب لوریاں چھپ ہو گیء ہونٹوں پہ ہے نالے\nچہرے پہ میرے خون ہے بے شیر کا زینب\nمرنے کے لئے جاتا۔۔۔\n<<DIVIDER>>\nاب سوکھے گلے پر میرے چل جائے گا خنجر\nلے جانے ہے سجاد کو شعلوں سے بچا کر\nاب ظلم کا انداز بدل جائے گا زینب\nمرنے کے لئے جاتا۔۔۔\n<<DIVIDER>>\nبینای میری لے گےء سب گھر کے اجالے\nاب خاک پہ سوتے ہیں میری گود کے پالے\nیہ دیکھتے ہی دیکھتے کیا ہو گیا زینب\nمرنے کے لئے جاتا۔۔۔\n<<DIVIDER>>\nہو جائیں گے اب ظلم کے انداز نرالے\nجو رہ گےء خیمے میں وہ ہے تیرے حوالے\nاب فرض ادا کرنا ہے عباس کا زینب\nمرنے کے لئے جاتا۔۔۔\n<<DIVIDER>>\nجل جائیں گے خیمے تو بکھر جائیں گے بچے\nایک جان تمہیں کرنے ہے یہ تسبیح کے دانے\nمقتل میں نکلنا ہے تجھے بے ردا زینب\nمرنے کے لئے جاتا۔۔۔\n<<DIVIDER>>\nاعدا میری بچی پہ بہت ظلم کریں گے\nمظلومہ کو معصومہ کو ماریں گے طمانچے\nہے سخت مصایب کا تمہیں سامنا زینب\nمرنے کے لئے جاتا۔۔۔\n<<DIVIDER>>\nبکھرے ہوئے سب خوں بھرے منظر ہے نظر میں\nرکتا ہی نہیں فکر کا طایر ہے سفر میں\nمانگے ہے رشید آپ سے اب حوصلہ زینب\nمرنے کے لئے جاتا۔۔۔",
+  "styling": [
+    {
+      "insert": "مرنے کے لئے جاتا ہے بھای تیرا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سمت سے مانجایا تیرا گھر گیا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم جانتی ہو خیمے میں اب کوئی نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نہیں قاسم و اکبر بھی نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے شیر کی میت بھی میں دفنا چکا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرنے کے لئے جاتا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح سنبھالے دل بے چین کو لیلیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بھول نہیں پائے گی اکبر کا کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کے دل مضطر کو بھی دو حوصلہ زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرنے کے لئے جاتا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے شیر کی ماں بیٹھی ہے جھولے کو سنبھالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب لوریاں چھپ ہو گیء ہونٹوں پہ ہے نالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرے پہ میرے خون ہے بے شیر کا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرنے کے لئے جاتا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب سوکھے گلے پر میرے چل جائے گا خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے جانے ہے سجاد کو شعلوں سے بچا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ظلم کا انداز بدل جائے گا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرنے کے لئے جاتا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبینای میری لے گےء سب گھر کے اجالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب خاک پہ سوتے ہیں میری گود کے پالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دیکھتے ہی دیکھتے کیا ہو گیا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرنے کے لئے جاتا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہو جائیں گے اب ظلم کے انداز نرالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو رہ گےء خیمے میں وہ ہے تیرے حوالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب فرض ادا کرنا ہے عباس کا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرنے کے لئے جاتا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجل جائیں گے خیمے تو بکھر جائیں گے بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک جان تمہیں کرنے ہے یہ تسبیح کے دانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں نکلنا ہے تجھے بے ردا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرنے کے لئے جاتا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاعدا میری بچی پہ بہت ظلم کریں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلومہ کو معصومہ کو ماریں گے طمانچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے سخت مصایب کا تمہیں سامنا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرنے کے لئے جاتا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبکھرے ہوئے سب خوں بھرے منظر ہے نظر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکتا ہی نہیں فکر کا طایر ہے سفر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانگے ہے رشید آپ سے اب حوصلہ زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرنے کے لئے جاتا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Rasheed Shaheedi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u1541",
-  "title": "Hogayi aah bepidar",
+  "title": "ہوگیء آہ بے پدر",
   "body": "ہوگیء آہ بے پدر زینب\nکم ہے اب روے جس قدر زینب\n<<DIVIDER>>\nآج ہے فرش غم پہ أہل عزا\nباپ کے غم میں نوحہ گر زینب\nہوگیء آہ بے پدر۔۔۔\n<<DIVIDER>>\nہل رہا ہے مزار روتی ہے\nماں کی تربت پہ کھولے سر زینب\nہوگیء آہ بے پدر۔۔۔\n<<DIVIDER>>\nروک لے آنسوؤں کو اپنے زرا\nاب تو رونا ہے عمر بھر زینب\nہوگیء آہ بے پدر۔۔۔\n<<DIVIDER>>\nابتداء ہے ابھی تو کوفے میں\nتجھکو ہونا ہے دربدر زینب\nہوگیء آہ بے پدر۔۔۔\n<<DIVIDER>>\nدیکھنا ایک دن دکھاے گی\nشام تجھکو یہی سحر زینب\nہوگیء آہ بے پدر۔۔۔\n<<DIVIDER>>\nمجمعہء عام ہوگا گلیوں میں\nاور ہوگی برہنہ سر زینب\nہوگیء آہ بے پدر۔۔۔\n<<DIVIDER>>\nکرتے ہیں جس طرح یتیم بسر\nاب کرو عمر یوں بسر زینب\nہوگیء آہ بے پدر۔۔۔\n<<DIVIDER>>\nرونقیں اٹھ رہی ہیں دنیا کی\nجا رہا ہے تیرا پدر زینب\nہوگیء آہ بے پدر۔۔۔\n<<DIVIDER>>\nسیدہ آ گیء ہیں جنت سے\nسارا ماتم کدا ہے گھر زینب\nہوگیء آہ بے پدر۔۔۔",
+  "styling": [
+    {
+      "insert": "ہوگیء آہ بے پدر زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کم ہے اب روے جس قدر زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآج ہے فرش غم پہ أہل عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کے غم میں نوحہ گر زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگیء آہ بے پدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہل رہا ہے مزار روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں کی تربت پہ کھولے سر زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگیء آہ بے پدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروک لے آنسوؤں کو اپنے زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو رونا ہے عمر بھر زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگیء آہ بے پدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nابتداء ہے ابھی تو کوفے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھکو ہونا ہے دربدر زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگیء آہ بے پدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھنا ایک دن دکھاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام تجھکو یہی سحر زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگیء آہ بے پدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجمعہء عام ہوگا گلیوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ہوگی برہنہ سر زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگیء آہ بے پدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرتے ہیں جس طرح یتیم بسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کرو عمر یوں بسر زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگیء آہ بے پدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرونقیں اٹھ رہی ہیں دنیا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا رہا ہے تیرا پدر زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگیء آہ بے پدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسیدہ آ گیء ہیں جنت سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سارا ماتم کدا ہے گھر زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگیء آہ بے پدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "anjumans": [],
   "verified": false
 }

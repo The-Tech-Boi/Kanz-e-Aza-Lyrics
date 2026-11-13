@@ -1,12 +1,265 @@
 {
   "remoteId": "g2611_u3170",
-  "title": "Tarjumane seerate",
+  "title": "ترجمان سیرت",
   "body": "ترجمان سیرتِ آل عبا زینب ہوی\nشاہرہ احکام دین مصطفیٰ زینب ہوی\nناصر پیغام شاہ کربلا زینب ہوی\n<<DIVIDER>>\nہر شہید فرض نے صدق و صفا کی شرحہ کی\nظہر تک عباس نے لفظ وفا کی شرحہ کی\nدن ڈھلا تو شاہرہ لفظ وفا زینب ہوی\n<<DIVIDER>>\nرہنماے اہلِ تسلیم و رضا شبیر تھے\nخون کے دریا میں بے شک نا خدا شبیر تھے\nآگ کے دریا میں لیکن نا خدا زینب ہوی\n<<DIVIDER>>\nدیدۂ اہل ستم پر ایک پردہ آ گیا\nتیرگی میں بال بکھرائے اندھیرا چھا گیا\nموندھلی سورج نے آنکھیں بے ردا زینب ہوی\n<<DIVIDER>>\nخطبہ کوفے میں دیا بندھوادی اشکوں کی جھڑی\nاور یوں ہی شام کے دربار میں مجلس پڑی\nحق تو یہ ہے بانیء رسم عزا زینب ہوی\n<<DIVIDER>>\nبیڑیاں زینب نے پہنی آسماں تھرا گیا\nوقت کے ماتھے پہ غیرت کا پسینہ چھا گیا\nفاتح ہر منزل صبر و رضا زینب ہوی\n<<DIVIDER>>\nبھیٹ دی کس خوش دلی سے اپنے دونوں لال کی\nاس جہاں میں مادرانہ صبر و استقلال کی\nابتداء کی ہاجرہ نے انتہا زینب ہوی\n<<DIVIDER>>\nجس طرح شہ خواب پیغمبر کی تفسیر جلیل\nجس طرح عباس ارمان علی یوں ہی جمیل\nپیکر خاکی میں زہرا کی دعا زینب ہوی",
+  "styling": [
+    {
+      "insert": "ترجمان سیرتِ آل عبا زینب ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہرہ احکام دین مصطفیٰ زینب ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناصر پیغام شاہ کربلا زینب ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر شہید فرض نے صدق و صفا کی شرحہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظہر تک عباس نے لفظ وفا کی شرحہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن ڈھلا تو شاہرہ لفظ وفا زینب ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرہنماے اہلِ تسلیم و رضا شبیر تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون کے دریا میں بے شک نا خدا شبیر تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگ کے دریا میں لیکن نا خدا زینب ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیدۂ اہل ستم پر ایک پردہ آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرگی میں بال بکھرائے اندھیرا چھا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موندھلی سورج نے آنکھیں بے ردا زینب ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخطبہ کوفے میں دیا بندھوادی اشکوں کی جھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور یوں ہی شام کے دربار میں مجلس پڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق تو یہ ہے بانیء رسم عزا زینب ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیڑیاں زینب نے پہنی آسماں تھرا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقت کے ماتھے پہ غیرت کا پسینہ چھا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاتح ہر منزل صبر و رضا زینب ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھیٹ دی کس خوش دلی سے اپنے دونوں لال کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس جہاں میں مادرانہ صبر و استقلال کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابتداء کی ہاجرہ نے انتہا زینب ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس طرح شہ خواب پیغمبر کی تفسیر جلیل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس طرح عباس ارمان علی یوں ہی جمیل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیکر خاکی میں زہرا کی دعا زینب ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "anjumans": [],
   "verified": false
 }

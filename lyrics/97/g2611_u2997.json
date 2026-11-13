@@ -1,12 +1,581 @@
 {
   "remoteId": "g2611_u2997",
-  "title": "Shaam ne maar diya",
+  "title": "شام نے مار دیا",
   "body": "روضے پہ نبی کے آ کے\nشانوں کے نیل دکھا کے\nزینب یہ بکا کرتی تھی\nہاے نانا شام نے مار دیا ہے\n<<DIVIDER>>\nدکھ شام غریباں کے سہہ کر\nزندہ رہی غازی کی خواہر\nجب برسے اسیروں پر پتھر\nسر غازی کا نیزے سے گرا\nشام نے مار دیا ہے\nہاے نانا۔۔۔\n<<DIVIDER>>\nاکبر کا جگر چھلنی دیکھا\nصابر کی بہن نے صبر کیا\nدروں سے بدن زخمی تھا میرا\nمیں چپ تھی مگر محبوب خدا\nشام نے مار دیا ہے\nہاے نانا۔۔۔\n<<DIVIDER>>\nجب عون و محمد قتل ہوے\nشبیر اٹھا لاے لاشے\nمیں شکر کے کرتی تھی سجدے\nسر اونچا میرا بچوں نے کیا\nشام نے مار دیا ہے\nہاے نانا۔۔۔\n<<DIVIDER>>\nدامن میں اٹھا کر شاہ ہدا\nجب قاسم کا لاے لاشہ\nچھپ چھپ کے کیا میں نے گریہ\nغم اپنا کبھی ظاہر نہ کیا\nشام نے مار دیا ہے\nہاے نانا۔۔۔\n<<DIVIDER>>\nکیوں مر نہ گیء اب سونچتی ہوں\nعابد کا بہا جب آنکھ سے خوں\nزندہ رہی میں بے چین و سکوں\nشام آ گیا جس دم میں نے سنا\nشام نے مار دیا ہے\nہاے نانا۔۔۔\n<<DIVIDER>>\nتر خوں میں ہوا اصغر کا گلا\nتھا تیر بھی اس کے قد سے بڑا\nبانو کو دلاسہ میں نے دیا\nکرتی رہی میں بے تیغ وغا\nشام نے مار دیا ہے\nہاے نانا۔۔۔\n<<DIVIDER>>\nاس شہر ستم میں اے نانا\nکیا تم سے کہوں کیا حال ہوا\nفضہ کو کسی نے کچھ نہ کہا\nدروں کی ملی زینب کو سزا\nشام نے مار دیا ہے\nہاے نانا۔۔۔\n<<DIVIDER>>\nصغرا نے سکینہ کو پوچھا\nمیں کیا کہتی رونے کے سوا\nجب اس نے بہت مجبور کیا\nتب سر کو جھکائے میں نے کہا\nشام نے مار دیا ہے\nہاے نانا۔۔۔\n<<DIVIDER>>\nجو شیر خدا کی بیٹی تھی\nعباس کے تیور رکھتی تھی\nجو موت سے بھی اک پل نہ ڈری\nاس بی بی کو ریحان و رضا\nشام نے مار دیا ہے\nہاے نانا۔۔۔",
+  "styling": [
+    {
+      "insert": "روضے پہ نبی کے آ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شانوں کے نیل دکھا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب یہ بکا کرتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے نانا شام نے مار دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدکھ شام غریباں کے سہہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ رہی غازی کی خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب برسے اسیروں پر پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر غازی کا نیزے سے گرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام نے مار دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر کا جگر چھلنی دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صابر کی بہن نے صبر کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دروں سے بدن زخمی تھا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں چپ تھی مگر محبوب خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام نے مار دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب عون و محمد قتل ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر اٹھا لاے لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں شکر کے کرتی تھی سجدے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر اونچا میرا بچوں نے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام نے مار دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدامن میں اٹھا کر شاہ ہدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب قاسم کا لاے لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھپ چھپ کے کیا میں نے گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم اپنا کبھی ظاہر نہ کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام نے مار دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں مر نہ گیء اب سونچتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کا بہا جب آنکھ سے خوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ رہی میں بے چین و سکوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام آ گیا جس دم میں نے سنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام نے مار دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتر خوں میں ہوا اصغر کا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا تیر بھی اس کے قد سے بڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بانو کو دلاسہ میں نے دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی رہی میں بے تیغ وغا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام نے مار دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس شہر ستم میں اے نانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تم سے کہوں کیا حال ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فضہ کو کسی نے کچھ نہ کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دروں کی ملی زینب کو سزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام نے مار دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصغرا نے سکینہ کو پوچھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیا کہتی رونے کے سوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب اس نے بہت مجبور کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تب سر کو جھکائے میں نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام نے مار دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو شیر خدا کی بیٹی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کے تیور رکھتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو موت سے بھی اک پل نہ ڈری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس بی بی کو ریحان و رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام نے مار دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u2275",
-  "title": "Mar jaye na sakina",
+  "title": "مر جاے نہ سکینہ",
   "body": "مر جاے نہ سکینہ زندان میں تنہا ہے\nگھیرے ہوے بچی کو غربت کا اندھیرا ہے\n<<DIVIDER>>\nیہ کیسی یتیمی ہے جو ہے وہ رلاتا ہے\nنہ کوئی تسلی ہے نہ کوئی دلاسہ ہے\nمر جاے نہ سکینہ۔۔۔\n<<DIVIDER>>\nلب خشک ہے بچی کے اور ہاتھ رسن بستہ\nکچھ خاک ہے بالوں میں بوسیدہ سا کرتہ ہے\nمر جاے نہ سکینہ۔۔۔\n<<DIVIDER>>\nسہمی ہوی بیٹھی ہے اک کونے میں شہزادی\nآہٹ بھی جو ہوتی ہے دل کانپنے لگتا ہے\nمر جاے نہ سکینہ۔۔۔\n<<DIVIDER>>\nجس وقت تڑپتی ہے بابا کو صدا دے کر\nمعصوم کی حالت پر زندان بھی روتا ہے\nمر جاے نہ سکینہ۔۔۔\n<<DIVIDER>>\nکل سوی تھی شہزادی شبیر کے سینے پر\nاب خاک کا بستر ہے اور خاک کا تکیہ ہے\nمر جاے نہ سکینہ۔۔۔\n<<DIVIDER>>\nلللہ کوی جا کر بچی کو چھڑا لاے\nظالم کے طمانچوں سے بہل سکینہ ہے\nمر جاے نہ سکینہ۔۔۔\n<<DIVIDER>>\nیوں تڑپتی سکینہ کے گھبرا گیء زینب بھی\nرو رو کے اسیروں نے غازی کو پکارا ہے\nمر جاے نہ سکینہ۔۔۔\n<<DIVIDER>>\nبس اتنا کہا گوہر اور مر گیء شہزادی\nبن باپ کے دنیا میں جینا کوئی جینا ہے\nمر جاے نہ سکینہ۔۔۔",
+  "styling": [
+    {
+      "insert": "مر جاے نہ سکینہ زندان میں تنہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھیرے ہوے بچی کو غربت کا اندھیرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کیسی یتیمی ہے جو ہے وہ رلاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ کوئی تسلی ہے نہ کوئی دلاسہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جاے نہ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلب خشک ہے بچی کے اور ہاتھ رسن بستہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ خاک ہے بالوں میں بوسیدہ سا کرتہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جاے نہ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسہمی ہوی بیٹھی ہے اک کونے میں شہزادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہٹ بھی جو ہوتی ہے دل کانپنے لگتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جاے نہ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس وقت تڑپتی ہے بابا کو صدا دے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم کی حالت پر زندان بھی روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جاے نہ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکل سوی تھی شہزادی شبیر کے سینے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب خاک کا بستر ہے اور خاک کا تکیہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جاے نہ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلللہ کوی جا کر بچی کو چھڑا لاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم کے طمانچوں سے بہل سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جاے نہ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیوں تڑپتی سکینہ کے گھبرا گیء زینب بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے اسیروں نے غازی کو پکارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جاے نہ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبس اتنا کہا گوہر اور مر گیء شہزادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن باپ کے دنیا میں جینا کوئی جینا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جاے نہ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Gohar Jarchvi",
   "anjumans": [],
   "verified": false

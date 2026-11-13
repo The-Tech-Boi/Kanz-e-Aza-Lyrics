@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u1741",
-  "title": "Jal chuke qaime",
+  "title": "جل چکے خیمے",
   "body": "جل چکے خیمے یتیموں کے اندھیرا ریہہ گیا\nرات روتی ریہہ گئ روتا سویرا ریہہ گیا\n<<DIVIDER>>\nجو باراتی بچ گئے وہ قید ہو کے چل دئیے\nسارے دشتِ نینوا میں ایک دلہا ریہہ گیا\nجل چکے خیمے۔۔۔\n<<DIVIDER>>\nیادگاریں ریہہ گئیں دو مادرِ اصغرع کے پاس\nایک کُرتا خوں بھرا اور ایک جھولا ریہہ گیا\nجل چکے خیمے۔۔۔\n<<DIVIDER>>\nامِّ لیلیٰ رو کے بولی شاہِ دیں جلدی چلو\nنوک پے برچھی کی اکبر ع کا کلیجہ ریہہ گیا\nجل چکے خیمے۔۔۔\n<<DIVIDER>>\nسہرائے اکبر کی لڑیاں خون میں تر ہو گئیں\nہائے صغرا کا ہر اِک ارماں ادھورا ریہہ گیا\nجل چکے خیمے۔۔۔\n<<DIVIDER>>\nسب ہی لاشوں کو اُٹھا کر چل دئیے کوفے کے لوگ\nتپتی ریتی پر محمد کا نواسہ ریہہ گیا\nجل چکے خیمے۔۔۔\n<<DIVIDER>>\nپھول زہرا کے چمن سے سب ہی توڑے جا چُکے\nجلتے خیموں میں بس اِک بیمار تنہا ریہہ گیا\nجل چکے خیمے۔۔۔\n<<DIVIDER>>\nسَر کھلے زینب چلین خیموں سے یہ کیہہ کر رضا ؔ\nخنجروں کی بھیڑ میں بھائ اکیلا ریہہ گیا\nجل چکے خیمے۔۔۔",
+  "styling": [
+    {
+      "insert": "جل چکے خیمے یتیموں کے اندھیرا ریہہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات روتی ریہہ گئ روتا سویرا ریہہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو باراتی بچ گئے وہ قید ہو کے چل دئیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سارے دشتِ نینوا میں ایک دلہا ریہہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل چکے خیمے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیادگاریں ریہہ گئیں دو مادرِ اصغرع کے پاس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک کُرتا خوں بھرا اور ایک جھولا ریہہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل چکے خیمے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامِّ لیلیٰ رو کے بولی شاہِ دیں جلدی چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوک پے برچھی کی اکبر ع کا کلیجہ ریہہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل چکے خیمے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسہرائے اکبر کی لڑیاں خون میں تر ہو گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے صغرا کا ہر اِک ارماں ادھورا ریہہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل چکے خیمے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب ہی لاشوں کو اُٹھا کر چل دئیے کوفے کے لوگ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تپتی ریتی پر محمد کا نواسہ ریہہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل چکے خیمے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھول زہرا کے چمن سے سب ہی توڑے جا چُکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے خیموں میں بس اِک بیمار تنہا ریہہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل چکے خیمے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسَر کھلے زینب چلین خیموں سے یہ کیہہ کر رضا ؔ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خنجروں کی بھیڑ میں بھائ اکیلا ریہہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل چکے خیمے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Raza Sirsvi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,377 @@
 {
   "remoteId": "g2611_u3385",
-  "title": "Ya hussain ya",
+  "title": "یا حسین یا",
   "body": "بچھ گیا فرش عزا ہوگیا ماتم بپا\nآتی ہے دل سے صدا ہاے شہ کربلا\nکرتے ہیں ماتم تیرا ہاے قتیل جفا\nچاند فلک پر دکھا آگیا ماہ عزا\n<<DIVIDER>>\nپھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی\nنام لینے سے میرے دل کو آتا ہے چین\nیا حسین یا حسین ابا عبداللہ\n<<DIVIDER>>\nچار جانب یہ جلوسوں کی سبیلوں کی فضا\nآج ہر گھر میں عزا خانہ سجا ہے مولا\nساری دنیا میں بپا ہوگیا ماتم تیرا\nپھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی\nنام لینے سے میرے دل کو آتا ہے چین\nیا حسین یا حسین۔۔۔\n<<DIVIDER>>\nسال بھر غم میں تیرے یوں بھی نہیں دل کو چین\nچاند دیکھا جو محرم کا اٹھا شور و شین\nسب عزاداروں کے لب پر ہے بکا ہاے حسین\nپھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی\nنام لینے سے میرے دل کو آتا ہے چین\nیا حسین یا حسین۔۔۔\n<<DIVIDER>>\nمیرے مولا میری ہر سانس تیرے غم پہ نثار\nہے ہوا سوگ میں ڈوبے ہوئے پرچم پہ نثار\nہے تیرے ماتمی مولا تیرے ماتم پہ نثار\nپھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی\nنام لینے سے میرے دل کو آتا ہے چین\nیا حسین یا حسین۔۔۔\n<<DIVIDER>>\nہاے یہ چشم تصور جو گیء کربو بلا\nتیری گردن پہ جو چلتا ہوا خنجر دیکھا\nخاک اڑاتے ہیں اسی غم میں سبھی اہل عزا\nپھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی\nنام لینے سے میرے دل کو آتا ہے چین\nیا حسین یا حسین۔۔۔\n<<DIVIDER>>\nجب بھی قرطاس پہ مظہر نے لکھا ہاے حسین\nمیں روتے ہوئے صفدر یہ کہا ہاے حسین\nیوں لگا سارے جہاں میں ہے صدا ہاے حسین\nپھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی\nنام لینے سے میرے دل کو آتا ہے چین\nیا حسین یا حسین۔۔۔",
+  "styling": [
+    {
+      "insert": "بچھ گیا فرش عزا ہوگیا ماتم بپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی ہے دل سے صدا ہاے شہ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتے ہیں ماتم تیرا ہاے قتیل جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند فلک پر دکھا آگیا ماہ عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام لینے سے میرے دل کو آتا ہے چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین ابا عبداللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچار جانب یہ جلوسوں کی سبیلوں کی فضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج ہر گھر میں عزا خانہ سجا ہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساری دنیا میں بپا ہوگیا ماتم تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام لینے سے میرے دل کو آتا ہے چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسال بھر غم میں تیرے یوں بھی نہیں دل کو چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند دیکھا جو محرم کا اٹھا شور و شین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب عزاداروں کے لب پر ہے بکا ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام لینے سے میرے دل کو آتا ہے چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے مولا میری ہر سانس تیرے غم پہ نثار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے ہوا سوگ میں ڈوبے ہوئے پرچم پہ نثار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے تیرے ماتمی مولا تیرے ماتم پہ نثار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام لینے سے میرے دل کو آتا ہے چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے یہ چشم تصور جو گیء کربو بلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری گردن پہ جو چلتا ہوا خنجر دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک اڑاتے ہیں اسی غم میں سبھی اہل عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام لینے سے میرے دل کو آتا ہے چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب بھی قرطاس پہ مظہر نے لکھا ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں روتے ہوئے صفدر یہ کہا ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں لگا سارے جہاں میں ہے صدا ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر صفیں بچھ گئی ماتم کی صدا گونج اٹھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام لینے سے میرے دل کو آتا ہے چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ibtedaye Ayyam e Aza",
+  "subcategory": "ابتدائے ایام عزا",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

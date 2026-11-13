@@ -1,7 +1,232 @@
 {
   "remoteId": "g2611_u3102",
-  "title": "Subhe ashoor aane",
+  "title": "صبحِ عاشور آنے",
   "body": "صبحِ عاشور آنے والی ہے\nکیا قیامت اٹھانے والی ہے\n<<DIVIDER>>\nرنج و غم کی گھٹائیں چھائی ہے\nفاطمہ کربلا میں آی ہے\nابن حیدر کی آخری شب ہے\nصبحِ عاشور۔۔۔\n<<DIVIDER>>\nقتل ہوگا شبیہ پیغمبر\nمارا جائے گا قاسم مضطر\nعلی اکبر کی آخری شب ہے\nصبحِ عاشور۔۔۔\n<<DIVIDER>>\nشان عباس کے جدا ہونگے\nاصغر بے زباں فدا ہونگے\nعلی اصغر کی آخری شب ہے\nصبحِ عاشور۔۔۔\n<<DIVIDER>>\nغش میں بیمار کربلا ہونگے\nقید ناموس مصطفیٰ ہونگے\nحق کے سرور کی آخری شب ہے\nصبحِ عاشور۔۔۔\n<<DIVIDER>>\nغمزدہ ہے سراج آل نبی\nکہہ رہی ہے یہ سب سے بنت علی\nجان‌ زہرا کی آخری شب ہے\nصبحِ عاشور۔۔۔",
+  "styling": [
+    {
+      "insert": "صبحِ عاشور آنے والی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا قیامت اٹھانے والی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرنج و غم کی گھٹائیں چھائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کربلا میں آی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابن حیدر کی آخری شب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبحِ عاشور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقتل ہوگا شبیہ پیغمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارا جائے گا قاسم مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی اکبر کی آخری شب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبحِ عاشور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشان عباس کے جدا ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر بے زباں فدا ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی اصغر کی آخری شب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبحِ عاشور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغش میں بیمار کربلا ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید ناموس مصطفیٰ ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق کے سرور کی آخری شب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبحِ عاشور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغمزدہ ہے سراج آل نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ رہی ہے یہ سب سے بنت علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جان‌ زہرا کی آخری شب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبحِ عاشور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

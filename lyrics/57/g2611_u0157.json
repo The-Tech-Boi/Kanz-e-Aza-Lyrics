@@ -1,12 +1,432 @@
 {
   "remoteId": "g2611_u0157",
-  "title": "Ab sakina ko kabhi",
+  "title": "اب سکینہ کو کبھی",
   "body": "خون کے اشک یتیمی اسے رلواے گی\nاب سکینہ کو کبھی نیند نہیں آے گی\n<<DIVIDER>>\nخاک پر عون و محمد کو پڑا دیکھا ہے\nلاشے عباس میں نیزوں کو گڑا دیکھا ہے\nسر کو بے شیر کے بھی تن سے جدا دیکھا ہے\nباپ کے سینے کو تیروں سے بھرا دیکھا ہے\nاب سکینہ کو کبھی۔۔۔\n<<DIVIDER>>\nماں رسن بستہ ہے اور قید ہے بھای بیمار\nچین اب دل کو آے گا نہ آے گا قرار\nمارتا جاے گا ہر گام طمانچے بڑھکار\nخاک پر سر جو رکھے گی دیکھیں گے رخسار\nاب سکینہ کو کبھی۔۔۔\n<<DIVIDER>>\nمار کر درہ تڑپنے بھی نہیں دیگا لعیں\nکھا کے غش خاک پہ گرنے بھی نہیں دیگا لعیں\nرونا چاہے گی تو رونے بھی نہیں دیگا لعیں\nنیند گر آی تو سونے بھی نہیں دیگا لعیں\nاب سکینہ کو کبھی۔۔۔\n<<DIVIDER>>\nکردن شاہ پہ چلتا ہوا خنجر دیکھا\nاس نے برچھی سے چھدا سینۂ اکبر دیکھا\nایک ہی دن میں اجڑتا ہوا سب گھر دیکھا\nعصر عاشور کو زینب کا کھلا سر دیکھا\nاب سکینہ کو کبھی۔۔۔\n<<DIVIDER>>\nجلتے خیموں کا دھواں آنکھوں میں باقی ہے ابھی\nچھنتے گوہر کی دکھن کانوں میں باقی ہے ابھی\nتنگ رسی کی گھٹن سانسوں میں باقی ہے ابھی\nپھٹتے چھالوں کی جلن پیروں میں باقی ہے ابھی\nاب سکینہ کو کبھی۔۔۔\n<<DIVIDER>>\nپیاسے پینے کے لئے بھوک ہے کھانے کے لئے\nشمر بدکار ہے ہمراہ ستانے کے لئے\nاور بے رحم طمانچے ہیں رلانے کے لئے\nیہ جو زندہ ہے تو زندان میں جانے کے لئے\nاب سکینہ کو کبھی۔۔۔\n<<DIVIDER>>\nبھول پاے گی نہ غازی کے کٹے شانوں کو\nبھول پاے گی نہ لٹتے ہوے ارمانوں کو\nبھول پاے گی نہ وہ کوفے کے اہوانوں کو\nبھول پاے گی نہ وہ شام کے زندانوں کو\nاب سکینہ کو کبھی۔۔۔\n<<DIVIDER>>\nنیند اسے نور علی آے تو کیسے آے\nجس کو تقدیر یہ غربت کی گھڑی دکھلاے\nگام در گام جو پتھر کبھی درے کھاے\nنوحہ ناصر نے پڑھا دل سے یہ نکلا ہاے\nاب سکینہ کو کبھی۔۔۔",
+  "styling": [
+    {
+      "insert": "خون کے اشک یتیمی اسے رلواے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سکینہ کو کبھی نیند نہیں آے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاک پر عون و محمد کو پڑا دیکھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے عباس میں نیزوں کو گڑا دیکھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کو بے شیر کے بھی تن سے جدا دیکھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کے سینے کو تیروں سے بھرا دیکھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سکینہ کو کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں رسن بستہ ہے اور قید ہے بھای بیمار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چین اب دل کو آے گا نہ آے گا قرار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارتا جاے گا ہر گام طمانچے بڑھکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر سر جو رکھے گی دیکھیں گے رخسار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سکینہ کو کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمار کر درہ تڑپنے بھی نہیں دیگا لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا کے غش خاک پہ گرنے بھی نہیں دیگا لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونا چاہے گی تو رونے بھی نہیں دیگا لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند گر آی تو سونے بھی نہیں دیگا لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سکینہ کو کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکردن شاہ پہ چلتا ہوا خنجر دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس نے برچھی سے چھدا سینۂ اکبر دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ہی دن میں اجڑتا ہوا سب گھر دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عصر عاشور کو زینب کا کھلا سر دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سکینہ کو کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلتے خیموں کا دھواں آنکھوں میں باقی ہے ابھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھنتے گوہر کی دکھن کانوں میں باقی ہے ابھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنگ رسی کی گھٹن سانسوں میں باقی ہے ابھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھٹتے چھالوں کی جلن پیروں میں باقی ہے ابھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سکینہ کو کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاسے پینے کے لئے بھوک ہے کھانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر بدکار ہے ہمراہ ستانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور بے رحم طمانچے ہیں رلانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ جو زندہ ہے تو زندان میں جانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سکینہ کو کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھول پاے گی نہ غازی کے کٹے شانوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھول پاے گی نہ لٹتے ہوے ارمانوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھول پاے گی نہ وہ کوفے کے اہوانوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھول پاے گی نہ وہ شام کے زندانوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سکینہ کو کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیند اسے نور علی آے تو کیسے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو تقدیر یہ غربت کی گھڑی دکھلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گام در گام جو پتھر کبھی درے کھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ ناصر نے پڑھا دل سے یہ نکلا ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سکینہ کو کبھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Noor Ali",
   "anjumans": [],
   "verified": false

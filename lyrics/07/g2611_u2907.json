@@ -1,12 +1,310 @@
 {
   "remoteId": "g2611_u2907",
-  "title": "Sakina shaam ke zindan",
+  "title": "سکینہ شام کے زنداں",
   "body": "سکینہ شام کے زنداں میں سو گیء بابا\n<<DIVIDER>>\nطمانچے شمر سے کھاتی تھی جب بھی روتی تھی\nاندھیری رات میں اٹھ اٹھ کے بس یہ کہتی تھی\nمیری اسیری پہ روتی بے کسی بابا\nسکینہ شام کے زنداں۔۔۔\n<<DIVIDER>>\nاے بابا آپ کے سینے کی اسکو عادت تھی\nزمیں پہ سونے کی کوشش میں جاگتی ہی رہی\nتیری یتیمہ کو نیند آی نہ کبھی بابا\nسکینہ شام کے زنداں۔۔۔\n<<DIVIDER>>\nپھپھی سے کہتی تھی رو رو کے یہ بتادو پھپھی\nستم کی قید سے گھر اپنے جا سکے گا کبھی\nاسے رہائی نہ مر کے بھی مل سکی بابا\nسکینہ شام کے زنداں۔۔۔\n<<DIVIDER>>\nبنای آپ نے مقتل میں قبر اصغر کی\nلحد بنای ہے زندان میں میں نے مضطر کی\nپڑی جو فاتحہ روتی تھی ہتھکڑی بابا\nسکینہ شام کے زنداں۔۔۔\n<<DIVIDER>>\nکفن لہو بھرا کرتہ ہی ہے سکینہ کا\nدیا ہے غسل بھی اشکوں سے اے میرے بابا\nکفن بھی روتا تھا اور میں بھی قبر بھی بابا\nسکینہ شام کے زنداں۔۔۔\n<<DIVIDER>>\nنہیں زرا سا اجالا بھی اس کی تربت پر\nاندھیرے کرنے لگے نوحہ اس کی تربت پر\nکرے گا کون یہاں آ کے روشنی بابا\nسکینہ شام کے زنداں۔۔۔\n<<DIVIDER>>\nبیاں کیسے کریں گے یہ میثم و مظہر\nجو بین بابا سے کرتے تھے عابد مضطر\nسکینہ شام کے زندان میں سو گیء بابا\nسکینہ شام کے زنداں۔۔۔",
+  "styling": [
+    {
+      "insert": "سکینہ شام کے زنداں میں سو گیء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطمانچے شمر سے کھاتی تھی جب بھی روتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اندھیری رات میں اٹھ اٹھ کے بس یہ کہتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری اسیری پہ روتی بے کسی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے بابا آپ کے سینے کی اسکو عادت تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پہ سونے کی کوشش میں جاگتی ہی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری یتیمہ کو نیند آی نہ کبھی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھپھی سے کہتی تھی رو رو کے یہ بتادو پھپھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم کی قید سے گھر اپنے جا سکے گا کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسے رہائی نہ مر کے بھی مل سکی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبنای آپ نے مقتل میں قبر اصغر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لحد بنای ہے زندان میں میں نے مضطر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پڑی جو فاتحہ روتی تھی ہتھکڑی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکفن لہو بھرا کرتہ ہی ہے سکینہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیا ہے غسل بھی اشکوں سے اے میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کفن بھی روتا تھا اور میں بھی قبر بھی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہیں زرا سا اجالا بھی اس کی تربت پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اندھیرے کرنے لگے نوحہ اس کی تربت پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرے گا کون یہاں آ کے روشنی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیاں کیسے کریں گے یہ میثم و مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو بین بابا سے کرتے تھے عابد مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ شام کے زندان میں سو گیء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ شام کے زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

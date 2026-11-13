@@ -1,12 +1,532 @@
 {
   "remoteId": "g2611_u0299",
-  "title": "Abul fazle bawafa",
+  "title": "ابوالفضل با وفا",
   "body": "ابوالفضل با وفا علمدار لشکرم\nماہ ہاشمی نصب امیر دلاورم\n<<DIVIDER>>\nتو شہنشاہِ وفاداری ہے\nتیرا غم مثل ہوا جاری ہے\nتیرے پرچم کی چمک کیا کہنا\nتا قیامت یہ علمداری ہے\nابوالفضل با وفا۔۔۔\n<<DIVIDER>>\nباخدا چشمِ کربلا تم ہو\nہم فقیروں کا آسرا تم ہو\nآپ کی ذات ہے شعورِ فلک\nبازوے ابنِ فاطمہ تم ہو\nابوالفضل با وفا۔۔۔\n<<DIVIDER>>\nرخ پر نور صورت گل ہے\nجز نہیں عکس حیدری کل ہے\nتم علومِ علی کے تارے ہو\nتیری جرأت کا چار سو فل ہے\nابوالفضل با وفا۔۔۔\n<<DIVIDER>>\nتم صداے دلی کی سنتے ہو\nیوں بھی حاجت روائی کرتے ہو\nدست گیری بغیر بازو بھی\nچودہ صدیوں سے کرتے رہتے ہو\nابوالفضل با وفا۔۔۔\n<<DIVIDER>>\nاے غلام حسین ابنِ علی\nبر سر علقمہ بھی تشنہ لبی\nتیرے ہی خون سے تر تھا تیرا الم\nپیاس جیتی ہے علقمہ ہاری\nابوالفضل با وفا۔۔۔\n<<DIVIDER>>\nبین کرتی ہے ایک معصومہ\nوہ سکینہ گلا بندھا جس کا\nآج بھی تیرے انتظار میں ہے\nآج بھی زنداں سے آ رہی ہے صدا\nابوالفضل با وفا۔۔۔\n<<DIVIDER>>\nتیر اک آنکھ میں تھا اک میں لہو\nجب کیا ہے پےء نماز وضو\nقلب زینب لہو اگلنے لگا\nاب پانی میں جب تیری خوشبو\nابوالفضل با وفا۔۔۔\n<<DIVIDER>>\nسر برہنہ تھی جس گھڑی زینب\nزیر نیزہ تھی جب کھڑی زینب\nنوک نیزہ پہ تیرا سر نہ رکا\nخاک پہ رو کے گر پڑی زینب\nابوالفضل با وفا۔۔۔\n<<DIVIDER>>\nتیرے لاشے پہ جب گےء شبیر\nدیکھا پیوست آنکھ میں ہے تیر\nشدت غم سے جھک گیء تھی کمر\nخوں میں غلطاں تھی باپ کی تصویر\nابوالفضل با وفا۔۔۔\n<<DIVIDER>>\nزندگی بھر ہمیں کہا آقا\nبولے غازی سے شاہ کربوبلا\nمیرے ناصر میری ریحان دلی\nبھای کہہ دو ہو ہمیں پےء زہرا\nابوالفضل با وفا۔۔۔",
+  "styling": [
+    {
+      "insert": "ابوالفضل با وفا علمدار لشکرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماہ ہاشمی نصب امیر دلاورم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو شہنشاہِ وفاداری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا غم مثل ہوا جاری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے پرچم کی چمک کیا کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تا قیامت یہ علمداری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابوالفضل با وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباخدا چشمِ کربلا تم ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم فقیروں کا آسرا تم ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کی ذات ہے شعورِ فلک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازوے ابنِ فاطمہ تم ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابوالفضل با وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرخ پر نور صورت گل ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جز نہیں عکس حیدری کل ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم علومِ علی کے تارے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری جرأت کا چار سو فل ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابوالفضل با وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم صداے دلی کی سنتے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں بھی حاجت روائی کرتے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دست گیری بغیر بازو بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چودہ صدیوں سے کرتے رہتے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابوالفضل با وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے غلام حسین ابنِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بر سر علقمہ بھی تشنہ لبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے ہی خون سے تر تھا تیرا الم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاس جیتی ہے علقمہ ہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابوالفضل با وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبین کرتی ہے ایک معصومہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ سکینہ گلا بندھا جس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج بھی تیرے انتظار میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج بھی زنداں سے آ رہی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابوالفضل با وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیر اک آنکھ میں تھا اک میں لہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کیا ہے پےء نماز وضو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلب زینب لہو اگلنے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب پانی میں جب تیری خوشبو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابوالفضل با وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر برہنہ تھی جس گھڑی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زیر نیزہ تھی جب کھڑی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوک نیزہ پہ تیرا سر نہ رکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پہ رو کے گر پڑی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابوالفضل با وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے لاشے پہ جب گےء شبیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا پیوست آنکھ میں ہے تیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شدت غم سے جھک گیء تھی کمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں میں غلطاں تھی باپ کی تصویر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابوالفضل با وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزندگی بھر ہمیں کہا آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے غازی سے شاہ کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے ناصر میری ریحان دلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کہہ دو ہو ہمیں پےء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابوالفضل با وفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

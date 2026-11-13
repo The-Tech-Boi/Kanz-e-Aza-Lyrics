@@ -1,12 +1,251 @@
 {
   "remoteId": "g2611_u2307",
-  "title": "Matam karo hussainyo",
+  "title": "ماتم کرو حسینیوں",
   "body": "ہو سلام یا امام یا امام ہو سلام\n<<DIVIDER>>\nماتم کرو حسینیوں سب موسیٰ رضا کا\nامت نے جس امام کو دیا زہر جفا کا\n<<DIVIDER>>\nماتم ہمارے پاس ہے زینب کی امانت\nزہرا ہی اس کا دینگی صلہ روز قیامت\nیہ حکم با خدا ہے محبوب خدا کا\nماتم کرو حسینیوں۔۔۔\n<<DIVIDER>>\nمیلوں کا سفر کر کے بہن ملنے جو آی\nبھای کی شکل ہاے کہیں دیکھ نہ پای\nدم توڑ گیء جب سنا بھای کی قضا کا\nماتم کرو حسینیوں۔۔۔\n<<DIVIDER>>\nکس جرم میں ٹکڑے ہوے موسی کے جگر کے\nکس سے کرے سوال کوئی تو جواب دے\nدوگے جواب آے گا جب روز جزا کا\nماتم کرو حسینیوں۔۔۔\n<<DIVIDER>>\nکربل کبھی کوفہ میں جانے کہاں کہاں\nامت نے قتل کر دیےء تھے جو دیں کے پاسباں\nکیا ظالموں نے ہاے نہ کچھ خوف خدا کا\nماتم کرو حسینیوں۔۔۔\n<<DIVIDER>>\nمجھ سا ہے بھلا کون مقدر کا سکندر\nمجھکو بنایا آل کا خورشید نوحہ گر\nکس طرح کروں شکر میں پنجتن کی عطا کا\nماتم کرو حسینیوں۔۔۔",
+  "styling": [
+    {
+      "insert": "ہو سلام یا امام یا امام ہو سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماتم کرو حسینیوں سب موسیٰ رضا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت نے جس امام کو دیا زہر جفا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماتم ہمارے پاس ہے زینب کی امانت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا ہی اس کا دینگی صلہ روز قیامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ حکم با خدا ہے محبوب خدا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو حسینیوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیلوں کا سفر کر کے بہن ملنے جو آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کی شکل ہاے کہیں دیکھ نہ پای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم توڑ گیء جب سنا بھای کی قضا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو حسینیوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس جرم میں ٹکڑے ہوے موسی کے جگر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس سے کرے سوال کوئی تو جواب دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دوگے جواب آے گا جب روز جزا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو حسینیوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربل کبھی کوفہ میں جانے کہاں کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت نے قتل کر دیےء تھے جو دیں کے پاسباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ظالموں نے ہاے نہ کچھ خوف خدا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو حسینیوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ سا ہے بھلا کون مقدر کا سکندر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو بنایا آل کا خورشید نوحہ گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح کروں شکر میں پنجتن کی عطا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو حسینیوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Raza (a.s)",
+  "subcategory": "امام رضا (ع)",
   "author": "Haider Khursheed",
   "anjumans": [],
   "verified": false

@@ -1,7 +1,350 @@
 {
   "remoteId": "g2611_u0695",
-  "title": "Ay momino payame",
+  "title": "اے مومنوں پیام",
   "body": "لے گا نہ جانے کتنی یہ کروٹیں زمانہ\nچاہے ہر ایک شے کو دنیا کی بھول جانا\nاُجڑا جو ایک دن میں اُس گھر کو یاد رکھنا\nاے مومنوں پیامِ سرور کو یاد رکھنا\nکربوبلا کے خونی منظر کو یاد رکھنا\nاے مومنوں پیامِ۔۔۔\n<<DIVIDER>>\nآغوش میں تمہاری معصوم کوئی آئے\nجب پیار سے کوئی ماں جھولا اُسے جھولائے\nبانو کی بے بسی کو اصغر کو یاد رکھنا\nاے مومنوں پیامِ۔۔۔\n<<DIVIDER>>\nآجائے جب کسی پر تقدیر سے یتیمی\nفرقت میں باپ کی جب مرجائے کوئی بچی\nاولاد والوں میری دُختر کو یاد رکھنا\nاے مومنوں پیامِ۔۔۔\n<<DIVIDER>>\nتم کوخدا دیکھائے خوشیوں کا ہر سویرا\nقسمت سے جب بھی باندھو اپنے پسر کا سہرا\nقاسم کو یاد رکھنا اکبر کو یاد رکھنا\nاے مومنوں پیامِ۔۔۔\n<<DIVIDER>>\nدیکھو نہ زندگی میں مرنا جواں پسر کا\nبیٹے کا داغ دل پر ہوتا ہے عمر بھر کا\nلیلیٰ کی حسرتوں کو اکبر کو یاد رکھنا\nاے مومنوں پیامِ۔۔۔\n<<DIVIDER>>\nبہنوں کو بیٹیوںکو جب بھی ردا اُڑھانا\nہم بے کسوں کو ہر گِز دل سے نہیں بُھلانا\nمیری بہن کے سر کی چادر کو یاد رکھنا\nاے مومنوں پیامِ۔۔۔\n<<DIVIDER>>\nبیٹوں کو جو نہ روئی قربان کر کے مجھ پر\nاور سر نہیں اُٹھایا احسان کر کے مجھ پر\nاُس جاں نثار میری خواہر کو یاد رکھنا\nاے مومنوں پیامِ۔۔۔\n<<DIVIDER>>\nآئیں کسی طرف سے ماتم کی جب صدائیں\nاہلِ عزا کو محشر دینا اگر دُعائیں\nگلزارِحیدری کو سرور کویاد رکھنا\nاے مومنوں پیامِ۔۔۔",
+  "styling": [
+    {
+      "insert": "لے گا نہ جانے کتنی یہ کروٹیں زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاہے ہر ایک شے کو دنیا کی بھول جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُجڑا جو ایک دن میں اُس گھر کو یاد رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مومنوں پیامِ سرور کو یاد رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا کے خونی منظر کو یاد رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مومنوں پیامِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآغوش میں تمہاری معصوم کوئی آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب پیار سے کوئی ماں جھولا اُسے جھولائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بانو کی بے بسی کو اصغر کو یاد رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مومنوں پیامِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآجائے جب کسی پر تقدیر سے یتیمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرقت میں باپ کی جب مرجائے کوئی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اولاد والوں میری دُختر کو یاد رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مومنوں پیامِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم کوخدا دیکھائے خوشیوں کا ہر سویرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قسمت سے جب بھی باندھو اپنے پسر کا سہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کو یاد رکھنا اکبر کو یاد رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مومنوں پیامِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھو نہ زندگی میں مرنا جواں پسر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹے کا داغ دل پر ہوتا ہے عمر بھر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ کی حسرتوں کو اکبر کو یاد رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مومنوں پیامِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہنوں کو بیٹیوںکو جب بھی ردا اُڑھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم بے کسوں کو ہر گِز دل سے نہیں بُھلانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بہن کے سر کی چادر کو یاد رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مومنوں پیامِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹوں کو جو نہ روئی قربان کر کے مجھ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سر نہیں اُٹھایا احسان کر کے مجھ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس جاں نثار میری خواہر کو یاد رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مومنوں پیامِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآئیں کسی طرف سے ماتم کی جب صدائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ عزا کو محشر دینا اگر دُعائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلزارِحیدری کو سرور کویاد رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مومنوں پیامِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -1,12 +1,296 @@
 {
   "remoteId": "g2611_u1446",
-  "title": "Haye akbar ghar may",
+  "title": "ہائے اکبر گھر میں",
   "body": "ماں کا نالہ لاش تک آتا ہے\nاکبر گھر میں آو\nدیکھ کوئی یوں بھی رلواتا ہے\nہائے اکبر گھر میں آو\n<<DIVIDER>>\nآخری دیدار ممکن ہو تو دکھلا دو مجھے\nلاش اٹھائے رن میں باپ آتا ہے\nاکبر گھر میں آو\nہائے اکبر گھر میں آو\n<<DIVIDER>>\nٹکڑے ٹکڑے ہو گیا نازک کلیجہ وقت جنگ\nاس طرح برچھی کوئی کھاتا ہے\nاکبر گھر میں آو\nہائے اکبر گھر میں آو\n<<DIVIDER>>\nصدقے جاوں گی وفا عہد جوانی نے نہ کچھ\nاتنی جلدی کوئی مر جاتا ہے\nاکبر گھر میں آو\nہائے اکبر گھر میں آو\n<<DIVIDER>>\nتم یہاں مقتل میں ہو اور ماں ہے ڈیوڑھی پر تپاں\nمیری جان الفت میں فرق آتا ہے\nاکبر گھر میں آو\nہائے اکبر گھر میں آو\n<<DIVIDER>>\nتم سے ملنا کیا تمہاری ماں کی قسمت میں نہیں\nدل میرا کاہے کو گھبراتا ہے\nاکبر گھر میں آو\nہائے اکبر گھر میں آو\n<<DIVIDER>>\nخیمے کے در پر تمہارے واسطے روتی ہے ماں\nایسا کوئی ماں کو رلواتا ہے\nاکبر گھر میں آو\nہائے اکبر گھر میں آو",
+  "styling": [
+    {
+      "insert": "ماں کا نالہ لاش تک آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کوئی یوں بھی رلواتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآخری دیدار ممکن ہو تو دکھلا دو مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاش اٹھائے رن میں باپ آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹکڑے ٹکڑے ہو گیا نازک کلیجہ وقت جنگ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح برچھی کوئی کھاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصدقے جاوں گی وفا عہد جوانی نے نہ کچھ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنی جلدی کوئی مر جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم یہاں مقتل میں ہو اور ماں ہے ڈیوڑھی پر تپاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری جان الفت میں فرق آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم سے ملنا کیا تمہاری ماں کی قسمت میں نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میرا کاہے کو گھبراتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے کے در پر تمہارے واسطے روتی ہے ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا کوئی ماں کو رلواتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے اکبر گھر میں آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Zakhir",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,455 @@
 {
   "remoteId": "g2611_u0240",
-  "title": "Abbas mar gaye",
+  "title": "عباس مر گئے",
   "body": "ہاے حسیں ہاے حسیں\nہاے تنہائی میری ہاے تنہائی میری\n<<DIVIDER>>\nعباس مر گئے علی اکبر جدا ہوا\nہم سے کسی نے یہ بھی نہ پوچھا کے کیا ہوا\n<<DIVIDER>>\nوا حسرتا کے ٹوٹ گئی ہے مری کمر\nوا غربتا اب آنکھوں سے آتا نہیں نظر\nجینے کا اب جواز ہمارے نہیں رہا\nعباس مر گئے۔۔۔\nہم سے کسی نے۔۔۔\n<<DIVIDER>>\nخالی علم اٹھا کے میں خیمے میں لے گیا\nلایا ہوں تنہا لاشہِ ہمشکلِ مصطفیٰ\nغربت پہ میری ہنستا ہے لشکر یزید کا\nعباس مر گئے۔۔۔\nہم سے کسی نے۔۔۔\n<<DIVIDER>>\nغازی کے ٹکڑے دیکھ کے ٹکڑے ہوا جگر\nداڑھی سفید ہوگئی اکبر کی لاش پر\nاک دو پہر میں ہم پہ ستم کیسا ہوگیا\nعباس مر گئے۔۔۔\nہم سے کسی نے۔۔۔\n<<DIVIDER>>\nکہتے ہیں اب بلائیے امداد کے لئے\nبولو حسین اکبر و غازی کہاں گئے\nدیتے ہیں طعنے پرسے کے بدلے یہ اشقیا\nعباس مر گئے۔۔۔\nہم سے کسی نے۔۔۔\n<<DIVIDER>>\nسوچا تھا مجھ سے آ کے کہیں گے یہ کلمہ گو\nدونوں کا پرسہ دینے ہم آئیں ہیں آپ کو\nحسرت یہ لے کےقبر میں مظلوم جائے گا\nعباس مر گئے۔۔۔\nہم سے کسی نے۔۔۔\n<<DIVIDER>>\nمر جائے گر کسی کا کوئی بھائی یا پسر\nاُس کو دلاسے دیتے ہیں سب لوگ موت پر\nہائے مگر ہماری غریبی کی انتہا\nعباس مر گئے۔۔۔\nہم سے کسی نے۔۔۔\n<<DIVIDER>>\nچاروں طرف ہے تیروں کی بوچھار دیکھ لو\nہم پر سبھی اٹھائے ہیں تلوار دیکھ لو\nزینب بتاؤ اب کہاں جاکر کریں گِلا\nعباس مر گئے۔۔۔\nہم سے کسی نے۔۔۔\n<<DIVIDER>>\nخنجر تلے بھی شہہ کو تکلم یہی تھا غم\nکتنے غریب ہوگئے کرب و بلا میں ہم\nخنجر رواں تھا پڑھتے تھے مولا یہ مرثیہ\nعباس مر گئے۔۔۔\nہم سے کسی نے۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے حسیں ہاے حسیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تنہائی میری ہاے تنہائی میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس مر گئے علی اکبر جدا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سے کسی نے یہ بھی نہ پوچھا کے کیا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوا حسرتا کے ٹوٹ گئی ہے مری کمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وا غربتا اب آنکھوں سے آتا نہیں نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جینے کا اب جواز ہمارے نہیں رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس مر گئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سے کسی نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخالی علم اٹھا کے میں خیمے میں لے گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لایا ہوں تنہا لاشہِ ہمشکلِ مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غربت پہ میری ہنستا ہے لشکر یزید کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس مر گئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سے کسی نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغازی کے ٹکڑے دیکھ کے ٹکڑے ہوا جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داڑھی سفید ہوگئی اکبر کی لاش پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک دو پہر میں ہم پہ ستم کیسا ہوگیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس مر گئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سے کسی نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتے ہیں اب بلائیے امداد کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولو حسین اکبر و غازی کہاں گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتے ہیں طعنے پرسے کے بدلے یہ اشقیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس مر گئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سے کسی نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوچا تھا مجھ سے آ کے کہیں گے یہ کلمہ گو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دونوں کا پرسہ دینے ہم آئیں ہیں آپ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسرت یہ لے کےقبر میں مظلوم جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس مر گئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سے کسی نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمر جائے گر کسی کا کوئی بھائی یا پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس کو دلاسے دیتے ہیں سب لوگ موت پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے مگر ہماری غریبی کی انتہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس مر گئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سے کسی نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاروں طرف ہے تیروں کی بوچھار دیکھ لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم پر سبھی اٹھائے ہیں تلوار دیکھ لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب بتاؤ اب کہاں جاکر کریں گِلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس مر گئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سے کسی نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخنجر تلے بھی شہہ کو تکلم یہی تھا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنے غریب ہوگئے کرب و بلا میں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خنجر رواں تھا پڑھتے تھے مولا یہ مرثیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس مر گئے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سے کسی نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

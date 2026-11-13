@@ -1,12 +1,491 @@
 {
   "remoteId": "g2611_u3143",
-  "title": "Taboot e hyder",
+  "title": "تابوتِ حیدر",
   "body": "یہ کیسا ہے شور گریاں ہے\nکیسا ماتم ہے کیسا نوحہ\nیہ کس کا تابوت اٹھ رہا ہے\nجو لوگ آنسوں بہا رہے ہیں\n<<DIVIDER>>\nکہا یہ اکیسویں نے رو کر\nامام دنیا سے جا رہے ہیں\nیہ کس کا تابوت اٹھ رہا ہے\nجو لوگ آنسوں بہا رہے ہیں\n<<DIVIDER>>\nاداس کوفے کی مسجدیں ہیں\nہر سر برہنہ ہر ایک جماعت\nہوائیں سر کو پٹک رہی ہیں\nستارے نوحہ سنا رہے ہیں\nیہ کس کا تابوت۔۔۔\n<<DIVIDER>>\nتمام بیواییں ہیں پریشاں\nیتیم بچے ہے چاک دامن\nخبر جو رکھتے ہیں بیکسوں کی\nوہ آج کوفے سے جا رہے ہیں\nیہ کس کا تابوت۔۔۔\n<<DIVIDER>>\nہے بیٹیوں کی عجب یہ حالت\nپدر سے ہوتی ہے آج رخصت\nحسن ہے خاموش سر جھکائے\nحسین آنسوں بہا رہے ہیں\nیہ کس کا تابوت۔۔۔\n<<DIVIDER>>\nمصلہ خونِ علی میں تر ہے\nخموش ممبر اداس گھر ہے\nہے روزہ داروں پہ اک قیامت\nلہو کے آنسوں بہا رہے ہیں\nیہ کس کا تابوت۔۔۔\n<<DIVIDER>>\nہے قبر زہرا پہ اک اداسی\nنبی کا روضہ لرز رہا ہے\nلگی ہے سر پر علی کے ضربت\nتمام خوں میں نہا رہے ہیں\nیہ کس کا تابوت۔۔۔\n<<DIVIDER>>\nنمازیوں میں ہے بیقراری\nاٹھا سروں سے علی کا سایہ\nہے تیس پاروں میں شور گریہ\nصحیفیں نوحہ سنا رہے ہے\nیہ کس کا تابوت۔۔۔\n<<DIVIDER>>\nتمام پیغمبران بر حق\nعلی کے رونے کو آے کوفہ\nعلی کا تابوت اٹھا رہا ہے\nتمام کاندھا لگا رہے ہیں\nیہ کس کا تابوت۔۔۔\n<<DIVIDER>>\nرضا ہے شہر خموش جنت\nاتر رہی ہے علی کی میت\nحسن تو تلقین پڑھ رہے ہیں\nحسین شانہ ہلا رہے ہیں\nیہ کس کا تابوت۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ کیسا ہے شور گریاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا ماتم ہے کیسا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس کا تابوت اٹھ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو لوگ آنسوں بہا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا یہ اکیسویں نے رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امام دنیا سے جا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس کا تابوت اٹھ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو لوگ آنسوں بہا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاداس کوفے کی مسجدیں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سر برہنہ ہر ایک جماعت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوائیں سر کو پٹک رہی ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستارے نوحہ سنا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس کا تابوت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمام بیواییں ہیں پریشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یتیم بچے ہے چاک دامن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خبر جو رکھتے ہیں بیکسوں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ آج کوفے سے جا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس کا تابوت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے بیٹیوں کی عجب یہ حالت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پدر سے ہوتی ہے آج رخصت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسن ہے خاموش سر جھکائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین آنسوں بہا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس کا تابوت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمصلہ خونِ علی میں تر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خموش ممبر اداس گھر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے روزہ داروں پہ اک قیامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو کے آنسوں بہا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس کا تابوت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے قبر زہرا پہ اک اداسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی کا روضہ لرز رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگی ہے سر پر علی کے ضربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمام خوں میں نہا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس کا تابوت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنمازیوں میں ہے بیقراری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھا سروں سے علی کا سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے تیس پاروں میں شور گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحیفیں نوحہ سنا رہے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس کا تابوت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمام پیغمبران بر حق"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کے رونے کو آے کوفہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا تابوت اٹھا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمام کاندھا لگا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس کا تابوت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرضا ہے شہر خموش جنت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتر رہی ہے علی کی میت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسن تو تلقین پڑھ رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین شانہ ہلا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس کا تابوت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Raza Sirsvi",
   "anjumans": [],
   "verified": false

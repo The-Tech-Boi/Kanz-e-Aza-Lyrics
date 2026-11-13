@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u2082",
-  "title": "Kya pad gayi zindan",
+  "title": "کیا پڑ گیء زندان",
   "body": "کیا پڑ گیء زندان میں افراد سکینہ\nسب سے جدا ہوگیء ناشاد سکینہ\n<<DIVIDER>>\nکرتی تھی بیان لاش پہ یہ بانوے بیکس\nفریاد ہے فریاد ہے فریاد سکینہ\nکیا پڑ گیء زندان میں۔۔۔\n<<DIVIDER>>\nٹکراتی ہے زندان میں دیوار سے سر کو\nتم مر گیء ماں ہوگیء برباد سکینہ\nکیا پڑ گیء زندان میں۔۔۔\n<<DIVIDER>>\nاٹھو تو زرا پاس پھپھی جان کھڑی ہے\nہوتے ہیں تمہارے لیۓ ناشاد سکینہ\nکیا پڑ گیء زندان میں۔۔۔\n<<DIVIDER>>\nبے داد ہوی وہ جو کسی پر نہ ہوی تھی\nکچھ اپنی زباں سے کہو روداد سکینہ\nکیا پڑ گیء زندان میں۔۔۔\n<<DIVIDER>>\nسینے پہ سلانے کے لئے آے ہیں بابا\nماں کہتی ہے اٹھو میری ناشاد سکینہ\nکیا پڑ گیء زندان میں۔۔۔\n<<DIVIDER>>\nعباس چچا آے ہیں کرتے ہوے ماتم\nان کی سنو اپنی کہو افتاد سکینہ\nکیا پڑ گیء زندان میں۔۔۔\n<<DIVIDER>>\nغربت سے یہی کہتا ہے زنداں کا اندھیرا\nرہ جائے گی تا حشر تیری یاد سکینہ\nکیا پڑ گیء زندان میں۔۔۔\n<<DIVIDER>>\nہے ہتھکڑی ہاتھوں میں تو پاؤں میں ہیں بیڑی\nدفناتے ہیں پھر بھی تمہیں سجاد سکینہ\nکیا پڑ گیء زندان میں۔۔۔\n<<DIVIDER>>\nبستی ہے بسای ہوی غم کی علی فطرت\nہر دل ہے تیری یاد سے آباد سکینہ\nکیا پڑ گیء زندان میں۔۔۔",
+  "styling": [
+    {
+      "insert": "کیا پڑ گیء زندان میں افراد سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب سے جدا ہوگیء ناشاد سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرتی تھی بیان لاش پہ یہ بانوے بیکس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فریاد ہے فریاد ہے فریاد سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا پڑ گیء زندان میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹکراتی ہے زندان میں دیوار سے سر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم مر گیء ماں ہوگیء برباد سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا پڑ گیء زندان میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھو تو زرا پاس پھپھی جان کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتے ہیں تمہارے لیۓ ناشاد سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا پڑ گیء زندان میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے داد ہوی وہ جو کسی پر نہ ہوی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ اپنی زباں سے کہو روداد سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا پڑ گیء زندان میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسینے پہ سلانے کے لئے آے ہیں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں کہتی ہے اٹھو میری ناشاد سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا پڑ گیء زندان میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس چچا آے ہیں کرتے ہوے ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان کی سنو اپنی کہو افتاد سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا پڑ گیء زندان میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغربت سے یہی کہتا ہے زنداں کا اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ جائے گی تا حشر تیری یاد سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا پڑ گیء زندان میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے ہتھکڑی ہاتھوں میں تو پاؤں میں ہیں بیڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دفناتے ہیں پھر بھی تمہیں سجاد سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا پڑ گیء زندان میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبستی ہے بسای ہوی غم کی علی فطرت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر دل ہے تیری یاد سے آباد سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا پڑ گیء زندان میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Ali Fitrat",
   "anjumans": [],
   "verified": false

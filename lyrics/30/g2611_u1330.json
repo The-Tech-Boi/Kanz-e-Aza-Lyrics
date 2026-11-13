@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u1330",
-  "title": "Ghar se nikal raha",
+  "title": "گھر سے نکل رہا",
   "body": "گھر سے نکل رہا ہے جنازہ بتول کا\nگریہ کناں ہے سارا گھرانہ بتول کا\n<<DIVIDER>>\nبعد رسول اتنے مصایب ہوے نزول\nاٹھارہ سال ہی میں ضعیفی ہوی بتول\nماتم سرا بنا ہے مدینہ بتول کا\nگھر سے نکل رہا ہے۔۔۔\n<<DIVIDER>>\nدروازہء علی کو عدو نے جلا دیا\nپہلو پہ ہاے جلتا ہوا در گرا دیا\nدشوار کر کے رکھ دیا جینا بتول کا\nگھر سے نکل رہا ہے۔۔۔\n<<DIVIDER>>\nدیوار و در کے درمیاں شہزادی آ گیء\nاک کیل پسلیوں میں جو پیوست ہو گیء\nہاے شہید ہو گیا بیٹا بتول کا\nگھر سے نکل رہا ہے۔۔۔\n<<DIVIDER>>\nلے آے غسل خانے میں میت کو اعلیا\nدوران غسل چیخ پڑے شیر کبریا\nآیا نظر جو پہلو شکستہ بتول کا\nگھر سے نکل رہا ہے۔۔۔\n<<DIVIDER>>\nواللہ دے کوئی تو دلاسہ حسین کو\nمیت پہ ماں کی رونے نہ دینا حسین کو\nرونے سے اس کے پھٹتا ہے سینہ بتول کا\nگھر سے نکل رہا ہے۔۔۔\n<<DIVIDER>>\nحسنین مضطرب ہے تو بے چین ہے علی\nغش میں پڑی ہے زینب و کلثوم یا نبی\nرنج و الم میں غرق ہے کنبہ بتول کا\nگھر سے نکل رہا ہے۔۔۔\n<<DIVIDER>>\nہر سمت ہے مدینے میں شور بکا مجیب\nروتے ہیں سر کو پیٹ کے أہل عزا مجیب\nریحان کے لبوں پہ ہے نوحہ بتول کا\nگھر سے نکل رہا ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "گھر سے نکل رہا ہے جنازہ بتول کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گریہ کناں ہے سارا گھرانہ بتول کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد رسول اتنے مصایب ہوے نزول"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ سال ہی میں ضعیفی ہوی بتول"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم سرا بنا ہے مدینہ بتول کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سے نکل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدروازہء علی کو عدو نے جلا دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلو پہ ہاے جلتا ہوا در گرا دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشوار کر کے رکھ دیا جینا بتول کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سے نکل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیوار و در کے درمیاں شہزادی آ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک کیل پسلیوں میں جو پیوست ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شہید ہو گیا بیٹا بتول کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سے نکل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلے آے غسل خانے میں میت کو اعلیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دوران غسل چیخ پڑے شیر کبریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آیا نظر جو پہلو شکستہ بتول کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سے نکل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nواللہ دے کوئی تو دلاسہ حسین کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میت پہ ماں کی رونے نہ دینا حسین کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے سے اس کے پھٹتا ہے سینہ بتول کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سے نکل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسنین مضطرب ہے تو بے چین ہے علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غش میں پڑی ہے زینب و کلثوم یا نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رنج و الم میں غرق ہے کنبہ بتول کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سے نکل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر سمت ہے مدینے میں شور بکا مجیب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے ہیں سر کو پیٹ کے أہل عزا مجیب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ریحان کے لبوں پہ ہے نوحہ بتول کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سے نکل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Mujeeb Alipuri",
   "anjumans": [],
   "verified": false

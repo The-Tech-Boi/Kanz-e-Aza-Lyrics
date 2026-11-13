@@ -1,12 +1,455 @@
 {
   "remoteId": "g2611_u3035",
-  "title": "Shah ast hussain",
+  "title": "شاہ است حُسین",
   "body": "شاہ است حُسین بادشاہ است حُسین\nدیں است حُسین دیں پناہ است حُسین\n<<DIVIDER>>\nسر داد نہ داد دست در دست ِ یزید\nحقا کہ بنا لا الٰہ است حُسین\n<<DIVIDER>>\nسردار و شہنشاہ اے شاہِ شہیداں\nقاری سرِ نیزہ اے وارثِ قرآن\nکہتی ہیں نمازیں اب تک سرِ میدان\nسُنو زندہ ہے حُسین سُنو زندہ ہے حُسین\nشاہ است حُسین۔۔۔\n<<DIVIDER>>\nاذاں و نمازیں میلادِ محمد\nیہ مجلس و ماتم عباس کا پرچم\nکہتی ہیں سبیلیں کہتا ہے محرم\nسُنو زندہ ہے حُسین۔۔۔\nشاہ است حُسین۔۔۔\n<<DIVIDER>>\nاکبر کا کلیجہ حلقِ علی اصغر\nعباس کے بازو زینب کا کھلا سر\nیہ کہتے ہیں تجھ سے اے شام کے لشکر\nسُنو زندہ ہے حُسین۔۔۔\nشاہ است حُسین۔۔۔\n<<DIVIDER>>\nمرقد سے نکل کر خود فاطمہ زہرا\nمقتل کی زمیں پر دیتی رہی پہرہ\nخنجر سے سناں سے کہتی رہی زہرا\nسُنو زندہ ہے حُسین۔۔۔\nشاہ است حُسین۔۔۔\n<<DIVIDER>>\nزنجیرِ ستم نے رستہ نہیں روکا\nپہنے ہوئے بیڑی چلتے رہے مولا\nکہتا ہے ابھی تک سجاد کا سجدہ\nسُنو زندہ ہے حُسین۔۔۔\nشاہ است حُسین۔۔۔\n<<DIVIDER>>\nاعدائ کے تماچے رُخسارِ سکینہ\nجلتا ہوا دامن گرمی کا مہینہ\nکہتی تھی پھوپھی سے ہر ایک سے کہنا\nسُنو زندہ ہے حُسین۔۔۔\nشاہ است حُسین۔۔۔\n<<DIVIDER>>\nبیمارِ مدینہ وہ فاطمہ صُغرا\nدروازے پہ بیٹھی تکتی ہے جورستہ\nخود کو یہی کہہ کر دیتی ہے دلاسا\nسُنو زندہ ہے حُسین۔۔۔\nشاہ است حُسین۔۔۔\n<<DIVIDER>>\nسرور سرِ مجلس ذکرِ شاہِ والا\nریحان مسلسل اس غم کا حوالا\nدوہراتا ہے ہر دم تاریخ کا جملہ\nسُنو زندہ ہے حُسین۔۔۔\nشاہ است حُسین۔۔۔",
+  "styling": [
+    {
+      "insert": "شاہ است حُسین بادشاہ است حُسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیں است حُسین دیں پناہ است حُسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر داد نہ داد دست در دست ِ یزید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حقا کہ بنا لا الٰہ است حُسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسردار و شہنشاہ اے شاہِ شہیداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاری سرِ نیزہ اے وارثِ قرآن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی ہیں نمازیں اب تک سرِ میدان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُنو زندہ ہے حُسین سُنو زندہ ہے حُسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ است حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاذاں و نمازیں میلادِ محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ مجلس و ماتم عباس کا پرچم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی ہیں سبیلیں کہتا ہے محرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُنو زندہ ہے حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ است حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر کا کلیجہ حلقِ علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کے بازو زینب کا کھلا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہتے ہیں تجھ سے اے شام کے لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُنو زندہ ہے حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ است حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمرقد سے نکل کر خود فاطمہ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل کی زمیں پر دیتی رہی پہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خنجر سے سناں سے کہتی رہی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُنو زندہ ہے حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ است حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنجیرِ ستم نے رستہ نہیں روکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہنے ہوئے بیڑی چلتے رہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتا ہے ابھی تک سجاد کا سجدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُنو زندہ ہے حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ است حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاعدائ کے تماچے رُخسارِ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتا ہوا دامن گرمی کا مہینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی پھوپھی سے ہر ایک سے کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُنو زندہ ہے حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ است حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیمارِ مدینہ وہ فاطمہ صُغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دروازے پہ بیٹھی تکتی ہے جورستہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود کو یہی کہہ کر دیتی ہے دلاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُنو زندہ ہے حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ است حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسرور سرِ مجلس ذکرِ شاہِ والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ریحان مسلسل اس غم کا حوالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دوہراتا ہے ہر دم تاریخ کا جملہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُنو زندہ ہے حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ است حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

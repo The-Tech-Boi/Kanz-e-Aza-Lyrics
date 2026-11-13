@@ -1,12 +1,458 @@
 {
   "remoteId": "g2611_u2476",
-  "title": "Mujhe qaidi samajh",
+  "title": "مجھے قیدی سمجھ",
   "body": "مجھے قیدی سمجھ نہیں شیریں\nکر غور زرا میں زینب ہوں\nتیرے شہر میں دیکھ یہ حال ہوا\nنہیں سر پہ ردا میں زینب ہوں\n<<DIVIDER>>\nکر یاد وصیت بھای کی\nمہمان بنینگے ہم تیرے\nپہچان مجھے ان بالوں سے\nچہرے پہ پڑے ہیں جو میرے\nدل غم سے پھٹا جاتا ہے میرا\nکر کوئی دوا میں زینب ہوں\nمجھے قیدی سمجھ نہیں۔۔۔\n<<DIVIDER>>\nجس شہر کی میں شہزادی تھی\nآی ہوں وہاں قیدی بن کر\nقرآں کی تلاوت کرتا ہے\nوہ دیکھ میرے بھائی کا سر\nپہچان مجھے کیا اور کہوں\nاب اس کے سوا میں زینب ہوں\nمجھے قیدی سمجھ نہیں۔۔۔\n<<DIVIDER>>\nنظروں کو اٹھا کر دیکھ زرا\nنیزوں پہ شہیدوں کے سر ہیں\nبیمار بھتیجا ساتھ میرے\nاور اہلِ حرم بے چادر ہیں\nاولاد علی ہونے کی یہاں\nپای ہے سزا میں زینب ہوں\nمجھے قیدی سمجھ نہیں۔۔۔\n<<DIVIDER>>\nشیریں کیا کیا بتلاؤں تجھے\nجو ظلم سہے ہیں راہوں میں\nسنتی ہے یتیموں کے نالے\nکیا کرب ہے انکی آہوں میں\nسہتی ہوں جفاییں امت کی\nبے جرم خطا میں زینب ہوں\nمجھے قیدی سمجھ نہیں۔۔۔\n<<DIVIDER>>\nہم آل محمّد ہے شیریں\nیہ کنبہ کوئی اور نہیں\nتو غور سے دیکھلے چہروں کو\nپیروں سے تیرے نکلے گی زمیں\nیہ ہے لیلیٰ یہ بانو ہے\nیہ ہے فروہ میں زینب ہوں\nمجھے قیدی سمجھ نہیں۔۔۔\n<<DIVIDER>>\nصفدر روداد یہ زینب کی\nسن کر بیہوش ہوی\nکہتی تھی پیٹ کے سر اپنا\nہاے موت مجھے کیوں نہ آی\nجب مجھ سے میری آقا زادی\nزینب نے کہا میں زینب ہوں\nمجھے قیدی سمجھ نہیں۔۔۔",
+  "styling": [
+    {
+      "insert": "مجھے قیدی سمجھ نہیں شیریں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر غور زرا میں زینب ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے شہر میں دیکھ یہ حال ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہیں سر پہ ردا میں زینب ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکر یاد وصیت بھای کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مہمان بنینگے ہم تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہچان مجھے ان بالوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرے پہ پڑے ہیں جو میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل غم سے پھٹا جاتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر کوئی دوا میں زینب ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے قیدی سمجھ نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس شہر کی میں شہزادی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی ہوں وہاں قیدی بن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآں کی تلاوت کرتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ دیکھ میرے بھائی کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہچان مجھے کیا اور کہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب اس کے سوا میں زینب ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے قیدی سمجھ نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنظروں کو اٹھا کر دیکھ زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزوں پہ شہیدوں کے سر ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار بھتیجا ساتھ میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اہلِ حرم بے چادر ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اولاد علی ہونے کی یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پای ہے سزا میں زینب ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے قیدی سمجھ نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشیریں کیا کیا بتلاؤں تجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ظلم سہے ہیں راہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنتی ہے یتیموں کے نالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کرب ہے انکی آہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہتی ہوں جفاییں امت کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے جرم خطا میں زینب ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے قیدی سمجھ نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم آل محمّد ہے شیریں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کنبہ کوئی اور نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو غور سے دیکھلے چہروں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیروں سے تیرے نکلے گی زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ہے لیلیٰ یہ بانو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ہے فروہ میں زینب ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے قیدی سمجھ نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصفدر روداد یہ زینب کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کر بیہوش ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی پیٹ کے سر اپنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے موت مجھے کیوں نہ آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مجھ سے میری آقا زادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے کہا میں زینب ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے قیدی سمجھ نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Safdar Abbas",
   "anjumans": [],
   "verified": false

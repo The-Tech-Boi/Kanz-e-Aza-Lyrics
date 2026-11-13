@@ -1,12 +1,526 @@
 {
   "remoteId": "g2611_u2623",
-  "title": "Pehre par zainab",
+  "title": "پہرے پر زینب",
   "body": "شام غریباں گھپ اندھیارا\nاور پہرے پر زینب ہے\nخون میں ڈوبا جنگل سارا\nاور پہرے پر زینب ہے\n<<DIVIDER>>\nسہمے سہمے سے بچے ہے\nبیوؤں کے گودی میں\nدشت بلا کی خاک بھری ہے\nکچھ ماؤں کی گودی میں\nدل ہے غموں سے پارہ پارہ\nاور پہرے پر زینب ہے\nشام غریباں۔۔۔\n<<DIVIDER>>\nسہرا کے اس سنت محمد میں\nاک زینب کس کس کو سمبھالے\nجلتی زمیں پر سوتے ہیں\nسب خون میں غلطاں گود کے پالے\nکوئی نہیں غربت میں سہارا\nاور پہرے پر زینب ہے\nشام غریباں۔۔۔\n<<DIVIDER>>\nکوہ مصائب ٹوٹ پڑا ہے\nغم سے کلیجے چاک ہوے ہیں\nچاروں طرف نظروں میں دھواں ہے\nجل کر خیمے خاک ہوے ہیں\nچپ ہے مریض غم بچارا\nاور پہرے پر زینب ہے\nشام غریباں۔۔۔\n<<DIVIDER>>\nچاروں طرف بکھرے ہیں جنازے\nاور اس میں معصوم سکینہ\nبوجھل بوجھل سی آنکھیں ہے\nڈھونڈ رہی ہے باپ کا سینہ\nروتا ہے دریا کا کنارہ\nاور پہرے پر زینب ہے\nشام غریباں۔۔۔\n<<DIVIDER>>\nثانیء زہرا کو بس یہ\nاحساس رلاے جاتا ہے\nحجر تمہارا ہے بھیا\nعباس رلاے جاتا ہے\nکام تو تھا یہ بھای تمہارا\nاور پہرے پر زینب ہے\nشام غریباں۔۔۔\n<<DIVIDER>>\nدیکھ کے لاشوں کو مقتل میں\nآہیں بھرتی جاتی ہیں\nاس بےچینی کے عالم میں\nرات گزرتی جاتی ہے\nخون روتا ہے صبح کا تارا\nاور پہرے پر زینب ہے\nشام غریباں۔۔۔\n<<DIVIDER>>\nعامر و اختر سب کی محافظ\nزینب تنہا رات میں ہے\nجانب دریا دیکھ رہی ہے\nٹوٹا نیزہ ہاتھ میں ہے\nخاک بسر ہے کنبہ سارا\nاور پہرے پر زینب ہے\nشام غریباں۔۔۔",
+  "styling": [
+    {
+      "insert": "شام غریباں گھپ اندھیارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پہرے پر زینب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوبا جنگل سارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پہرے پر زینب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسہمے سہمے سے بچے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیوؤں کے گودی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت بلا کی خاک بھری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ ماؤں کی گودی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل ہے غموں سے پارہ پارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پہرے پر زینب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسہرا کے اس سنت محمد میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک زینب کس کس کو سمبھالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتی زمیں پر سوتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب خون میں غلطاں گود کے پالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہیں غربت میں سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پہرے پر زینب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوہ مصائب ٹوٹ پڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم سے کلیجے چاک ہوے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاروں طرف نظروں میں دھواں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل کر خیمے خاک ہوے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چپ ہے مریض غم بچارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پہرے پر زینب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاروں طرف بکھرے ہیں جنازے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اس میں معصوم سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بوجھل بوجھل سی آنکھیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈ رہی ہے باپ کا سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتا ہے دریا کا کنارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پہرے پر زینب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nثانیء زہرا کو بس یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "احساس رلاے جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حجر تمہارا ہے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس رلاے جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کام تو تھا یہ بھای تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پہرے پر زینب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھ کے لاشوں کو مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہیں بھرتی جاتی ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس بےچینی کے عالم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات گزرتی جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون روتا ہے صبح کا تارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پہرے پر زینب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعامر و اختر سب کی محافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب تنہا رات میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانب دریا دیکھ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹوٹا نیزہ ہاتھ میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک بسر ہے کنبہ سارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پہرے پر زینب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Akhtar Sirsvi",
   "anjumans": [],
   "verified": false

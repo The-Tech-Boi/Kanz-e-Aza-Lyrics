@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u2870",
-  "title": "Sajjad tujhe khoon",
+  "title": "سجاد تجھے خون",
   "body": "سجاد تجھے خون رلاے گا یہ بازار\nچالیس برس بھول نہ پائے گا یہ بازار\n<<DIVIDER>>\nبے دینوں کے نرغے میں حرم ہونگے کھلے سر\nبرساییں گے کوٹھوں سے اسیروں پہ وہ پتھر\nتا عمر نگاہوں سے جاے گا نہ یہ بازار\nسجاد تجھے خون۔۔۔\n<<DIVIDER>>\nدروازہء ساعت پہ لعیں دیں گے منادی\nناقوں سے اتر جائے اسی دھوپ میں قیدی\nیوں زحمتِ سادات بڑھاے گا یہ بازار\nسجاد تجھے خون۔۔۔\n<<DIVIDER>>\nیوں غیرت مریم کو ستاییں گے ستمگر\nہر گام پہ آیینے لگاییں گے ستمگر\nکیا منظر غم ناک دکھاے گا یہ بازار\nسجاد تجھے خون۔۔۔\n<<DIVIDER>>\nجس روز خبر شام کا حاکم یہ سنے گا\nبازار کے نزدیک ہے شبیر کا کنبہ\nبے درد اسی روز سجاے گا یہ بازار\nسجاد تجھے خون۔۔۔\n<<DIVIDER>>\nدروں سے تیری پشت پہ لکھیں گے ستمگار\nغیرت کا خدا ایک ردا کا ہے طلبگار\nہر گام نےء زخم دکھاے گا یہ بازار\nسجاد تجھے خون۔۔۔\n<<DIVIDER>>\nجز پیش خدا سر نہ جھکا تیرا کہیں پر\nلیکن تجھے بابا نے بتایا تھا یہ رو کر\nافسوس کہ سر تیرا جھکاے گا یہ بازار\nسجاد تجھے خون۔۔۔\n<<DIVIDER>>\nچودہ سو برس بعد ہمیں صفدر و مظہر\nملتے ہیں کتابوں میں یہی درد کے منظر\nپھر کس طرح بیمار بھلاے گا یہ بازار\nسجاد تجھے خون۔۔۔",
+  "styling": [
+    {
+      "insert": "سجاد تجھے خون رلاے گا یہ بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چالیس برس بھول نہ پائے گا یہ بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے دینوں کے نرغے میں حرم ہونگے کھلے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برساییں گے کوٹھوں سے اسیروں پہ وہ پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تا عمر نگاہوں سے جاے گا نہ یہ بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد تجھے خون۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدروازہء ساعت پہ لعیں دیں گے منادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناقوں سے اتر جائے اسی دھوپ میں قیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں زحمتِ سادات بڑھاے گا یہ بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد تجھے خون۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیوں غیرت مریم کو ستاییں گے ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گام پہ آیینے لگاییں گے ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا منظر غم ناک دکھاے گا یہ بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد تجھے خون۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس روز خبر شام کا حاکم یہ سنے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار کے نزدیک ہے شبیر کا کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے درد اسی روز سجاے گا یہ بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد تجھے خون۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدروں سے تیری پشت پہ لکھیں گے ستمگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غیرت کا خدا ایک ردا کا ہے طلبگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گام نےء زخم دکھاے گا یہ بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد تجھے خون۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجز پیش خدا سر نہ جھکا تیرا کہیں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن تجھے بابا نے بتایا تھا یہ رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افسوس کہ سر تیرا جھکاے گا یہ بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد تجھے خون۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچودہ سو برس بعد ہمیں صفدر و مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملتے ہیں کتابوں میں یہی درد کے منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر کس طرح بیمار بھلاے گا یہ بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد تجھے خون۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "group": 2026,
   "author": "Mazhar Abidi",
   "anjumans": [],

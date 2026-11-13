@@ -1,12 +1,392 @@
 {
   "remoteId": "g2611_u0391",
-  "title": "Al madad ya zahra",
+  "title": "المدد یا زہرا",
   "body": "فاطمہ زہرا\nہاے ہاے زینب ہاے ہاے شام\n<<DIVIDER>>\nشام کو جاتے ہوے\nکہتی تھی ثانیء زہرا\nالمدد یا زہرا\n<<DIVIDER>>\nشام آتی تھی مجھے میں باپ سے نہ کہہ سکی\nآپ ماں ہے جانتی ہے کیفیت دل کی میری\nہو گیء بنت علی نا محرموں میں بے پردہ\nالمدد یا زہرا۔۔۔\n<<DIVIDER>>\nبیکسی دکھلا رہی ہے کیا قیامت کا سماں\nمر نہ جاے غم سے مقتل میں کہیں اصغر کی ماں\nکیسے دیکھے گی بھلا نیزے پہ جسم اصغر کا\nالمدد یا زہرا۔۔۔\n<<DIVIDER>>\nدور نہ ہونے دیا تھا اپنی نظروں سے جسے\nاس جواں بیٹے کو لیلیٰ الوداع کیسے کہے\nلاش اکبر سامنے رونے پہ ہے لگا پہرہ\nالمدد یا زہرا۔۔۔\n<<DIVIDER>>\nہتھکڑی ہاتھوں میں ہے اور بیڑیاں ہے پاؤں میں\nاب کہاں مہلت ملے گی بیٹھنے کی چاہوں میں\nشام تک سجاد کا کانٹوں سے ہے بھرا رستہ\nالمدد یا زہرا۔۔۔\n<<DIVIDER>>\nلڑکھڑاتے ہیں قدم اور آنکھ میں آنسوں بھرے\nمرحلہ دشوار ہو گا یہ رقیہ کے لئے\nلاشہء عباس سے گزرے گی کیسے بے پردہ\nالمدد یا زہرا۔۔۔\n<<DIVIDER>>\nدشت میں تقسیم کیسے ہو گیا وہ مہ جبین\nسر کہیں ٹکڑے کہیں ہے اور سہرا کہیں\nاپنے قاسم کو بھلا پہچان کس طرح فروہ\nالمدد یا زہرا۔۔۔\n<<DIVIDER>>\nبے ردا بنت علی ہے بیکفن ابنِ علی\nشام جاے اے سنبھالے لاش کو شبیر کی\nکانپتے ہونٹوں پہ یہ فضہ کے استغاثہ تھا\nالمدد یا زہرا۔۔۔\n<<DIVIDER>>\nدشت میں عون و محمد کی تکلم تھی صدا\nبھر نہ آے ماں کا دل لاشے چھپا دے اے ہوا\nرک نہ جاے یہ قدم ہے سخت امتحان ماں کا\nالمدد یا زہرا۔۔۔",
+  "styling": [
+    {
+      "insert": "فاطمہ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے ہاے زینب ہاے ہاے شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام کو جاتے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی ثانیء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد یا زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام آتی تھی مجھے میں باپ سے نہ کہہ سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ ماں ہے جانتی ہے کیفیت دل کی میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیء بنت علی نا محرموں میں بے پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد یا زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیکسی دکھلا رہی ہے کیا قیامت کا سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر نہ جاے غم سے مقتل میں کہیں اصغر کی ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے دیکھے گی بھلا نیزے پہ جسم اصغر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد یا زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدور نہ ہونے دیا تھا اپنی نظروں سے جسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس جواں بیٹے کو لیلیٰ الوداع کیسے کہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاش اکبر سامنے رونے پہ ہے لگا پہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد یا زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہتھکڑی ہاتھوں میں ہے اور بیڑیاں ہے پاؤں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کہاں مہلت ملے گی بیٹھنے کی چاہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام تک سجاد کا کانٹوں سے ہے بھرا رستہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد یا زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلڑکھڑاتے ہیں قدم اور آنکھ میں آنسوں بھرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرحلہ دشوار ہو گا یہ رقیہ کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہء عباس سے گزرے گی کیسے بے پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد یا زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدشت میں تقسیم کیسے ہو گیا وہ مہ جبین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کہیں ٹکڑے کہیں ہے اور سہرا کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے قاسم کو بھلا پہچان کس طرح فروہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد یا زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے ردا بنت علی ہے بیکفن ابنِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام جاے اے سنبھالے لاش کو شبیر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کانپتے ہونٹوں پہ یہ فضہ کے استغاثہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد یا زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدشت میں عون و محمد کی تکلم تھی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھر نہ آے ماں کا دل لاشے چھپا دے اے ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رک نہ جاے یہ قدم ہے سخت امتحان ماں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد یا زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

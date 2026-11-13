@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u0336",
-  "title": "Akbar abhi hai",
+  "title": "اکبر ابھی ہے",
   "body": "اکبر ابھی ہے راہ میں لیلیٰ پکار لو\nاپنے پسر کے حسن کا صدقہ اتار لو\n<<DIVIDER>>\nرن کی طرف جو جاتے ہے ہمشکل مصطفیٰ\nبے آس ہو کے رہ گےء اب شاہ کربلا\nرو رو کے کہہ رہی ہے یہ اب بنت مرتظی\nاکبر ابھی ہے راہ میں۔۔۔\n<<DIVIDER>>\nاٹھارہ سال پالا تھا جس نوجوان کو\nرخصت حسین کرتے ہیں اس مہمان کو\nہمنام مرتظی وہ نبی کے نشان کو\nاکبر ابھی ہے راہ میں۔۔۔\n<<DIVIDER>>\nفرزند یہ تمہارا میرے دل کا چین ہے\nتسکینِ قلب نور نگاہ حسین ہے\nرخصت کے وقت زینب مضطر کا بین ہے\nاکبر ابھی ہے راہ میں۔۔۔\n<<DIVIDER>>\nرن کو چلا ہے یہ جو ہے ہمشکل مصطفیٰ\nعباس سے جلال میں جرأت میں مرتظی\nمادر ہے لیلیٰ باپ ہے سلطان کربلا\nاکبر ابھی ہے راہ میں۔۔۔\n<<DIVIDER>>\nسونچی تھی اس کا بیاہ رچانے کے واسطے\nبستی نیء نیء میں بسانے کے واسطے\nکیا تم جیو گے اشک بہانے کے واسطے\nاکبر ابھی ہے راہ میں۔۔۔\n<<DIVIDER>>\nبولے حسین بیٹے سے با چشمِ اشک بار\nبیٹا ہمارے سینے سے لگ جاؤ ایک بار\nتم جا رہے ہو دل پہ نہیں میرے اختیار\nاکبر ابھی ہے راہ میں۔۔۔\n<<DIVIDER>>\nزینب کا دل ہو دلبر شاہنشاہ زمن\nاٹھارویں بہار ہے شاداب ہے چمن\nبنت علی کےلب پہ ہر ایک بار ہے سخن\nاکبر ابھی ہے راہ میں۔۔۔\n<<DIVIDER>>\nمیداں کی سمت جاتے ہیں اب اکبر حسیں\nتھامے کلیجہ دیکھتے ہیں ان کو شاہ دیں\nلیلیٰ سے روکے کہتی ہے یہ زینب حزیں\nاکبر ابھی ہے راہ میں۔۔۔\n<<DIVIDER>>\nتھامے کمر کو فاطمہ زہرا کا لال ہے\nغم سے عجیب مادر مضطر کا حال ہے\nمظہر پھپھی کے لب پہ فقط یہ مخال ہے\nاکبر ابھی ہے راہ میں۔۔۔",
+  "styling": [
+    {
+      "insert": "اکبر ابھی ہے راہ میں لیلیٰ پکار لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے پسر کے حسن کا صدقہ اتار لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرن کی طرف جو جاتے ہے ہمشکل مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے آس ہو کے رہ گےء اب شاہ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے کہہ رہی ہے یہ اب بنت مرتظی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر ابھی ہے راہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھارہ سال پالا تھا جس نوجوان کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخصت حسین کرتے ہیں اس مہمان کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمنام مرتظی وہ نبی کے نشان کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر ابھی ہے راہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرزند یہ تمہارا میرے دل کا چین ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تسکینِ قلب نور نگاہ حسین ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخصت کے وقت زینب مضطر کا بین ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر ابھی ہے راہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرن کو چلا ہے یہ جو ہے ہمشکل مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس سے جلال میں جرأت میں مرتظی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مادر ہے لیلیٰ باپ ہے سلطان کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر ابھی ہے راہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسونچی تھی اس کا بیاہ رچانے کے واسطے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بستی نیء نیء میں بسانے کے واسطے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تم جیو گے اشک بہانے کے واسطے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر ابھی ہے راہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبولے حسین بیٹے سے با چشمِ اشک بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹا ہمارے سینے سے لگ جاؤ ایک بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم جا رہے ہو دل پہ نہیں میرے اختیار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر ابھی ہے راہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کا دل ہو دلبر شاہنشاہ زمن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارویں بہار ہے شاداب ہے چمن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنت علی کےلب پہ ہر ایک بار ہے سخن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر ابھی ہے راہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیداں کی سمت جاتے ہیں اب اکبر حسیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھامے کلیجہ دیکھتے ہیں ان کو شاہ دیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ سے روکے کہتی ہے یہ زینب حزیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر ابھی ہے راہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھامے کمر کو فاطمہ زہرا کا لال ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم سے عجیب مادر مضطر کا حال ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظہر پھپھی کے لب پہ فقط یہ مخال ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر ابھی ہے راہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Mazher Abidi",
   "anjumans": [],
   "verified": false

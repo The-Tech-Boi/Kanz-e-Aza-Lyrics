@@ -1,12 +1,700 @@
 {
   "remoteId": "g2611_u1758",
-  "title": "Jangal may bhare",
+  "title": "جنگل میں بھرے",
   "body": "جنگل میں بھرے گھر کو لٹا آئی ہے زینب\nاے شہر مدینہ\nعابد کو کس طرح بچا لائے ہے زینب\nاے شہر مدینہ\n<<DIVIDER>>\nبندھوا کے رسن ہاتھوں میں اور خطبے سنا کر\nگھر بار لٹا کر\nدیوار بڑے کفر کی ڈھا آئی ہے زینب\nاے شہر مدینہ\n---جنگل میں بھر گھر\n<<DIVIDER>>\nجس شہر میں شہزادیوں کی طرح رہی تھی\nنازوں سے پلی تھی\nسر ننگے اسی شہر میں ہو آئی زینب\nاے شہر مدینہ\n---جنگل میں بھر گھر\n<<DIVIDER>>\nجو ہجر پدر میں رہی ہیر وقت پریشان\nسوئی نہیں اک آن\nاس بچی کو زنداں میں سلا آئی ہے زینب\nاے شہر مدینہ\n---جنگل میں بھر گھر\n<<DIVIDER>>\nڈھارس تھی بہت بھائی کو جس بھائی کے دم سے\nدل پھٹتا ہے غم سے\nساحل پہ اکیلا اسے چھوڑ آئی ہے زینب\nاے شہر مدینہ\n---جنگل میں بھر گھر\n<<DIVIDER>>\nچھ ماہ کے اصغر کو بھی جھولے کے بجائے\nدکھ درد چھپائے\nآغوش میں تربت کے سلا آئی ہے زینب\nاے شہر مدینہ\n---جنگل میں بھر گھر\n<<DIVIDER>>\nتھے عون و محمد جو میری آنکھوں کے تارے\nماموں کے دلارے\nقربان انھیں بھائی پر کر آئی ہے زینب\nاے شہر مدینہ\n---جنگل میں بھر گھر\n<<DIVIDER>>\nتھا اکبر ناشاد جو اس گھر کا اجالا\nوہ گیسوئوں والا\nمرقد میں اکیلا اسے چھوڑ آئی ہے زینب\nاے شہر مدینہ\n---جنگل میں بھر گھر\n<<DIVIDER>>\nنادم ہے بہت لا سکی قاسم کو نہ ہمراہ\nوا حسرت و دردا\nکبری کو مگر ساتھ لئے آئی ہے زینب\nاے شہر مدینہ\n---جنگل میں بھر گھر\n<<DIVIDER>>\nپانی میں پئیں اہل وطن اہل وطن پیاس نہ بھولیں\nمنہ اشکوں سے دھولیں\nکہنے کو یہ بھائی کا پیام آئی ہے زینب\nاے شہر مدینہ\n---جنگل میں بھر گھر\n<<DIVIDER>>\nمنظر وہ بھلا سکتی نہیں تادم اخر\nہے کہنے سے قاصر\nجو شام کے دربار میں دیکھ آئی ہے زینب\nاے شہر مدینہ\n---جنگل میں بھر گھر\n<<DIVIDER>>\nکس وقت خدا جانے قدم نکلے تھے گھر سے\nچادر چھنی سر سے\nاک تک نہ مصائب سے نکل پائی ہے زینب\nاے شہر مدینہ\n---جنگل میں بھر گھر\n<<DIVIDER>>\nشبیر پہ اب روئے گا تا حشر زمانہ\nہے غم کا فسانہ\nمجلس کی بنیاد شام میں ڈال آئی ہے زینبہ\nاے شہر مدینہ\n---جنگل میں بھر گھر\n<<DIVIDER>>\nرہ جائے گا اختر افق غم پہ تیرا نام\nکیا خوب ہے انعام\nنوحہ تیرا سننے کے لئے آئی ہے زینب\nاے شہر مدینہ\n---جنگل میں بھر گھر",
+  "styling": [
+    {
+      "insert": "جنگل میں بھرے گھر کو لٹا آئی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کو کس طرح بچا لائے ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبندھوا کے رسن ہاتھوں میں اور خطبے سنا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر بار لٹا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیوار بڑے کفر کی ڈھا آئی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---جنگل میں بھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس شہر میں شہزادیوں کی طرح رہی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نازوں سے پلی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر ننگے اسی شہر میں ہو آئی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---جنگل میں بھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو ہجر پدر میں رہی ہیر وقت پریشان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوئی نہیں اک آن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس بچی کو زنداں میں سلا آئی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---جنگل میں بھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈھارس تھی بہت بھائی کو جس بھائی کے دم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پھٹتا ہے غم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساحل پہ اکیلا اسے چھوڑ آئی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---جنگل میں بھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھ ماہ کے اصغر کو بھی جھولے کے بجائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھ درد چھپائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آغوش میں تربت کے سلا آئی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---جنگل میں بھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھے عون و محمد جو میری آنکھوں کے تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماموں کے دلارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قربان انھیں بھائی پر کر آئی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---جنگل میں بھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھا اکبر ناشاد جو اس گھر کا اجالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ گیسوئوں والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرقد میں اکیلا اسے چھوڑ آئی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---جنگل میں بھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنادم ہے بہت لا سکی قاسم کو نہ ہمراہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وا حسرت و دردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبری کو مگر ساتھ لئے آئی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---جنگل میں بھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپانی میں پئیں اہل وطن اہل وطن پیاس نہ بھولیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منہ اشکوں سے دھولیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنے کو یہ بھائی کا پیام آئی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---جنگل میں بھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنظر وہ بھلا سکتی نہیں تادم اخر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کہنے سے قاصر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو شام کے دربار میں دیکھ آئی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---جنگل میں بھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس وقت خدا جانے قدم نکلے تھے گھر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر چھنی سر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک تک نہ مصائب سے نکل پائی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---جنگل میں بھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر پہ اب روئے گا تا حشر زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے غم کا فسانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجلس کی بنیاد شام میں ڈال آئی ہے زینبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---جنگل میں بھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرہ جائے گا اختر افق غم پہ تیرا نام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا خوب ہے انعام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ تیرا سننے کے لئے آئی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---جنگل میں بھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Wapasi-e-Ahle Haram",
+  "subcategory": "واپسی اہل حرم",
   "author": "Zameer Akhtar",
   "anjumans": [],
   "verified": false

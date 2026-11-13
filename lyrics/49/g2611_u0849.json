@@ -1,12 +1,685 @@
 {
   "remoteId": "g2611_u0849",
-  "title": "Bachpan mein agar",
+  "title": "بچپن میں اگر",
   "body": "بچپن میں اگر ماں مر جائے\nاس غم سے بڑا غم کوی نہیں\nحسنین کے دل سے پوچھو تو\nاس زخم کا مرحم کوئی نہیں\n<<DIVIDER>>\nیا مظلومہ یا معصومہ\nیا زہرا\n<<DIVIDER>>\nبچوں کو سنبھالے مظلومہ\nیا مولا کی مدد کرے\nمعصوم اماموں کی مادر\nہاے کس سے فریاد کرے\nیہ ظلم جو ڈھانے آئے ہیں\nان لوگوں میں کم کوی نہیں\nحسنین کے دل سے۔۔۔\n<<DIVIDER>>\nگھر جلتا ہے اٹھتا ہے دھواں\nبے جان ہے بنت پیغمبر\nروتے ہیں تڑپتے ہیں بچے\nگھر میں ہے قیامت کا منظر\nاور ہال نبی کی امت میں\nرنجیدہ و برہم کوی نہیں\nحسنین کے دل سے۔۔۔\n<<DIVIDER>>\nاس غم میں نبی بھی روتے ہیں\nیہ درد نہیں تم نے جانا\nفضہ نے کہا با دیدۂ تر\nاس طرح گھر میں مت آنا\nیہ نور طہارت کا گھر ہے\nاور تم میں محرم کوئی نہیں\nحسنین کے دل سے۔۔۔\n<<DIVIDER>>\nمحسن کی شہادت پہلو میں\nیہ زخم لگا کتنا گہرا\nدیوار و در کے بیچ میں پھر\nبیہوش ہوی گر کر زہرا\nیہ درد بھرا لمحہ ہے\nاس جیسا عالم کوی نہیں\nحسنین کے دل سے۔۔۔\n<<DIVIDER>>\nبابا کے بعد زمانے میں\nایسی مظلوم ہوی زہرا\nدیوار پکڑ کر چلتی ہے\nکمزور ضعیف کی طرح\nبازو زخمی پہلو زخمی\nایک ہاتھ میں بھی دم کوی نہیں\nحسنین کے دل سے۔۔۔\n<<DIVIDER>>\nمجروح بدن پہلو زخمی\nراتوں کو نیند آتی ہے\nہر ایک قدم دکھ دیتا ہے\nہر سانس قیامت ڈھاتی ہے\nزہرا کی طرح سے دنیا میں\nہے چشمِ پر نم کوی نہیں\nحسنین کے دل سے۔۔۔\n<<DIVIDER>>\nآواز حسین کے رونے‌ کی\nجب کام میں زہرا کے آی\nپھر بند کفن بھی ٹوٹ گےء\nاور روح بدن میں گھبرای\nسب بھرتے ہے دم دنیا میں\nماں جیسا ہمدرد کوی نہیں\nحسنین کے دل سے۔۔۔\n<<DIVIDER>>\nتربت بھی نہیں مظلومہ کی\nتربت کی جگہ تربت کا نشاں\nاس غم میں امام عصر کے بھی\nہے خون جگر آنکھوں سے رواں\nاس غم میں اگر جو رو نہ سکے\nوہ چشمِ ادم کوی نہیں\nحسنین کے دل سے۔۔۔\n<<DIVIDER>>\nاے شادماں ہم نوحہ پڑھ کر\nجب کرتے ہے غم زہرا کا\nروتے ہیں نسیم اس دن حیدر\nاور کرتے ہیں ماتم زہرا کا\nیہ مادر غم کا ماتم ہے\nاس جیسا ماتم کوی نہیں\nحسنین کے دل سے۔۔۔",
+  "styling": [
+    {
+      "insert": "بچپن میں اگر ماں مر جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس غم سے بڑا غم کوی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین کے دل سے پوچھو تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس زخم کا مرحم کوئی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا مظلومہ یا معصومہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچوں کو سنبھالے مظلومہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا کی مدد کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم اماموں کی مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے کس سے فریاد کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ظلم جو ڈھانے آئے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان لوگوں میں کم کوی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین کے دل سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر جلتا ہے اٹھتا ہے دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے جان ہے بنت پیغمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے ہیں تڑپتے ہیں بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں ہے قیامت کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ہال نبی کی امت میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رنجیدہ و برہم کوی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین کے دل سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس غم میں نبی بھی روتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ درد نہیں تم نے جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فضہ نے کہا با دیدۂ تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح گھر میں مت آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ نور طہارت کا گھر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور تم میں محرم کوئی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین کے دل سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمحسن کی شہادت پہلو میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زخم لگا کتنا گہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیوار و در کے بیچ میں پھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیہوش ہوی گر کر زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ درد بھرا لمحہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس جیسا عالم کوی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین کے دل سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا کے بعد زمانے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسی مظلوم ہوی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیوار پکڑ کر چلتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کمزور ضعیف کی طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازو زخمی پہلو زخمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ہاتھ میں بھی دم کوی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین کے دل سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجروح بدن پہلو زخمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راتوں کو نیند آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک قدم دکھ دیتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سانس قیامت ڈھاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی طرح سے دنیا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے چشمِ پر نم کوی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین کے دل سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآواز حسین کے رونے‌ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کام میں زہرا کے آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بند کفن بھی ٹوٹ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور روح بدن میں گھبرای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب بھرتے ہے دم دنیا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں جیسا ہمدرد کوی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین کے دل سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتربت بھی نہیں مظلومہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تربت کی جگہ تربت کا نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس غم میں امام عصر کے بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خون جگر آنکھوں سے رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس غم میں اگر جو رو نہ سکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ چشمِ ادم کوی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین کے دل سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شادماں ہم نوحہ پڑھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کرتے ہے غم زہرا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے ہیں نسیم اس دن حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور کرتے ہیں ماتم زہرا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ مادر غم کا ماتم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس جیسا ماتم کوی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین کے دل سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Naseem Buknalvi",
   "anjumans": [],
   "verified": false

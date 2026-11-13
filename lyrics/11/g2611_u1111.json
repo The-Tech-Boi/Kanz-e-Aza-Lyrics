@@ -1,12 +1,405 @@
 {
   "remoteId": "g2611_u1111",
-  "title": "Dar dhoond ke",
+  "title": "در ڈھونڈ کے",
   "body": "در ڈھونڈ کے زنداں کا یہ کہتی ہے سکینہ\nبابا مجھے سینے پہ سلانے چلے آئو\n<<DIVIDER>>\nاس عالم تنہائی میں مر جائوں نہ بابا\nمرنے سے سکینہ کو بچانے چلے آئو\n<<DIVIDER>>\nہر وقت تیری یاد میں روتی ہے سکینہ\nمغموم تیری آس میں ہوتی ہے سکینہ\nناراض تیری لختِ جگر تجھ سے ہے بابا\nروٹھی ہوئی بیٹی کو منانے چلے آئو\nدر ڈھونڈ کے۔۔۔\n<<DIVIDER>>\nمیں چین کا اک سانس بھی بابا نہیں لیتی\nیہ پیاس کی شدت مجھے سونے نہیں دیتی\nاب نیند تری بیٹی کو نہ آئے گی بابا\nاک چین کی لوری ہی سنانے چلے آئو\nدر ڈھونڈ کے۔۔۔\n<<DIVIDER>>\nاصغر میرا بھیا وہ میری جان کہاں ہے\nچھ ماہ جو دنیا میں تھا مہمان کہاں ہے\nبابا مجھے بھیا کی جدائی نہیں بھولی\nاصغر کو سکینہ سے ملانے چلے آئو\nدر ڈھونڈ کے۔۔۔\n<<DIVIDER>>\nاک داغ ہے بھائی کا کمر توڑ دی جس نے\nاک داغ ہے بیٹے کا نظر چھین لی جس نے\nجو دل پہ لگے زخم تمہیں کرب و بلا میں\nبابا وہ سکینہ کو دکھانے چلے آئو\nدر ڈھونڈ کے۔۔۔\n<<DIVIDER>>\nبستر نہیں سونے کے لئے فرشِ زمیں ہے\nمیں شہہ کی یتیمہ ہوں میرا قلب حزیں ہے\nزنداں کا اندھیرا ہے مقدر میرا بابا\nتاریکیِ زنداں کو مٹانے چلے آئو\nدر ڈھونڈ کے۔۔۔\n<<DIVIDER>>\nمیں آلِ محمد کے گھرانے کا نگینہ\nاس واسطے بابا مجھے کہتے تھے سکینہ\nظالم کے طمانچوں نے سکوں چھینا ہے میرا\nکب آئو گے بابا یہ بتانے چلے آئو\nدر ڈھونڈ کے۔۔۔\n<<DIVIDER>>\nوہ ظلم کئے شمر نے چہرے سے عیاں ہیں\nرخسار پہ ظالم کے طمانچوں کے نشاں ہیں\nبابا میرے رونے پہ یہاں پہرے لگے ہیں\nاِن پہروں کو اے بابا ہٹانے چلے آئو\nدر ڈھونڈ کے۔۔۔",
+  "styling": [
+    {
+      "insert": "در ڈھونڈ کے زنداں کا یہ کہتی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا مجھے سینے پہ سلانے چلے آئو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس عالم تنہائی میں مر جائوں نہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرنے سے سکینہ کو بچانے چلے آئو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر وقت تیری یاد میں روتی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مغموم تیری آس میں ہوتی ہے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناراض تیری لختِ جگر تجھ سے ہے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روٹھی ہوئی بیٹی کو منانے چلے آئو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در ڈھونڈ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں چین کا اک سانس بھی بابا نہیں لیتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ پیاس کی شدت مجھے سونے نہیں دیتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نیند تری بیٹی کو نہ آئے گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک چین کی لوری ہی سنانے چلے آئو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در ڈھونڈ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر میرا بھیا وہ میری جان کہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھ ماہ جو دنیا میں تھا مہمان کہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا مجھے بھیا کی جدائی نہیں بھولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کو سکینہ سے ملانے چلے آئو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در ڈھونڈ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک داغ ہے بھائی کا کمر توڑ دی جس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک داغ ہے بیٹے کا نظر چھین لی جس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو دل پہ لگے زخم تمہیں کرب و بلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا وہ سکینہ کو دکھانے چلے آئو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در ڈھونڈ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبستر نہیں سونے کے لئے فرشِ زمیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں شہہ کی یتیمہ ہوں میرا قلب حزیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کا اندھیرا ہے مقدر میرا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تاریکیِ زنداں کو مٹانے چلے آئو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در ڈھونڈ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں آلِ محمد کے گھرانے کا نگینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس واسطے بابا مجھے کہتے تھے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم کے طمانچوں نے سکوں چھینا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب آئو گے بابا یہ بتانے چلے آئو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در ڈھونڈ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ ظلم کئے شمر نے چہرے سے عیاں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخسار پہ ظالم کے طمانچوں کے نشاں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا میرے رونے پہ یہاں پہرے لگے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اِن پہروں کو اے بابا ہٹانے چلے آئو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در ڈھونڈ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Zulqarnain",
   "anjumans": [],
   "verified": false

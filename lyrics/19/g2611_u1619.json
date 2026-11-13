@@ -1,12 +1,483 @@
 {
   "remoteId": "g2611_u1619",
-  "title": "Hussain ruk jao",
+  "title": "حسین رک جاؤ",
   "body": "صداییں دیتا ہے کعبہ حسین رک جاؤ\nنہ بدلو حج کا ارادہ حسین رک جاؤ\n<<DIVIDER>>\nتم اپنے جد کے مکاں میں ہو اے دیار نہیں\nحسین مجھکو زمانے کا اعتبار نہیں\nہے ساتھ ثانیء زہرا حسین رک جاؤ\nصداییں دیتا ہے کعبہ۔۔۔\n<<DIVIDER>>\nتمہارے پاؤں پکڑتی ہے سر زمینِ حرم\nخدا کے واسطے آگے نہ اب بڑھاؤ قدم\nنہ جاؤ جانب کوفہ حسین رک جاؤ\nصداییں دیتا ہے کعبہ۔۔۔\n<<DIVIDER>>\nان حاجیوں کی زرا بھی نہیں ہے فکر مجھے\nہے بس یہ فکر کہ گر آپ مجھکو چھوڑ گےء\nمیرا بھی حج نہیں ہوگا حسین رک جاؤ\nصداییں دیتا ہے کعبہ۔۔۔\n<<DIVIDER>>\nکہو رباب سے بے شیر کو بھی لے آؤ\nعلی کی طرح یہاں پر مکین ہو جاؤ\nتمہارا بچہ ہے چھوٹا حسین رک جاؤ\nصداییں دیتا ہے کعبہ۔۔۔\n<<DIVIDER>>\nعلی کو قیدی بنایا گیا مدینے میں\nسنا ہے بی بی کو مارا گیا مدینے میں\nسناؤ غربت زہرا حسین رک جاؤ\nصداییں دیتا ہے کعبہ۔۔۔\n<<DIVIDER>>\nکریں گے جشن کے یومِ امیر ہے نزدیک\nغریب زہرا نہ جاؤ غدیر ہے نزدیک\nپڑھیں گے مل کے قصیدہ حسین رک جاؤ\nصداییں دیتا ہے کعبہ۔۔۔\n<<DIVIDER>>\nسنا ہے کربوبلا میں بلا کی گرمی ہے\nتمہیں پتہ ہے انہیں کتنی پیاس لگتی ہے\nہے ساتھ بالی سکینہ حسین رک جاؤ\nصداییں دیتا ہے کعبہ۔۔۔\n<<DIVIDER>>\nلعین پھرتے ہیں احرام میں لیےء خنجر\nتم اپنی بہنوں کو لے آؤ کعبے کے اندر\nہر ایک سمت ہے خطرہ حسین رک جاؤ\nصداییں دیتا ہے کعبہ۔۔۔\n<<DIVIDER>>\nجو گزری تم پہ مصیبت انہیں سنا دینا\nسمجھ کے‌ مرقدِ زہرا دیا جلا دینا\nیہی ہے قبر خدیجہ حسین رک جاؤ\nصداییں دیتا ہے کعبہ۔۔۔\n<<DIVIDER>>\nانہیں خبر ہے نہ چھوڑیں گے تم کو وہ تنہا\nتمہاری ماں سے زیادہ چلا نہیں جاتا\nہے انکا پہلو شکستہ حسین رک جاؤ\nصداییں دیتا ہے کعبہ۔۔۔\n<<DIVIDER>>\nوہ غم امام کا سجاد کس طرح لکھے\nنکل کے مکہ سے کتنا حسین روے تھے\nبلاتا رہ گیا کعبہ حسین رک جاؤ\nصداییں دیتا ہے کعبہ۔۔۔",
+  "styling": [
+    {
+      "insert": "صداییں دیتا ہے کعبہ حسین رک جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ بدلو حج کا ارادہ حسین رک جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم اپنے جد کے مکاں میں ہو اے دیار نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین مجھکو زمانے کا اعتبار نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے ساتھ ثانیء زہرا حسین رک جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں دیتا ہے کعبہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہارے پاؤں پکڑتی ہے سر زمینِ حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے واسطے آگے نہ اب بڑھاؤ قدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جاؤ جانب کوفہ حسین رک جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں دیتا ہے کعبہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nان حاجیوں کی زرا بھی نہیں ہے فکر مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بس یہ فکر کہ گر آپ مجھکو چھوڑ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بھی حج نہیں ہوگا حسین رک جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں دیتا ہے کعبہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہو رباب سے بے شیر کو بھی لے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی طرح یہاں پر مکین ہو جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارا بچہ ہے چھوٹا حسین رک جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں دیتا ہے کعبہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی کو قیدی بنایا گیا مدینے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنا ہے بی بی کو مارا گیا مدینے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سناؤ غربت زہرا حسین رک جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں دیتا ہے کعبہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکریں گے جشن کے یومِ امیر ہے نزدیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب زہرا نہ جاؤ غدیر ہے نزدیک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پڑھیں گے مل کے قصیدہ حسین رک جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں دیتا ہے کعبہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنا ہے کربوبلا میں بلا کی گرمی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں پتہ ہے انہیں کتنی پیاس لگتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے ساتھ بالی سکینہ حسین رک جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں دیتا ہے کعبہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلعین پھرتے ہیں احرام میں لیےء خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم اپنی بہنوں کو لے آؤ کعبے کے اندر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک سمت ہے خطرہ حسین رک جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں دیتا ہے کعبہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو گزری تم پہ مصیبت انہیں سنا دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سمجھ کے‌ مرقدِ زہرا دیا جلا دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی ہے قبر خدیجہ حسین رک جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں دیتا ہے کعبہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانہیں خبر ہے نہ چھوڑیں گے تم کو وہ تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہاری ماں سے زیادہ چلا نہیں جاتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے انکا پہلو شکستہ حسین رک جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں دیتا ہے کعبہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ غم امام کا سجاد کس طرح لکھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکل کے مکہ سے کتنا حسین روے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلاتا رہ گیا کعبہ حسین رک جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں دیتا ہے کعبہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Safar e Imam Hussain",
+  "subcategory": "سفر امام حسین (ع)",
   "author": "Mir Sajjad Mir",
   "anjumans": [],
   "verified": false

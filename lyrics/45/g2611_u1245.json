@@ -1,12 +1,278 @@
 {
   "remoteId": "g2611_u1245",
-  "title": "Fakhre maryam",
+  "title": "فخر مریم",
   "body": "زینب کجا بازار کجا\n<<DIVIDER>>\nفخر مریم بے ردا ہے شام کا بازار ہے\nسج رہا دربار ہے شام کا بازار ہے\nبھیڑ ہے بازاریوں کی\nسج رہا دربار ہے شام کا بازار ہے\nفخر مریم بے ردا ہے۔۔۔\n<<DIVIDER>>\nکیسے گزرے گی علی کی بیٹیاں بازار سے\nسنگ باری ہو رہی ہے راستہ دشوار ہے\nبھیڑ ہے بازاریوں کی سج رہا دربار ہے\nفخر مریم بے ردا ہے۔۔۔\n<<DIVIDER>>\nبس نہ چلتا تھا مگر عابد سے وہ کہتی رہی\nمارتا ہے کیوں طمانچے مجھکو یہ بدکار ہے\nبھیڑ ہے بازاریوں کی سج رہا دربار ہے\nفخر مریم بے ردا ہے۔۔۔\n<<DIVIDER>>\nماں سوا سجاد کے میرے بچہ کوئی نہیں\nیوں نہ مارو ظالموں بیمار ہے لاچار ہے\nبھیڑ ہے بازاریوں کی سج رہا دربار ہے\nفخر مریم بے ردا ہے۔۔۔\n<<DIVIDER>>\nمسلہ یہ ہے کہ تم‌ نے اسکو پہچانا نہیں\nجس کو باغی کہہ رہے ہو خلد کا سردار ہے\nبھیڑ ہے بازاریوں کی سج رہا دربار ہے\nفخر مریم بے ردا ہے۔۔۔\n<<DIVIDER>>\nرو برو بابا کے اپنے جو نہ بولی تھی امیر\nتین دن دیتی رہی بازار میں نرو وار ہے\nبھیڑ ہے بازاریوں کی سج رہا دربار ہے\nفخر مریم بے ردا ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "زینب کجا بازار کجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفخر مریم بے ردا ہے شام کا بازار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سج رہا دربار ہے شام کا بازار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیڑ ہے بازاریوں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سج رہا دربار ہے شام کا بازار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فخر مریم بے ردا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے گزرے گی علی کی بیٹیاں بازار سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنگ باری ہو رہی ہے راستہ دشوار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیڑ ہے بازاریوں کی سج رہا دربار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فخر مریم بے ردا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبس نہ چلتا تھا مگر عابد سے وہ کہتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارتا ہے کیوں طمانچے مجھکو یہ بدکار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیڑ ہے بازاریوں کی سج رہا دربار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فخر مریم بے ردا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں سوا سجاد کے میرے بچہ کوئی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں نہ مارو ظالموں بیمار ہے لاچار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیڑ ہے بازاریوں کی سج رہا دربار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فخر مریم بے ردا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسلہ یہ ہے کہ تم‌ نے اسکو پہچانا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو باغی کہہ رہے ہو خلد کا سردار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیڑ ہے بازاریوں کی سج رہا دربار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فخر مریم بے ردا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو برو بابا کے اپنے جو نہ بولی تھی امیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تین دن دیتی رہی بازار میں نرو وار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیڑ ہے بازاریوں کی سج رہا دربار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فخر مریم بے ردا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Ameer Hussain Mashadi",
   "anjumans": [],
   "verified": false

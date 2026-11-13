@@ -1,12 +1,585 @@
 {
   "remoteId": "g2611_u0301",
-  "title": "Acha baba sulane to",
+  "title": "اچھا بابا سلانے تو",
   "body": "کر رہا ہے یہ راوی بیان کربلا\nاس نے عاشور کی شب کا منظر لکھا\nسینۂ شاہ پہ بنت شاہ ہدا\nاور شبیر کہتے تھے یہ بارہا\nہم کو جانا ہے کل کرنے وعدہ وفا\nتم پہ آجاےنگے صبر کا مرحلہ\n<<DIVIDER>>\nبات ساری سکینہ نے شہ کی سنی\nاور جوابن وہ بس اتنا کہتی رہی\nاچھا بابا سلانے تو آؤ گے نہ\nروز چہرہ دکھانے تو آؤ گے نہ\n<<DIVIDER>>\nبولے شبیر اے میری نور نظر\nتم کو کرنا ہے اب شام تک کا سفر\nتم کو قیدی بناےنگے اب اہل شر\nبولی شہزادی مجھکو نہیں کوئی ڈر\nتم کہو تم سلانے تو آؤ گے نہ\nروز چہرہ دکھانے تو آؤ گے نہ\nاچھا بابا سلانے تو۔۔۔\n<<DIVIDER>>\nشاہ کہنے لگے اے میری لاڈلی\nتم پہ آے گی اب شام غم کی گھڑی\nآگ دامن میں ہوگی تمہارے لگی\nبولی وہ فکر مجھکو نہیں ہے کوئی\nمیرا دامن بجھانے تو آؤ گے نہ\nروز چہرہ دکھانے تو آؤ گے نہ\nاچھا بابا سلانے تو۔۔۔\n<<DIVIDER>>\nمضطرب دل سے کہنے لگے شاہ دیں\nتیری قسمت میں بیٹی سکون اب نہیں\nاب طمانچے لگاے گا شمر لعیں\nسن کے یہ بات کہنے لگی وہ حزیں\nشمر سے تم بچانے تو آؤ گے نہ\nروز چہرہ دکھانے تو آؤ گے نہ\nاچھا بابا سلانے تو۔۔۔\n<<DIVIDER>>\nپھر کیا شہ نے بیٹی سے کچھ یوں سخن\nسب حرم ہونگے اب تو اسیرِ محن\nتیرے ہاتھوں میں بھی اب بندھیگی رسن\nبولی یہ بات سن کے وہ تشنہ دہن\nتم گلے سے لگانے تو آؤ گے نہ\nروز چہرہ دکھانے تو آؤ گے نہ\nاچھا بابا سلانے تو۔۔۔\n<<DIVIDER>>\nروکے شبیر نے اس کے بوسے لیےء\nبولے رخسار بھی ہونگے زخمی تیرے\nتیرے رونے کے شہزادی دن آگےء\nبولی تم کیسے دیکھو گے روتے ہوئے\nہاں مجھے چھپ کرانے تو آؤ گے نہ\nروز چہرہ دکھانے تو آؤ گے نہ\nاچھا بابا سلانے تو۔۔۔\n<<DIVIDER>>\nبڑھتی جاتی تھی بے چینی شبیر کی\nہر ستم وہ اٹھانے پہ راضی ہوی\nزندہ بابا نہ ہونگے سمجھ نہ سکی\nسن کے سب مشکلیں بس یہ کہتی رہی\nگر میں روٹھی منانے تو آؤ گے نہ\nروز چہرہ دکھانے تو آؤ گے نہ\nاچھا بابا سلانے تو۔۔۔\n<<DIVIDER>>\nلکھ کے سلمان دل پھٹ رہا ہے میرا\nزین جب شاہ والا نے روکر کہا\nاب تو زندان مرقد بنے گا تیرا\nبیٹی صابر کی تھی بولی وہ صابرہ\nمیرا لاشہ اٹھانے تو آؤ گے نہ\nروز چہرہ دکھانے تو آؤ گے نہ\nاچھا بابا سلانے تو۔۔۔",
+  "styling": [
+    {
+      "insert": "کر رہا ہے یہ راوی بیان کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس نے عاشور کی شب کا منظر لکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینۂ شاہ پہ بنت شاہ ہدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور شبیر کہتے تھے یہ بارہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کو جانا ہے کل کرنے وعدہ وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم پہ آجاےنگے صبر کا مرحلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبات ساری سکینہ نے شہ کی سنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور جوابن وہ بس اتنا کہتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھا بابا سلانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز چہرہ دکھانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبولے شبیر اے میری نور نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو کرنا ہے اب شام تک کا سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو قیدی بناےنگے اب اہل شر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولی شہزادی مجھکو نہیں کوئی ڈر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کہو تم سلانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز چہرہ دکھانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھا بابا سلانے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاہ کہنے لگے اے میری لاڈلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم پہ آے گی اب شام غم کی گھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگ دامن میں ہوگی تمہارے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولی وہ فکر مجھکو نہیں ہے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا دامن بجھانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز چہرہ دکھانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھا بابا سلانے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمضطرب دل سے کہنے لگے شاہ دیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری قسمت میں بیٹی سکون اب نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب طمانچے لگاے گا شمر لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کے یہ بات کہنے لگی وہ حزیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر سے تم بچانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز چہرہ دکھانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھا بابا سلانے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر کیا شہ نے بیٹی سے کچھ یوں سخن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب حرم ہونگے اب تو اسیرِ محن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے ہاتھوں میں بھی اب بندھیگی رسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولی یہ بات سن کے وہ تشنہ دہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم گلے سے لگانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز چہرہ دکھانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھا بابا سلانے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروکے شبیر نے اس کے بوسے لیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے رخسار بھی ہونگے زخمی تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے رونے کے شہزادی دن آگےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولی تم کیسے دیکھو گے روتے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں مجھے چھپ کرانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز چہرہ دکھانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھا بابا سلانے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبڑھتی جاتی تھی بے چینی شبیر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ستم وہ اٹھانے پہ راضی ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ بابا نہ ہونگے سمجھ نہ سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کے سب مشکلیں بس یہ کہتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر میں روٹھی منانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز چہرہ دکھانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھا بابا سلانے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلکھ کے سلمان دل پھٹ رہا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زین جب شاہ والا نے روکر کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو زندان مرقد بنے گا تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی صابر کی تھی بولی وہ صابرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا لاشہ اٹھانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز چہرہ دکھانے تو آؤ گے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھا بابا سلانے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Salman Azmi",
   "anjumans": [],
   "verified": false

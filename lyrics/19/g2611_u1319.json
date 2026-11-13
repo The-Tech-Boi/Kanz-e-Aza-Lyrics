@@ -1,12 +1,278 @@
 {
   "remoteId": "g2611_u1319",
-  "title": "Ghar hogaya nabi",
+  "title": "گھر ہوگیا نبی",
   "body": "گھر ہوگیا نبی کا برباد کربلا میں\nمردوں میں بس بچے ہیں سجاد کربلا میں\n<<DIVIDER>>\nعباس ہیں نہ اکبر زینب کسے پکارے\nمقتل میں بجھ گےء ہیں گھر کے چراغ سارے\nرنج و الم سے دل ہے آباد کربلا میں\nگھر ہوگیا نبی کا۔۔۔\n<<DIVIDER>>\nزینب نے کیسے دل میں اس درد کو چھپایا\nکس درجہ صابرہ تھی آنسوں نہ اک بہایا\nبھائی پہ کر کے صدقے اولاد کربلا میں\nگھر ہوگیا نبی کا۔۔۔\n<<DIVIDER>>\nزینب کو کربلا میں کتنے غموں نے لوٹا\nسیدانیوں کے زیور نہ محرموں نے لوٹا\nکیا کیا نہ گزری ہاے بیداد کربلا میں\nگھر ہوگیا نبی کا۔۔۔\n<<DIVIDER>>\nسب چھینتے تھے ظالم بیووءں کی چادروں کو\nحسرت سے دیکھتی تھی احباب کے سروں کو\nکوئی نہ تھا جو سنتا فریاد کربلا میں\nگھر ہوگیا نبی کا۔۔۔\n<<DIVIDER>>\nماؤں کی گودیاں بھی رن میں اجڑ گئی ہے\nصحرا میں وارثوں سے اپنے بچھڑ گیء ہے\nبس رہ گیء ہے باقی اک یاد کربلا میں\nگھر ہوگیا نبی کا۔۔۔\n<<DIVIDER>>\nبعد حسین اختر زینب کا تھا یہ نوحہ\nعباس ہے نہ قاسم کس کو بلاؤں بابا\nآجاؤ تم ہی بہر امداد کربلا میں\nگھر ہوگیا نبی کا۔۔۔",
+  "styling": [
+    {
+      "insert": "گھر ہوگیا نبی کا برباد کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مردوں میں بس بچے ہیں سجاد کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس ہیں نہ اکبر زینب کسے پکارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں بجھ گےء ہیں گھر کے چراغ سارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رنج و الم سے دل ہے آباد کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر ہوگیا نبی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے کیسے دل میں اس درد کو چھپایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس درجہ صابرہ تھی آنسوں نہ اک بہایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی پہ کر کے صدقے اولاد کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر ہوگیا نبی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کو کربلا میں کتنے غموں نے لوٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدانیوں کے زیور نہ محرموں نے لوٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کیا نہ گزری ہاے بیداد کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر ہوگیا نبی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب چھینتے تھے ظالم بیووءں کی چادروں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسرت سے دیکھتی تھی احباب کے سروں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہ تھا جو سنتا فریاد کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر ہوگیا نبی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماؤں کی گودیاں بھی رن میں اجڑ گئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحرا میں وارثوں سے اپنے بچھڑ گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس رہ گیء ہے باقی اک یاد کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر ہوگیا نبی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد حسین اختر زینب کا تھا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس ہے نہ قاسم کس کو بلاؤں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ تم ہی بہر امداد کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر ہوگیا نبی کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Akhtar Sirsvi",
   "anjumans": [],
   "verified": false

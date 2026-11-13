@@ -1,12 +1,455 @@
 {
   "remoteId": "g2611_u3543",
-  "title": "Zainab ka waada",
+  "title": "زینب کا وعدہ",
   "body": "زینب کا تجھ سے وعدہ ہے بھای\nدنیا میں تیرا ماتم رہے گا\n<<DIVIDER>>\nبے وارثی ہو یا بے ردائی\nدنیا میں تیرا ماتم رہے گا\n<<DIVIDER>>\nپرچم اٹھا کر غازی کا اپنے\nپورے کروں گی میں تیرے وعدے\nبابا کریں گے مشکل کشای\nدنیا میں تیرا ماتم رہے گا\nزینب کا تجھ سے۔۔۔\n<<DIVIDER>>\nپیغام تیرا مٹنے نہ دوں گی\nپیاسی رہوں گی پیدل چلوں گی\nمظلومیت کی بن کر گواہی\nدنیا میں تیرا ماتم رہے گا\nزینب کا تجھ سے۔۔۔\n<<DIVIDER>>\nاوڑھوں گی سر پر اس وقت چادر\nلے لوں گی بدلہ جب اے برادر\nکہتی ہے تجھ سے زہرا کی جای\nدنیا میں تیرا ماتم رہے گا\nزینب کا تجھ سے۔۔۔\n<<DIVIDER>>\nبیٹوں کا ماتم اس دن کروں گی\nچہلم تمہارا جب کر چکوں‌گی\nمیں نے یہی ہے منت اٹھای\nدنیا میں تیرا ماتم رہے گا\nزینب کا تجھ سے۔۔۔\n<<DIVIDER>>\nچادر کے بدلے سر لوں گی اس کا\nمجلس کی خاطر گھر لوں گی اس کا\nنسل یزیدی دے گی دہای\nدنیا میں تیرا ماتم رہے گا\nزینب کا تجھ سے۔۔۔\n<<DIVIDER>>\nہر گھر میں ہو گا اب تیرا ماتم\nہر روز ہوگا مثل محرم\nدیکھے گی اب تو ساری خدائی\nدنیا میں تیرا ماتم رہے گا\nزینب کا تجھ سے۔۔۔\n<<DIVIDER>>\nتابوت تیرا غازی کا پرچم\nاٹھتے رہیں گے دنیا میں ہر دم\nمیں نے قسم ہے زہرا کی کھای\nدنیا میں تیرا ماتم رہے گا\nزینب کا تجھ سے۔۔۔\n<<DIVIDER>>\nرب کی رضا ہے ریحان نوحہ\nنہ قید موسم نہ خوف دنیا\nیہ نوکری ہے قسمت سے پای\nدنیا میں تیرا ماتم رہے گا\nزینب کا تجھ سے۔۔۔",
+  "styling": [
+    {
+      "insert": "زینب کا تجھ سے وعدہ ہے بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میں تیرا ماتم رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے وارثی ہو یا بے ردائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میں تیرا ماتم رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپرچم اٹھا کر غازی کا اپنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پورے کروں گی میں تیرے وعدے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کریں گے مشکل کشای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میں تیرا ماتم رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کا تجھ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیغام تیرا مٹنے نہ دوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی رہوں گی پیدل چلوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلومیت کی بن کر گواہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میں تیرا ماتم رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کا تجھ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاوڑھوں گی سر پر اس وقت چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لوں گی بدلہ جب اے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی ہے تجھ سے زہرا کی جای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میں تیرا ماتم رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کا تجھ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹوں کا ماتم اس دن کروں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم تمہارا جب کر چکوں‌گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے یہی ہے منت اٹھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میں تیرا ماتم رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کا تجھ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچادر کے بدلے سر لوں گی اس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجلس کی خاطر گھر لوں گی اس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نسل یزیدی دے گی دہای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میں تیرا ماتم رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کا تجھ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر گھر میں ہو گا اب تیرا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر روز ہوگا مثل محرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھے گی اب تو ساری خدائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میں تیرا ماتم رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کا تجھ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتابوت تیرا غازی کا پرچم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھتے رہیں گے دنیا میں ہر دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے قسم ہے زہرا کی کھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میں تیرا ماتم رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کا تجھ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرب کی رضا ہے ریحان نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ قید موسم نہ خوف دنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ نوکری ہے قسمت سے پای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میں تیرا ماتم رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کا تجھ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

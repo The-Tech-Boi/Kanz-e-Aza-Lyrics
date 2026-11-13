@@ -1,12 +1,369 @@
 {
   "remoteId": "g2611_u0486",
-  "title": "Amma ghareeb hoo",
+  "title": "اماں غریب ہوں",
   "body": "نوکِ سناں کے اوپر کہتا تھا فرقِ سرور\nگھر لُٹ گیا ہے میرا مارا گیا برادر\nاماں غریب ہوں میں\n<<DIVIDER>>\nاصغر کے خوں سے میں نے دیکھو وضو کیا ہے\nاس امتحان میں اُس نے بھی سُرخرو کیا ہے\nاس کی لحد بنا کر\nاماں غریب ہوں ۔۔۔\n<<DIVIDER>>\nمیں کس قدر ہوں پیاسا اماں بتائوں کیونکر\nسوکھا گلا تھا اتنا چلتا نہیں تھا خنجر\nقبضے میں رکھ کے کوثر\nاماں غریب ہوں ۔۔۔\n<<DIVIDER>>\nمیں کیسا باپ تھا جو اے دورِ امتحانی\nروتی رہی سکینہ میں دے سکا نہ پانی\nآئے یقیں نہ کیونکر\nاماں غریب ہوں ۔۔۔\n<<DIVIDER>>\nبرچھی جواں پسر کے سینے سے میں نے کھینچی\nانصارو اقربائ کی قاسم کی لاش دیکھی\nابنِ امیر ہو کر\nاماں غریب ہوں ۔۔۔\n<<DIVIDER>>\nگھوڑوں کے دوڑنے سے پامال ہو چکا ہوں\nکیا اب بھی میں وہی ہوں حیراں ہوںسوچتا ہوں\nناقہ بنے پیعمبر\nاماں غریب ہوں ۔۔۔\n<<DIVIDER>>\nآپ آ گئی ہیں اماں یاد آ رہا ہے بچپن\nوہ ساتھ ساتھ چلنا اور اپنے گھر کا آنگن\nاب خاک کا ہے بستر\nاماں غریب ہوں ۔۔۔\n<<DIVIDER>>\nدل غم سے چاک بھی ہے زخموں میں خاک بھی ہے\nاُڑتی ہوئی نظر میں خیموں کی راکھ بھی ہے\nزینب کا ہے کھُلا سر\nاماں غریب ہوں ۔۔۔\n<<DIVIDER>>\nریحان پھٹ نہ جائے اہلِ عزا کاسینہ\nبس روک لے یہیں پر شبیر کا یہ نوحہ\nسب رو رہے ہیں سُن کر\nاماں غریب ہوں ۔۔۔",
+  "styling": [
+    {
+      "insert": "نوکِ سناں کے اوپر کہتا تھا فرقِ سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر لُٹ گیا ہے میرا مارا گیا برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں غریب ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر کے خوں سے میں نے دیکھو وضو کیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس امتحان میں اُس نے بھی سُرخرو کیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کی لحد بنا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں غریب ہوں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کس قدر ہوں پیاسا اماں بتائوں کیونکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوکھا گلا تھا اتنا چلتا نہیں تھا خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبضے میں رکھ کے کوثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں غریب ہوں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کیسا باپ تھا جو اے دورِ امتحانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی رہی سکینہ میں دے سکا نہ پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئے یقیں نہ کیونکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں غریب ہوں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرچھی جواں پسر کے سینے سے میں نے کھینچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انصارو اقربائ کی قاسم کی لاش دیکھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابنِ امیر ہو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں غریب ہوں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھوڑوں کے دوڑنے سے پامال ہو چکا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اب بھی میں وہی ہوں حیراں ہوںسوچتا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناقہ بنے پیعمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں غریب ہوں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ آ گئی ہیں اماں یاد آ رہا ہے بچپن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ساتھ ساتھ چلنا اور اپنے گھر کا آنگن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب خاک کا ہے بستر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں غریب ہوں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل غم سے چاک بھی ہے زخموں میں خاک بھی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُڑتی ہوئی نظر میں خیموں کی راکھ بھی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کا ہے کھُلا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں غریب ہوں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان پھٹ نہ جائے اہلِ عزا کاسینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس روک لے یہیں پر شبیر کا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب رو رہے ہیں سُن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں غریب ہوں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

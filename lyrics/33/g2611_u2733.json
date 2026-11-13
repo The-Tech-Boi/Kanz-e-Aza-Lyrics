@@ -1,12 +1,432 @@
 {
   "remoteId": "g2611_u2733",
-  "title": "Rab khair karein",
+  "title": "رب خیر کریں",
   "body": "رب خیر کریں میرے بابا کی\nصغریٰ کی صدا یہ ہے\n<<DIVIDER>>\nکل خواب میں دیکھا تھا یہ سماں\nتپتا ہوا صحرا خوں کے نشاں\nتھے احمد ِ مرسل اشک فشاں\nجلتے ہوئے خیموں کا تھا دھواں\nرب خیر کریں ۔۔۔\n<<DIVIDER>>\nکُملایا ہوا تھا کیوں اصغر\nدر پہ تھی کھڑی غم میں مادر\nجھولا بھی جلا آتا ہے نظر\nکیا کوئی نہیں جو لے اس کی خبر\nرب خیر کریں ۔۔۔\n<<DIVIDER>>\nگٹھڑی میں یہ کس کا لاشہ ہے\nوہاں غش میں پڑی کیوں کبریٰ ہے\nکیوں سر کو جھُکائے بابا ہے\nروتا ہوا میرا کنبہ ہے\nرب خیر کریں ۔۔۔\n<<DIVIDER>>\nگرتے تھے کبھی اُٹھتے تھے کبھی\nتھی اُن کی کمر کس غم سے جھُکی\nچلتی تھی گلے پہ اُن کے چھُری\nسر پیٹ کے روئے دادا علی\nرب خیر کریں ۔۔۔\n<<DIVIDER>>\nکچھ بیبیاں تھیں جو قیدی بنی\nبے سایہ تھیں بے چادر تھیں\nبچے تھے کہیں مائیں تھیں کہیں\nروتا تھا فلک ہلتی تھی زمیں\nرب خیر کریں ۔۔۔\n<<DIVIDER>>\nوہ کس کے جواں کا لاشہ تھا\nسینے میں تھا اُس کے نیزہ گڑھا\nتھے جس کو اُٹھائے شاہِ ھُدیٰ\nکیا اکبر میرا مارا گیا\nرب خیر کریں ۔۔۔\n<<DIVIDER>>\nدریا کے کنارے عموں میرا\nہاتھوں کو کٹائے کیوں ہے پڑا\nپرچم بھی ہے اُس کا خوں میں بھرا\nکیا ماجرا ہے یا رب تُو بتا\nرب خیر کریں ۔۔۔\n<<DIVIDER>>\nجب بھی یہ پڑھا جائے نوحہ\nچاروں طرف ہو گا شور بپا\nہے احمد و محسن کی یہ دُعا\nہم سے ہو خوش بی بی زہرا\nرب خیر کریں ۔۔۔",
+  "styling": [
+    {
+      "insert": "رب خیر کریں میرے بابا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغریٰ کی صدا یہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکل خواب میں دیکھا تھا یہ سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تپتا ہوا صحرا خوں کے نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھے احمد ِ مرسل اشک فشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے ہوئے خیموں کا تھا دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رب خیر کریں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکُملایا ہوا تھا کیوں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در پہ تھی کھڑی غم میں مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا بھی جلا آتا ہے نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کوئی نہیں جو لے اس کی خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رب خیر کریں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگٹھڑی میں یہ کس کا لاشہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہاں غش میں پڑی کیوں کبریٰ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں سر کو جھُکائے بابا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتا ہوا میرا کنبہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رب خیر کریں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگرتے تھے کبھی اُٹھتے تھے کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی اُن کی کمر کس غم سے جھُکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتی تھی گلے پہ اُن کے چھُری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹ کے روئے دادا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رب خیر کریں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ بیبیاں تھیں جو قیدی بنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے سایہ تھیں بے چادر تھیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچے تھے کہیں مائیں تھیں کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتا تھا فلک ہلتی تھی زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رب خیر کریں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ کس کے جواں کا لاشہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے میں تھا اُس کے نیزہ گڑھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھے جس کو اُٹھائے شاہِ ھُدیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اکبر میرا مارا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رب خیر کریں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدریا کے کنارے عموں میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں کو کٹائے کیوں ہے پڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچم بھی ہے اُس کا خوں میں بھرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ماجرا ہے یا رب تُو بتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رب خیر کریں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب بھی یہ پڑھا جائے نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاروں طرف ہو گا شور بپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے احمد و محسن کی یہ دُعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سے ہو خوش بی بی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رب خیر کریں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Zulfiqar Ahmed",
   "anjumans": [],
   "verified": false

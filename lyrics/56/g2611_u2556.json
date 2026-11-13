@@ -1,12 +1,332 @@
 {
   "remoteId": "g2611_u2556",
-  "title": "Nanhi si jaan",
+  "title": "ننھی سی جان",
   "body": "ننھی سی جان جان سے بے جان ہو گیء\nاصغر ہنسے تو موت بھی حیران ہو گیء\n<<DIVIDER>>\nبچوں سے جس کے دودھ کی خوشبو نہیں گیء\nبے تیغ جس نے لشکرِ اعدا سے جنگ کی\nجو حرملہ کے موت کا سامان ہو گیء\nاصغر ہنسے تو۔۔۔\nننھی سی جان۔۔۔\n<<DIVIDER>>\nسانسوں کی ٹوٹتی ہوئی ڈوری گواہ ہے\nنوحہ جو بن گیء تھی وہ لوری گواہ ہے\nاصغر کی جنگ فتح کا اعلان ہو گیء\nاصغر ہنسے تو۔۔۔\nننھی سی جان۔۔۔\n<<DIVIDER>>\nتشنہ لبی میں تیر کو سیراب کر دیا\nپورا دل حسین کا ہر خواب کر دیا\nتعبیر خواب مرضیء یزدان ہو گیء\nاصغر ہنسے تو۔۔۔\nننھی سی جان۔۔۔\n<<DIVIDER>>\nجھولے میں رہ کے شوق شہادت جوان تھا\nاصغر کا شوق ماں کے لیےء امتحان تھا\nماں شوق پہ صغیر کے قربان ہو گیء\nاصغر ہنسے تو۔۔۔\nننھی سی جان۔۔۔\n<<DIVIDER>>\nجو تیر رن میں جانب قرآن تھا چلا\nاصغر نے پیش کر دیا ہنستے ہوئے گلا\nاس طرح سے حفاظت قرآن ہو گیء\nاصغر ہنسے تو۔۔۔\nننھی سی جان۔۔۔\n<<DIVIDER>>\nنوحہ لکھا ہے آپ نے اس بے زبان کا\nخوشنودیء حسین ہے جس نوحے کا صلا\nبخشش تو یوں بھی آپ کی ریحان ہو گیء\nاصغر ہنسے تو۔۔۔\nننھی سی جان۔۔۔",
+  "styling": [
+    {
+      "insert": "ننھی سی جان جان سے بے جان ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر ہنسے تو موت بھی حیران ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچوں سے جس کے دودھ کی خوشبو نہیں گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے تیغ جس نے لشکرِ اعدا سے جنگ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو حرملہ کے موت کا سامان ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر ہنسے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھی سی جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسانسوں کی ٹوٹتی ہوئی ڈوری گواہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ جو بن گیء تھی وہ لوری گواہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کی جنگ فتح کا اعلان ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر ہنسے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھی سی جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتشنہ لبی میں تیر کو سیراب کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پورا دل حسین کا ہر خواب کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تعبیر خواب مرضیء یزدان ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر ہنسے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھی سی جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجھولے میں رہ کے شوق شہادت جوان تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کا شوق ماں کے لیےء امتحان تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں شوق پہ صغیر کے قربان ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر ہنسے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھی سی جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو تیر رن میں جانب قرآن تھا چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر نے پیش کر دیا ہنستے ہوئے گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح سے حفاظت قرآن ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر ہنسے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھی سی جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوحہ لکھا ہے آپ نے اس بے زبان کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوشنودیء حسین ہے جس نوحے کا صلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بخشش تو یوں بھی آپ کی ریحان ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر ہنسے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھی سی جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

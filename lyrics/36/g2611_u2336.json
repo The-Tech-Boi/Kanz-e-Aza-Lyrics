@@ -1,12 +1,392 @@
 {
   "remoteId": "g2611_u2336",
-  "title": "Mayyat hai sakina ki",
+  "title": "میت ہے سکینہ کی",
   "body": "میت ہے سکینہ کی اندھیرا ہائے زندان\nاللہ نہ دِکھلائے اب ایسا زندان\n<<DIVIDER>>\nکُرتے کا کفن غسل دیا اشکوں سے جس کو\nدفنا اُسے کیسے یہ سجاد سے پوچھو\nخاموش ہوئی بچی تو روتا رہا زندان\n...میت ہے سکینہ کی\n<<DIVIDER>>\nاُڑتے ہوئے دیکھے جو پرندے تو پُکاری\nاے طاہروں صغریٰ کو خبر دو یہ ہماری\nتم خوش رہو صغریٰ میری قسمت میں تھا زندان\n...میت ہے سکینہ کی\n<<DIVIDER>>\nکانوں کا لہو چاند سے چہرے پہ جما تھا\nخیموں میں لگی آگ جو دامن بھی جلا تھا\nتنہائی میں بچی ڈستا رہا زندان\n...میت ہے سکینہ کی\n<<DIVIDER>>\nسہمی ہوئی رہتی تھی ستمگاروں کے ڈر سے\nشکوے کیا کرتی تھی فقد باپ کے سر سے\nلکھا گیا قسمت میں یہ کیسا زندان\n...میت ہے سکینہ کی\n<<DIVIDER>>\nاب خاک پہ سوتی ہوں نہ تکیہ ہے نہ بستر\nرکھتا نہیں اک شمع کوئی اب تو جلا کر\nجینے نہیں دیتا ہے اے بابا زندان\n...میت ہے سکینہ کی\n<<DIVIDER>>\nکہتی تھی پھُوپھی قید سے کب ہو گی رہائی\nاما ں میرے عموں کی خبر کیوں نہیں آئی\nٹکڑے کیئے دیتا ہے کلیجہ میرا زندان\n<<DIVIDER>>\nسر باپ کا پایا تو وہ پھر اس طرح سوئی\nپھر روئی نہیں اُس کے لیے موت تھی روئی\nرہا سجاد کو پُرسہ صدا زنداندیتا\n...میت ہے سکینہ کی\n<<DIVIDER>>\nماں کہتی رہی آئو اُٹھو نیند سے جاگو\nآزاد ہوئی قید سے میں جاتی ہوں گھر کو\nملنے چلو صغریٰ سے کے اب کھُل گیا زندان\n...میت ہے سکینہ کی\n<<DIVIDER>>\nگھر جانے کا ارماں تھا سکینہ کو جو ریحان\nمر کے بھی نہ پورا ہوا اُس بچی کا ارمان\nمعصوم سکینہ کا مرقد بنا زندان\n...میت ہے سکینہ کی",
+  "styling": [
+    {
+      "insert": "میت ہے سکینہ کی اندھیرا ہائے زندان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ نہ دِکھلائے اب ایسا زندان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکُرتے کا کفن غسل دیا اشکوں سے جس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دفنا اُسے کیسے یہ سجاد سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش ہوئی بچی تو روتا رہا زندان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میت ہے سکینہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاُڑتے ہوئے دیکھے جو پرندے تو پُکاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے طاہروں صغریٰ کو خبر دو یہ ہماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم خوش رہو صغریٰ میری قسمت میں تھا زندان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میت ہے سکینہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکانوں کا لہو چاند سے چہرے پہ جما تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں میں لگی آگ جو دامن بھی جلا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہائی میں بچی ڈستا رہا زندان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میت ہے سکینہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسہمی ہوئی رہتی تھی ستمگاروں کے ڈر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکوے کیا کرتی تھی فقد باپ کے سر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھا گیا قسمت میں یہ کیسا زندان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میت ہے سکینہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب خاک پہ سوتی ہوں نہ تکیہ ہے نہ بستر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھتا نہیں اک شمع کوئی اب تو جلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جینے نہیں دیتا ہے اے بابا زندان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میت ہے سکینہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی تھی پھُوپھی قید سے کب ہو گی رہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اما ں میرے عموں کی خبر کیوں نہیں آئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑے کیئے دیتا ہے کلیجہ میرا زندان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر باپ کا پایا تو وہ پھر اس طرح سوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر روئی نہیں اُس کے لیے موت تھی روئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہا سجاد کو پُرسہ صدا زنداندیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میت ہے سکینہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں کہتی رہی آئو اُٹھو نیند سے جاگو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آزاد ہوئی قید سے میں جاتی ہوں گھر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملنے چلو صغریٰ سے کے اب کھُل گیا زندان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میت ہے سکینہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر جانے کا ارماں تھا سکینہ کو جو ریحان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر کے بھی نہ پورا ہوا اُس بچی کا ارمان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ کا مرقد بنا زندان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...میت ہے سکینہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,483 @@
 {
   "remoteId": "g2611_u2684",
-  "title": "Qaimon ko jalaya",
+  "title": "خیموں کو جلایا",
   "body": "خیموں کو جلایا گیا عباس نہ آے\nمقتل میں دھواں چھا گیا عباس نہ آے\n<<DIVIDER>>\nمقتل کی زمیں پر جو ستاروں کی طرح تھے\nوہ لاشے جو قرآن کے پاروں کی طرح تھے\nان لاشوں کو روندا گیا عباس نہ آے\nخیموں کو جلایا گیا۔۔۔\n<<DIVIDER>>\nتھے بین سکینہ کے میں اب کس کو بلاؤں\nرخ پر یہ طمانچوں کے نشاں کس کو دکھاؤں\nچہرہ میرا سنہا گیا عباس نہ آے\nخیموں کو جلایا گیا۔۔۔\n<<DIVIDER>>\nزینب نے یتیموں کو کبھی خود کو سنبھالا\nجلتے ہوئے خیموں سے بھتیجے کو نکالا\nدل درد سے گھبرا گیا عباس نہ آے\nخیموں کو جلایا گیا۔۔۔\n<<DIVIDER>>\nزینب نے کہا مجھ پہ چلے تنز کے نشتر\nجس وقت اتاری گیء سر سے میرے چادر\nخود مجھ سے یہ پوچھا گیا عباس نہ آے\nخیموں کو جلایا گیا۔۔۔\n<<DIVIDER>>\nآی تھی بڑی شان سے زینب کی عماری\nجاتی ہے سوے شام اسیروں کی سواری\nزینب کو رلایا گیا عباس نہ آے\nخیموں کو جلایا گیا۔۔۔\n<<DIVIDER>>\nدروں کے ستم عابد بیمار سے پوچھو\nکہتے ہیں کسے قید گرفتار سے پوچھو\nکانٹوں پہ پھرایا گیا عباس نہ آے\nخیموں کو جلایا گیا۔۔۔\n<<DIVIDER>>\nپیاسے رہے اطفال بہ حیا گےء کوزے\nپانی کے تقاضے پہ دکھاے گےء کوزے\nدکھیوں کو ستایا گیا عباس نہ آئے\nخیموں کو جلایا گیا۔۔۔\n<<DIVIDER>>\nسجاد نہ بھولے کبھی وہ شام کا منظر\nسادات پہ مارے گےء بازاروں میں پتھر\nصدقہ کبھی پھینکا گیا عباس نہ آے\nخیموں کو جلایا گیا۔۔۔\n<<DIVIDER>>\nوہ حشر کا ہنگام قیامت کی گھڑی تھی\nبے پردہ بہن کرسی نشینوں میں کھڑی تھی\nدربار سجایا گیا عباس نہ آے\nخیموں کو جلایا گیا۔۔۔\n<<DIVIDER>>\nپھر شام ڈھلی قید میں گھبرای سکینہ\nرخ سوے فلک کر کے یہ چلای سکینہ\nہر ایک پرندہ گیا عباس نہ آے\nخیموں کو جلایا گیا۔۔۔\n<<DIVIDER>>\nپھر عامر و نیر وہی محشر کی گھڑی ہے\nصغرا سے پھپھی کیسے کہے سوچ رہی ہے\nکنبہ تیرا گھر آ گیا عباس نہ آے\nخیموں کو جلایا گیا۔۔۔",
+  "styling": [
+    {
+      "insert": "خیموں کو جلایا گیا عباس نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں دھواں چھا گیا عباس نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل کی زمیں پر جو ستاروں کی طرح تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ لاشے جو قرآن کے پاروں کی طرح تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان لاشوں کو روندا گیا عباس نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں کو جلایا گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھے بین سکینہ کے میں اب کس کو بلاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخ پر یہ طمانچوں کے نشاں کس کو دکھاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرہ میرا سنہا گیا عباس نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں کو جلایا گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے یتیموں کو کبھی خود کو سنبھالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے ہوئے خیموں سے بھتیجے کو نکالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل درد سے گھبرا گیا عباس نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں کو جلایا گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے کہا مجھ پہ چلے تنز کے نشتر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس وقت اتاری گیء سر سے میرے چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود مجھ سے یہ پوچھا گیا عباس نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں کو جلایا گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآی تھی بڑی شان سے زینب کی عماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتی ہے سوے شام اسیروں کی سواری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کو رلایا گیا عباس نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں کو جلایا گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدروں کے ستم عابد بیمار سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے ہیں کسے قید گرفتار سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کانٹوں پہ پھرایا گیا عباس نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں کو جلایا گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاسے رہے اطفال بہ حیا گےء کوزے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی کے تقاضے پہ دکھاے گےء کوزے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھیوں کو ستایا گیا عباس نہ آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں کو جلایا گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد نہ بھولے کبھی وہ شام کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سادات پہ مارے گےء بازاروں میں پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدقہ کبھی پھینکا گیا عباس نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں کو جلایا گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ حشر کا ہنگام قیامت کی گھڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے پردہ بہن کرسی نشینوں میں کھڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دربار سجایا گیا عباس نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں کو جلایا گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر شام ڈھلی قید میں گھبرای سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخ سوے فلک کر کے یہ چلای سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک پرندہ گیا عباس نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں کو جلایا گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر عامر و نیر وہی محشر کی گھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا سے پھپھی کیسے کہے سوچ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کنبہ تیرا گھر آ گیا عباس نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں کو جلایا گیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Nayyar Jalalpuri",
   "anjumans": [],
   "verified": false

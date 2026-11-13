@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u3335",
-  "title": "Wo shaam ki musibat",
+  "title": "وہ شام کی مصیبت",
   "body": "وہ شام کی مصیبت زینب کے دل سے پوچھو\nدربار کی وہ آفت زینب کے دل سے پوچھو\n<<DIVIDER>>\nدرباریوں کا مجمع زینب کے دل سے پوچھو\nچادر کا چھین جانا زینب کے دل سے پوچھو\nوہ شام کی مصیبت۔۔۔\n<<DIVIDER>>\nمشکل کشا کی بیٹی رسی میں باندھی جائے\nوہ بازوؤں کا دکھنا زینب کے دل سے پوچھو\nوہ شام کی مصیبت۔۔۔\n<<DIVIDER>>\nبچوں کا بلبلانا پیاسوں کا وہ تڑپنا\nبھای کا یاد آنا زینب کے دل سے پوچھو\nوہ شام کی مصیبت۔۔۔\n<<DIVIDER>>\nبچی وہ سہمی سہمی اور ہاے وہ یتیمی\nاس پر طمانچے کھانا زینب کے دل سے پوچھو\nوہ شام کی مصیبت۔۔۔\n<<DIVIDER>>\nپاؤں میں جس کے چھالے وہ طوق کو سنبھالے\nعابد کا ہاے گرنا زینب کے دل سے پوچھو\nوہ شام کی مصیبت۔۔۔\n<<DIVIDER>>\nدربار کی مصیبت بازار کی اذیت\nزنداں میں قید رہنا زینب کے دل سے پوچھو\nوہ شام کی مصیبت۔۔۔\n<<DIVIDER>>\nوہ رات کا اندھیرا بچی کو یاد کرکے\nبانو کا وہ تڑپنا زینب کے دل سے پوچھو\nوہ شام کی مصیبت۔۔۔\n<<DIVIDER>>\nبھای کی وہ وصیت اماں کی آہ و زاری\nبابا کا یاد آنا زینب کے دل سے پوچھو\nوہ شام کی مصیبت۔۔۔\n<<DIVIDER>>\nبے وارثی کا عالم وہ سر کے گرد ماتم\nبچی کی وہ شہادت زینب کے دل سے پوچھو\nوہ شام کی مصیبت۔۔۔",
+  "styling": [
+    {
+      "insert": "وہ شام کی مصیبت زینب کے دل سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دربار کی وہ آفت زینب کے دل سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدرباریوں کا مجمع زینب کے دل سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر کا چھین جانا زینب کے دل سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شام کی مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشکل کشا کی بیٹی رسی میں باندھی جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بازوؤں کا دکھنا زینب کے دل سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شام کی مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچوں کا بلبلانا پیاسوں کا وہ تڑپنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کا یاد آنا زینب کے دل سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شام کی مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچی وہ سہمی سہمی اور ہاے وہ یتیمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس پر طمانچے کھانا زینب کے دل سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شام کی مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپاؤں میں جس کے چھالے وہ طوق کو سنبھالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کا ہاے گرنا زینب کے دل سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شام کی مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدربار کی مصیبت بازار کی اذیت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں قید رہنا زینب کے دل سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شام کی مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ رات کا اندھیرا بچی کو یاد کرکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بانو کا وہ تڑپنا زینب کے دل سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شام کی مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای کی وہ وصیت اماں کی آہ و زاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کا یاد آنا زینب کے دل سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شام کی مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے وارثی کا عالم وہ سر کے گرد ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچی کی وہ شہادت زینب کے دل سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شام کی مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Sabina Jafri",
   "anjumans": [],
   "verified": false

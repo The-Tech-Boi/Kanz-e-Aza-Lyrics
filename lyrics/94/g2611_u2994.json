@@ -1,12 +1,472 @@
 {
   "remoteId": "g2611_u2994",
-  "title": "Shaam ki aurton ek",
+  "title": "شام کی عورتوں ایک",
   "body": "شام کی عورتوں ایک وعدہ کرو\nروز قبرِ سکینہ پہ آئو گی تم\n<<DIVIDER>>\nجب تلک لوٹ کر میں نہ آئوں\nآ کے شمع جلائو گی تم\nشام کی عورتو ںایک۔۔۔\n<<DIVIDER>>\nصورتِ شاہِ دیں بے کفن بھی\nمیرے جیسی اسیر محن بھی\nخالی کُرتے میں مدفونِ غُربت\nمثلِ اصغر رہی بے کفن بھی\nکیا کفن کی طرح روز چادر\nاس لحد پر چڑھائو گی تم\nشام کی عورتو ںایک۔۔۔\n<<DIVIDER>>\nایک یثرب کی تھی شاہ ذادی\nاُس کا سقہ تھا عباسِ غازی\nمشق لیکر گیا سوئے دریا\nاور قبضے میں کرلی ترائی\nلوریوں میں یہ سچی کہانی\nروز اس کو سنائو گی تم\nشام کی عورتو ںایک۔۔۔\n<<DIVIDER>>\nہم نے زنداں سے پائی رہائی\nاب بہن پاس ہوگی نہ بھائی\nبات اتنی سی بس یاد رکھنا\nمیری بچی ہے غم کی ستائی\nتم نے بازار مین تو ستایا\nاب نہ اس کو ستائو گی تم\nشام کی عورتو ںایک۔۔۔\n<<DIVIDER>>\nجب کبھی قید خانے میں آنا\nبے ردا بیبیوں کو نہ لانا\nتم کو اصغر بھی دے گا دُعائیں\nاس کی تنہائیاں یوں مٹانا\nچھوٹے چھوٹے سے بچوں کو لیکر\nپاس اس کے سلائو گی تم\nشام کی عورتو ںایک۔۔۔\n<<DIVIDER>>\nقبرِ بے کس پہ آنسو بہانے\nحال قیدِ ستم کا سُنانے\nقافلہ کربلا کو چلا ہے\nاس کے بابا کا چہلم منانے\nاتنا کہدو ہماری طرف سے\nاس کا چہلم منائوگی تم\nشام کی عورتو ںایک۔۔۔\n<<DIVIDER>>\nشامیوں کی بہو بیٹیوں سے\nکہہ رہی تھی وہ اکبر یہ رو کے\nیہ امانت ہے پردیسیوں کی\nکررہی ہوں تمہارے حوالے\nمجھ سے اک بار بس اتنا کہدو\nاپنا وعدہ نبھائو گی تم\nشام کی عورتو ںایک۔۔۔",
+  "styling": [
+    {
+      "insert": "شام کی عورتوں ایک وعدہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز قبرِ سکینہ پہ آئو گی تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب تلک لوٹ کر میں نہ آئوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ کے شمع جلائو گی تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کی عورتو ںایک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصورتِ شاہِ دیں بے کفن بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے جیسی اسیر محن بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خالی کُرتے میں مدفونِ غُربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مثلِ اصغر رہی بے کفن بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کفن کی طرح روز چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس لحد پر چڑھائو گی تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کی عورتو ںایک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک یثرب کی تھی شاہ ذادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس کا سقہ تھا عباسِ غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشق لیکر گیا سوئے دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور قبضے میں کرلی ترائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوریوں میں یہ سچی کہانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز اس کو سنائو گی تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کی عورتو ںایک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم نے زنداں سے پائی رہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب بہن پاس ہوگی نہ بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بات اتنی سی بس یاد رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بچی ہے غم کی ستائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم نے بازار مین تو ستایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہ اس کو ستائو گی تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کی عورتو ںایک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب کبھی قید خانے میں آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا بیبیوں کو نہ لانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو اصغر بھی دے گا دُعائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کی تنہائیاں یوں مٹانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوٹے چھوٹے سے بچوں کو لیکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاس اس کے سلائو گی تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کی عورتو ںایک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبرِ بے کس پہ آنسو بہانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حال قیدِ ستم کا سُنانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ کربلا کو چلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کے بابا کا چہلم منانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا کہدو ہماری طرف سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کا چہلم منائوگی تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کی عورتو ںایک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشامیوں کی بہو بیٹیوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ رہی تھی وہ اکبر یہ رو کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ امانت ہے پردیسیوں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کررہی ہوں تمہارے حوالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ سے اک بار بس اتنا کہدو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنا وعدہ نبھائو گی تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کی عورتو ںایک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

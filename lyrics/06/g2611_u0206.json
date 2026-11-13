@@ -1,12 +1,532 @@
 {
   "remoteId": "g2611_u0206",
-  "title": "Abbas ka gham",
+  "title": "عباس کا غم",
   "body": "عباس کا غم ہم کرتے ہیں\nہم اپنا لہو زم کرتے ہیں\n<<DIVIDER>>\nدریا پہ گیا لانے پانی\nنظروں میں سکینہ تھی پیاسی\nعباس دلاور شیر جری\nاونچائی پہ پرچم کرتے ہیں\nعباس کا غم۔۔۔\n<<DIVIDER>>\nہے شیر ترای پر بپھرا\nغازی کو کوئی کیا روکے گا\nدریا پہ وہ قبضہ کر کے کہا\nجو چاہیں گے وہ ہم کرتے ہیں\nعباس کا غم۔۔۔\n<<DIVIDER>>\nمشکیزہ چھدا ٹوٹی ہے آس\nپانی نہیں پہنچا ہے احساس\nشرمندہ بھتیجی سے عباس\nاحساس یہ پیہم کرتے ہیں\nعباس کا غم۔۔۔\n<<DIVIDER>>\nگھوڑے سے گرا عباس جری\nآقا لو خبر آ کر اس کی\nشہ بولے کمر ٹوٹی میری\nشہ روتے ہیں ماتم کرتے ہیں\nعباس کا غم۔۔۔\n<<DIVIDER>>\nخیمے میں علم لاے سرور\nسب بی بیاں کہتی ہے رو کر\nاب ظلم و ستم ہونگے ہم پر\nسقے کا سبھی غم کرتے ہیں\nعباس کا غم۔۔۔\n<<DIVIDER>>\nآیا ہے علم عمو ہے کہاں\nمانگوں گی نہ پانی آؤ یہاں\nلب پر یہ سکینہ کی ہے فغاں\nشکوہ نہ یہاں ہم کرتے ہیں\nعباس کا غم۔۔۔\n<<DIVIDER>>\nچودہ سو برس کے بعد ابھی\nلگتا ہے کہ غم کل ہے یہی\nروتے ہیں ملایک اور نبی\nہر آنکھ وہ پر نم کرتے ہیں\nعباس کا غم۔۔۔\n<<DIVIDER>>\nدیکھو تو زرا ماتم کا اثر\nہر سال سے ہوتے ہے بڑھ کر\nیاد آتا نہ کبھی کم کرتے ہیں\nماتم نہ کبھی کم کرتے ہے\nعباس کا غم۔۔۔\n<<DIVIDER>>\nہے آپ کے بعد یہ حال چچا\nدرے وہ طمانچوں کا لگنا\nرو رو کے سکینہ نے یہ کہا\nاس طرح بسر ہم کرتے ہیں\nعباس کا غم۔۔۔\n<<DIVIDER>>\nعباس کے اے ماتم داروں\nقسمت پہ سبھی تم ناز کرو\nسب مل کے رضا آواز یہ دو\nمولا تیرا ماتم کرتے ہیں\nعباس کا غم۔۔۔",
+  "styling": [
+    {
+      "insert": "عباس کا غم ہم کرتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم اپنا لہو زم کرتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدریا پہ گیا لانے پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نظروں میں سکینہ تھی پیاسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس دلاور شیر جری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اونچائی پہ پرچم کرتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے شیر ترای پر بپھرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کو کوئی کیا روکے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا پہ وہ قبضہ کر کے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو چاہیں گے وہ ہم کرتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشکیزہ چھدا ٹوٹی ہے آس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی نہیں پہنچا ہے احساس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شرمندہ بھتیجی سے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "احساس یہ پیہم کرتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھوڑے سے گرا عباس جری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آقا لو خبر آ کر اس کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ بولے کمر ٹوٹی میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ روتے ہیں ماتم کرتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے میں علم لاے سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب بی بیاں کہتی ہے رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ظلم و ستم ہونگے ہم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقے کا سبھی غم کرتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآیا ہے علم عمو ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانگوں گی نہ پانی آؤ یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لب پر یہ سکینہ کی ہے فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکوہ نہ یہاں ہم کرتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچودہ سو برس کے بعد ابھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگتا ہے کہ غم کل ہے یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے ہیں ملایک اور نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر آنکھ وہ پر نم کرتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھو تو زرا ماتم کا اثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سال سے ہوتے ہے بڑھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آتا نہ کبھی کم کرتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم نہ کبھی کم کرتے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے آپ کے بعد یہ حال چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درے وہ طمانچوں کا لگنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے سکینہ نے یہ کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح بسر ہم کرتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس کے اے ماتم داروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قسمت پہ سبھی تم ناز کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب مل کے رضا آواز یہ دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا تیرا ماتم کرتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Raza",
   "anjumans": [],
   "verified": false

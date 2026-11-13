@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u0635",
-  "title": "Ay dariya",
+  "title": "اے دریا",
   "body": "پیاسے خیموں میں مسلسل ہے فغاں اے دریا\nتو نے غازی کو چھپایا ہے کہاں اے دریا\n<<DIVIDER>>\nکتنی حسرت سے تکے جاتے ہیں شہ کو عباس\nجب سے گونجی علی اکبر کی اذاں اے دریا\n---تو نے غازی کو چھپایا\n---پیاسے خیموں میں\n<<DIVIDER>>\nمشک پر تیر جو آیا تو یہ محسوس ہوا\nجیسے سینے میں اتر آئے سناں اے دریا\n---تو نے غازی کو چھپایا\n---پیاسے خیموں میں\n<<DIVIDER>>\nہاتھ کٹنے پہ بھی عباس کے تیور ہیں وہی\nشاہ بچ جائیں چلی جائے یہ جاں اے دریا\n---تو نے غازی کو چھپایا\n---پیاسے خیموں میں\n<<DIVIDER>>\nجانے کب سے در خیمہ پہ کھڑے ہیں بچے\nسوکھے ہونٹوں پہ رکھے خشک زباں اے دریا\n---تو نے غازی کو چھپایا\n---پیاسے خیموں میں\n<<DIVIDER>>\nنوک نیزہ سے اتاری گئی زینب کی ردا\nسو گیا خاک پہ جب شیر جواں اے دریا\n---تو نے غازی کو چھپایا\n---پیاسے خیموں میں\n<<DIVIDER>>\nتیرے ساحل پہ کبھی شاہ کے مقتل میں کبھی\nروتی پھرتی ہے مسلسل کوئی ماں اے دریا\n---تو نے غازی کو چھپایا\n---پیاسے خیموں میں\n<<DIVIDER>>\nہائے جز شام غریباں نہیں کوئی شاہد\nرو کے کہتا ہے یہ خیموں کا دھواں اے دریا\n---تو نے غازی کو چھپایا\n---پیاسے خیموں میں",
+  "styling": [
+    {
+      "insert": "پیاسے خیموں میں مسلسل ہے فغاں اے دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو نے غازی کو چھپایا ہے کہاں اے دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنی حسرت سے تکے جاتے ہیں شہ کو عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سے گونجی علی اکبر کی اذاں اے دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---تو نے غازی کو چھپایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پیاسے خیموں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشک پر تیر جو آیا تو یہ محسوس ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے سینے میں اتر آئے سناں اے دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---تو نے غازی کو چھپایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پیاسے خیموں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھ کٹنے پہ بھی عباس کے تیور ہیں وہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ بچ جائیں چلی جائے یہ جاں اے دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---تو نے غازی کو چھپایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پیاسے خیموں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانے کب سے در خیمہ پہ کھڑے ہیں بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوکھے ہونٹوں پہ رکھے خشک زباں اے دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---تو نے غازی کو چھپایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پیاسے خیموں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوک نیزہ سے اتاری گئی زینب کی ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو گیا خاک پہ جب شیر جواں اے دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---تو نے غازی کو چھپایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پیاسے خیموں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے ساحل پہ کبھی شاہ کے مقتل میں کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی پھرتی ہے مسلسل کوئی ماں اے دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---تو نے غازی کو چھپایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پیاسے خیموں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہائے جز شام غریباں نہیں کوئی شاہد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے کہتا ہے یہ خیموں کا دھواں اے دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---تو نے غازی کو چھپایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پیاسے خیموں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Shahid Jafer",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,410 @@
 {
   "remoteId": "g2611_u0674",
-  "title": "Ay mere baba jaan",
+  "title": "اے میرے بابا جاں",
   "body": "اُس وقت جب کے زینب دربار میں گئی تھی\nکھڑی نمازیوں سے محفل سجی ہوئی تھی\nظالم یہ پُوچھتا تھا غازی تیرا کہاں ہے\nبالوں سے منہ چھُپائے زینب یہ کہہ رہی تھی\n<<DIVIDER>>\nاے میرے بابا جاں ہو رہی ہے اذاں سر چھُپائوں کہاں\nمجمعِ عام میں بے وطن بے اماں آ گیا کارواں\nاے میرے بابا جاں…\n<<DIVIDER>>\nمیں بھی ہوں مرضیہ بنتِ خیرُالنسائ\nمیرے لہجے میں ہے بابا تیری ادا\nنام زینب میرا توں نے جو رکھ دیا دے دے اپنی زباں\nاے میرے بابا جاں…\n<<DIVIDER>>\nبابا جاں میں ردا مانگتی رہ گئی\nبام و در سج گئے جیتے جی مر گئی\nحلقئہ شام میں نام سُن کر میرا مر گیا ناتواں\nاے میرے بابا جاں…\n<<DIVIDER>>\nہاتھ کانوں پہ ہے نیل گالوں پہ ہے\nاور نشاں جو سکینہ کے شانوں پہ ہے\nہر نشاں سے یہی آ رہی ہے صدابابا جاں بابا جاں\nاے میرے بابا جاں…\n<<DIVIDER>>\nشامِ عاشور سے شام و کوفہ تلک\nمیںنے مانگانہیں ہے خراجِ فدک\nمیری چادر سے ہے میری ماں کا سکوں سُن لے ظالم جہاں\nاے میرے بابا جاں…\n<<DIVIDER>>\nبابا جاں یہ تیرا آخری تھا بیاں\nتیری چادر بچائے گا غازی جواں\nمر گیا باوفا چھِن گئی ہے ردا کہتی ہیں بیبیاں\nعباس عباس عباس\n<<DIVIDER>>\nرُک نہ پایا میرے باوفا کا وہ سر\nنوکِ نیزہ سے آنے لگا خاک پر\nبہن کو دربدر دیکھ کر ننگے سر سہہ نہ پایاجواں\nاے میرے بابا جاں…\n<<DIVIDER>>\nکل تھی ماں آج میں بھی دربار میں\nمثلِ زہرا کھڑی ہوں میں اغیار میں\nاُس طرف ہیں شقی اس طرف رہ گئیں بے پدر بیٹیاں\nاے میرے بابا جاں…\n<<DIVIDER>>\nایسا خطبہ دیا میں نے دربار میں\nلکھ رہا ہے جو یاور تیرے پیار میں\nلہجئہ حیدری ہر اذاں کے لیے ہے صدائے اذاں\nاے میرے بابا جاں…",
+  "styling": [
+    {
+      "insert": "اُس وقت جب کے زینب دربار میں گئی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھڑی نمازیوں سے محفل سجی ہوئی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم یہ پُوچھتا تھا غازی تیرا کہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالوں سے منہ چھُپائے زینب یہ کہہ رہی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے میرے بابا جاں ہو رہی ہے اذاں سر چھُپائوں کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجمعِ عام میں بے وطن بے اماں آ گیا کارواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بابا جاں…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں بھی ہوں مرضیہ بنتِ خیرُالنسائ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے لہجے میں ہے بابا تیری ادا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام زینب میرا توں نے جو رکھ دیا دے دے اپنی زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بابا جاں…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا جاں میں ردا مانگتی رہ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بام و در سج گئے جیتے جی مر گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حلقئہ شام میں نام سُن کر میرا مر گیا ناتواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بابا جاں…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھ کانوں پہ ہے نیل گالوں پہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور نشاں جو سکینہ کے شانوں پہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر نشاں سے یہی آ رہی ہے صدابابا جاں بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بابا جاں…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشامِ عاشور سے شام و کوفہ تلک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میںنے مانگانہیں ہے خراجِ فدک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری چادر سے ہے میری ماں کا سکوں سُن لے ظالم جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بابا جاں…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا جاں یہ تیرا آخری تھا بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری چادر بچائے گا غازی جواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیا باوفا چھِن گئی ہے ردا کہتی ہیں بیبیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرُک نہ پایا میرے باوفا کا وہ سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ نیزہ سے آنے لگا خاک پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہن کو دربدر دیکھ کر ننگے سر سہہ نہ پایاجواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بابا جاں…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکل تھی ماں آج میں بھی دربار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مثلِ زہرا کھڑی ہوں میں اغیار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس طرف ہیں شقی اس طرف رہ گئیں بے پدر بیٹیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بابا جاں…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایسا خطبہ دیا میں نے دربار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھ رہا ہے جو یاور تیرے پیار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہجئہ حیدری ہر اذاں کے لیے ہے صدائے اذاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بابا جاں…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Yawar Abbas",
   "anjumans": [],
   "verified": false

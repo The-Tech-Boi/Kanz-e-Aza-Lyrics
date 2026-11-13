@@ -1,12 +1,603 @@
 {
   "remoteId": "g2611_u2243",
-  "title": "Maidan mein zainab",
+  "title": "میدان میں زینب",
   "body": "اے لال میرے اکبر\nمیں قربان تیرے اکبر\nدے آ کے سہارا اکبر کی\nمیت کو اٹھا کر لے آے\n<<DIVIDER>>\nگر تیری اجازت ہو بھای\nمیدان میں زینب آ جاے\nاے لال میرے اکبر\nمیں قربان تیرے اکبر\n<<DIVIDER>>\nعاشور کو تو نے عصر تلک\nکیا کیا نہ اٹھائے ہے صدمے\nخود اپنے جگر کے ٹکڑوں کے\nلاشیں بھی اٹھاے ہے تو نے\nیہ لاش جواں کی ہے بھای\nصدمے سے کہی نہ مر جاۓ\nاے لال میرے اکبر۔۔۔\n<<DIVIDER>>\nاکبر نے پکارا بھیا کو\nتب سے نہیں دیتا دکھلای\nبیٹے کی جدائی کے صدمے سے\nختم ہوی ہے بینائی\nاٹھتے ہیں کبھی گرتے ہیں\nخود یہ دن نہ کسی کو دکھلاے\nگر تیری اجازت ہو بھای۔۔۔\nاے لال میرے اکبر۔۔۔\n<<DIVIDER>>\nاکبر کا بدن تلواروں سے\nاعدا نے کیا ٹکڑے ٹکڑے\nبرچھی جو کلیجے میں اتری\nتو دل بھی ہوا ٹکڑے ٹکڑے\nشبیر نے جو منظر دیکھا\nوہ خوں کے آنسوں رلواے\nاے لال میرے اکبر۔۔۔\n<<DIVIDER>>\nاٹھارہ برس کا اکبر ہے\nہے عالم پیری میں بھیا\nصدمہ ہے قیامت کا دل پر\nلاشہ ہے اٹھانا اکبر کا\nاے کاش پےء امداد اخی\nدریا سے غازی آ جاے\nاے لال میرے اکبر۔۔۔\n<<DIVIDER>>\nعباس گےء کیا دنیا سے\nبھای کی کمر ہی توڑ چلے\nایک ساتھ تھا اکبر کا باقی\nسو وہ بھی منہ کو موڑ چلے\nپیری میں اٹھے لاشہ کیسے\nہمشیر سہارا بن جاے\nگر تیری اجازت ہو بھای۔۔۔\nاے لال میرے اکبر۔۔۔\n<<DIVIDER>>\nاے شادمان اتنا پیارا تھا\nشبیر کو زینب کا پردہ\nیہ کہتے ہوے قیصر شہ نے\nقربان علی اکبر کو کیا\nنہ ممکن ہے میرے ہوتے ہوے\nمیدان میں زینب آ جاے\nگر تیری اجازت ہو بھای۔۔۔\nاے لال میرے اکبر۔۔۔\n<<DIVIDER>>\nشبیر نے رو رو کے کہا زینب مضطر\nپردے پہ تیرے ہو گیا قربان علی اکبر\nمقتل میں نہیں آنا کھلے سر میری خواہر\nتا حشر سلامت رہے زینب تیری چادر\nکچھ یاد ہے جب دفن ہوی رات کو مادر\nاس وقت بھی تو گھر سے نہیں آئی تھی باہر\nارے دیکھے گا تجھے رن میں تو مر جاۓ گا بھای\nہاں موت سے پہلے ہی گزر جاے گا بھای",
+  "styling": [
+    {
+      "insert": "اے لال میرے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں قربان تیرے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے آ کے سہارا اکبر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میت کو اٹھا کر لے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگر تیری اجازت ہو بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان میں زینب آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لال میرے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں قربان تیرے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشور کو تو نے عصر تلک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کیا نہ اٹھائے ہے صدمے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود اپنے جگر کے ٹکڑوں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشیں بھی اٹھاے ہے تو نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ لاش جواں کی ہے بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدمے سے کہی نہ مر جاۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لال میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر نے پکارا بھیا کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تب سے نہیں دیتا دکھلای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹے کی جدائی کے صدمے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ختم ہوی ہے بینائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھتے ہیں کبھی گرتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود یہ دن نہ کسی کو دکھلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر تیری اجازت ہو بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لال میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر کا بدن تلواروں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اعدا نے کیا ٹکڑے ٹکڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برچھی جو کلیجے میں اتری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو دل بھی ہوا ٹکڑے ٹکڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر نے جو منظر دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ خوں کے آنسوں رلواے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لال میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھارہ برس کا اکبر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے عالم پیری میں بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدمہ ہے قیامت کا دل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ ہے اٹھانا اکبر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے کاش پےء امداد اخی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا سے غازی آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لال میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس گےء کیا دنیا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کی کمر ہی توڑ چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ساتھ تھا اکبر کا باقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو وہ بھی منہ کو موڑ چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیری میں اٹھے لاشہ کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمشیر سہارا بن جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر تیری اجازت ہو بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لال میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شادمان اتنا پیارا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کو زینب کا پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہتے ہوے قیصر شہ نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قربان علی اکبر کو کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ممکن ہے میرے ہوتے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان میں زینب آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر تیری اجازت ہو بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لال میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر نے رو رو کے کہا زینب مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردے پہ تیرے ہو گیا قربان علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں نہیں آنا کھلے سر میری خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تا حشر سلامت رہے زینب تیری چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ یاد ہے جب دفن ہوی رات کو مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس وقت بھی تو گھر سے نہیں آئی تھی باہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ارے دیکھے گا تجھے رن میں تو مر جاۓ گا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں موت سے پہلے ہی گزر جاے گا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Qaisar Barhvi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,577 @@
 {
   "remoteId": "g2611_u1999",
-  "title": "Khayal e sughra",
+  "title": "خیال صغرا",
   "body": "خیال صغرا\n<<DIVIDER>>\nخبر آی آنے کو ہے قافلہ\nتو صغرا نے قلب حزیں سے کہا\nتڑپنے سے رونے سے اب کام کیا\nتیرا شکریہ رب ادا کیسے ہو\nکہ بچھڑے ہوؤں کو ملاتا ہے تو\nپھر اٹھ کر یہ غازی کی ماں سے کہا\nچلو اماں آیا ہے کنبہ میرا\n<<DIVIDER>>\nاب میں کہاں روتی ہوں\n<<DIVIDER>>\nاجالے میری سمت بڑھنے لگے\nکہ بابا حسین آج گھر آ رہے ہیں\nمیں بابا کو دیکھونگی تو جی اٹھونگی\nبلاییں سکینہ کی اصغر کی لونگی\nبہت خوش ہوں آتا ہے اکبر میرا\nاب میں کہاں روتی ہوں۔۔۔\n<<DIVIDER>>\nمیں بابا کے جھک کر قدم چوم لونگی\nبھلایا مجھے ان سے شکوہ کروں گی\nنہ تم آے بابا نہ گھر آے اکبر\nنہ پاتے ہمیں دیر ہوتی جو دم بھر\nتم آے کروں کیوں نہ شکر خدا\nاب میں کہاں روتی ہوں۔۔۔\n<<DIVIDER>>\nسجا لوں میں کا ہجرہ زرا\nسنا ہے میرا بھائی دولہا بنا\nنہ یاد آی بہنا ہے دل میں چھبھن\nمگر خوش ہوں لاے گا اکبر دولہن\nتو سایہ کروں گی میں قرآن کا\nاب میں کہاں روتی ہوں۔۔۔\n<<DIVIDER>>\nنہ پیاسی ہو میری سکینہ کہیں\nہے پہلے سفر اور جلتی زمیں\nنہ گرمی سے سوکھے ہوے ہو گلے\nبنالوں میں شربت سبھی کے لئے\nپلاینگے گھر آ کے سب کو چچا\nاب میں کہاں روتی ہوں۔۔۔\n<<DIVIDER>>\nجو گزری پھپھی کو بتاؤں گی میں\nگلے مل کے اماں سے روؤنگی میں\nلیےء ہونگی اصغر کو چادر تلے\nکہ ننھی سے جان زیر سایہ رہے\nمیری گود میں ہو گا اصغر میرا\nاب میں کہاں روتی ہوں۔۔۔\n<<DIVIDER>>\nاچانک اٹھا شور آے حرم\nبڑھی کہکے صغرا الہی کرم\nگلے مل کے غازی کی ماں سے کہا\nچلو اماں آیا ہے کنبہ میرا\nنہ روؤ خدارا خوشی کی ہے جا\nاب میں کہاں روتی ہوں۔۔۔\n<<DIVIDER>>\nجو نکلی تو آہوں کا طوفان تھا\nنظر آیا اجڑا ہوا قافلہ\nجو غش کھا کے وہ غم کی ماری گری\nتو ناقے سے ماں کی عماری گری\nکبھی پھر نہ گونجی فضا میں صدا\nاب میں کہاں روتی ہوں۔۔۔\n<<DIVIDER>>\nمدینے کی گلیوں میں اب بھی ثمر\nیہ دیکھا ہے پھٹتا ہے غم سے جگر\nفضا ساری اشکوں سے بھیگی ہوی\nیہ کہتی ہے صغرا تو اب نہ رہی\nہے خاموش ہونٹوں پہ نوحہ رضا\nاب میں کہاں روتی ہوں۔۔۔",
+  "styling": [
+    {
+      "insert": "خیال صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخبر آی آنے کو ہے قافلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو صغرا نے قلب حزیں سے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپنے سے رونے سے اب کام کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا شکریہ رب ادا کیسے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ بچھڑے ہوؤں کو ملاتا ہے تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر اٹھ کر یہ غازی کی ماں سے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو اماں آیا ہے کنبہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب میں کہاں روتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاجالے میری سمت بڑھنے لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ بابا حسین آج گھر آ رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بابا کو دیکھونگی تو جی اٹھونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلاییں سکینہ کی اصغر کی لونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت خوش ہوں آتا ہے اکبر میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میں کہاں روتی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں بابا کے جھک کر قدم چوم لونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھلایا مجھے ان سے شکوہ کروں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ تم آے بابا نہ گھر آے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پاتے ہمیں دیر ہوتی جو دم بھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم آے کروں کیوں نہ شکر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میں کہاں روتی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجا لوں میں کا ہجرہ زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنا ہے میرا بھائی دولہا بنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ یاد آی بہنا ہے دل میں چھبھن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر خوش ہوں لاے گا اکبر دولہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو سایہ کروں گی میں قرآن کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میں کہاں روتی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ پیاسی ہو میری سکینہ کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے پہلے سفر اور جلتی زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ گرمی سے سوکھے ہوے ہو گلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنالوں میں شربت سبھی کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پلاینگے گھر آ کے سب کو چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میں کہاں روتی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو گزری پھپھی کو بتاؤں گی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلے مل کے اماں سے روؤنگی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیےء ہونگی اصغر کو چادر تلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ ننھی سے جان زیر سایہ رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری گود میں ہو گا اصغر میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میں کہاں روتی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاچانک اٹھا شور آے حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑھی کہکے صغرا الہی کرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلے مل کے غازی کی ماں سے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو اماں آیا ہے کنبہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ روؤ خدارا خوشی کی ہے جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میں کہاں روتی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو نکلی تو آہوں کا طوفان تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نظر آیا اجڑا ہوا قافلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو غش کھا کے وہ غم کی ماری گری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو ناقے سے ماں کی عماری گری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی پھر نہ گونجی فضا میں صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میں کہاں روتی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمدینے کی گلیوں میں اب بھی ثمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دیکھا ہے پھٹتا ہے غم سے جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فضا ساری اشکوں سے بھیگی ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہتی ہے صغرا تو اب نہ رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خاموش ہونٹوں پہ نوحہ رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میں کہاں روتی ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Samar Zaidi",
   "anjumans": [],
   "verified": false

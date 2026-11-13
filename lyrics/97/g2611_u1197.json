@@ -1,12 +1,332 @@
 {
   "remoteId": "g2611_u1197",
-  "title": "Dua to maang",
+  "title": "دعا تو مانگ",
   "body": "دعا تو مانگ سکینہ کا واسطہ دیکے\nیہ کیسے ہوگا کہ عباس اور عطا نہ کرے\n<<DIVIDER>>\nالم پہ جاکے سکینہ کا واسطہ دینا\nپھریرا تھام کے غم اپنے سب بھلا دینا\nجلانا نام سکینہ کا اک دیا جا کے\nیہ کیسے ہوگا کہ۔۔۔\nدعا تو مانگ۔۔۔\n<<DIVIDER>>\nالم پہ جاؤ تو بچوں کو ساتھ لے جاؤ\nوہاں سکینہ کا پرسہ دو پھر دعا مانگو\nتمہارے حق میں سکینہ جو قد دعا کر دے\nیہ کیسے ہوگا کہ۔۔۔\nدعا تو مانگ۔۔۔\n<<DIVIDER>>\nرداے زینب مضطر کا واسطہ دینا\nغریب زہرا کا شربت پہ فاتحہ دینا\nدعایں مانگنا ہاتھوں میں بالیاں رکھ کے\nیہ کیسے ہوگا کہ۔۔۔\nدعا تو مانگ۔۔۔\n<<DIVIDER>>\nعطا کرے جو خدا مجھکو ایک گھر اپنا\nرکھوں گا گھر میں سکینہ کے نام کا حجرہ\nالم کو تھام کے منت یہ مان لی روکے\nیہ کیسے ہوگا کہ۔۔۔\nدعا تو مانگ۔۔۔\n<<DIVIDER>>\nجو تو نے مانگ لی اولاد اور یہ سونچا\nاسے سکینہ کا سقہ میں قد بناؤں گا\nنیت یہ کر لی جو تو نے دعاؤں سے پہلے\nیہ کیسے ہوگا کہ۔۔۔\nدعا تو مانگ۔۔۔\n<<DIVIDER>>\nبلند بس یہ عقیدہ ہے مظہر و فرحان\nحسینیوں کی تو راحت کا ہے یہی ساماں\nجو پنجتن کے بھکاری بنو سلیقے سے\nیہ کیسے ہوگا کہ۔۔۔\nدعا تو مانگ۔۔۔",
+  "styling": [
+    {
+      "insert": "دعا تو مانگ سکینہ کا واسطہ دیکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کیسے ہوگا کہ عباس اور عطا نہ کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالم پہ جاکے سکینہ کا واسطہ دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھریرا تھام کے غم اپنے سب بھلا دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلانا نام سکینہ کا اک دیا جا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کیسے ہوگا کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعا تو مانگ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالم پہ جاؤ تو بچوں کو ساتھ لے جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہاں سکینہ کا پرسہ دو پھر دعا مانگو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے حق میں سکینہ جو قد دعا کر دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کیسے ہوگا کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعا تو مانگ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرداے زینب مضطر کا واسطہ دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب زہرا کا شربت پہ فاتحہ دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعایں مانگنا ہاتھوں میں بالیاں رکھ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کیسے ہوگا کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعا تو مانگ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعطا کرے جو خدا مجھکو ایک گھر اپنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھوں گا گھر میں سکینہ کے نام کا حجرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الم کو تھام کے منت یہ مان لی روکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کیسے ہوگا کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعا تو مانگ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو تو نے مانگ لی اولاد اور یہ سونچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسے سکینہ کا سقہ میں قد بناؤں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیت یہ کر لی جو تو نے دعاؤں سے پہلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کیسے ہوگا کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعا تو مانگ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبلند بس یہ عقیدہ ہے مظہر و فرحان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسینیوں کی تو راحت کا ہے یہی ساماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو پنجتن کے بھکاری بنو سلیقے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کیسے ہوگا کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعا تو مانگ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

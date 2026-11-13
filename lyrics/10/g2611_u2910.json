@@ -1,12 +1,500 @@
 {
   "remoteId": "g2611_u2910",
-  "title": "Sakina so rahi hai",
+  "title": "سکینہ سو رہی ہے",
   "body": "سنای کس نے یہ زنداں میں لوری\nسکینہ سو رہی ہے\nخدارا زور سے بولے نہ کوئی\nسکینہ سو رہی ہے\n<<DIVIDER>>\nکہا بانو نے اٹھو شاہ زادی\nہوی کیا بات جو مادر سے روٹھی\nاٹھو بابا کا سر آیا ہے بی بی\nمگر زنداں کی ہر دیوار بولی\nسکینہ سو رہی ہے\n<<DIVIDER>>\nتمہارے گوشوارے مل گےء ہیں\nدر زندان سارے کھل گےء ہیں\nرہائی مل گیء جاتی ہوں گھر کو\nمگر سجاد کی آواز آی\nسکینہ سو رہی ہے\n<<DIVIDER>>\nنہ اب مارے گا کوئی بھی طمانچے\nنہ ہونگے پھر سے یہ رخسار نیلے\nگلا باندھا نہ جاے گا رسن میں\nجو آیا شمر تو اس سے کہونگی\nسکینہ سو رہی ہے\n<<DIVIDER>>\nردا چھوٹی سی اک سر پر اڑھادو\nچلو عباس سے تم کو ملادوں\nتمہاری مشک ہے اور ان‌ کا سینہ\nجو دیکھے آسماں کہتا ہے وہ بھی\nسکینہ سو رہی ہے\n<<DIVIDER>>\nرسن کا زخم اشکوں سے دھلا دوں\nتیرے بالوں سے یہ مٹی چھڑادوں\nتیرے تلوؤں کے چھالوں کی دوا دوں\nاجل بولی کہ یہ کیسے چلے گی\nسکینہ سو رہی ہے\n<<DIVIDER>>\nہوے جب شام کے ساے بھی گہرے\nپرندے چہچہاتے جا رہے تھے\nکہا بانو نے اے اڑتے پرندوں\nصداییں روک لو کچھ دیر اپنی\nسکینہ سو رہی ہے\n<<DIVIDER>>\nاندھیرا رویا سناٹے سے مل کر\nفلک گرنے لگا دھرتی کے اوپر\nہلانے پر بھی جب بچی نہ جا گی\nتو بولی یہ فضاؤں کی خموشی\nسکینہ سو رہی ہے\n<<DIVIDER>>\nبنانے قبر جب سجاد اٹھے\nتو وہ ناد علی دہرا رہے تھے\nبندھے ہاتھوں سے چاہا قبر کھو دے\nاچانک پاؤں کی زنجیر چھلکی\nسکینہ سو رہی ہے\n<<DIVIDER>>\nعجب کی جا ہے یہ ریحان دیکھو\nبلند آواز سے ہر گز نہ بولو\nیہاں تو فاتحہ بھی دھیرے پڑھنا\nیہاں آواز ہو جاے نہ اونچی\nسکینہ سو رہی ہے",
+  "styling": [
+    {
+      "insert": "سنای کس نے یہ زنداں میں لوری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدارا زور سے بولے نہ کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا بانو نے اٹھو شاہ زادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوی کیا بات جو مادر سے روٹھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو بابا کا سر آیا ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر زنداں کی ہر دیوار بولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہارے گوشوارے مل گےء ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در زندان سارے کھل گےء ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہائی مل گیء جاتی ہوں گھر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر سجاد کی آواز آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ اب مارے گا کوئی بھی طمانچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ہونگے پھر سے یہ رخسار نیلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلا باندھا نہ جاے گا رسن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو آیا شمر تو اس سے کہونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nردا چھوٹی سی اک سر پر اڑھادو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو عباس سے تم کو ملادوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہاری مشک ہے اور ان‌ کا سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو دیکھے آسماں کہتا ہے وہ بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرسن کا زخم اشکوں سے دھلا دوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے بالوں سے یہ مٹی چھڑادوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے تلوؤں کے چھالوں کی دوا دوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اجل بولی کہ یہ کیسے چلے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوے جب شام کے ساے بھی گہرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرندے چہچہاتے جا رہے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا بانو نے اے اڑتے پرندوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں روک لو کچھ دیر اپنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاندھیرا رویا سناٹے سے مل کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فلک گرنے لگا دھرتی کے اوپر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہلانے پر بھی جب بچی نہ جا گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بولی یہ فضاؤں کی خموشی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبنانے قبر جب سجاد اٹھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو وہ ناد علی دہرا رہے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بندھے ہاتھوں سے چاہا قبر کھو دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچانک پاؤں کی زنجیر چھلکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعجب کی جا ہے یہ ریحان دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلند آواز سے ہر گز نہ بولو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہاں تو فاتحہ بھی دھیرے پڑھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہاں آواز ہو جاے نہ اونچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

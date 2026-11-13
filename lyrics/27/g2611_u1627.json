@@ -1,12 +1,455 @@
 {
   "remoteId": "g2611_u1627",
-  "title": "Hussain tere lahoo ki",
+  "title": "حسین تیرے لہو کی",
   "body": "حسین تیرے لہو کی خوشبو\nفلک کے دامن سے آ رہی ہے\n<<DIVIDER>>\nیہ خون نہ حق چھپے گا کیوں کر\nجسے یہ دنیا چھپا رہی ہے\n<<DIVIDER>>\nیہ صبر تیرا تیری عبادت\nوہ راہ حق میں تیری شہادت\nتیری صداقت کی داستانیں\nزمانے بھر کو سنا رہی ہے\nحسین تیرے لہو کی۔۔۔\n<<DIVIDER>>\nتمام عالم کو یہ دکھایا\nکٹا کے گردن دین بچایا\nمگر یہ امّت ابھی بھی آل\nنبی کو دیکھو ستا رہی ہے\nحسین تیرے لہو کی۔۔۔\n<<DIVIDER>>\nغریب مولا کی بیکسی کے\nغریب مولا کی بیبسی کے\nابھی تلک وہ زمین کربل\nلہو کے آنسو بہا رہی ہے\nحسین تیرے لہو کی۔۔۔\n<<DIVIDER>>\nجوان بیٹے کی لاش لینے\nچلے ہیں مقتل کو شاہ والا\nمگر ضعیفی قدم قدم پر\nاٹھا رہی ہے بٹھا رہی ہے\nحسین تیرے لہو کی۔۔۔\n<<DIVIDER>>\nبرہنہ سر ہے علی کی بیٹی\nمگر وہی عظمت محمّد\nوہ جس کی خاطر بھرا ہوا گھر\nلٹا کے کربل سے آ رہی ہے\nحسین تیرے لہو کی۔۔۔\n<<DIVIDER>>\nیہ کون ہے جس کی گفتگو میں\nعلی کا لہجہ جہلک رہا ہے\nیہ کون ہے جس کی ولولوں میں\nحسینیت جگمگا رہی ہے\nحسین تیرے لہو کی۔۔۔\n<<DIVIDER>>\nعجیب ہے یہ کربلا کا منظر\nرواں ہے شاہ کے گلے پہ خنجر\nزمانہ کروٹ بدل رہا ہے\nسکینہ آنسو بہا رہی ہے\nحسین تیرے لہو کی۔۔۔\n<<DIVIDER>>\nحسین میدان کربلہ میں\nعجیب موتی لٹا رہے ہیں\nجوان بیٹے بھتیجے بھائ\nکی لاشیں تنہا اٹھا رہے ہیں\nحسین تیرے لہو کی۔۔۔",
+  "styling": [
+    {
+      "insert": "حسین تیرے لہو کی خوشبو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فلک کے دامن سے آ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ خون نہ حق چھپے گا کیوں کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسے یہ دنیا چھپا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ صبر تیرا تیری عبادت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ راہ حق میں تیری شہادت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری صداقت کی داستانیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمانے بھر کو سنا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین تیرے لہو کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمام عالم کو یہ دکھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کٹا کے گردن دین بچایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر یہ امّت ابھی بھی آل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی کو دیکھو ستا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین تیرے لہو کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغریب مولا کی بیکسی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب مولا کی بیبسی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی تلک وہ زمین کربل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو کے آنسو بہا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین تیرے لہو کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجوان بیٹے کی لاش لینے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے ہیں مقتل کو شاہ والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر ضعیفی قدم قدم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھا رہی ہے بٹھا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین تیرے لہو کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرہنہ سر ہے علی کی بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر وہی عظمت محمّد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جس کی خاطر بھرا ہوا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹا کے کربل سے آ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین تیرے لہو کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کون ہے جس کی گفتگو میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا لہجہ جہلک رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کون ہے جس کی ولولوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسینیت جگمگا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین تیرے لہو کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعجیب ہے یہ کربلا کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رواں ہے شاہ کے گلے پہ خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمانہ کروٹ بدل رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ آنسو بہا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین تیرے لہو کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین میدان کربلہ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب موتی لٹا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوان بیٹے بھتیجے بھائ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کی لاشیں تنہا اٹھا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین تیرے لہو کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "anjumans": [],
   "verified": false
 }

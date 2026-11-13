@@ -1,12 +1,625 @@
 {
   "remoteId": "g2611_u3269",
-  "title": "Uthja mere sajjad",
+  "title": "اُٹھ جا میرے سجاد",
   "body": "شامِ غریباں جلتے خیمے اُٹھتا دُھواں\nعون و محمد کی ماں\nآئی سجاد کے خیمے میں\nکہا شانہ ہلا کر رُوتے ہوئے\nآباد رہے گی کرب و بلا\nچل شام کریں آباد\nاُٹھ جا میرے سجاد\n<<DIVIDER>>\nمیرا ماںجایا نہیں آیا\nسُن زینب کی فریاد\nاُٹھ جا میرے سجاد\n<<DIVIDER>>\nاماں کا ہاتھ گلے پر تھا\nدُور سے دیکھا تھا میں نے\nمقتل میں سوکھی گردن پر\nجب شمر نے تیراں وار کئے\nوہ بھائی میرا واویلا\nمارا گیا پیاسہ واویلا\nجس بھائی پر قربان ہوئی\nپیاسی میری اولاد\nاُٹھ جا میرے سجاد۔۔۔\n<<DIVIDER>>\nخیموں میں ہی جل جائے یا\nخیموں سے نکل جائیں باہر\nکیا حکم ہے تیرا زینب کو\nاک بار بتا دے تو اُٹھ کر\nنہ قاسم ہے نہ اصغر ہے\nعباس ہے اور نہ اکبر ہے\nبس تیرا سہارا ہے ہم کو\nبھیا شبیر کے بعد\nاُٹھ جا میرے سجاد۔۔۔\n<<DIVIDER>>\nیہ شامِ غریباں ہے بیٹا\nتیری پہلی شام امامت کی\nتیری سالاری میں شام تلک\nکرنا ہے سفر بن کر قیدی\nنہ محمل ہے نہ ھودج ہے\nنہ لشکر کی وہ سج دھج ہے\nجب ہاتھ بندھیں گے گردن سے\nغازی آئے گا یاد\nاُٹھ جا میرے سجاد۔۔۔\n<<DIVIDER>>\nبے مقنع و چادر ناقت سے\nہمیں جانا ہے سجاد جہاں\nاے لعل سنو کیسے ہوگا\nسادات کا استقبال وہاں\nبازار میں آنے سے پہلے\nرُوکیں گے ہمیں دروازے پہ\nگلیوں کو سجایا جائے گا\nنئے ہوں گے ستم ایجاد\nاُٹھ جا میرے سجاد۔۔۔\n<<DIVIDER>>\nسجاد تیری معصوم بہن\nظالم کے طماچے کھائے گی\nمانگے گا کنیزی میں حاکم\nدربار میں جب وہ جائے گی\nمرجائے گی دُرّے کھا کھا کر\nزندان میں اس کو دفنا کر\nتجھے رونا ہے چالیس برس\nنہ ہوں گے کبھی ہم شاد\nاُٹھ جا میرے سجاد۔۔۔\n<<DIVIDER>>\nاشّام اشّام اشّام سُنا\nاور آنکھیں کھولیں عابد نے\nزینب نے کہا اے ذیشان و\nعرفان سہارا دیتے ہوئے\nمقتل میں پڑے اُن لاشوں کا\nچہلم کرنے اُن پیاسوں کا\nآئیں گے دوبارہ کرب و بلا\nجب ہوںگے ہم آزاد\nاُٹھ جا میرے سجاد۔۔۔",
+  "styling": [
+    {
+      "insert": "شامِ غریباں جلتے خیمے اُٹھتا دُھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عون و محمد کی ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی سجاد کے خیمے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا شانہ ہلا کر رُوتے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آباد رہے گی کرب و بلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل شام کریں آباد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھ جا میرے سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا ماںجایا نہیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُن زینب کی فریاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھ جا میرے سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں کا ہاتھ گلے پر تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُور سے دیکھا تھا میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں سوکھی گردن پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب شمر نے تیراں وار کئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بھائی میرا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارا گیا پیاسہ واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس بھائی پر قربان ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی میری اولاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھ جا میرے سجاد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیموں میں ہی جل جائے یا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں سے نکل جائیں باہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا حکم ہے تیرا زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بار بتا دے تو اُٹھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ قاسم ہے نہ اصغر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس ہے اور نہ اکبر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس تیرا سہارا ہے ہم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا شبیر کے بعد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھ جا میرے سجاد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ شامِ غریباں ہے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری پہلی شام امامت کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری سالاری میں شام تلک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرنا ہے سفر بن کر قیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ محمل ہے نہ ھودج ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ لشکر کی وہ سج دھج ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہاتھ بندھیں گے گردن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی آئے گا یاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھ جا میرے سجاد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے مقنع و چادر ناقت سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیں جانا ہے سجاد جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لعل سنو کیسے ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سادات کا استقبال وہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں آنے سے پہلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رُوکیں گے ہمیں دروازے پہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلیوں کو سجایا جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نئے ہوں گے ستم ایجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھ جا میرے سجاد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد تیری معصوم بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم کے طماچے کھائے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانگے گا کنیزی میں حاکم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دربار میں جب وہ جائے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرجائے گی دُرّے کھا کھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندان میں اس کو دفنا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھے رونا ہے چالیس برس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ہوں گے کبھی ہم شاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھ جا میرے سجاد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاشّام اشّام اشّام سُنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور آنکھیں کھولیں عابد نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے کہا اے ذیشان و"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عرفان سہارا دیتے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں پڑے اُن لاشوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرنے اُن پیاسوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئیں گے دوبارہ کرب و بلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہوںگے ہم آزاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھ جا میرے سجاد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Zeeshan Abidi",
   "anjumans": [],
   "verified": false

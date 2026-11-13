@@ -1,12 +1,433 @@
 {
   "remoteId": "g2611_u1095",
-  "title": "Chehlum karne aayi",
+  "title": "چہلم کرنے آی",
   "body": "چہلم کرنے آی ہے زینب\nکربوبلا میں زنداں سے چھٹ کر\n<<DIVIDER>>\nسر پر اوڑھے زخموں کی چادر\nچہلم کرنے آی ہے زینب\nکربوبلا میں زنداں سے چھٹ کر\n<<DIVIDER>>\nاٹھ کر دیکھو راج دلاروں\nخاک نشیں قرآن کے پاروں\nدل پہ لے کر داغ بہتر\nچہلم کرنے آی۔۔۔\n<<DIVIDER>>\nرخ پہ اداسی چھائی ہوئی ہے\nغم سے بہن گھبرای ہوی ہے\nاٹھو میرے اٹھارہ برادر\nچہلم کرنے آی۔۔۔\n<<DIVIDER>>\nفرش بچھا دو لا کر رن میں\nکھینچو قناعتیں آ کر بن میں\nآؤ کہاں ہو قاسم و اکبر\nچہلم کرنے آی۔۔۔\n<<DIVIDER>>\nاب نہ وطن میں جاؤں گی بھائی\nرو رو یہی مر جاؤں گی بھائی\nبن کے تیری تربت کی مجاور\nچہلم کرنے آی۔۔۔\n<<DIVIDER>>\nدشت بلا میں حشر تھا اس دم\nپہنچی ہے جس دم زینب پرنم\nقبر جری پر گھٹنیوں چل کر\nچہلم کرنے آی۔۔۔\n<<DIVIDER>>\nکیا میں بتاؤں شاہ مدینہ\nمر گیء گھٹ گیء بالی سکینہ\nتیری امانت شام میں کھو کر\nچہلم کرنے آی۔۔۔\n<<DIVIDER>>\nکاش تیری شادی جو رچاتی\nپھولوں کا سہرا تجھکو پنہاتی\nاٹھو میرے ہمشکل پیمبر\nچہلم کرنے آی۔۔۔\n<<DIVIDER>>\nخاک پہ بیٹھی روتی تھی زینب\nبین یہ رو کے کرتی تھی زینب\nاپنے سروں پر کھا کر پتھر\nچہلم کرنے آی۔۔۔\n<<DIVIDER>>\nتو نے جو عالم نوحہ لکھا ہے\nعامر نے رو رو کے پڑھا ہے\nاہلِ عزا روتے ہیں سن کر\nچہلم کرنے آی۔۔۔",
+  "styling": [
+    {
+      "insert": "چہلم کرنے آی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا میں زنداں سے چھٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر پر اوڑھے زخموں کی چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرنے آی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا میں زنداں سے چھٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھ کر دیکھو راج دلاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک نشیں قرآن کے پاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پہ لے کر داغ بہتر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرنے آی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرخ پہ اداسی چھائی ہوئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم سے بہن گھبرای ہوی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو میرے اٹھارہ برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرنے آی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرش بچھا دو لا کر رن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھینچو قناعتیں آ کر بن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ کہاں ہو قاسم و اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرنے آی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب نہ وطن میں جاؤں گی بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو یہی مر جاؤں گی بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن کے تیری تربت کی مجاور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرنے آی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدشت بلا میں حشر تھا اس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہنچی ہے جس دم زینب پرنم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر جری پر گھٹنیوں چل کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرنے آی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا میں بتاؤں شاہ مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیء گھٹ گیء بالی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری امانت شام میں کھو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرنے آی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکاش تیری شادی جو رچاتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھولوں کا سہرا تجھکو پنہاتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو میرے ہمشکل پیمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرنے آی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاک پہ بیٹھی روتی تھی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین یہ رو کے کرتی تھی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے سروں پر کھا کر پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرنے آی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو نے جو عالم نوحہ لکھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عامر نے رو رو کے پڑھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ عزا روتے ہیں سن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرنے آی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Arbayeen",
+  "subcategory": "اربعین",
   "author": "Aalam Sultanpuri",
   "anjumans": [],
   "verified": false

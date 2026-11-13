@@ -1,12 +1,392 @@
 {
   "remoteId": "g2611_u0350",
-  "title": "Akbar ke janaze pe",
+  "title": "اکبر کے جنازے پہ",
   "body": "جس وقت گرا زین سے ہم شکل پیمبر\nشبیر کو زینب نے صدا دی یہ تڑپ کر\nاکبر کے جنازے پہ مجھے لے چلو بھیا\n<<DIVIDER>>\nہم مل کے اٹھا لیں گے جواں لال کا لاشہ\nاکبر کے جنازے پہ مجھے لے چلو بھیا\n<<DIVIDER>>\nاٹھارہ برس والے کا سر گود میں لے کر\nمیں ناد علی پڑھتی رہوں گی اے برادر\nتم سینۂ اکبر سے نکالو گے جو نیزہ\nاکبر کے جنازے پہ۔۔۔\n<<DIVIDER>>\nجو زخم لگے ہیں وہ دکھاے گا نہ تم کو\nشاید وہ تکلف میں بتاے گا نہ تم کو\nمیں ماں ہوں مگر مجھ سے چھپا ہی نہیں سکتا\nاکبر کے جنازے پہ۔۔۔\n<<DIVIDER>>\nمیں جانتی ہوں کیسے جواں ہوتے ہیں بیٹے\nاور دیکھنے پڑ جایئں اگر ان کے جنازے\nاب میں بھی سمجھ سکتی ہوں اولاد کا صدمہ\nاکبر کے جنازے پہ۔۔۔\n<<DIVIDER>>\nآنے نہیں دوں گی میں کسی کو بھی وہاں پر\nجی بھر کے گلے ملنا جواں لال سے جا کر\nمیں موت سے کہہ دوں گی زرا دیر ٹہر جا\nاکبر کے جنازے پہ۔۔۔\n<<DIVIDER>>\nبابا میرے بابا کی صدا دے تو رہا ہے\nآواز سے لگتا ہے بہت دور گرا ہے\nلو ہاتھ میرا تھامو بہت دور ہے جانا\nاکبر کے جنازے پہ۔۔۔\n<<DIVIDER>>\nاس کرب کی حالت سے نکالے گا تمہیں کون\nوہ ایڑیاں رگڑے گا سنبھالے گا تمہیں کون\nچادر سے بنالوں گی میں کچھ دیر کو پردہ\nاکبر کے جنازے پہ۔۔۔\n<<DIVIDER>>\nٹوٹی ہے کمر آپ کی اے میرے برادر\nگر گر کے اٹھیں گے تو ہسینگے یہ ستمگر\nمیں آپ کو بننے تو نہیں دونگی تماشا\nاکبر کے جنازے پہ۔۔۔\n<<DIVIDER>>\nروتی ہے کوئی بی بی مسلسل پس پردہ\nجب سے ہے سنا میر تکلم تیرا نوحہ\nبھای سے گلے مل کے بہن بولی دوبارہ\nاکبر کے جنازے پہ۔۔۔",
+  "styling": [
+    {
+      "insert": "جس وقت گرا زین سے ہم شکل پیمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کو زینب نے صدا دی یہ تڑپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے جنازے پہ مجھے لے چلو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم مل کے اٹھا لیں گے جواں لال کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے جنازے پہ مجھے لے چلو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھارہ برس والے کا سر گود میں لے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ناد علی پڑھتی رہوں گی اے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم سینۂ اکبر سے نکالو گے جو نیزہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے جنازے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو زخم لگے ہیں وہ دکھاے گا نہ تم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاید وہ تکلف میں بتاے گا نہ تم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ماں ہوں مگر مجھ سے چھپا ہی نہیں سکتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے جنازے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں جانتی ہوں کیسے جواں ہوتے ہیں بیٹے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور دیکھنے پڑ جایئں اگر ان کے جنازے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میں بھی سمجھ سکتی ہوں اولاد کا صدمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے جنازے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنے نہیں دوں گی میں کسی کو بھی وہاں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جی بھر کے گلے ملنا جواں لال سے جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں موت سے کہہ دوں گی زرا دیر ٹہر جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے جنازے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا میرے بابا کی صدا دے تو رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز سے لگتا ہے بہت دور گرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو ہاتھ میرا تھامو بہت دور ہے جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے جنازے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس کرب کی حالت سے نکالے گا تمہیں کون"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ایڑیاں رگڑے گا سنبھالے گا تمہیں کون"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر سے بنالوں گی میں کچھ دیر کو پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے جنازے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹوٹی ہے کمر آپ کی اے میرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر گر کے اٹھیں گے تو ہسینگے یہ ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں آپ کو بننے تو نہیں دونگی تماشا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے جنازے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتی ہے کوئی بی بی مسلسل پس پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سے ہے سنا میر تکلم تیرا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای سے گلے مل کے بہن بولی دوبارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے جنازے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

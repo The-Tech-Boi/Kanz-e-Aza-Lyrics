@@ -1,12 +1,378 @@
 {
   "remoteId": "g2611_u2978",
-  "title": "Shaam aa raha hai",
+  "title": "شام آرہا ہے",
   "body": "سادات بے ردا ہیں عابد کا سر جھکا ہے\nشام آرہا ہے\nسارا لہو بدن کا آنکھوں میں آگیا ہے\n---شام آرہا ہے\n<<DIVIDER>>\nبھائی کا سر جہاں تھا بی بی وہاں پہ آئی\nبولی یہ سر جھکا کے کرنا دعائیں بھائی\nزینب کی کربلا کا آغاز ہو رہا ہے\n---شام آرہا ہے\n<<DIVIDER>>\nامّت کھڑی ہوئی ہے جھولی میں لے کے پتھر\nزنجیر که رہی ہے چلنا سنبھل سنبھل کر\nاہل حرم کا مقتل کچھ دور رہ گیا ہے\n---شام آرہا ہے\n<<DIVIDER>>\nنیزے پہ سر جواں کا دیکھا تو ماں یہ بولی\nاکبر یہ التجا ہے تجھ سے غریب ماں کی\nچادر کہیں سے لا دے زینب کا سر کھلا ہے\n---شام آرہا ہے\n<<DIVIDER>>\nاعلان ہو رہا ہے جلدی بلایا جائے\nزہرا کی بیٹیوں کو پیدل چلایا جائے\nکوفے کی منزلوں سے یہ سخت مرحلہ ہے\n---شام آرہا ہے\n<<DIVIDER>>\nکوئی نہیں سنے گا فریاد بے کسوں کی\nآل نبی پہ ہوگی برسات پتھروں کی\nکس طرح آنکھیں کھولے عباس جانتا ہے\n---شام آرہا ہے\n<<DIVIDER>>\nزینب نے جب یہ پوچھا یہ کونسی ہے بستی\nسجاد میرے دل پر لگتی ہے غم کی برچھی\nہاۓ دبی زبان سے بیمار نے کہا ہے\n---شام آرہا ہے\n<<DIVIDER>>\nیہ فضل سے رقیہ کہتی ہے اے بھتیجے\nزینب کی میں ہوں ضامن باقر تیرے حوالے\nدونوں نے کام اپنا تقسیم کر لیا ہے\n---شام آرہا ہے\n<<DIVIDER>>\nزینب کے گرد بہنیں پردہ بنا رہی ہیں\nخود بے ردا ہیں لیکن اسکو چھپا رہی ہیں\nاکبر ستم گروں نے اعلان کر دیا ہے\n---شام آرہا ہے",
+  "styling": [
+    {
+      "insert": "سادات بے ردا ہیں عابد کا سر جھکا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام آرہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سارا لہو بدن کا آنکھوں میں آگیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---شام آرہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھائی کا سر جہاں تھا بی بی وہاں پہ آئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولی یہ سر جھکا کے کرنا دعائیں بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی کربلا کا آغاز ہو رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---شام آرہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامّت کھڑی ہوئی ہے جھولی میں لے کے پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنجیر که رہی ہے چلنا سنبھل سنبھل کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہل حرم کا مقتل کچھ دور رہ گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---شام آرہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزے پہ سر جواں کا دیکھا تو ماں یہ بولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر یہ التجا ہے تجھ سے غریب ماں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر کہیں سے لا دے زینب کا سر کھلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---شام آرہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاعلان ہو رہا ہے جلدی بلایا جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی بیٹیوں کو پیدل چلایا جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے کی منزلوں سے یہ سخت مرحلہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---شام آرہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی نہیں سنے گا فریاد بے کسوں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل نبی پہ ہوگی برسات پتھروں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح آنکھیں کھولے عباس جانتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---شام آرہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے جب یہ پوچھا یہ کونسی ہے بستی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد میرے دل پر لگتی ہے غم کی برچھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاۓ دبی زبان سے بیمار نے کہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---شام آرہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ فضل سے رقیہ کہتی ہے اے بھتیجے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی میں ہوں ضامن باقر تیرے حوالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دونوں نے کام اپنا تقسیم کر لیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---شام آرہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کے گرد بہنیں پردہ بنا رہی ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود بے ردا ہیں لیکن اسکو چھپا رہی ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر ستم گروں نے اعلان کر دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---شام آرہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

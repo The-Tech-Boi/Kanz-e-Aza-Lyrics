@@ -1,7 +1,413 @@
 {
   "remoteId": "g2611_u3157",
-  "title": "Tamam aalam mein",
+  "title": "تمام عالم میں",
   "body": "تمام عالم میں آج ماتم\nحسین بے کس کا ہو رہا ہے\nعلم گھروں میں سجے ہوئے ہیں\nدلوں میں فرشِ اعزا بچھا ہے\nتمام عالم میں آج ماتم\nحسین بے کس کا ہو رہا ہے\n<<DIVIDER>>\nسیاہ کپڑے سیاہ چادر\nغموں کی گرد و غبار سر پر\nہے سوگواروں کے اشک جاری\nکے ثانیئے زہرا بریدہ ہے\nتمام عالم۔۔۔\n<<DIVIDER>>\nنہ چشمِ پُرنم ہو کیوں سوالی\nجلوس ہے ذوالجناح خا لی\nکے میرا دُلدُل سوارِ مولا\nزمینِ کربل میں سو رہا ہے\nتمام عالم۔۔۔\n<<DIVIDER>>\nعلم میں مشکِ سکینہ دیکھو\nتو مومنو بس یہ کہہ کے رو لو\nچچا بھتیجی میں کیا ہے نسبت\nوفائے عباس کیا وفا ہے\nتمام عالم۔۔۔\n<<DIVIDER>>\nحسین پیری میں دل سنبھالے\nکے دل سے اُلجھی سناں نکالے\nجوان بیٹا لہو میں ڈوبا\nزمیں پہ ایڑھی رگڑ رہاہے\nتمام عالم۔۔۔\n<<DIVIDER>>\nنہ مار برچھی دلِ نبی پر\nابھی ہوئے ہیں جوان اکبر\nیہ قتل جس کو توں کر رہا ہے\nیہی تو ہم شکلِ مصطفیٰ ہے\nتمام عالم۔۔۔\n<<DIVIDER>>\nمدینے والو خاموش رہنا\nغریب زینب سے کچھ نہ کہنا\nبسا ہوا گھر جو لے گئی تھی\nوہ کربلا میں اُجڑ گیا ہے\nتمام عالم۔۔۔\n<<DIVIDER>>\nاعزائے شبیر ہے عبادت\nجنابِ زینب کی ہے امانت\nیہ نوحہ تیرے قلم سے محشر\nجنابِ زہرا کی اک عطا ہے\nتمام عالم۔۔۔",
+  "styling": [
+    {
+      "insert": "تمام عالم میں آج ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین بے کس کا ہو رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم گھروں میں سجے ہوئے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دلوں میں فرشِ اعزا بچھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمام عالم میں آج ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین بے کس کا ہو رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسیاہ کپڑے سیاہ چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غموں کی گرد و غبار سر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے سوگواروں کے اشک جاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کے ثانیئے زہرا بریدہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمام عالم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ چشمِ پُرنم ہو کیوں سوالی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلوس ہے ذوالجناح خا لی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کے میرا دُلدُل سوارِ مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمینِ کربل میں سو رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمام عالم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلم میں مشکِ سکینہ دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو مومنو بس یہ کہہ کے رو لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چچا بھتیجی میں کیا ہے نسبت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفائے عباس کیا وفا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمام عالم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین پیری میں دل سنبھالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کے دل سے اُلجھی سناں نکالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوان بیٹا لہو میں ڈوبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پہ ایڑھی رگڑ رہاہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمام عالم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ مار برچھی دلِ نبی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی ہوئے ہیں جوان اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ قتل جس کو توں کر رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی تو ہم شکلِ مصطفیٰ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمام عالم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمدینے والو خاموش رہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب زینب سے کچھ نہ کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بسا ہوا گھر جو لے گئی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ کربلا میں اُجڑ گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمام عالم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاعزائے شبیر ہے عبادت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنابِ زینب کی ہے امانت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ نوحہ تیرے قلم سے محشر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنابِ زہرا کی اک عطا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمام عالم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -1,12 +1,296 @@
 {
   "remoteId": "g2611_u3350",
-  "title": "Ya ali adrikni",
+  "title": "یا علی ادرکنی",
   "body": "یا علی ادرکنی\nاُمِ لیلٰی کا جگر ہو گیا چھلنی چھلنی\nدیکھیئے سینہِ اکبر میں ہے برچھی کی انی\nیا علی ادرکنی\n<<DIVIDER>>\nدیکھیئے دیکھیئے دم ٹوٹ رہا ہے کس کا\nہے قیامت برپا\nخیمہِ عطرتِ اطہار میں ہے سینہ زنی\nیا علی ادرکنی\n<<DIVIDER>>\nسر جھکائے ہوئے بیٹھے ہیں سرہانے سرور\nجاں بلب ہے اکبر\nہائے مظلوم کی کیسی ہے غریبُ الوطنی\nیا علی ادرکنی\n<<DIVIDER>>\nخیمہِ شاہ میں غُل ہوتا ہے اِنا لِللہ\nدمِ آخر ہے آہ\nہچکیاں لیتا ہے ہمشکلِ رسولِ مدنی\nیا علی ادرکنی\n<<DIVIDER>>\nخاک میں ملتی ہے اکبر کی جوانی مولا\nکہہ رہی ہے فضہ\nمل گیا خاک میں شبیر کا سر بے چمنی\nیا علی ادرکنی\n<<DIVIDER>>\nلاشِ اکبر پہ عجب مادرِ اکبر کا ہے حال\nحال سے ہے بے حال\nروتے روتے وہ کہیں جان نہ دے دے اپنی\nیا علی ادرکنی\n<<DIVIDER>>\nیہ ضعیفی یہ جواں لال کی میت مولا\nکیسے اُٹھے گی بھلا\nآئو امداد کو از بحرِ رسولِ مدنی\nیا علی ادرکنی",
+  "styling": [
+    {
+      "insert": "یا علی ادرکنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُمِ لیلٰی کا جگر ہو گیا چھلنی چھلنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھیئے سینہِ اکبر میں ہے برچھی کی انی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی ادرکنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھیئے دیکھیئے دم ٹوٹ رہا ہے کس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے قیامت برپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمہِ عطرتِ اطہار میں ہے سینہ زنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی ادرکنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر جھکائے ہوئے بیٹھے ہیں سرہانے سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاں بلب ہے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے مظلوم کی کیسی ہے غریبُ الوطنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی ادرکنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمہِ شاہ میں غُل ہوتا ہے اِنا لِللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دمِ آخر ہے آہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہچکیاں لیتا ہے ہمشکلِ رسولِ مدنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی ادرکنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاک میں ملتی ہے اکبر کی جوانی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ رہی ہے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل گیا خاک میں شبیر کا سر بے چمنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی ادرکنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشِ اکبر پہ عجب مادرِ اکبر کا ہے حال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حال سے ہے بے حال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے روتے وہ کہیں جان نہ دے دے اپنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی ادرکنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ ضعیفی یہ جواں لال کی میت مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے اُٹھے گی بھلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئو امداد کو از بحرِ رسولِ مدنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی ادرکنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "anjumans": [],
   "verified": false
 }

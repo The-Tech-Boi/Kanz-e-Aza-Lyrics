@@ -1,12 +1,352 @@
 {
   "remoteId": "g2611_u1833",
-  "title": "Kaha abbas ne",
+  "title": "کہا عباس نے",
   "body": "کہا عباس نے آقا کا منشا آج لے لینگے\nسکینہ کے لئے عباس اعدا سے دریا آج لے لینگے\n<<DIVIDER>>\nعلی کے شیر ہیں عباس کے تیور بتاتے ہیں\nستمگاروں کے قبضے سے یہ دریا آج لے لینگے\nکہا عباس نے آقا۔۔۔\n<<DIVIDER>>\nستمگاروں سے یہ عون و محمد رن میں کہتے تھے\nمیرے حملے دیار شام و کوفہ آج لے لینگے\nکہا عباس نے آقا۔۔۔\n<<DIVIDER>>\nولادت کہہ رہی ہے بت شکن کی صحن کعبہ میں\nخدا والے بتوں سے اپنا کعبہ آج لے لینگے\nکہا عباس نے آقا۔۔۔\n<<DIVIDER>>\nسجی ہے کربلا تیروں سے تلواروں سے نیزوں سے\nیہ انصار حسینی جانے کیا کیا آج لے لینگے\nکہا عباس نے آقا۔۔۔\n<<DIVIDER>>\nنکل جائےگی حسرت جنگ کی عباس کہتے تھے\nسکینہ کی سفارش کا سہارا آج لے لینگے\nکہا عباس نے آقا۔۔۔\n<<DIVIDER>>\nہے جس سے عظمت کعبہ زمین کربلا بولی\nجبین شاہ دیں سے ہم وہ سجدہ آج لے لینگے\nکہا عباس نے آقا۔۔۔\n<<DIVIDER>>\nعلی ابنِ کریمہ کا ہو یہ حر شہ سے کہتا ہے\nہم اپنے ہاتھ سے دامن تمہارا آج لے لینگے\nکہا عباس نے آقا۔۔۔\n<<DIVIDER>>\nالٹ کر آستیں عباس بے دینوں سے کہتے ہیں\nیہ دریا ہی نہیں ہم ساری دنیا آج لے لینگے\nکہا عباس نے آقا۔۔۔\n<<DIVIDER>>\nہم آتے ہیں کہا عباس نے اے لشکر اعدا\nجو کل دریا تمہارا تھا وہ دریا آج لے لینگے\nکہا عباس نے آقا۔۔۔\n<<DIVIDER>>\nجھپک جاے نگاہِ برق جسکو دیکھ کر سالک\nعلی کی مدح سے ایسا اجالا آج لے لینگے\nکہا عباس نے آقا۔۔۔",
+  "styling": [
+    {
+      "insert": "کہا عباس نے آقا کا منشا آج لے لینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کے لئے عباس اعدا سے دریا آج لے لینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی کے شیر ہیں عباس کے تیور بتاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستمگاروں کے قبضے سے یہ دریا آج لے لینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا عباس نے آقا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nستمگاروں سے یہ عون و محمد رن میں کہتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حملے دیار شام و کوفہ آج لے لینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا عباس نے آقا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nولادت کہہ رہی ہے بت شکن کی صحن کعبہ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا والے بتوں سے اپنا کعبہ آج لے لینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا عباس نے آقا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجی ہے کربلا تیروں سے تلواروں سے نیزوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ انصار حسینی جانے کیا کیا آج لے لینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا عباس نے آقا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنکل جائےگی حسرت جنگ کی عباس کہتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کی سفارش کا سہارا آج لے لینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا عباس نے آقا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے جس سے عظمت کعبہ زمین کربلا بولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جبین شاہ دیں سے ہم وہ سجدہ آج لے لینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا عباس نے آقا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی ابنِ کریمہ کا ہو یہ حر شہ سے کہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم اپنے ہاتھ سے دامن تمہارا آج لے لینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا عباس نے آقا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالٹ کر آستیں عباس بے دینوں سے کہتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دریا ہی نہیں ہم ساری دنیا آج لے لینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا عباس نے آقا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم آتے ہیں کہا عباس نے اے لشکر اعدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو کل دریا تمہارا تھا وہ دریا آج لے لینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا عباس نے آقا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجھپک جاے نگاہِ برق جسکو دیکھ کر سالک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی مدح سے ایسا اجالا آج لے لینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا عباس نے آقا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Salik Lakhnavi",
   "anjumans": [],
   "verified": false

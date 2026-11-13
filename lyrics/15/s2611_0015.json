@@ -1,12 +1,612 @@
 {
   "remoteId": "s2611_0015",
-  "title": "Agar Aaj Maa Hoti",
+  "title": "اگر آج ماں ہوتی",
   "body": "ہو گئی دفن زہراؑ کی میت\nگھر میں ہر سمت چھایا اندھیرا\nدیکھا زینبؑ نے سرور کی جانب\nایک کونے میں چُپ ہے اکیلا\nپاس آ کے یہ زینبؑ پکاری\nکچھ تو بولو بہن سے اے بھیا\nبولے شبیرؑ زینبؑ سے رو کر\nکیا بتاؤں تمہیں میری بہنا\n<<DIVIDER>>\nمطلع:\nمیں غم اپنے ان کو سناتا سبھی\nاگر آج ماں ہوتی\nکبھی مجھے پہ آفت نہ آتی کوئی\nاگر آج ماں ہوتی\n<<DIVIDER>>\n۱-\nپریشانیاں مجھ پہ آتیں بھی گر\nکبھی آنکھ میری نہیں ہوتی تر\nسکوں کی طلب جب بھی ہوتی مجھے\nتو آغوش میں ماں کی رکھ دیتا سر\nبسر چین سے ہوتی یہ زندگی\nاگر آج ماں ہوتی\n<<DIVIDER>>\n۲-\nجو دل پہ گزرتی سناتا انہیں\nمیں ہر  زخم اپنا دکھاتا انہیں\nوہ اپنی ردا میں چھپاتی مجھے\nمیں احوال اپنا سناتا انہیں\nوہ دم مجھ پہ کر دیتی نادِ علی\nاگر آج ماں ہوتی\n<<DIVIDER>>\n۳-\nوہ ہاتھوں سے کھانا کھلاتی مجھے\nوہ لوری سنا کے سلاتی مجھے\nمیں اک بار کہتا جوں ہی العطش\nوہ پانی بھی فوراً پلاتی مجھے\nلمحوں میں ہی پیاس بجھتی مری\nاگر آج ماں ہوتی\n<<DIVIDER>>\n۴-\nانہیں ساری امت ستاتی رہی\nوہ چھپ چھپ کے آنسو بہاتی رہی\nخبر تک ہمیں ماں نے ہونے نہ دی\nوہ زخموں کو ہم سے چھپاتی رہی\nمیں زخموں پہ مرہم لگاتا ابھی\nاگر آج ماں ہوتی\n<<DIVIDER>>\n۵-\nکبھی چین سے اب نہ سوؤں گا میں\nکہ اب جانے کس کس کو کھوؤں گا میں\nہے نزدیک وہ دن کہ میدان میں\nبھرے گھر کو تنہا ہی روؤں گا میں\nکبھی مجھ پہ آتی نہ مشکل گھڑی\nاگر آج ماں ہوتی\n<<DIVIDER>>\n۶-\nکہا تو کے زینبؑ نے آؤ حسینؑ\nگلے سے بہن کو لگاؤ حسینؑ\nچھپاؤ نہ زینبؑ سے رنج و الم\nجو احوالِ دل ہے سناؤ حسینؑ\nمجھے ہے یقیں ماں بھی کرتی یہی\nاگر آج ماں ہوتی\n<<DIVIDER>>\n۷۔\nپکاری جری شہ سے وہ دل حزیں\nتمہیں روتا میں دیکھ سکتی نہیں\nرہوں گی سدا ساتھ ماں کی طرح\nمدینہ ہو یا کربلا کی زمیں\nقسم تم کو میری نہ کہنا اخی\nاگر آج ماں ہوتی",
+  "styling": [
+    {
+      "insert": "ہو گئی دفن زہراؑ کی میت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں ہر سمت چھایا اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا زینبؑ نے سرور کی جانب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک کونے میں چُپ ہے اکیلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاس آ کے یہ زینبؑ پکاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ تو بولو بہن سے اے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے شبیرؑ زینبؑ سے رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بتاؤں تمہیں میری بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمطلع:"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں غم اپنے ان کو سناتا سبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر آج ماں ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی مجھے پہ آفت نہ آتی کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر آج ماں ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n۱-"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پریشانیاں مجھ پہ آتیں بھی گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی آنکھ میری نہیں ہوتی تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکوں کی طلب جب بھی ہوتی مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو آغوش میں ماں کی رکھ دیتا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بسر چین سے ہوتی یہ زندگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر آج ماں ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n۲-"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو دل پہ گزرتی سناتا انہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ہر  زخم اپنا دکھاتا انہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ اپنی ردا میں چھپاتی مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں احوال اپنا سناتا انہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ دم مجھ پہ کر دیتی نادِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر آج ماں ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n۳-"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ہاتھوں سے کھانا کھلاتی مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ لوری سنا کے سلاتی مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں اک بار کہتا جوں ہی العطش"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ پانی بھی فوراً پلاتی مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لمحوں میں ہی پیاس بجھتی مری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر آج ماں ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n۴-"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انہیں ساری امت ستاتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ چھپ چھپ کے آنسو بہاتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خبر تک ہمیں ماں نے ہونے نہ دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ زخموں کو ہم سے چھپاتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں زخموں پہ مرہم لگاتا ابھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر آج ماں ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n۵-"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی چین سے اب نہ سوؤں گا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اب جانے کس کس کو کھوؤں گا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے نزدیک وہ دن کہ میدان میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھرے گھر کو تنہا ہی روؤں گا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی مجھ پہ آتی نہ مشکل گھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر آج ماں ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n۶-"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا تو کے زینبؑ نے آؤ حسینؑ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلے سے بہن کو لگاؤ حسینؑ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھپاؤ نہ زینبؑ سے رنج و الم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو احوالِ دل ہے سناؤ حسینؑ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے ہے یقیں ماں بھی کرتی یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر آج ماں ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n۷۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکاری جری شہ سے وہ دل حزیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں روتا میں دیکھ سکتی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہوں گی سدا ساتھ ماں کی طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدینہ ہو یا کربلا کی زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قسم تم کو میری نہ کہنا اخی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر آج ماں ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "group": 2026,
   "author": "Jary Raza",
   "anjumans": [],

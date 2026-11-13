@@ -1,7 +1,377 @@
 {
   "remoteId": "g2611_u1559",
-  "title": "Hum kaise chale jaye",
+  "title": "ہم کیسے چلے جائیں",
   "body": "عاشور کی شب کرتے تھے اصحاب یہ نوحہ\nہم کیسے چلے جائیں تمہیں چھوڑ کے مولا\n<<DIVIDER>>\nکوزے لئے ہاتھوں میں ہیں معصوم سے بچے\nان پیاسوں کو پانی کی بڑی آس ہے ہم سے\nمرجائیں گے یہ گر ہمیں جاتے ہوئے دیکھا\nہم کیسے چلے جائیں۔۔۔\nعاشور کی شب کرتے ۔۔۔\n<<DIVIDER>>\nمانا کہ ضرورت نہیں حضرت کو ہماری\nعباس سے بھائی ہیں حفاظت کو تمہاری\nزہرا کو مگر پھر بھی ہے منہ ہم نے دیکھانا\nہم کیسے چلے جائیں۔۔۔\nعاشور کی شب کرتے ۔۔۔\n<<DIVIDER>>\nآنکھوں میں نظر آتی ہے بچی کی غریبی\nڈرتی ہے کہ تنہائی نہ بڑھ جائے پدر کی\nآ آ کے ہمیں تکتی ہے حسرت سے سکینہ\nہم کیسے چلے جائیں۔۔۔\nعاشور کی شب کرتے ۔۔۔\n<<DIVIDER>>\nجس روز سے آباد کیا تم نے یہ جنگل\nاک بی بی یہاںروتی ہے راتوں کو مسلسل\nلگتا ہے لحد چھوڑ کے خود آئی ہے زہرا\nہم کیسے چلے جائیں۔۔۔\nعاشور کی شب کرتے ۔۔۔\n<<DIVIDER>>\nکیا عالمِ غربت نبی زادی پہ پڑا ہے\nکہنے کی نہیں بات مگر ہم نے سنا ہے\nہے آپ کی زینب کو بہت ہم پہ بھروسہ\nہم کیسے چلے جائیں۔۔۔\nعاشور کی شب کرتے ۔۔۔\n<<DIVIDER>>\nسینا علی اکبر کا بہت چوم رہے ہو\nجو تم پہ گزرتی ہے وہ معلوم ہے ہم کو\nہم لوگ بھی تو صاحبِ اولاد ہیں آقا\nہم کیسے چلے جائیں۔۔۔\nعاشور کی شب کرتے ۔۔۔\n<<DIVIDER>>\nاکبر جو دیئے خیمے میں غازی نے جلائے\nتھا ایسا سمائ شہ کے بھی آنسو نکل آئے\nتلوار گلے پر رکھے ہر شخص تھا کہتا\nہم کیسے چلے جائیں۔۔۔\nعاشور کی شب کرتے ۔۔۔",
+  "styling": [
+    {
+      "insert": "عاشور کی شب کرتے تھے اصحاب یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کیسے چلے جائیں تمہیں چھوڑ کے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوزے لئے ہاتھوں میں ہیں معصوم سے بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان پیاسوں کو پانی کی بڑی آس ہے ہم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرجائیں گے یہ گر ہمیں جاتے ہوئے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کیسے چلے جائیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کی شب کرتے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمانا کہ ضرورت نہیں حضرت کو ہماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس سے بھائی ہیں حفاظت کو تمہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کو مگر پھر بھی ہے منہ ہم نے دیکھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کیسے چلے جائیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کی شب کرتے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھوں میں نظر آتی ہے بچی کی غریبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈرتی ہے کہ تنہائی نہ بڑھ جائے پدر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ آ کے ہمیں تکتی ہے حسرت سے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کیسے چلے جائیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کی شب کرتے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس روز سے آباد کیا تم نے یہ جنگل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بی بی یہاںروتی ہے راتوں کو مسلسل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگتا ہے لحد چھوڑ کے خود آئی ہے زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کیسے چلے جائیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کی شب کرتے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا عالمِ غربت نبی زادی پہ پڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنے کی نہیں بات مگر ہم نے سنا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آپ کی زینب کو بہت ہم پہ بھروسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کیسے چلے جائیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کی شب کرتے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسینا علی اکبر کا بہت چوم رہے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو تم پہ گزرتی ہے وہ معلوم ہے ہم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم لوگ بھی تو صاحبِ اولاد ہیں آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کیسے چلے جائیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کی شب کرتے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر جو دیئے خیمے میں غازی نے جلائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا ایسا سمائ شہ کے بھی آنسو نکل آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تلوار گلے پر رکھے ہر شخص تھا کہتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کیسے چلے جائیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کی شب کرتے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

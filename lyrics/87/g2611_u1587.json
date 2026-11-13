@@ -1,12 +1,332 @@
 {
   "remoteId": "g2611_u1587",
-  "title": "Hussain haye hussain",
+  "title": "حسین ہاے حسین",
   "body": "کہاں سے لاؤں بھرا گھر حسین ہاے حسین\nپکاری زینب مضطر حسین ہاے حسین\n<<DIVIDER>>\nتمہارے بعد تو اب جب بھی شام آتی ہے\nسروں کو در سے پٹکنے کی کام آتی ہے\nبرستے رہتے ہیں آنکھوں سے تا سحر سبکی\nلہو بھرے ہوے منظر حسین ہاے حسین\nپکاری زینب مضطر۔۔۔\n<<DIVIDER>>\nپلٹ کے عون و محمد بھی گھر نہیں آتے\nاب ام لیلیٰ کو اکبر نظر نہیں آتے\nتڑپتی رہتی ہے قاسم کی یاد میں فروہ\nرباب کہتی ہے اصغر حسین ہاے حسین\nپکاری زینب مضطر۔۔۔\n<<DIVIDER>>\nگزر گےء ہیں کیء دن نہ صبر ہے نہ قرار\nتمہیں بلاتی ہے راتوں کو نیند میں کیء بار\nکبھی کبھی یہاں ہم سب سے چھپ کے کونے میں\nسکینہ روتی ہے اکثر حسین ہاے حسین\nپکاری زینب مضطر۔۔۔\n<<DIVIDER>>\nکٹے جو پانی کی خاطر قریب نہر فرات\nوہی تو تھے میرے بازو وہی تو تھے میرے ہاتھ\nملا ہوا ہے دل و جاں میں زخم کی صورت\nہے جسکا نام الم پر حسین ہاے حسین\nپکاری زینب مضطر۔۔۔\n<<DIVIDER>>\nبدن تھا جسم علی کا لہو رسول کا تھا\nجگر حسن کا تھا سینے میں دل بتول کا تھا\nوہ جسم چھوڑ کے آی ہوں تپتے صحرا میں\nوہ سر ہے نوکِ سِناں پر حسین ہاے حسین\nپکاری زینب مضطر۔۔۔\n<<DIVIDER>>\nجو ہم پہ ٹوٹ گیا آسمان رنج و محن\nقیام قید میں ہوتا ہے اور سفر میں رسن\nاسیری بے بسی و بیکسی کے عالم میں\nمیرا سلام ہو تم پر حسین ہاے حسین\nپکاری زینب مضطر۔۔۔",
+  "styling": [
+    {
+      "insert": "کہاں سے لاؤں بھرا گھر حسین ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکاری زینب مضطر حسین ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہارے بعد تو اب جب بھی شام آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سروں کو در سے پٹکنے کی کام آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برستے رہتے ہیں آنکھوں سے تا سحر سبکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو بھرے ہوے منظر حسین ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکاری زینب مضطر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپلٹ کے عون و محمد بھی گھر نہیں آتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ام لیلیٰ کو اکبر نظر نہیں آتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپتی رہتی ہے قاسم کی یاد میں فروہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رباب کہتی ہے اصغر حسین ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکاری زینب مضطر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگزر گےء ہیں کیء دن نہ صبر ہے نہ قرار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں بلاتی ہے راتوں کو نیند میں کیء بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی کبھی یہاں ہم سب سے چھپ کے کونے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ روتی ہے اکثر حسین ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکاری زینب مضطر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکٹے جو پانی کی خاطر قریب نہر فرات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہی تو تھے میرے بازو وہی تو تھے میرے ہاتھ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملا ہوا ہے دل و جاں میں زخم کی صورت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے جسکا نام الم پر حسین ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکاری زینب مضطر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبدن تھا جسم علی کا لہو رسول کا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جگر حسن کا تھا سینے میں دل بتول کا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جسم چھوڑ کے آی ہوں تپتے صحرا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ سر ہے نوکِ سِناں پر حسین ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکاری زینب مضطر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو ہم پہ ٹوٹ گیا آسمان رنج و محن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیام قید میں ہوتا ہے اور سفر میں رسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسیری بے بسی و بیکسی کے عالم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا سلام ہو تم پر حسین ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکاری زینب مضطر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Husnain",
   "anjumans": [],
   "verified": false

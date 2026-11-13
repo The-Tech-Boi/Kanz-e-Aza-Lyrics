@@ -1,12 +1,311 @@
 {
   "remoteId": "g2611_u2719",
-  "title": "Qayame shah mein",
+  "title": "خیام شاہ میں",
   "body": "محشر کا ہے منظر\nہاے ہاے ہاے ہاے\n<<DIVIDER>>\nخیام شاہ میں محشر بپا ہے\nکوئی مقتل کی جانب جا رہا ہے\n<<DIVIDER>>\nجسے پالا مرادوں منتوں سے\nاسی کو اذن مرنے کا دیا ہے\nخیام شاہ میں۔۔۔\n<<DIVIDER>>\nکہا شہ نے یہ لیلیٰ سے نہ رو کو\nعلی اکبر شباب کربلا ہے\nخیام شاہ میں۔۔۔\n<<DIVIDER>>\nکہاں ڈھونڈوں نظر میں کچھ نہیں ہے\nجدھر دیکھو اندھیرا چھا گیا ہے\nخیام شاہ میں۔۔۔\n<<DIVIDER>>\nاسی کا خوں بہاتے ہیں مسلماں\nجو ہمشکل محمد مصطفیٰ ہے\nخیام شاہ میں۔۔۔\n<<DIVIDER>>\nزمین کربلا بتلادے مجھکو\nمیرا لختِ جگر کس جا گرا ہے\nخیام شاہ میں۔۔۔\n<<DIVIDER>>\nیہ بولے شہ علی اکبر صدا دو\nپدر ہر گام ٹھوکر کھا رہا ہے\nخیام شاہ میں۔۔۔\n<<DIVIDER>>\nجواں بیٹے کے لاشے کو اٹھانا\nحسین ابنِ علی کا معجزہ ہے\nخیام شاہ میں۔۔۔\n<<DIVIDER>>\nفرید اس غم کی عظمت کیا بیاں ہو\nیہ وہ غم ہے کہ زینب بے ردا ہے\nخیام شاہ میں۔۔۔",
+  "styling": [
+    {
+      "insert": "محشر کا ہے منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے ہاے ہاے ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیام شاہ میں محشر بپا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مقتل کی جانب جا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجسے پالا مرادوں منتوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی کو اذن مرنے کا دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیام شاہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا شہ نے یہ لیلیٰ سے نہ رو کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی اکبر شباب کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیام شاہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہاں ڈھونڈوں نظر میں کچھ نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جدھر دیکھو اندھیرا چھا گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیام شاہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسی کا خوں بہاتے ہیں مسلماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ہمشکل محمد مصطفیٰ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیام شاہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزمین کربلا بتلادے مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا لختِ جگر کس جا گرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیام شاہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ بولے شہ علی اکبر صدا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پدر ہر گام ٹھوکر کھا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیام شاہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجواں بیٹے کے لاشے کو اٹھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین ابنِ علی کا معجزہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیام شاہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرید اس غم کی عظمت کیا بیاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وہ غم ہے کہ زینب بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیام شاہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Fareed Baig",
   "anjumans": [],
   "verified": false

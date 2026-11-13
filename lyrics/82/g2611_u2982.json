@@ -1,12 +1,576 @@
 {
   "remoteId": "g2611_u2982",
-  "title": "Shaam e ghariban",
+  "title": "وہ شام غریباں",
   "body": "ہاے شام غریباں\nاے شام غریباں\n<<DIVIDER>>\nسو چکا تھا لشکر رو رہا تھا دریا\nجلتے ہوے خیموں کی پہرہ دار\nعلمدار\nتھی زینب تشنہ کام کیا شام\nکیا شام تھی وہ شام غریباں\nجلتے‌ خیمے اور دھواں\nکیا شام کیا شام\n<<DIVIDER>>\nجلتی زمیں پر آل عبا تھی\nکربوبلا بھی محوِ بکا تھی\nسادات اس عالم میں تھے لاچار\nعلمدار\nتھی زینب تشنہ کام کیا شام\nکیا شام تھی وہ شام غریباں\nجلتے‌ خیمے اور دھواں۔۔۔\n<<DIVIDER>>\nزیر علم بیٹھی تھی سکینہ\nڈھونڈ رہی تھی بابا کا سینہ\nکوئی نہ تھا اس بچی کا غم خوار\nعلمدار\nتھی زینب تشنہ کام کیا شام\nکیا شام تھی وہ شام غریباں\nجلتے‌ خیمے اور دھواں۔۔۔\n<<DIVIDER>>\nرنج و علم کا بوجھ اٹھا کر\nعابد کو شعلوں سے بچا کر\nتنہا بھرے کنبے کی ماتم دار\nعلمدار\nتھی زینب تشنہ کام کیا شام\nکیا شام تھی وہ شام غریباں\nجلتے‌ خیمے اور دھواں۔۔۔\n<<DIVIDER>>\nجل گےء خیمے چھن گیء چادر\nاس عالم میں آ گےء حیدر\nیہ دیکھ کے رونے لگے زار و زار\nعلمدار\nتھی زینب تشنہ کام کیا شام\nکیا شام تھی وہ شام غریباں\nجلتے‌ خیمے اور دھواں۔۔۔\n<<DIVIDER>>\nایک سناں پر بہن کی چادر\nایک نیزہ پر بھای کا سر\nیہ دیکھ کے ہے رونے لگی اک بار\nعلمدار\nتھی زینب تشنہ کام کیا شام\nکیا شام تھی وہ شام غریباں\nجلتے‌ خیمے اور دھواں۔۔۔\n<<DIVIDER>>\nمل کے گلے سجاد اور باقر\nرونے لگے سجاد اور باقر\nکہتے تھے تڑپ کر ہاے پردہ دار\nعلمدار\nتھی زینب تشنہ کام کیا شام\nکیا شام تھی وہ شام غریباں\nجلتے‌ خیمے اور دھواں۔۔۔\n<<DIVIDER>>\nمجلس میں سب محوِ بکا ہے\nمظہر اور عرفانِ عزا ہے\nسر پیٹ کے کہتے ہے ماتم دار\nعلمدار\nتھی زینب تشنہ کام کیا شام\nکیا شام تھی وہ شام غریباں\nجلتے‌ خیمے اور دھواں۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسو چکا تھا لشکر رو رہا تھا دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے ہوے خیموں کی پہرہ دار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی زینب تشنہ کام کیا شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا شام تھی وہ شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے‌ خیمے اور دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا شام کیا شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلتی زمیں پر آل عبا تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا بھی محوِ بکا تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سادات اس عالم میں تھے لاچار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی زینب تشنہ کام کیا شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا شام تھی وہ شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے‌ خیمے اور دھواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزیر علم بیٹھی تھی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈ رہی تھی بابا کا سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہ تھا اس بچی کا غم خوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی زینب تشنہ کام کیا شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا شام تھی وہ شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے‌ خیمے اور دھواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرنج و علم کا بوجھ اٹھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کو شعلوں سے بچا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا بھرے کنبے کی ماتم دار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی زینب تشنہ کام کیا شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا شام تھی وہ شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے‌ خیمے اور دھواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجل گےء خیمے چھن گیء چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس عالم میں آ گےء حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دیکھ کے رونے لگے زار و زار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی زینب تشنہ کام کیا شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا شام تھی وہ شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے‌ خیمے اور دھواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک سناں پر بہن کی چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک نیزہ پر بھای کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دیکھ کے ہے رونے لگی اک بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی زینب تشنہ کام کیا شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا شام تھی وہ شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے‌ خیمے اور دھواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمل کے گلے سجاد اور باقر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے لگے سجاد اور باقر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے تڑپ کر ہاے پردہ دار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی زینب تشنہ کام کیا شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا شام تھی وہ شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے‌ خیمے اور دھواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجلس میں سب محوِ بکا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظہر اور عرفانِ عزا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹ کے کہتے ہے ماتم دار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی زینب تشنہ کام کیا شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا شام تھی وہ شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے‌ خیمے اور دھواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

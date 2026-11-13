@@ -1,12 +1,455 @@
 {
   "remoteId": "g2611_u1700",
-  "title": "Jab chand moharram",
+  "title": "جب چاند محرم",
   "body": "جب چاند محرم کا دیکھا\nمظلوم کا قصہ یاد آیا\n<<DIVIDER>>\nیثرب کی اداسی یاد آی\nاور اجڑا مدینہ یاد آیا\n<<DIVIDER>>\nدیکھا جو مہہ نو گردوں پر\nخوں بہنے لگا آنسوں بن کر\nنیزے کی انی کے ساتھ جواں\nبیٹے کا کلیجہ یاد آیا\nیثرب کی اداسی۔۔۔\n<<DIVIDER>>\nقابو نہ رہا کچھ بھی دل پر\nسینے میں لگا غم کا نشتر\nجب چاند کو دیکھا مثل کماں\nبے شیر کا قصہ یاد آیا\nیثرب کی اداسی۔۔۔\n<<DIVIDER>>\nمقتل میں جو پہنچی فوج خدا\nتھرای زمیں گردوں کانپا\nشبیر کو صحرا یاد آیا\nعباس کو دریا یاد آیا\nیثرب کی اداسی۔۔۔\n<<DIVIDER>>\nہاتھوں سے کلیجہ تھام لیا\nاور دیکھ کے مقتل کو روے\nجب سرور دیں کو وقت سفر\nصغرا کا تڑپنا یاد آیا\nیثرب کی اداسی۔۔۔\n<<DIVIDER>>\nجب بزم حسینی میں دیکھا\nلہراتے ہوئے پرچم حق کا\nدریا کی ترای یاد آی\nعباس کا شانہ یاد آیا\nیثرب کی اداسی۔۔۔\n<<DIVIDER>>\nناقے سے تڑپ کر مانجای\nمقتل میں گری بے حوش ہوی\nجب زیر فلک بے گور و کفن\nمانجاے کا لاشہ یاد آیا\nیثرب کی اداسی۔۔۔\n<<DIVIDER>>\nچونک اٹھتی تھی سوتے میں اکثر\nراتوں کو رباب خستہ جگر\nزنداں کے اندھیرے میں اس کو\nگودی کا اجالا یاد آیا\nیثرب کی اداسی۔۔۔\n<<DIVIDER>>\nکوفے میں جو پہنچے آل نبی\nپابند رسن تھے سب قیدی\nحیدر کی دلاری بیٹی کو\nبابا کا زمانہ یاد آیا\nیثرب کی اداسی۔۔۔",
+  "styling": [
+    {
+      "insert": "جب چاند محرم کا دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم کا قصہ یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیثرب کی اداسی یاد آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اجڑا مدینہ یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھا جو مہہ نو گردوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں بہنے لگا آنسوں بن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے کی انی کے ساتھ جواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹے کا کلیجہ یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یثرب کی اداسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقابو نہ رہا کچھ بھی دل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے میں لگا غم کا نشتر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب چاند کو دیکھا مثل کماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے شیر کا قصہ یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یثرب کی اداسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل میں جو پہنچی فوج خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھرای زمیں گردوں کانپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کو صحرا یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کو دریا یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یثرب کی اداسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھوں سے کلیجہ تھام لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور دیکھ کے مقتل کو روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سرور دیں کو وقت سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا کا تڑپنا یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یثرب کی اداسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب بزم حسینی میں دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہراتے ہوئے پرچم حق کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کی ترای یاد آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا شانہ یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یثرب کی اداسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nناقے سے تڑپ کر مانجای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں گری بے حوش ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب زیر فلک بے گور و کفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانجاے کا لاشہ یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یثرب کی اداسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچونک اٹھتی تھی سوتے میں اکثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راتوں کو رباب خستہ جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کے اندھیرے میں اس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گودی کا اجالا یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یثرب کی اداسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوفے میں جو پہنچے آل نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پابند رسن تھے سب قیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کی دلاری بیٹی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کا زمانہ یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یثرب کی اداسی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ibtedaye Ayyam e Aza",
+  "subcategory": "ابتدائے ایام عزا",
   "anjumans": [],
   "verified": false
 }

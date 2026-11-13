@@ -1,12 +1,546 @@
 {
   "remoteId": "g2611_u0744",
-  "title": "Ay shiyon jab peena",
+  "title": "اے شیعوں جب پینا",
   "body": "فرماتی ہے یہ دختر سلطان کربلا\nنکلی میں خیمہ گاہ سے مقتل کا رخ کیا\nجس دم میں پہنچی لاش پدر پر بصد بکا\nآتی تھی صاف حلق بریدہ سے یہ صدا\n<<DIVIDER>>\nشیعتی ما امشرب تم ما عزبن فزکرونی\nاو سمے تم بے غریبن و شاہدین فندوبونی\n<<DIVIDER>>\nاے شیعوں جب پینا پانی بھول نہ جانے مجھے\nذکر غربت یا شہادت ہو تو رو لینا مجھے\n<<DIVIDER>>\nگھاٹ پر دریا کے پہریدار تھے سب اشقیاں\nکی بہت کوشش مگر خطرہ نہ پانی مل سکا\nتین دن تک میرا کنبہ پانی کو تڑپا کیا\nشیعتی ما۔۔۔\nاے شیعوں جب۔۔۔\n<<DIVIDER>>\nپیاسے دنیا سے گےء زینب کے دو لختِ جگر\nہو گیا پامال پیاسا بھای کا نورِ نظر\nتشنہ لب رخصت ہوا کڑیل جواں میرا پسر\nشیعتی ما۔۔۔\nاے شیعوں جب۔۔۔\n<<DIVIDER>>\nبھای نے دریا پہ قبضہ کر کے مشکیزہ بھرا\nپیاسا تھا پیاسا ہی خیمہ گاہ سے غازی چلا\nہاے رے تقدیر پانی مشک سے سب بہہ گیا\nشیعتی ما۔۔۔\nاے شیعوں جب۔۔۔\n<<DIVIDER>>\nدوستوں میں ہوں نواسہ سید کونین کا\nظلم ڈھاے اشقیاں نے مجھ پر بے جرم و خطا\nبعد کو اہل دغا نے کٹا خنجر سے گلا\nشیعتی ما۔۔۔\nاے شیعوں جب۔۔۔\n<<DIVIDER>>\nایک گھٹن کے لئے بزدل نے کی انگلی خطا\nلے گیا مالک بسر کا بیٹا عمامہ میرا\nخیص بن اشس ہمارا جامعہ تن لے ‌گیا\nشیعتی ما۔۔۔\nاے شیعوں جب۔۔۔\n<<DIVIDER>>\nقتل کر کے اے شیعوں پھر دشمنوں نے کیا کیا\nکاٹ کر سر سبط پیغمبر کا نیزے پہ رکھا\nلاشہء بے سر کو پھر گھوڑوں سے ٹکڑے کر دیا\nشیعتی ما۔۔۔\nاے شیعوں جب۔۔۔\n<<DIVIDER>>\nپاس اگر ہوتے شیعہ میرے نہ ہوتا ایسا حال\nاس گھڑی شدت سے آیا تھا میرے دل میں خیال\nپانی کا اصغر کی خاطر کر رہا تھا جب سوال\nشیعتی ما۔۔۔\nاے شیعوں جب۔۔۔\n<<DIVIDER>>\nروح فرس ہاے وہ منظر جو کوئی دیکھا\nقلب پھٹ جاتا جو پانی مانگنے پر کی جفا\nچھیدا پیکان جفا سے ننھے اصغر کا گلا\nشیعتی ما۔۔۔\nاے شیعوں جب۔۔۔\n<<DIVIDER>>\nجب کیا بالی سکینہ نے یہ زینب سے بیاں\nشدت غم سے بندھی بنت علی کی ہچکیاں\nقتل گاہ سے اے انیس آتی تھی آواز فغاں\nشیعتی ما۔۔۔\nاے شیعوں جب۔۔۔",
+  "styling": [
+    {
+      "insert": "فرماتی ہے یہ دختر سلطان کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکلی میں خیمہ گاہ سے مقتل کا رخ کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس دم میں پہنچی لاش پدر پر بصد بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی تھی صاف حلق بریدہ سے یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشیعتی ما امشرب تم ما عزبن فزکرونی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "او سمے تم بے غریبن و شاہدین فندوبونی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شیعوں جب پینا پانی بھول نہ جانے مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذکر غربت یا شہادت ہو تو رو لینا مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھاٹ پر دریا کے پہریدار تھے سب اشقیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کی بہت کوشش مگر خطرہ نہ پانی مل سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تین دن تک میرا کنبہ پانی کو تڑپا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیعتی ما۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیعوں جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاسے دنیا سے گےء زینب کے دو لختِ جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیا پامال پیاسا بھای کا نورِ نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تشنہ لب رخصت ہوا کڑیل جواں میرا پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیعتی ما۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیعوں جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای نے دریا پہ قبضہ کر کے مشکیزہ بھرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسا تھا پیاسا ہی خیمہ گاہ سے غازی چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے رے تقدیر پانی مشک سے سب بہہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیعتی ما۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیعوں جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدوستوں میں ہوں نواسہ سید کونین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم ڈھاے اشقیاں نے مجھ پر بے جرم و خطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد کو اہل دغا نے کٹا خنجر سے گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیعتی ما۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیعوں جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک گھٹن کے لئے بزدل نے کی انگلی خطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے گیا مالک بسر کا بیٹا عمامہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیص بن اشس ہمارا جامعہ تن لے ‌گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیعتی ما۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیعوں جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقتل کر کے اے شیعوں پھر دشمنوں نے کیا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاٹ کر سر سبط پیغمبر کا نیزے پہ رکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہء بے سر کو پھر گھوڑوں سے ٹکڑے کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیعتی ما۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیعوں جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپاس اگر ہوتے شیعہ میرے نہ ہوتا ایسا حال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس گھڑی شدت سے آیا تھا میرے دل میں خیال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی کا اصغر کی خاطر کر رہا تھا جب سوال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیعتی ما۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیعوں جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروح فرس ہاے وہ منظر جو کوئی دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلب پھٹ جاتا جو پانی مانگنے پر کی جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھیدا پیکان جفا سے ننھے اصغر کا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیعتی ما۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیعوں جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب کیا بالی سکینہ نے یہ زینب سے بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شدت غم سے بندھی بنت علی کی ہچکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل گاہ سے اے انیس آتی تھی آواز فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیعتی ما۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیعوں جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Anees",
   "anjumans": [],
   "verified": false

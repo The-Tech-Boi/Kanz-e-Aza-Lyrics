@@ -1,7 +1,445 @@
 {
   "remoteId": "g2611_u2425",
-  "title": "Mere maula aao",
+  "title": "میرے مولا آئو",
   "body": "میرے مولا آئو کہ مدت ہوئی ہے\nستم ظالموں کے اُٹھاتے اُٹھاتے\nتیرے دشمنوں کی گزرتی ہے مولا\nتیرے دوستوں کو ستاتے ستاتے\n<<DIVIDER>>\nگزرتی ہے جیسے گزاریں گے مولا\nنہ ہاری ہے ہمت نہ ہاریں گے مولا\nستم تھک گیا ہے ہوئے کُند خنجر\nلہو مومنوں کا بہاتے بہاتے\nمیرے مولا آئو۔۔۔\n<<DIVIDER>>\nکہیں نوحہ ماتم کہیں آہ و زاری\nسفر کربلا کا مسلسل ہے جاری\nجھکے جا رہے ہیں ضعیفوں کے کندھے\nجوانوں کی لاشیں اُٹھاتے اُٹھاتے\nمیرے مولا آئو۔۔۔\n<<DIVIDER>>\nلعینوں نے ہم پر مظالم وہ ڈھائے\nجواں سال لاشوں پہ لاشے اُٹھائے\nچلے ہیں شہادت کا سہرا سجائے\nوہ شادی کا سہرا سجاتے سجاتے\nمیرے مولا آئو۔۔۔\n<<DIVIDER>>\nجو بہنیں ہیں زندہ تو بھائی نہیں ہیں\nہیں ماں باپ باقی تو بیٹے نہیں ہیں\nجو بیٹے ہیں باقی تو سایہ نہیں ہے\nجگر کانپتا ہے بتاتے بتاتے\nمیرے مولا آئو۔۔۔\n<<DIVIDER>>\nگھروں سے چلے تھے جو پُرسے کی خاطر\nوہ مارے گئے راستوں میں مسافر\nکبھی جاتے جاتے جلوسِ عزا میں\nکبھی مشہد و کربلا جاتے جاتے\nمیرے مولا آئو۔۔۔\n<<DIVIDER>>\nتھی صغریٰ کے لب پر صدا یہ دوہائی\nچلے آئو بابا چلے آئو بھائی\nاٹکتی ہیںسینے میں اب میری سانسیں\nتمہیں دیر ہو جائے نہ آتے آتے\nمیرے مولا آئو۔۔۔\n<<DIVIDER>>\nزباں سے جو کی بات اُس نے نبھا لی\nپیا ٹھنڈا پانی نہ سائے میں آئی\nزمانے سے اُٹھی ہے اصغر کی مادر\nکلائیوں میں جھولا جھولاتے جھولاتے\nمیرے مولا آئو۔۔۔\n<<DIVIDER>>\nخُدا جانتا ہے وہ کیسا تھا منظر\nکلیجے پہ عابد کے چلتے تھے خنجر\nجوانی ضعیفی کے در پر کھڑی تھی\nسکینہ کی تُربت بناتے بناتے\nمیرے مولا آئو۔۔۔",
+  "styling": [
+    {
+      "insert": "میرے مولا آئو کہ مدت ہوئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم ظالموں کے اُٹھاتے اُٹھاتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے دشمنوں کی گزرتی ہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے دوستوں کو ستاتے ستاتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگزرتی ہے جیسے گزاریں گے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ہاری ہے ہمت نہ ہاریں گے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم تھک گیا ہے ہوئے کُند خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو مومنوں کا بہاتے بہاتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آئو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہیں نوحہ ماتم کہیں آہ و زاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر کربلا کا مسلسل ہے جاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھکے جا رہے ہیں ضعیفوں کے کندھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوانوں کی لاشیں اُٹھاتے اُٹھاتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آئو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلعینوں نے ہم پر مظالم وہ ڈھائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جواں سال لاشوں پہ لاشے اُٹھائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے ہیں شہادت کا سہرا سجائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شادی کا سہرا سجاتے سجاتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آئو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو بہنیں ہیں زندہ تو بھائی نہیں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہیں ماں باپ باقی تو بیٹے نہیں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو بیٹے ہیں باقی تو سایہ نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جگر کانپتا ہے بتاتے بتاتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آئو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھروں سے چلے تھے جو پُرسے کی خاطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ مارے گئے راستوں میں مسافر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی جاتے جاتے جلوسِ عزا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی مشہد و کربلا جاتے جاتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آئو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھی صغریٰ کے لب پر صدا یہ دوہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے آئو بابا چلے آئو بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹکتی ہیںسینے میں اب میری سانسیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں دیر ہو جائے نہ آتے آتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آئو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزباں سے جو کی بات اُس نے نبھا لی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیا ٹھنڈا پانی نہ سائے میں آئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمانے سے اُٹھی ہے اصغر کی مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلائیوں میں جھولا جھولاتے جھولاتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آئو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخُدا جانتا ہے وہ کیسا تھا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلیجے پہ عابد کے چلتے تھے خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوانی ضعیفی کے در پر کھڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کی تُربت بناتے بناتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آئو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -1,12 +1,278 @@
 {
   "remoteId": "g2611_u2100",
-  "title": "Laasha jari ka",
+  "title": "لاشہ جری کا",
   "body": "لاشہ جری اک خیمے میں لایا نہ جا سکا\nپیاسوں کی تشنگی کو بُجھایا نہ جا سکا\n<<DIVIDER>>\nشہہ بولے بھائی ہم سے خفا ہو گئے ہو کیا\nدیکھو ہماری سمت ہلائو تو لب ذرا\nکیوں بھائی دیکھ کے ہم کو بلایا نہ جا سکا\nلاشہ جری کا ۔۔۔\n<<DIVIDER>>\nزانو پہ سر رکھے روتے رہے امام\nغازی تڑپ کر بولے فداآپ پہ غلام\nخدمت کا حق بھی ہم سے چُکایا نہ جا سکا\nلاشہ جری کا ۔۔۔\n<<DIVIDER>>\nزخمی میری سکینہ کا مشکیزہ ہو گیا\nمولا اب اس کے بعد میں جی کر کروں گا کای\nافسوس ہائے وعدہ نبھایا نہ جا سکا\nلاشہ جری کا ۔۔۔\n<<DIVIDER>>\nخیمے کی سمت جانے کی باقی رہی نہ تاب\nشہہ بولے دونگا کیا میں سکینہ کو جواب\nغازی نہیں یہ راز چھُپایا نہ جا سکا\nلاشہ جری کا ۔۔۔\n<<DIVIDER>>\nبازو کٹا کے نہر پہ عباس سو گئے\nمولا حسین دشت میں بے آس ہو گئے\nبھائی کو حالِ دل بھی سُنایا نہ جا سکا\nلاشہ جری کا ۔۔۔\n<<DIVIDER>>\nجیتی ہے جنگ کس نے بتا دشتِ نینوا\nکس کا طواف کرتی ہے خود نہرِ علقمہ\nقبضہ ثمر جاری سے چھُڑایا نہ جا سکا\nلاشہ جری کا ۔۔۔",
+  "styling": [
+    {
+      "insert": "لاشہ جری اک خیمے میں لایا نہ جا سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسوں کی تشنگی کو بُجھایا نہ جا سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہہ بولے بھائی ہم سے خفا ہو گئے ہو کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو ہماری سمت ہلائو تو لب ذرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں بھائی دیکھ کے ہم کو بلایا نہ جا سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ جری کا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزانو پہ سر رکھے روتے رہے امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی تڑپ کر بولے فداآپ پہ غلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدمت کا حق بھی ہم سے چُکایا نہ جا سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ جری کا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخمی میری سکینہ کا مشکیزہ ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا اب اس کے بعد میں جی کر کروں گا کای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افسوس ہائے وعدہ نبھایا نہ جا سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ جری کا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے کی سمت جانے کی باقی رہی نہ تاب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہہ بولے دونگا کیا میں سکینہ کو جواب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی نہیں یہ راز چھُپایا نہ جا سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ جری کا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازو کٹا کے نہر پہ عباس سو گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا حسین دشت میں بے آس ہو گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی کو حالِ دل بھی سُنایا نہ جا سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ جری کا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجیتی ہے جنگ کس نے بتا دشتِ نینوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کا طواف کرتی ہے خود نہرِ علقمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبضہ ثمر جاری سے چھُڑایا نہ جا سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ جری کا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Samar Zaidi",
   "anjumans": [],
   "verified": false

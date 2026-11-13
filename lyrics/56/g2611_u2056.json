@@ -1,12 +1,520 @@
 {
   "remoteId": "g2611_u2056",
-  "title": "Koi nai hussain ka",
+  "title": "کوئی نہیں حسین کا",
   "body": "ہنگام عصر کا منظر ہے\nنہ غازی نہ کوئی لشکر ہے\nوا غربتا اے وا غربتا\nکوئی نہیں حسین کا بیگانے دیس میں\nھل من کی ہے صدا\n---کوئی نہیں حسین کا\n<<DIVIDER>>\nہے عصر کا سماں روتا ہے آسماں\nہے آخری اذاں غم سے ہے نیم جاں\nحسین یا حسین\nحسین بادشاہ\nاکیلا رہ گیا\nوہ گھر لٹا چکا\nبچا کے دیں تیرا\nخدا اے خدا اے خدا اے خدا\nکنبہ اجڑ گیا بیگانے دیس میں\nکوئی نہیں حسین کا بیگانے دیس میں\nھل من کی ہے صدا\n---کوئی نہیں حسین کا\n<<DIVIDER>>\nلاشے اٹھا چکا گھر بھی لٹا چکا\nہر ایک لاش پر آنسوں بہا چکا\nحسین یا حسین\nحسین بادشاہ\nاکیلا رہ گیا\nوہ گھر لٹا چکا\nبچا کے دیں تیرا\nخدا اے خدا اے خدا اے خدا\nروتا ہے ذوالجناح بیگانے دیس میں\nکوئی نہیں حسین کا بیگانے دیس میں\nھل من کی ہے صدا\n---کوئی نہیں حسین کا\n<<DIVIDER>>\nلاکھوں میں گھر گیا مظلوم کربلا\nدے کس کو اب صدا غازی تو سوگیا\nحسین یا حسین\nحسین بادشاہ\nاکیلا رہ گیا\nوہ گھر لٹا چکا\nبچا کے دیں تیرا\nخدا اے خدا اے خدا اے خدا\nلشکر بچھڑ گیا بیگانے دیس میں\nکوئی نہیں حسین کا بیگانے دیس میں\nھل من کی ہے صدا\n---کوئی نہیں حسین کا\n<<DIVIDER>>\nزینب کی تھی صدا اے وا مصیبتا\nنانا تیرا حسین گھوڑے سے گر گیا\nحسین یا حسین\nحسین بادشاہ\nاکیلا رہ گیا\nوہ گھر لٹا چکا\nبچا کے دیں تیرا\nخدا اے خدا اے خدا اے خدا\nزینب کی تھی صدا بیگانے دیس میں\nکوئی نہیں حسین کا بیگانے دیس میں\nھل من کی ہے صدا\n---کوئی نہیں حسین کا",
+  "styling": [
+    {
+      "insert": "ہنگام عصر کا منظر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ غازی نہ کوئی لشکر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وا غربتا اے وا غربتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہیں حسین کا بیگانے دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ھل من کی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کوئی نہیں حسین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے عصر کا سماں روتا ہے آسماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آخری اذاں غم سے ہے نیم جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین بادشاہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکیلا رہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ گھر لٹا چکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچا کے دیں تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا اے خدا اے خدا اے خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کنبہ اجڑ گیا بیگانے دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہیں حسین کا بیگانے دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ھل من کی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کوئی نہیں حسین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشے اٹھا چکا گھر بھی لٹا چکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک لاش پر آنسوں بہا چکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین بادشاہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکیلا رہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ گھر لٹا چکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچا کے دیں تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا اے خدا اے خدا اے خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتا ہے ذوالجناح بیگانے دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہیں حسین کا بیگانے دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ھل من کی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کوئی نہیں حسین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاکھوں میں گھر گیا مظلوم کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے کس کو اب صدا غازی تو سوگیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین بادشاہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکیلا رہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ گھر لٹا چکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچا کے دیں تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا اے خدا اے خدا اے خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لشکر بچھڑ گیا بیگانے دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہیں حسین کا بیگانے دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ھل من کی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کوئی نہیں حسین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کی تھی صدا اے وا مصیبتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا تیرا حسین گھوڑے سے گر گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین بادشاہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکیلا رہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ گھر لٹا چکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچا کے دیں تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا اے خدا اے خدا اے خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی تھی صدا بیگانے دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہیں حسین کا بیگانے دیس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ھل من کی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کوئی نہیں حسین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

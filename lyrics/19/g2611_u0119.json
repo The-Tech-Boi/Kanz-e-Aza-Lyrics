@@ -1,12 +1,446 @@
 {
   "remoteId": "g2611_u0119",
-  "title": "Aap jo dil pe sina",
+  "title": "آپ جو دل پہ سناں",
   "body": "جو حال دل کا ہے نہ سنو گے حسین سے\n<<DIVIDER>>\nآپ جو دل پہ سناں کھا کے گزر جایینگے\nہم جو مرتے بھی نہ ہوییں گے تو مرجاینگے\n<<DIVIDER>>\nجانتا ہوں کہ شجاعت ہے وراست تیری\nاپنے دادا کی طرح سے ہے طبیعت تیری\nتم نہ جانو گے مگر باپ کی حالت اکبر\nکیسے دے دوں تمہیں مرنے کی اجازت اکبر\nآپ جو دل پہ سناں۔۔۔\n<<DIVIDER>>\nنور جاتا ہے تیرے ساتھ میری آنکھوں کا\nکچھ نظر آتا نہیں مجھکو ابھی سے بیٹا\nجو گیا ساتھ تیرے لوٹ کے نہ آے گا\nآپ کے ساتھ میرا دل بھی چلا جاے گا\nآپ جو دل پہ سناں۔۔۔\n<<DIVIDER>>\nیہ ہی دستور زمانے کا رہا ہے دلبر\nباپ مرتا ہے تو میت کو اٹھاتا ہے پسر\nتم دیےء جاتے ہو ہم کو غمِ تازہ اکبر\nہم سے اٹھے گا کہاں تیرا جنازہ اکبر\nآپ جو دل پہ سناں۔۔۔\n<<DIVIDER>>\nآپ کو برچھیاں کھانے کی بڑی جلدی ہے\nجانے کیوں جان سے جانے بڑی جلدی ہے\nٹہرو ٹہرو کے زرا کارے عبادت کرلوں\nآخری بار میں نانا کی ذیارت کرلوں\nآپ جو دل پہ سناں۔۔۔\n<<DIVIDER>>\nرن میں اس بات کا احساس میری جان رہے\nلاکھ ہو جوش وغا پھر بھی تمہیں دھیان رہے\nبرچھی والوں پہ نظر اپنی جماے رکھنا\nاپنے سینے کو میرے لال بچاے رکھنا\nآپ جو دل پہ سناں۔۔۔\n<<DIVIDER>>\nایک ماں ہے کہ جسے سوگ منانا ہے تیرا\nاک بہن ہے کہ تیرا دیکھ رہی رستہ\nایک تم ہو کہ جسے جان لٹانی ہے ابھی\nاک ہم ہیں کہ تیری لاش اٹھانی ہے ابھی\nآپ جو دل پہ سناں۔۔۔\n<<DIVIDER>>\nسب سے انمول خزینہ ہو میرے سینے کا\nہو سبب آپ میرے لال میرے جینے کا\nسارے عالم میں رہے اونچا وقار حیدر\nسو پسر ہوتے تو کر دیتا نثار حیدر\nآپ جو دل پہ سناں۔۔۔\n<<DIVIDER>>\nاپنے مولا کی عطاؤں سے کمی کوئی نہیں\nبس رضا اک تمنا ہے میرے دل میں مکیں\nمیری محنت کی مجھے بس یہ جزا دے مولا\nجب میرا نوحہ سنے مجھکو دعا دے مولا\nآپ جو دل پہ سناں۔۔۔",
+  "styling": [
+    {
+      "insert": "جو حال دل کا ہے نہ سنو گے حسین سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ جو دل پہ سناں کھا کے گزر جایینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم جو مرتے بھی نہ ہوییں گے تو مرجاینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانتا ہوں کہ شجاعت ہے وراست تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے دادا کی طرح سے ہے طبیعت تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم نہ جانو گے مگر باپ کی حالت اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے دے دوں تمہیں مرنے کی اجازت اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جو دل پہ سناں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنور جاتا ہے تیرے ساتھ میری آنکھوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ نظر آتا نہیں مجھکو ابھی سے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو گیا ساتھ تیرے لوٹ کے نہ آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے ساتھ میرا دل بھی چلا جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جو دل پہ سناں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ ہی دستور زمانے کا رہا ہے دلبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ مرتا ہے تو میت کو اٹھاتا ہے پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم دیےء جاتے ہو ہم کو غمِ تازہ اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سے اٹھے گا کہاں تیرا جنازہ اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جو دل پہ سناں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کو برچھیاں کھانے کی بڑی جلدی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے کیوں جان سے جانے بڑی جلدی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹہرو ٹہرو کے زرا کارے عبادت کرلوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری بار میں نانا کی ذیارت کرلوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جو دل پہ سناں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرن میں اس بات کا احساس میری جان رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاکھ ہو جوش وغا پھر بھی تمہیں دھیان رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برچھی والوں پہ نظر اپنی جماے رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے سینے کو میرے لال بچاے رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جو دل پہ سناں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک ماں ہے کہ جسے سوگ منانا ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بہن ہے کہ تیرا دیکھ رہی رستہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک تم ہو کہ جسے جان لٹانی ہے ابھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ہم ہیں کہ تیری لاش اٹھانی ہے ابھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جو دل پہ سناں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب سے انمول خزینہ ہو میرے سینے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو سبب آپ میرے لال میرے جینے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سارے عالم میں رہے اونچا وقار حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو پسر ہوتے تو کر دیتا نثار حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جو دل پہ سناں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے مولا کی عطاؤں سے کمی کوئی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس رضا اک تمنا ہے میرے دل میں مکیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری محنت کی مجھے بس یہ جزا دے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب میرا نوحہ سنے مجھکو دعا دے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جو دل پہ سناں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Raza Shah",
   "anjumans": [],
   "verified": false

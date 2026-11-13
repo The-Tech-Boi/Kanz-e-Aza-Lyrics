@@ -1,12 +1,368 @@
 {
   "remoteId": "g2611_u1769",
-  "title": "Jari diler alamdar",
+  "title": "جری دلیرِ علمدار",
   "body": "جری دلیرِ علمدار با وفا عباس\nحسینیت کا سہارا پیعمبری کا بھرم\nجو چھا گیا درِ صحرا مثالِ ابرِ کرم\nہوئے ہیں ہاتھ قلم پھر بھی جھُک سکا نہ علم\nجہانِ صبر کو جینا سیکھا گیا عباس\nجری دلیرِ علمدار ۔۔۔\n<<DIVIDER>>\nجو زورِ بازوئے شبیر کربلا میں رہا\nوہ پہرادارِ حرم تاجدارِ اہلِ وفا\nفرات جس کی شہادت پر آب آب ہوا\nخاموش رِہ کے جہاں کو رُلا گیا عباس\nجری دلیرِ علمدار ۔۔۔\n<<DIVIDER>>\nابھی تو ساحلِ دریا پہ ہے وہی پہرا\nابھی تو اصغرِ بے شیر بھی نہیں سویا\nابھی تو جاگ رہے ہیں خیام میں بچے\nنہ جانے کے لیے مقتل میں سو گیا عباس\nجری دلیر علمدار۔۔۔\n<<DIVIDER>>\nرسن پہن کے یہ کہتی تھی رو کے بنتِ علی\nتمہارے بعدکوئی دل میں آس بھی نہ رہی\nجلے خیام بھی جاگیرِ فاطمہ بھی لُٹی\nغضب کے چھِن گئی سر سے میری ردا عباس\nجری دلیرِ علمدار ۔۔۔\n<<DIVIDER>>\nکروں شجاعتِ عباس کس طرح سے بیاں\nنہ میرے پاس وہ دل ہے نہ میرے پاس زباں\nیہی بہت ہے کہ مقتل میں ہو کے نوحہ بجاں\nہر اک شہید نے گِرتے ہوئے کہا عباس\nجری دلیرِ علمدار ۔۔۔\n<<DIVIDER>>\nلکھا ہے یہ لُفِ تاریخ پر بقعد سے جلی\nوفا کی رسم تو عباسِ نوجواں سے چلی\nزمانے بھر کا سہارا حسین ابنِ علی\nحسین ابنِ علی کا ہے آسرا عباس\nجری دلیرِ علمدار ۔۔۔\n<<DIVIDER>>\nکریں حشر میںناصر حسین کا ماتم\nجری کے ساتھ شاہِ مشرقین کا ماتم\nعلم کے ساتھ سکینہ کے بین کا ماتم\nلبِ فرات پہ پیاسا جو سو گیا عباس\nجری دلیرِ علمدار ۔۔۔",
+  "styling": [
+    {
+      "insert": "جری دلیرِ علمدار با وفا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسینیت کا سہارا پیعمبری کا بھرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو چھا گیا درِ صحرا مثالِ ابرِ کرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوئے ہیں ہاتھ قلم پھر بھی جھُک سکا نہ علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جہانِ صبر کو جینا سیکھا گیا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جری دلیرِ علمدار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو زورِ بازوئے شبیر کربلا میں رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ پہرادارِ حرم تاجدارِ اہلِ وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرات جس کی شہادت پر آب آب ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش رِہ کے جہاں کو رُلا گیا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جری دلیرِ علمدار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nابھی تو ساحلِ دریا پہ ہے وہی پہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی تو اصغرِ بے شیر بھی نہیں سویا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی تو جاگ رہے ہیں خیام میں بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے کے لیے مقتل میں سو گیا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جری دلیر علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرسن پہن کے یہ کہتی تھی رو کے بنتِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے بعدکوئی دل میں آس بھی نہ رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلے خیام بھی جاگیرِ فاطمہ بھی لُٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غضب کے چھِن گئی سر سے میری ردا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جری دلیرِ علمدار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکروں شجاعتِ عباس کس طرح سے بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ میرے پاس وہ دل ہے نہ میرے پاس زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی بہت ہے کہ مقتل میں ہو کے نوحہ بجاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر اک شہید نے گِرتے ہوئے کہا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جری دلیرِ علمدار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلکھا ہے یہ لُفِ تاریخ پر بقعد سے جلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفا کی رسم تو عباسِ نوجواں سے چلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمانے بھر کا سہارا حسین ابنِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین ابنِ علی کا ہے آسرا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جری دلیرِ علمدار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکریں حشر میںناصر حسین کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جری کے ساتھ شاہِ مشرقین کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم کے ساتھ سکینہ کے بین کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لبِ فرات پہ پیاسا جو سو گیا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جری دلیرِ علمدار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "anjumans": [],
   "verified": false
 }

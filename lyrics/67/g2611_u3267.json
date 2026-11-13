@@ -1,12 +1,463 @@
 {
   "remoteId": "g2611_u3267",
-  "title": "Uthaye huwe godh",
+  "title": "اٹھائے ہوئے گود",
   "body": "اٹھائے ہوئے گود میں سر پدر کا\nسکینہ یہ کہتی تھیں لے کر بلائیں\n<<DIVIDER>>\nسناتی ہوں میں قید خانے کی باتیں\nمجھے آپ مقتل کی باتیں سنائیں\n<<DIVIDER>>\nلبوں پہ چھڑی آپ کہ جب لگی تھی\nمیں دربار میں سامنے ہی کھڑی تھی\nلگائے طمانچے مجھے جب شقی نے\nنظر آپ کی میری جانب اٹھی تھی\nیہ سب نیل چہروں کہ شاہد ہیں کیسے\nہمیں شام والوں نے دی ہیں سزائیں\nاٹھائے ہوئے گود میں۔۔۔\n<<DIVIDER>>\nمیں ناقے پہ تھی آپ نیزے پہ بابا\nمیرے پاس سے سر کبھی جو گزرتا\nمیں ناقے سے خود کو زمیں پر گراتی\nلعیں آ کے بالوں سے مجھ کو اٹھاتا\nمیرا کون تھا جسکو آواز دیتی\nکسے کہتی ظالم سے آ کر بچائیں\nاٹھائے ہوئے گود میں۔۔۔\n<<DIVIDER>>\nرسن ایک تھی اور بارہ گلے تھے\nیوں ہم لوگ بازار میں چل رہے تھے\nمیں کمسن تھی ہمراہ چلنا تھا مشکل\nسو اک موڑ پر گر پڑی لڑکھڑا کے\nبڑی مشکلوں سے اٹھایا پھوپھی نے\nلعینوں کی خواہش تھی بس روند جائیں\nاٹھائے ہوئے گود میں۔۔۔\n<<DIVIDER>>\nمسلسل ستم کر رہے رھے تھے ستمگر\nبہت خوش تھے وہ کاٹ کر آپ کا سر\nعجب آگ تھی شام والوں کے دل میں\nنہ ٹھنڈا ہوا دل جو خنجر چلا کر\nستایا ہے یوں آپ کو ظالموں نے\nوہیں سر رکھا رکھی جس جا ردائیں\nاٹھائے ہوئے گود میں۔۔۔\n<<DIVIDER>>\nکہیں تھی میں قیدن کہیں تھی یتیمہ\nنئے شہر میں نام میرا نیا تھا\nسفر نے مجھے اتنے القاب بخشے\nکہ میں بھول بیٹھی تھی خود نام اپنا\nمیں یہ سارے دکھ بھول جاؤں گی بابا\nسکینہ جو اک بار کہ کر بلائیں\nاٹھائے ہوئے گود میں۔۔۔\n<<DIVIDER>>\nلحد میں یہ بابا سے بولی وہ اکبر\nمجھے یاد ہے کربلا کا وہ منظر\nکی سینے میں تھے تیر پیوست ہر جا\nمیں کس طرح سوؤنگی زخموں کے اوپر\nمیں کہتی نہیں مجھکو سینے لگائیں\nمجھے آج بس خاک پر ہی سلائیں\nاٹھائے ہوئے گود میں۔۔۔",
+  "styling": [
+    {
+      "insert": "اٹھائے ہوئے گود میں سر پدر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ یہ کہتی تھیں لے کر بلائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسناتی ہوں میں قید خانے کی باتیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے آپ مقتل کی باتیں سنائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلبوں پہ چھڑی آپ کہ جب لگی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں دربار میں سامنے ہی کھڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگائے طمانچے مجھے جب شقی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نظر آپ کی میری جانب اٹھی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سب نیل چہروں کہ شاہد ہیں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیں شام والوں نے دی ہیں سزائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھائے ہوئے گود میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں ناقے پہ تھی آپ نیزے پہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے پاس سے سر کبھی جو گزرتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ناقے سے خود کو زمیں پر گراتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعیں آ کے بالوں سے مجھ کو اٹھاتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا کون تھا جسکو آواز دیتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسے کہتی ظالم سے آ کر بچائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھائے ہوئے گود میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرسن ایک تھی اور بارہ گلے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں ہم لوگ بازار میں چل رہے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کمسن تھی ہمراہ چلنا تھا مشکل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو اک موڑ پر گر پڑی لڑکھڑا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑی مشکلوں سے اٹھایا پھوپھی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعینوں کی خواہش تھی بس روند جائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھائے ہوئے گود میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسلسل ستم کر رہے رھے تھے ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت خوش تھے وہ کاٹ کر آپ کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجب آگ تھی شام والوں کے دل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ٹھنڈا ہوا دل جو خنجر چلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستایا ہے یوں آپ کو ظالموں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہیں سر رکھا رکھی جس جا ردائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھائے ہوئے گود میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہیں تھی میں قیدن کہیں تھی یتیمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نئے شہر میں نام میرا نیا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر نے مجھے اتنے القاب بخشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ میں بھول بیٹھی تھی خود نام اپنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں یہ سارے دکھ بھول جاؤں گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ جو اک بار کہ کر بلائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھائے ہوئے گود میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلحد میں یہ بابا سے بولی وہ اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے یاد ہے کربلا کا وہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کی سینے میں تھے تیر پیوست ہر جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کس طرح سوؤنگی زخموں کے اوپر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کہتی نہیں مجھکو سینے لگائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے آج بس خاک پر ہی سلائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھائے ہوئے گود میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

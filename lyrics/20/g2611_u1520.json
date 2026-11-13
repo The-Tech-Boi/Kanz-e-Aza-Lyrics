@@ -1,12 +1,486 @@
 {
   "remoteId": "g2611_u1520",
-  "title": "Haye zindan tera",
+  "title": "ہاے زندان تیرا",
   "body": "میری مظلوم بہنا سکینہ\nمیری معصوم بہنا سکینہ\nبولے سجاد شانہ ہلا کر\nسکینہ سکینہ\n<<DIVIDER>>\nہاے زندان تیرا وطن بن گیا\nخوں بھرا تیرا کرتا کفن بن گیا\n<<DIVIDER>>\nکیا کروں قید خانہ ہے یہ گھر نہیں\nغسل دینے کو پانی میسر نہیں\nاور کفناوءں کیسے کہ چادر نہیں\nبیکسی اور غربت میں اے غم زدہ\n...خوں بھرا تیرا\n...ہاے زندان تیرا\n<<DIVIDER>>\nجب تو رویء طمانچوں کی پایء سزا\nبالیاں چھن گئی اور دامن جلا\nاور کانوں کے خوں سے ہے کرتا بھرا\nہاے تجھکو کفن بھی نہیں مل سکا\n...خوں بھرا تیرا\n...ہاے زندان تیرا\n<<DIVIDER>>\nتو اندھیروں سے ڈرتی رہی میری جاں\nباپ کے غم میں روتی رہی میری جاں\nگھر چلو ماں سے کہتی رہی میری جاں\nتیرا ارمان پورا نہیں ہو سکا\n...خوں بھرا تیرا\n...ہاے زندان تیرا\n<<DIVIDER>>\nایسی بچھڑی کہ پھر باپ سے نہ ملی\nچھٹ کے بابا سے زنداں کی قیدی بنی\nہاے یہ بات سجاد کو کھا گیء\nہاے تیروں سے ان کا کفن بن گیا\n...خوں بھرا تیرا\n...ہاے زندان تیرا\n<<DIVIDER>>\nتجھکو زنداں میں بابا کا سر جو ملا\nتو نے بابا کے منہ پر جو منہ کو رکھا\nاتنا رویء کہ زنداں لرزنے لگا\nروتے روتے ہی آیء ہے تجھ کو قضاء\n...خوں بھرا تیرا\n...ہاے زندان تیرا\n<<DIVIDER>>\nکم سنی میں ستم تو نے کتنے سہے\nچار سالہ یتیمہ میں صدقے تیرے\nبعد عاشور سویء نہیں چین سے\nچین مرکے بھی تجھ کو نہیں مل سکا\n...خوں بھرا تیرا\n...ہاے زندان تیرا\n<<DIVIDER>>\nہاے فرحان و مظہر عجب وقت تھا\nاس یتیمہ کا جس دم جنازہ اٹھا\nبیبیوں میں بپا ایک کہرام تھا\nسب نے قبر سکینہ پہ نوحہ کیا\n...خوں بھرا تیرا\n...ہاے زندان تیرا",
+  "styling": [
+    {
+      "insert": "میری مظلوم بہنا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری معصوم بہنا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے سجاد شانہ ہلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے زندان تیرا وطن بن گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں بھرا تیرا کرتا کفن بن گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا کروں قید خانہ ہے یہ گھر نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غسل دینے کو پانی میسر نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور کفناوءں کیسے کہ چادر نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسی اور غربت میں اے غم زدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...خوں بھرا تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے زندان تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب تو رویء طمانچوں کی پایء سزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالیاں چھن گئی اور دامن جلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور کانوں کے خوں سے ہے کرتا بھرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تجھکو کفن بھی نہیں مل سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...خوں بھرا تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے زندان تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو اندھیروں سے ڈرتی رہی میری جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کے غم میں روتی رہی میری جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو ماں سے کہتی رہی میری جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا ارمان پورا نہیں ہو سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...خوں بھرا تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے زندان تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایسی بچھڑی کہ پھر باپ سے نہ ملی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھٹ کے بابا سے زنداں کی قیدی بنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے یہ بات سجاد کو کھا گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تیروں سے ان کا کفن بن گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...خوں بھرا تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے زندان تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتجھکو زنداں میں بابا کا سر جو ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو نے بابا کے منہ پر جو منہ کو رکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا رویء کہ زنداں لرزنے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے روتے ہی آیء ہے تجھ کو قضاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...خوں بھرا تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے زندان تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکم سنی میں ستم تو نے کتنے سہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چار سالہ یتیمہ میں صدقے تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد عاشور سویء نہیں چین سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چین مرکے بھی تجھ کو نہیں مل سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...خوں بھرا تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے زندان تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے فرحان و مظہر عجب وقت تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس یتیمہ کا جس دم جنازہ اٹھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیبیوں میں بپا ایک کہرام تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب نے قبر سکینہ پہ نوحہ کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...خوں بھرا تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے زندان تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

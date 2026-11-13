@@ -1,12 +1,409 @@
 {
   "remoteId": "g2611_u1980",
-  "title": "Khaali jhoola",
+  "title": "خالی جھولا",
   "body": "آجا اصغر لوری سناؤں\nخالی جھولا کیسے جھلاوں\n<<DIVIDER>>\nدل سے لگاؤں ناز اٹھاؤں\nآجا اصغر لوری سناؤں\n<<DIVIDER>>\nکالے گیسوں رنگ سنہرے\nکتنا حسیں تو چاند ہے میرا\nخاک و لہو میں لیکن ڈوبا\nپھولوں جیسا تیرا چہرہ\nدھوپ میں رن کی کیسے بچاؤں\nآجا اصغر۔۔۔\n<<DIVIDER>>\nایک ایک پہلو تیری خوشبو\nچاروں طرف ہے میرے پھیلی\nتیرا کرتہ تیرا شلوکہ\nایسے بسا ہے یاد میں میری\nجتنا سوچوں ڈوبتی جاؤں\nآجا اصغر۔۔۔\n<<DIVIDER>>\nچاند سے بڑھ کے تیرا اجالا\nمیں نے سفر میں تجھکو پالا\nرہ گیء حسرت گھر کے صحن میں\nنہ تو چلا اور نہ تو کھیلا\nانگلی پکڑ کر تجھکو چلاؤں\nآجا اصغر۔۔۔\n<<DIVIDER>>\nاکبر میرا پہنے صحرا\nتم کو بناؤں میں شہ والا\nمخمل جیسے پھولوں والا\nچھوٹا سا ایک پیارا صحرا\nسر پہ تمہارے بیٹا سجاؤں\nآجا اصغر۔۔۔\n<<DIVIDER>>\nنازک سے گردن پہ تمہاری\nمیں نے سنا ہے زخم لگا ہے\nکیسا ستم ظالم نے کیا ہے\nتو چھوٹا ہے تیر بڑا ہے\nروتی جاؤں کہتی جاؤں\nآجا اصغر۔۔۔\n<<DIVIDER>>\nکیوں نہ پڑے سلمان و رضا ہم\nنوحے کے صورت میں لوری\nلوری سنانے کی حسرت تھی\nجو نہ ہوی مادر کی پوری\nکہتی تھی میں مر نہ جاؤں\nآجا اصغر۔۔۔",
+  "styling": [
+    {
+      "insert": "آجا اصغر لوری سناؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خالی جھولا کیسے جھلاوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل سے لگاؤں ناز اٹھاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اصغر لوری سناؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکالے گیسوں رنگ سنہرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنا حسیں تو چاند ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک و لہو میں لیکن ڈوبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھولوں جیسا تیرا چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دھوپ میں رن کی کیسے بچاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اصغر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک ایک پہلو تیری خوشبو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاروں طرف ہے میرے پھیلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا کرتہ تیرا شلوکہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے بسا ہے یاد میں میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جتنا سوچوں ڈوبتی جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اصغر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاند سے بڑھ کے تیرا اجالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے سفر میں تجھکو پالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ گیء حسرت گھر کے صحن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ تو چلا اور نہ تو کھیلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انگلی پکڑ کر تجھکو چلاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اصغر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر میرا پہنے صحرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو بناؤں میں شہ والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مخمل جیسے پھولوں والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوٹا سا ایک پیارا صحرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پہ تمہارے بیٹا سجاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اصغر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنازک سے گردن پہ تمہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے سنا ہے زخم لگا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا ستم ظالم نے کیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو چھوٹا ہے تیر بڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی جاؤں کہتی جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اصغر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں نہ پڑے سلمان و رضا ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحے کے صورت میں لوری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوری سنانے کی حسرت تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو نہ ہوی مادر کی پوری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی میں مر نہ جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اصغر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Salman Azmi",
   "anjumans": [],
   "verified": false

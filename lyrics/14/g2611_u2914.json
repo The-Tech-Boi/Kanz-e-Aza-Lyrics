@@ -1,12 +1,505 @@
 {
   "remoteId": "g2611_u2914",
-  "title": "Sakina ye pardes hai",
+  "title": "سکینہ یہ پردیس ہے",
   "body": "سکینہ یہ پردیس ہے\n<<DIVIDER>>\nوہ شام کا بے سکوں قید کھانا\nہر سو اداسی تھی ہر سو اندھیرا\nہجرے پدر میں تڑپتی تھی بچی\nبانو یہ رو رو کے سمجھا رہی تھی\nبابا سے ملنے کی ضد نہ کرو\nسکینہ یہ پردیس ہے\n<<DIVIDER>>\nنہ روز و شب ایسے رویا کرو\nسکینہ یہ پردیس ہے\n<<DIVIDER>>\nمارے گا تم کو طمانچے ستمگار\nروے گی زندان میں گر تڑپ کر\nتم سے ہے یہ التجا میری مضطر\nراتوں کو اٹھ کر نہ رویا کرو\nسکینہ یہ پردیس ہے۔۔۔\n<<DIVIDER>>\nکیوں قید فریاد و آہ و بکا ہے\nہر سانس زنداں میں اک سزا ہے\nکیوں تیرے رونے پہ پہرہ لگا ہے\nاک بات ہر وقت سونچا کرو\nسکینہ یہ پردیس ہے۔۔۔\n<<DIVIDER>>\nیہ نیلے رخسار غم کی ستای\nزخمی گلا اور یہ کان زخمی\nزنداں میں کسکو دکھاؤگی بی بی\nہم درد کوی نہ ڈھونڈا کرو\nسکینہ یہ پردیس ہے۔۔۔\n<<DIVIDER>>\nجب شور گریاں جگاتا ہے اسکو\nدرے ستمگر لگاتا ہے تم کو\nاے میری بچی اگر رونا چاہو\nسینہ میں گھٹ گھٹ کے رویا کرو\nسکینہ یہ پردیس ہے۔۔۔\n<<DIVIDER>>\nآے نگے بابا یہ سونچا تھا بی بی\nقسمت میں لیکن کہاں یہ خوشی تھی\nیہ خاک زنداں ہے قسمت تمہاری\nاب تم خدا پہ ہی تکیہ کرو\nسکینہ یہ پردیس ہے۔۔۔\n<<DIVIDER>>\nیہ زخم کیسے بھریں گے تمہارے\nنہ شہر اپنا ہے لوگ اپنے\nدرے ہی مرحم کے بدلے ملیں گے\nمرحم کی امید اب نہ کرو\nسکینہ یہ پردیس ہے۔۔۔\n<<DIVIDER>>\nرونے سے حاصل بھی کیا میری دکھیا\nیہ شام والے تو سنگ دل ہے بیٹا\nتم کو دلاسے یہاں کون دیگا\nماتم کرو چاہے نوحہ کرو\nسکینہ یہ پردیس ہے۔۔۔\n<<DIVIDER>>\nصفدر یہ رو رو کے کہتی تھی بانو\nاے میری بچی میری بات مانو\nاس شہر غم کو وطن تم نہ جانو\nہر زخم دل پہ اٹھایا کرو\nسکینہ یہ پردیس ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "سکینہ یہ پردیس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ شام کا بے سکوں قید کھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سو اداسی تھی ہر سو اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہجرے پدر میں تڑپتی تھی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بانو یہ رو رو کے سمجھا رہی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا سے ملنے کی ضد نہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ یہ پردیس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ روز و شب ایسے رویا کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ یہ پردیس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمارے گا تم کو طمانچے ستمگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روے گی زندان میں گر تڑپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم سے ہے یہ التجا میری مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راتوں کو اٹھ کر نہ رویا کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ یہ پردیس ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں قید فریاد و آہ و بکا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سانس زنداں میں اک سزا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں تیرے رونے پہ پہرہ لگا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بات ہر وقت سونچا کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ یہ پردیس ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ نیلے رخسار غم کی ستای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی گلا اور یہ کان زخمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں کسکو دکھاؤگی بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم درد کوی نہ ڈھونڈا کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ یہ پردیس ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب شور گریاں جگاتا ہے اسکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درے ستمگر لگاتا ہے تم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میری بچی اگر رونا چاہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینہ میں گھٹ گھٹ کے رویا کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ یہ پردیس ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآے نگے بابا یہ سونچا تھا بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قسمت میں لیکن کہاں یہ خوشی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ خاک زنداں ہے قسمت تمہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تم خدا پہ ہی تکیہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ یہ پردیس ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ زخم کیسے بھریں گے تمہارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ شہر اپنا ہے لوگ اپنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درے ہی مرحم کے بدلے ملیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرحم کی امید اب نہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ یہ پردیس ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرونے سے حاصل بھی کیا میری دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شام والے تو سنگ دل ہے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو دلاسے یہاں کون دیگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو چاہے نوحہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ یہ پردیس ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصفدر یہ رو رو کے کہتی تھی بانو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میری بچی میری بات مانو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس شہر غم کو وطن تم نہ جانو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر زخم دل پہ اٹھایا کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ یہ پردیس ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

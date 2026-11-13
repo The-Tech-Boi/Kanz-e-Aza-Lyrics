@@ -1,7 +1,387 @@
 {
   "remoteId": "g2611_u0050",
-  "title": "Aaj hai khafile ki",
+  "title": "آج ہے قافلے کی",
   "body": "اٹھو بھیا کے وطن جاتی ہے لاچار بہن\n<<DIVIDER>>\nشمر نے مارا سکینہ تو طمانچے بھیا\nسہم کے خوف سے وہ رونے نہ پای بھیا\nغیض سے کانپ گیء آپ کی لاچار بہن\nاٹھو بھیا کے وطن۔۔۔\n<<DIVIDER>>\nجس گھڑی رنج و بلا سے میں سوے شام گیء\nبالوں سے منہ کو چھپای تھی نہ کچھ دیکھ سکی\nاس لےء کر نہ سکی بھای کا دیدار بہن\nاٹھو بھیا کے وطن۔۔۔\n<<DIVIDER>>\nہاے کرتا تھا دندان سے وہ بے ادبی\nآپ کے سر سے اترا کے پھراتا تھا چھڑی\nہاتھ ملتی تھی تڑپ کر تیری لاچار بہن\nاٹھو بھیا کے وطن۔۔۔\n<<DIVIDER>>\nدر بدر ظالموں نے بھیا پھرایا ہم کو\nچھین کر سر سے ردا قیدی بنایا ہم کو\nننگے سر دیکھ چکی شام کا بازار بہن\nاٹھو بھیا کے وطن۔۔۔\n<<DIVIDER>>\nہم کو کفار کی جانب سے نوازش یہ ہوی\nخوں بہا لے کے خطا بخش کی خواہش یہ ہوی\nکس طرح کرتی قبول آپ کی غم خوار بہن\nاٹھو بھیا کے وطن۔۔۔\n<<DIVIDER>>\nبھیا میں آپ کو دو گز بھی کفن دے نہ سکی\nچلتے چلتے بھی تمہیں پرسہ بہن دے نہ سکی\nکس قدر دشت میں مجبور تھی لاچار بہن\nاٹھو بھیا کے وطن۔۔۔\n<<DIVIDER>>\nدے کے عباس کو آواز بلا دو بھیا\nآ کے تم مجھکو عماری میں بٹھا دو بھیا\nتم سے کرتی ہے یہ منت تیری غم خوار بہن\nاٹھو بھیا کے وطن۔۔۔\n<<DIVIDER>>\nسو چکے نیند سے اٹھو میرے بھیا اٹھو\nاپنی صغرا کے لئے کوی نشانی دے دو\nساتھ ملنے کے لئے کرتی ہے اقرار بہن\nاٹھو بھیا کے وطن۔۔۔\n<<DIVIDER>>\nخون میں ڈوبا ہوا بے شیر کا کرتہ لے کر\nاور سکینہ کا وہ ٹوٹا ہوا بندا لے کر\nنانا کے روضے پہ چلنے کو ہے تیار بہن\nاٹھو بھیا کے وطن۔۔۔",
+  "styling": [
+    {
+      "insert": "اٹھو بھیا کے وطن جاتی ہے لاچار بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشمر نے مارا سکینہ تو طمانچے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہم کے خوف سے وہ رونے نہ پای بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غیض سے کانپ گیء آپ کی لاچار بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو بھیا کے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس گھڑی رنج و بلا سے میں سوے شام گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالوں سے منہ کو چھپای تھی نہ کچھ دیکھ سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس لےء کر نہ سکی بھای کا دیدار بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو بھیا کے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے کرتا تھا دندان سے وہ بے ادبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے سر سے اترا کے پھراتا تھا چھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ ملتی تھی تڑپ کر تیری لاچار بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو بھیا کے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدر بدر ظالموں نے بھیا پھرایا ہم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھین کر سر سے ردا قیدی بنایا ہم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننگے سر دیکھ چکی شام کا بازار بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو بھیا کے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم کو کفار کی جانب سے نوازش یہ ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں بہا لے کے خطا بخش کی خواہش یہ ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح کرتی قبول آپ کی غم خوار بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو بھیا کے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھیا میں آپ کو دو گز بھی کفن دے نہ سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتے چلتے بھی تمہیں پرسہ بہن دے نہ سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس قدر دشت میں مجبور تھی لاچار بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو بھیا کے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدے کے عباس کو آواز بلا دو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ کے تم مجھکو عماری میں بٹھا دو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم سے کرتی ہے یہ منت تیری غم خوار بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو بھیا کے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسو چکے نیند سے اٹھو میرے بھیا اٹھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی صغرا کے لئے کوی نشانی دے دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ ملنے کے لئے کرتی ہے اقرار بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو بھیا کے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون میں ڈوبا ہوا بے شیر کا کرتہ لے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سکینہ کا وہ ٹوٹا ہوا بندا لے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا کے روضے پہ چلنے کو ہے تیار بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو بھیا کے وطن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

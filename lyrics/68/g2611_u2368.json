@@ -1,7 +1,549 @@
 {
   "remoteId": "g2611_u2368",
-  "title": "Mera bhai salamat",
+  "title": "میرا بھای سلامت",
   "body": "اک خون کا رشتہ ہے یہی بول رہا ہے\nبھای بہن کا یہ رشتہ انمول رہا ہے\nبہنا تو ایک نعمت پروردگار ہے\nدنیا میں ہر بہن کو برادر سے پیار ہے\nہاں اس ہی پیار کا یہ اظہار ہے\nدنیا میں ہر بہن کے یہ دل کی پکار ہے\n<<DIVIDER>>\nمیرا بھای سلامت رہے\n<<DIVIDER>>\nہر بہن کا یہ احساس ہے\nبھای میرا میری آس ہے\nبھای جب تک رہے سامنے\nدور غم ہے خوشی پاس ہے\nکیوں نہ دل یہ دعائیں کرے\nمیرا بھای سلامت۔۔۔\n<<DIVIDER>>\nبھای جیسا بھی ہاں مگر\nہے بہن کے لئے خوب تر\nساتھ دیتی ہے ہر موڑ پر\nبھای تکلیف میں ہو اگر\nمنتوں کے پیالے بھرے\nمیرا بھای سلامت۔۔۔\n<<DIVIDER>>\nہر بہن کو یہ ادراک ہے\nہاں یہ رشتہ بڑا پاک ہے\nدور ہوجاے بھای اگر\nزندگی بہن کی خاک ہے\nاس لیےء ہر بہن یہ کہے\nمیرا بھای سلامت۔۔۔\n<<DIVIDER>>\nتھی مدینے میں بھی اک بہن\nاس کو رہتا تھا بس یہ محن\nخیریت سے ہو بھای میرا\nہو نہ جاے غریب الوطن\nرات دن رو کے بس یہ کہے\nمیرا بھای سلامت۔۔۔\n<<DIVIDER>>\nدیکھا چشمِ تصور نے کیا\nایک بہن تھی سر کربلا\nبھای پر آی مشکل گھڑی\nاس نے بچوں کو صدقے کیا\nیہ رہے نہ رہے وہ رہے\nمیرا بھای سلامت۔۔۔\n<<DIVIDER>>\nشب عاشور کا وقت تھا\nایک بہن دے رہی تھی صدا\nاے خدا اے خدا اے خدا\nایک مجبور کی ہے دعا\nگھر جلے چاہے چادر چھنے\nمیرا بھای سلامت۔۔۔\n<<DIVIDER>>\nپانی عمو سے پاے گی وہ\nپاس اصغر کے آے گی وہ\nسب سے چھوٹا ہے بھای میرا\nپانی آیا تو چاہے گی وہ\nمجھ سے پہلے یہ پانی پیےء\nمیرا بھای سلامت۔۔۔\n<<DIVIDER>>\nیاد فرحان آے مجھے\nبی بی زینب کے جو بین تھے\nکیفیت دل کی مظہر لکھو\nجب بہن کوئی رو کر کہے\nمیرا بھای سلامت رہے\nمیرا بھای سلامت۔۔۔",
+  "styling": [
+    {
+      "insert": "اک خون کا رشتہ ہے یہی بول رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای بہن کا یہ رشتہ انمول رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہنا تو ایک نعمت پروردگار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میں ہر بہن کو برادر سے پیار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں اس ہی پیار کا یہ اظہار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میں ہر بہن کے یہ دل کی پکار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا بھای سلامت رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر بہن کا یہ احساس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای میرا میری آس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای جب تک رہے سامنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دور غم ہے خوشی پاس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں نہ دل یہ دعائیں کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بھای سلامت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای جیسا بھی ہاں مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بہن کے لئے خوب تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ دیتی ہے ہر موڑ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای تکلیف میں ہو اگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منتوں کے پیالے بھرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بھای سلامت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر بہن کو یہ ادراک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ رشتہ بڑا پاک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دور ہوجاے بھای اگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندگی بہن کی خاک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس لیےء ہر بہن یہ کہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بھای سلامت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھی مدینے میں بھی اک بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کو رہتا تھا بس یہ محن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیریت سے ہو بھای میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو نہ جاے غریب الوطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات دن رو کے بس یہ کہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بھای سلامت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھا چشمِ تصور نے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بہن تھی سر کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای پر آی مشکل گھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس نے بچوں کو صدقے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ رہے نہ رہے وہ رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بھای سلامت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشب عاشور کا وقت تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بہن دے رہی تھی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے خدا اے خدا اے خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک مجبور کی ہے دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر جلے چاہے چادر چھنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بھای سلامت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپانی عمو سے پاے گی وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاس اصغر کے آے گی وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب سے چھوٹا ہے بھای میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی آیا تو چاہے گی وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ سے پہلے یہ پانی پیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بھای سلامت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد فرحان آے مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی زینب کے جو بین تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیفیت دل کی مظہر لکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب بہن کوئی رو کر کہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بھای سلامت رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بھای سلامت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

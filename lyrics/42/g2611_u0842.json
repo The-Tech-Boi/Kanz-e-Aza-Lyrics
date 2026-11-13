@@ -1,12 +1,482 @@
 {
   "remoteId": "g2611_u0842",
-  "title": "Baba tera ek shab",
+  "title": "بابا تیرا ایک شب",
   "body": "بیٹی سے کہا شہ نے میری جان سکینہ\nبابا تیرا ایک شب کا ہے مہمان سکینہ\n<<DIVIDER>>\nعاشور کی غربت میں اسیری کا سفر میں\nبے رحم زمانے میں رہے بعد پدر کے\nہر گام خدا تیرا نگہبان سکینہ\nبابا تیرا ایک شب۔۔۔\nبیٹی سے کہا شہ نے۔۔۔\n<<DIVIDER>>\nپتھر بھی طمانچے کبھی درہ بھی لگے گا\nبدلے گا کیء رنگ تیرا پھول سا چہرہ\nہاں دور یتیمی نہیں آسان سکینہ\nبابا تیرا ایک شب۔۔۔\nبیٹی سے کہا شہ نے۔۔۔\n<<DIVIDER>>\nمیں آپ کی آغوش میں چھپ جاؤں گی بابا\nاور اکبر و عباس کو بلواوں گی بابا\nتنہا تو نہ ہوگی سر میدان سکینہ\nبابا تیرا ایک شب۔۔۔\nبیٹی سے کہا شہ نے۔۔۔\n<<DIVIDER>>\nمقتل میں نہ کوزہ لیےء خالی چلی آنا\nعباس کو رو رو کے نہ دریا سے بلانا\nہو جائیں گے شرمندہ چچا جان سکینہ\nبابا تیرا ایک شب۔۔۔\nبیٹی سے کہا شہ نے۔۔۔\n<<DIVIDER>>\nبابا تیرا قاتل کیا مسلمان نہیں ہے\nکیا یاد نبی کا اسے فرمان نہیں ہے\nشبیر کی باتوں پہ ہے حیران سکینہ\nبابا تیرا ایک شب۔۔۔\nبیٹی سے کہا شہ نے۔۔۔\n<<DIVIDER>>\nجل جائے گا گھر بار تو گھبراؤ گی بی بی\nکل شب کہیں بابا کو نہ تم پاؤ گی بی بی\nنہ رحم کریں گے یہ مسلمان سکینہ\nبابا تیرا ایک شب۔۔۔\nبیٹی سے کہا شہ نے۔۔۔\n<<DIVIDER>>\nجن بچوں کے جل جاتے ہیں گھر سوتے ہیں کیسے\nمر جائے جو گر باپ تو پھر روتے ہیں کیسے\nبتلاؤ نہ بابا کہ ہے نادان سکینہ\nبابا تیرا ایک شب۔۔۔\nبیٹی سے کہا شہ نے۔۔۔\n<<DIVIDER>>\nکانوں کے تیرے زخم تجھے سونے نہ دیں گے\nظالم میرے لاشے پہ تجھے رونے نہ دیں گے\nترسے گی تو رونے کو میری جان سکینہ\nبابا تیرا ایک شب۔۔۔\nبیٹی سے کہا شہ نے۔۔۔\n<<DIVIDER>>\nسونے کی تیرے سینے پہ ضد چھوڑ کے بابا\nسو جاے گی زنداں کی زمیں اوڑھ کے بابا\nہو جائے گی اسلام پہ قربان سکینہ\nبابا تیرا ایک شب۔۔۔\nبیٹی سے کہا شہ نے۔۔۔",
+  "styling": [
+    {
+      "insert": "بیٹی سے کہا شہ نے میری جان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تیرا ایک شب کا ہے مہمان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشور کی غربت میں اسیری کا سفر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے رحم زمانے میں رہے بعد پدر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گام خدا تیرا نگہبان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تیرا ایک شب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی سے کہا شہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپتھر بھی طمانچے کبھی درہ بھی لگے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بدلے گا کیء رنگ تیرا پھول سا چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں دور یتیمی نہیں آسان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تیرا ایک شب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی سے کہا شہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں آپ کی آغوش میں چھپ جاؤں گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اکبر و عباس کو بلواوں گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا تو نہ ہوگی سر میدان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تیرا ایک شب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی سے کہا شہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل میں نہ کوزہ لیےء خالی چلی آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کو رو رو کے نہ دریا سے بلانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو جائیں گے شرمندہ چچا جان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تیرا ایک شب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی سے کہا شہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا تیرا قاتل کیا مسلمان نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا یاد نبی کا اسے فرمان نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کی باتوں پہ ہے حیران سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تیرا ایک شب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی سے کہا شہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجل جائے گا گھر بار تو گھبراؤ گی بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کل شب کہیں بابا کو نہ تم پاؤ گی بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ رحم کریں گے یہ مسلمان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تیرا ایک شب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی سے کہا شہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجن بچوں کے جل جاتے ہیں گھر سوتے ہیں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جائے جو گر باپ تو پھر روتے ہیں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتلاؤ نہ بابا کہ ہے نادان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تیرا ایک شب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی سے کہا شہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکانوں کے تیرے زخم تجھے سونے نہ دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم میرے لاشے پہ تجھے رونے نہ دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ترسے گی تو رونے کو میری جان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تیرا ایک شب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی سے کہا شہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسونے کی تیرے سینے پہ ضد چھوڑ کے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاے گی زنداں کی زمیں اوڑھ کے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو جائے گی اسلام پہ قربان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تیرا ایک شب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی سے کہا شہ نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Naqvi",
   "anjumans": [],
   "verified": false

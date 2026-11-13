@@ -1,7 +1,508 @@
 {
   "remoteId": "g2611_u3498",
-  "title": "Yehi charagh",
+  "title": "یہی چراغ",
   "body": "r>\nخوں سے جلا گےء جو شہیدانِ کربلا\nیہی چراغ جلیں گے تو روشنی ہو گی\n<<DIVIDER>>\nگھر گھر بچھے فرش عزا\nدل میں ہو غم شبیر کا\nآنکھوں میں ہو اشک عزا\nمجلس حسین کی ہو\nیا ماتم حسین کا\nیہی چراغ جلیں گے۔۔۔\n<<DIVIDER>>\nعباس سقاے حرم\nجس کے ہوے بازو قلم\nپھر بھی رہا اونچا الم\nہر گھر پہ باوفا کا\nیہ پرچم رہے صدا\nیہی چراغ جلیں گے۔۔۔\n<<DIVIDER>>\nملبوس ہو تن پر سیاہ\nگھر ہو حسینی بارگاہ\nمشک و الم یہ ذوالجناح\nیہ تعزیے یہ جھولے\nسبیلوں کا سلسلہ\nیہی چراغ جلیں گے۔۔۔\n<<DIVIDER>>\nایمان کی پہچان ہے\nیہ زینت میدان ہے\nنصرت کا یہ اعلان ہے\nنعرۂ حیدری ہم\nلگاییں گے جا بجا\nیہی چراغ جلیں گے۔۔۔\n<<DIVIDER>>\nپیدل نجف تا کربلا\nجاری سفر ہے عشق کا\nطےء ہو رہا ہے فاصلہ\nتا حشر نہ رکے یہ\nعزادار قافلہ\nیہی چراغ جلیں گے۔۔۔\n<<DIVIDER>>\nعابد کا غم اکبر کا غم\nقاسم کا غم اصغر کا غم\nیہ غم کبھی ہوگا نہ کم\nسوگ آل مصطفیٰ کا\nمناییں گے ہم سدا\nیہی چراغ جلیں گے۔۔۔\n<<DIVIDER>>\nکربوبلا کوفہ و شام\nاہلِ حرم بلوہ ء عام\nہم یاد رکھیں گے تمام\nبنت علی کے خطبے\nنہ بھولیں گے با خدا\nیہی چراغ جلیں گے۔۔۔\n<<DIVIDER>>\nتم بھی جواد و شادماں\nنوحوں کی دو مل کر اذاں\nماتم کناں ہو یہ جہاں\nلبیک یا حسینا\nلبوں پر ہو یہ صدا\nیہی چراغ جلیں گے۔۔۔",
+  "styling": [
+    {
+      "insert": "r>"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں سے جلا گےء جو شہیدانِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی چراغ جلیں گے تو روشنی ہو گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر گھر بچھے فرش عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں ہو غم شبیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں میں ہو اشک عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجلس حسین کی ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا ماتم حسین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی چراغ جلیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس سقاے حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے ہوے بازو قلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی رہا اونچا الم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گھر پہ باوفا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ پرچم رہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی چراغ جلیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nملبوس ہو تن پر سیاہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر ہو حسینی بارگاہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشک و الم یہ ذوالجناح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تعزیے یہ جھولے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سبیلوں کا سلسلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی چراغ جلیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایمان کی پہچان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زینت میدان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نصرت کا یہ اعلان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نعرۂ حیدری ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگاییں گے جا بجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی چراغ جلیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیدل نجف تا کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاری سفر ہے عشق کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طےء ہو رہا ہے فاصلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تا حشر نہ رکے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزادار قافلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی چراغ جلیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعابد کا غم اکبر کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کا غم اصغر کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم کبھی ہوگا نہ کم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوگ آل مصطفیٰ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مناییں گے ہم سدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی چراغ جلیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربوبلا کوفہ و شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ حرم بلوہ ء عام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم یاد رکھیں گے تمام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنت علی کے خطبے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ بھولیں گے با خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی چراغ جلیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم بھی جواد و شادماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحوں کی دو مل کر اذاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کناں ہو یہ جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لبیک یا حسینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لبوں پر ہو یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی چراغ جلیں گے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

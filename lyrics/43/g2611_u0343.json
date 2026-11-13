@@ -1,12 +1,386 @@
 {
   "remoteId": "g2611_u0343",
-  "title": "Akbar jawan abhi tere",
+  "title": "اکبر جواں ابھی تیرے",
   "body": "اکبر جواں ابھی تیرے مرنے کے دن نہ تھے\nاپنے لہو میں آپ سنورنے کے دن نہ تھے\n<<DIVIDER>>\nرکتا نہیں ہے سینے سے جو خون ہے رواں\nاے لال یہ بتادو کے کس جا لگی سناں\nاپنی ریاضتوں کا خزینہ تو دیکھ لوں\nاکبر ہٹاؤ ہاتھ میں سینہ تو دیکھ لوں\nاپنے لہو میں آپ۔۔۔\nاکبر جواں ابھی تیرے۔۔۔\n<<DIVIDER>>\nتم کیا گرے ہو مقتل میں اٹھ نہ سکا حسین\nتم کو سناں لگی ہے اور زخمی ہوا حسین\nآنکھیں جو تم چراتے ہو دل چھوڑتے ہیں ہم\nتم ہچکیاں جو لیتے ہو دم توڑتے ہیں ہم\nاپنے لہو میں آپ۔۔۔\nاکبر جواں ابھی تیرے۔۔۔\n<<DIVIDER>>\nاولاد پہ جب آتا ہے اٹھارہواں برس\nخوشیاں سمیٹ لاتا ہے اٹھارہواں برس\nدولہا سے آپ لگتے تھے ہر ایک لباس میں\nدل ماں کا شاد رہتا تھا سہرے کی آس میں\nاپنے لہو میں آپ۔۔۔\nاکبر جواں ابھی تیرے۔۔۔\n<<DIVIDER>>\nقاصد کھڑا ہے پہلو میں اے لال دیکھلو\nصغرا دعائیں دیتی ہے آمین تو کہو\nرکھتا ہوں خط کو لاش پہ دلبر جواب دو\nصغرا سلام کہتی ہے اکبر جواب دو\nاپنے لہو میں آپ۔۔۔\nاکبر جواں ابھی تیرے۔۔۔\n<<DIVIDER>>\nاے شیر کبریاء مجھے قوت عطا کرے\nلاش جواں اٹھانے کی ہمت عطا کرے\nآنکھوں کا نور لے گیء نور نظر کی لاش\nخیبر کے در سے وزنی ہے میرے پسر کی لاش\nاپنے لہو میں آپ۔۔۔\nاکبر جواں ابھی تیرے۔۔۔\n<<DIVIDER>>\nبس اے رضا کلام کو کردو یہاں تمام\nمشغول گریہ ہوگیا مجلس میں خاص و عام\nصدمہ بدن کو اکبر زیشان دیتے ہیں\nصبحِ اذان دیتے تھے اب جان دیتے ہیں\nاپنے لہو میں آپ۔۔۔\nاکبر جواں ابھی تیرے۔۔۔",
+  "styling": [
+    {
+      "insert": "اکبر جواں ابھی تیرے مرنے کے دن نہ تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے لہو میں آپ سنورنے کے دن نہ تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرکتا نہیں ہے سینے سے جو خون ہے رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لال یہ بتادو کے کس جا لگی سناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی ریاضتوں کا خزینہ تو دیکھ لوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر ہٹاؤ ہاتھ میں سینہ تو دیکھ لوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے لہو میں آپ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر جواں ابھی تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم کیا گرے ہو مقتل میں اٹھ نہ سکا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو سناں لگی ہے اور زخمی ہوا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھیں جو تم چراتے ہو دل چھوڑتے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہچکیاں جو لیتے ہو دم توڑتے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے لہو میں آپ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر جواں ابھی تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاولاد پہ جب آتا ہے اٹھارہواں برس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوشیاں سمیٹ لاتا ہے اٹھارہواں برس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دولہا سے آپ لگتے تھے ہر ایک لباس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل ماں کا شاد رہتا تھا سہرے کی آس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے لہو میں آپ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر جواں ابھی تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاصد کھڑا ہے پہلو میں اے لال دیکھلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا دعائیں دیتی ہے آمین تو کہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھتا ہوں خط کو لاش پہ دلبر جواب دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا سلام کہتی ہے اکبر جواب دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے لہو میں آپ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر جواں ابھی تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شیر کبریاء مجھے قوت عطا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاش جواں اٹھانے کی ہمت عطا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں کا نور لے گیء نور نظر کی لاش"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیبر کے در سے وزنی ہے میرے پسر کی لاش"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے لہو میں آپ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر جواں ابھی تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبس اے رضا کلام کو کردو یہاں تمام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشغول گریہ ہوگیا مجلس میں خاص و عام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدمہ بدن کو اکبر زیشان دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبحِ اذان دیتے تھے اب جان دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے لہو میں آپ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر جواں ابھی تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Raza",
   "anjumans": [],
   "verified": false

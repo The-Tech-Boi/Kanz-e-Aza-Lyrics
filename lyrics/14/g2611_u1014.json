@@ -1,12 +1,237 @@
 {
   "remoteId": "g2611_u1014",
-  "title": "Bhare darbar may",
+  "title": "بھرے دربار میں",
   "body": "بھرے دربار میں روتی رہی کھڑی زہرا\nنہ جانے کس طرح حق مانگتی رہی زہرا\n<<DIVIDER>>\nسند کے ٹکڑے ہوا میں اڑا کے ہنسنے لگا\nرسول زادی سے گستاخ ایسے کہنے لگا\nبتاؤ کون سی جاگیر ہے تیری زہرا\nبھرے دربار میں۔۔۔\n<<DIVIDER>>\nحسن حسین سے سچے گواہ بھی جھٹلاے\nرلا کے بی بی کو ظالم زرا نہ شرماے\nبھلا نہ پاے گی امت کے بے رخی زہرا\nبھرے دربار میں۔۔۔\n<<DIVIDER>>\nیہ اسکی بیٹی ہے جس نے دو لخت چاند کیا\nوہ جس کے نور نے ہر روشنی کو ماند کیا\nاسے ستاؤ نہ دکھیاری ہے بڑی زہرا\nبھرے دربار میں۔۔۔\n<<DIVIDER>>\nنبی کے بعد یہ کیا ہوگیا زمانے کو\nکیوں کلمہ گو ہے چلے تیرا گھر جلانے کو\nسہے گی کس طرح تو یہ ستمگری زہرا\nبھرے دربار میں۔۔۔\n<<DIVIDER>>\nسیاہ بال جو ماں کے سفید کر دیکھے\nتوقیر کیسے کہوں بیٹیوں نے سر پیٹے\nگیء تھی جس طرح گھر تھکی زہرا\nبھرے دربار میں۔۔۔",
+  "styling": [
+    {
+      "insert": "بھرے دربار میں روتی رہی کھڑی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے کس طرح حق مانگتی رہی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسند کے ٹکڑے ہوا میں اڑا کے ہنسنے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسول زادی سے گستاخ ایسے کہنے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتاؤ کون سی جاگیر ہے تیری زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھرے دربار میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسن حسین سے سچے گواہ بھی جھٹلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلا کے بی بی کو ظالم زرا نہ شرماے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھلا نہ پاے گی امت کے بے رخی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھرے دربار میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ اسکی بیٹی ہے جس نے دو لخت چاند کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جس کے نور نے ہر روشنی کو ماند کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسے ستاؤ نہ دکھیاری ہے بڑی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھرے دربار میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنبی کے بعد یہ کیا ہوگیا زمانے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں کلمہ گو ہے چلے تیرا گھر جلانے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہے گی کس طرح تو یہ ستمگری زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھرے دربار میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسیاہ بال جو ماں کے سفید کر دیکھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "توقیر کیسے کہوں بیٹیوں نے سر پیٹے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گیء تھی جس طرح گھر تھکی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھرے دربار میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Tauqeer Kamalvi",
   "anjumans": [],
   "verified": false

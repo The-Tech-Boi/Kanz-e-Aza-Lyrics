@@ -1,12 +1,617 @@
 {
   "remoteId": "g2611_u1066",
-  "title": "Chal sakina chale",
+  "title": "چل سکینہ چلیں",
   "body": "جاگو اے بالی سکینہ دیتے ہیں آواز بابا\n<<DIVIDER>>\nایک شب سکینہ شام کے زنداں میں سوگیء\nبابا کو دیکھا خواب میں کہتے تھے وہ یہی\nبہت رو چکی میری جاں جاگ جا\nچل سکینہ چلیں کربلا\nساتھ بابا کے رہنا سدا\n<<DIVIDER>>\nمجھ سے بچھڑی تو سویء نہیں میری جاں\nایک اک سانس تم پر ہے کوہ گراں\nاور اس پر ستم قید کی سختیاں\nتیری آہ و بکا پر بھی پابندیاں\nاس لئے کر رہا ہوں بکا\n...چل سکینہ چلیں\n...ساتھ بابا کے\n<<DIVIDER>>\nہے یہاں صرف تنہا یء تاریکیاں\nیہ گھٹن اور تقدیر کی بیڑیاں\nچاہنے والے تیرے تو سب ہیں وہاں\nچین آتا ہے اپنوں کے ہی درمیاں\nچھوڑ کر اب یہ شہر جفا\n...چل سکینہ چلیں\n...ساتھ بابا کے\n<<DIVIDER>>\nیاد کرتا ہے اصغر تجھے میری جاں\nتجھکو آواز دیتا ہے وہ بے زباں\nوہ وہاں رہ گیا آگیء تو یہاں\nوہ وہاں نوحہ خواں تو یہاں نوحہ خواں\nچین دونوں کو آجائے گا\n...چل سکینہ چلیں\n...ساتھ بابا کے\n<<DIVIDER>>\nساتھ اپنے تجھے لے کے جاؤنگا میں\nتیرے عمو سے تجھکو ملاوءنگا میں\nہاں تجھے بالیاں بھی پہناوءنگامیں\nاپنے سینے پہ تجھکو سلاؤں گا میں\nہے وہاں پر جہاں اک نیا\n...چل سکینہ چلیں\n...ساتھ بابا کے\n<<DIVIDER>>\nاب نہ تلوار و نیزہ ہے نہ تیر ہے\nکربلا اب تو غازی کی جاگیر ہے\nتیرے بابا کے خوابوں کی تعبیر ہے\nایک آغوش ہے جس میں بے شیر ہے\nدل یہ تیرا بہل جائے گا\n...چل سکینہ چلیں\n...ساتھ بابا کے\n<<DIVIDER>>\nشام سے مختلف ہے وہاں کی فضا\nکون تجھ پر وہاں اب کرے گا جفا\nتیرا اکبر بھی ہے اور تیرے چچا\nسارے پہروں سے آزاد ہے علقمہ\nاب تو پانی بھی مل جائے گا\n...چل سکینہ چلیں\n...ساتھ بابا کے\n<<DIVIDER>>\nزخم سارے جگر کے دکھانے چلو\nاپنے دکھڑے چچا کو سنانے چلو\nجو ستم تم نے جھیلے بتانے چلو\nخاک کربل کو مرحم بنانے چلو\nسارے زخموں کی لینے دوا\n...چل سکینہ چلیں\n...ساتھ بابا کے\n<<DIVIDER>>\nیوں تو ہر روز فرحان و مظہر یونہی\nباپ سے بیٹی ملتی تھی خوابوں میں ہی\nزندگی کا یہی خواب تھا آخری\nیوں لگا ساتھ بابا کے وہ لاڈلی\nچل بسی سن کے بس یہ صدا\n...چل سکینہ چلیں\n...ساتھ بابا کے",
+  "styling": [
+    {
+      "insert": "جاگو اے بالی سکینہ دیتے ہیں آواز بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک شب سکینہ شام کے زنداں میں سوگیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو دیکھا خواب میں کہتے تھے وہ یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت رو چکی میری جاں جاگ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل سکینہ چلیں کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ بابا کے رہنا سدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ سے بچھڑی تو سویء نہیں میری جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک اک سانس تم پر ہے کوہ گراں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اس پر ستم قید کی سختیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری آہ و بکا پر بھی پابندیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس لئے کر رہا ہوں بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چل سکینہ چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ساتھ بابا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے یہاں صرف تنہا یء تاریکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ گھٹن اور تقدیر کی بیڑیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاہنے والے تیرے تو سب ہیں وہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چین آتا ہے اپنوں کے ہی درمیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ کر اب یہ شہر جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چل سکینہ چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ساتھ بابا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد کرتا ہے اصغر تجھے میری جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھکو آواز دیتا ہے وہ بے زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ وہاں رہ گیا آگیء تو یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ وہاں نوحہ خواں تو یہاں نوحہ خواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چین دونوں کو آجائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چل سکینہ چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ساتھ بابا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nساتھ اپنے تجھے لے کے جاؤنگا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے عمو سے تجھکو ملاوءنگا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں تجھے بالیاں بھی پہناوءنگامیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے سینے پہ تجھکو سلاؤں گا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وہاں پر جہاں اک نیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چل سکینہ چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ساتھ بابا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب نہ تلوار و نیزہ ہے نہ تیر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اب تو غازی کی جاگیر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے بابا کے خوابوں کی تعبیر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک آغوش ہے جس میں بے شیر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل یہ تیرا بہل جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چل سکینہ چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ساتھ بابا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام سے مختلف ہے وہاں کی فضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون تجھ پر وہاں اب کرے گا جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا اکبر بھی ہے اور تیرے چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سارے پہروں سے آزاد ہے علقمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو پانی بھی مل جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چل سکینہ چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ساتھ بابا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخم سارے جگر کے دکھانے چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے دکھڑے چچا کو سنانے چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ستم تم نے جھیلے بتانے چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک کربل کو مرحم بنانے چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سارے زخموں کی لینے دوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چل سکینہ چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ساتھ بابا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیوں تو ہر روز فرحان و مظہر یونہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ سے بیٹی ملتی تھی خوابوں میں ہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندگی کا یہی خواب تھا آخری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں لگا ساتھ بابا کے وہ لاڈلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل بسی سن کے بس یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...چل سکینہ چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ساتھ بابا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

@@ -1,7 +1,283 @@
 {
   "remoteId": "g2611_u1175",
-  "title": "Dil mein ghame",
+  "title": "دل میں غم",
   "body": "دل میں غمِ حُسین بسائے ہوئے ہیں ہم\nیوں ساری کائنات پہ چھائے ہوئے ہیں ہم\n<<DIVIDER>>\nروشن کیئے جو دشتِ بلا میں حُسین نے\nوہ سب چراغ دل میں جلائے ہوئے ہیں ہم\nدل میں غمِ حُسین ۔۔۔\n<<DIVIDER>>\nحیرت سے ہم کو دیکھ رہی ہیں بلندیاں\nباطل کا ہر نشان مٹائے ہوئے ہیں ہم\nدل میں غمِ حُسین ۔۔۔\n<<DIVIDER>>\nاب دل نہیں ہے سینے میں اک آفتاب ہے\nسینے سے کس کے غم کو لگائے ہوئے ہیں ہم\nدل میں غمِ حُسین ۔۔۔\n<<DIVIDER>>\nوہ اور ہوں گے جن کو ہے جنت کی آرزو\nجنت ہمارا حق ہے جو پائے ہوئے ہیں ہم\nدل میں غمِ حُسین ۔۔۔\n<<DIVIDER>>\nبچ بچ کہ کیوں نہ گُزریں زمانے کی گردشیں\nعباس کے علم کو اُٹھائے ہوئے ہیں ہم\nدل میں غمِ حُسین ۔۔۔\n<<DIVIDER>>\nبیٹے ،بھتیجے ،بھانجے اور بھائی مر گئے\nکس کس کا داغ دل پہ اُٹھائے ہوئے ہیں ہم\nدل میں غمِ حُسین ۔۔۔\n<<DIVIDER>>\nروضے پہ سیدہ کے یہ زینب کے بین تھے\nاماں اُٹھو کے دور سے آئے ہوئے ہیں ہم\nدل میں غمِ حُسین ۔۔۔\n<<DIVIDER>>\nیہ سب طُفیلِ آلِ محمد ہے اے عروج\nدُنیا میںیہ عروج جو پائے ہوئے ہیں ہم\nدل میں غمِ حُسین ۔۔۔",
+  "styling": [
+    {
+      "insert": "دل میں غمِ حُسین بسائے ہوئے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں ساری کائنات پہ چھائے ہوئے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروشن کیئے جو دشتِ بلا میں حُسین نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ سب چراغ دل میں جلائے ہوئے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں غمِ حُسین ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحیرت سے ہم کو دیکھ رہی ہیں بلندیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باطل کا ہر نشان مٹائے ہوئے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں غمِ حُسین ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب دل نہیں ہے سینے میں اک آفتاب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے سے کس کے غم کو لگائے ہوئے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں غمِ حُسین ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ اور ہوں گے جن کو ہے جنت کی آرزو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنت ہمارا حق ہے جو پائے ہوئے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں غمِ حُسین ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچ بچ کہ کیوں نہ گُزریں زمانے کی گردشیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کے علم کو اُٹھائے ہوئے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں غمِ حُسین ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹے ،بھتیجے ،بھانجے اور بھائی مر گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کس کا داغ دل پہ اُٹھائے ہوئے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں غمِ حُسین ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروضے پہ سیدہ کے یہ زینب کے بین تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں اُٹھو کے دور سے آئے ہوئے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں غمِ حُسین ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سب طُفیلِ آلِ محمد ہے اے عروج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُنیا میںیہ عروج جو پائے ہوئے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں غمِ حُسین ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

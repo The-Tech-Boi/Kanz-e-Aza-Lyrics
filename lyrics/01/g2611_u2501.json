@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u2501",
-  "title": "Muslim ki karbala",
+  "title": "مُسلم کی کربلا",
   "body": "لوگوں یہ شہرِ کوفہ مُسلم کی کربلا ہے\nایک بے وطن یہاں بھی فوجوں میں گھر گیا ہے\n<<DIVIDER>>\nعاشور سے بھی پہلے عاشور کا ہے منظر\nخوش ہو رہے ہیں ظالم مُسلم کا خوں بہا کر\nتلوار ہے لعیں کی مظلوم کا گلا ہے\nلوگوں یہ شہرِ کوفہ۔۔۔\n<<DIVIDER>>\nبرسے ہیں تیر اس پر مارے گئے ہیں نیزے\nلاکھوں سے پھر بھی مُسلم لڑتا رہا اکیلے\nنہ بھائی ہے نہ بیٹے نہ کوئی آسرا ہے\nلوگوں یہ شہرِ کوفہ۔۔۔\n<<DIVIDER>>\nپھینکا گیا ہے جس دم ان کو بلندیوں سے\nآواز ٹوٹنے کی آئی تھی پسلیوں سے\nمظلوم کے لبوں پر بس ہائے سیدہ ہے\nلوگوں یہ شہرِ کوفہ۔۔۔\n<<DIVIDER>>\nہوتا گیا اضافہ بے کس کی بے کسی میں\nکھینچا گیا ہے لاشہ کوفے کی ہر گلی میں\nشبیر کی طرح سے سر جسم سے جدا ہے\nلوگوں یہ شہرِ کوفہ۔۔۔\n<<DIVIDER>>\nکوفے میں در بدر تھے مُسلم کے شاہزادے\nاپنے پدر کو آخر کیسے کفن وہ دیتے\nسجاد پر جو آیا ویسا ہی مرحلہ ہے\nلوگوں یہ شہرِ کوفہ۔۔۔\n<<DIVIDER>>\nقاصد شہ ہدیٰ کا پیاسا تھا بے وطن تھا\nچالیس دن ہوئے تھے لاشہ بھی بے کفن تھا\nجو شہ کے ساتھ ہوگا سب کچھ وہی ہوا ہے\nلوگوں یہ شہرِ کوفہ۔۔۔\n<<DIVIDER>>\nازلان اور میثم تھا سیدہ کا نوحہ\nہاے میرے لال تجھ کو مارا گیا ہے پیاسا\nمُسلم کی لاش پر بھی زہرا کی یہ بکا ہے\nلوگوں یہ شہرِ کوفہ۔۔۔",
+  "styling": [
+    {
+      "insert": "لوگوں یہ شہرِ کوفہ مُسلم کی کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بے وطن یہاں بھی فوجوں میں گھر گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشور سے بھی پہلے عاشور کا ہے منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوش ہو رہے ہیں ظالم مُسلم کا خوں بہا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تلوار ہے لعیں کی مظلوم کا گلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگوں یہ شہرِ کوفہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرسے ہیں تیر اس پر مارے گئے ہیں نیزے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاکھوں سے پھر بھی مُسلم لڑتا رہا اکیلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ بھائی ہے نہ بیٹے نہ کوئی آسرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگوں یہ شہرِ کوفہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھینکا گیا ہے جس دم ان کو بلندیوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز ٹوٹنے کی آئی تھی پسلیوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم کے لبوں پر بس ہائے سیدہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگوں یہ شہرِ کوفہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوتا گیا اضافہ بے کس کی بے کسی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھینچا گیا ہے لاشہ کوفے کی ہر گلی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کی طرح سے سر جسم سے جدا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگوں یہ شہرِ کوفہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوفے میں در بدر تھے مُسلم کے شاہزادے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے پدر کو آخر کیسے کفن وہ دیتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد پر جو آیا ویسا ہی مرحلہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگوں یہ شہرِ کوفہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاصد شہ ہدیٰ کا پیاسا تھا بے وطن تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چالیس دن ہوئے تھے لاشہ بھی بے کفن تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو شہ کے ساتھ ہوگا سب کچھ وہی ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگوں یہ شہرِ کوفہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nازلان اور میثم تھا سیدہ کا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرے لال تجھ کو مارا گیا ہے پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مُسلم کی لاش پر بھی زہرا کی یہ بکا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگوں یہ شہرِ کوفہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Hazrat Muslim (a.s)",
+  "subcategory": "حضرت مسلم (ع)",
   "author": "Arsalan Azmi",
   "anjumans": [],
   "verified": false

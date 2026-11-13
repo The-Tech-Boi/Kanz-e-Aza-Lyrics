@@ -1,12 +1,260 @@
 {
   "remoteId": "g2611_u3098",
-  "title": "Soona hai bin tere",
+  "title": "سونا ہے بن تیرے",
   "body": "اصغر ہو تم کہاں بھیا ہو تم کہاں\nسونا ہے بن تیرے یہ جہاں یہ جہاں اصغر\n<<DIVIDER>>\nمیں تپتی ریت میں ڈھونڈوں تمہیں کہاں\nسونا ہے بن تیرے یہ جہاں یہ جہاں اصغر\n<<DIVIDER>>\nنہ مثل تیری کوئی دیکھی ہے تصویر علی\nتیرے ہی دم سے یہ اسلام کی مشکل ہے ٹلی\nدین احمد کو تیرا یاد ہے احسان اصغر\nسونا ہے بن تیرے۔۔۔\n<<DIVIDER>>\nبن تیرے کیسے پیےء پانی یہ ہمشیر تیری\nمجھکو پانی میں نظر آتی ہے تصویر تیری\nبھلاؤں کیسے میں سوکھی تیری زباں اصغر\nسونا ہے بن تیرے۔۔۔\n<<DIVIDER>>\nلوریاں دی نہ تجھے گود میں کھلایا نہیں\nجھولا جی بھر کے تیری بہن نے جھلایا نہیں\nہوے نہ پورے میرے دل کے یہ ارماں اصغر\nسونا ہے بن تیرے۔۔۔\n<<DIVIDER>>\nسن کے ھل من کی صدا جھولے سے گر جانا تیرا\nہاتھوں پہ بابا کے سہہ پہلو تیر کھانا تیرا\nکر گیا سارے زمانے کو تو حیراں اصغر\nسونا ہے بن تیرے۔۔۔\n<<DIVIDER>>\nتیرے خورشید کو ایک پل نہ چین آتا ہے\nہاے وہ پیاسا گلا تیرا یاد آتا ہے\nتو ہنس کے توڑ گیا حرملہ کی ہے کماں اصغر\nسونا ہے بن تیرے۔۔۔",
+  "styling": [
+    {
+      "insert": "اصغر ہو تم کہاں بھیا ہو تم کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سونا ہے بن تیرے یہ جہاں یہ جہاں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں تپتی ریت میں ڈھونڈوں تمہیں کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سونا ہے بن تیرے یہ جہاں یہ جہاں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ مثل تیری کوئی دیکھی ہے تصویر علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے ہی دم سے یہ اسلام کی مشکل ہے ٹلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دین احمد کو تیرا یاد ہے احسان اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سونا ہے بن تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبن تیرے کیسے پیےء پانی یہ ہمشیر تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو پانی میں نظر آتی ہے تصویر تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھلاؤں کیسے میں سوکھی تیری زباں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سونا ہے بن تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلوریاں دی نہ تجھے گود میں کھلایا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا جی بھر کے تیری بہن نے جھلایا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوے نہ پورے میرے دل کے یہ ارماں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سونا ہے بن تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسن کے ھل من کی صدا جھولے سے گر جانا تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں پہ بابا کے سہہ پہلو تیر کھانا تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر گیا سارے زمانے کو تو حیراں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سونا ہے بن تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے خورشید کو ایک پل نہ چین آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے وہ پیاسا گلا تیرا یاد آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو ہنس کے توڑ گیا حرملہ کی ہے کماں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سونا ہے بن تیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Haider Khursheed",
   "anjumans": [],
   "verified": false

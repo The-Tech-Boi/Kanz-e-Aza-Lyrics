@@ -1,7 +1,315 @@
 {
   "remoteId": "g2611_u1691",
-  "title": "Jaane wale karbala",
+  "title": "جانے والے کربلا",
   "body": "جانے والے کربلا کے کربلا لے چل مجھے\nروضہء شبیر پر دونگا دعا لے چل مجھے\n<<DIVIDER>>\nہے جہاں گنج شہیداں ہے جہاں نہر فرات\nجس جگہ سید میرا پیاسا رہا لے چل مجھے\nجانے والے کربلا کے۔۔۔\n<<DIVIDER>>\nجس جگہ جاگی تھی قسمت حر کی وہ دیکھوں گا میں\nعاصیوں پر کیسے ہوتی ہے عطا لے چل مجھے\nجانے والے کربلا کے۔۔۔\n<<DIVIDER>>\nاس قدر نادار ہوں ذاد سفر کچھ بھی نہیں\nدوش پر اپنے بٹھا کر اے ہوا لے چل مجھے\nجانے والے کربلا کے۔۔۔\n<<DIVIDER>>\nجس جگہ عباس کے بازو قلم ہو کر گرے\nاس جگہ میں بھی کروں ماتم زرا لے چل مجھے\nجانے والے کربلا کے۔۔۔\n<<DIVIDER>>\nدل الجھ کر آگیا برچی میں اکبر کا جہاں\nدل وہاں میں بھی کروں اپنا فدا لے چل مجھے\nجانے والے کربلا کے۔۔۔\n<<DIVIDER>>\nجل گےء شام غریباں میں جہاں خیمے تمام\nجس جگہ ننھا سا اک جھولا جلا لے چل مجھے\nجانے والے کربلا کے۔۔۔\n<<DIVIDER>>\nہاے وہ مقتل جہاں بالی سکینہ رات میں\nڈھونڈتی پھرتی تھی سینہ باپ کا لے چل مجھے\nجانے والے کربلا کے۔۔۔\n<<DIVIDER>>\nمسکرا کر تیر کھا کر سو گیا اصغر جہاں\nخوں جہاں چہرے پہ سرور نے ملا لے چل مجھے\nجانے والے کربلا کے۔۔۔\n<<DIVIDER>>\nسرور و ریحان ہر مجلس میں کرتے ہیں دعا\nحق وہی نوحوں کا اب ہوگا ادا لے چل مجھے\nجانے والے کربلا کے۔۔۔",
+  "styling": [
+    {
+      "insert": "جانے والے کربلا کے کربلا لے چل مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روضہء شبیر پر دونگا دعا لے چل مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے جہاں گنج شہیداں ہے جہاں نہر فرات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس جگہ سید میرا پیاسا رہا لے چل مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے والے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس جگہ جاگی تھی قسمت حر کی وہ دیکھوں گا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاصیوں پر کیسے ہوتی ہے عطا لے چل مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے والے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس قدر نادار ہوں ذاد سفر کچھ بھی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دوش پر اپنے بٹھا کر اے ہوا لے چل مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے والے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس جگہ عباس کے بازو قلم ہو کر گرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس جگہ میں بھی کروں ماتم زرا لے چل مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے والے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل الجھ کر آگیا برچی میں اکبر کا جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل وہاں میں بھی کروں اپنا فدا لے چل مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے والے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجل گےء شام غریباں میں جہاں خیمے تمام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس جگہ ننھا سا اک جھولا جلا لے چل مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے والے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے وہ مقتل جہاں بالی سکینہ رات میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈتی پھرتی تھی سینہ باپ کا لے چل مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے والے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسکرا کر تیر کھا کر سو گیا اصغر جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں جہاں چہرے پہ سرور نے ملا لے چل مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے والے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسرور و ریحان ہر مجلس میں کرتے ہیں دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق وہی نوحوں کا اب ہوگا ادا لے چل مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے والے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

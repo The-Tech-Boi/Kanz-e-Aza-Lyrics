@@ -1,12 +1,473 @@
 {
   "remoteId": "g2611_u0675",
-  "title": "Ay mere baradar",
+  "title": "اے میرے برادر",
   "body": "عباس کے لاشے پر بیاں کرتے تھے سرور\nاے میرے برادر\nگردن پہ چلے گا میری اب شمر کا خنجر\nاے میرے برادر\n<<DIVIDER>>\nناصر نہ کوئی اور نہ مدد گار ہے میرا\nمیں ہوگیا تنہا\nلوٹا گیا پردیس میں اماں کابھرا گھر\n---اے میرے برادر\n---عباس کے لاشے\n<<DIVIDER>>\nجو میرے وفادار تھے سب مرگےء انصار\nکوئی نہیں غم خوار\nاب میرا علمدار رہا اور نہ یہ لشکر\n---اے میرے برادر\n---عباس کے لاشے\n<<DIVIDER>>\nتم سوگےء عباس جو دریا کے کنارے\nشانوں کو کٹا کے\nچھن جائے گی اب زینب و کلثوم کی چادر\n---اے میرے برادر\n---عباس کے لاشے\n<<DIVIDER>>\nدروازہ ء خیمہ پہ ہے بے چین سکینہ\nبیکل ہے حزینہ\nروتی ہوئی دریا پہ چلی آے نہ مضطر\n---اے میرے برادر\n---عباس کے لاشے\n<<DIVIDER>>\nاطفال اٹھایںگے میری پیاس کی ایذاء\nپانی نہ ملے گا\nدم توڑینگے بچے میرے پیاسے ہی تڑپ کر\n---اے میرے برادر\n---عباس کے لاشے\n<<DIVIDER>>\nخوش ہونگے عدو زینب مضطر کو رلاکے\nلے جاینگے دربار میں بے مقنہ و چادر\n<<DIVIDER>>\nخوں رویےگی ہر ایک عزادار کی آنکھیں\nدل کھینچے گی آہیں\nلاے گی تیرے ہاتھ جو اماں سر محشر\n---اے میرے برادر\n---عباس کے لاشے\n<<DIVIDER>>\nمیں بعد شہادت بھی اٹھاؤں گا علم اور\nہوےنگے ستم اور\nپامال میری لاش کو کردیں گے ستمگر\n---اے میرے برادر\n---عباس کے لاشے\n<<DIVIDER>>\nآواز میں ریحان کے ہلال ایسا اثر تھا\nرونے لگا دریا\nسر پیٹتی تھی موجیں جو شہ کہتے تھے رو کر\n---اے میرے برادر\n---عباس کے لاشے",
+  "styling": [
+    {
+      "insert": "عباس کے لاشے پر بیاں کرتے تھے سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گردن پہ چلے گا میری اب شمر کا خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nناصر نہ کوئی اور نہ مدد گار ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ہوگیا تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹا گیا پردیس میں اماں کابھرا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے میرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس کے لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو میرے وفادار تھے سب مرگےء انصار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہیں غم خوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میرا علمدار رہا اور نہ یہ لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے میرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس کے لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم سوگےء عباس جو دریا کے کنارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شانوں کو کٹا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن جائے گی اب زینب و کلثوم کی چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے میرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس کے لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدروازہ ء خیمہ پہ ہے بے چین سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکل ہے حزینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہوئی دریا پہ چلی آے نہ مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے میرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس کے لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاطفال اٹھایںگے میری پیاس کی ایذاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم توڑینگے بچے میرے پیاسے ہی تڑپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے میرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس کے لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوش ہونگے عدو زینب مضطر کو رلاکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے جاینگے دربار میں بے مقنہ و چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوں رویےگی ہر ایک عزادار کی آنکھیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کھینچے گی آہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاے گی تیرے ہاتھ جو اماں سر محشر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے میرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس کے لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں بعد شہادت بھی اٹھاؤں گا علم اور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوےنگے ستم اور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پامال میری لاش کو کردیں گے ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے میرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس کے لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآواز میں ریحان کے ہلال ایسا اثر تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے لگا دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹتی تھی موجیں جو شہ کہتے تھے رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے میرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس کے لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Hilal Mirza",
   "anjumans": [],
   "verified": false

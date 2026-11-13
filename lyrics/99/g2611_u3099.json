@@ -1,12 +1,423 @@
 {
   "remoteId": "g2611_u3099",
-  "title": "Soona hai madina",
+  "title": "سُونا ہے مدینہ",
   "body": "سُونا ہے مدینہ سُونا ہے مدینہ\n<<DIVIDER>>\nعاشور کو آیا یہ خطِ فاطمہ صغریٰ\nسُونا ہے مدینہ\nکب لوٹ کے گھر آئو گے یا شاہِ مدینہ\nسُونا ہے مدینہ\nعاشور کو آیا۔۔۔\n<<DIVIDER>>\nمیں در پہ کھڑی رہتی ہوں اک آس لگائے\nبھّیا نہیں آئے\nشکوہ نہیں اکبر سے ہے تقدیر سے شکوہ\nسُونا ہے مدینہ\nعاشور کو آیا۔۔۔\n<<DIVIDER>>\nدو دن سے میرے حلق سے پانی نہیں اُترا\nقربان ہو صغریٰ\nدل کہتا ہے پردیس میں تم پیاسے ہو بابا\nسُونا ہے مدینہ\nعاشور کو آیا۔۔۔\n<<DIVIDER>>\nپردیس میں بھّیا ہو اگر بیاہ تمہارا\nارمان ہے میرا\nباندھے ہوئے سہرا میری تُربت پہ بھی آنا\nسُونا ہے مدینہ\nعاشور کو آیا۔۔۔\n<<DIVIDER>>\nمیں راتوں کو سوتی ہوں تو جاگ اُٹھتی ہوں اکثر\nکیا بات ہے آخر\nبکھرائے ہوئے بال نظر آتی ہے زہرا\nسُونا ہے مدینہ\nعاشور کو آیا۔۔۔\n<<DIVIDER>>\nاک شیشے میں کچھ خاک لیے پھرتی ہے دادی\nاور کرتی ہے زاری\nمظلوم حسینا میرے مظلوم حسینا\nسُونا ہے مدینہ\nعاشور کو آیا۔۔۔\n<<DIVIDER>>\nاماں کی بھری گود رہے مانگ نہ اُجڑے\nخالق سے دُعا ہے\nیا رب میرے بے شیر کا آباد ہو جھولا\nسُونا ہے مدینہ\nعاشور کو آیا۔۔۔\n<<DIVIDER>>\nخط پڑھ کے حسین ابنِ علی خوب سا روئے\nاور سر کو جھُکائے\nقاصد کے قریب رکھ دیا اک ننھا سا لاشہ\nسُونا ہے مدینہ\nعاشور کو آیا۔۔۔",
+  "styling": [
+    {
+      "insert": "سُونا ہے مدینہ سُونا ہے مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشور کو آیا یہ خطِ فاطمہ صغریٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُونا ہے مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب لوٹ کے گھر آئو گے یا شاہِ مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُونا ہے مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کو آیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں در پہ کھڑی رہتی ہوں اک آس لگائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھّیا نہیں آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکوہ نہیں اکبر سے ہے تقدیر سے شکوہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُونا ہے مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کو آیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدو دن سے میرے حلق سے پانی نہیں اُترا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قربان ہو صغریٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کہتا ہے پردیس میں تم پیاسے ہو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُونا ہے مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کو آیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپردیس میں بھّیا ہو اگر بیاہ تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ارمان ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باندھے ہوئے سہرا میری تُربت پہ بھی آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُونا ہے مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کو آیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں راتوں کو سوتی ہوں تو جاگ اُٹھتی ہوں اکثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بات ہے آخر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بکھرائے ہوئے بال نظر آتی ہے زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُونا ہے مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کو آیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک شیشے میں کچھ خاک لیے پھرتی ہے دادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور کرتی ہے زاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم حسینا میرے مظلوم حسینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُونا ہے مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کو آیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں کی بھری گود رہے مانگ نہ اُجڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خالق سے دُعا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا رب میرے بے شیر کا آباد ہو جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُونا ہے مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کو آیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخط پڑھ کے حسین ابنِ علی خوب سا روئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سر کو جھُکائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاصد کے قریب رکھ دیا اک ننھا سا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُونا ہے مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کو آیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "anjumans": [],
   "verified": false
 }

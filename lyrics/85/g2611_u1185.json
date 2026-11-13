@@ -1,7 +1,345 @@
 {
   "remoteId": "g2611_u1185",
-  "title": "Do baar namaz",
+  "title": "دو بار نماز",
   "body": "دو بار نماز شہید ہوی\nاک مسجد میں اک مقتل میں\nدو بار بہا ہے خونِ علی\nاک مسجد میں اک مقتل میں\n<<DIVIDER>>\nاک پیاسا تھا اک روزے سے\nاک شوہر تھا اک بیٹا تھا\nزہرا پہ قیامت ٹوٹ گیء\nاک مسجد میں اک مقتل میں\nدو بار نماز۔۔۔\n<<DIVIDER>>\nاک بنت علی کا بابا تھا\nاک باپ کے جیسے بھای تھا\nدو بار یتیم ہوی بی بی\nاک مسجد میں اک مقتل میں\nدو بار نماز۔۔۔\n<<DIVIDER>>\nاک بار علی کو چھڑوانے\nاک بار حسین کے سرہانے\nروتی ہوی آی بنت نبی\nاک مسجد میں اک مقتل میں\nدو بار نماز۔۔۔\n<<DIVIDER>>\nاک باپ کو گھر میں لاتے ہوے\nاک زیں سے زمیں پر آتے ہوے\nسرور نے صدا عباس کو دی\nاک مسجد میں اک مقتل میں\nدو بار نماز۔۔۔\n<<DIVIDER>>\nاک بار علی کی میت پر\nاک شمر لعیں کی ضربت پر\nغش کھاکے گھرے دو بار نبی\nاک مسجد میں اک مقتل میں\nدو بار نماز۔۔۔\n<<DIVIDER>>\nاک مسجد اموی کے اندر\nاک بار حسین کے لاشے پر\nبے پردہ گیء ہاے بنت علی\nاک مسجد میں اک مقتل میں\nدو بار نماز۔۔۔",
+  "styling": [
+    {
+      "insert": "دو بار نماز شہید ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک مسجد میں اک مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بار بہا ہے خونِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک مسجد میں اک مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک پیاسا تھا اک روزے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک شوہر تھا اک بیٹا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا پہ قیامت ٹوٹ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک مسجد میں اک مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بار نماز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک بنت علی کا بابا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک باپ کے جیسے بھای تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بار یتیم ہوی بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک مسجد میں اک مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بار نماز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک بار علی کو چھڑوانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بار حسین کے سرہانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہوی آی بنت نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک مسجد میں اک مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بار نماز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک باپ کو گھر میں لاتے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک زیں سے زمیں پر آتے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور نے صدا عباس کو دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک مسجد میں اک مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بار نماز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک بار علی کی میت پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک شمر لعیں کی ضربت پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غش کھاکے گھرے دو بار نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک مسجد میں اک مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بار نماز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک مسجد اموی کے اندر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بار حسین کے لاشے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے پردہ گیء ہاے بنت علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک مسجد میں اک مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بار نماز۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

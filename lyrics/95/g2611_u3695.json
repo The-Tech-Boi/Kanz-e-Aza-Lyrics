@@ -1,7 +1,441 @@
 {
   "remoteId": "g2611_u3695",
-  "title": "Salam e aakhir",
+  "title": "سلام آخر",
   "body": "سلام خاک نشینوں پہ سوگواروں کا\nغریب دیتے ہیں پرسہ تمہارے پیاروں کا\n<<DIVIDER>>\nسلام ان پر جنہیں شرم کھاۓ جاتی ہے\nکھلے سروں پہ اسیری کی خاک آتی ہے\n<<DIVIDER>>\nسلام ان پر جو زحمت کش سلاسل ہے\nمصیبتوں میں امامت کی پہلی منزل ہے\n<<DIVIDER>>\nسلام بھیجتے ہیں اپنی شہزادی پر\nکہ جس کو سونپ گۓ مرتے وقت گھر سرور\n<<DIVIDER>>\nمسافرت نے جسے بے بسی یہ دکھلائ\nنثار کردیے بچے نہ بچ سکا بھائ\n<<DIVIDER>>\nاسیر ہو کے جسے شامیوں کے نرغے میں\nحسینیت ہے سکھانا علی کے لہجے میں\n<<DIVIDER>>\nسـکـینـہ بی بی تمہارے غلام حاضر ہیں\nبجھے جو پیاس تو اشکوں کے جام حاضر ہیں\n<<DIVIDER>>\nیہ سن یہ حشر یہ صدمے نۓ نۓ بی بی\nکہاں پہ بیٹھی ہو خیمے تو جل گۓ بی بی\n<<DIVIDER>>\nپہاڑ رات بڑی دیر ہے سویرے میں\nکہاں ہو شام غریباں کے گھپ اندھیرے میں\n<<DIVIDER>>\nزمین ہے گرم یتیمی کی سختیاں بی بی\nوہ سینہ کہ جس پہ سوتی تھی اب کہاں بی بی\n<<DIVIDER>>\nجناب مادر بیشیر کو بھی سب کا سلام\nعجیب وقت ہے کیا دیں تسّـلیوں کا پیام\n<<DIVIDER>>\nابھی کلیجے میں آگ سی لگی ہوگی\nابھی تو گود کی گرمی نہ کم ہوئ ہوگی\n<<DIVIDER>>\nنہیں اندھیرے میں کچھ سوجھتا کہاں ڈھونڈیں\nتمہارا چاند کہاں چھپ گيا کہاں ڈھونڈیں\n<<DIVIDER>>\nنہ اس طرح کوئ کھیتی ہری بھری اجڑی\nتمہاری مانگ بھی اجڑی ہے کوکھ بھی اجڑی\n<<DIVIDER>>\nنہیں لعینوں میں انساں کوئ خداحافظ\nدرندے اور یہ بے وارثی خداحافظ\n<<DIVIDER>>\nشریک حق درود و سلام پیغمبر\nسلام سید لولاک کے لٹے گھر پر\n<<DIVIDER>>\nسلام محسن اسلام اسد اللہ کو\nسلام تم پر شہیدوں کے بے کفن لاشوں\n<<DIVIDER>>\nسلام تم پر رسول و بتول کے پیاروں\nسلام مہر شہادت کے گرد سیاروں\n<<DIVIDER>>\nبچے تو اگلے برس ہم ہیں اور یہ غم پھر ہے\nجو چلے بسے تو یہ اپنا سلام آخر ہے",
+  "styling": [
+    {
+      "insert": "سلام خاک نشینوں پہ سوگواروں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب دیتے ہیں پرسہ تمہارے پیاروں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلام ان پر جنہیں شرم کھاۓ جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھلے سروں پہ اسیری کی خاک آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلام ان پر جو زحمت کش سلاسل ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مصیبتوں میں امامت کی پہلی منزل ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلام بھیجتے ہیں اپنی شہزادی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ جس کو سونپ گۓ مرتے وقت گھر سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسافرت نے جسے بے بسی یہ دکھلائ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نثار کردیے بچے نہ بچ سکا بھائ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسیر ہو کے جسے شامیوں کے نرغے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسینیت ہے سکھانا علی کے لہجے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسـکـینـہ بی بی تمہارے غلام حاضر ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بجھے جو پیاس تو اشکوں کے جام حاضر ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سن یہ حشر یہ صدمے نۓ نۓ بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں پہ بیٹھی ہو خیمے تو جل گۓ بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہاڑ رات بڑی دیر ہے سویرے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں ہو شام غریباں کے گھپ اندھیرے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزمین ہے گرم یتیمی کی سختیاں بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ سینہ کہ جس پہ سوتی تھی اب کہاں بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجناب مادر بیشیر کو بھی سب کا سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب وقت ہے کیا دیں تسّـلیوں کا پیام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nابھی کلیجے میں آگ سی لگی ہوگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی تو گود کی گرمی نہ کم ہوئ ہوگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہیں اندھیرے میں کچھ سوجھتا کہاں ڈھونڈیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارا چاند کہاں چھپ گيا کہاں ڈھونڈیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ اس طرح کوئ کھیتی ہری بھری اجڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہاری مانگ بھی اجڑی ہے کوکھ بھی اجڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہیں لعینوں میں انساں کوئ خداحافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درندے اور یہ بے وارثی خداحافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشریک حق درود و سلام پیغمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام سید لولاک کے لٹے گھر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلام محسن اسلام اسد اللہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام تم پر شہیدوں کے بے کفن لاشوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلام تم پر رسول و بتول کے پیاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام مہر شہادت کے گرد سیاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچے تو اگلے برس ہم ہیں اور یہ غم پھر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو چلے بسے تو یہ اپنا سلام آخر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Salaams"

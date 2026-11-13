@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u1230",
-  "title": "Ek nanhi si lehad",
+  "title": "اک ننھی سی لحد",
   "body": "اک ننھی سی لحد رن میں بناتے ہیں حسین\nخاک میں دوسرے محسن کو چھپاتے ہیں حسین\n<<DIVIDER>>\nڈالتے جاتے ہیں اصغر کے بدن پر مٹی\nاور خیموں کی طرف دیکھتے جاتے ہیں حسین\n---اک ننھی سی لحد\n<<DIVIDER>>\nمرتے دم ننھے سے ہاتھوں نے جسے تھاما تھا\nاب وہ دامن علی اصغر سے چھڑاتے ہیں حسین\n---اک ننھی سی لحد\n<<DIVIDER>>\nلاشے حر نے کہا رومال یہ دیدو جا کر\nزخم بے شیر کا ہاتھوں سے چھپاتے ہیں حسین\n---اک ننھی سی لحد\n<<DIVIDER>>\nڈھونڈنے آینگے اس لاش کو نیزہ بردار\nچھپ کے بانو سے یہ زینب کو بتاتے ہیں حسین\n---اک ننھی سی لحد\n<<DIVIDER>>\nکہا صغرا نے کہ مر کر تو ملونگی شہ سے\nمجھ کو معلوم ہے ہر قبر میں آتے ہیں حسین\n---اک ننھی سی لحد\n<<DIVIDER>>\nلاش عباس پہ کہتی تھی یہ زہرا روکے\nاٹھو عباس تمہیں کب سے بلاتے ہیں حسین\n---اک ننھی سی لحد\n<<DIVIDER>>\nکوئی زینب کو بلا لاےء تکلم جا کر\nبرچی اکبر کے کلیجے سے چھڑاتے ہیں حسین\n---اک ننھی سی لحد",
+  "styling": [
+    {
+      "insert": "اک ننھی سی لحد رن میں بناتے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک میں دوسرے محسن کو چھپاتے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈالتے جاتے ہیں اصغر کے بدن پر مٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور خیموں کی طرف دیکھتے جاتے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اک ننھی سی لحد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمرتے دم ننھے سے ہاتھوں نے جسے تھاما تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب وہ دامن علی اصغر سے چھڑاتے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اک ننھی سی لحد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشے حر نے کہا رومال یہ دیدو جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم بے شیر کا ہاتھوں سے چھپاتے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اک ننھی سی لحد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈھونڈنے آینگے اس لاش کو نیزہ بردار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھپ کے بانو سے یہ زینب کو بتاتے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اک ننھی سی لحد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا صغرا نے کہ مر کر تو ملونگی شہ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو معلوم ہے ہر قبر میں آتے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اک ننھی سی لحد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاش عباس پہ کہتی تھی یہ زہرا روکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو عباس تمہیں کب سے بلاتے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اک ننھی سی لحد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی زینب کو بلا لاےء تکلم جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برچی اکبر کے کلیجے سے چھڑاتے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اک ننھی سی لحد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,551 @@
 {
   "remoteId": "g2611_u3579",
-  "title": "Zainabam",
+  "title": "زینبم",
   "body": "تنہائیء من\nمن ذوالفقار حیدرم\nمن اعتبار خواہرم\nمن زینبم\n<<DIVIDER>>\nاے شامیوں میں بنت نبی بنت علی ہوں\nزینب ہوں میں زینب ہوں میں زینب ہوں میں\nقرآن کے ساے میں پلی ہوں\nزخمی ہوں عزادار ہوں رسی میں بندھی ہوں\nمیں پھر بھی نہ ظالم سے ڈری تھی نہ ڈری ہوں\n<<DIVIDER>>\nتنہائیء من\nمن چراغِ مصطفیٰ\nمن جلال مرتظی\nمن شکستہ زینبم\nمن زینبم\n<<DIVIDER>>\nمن ذوالفقار حیدرم\nمن اعتبار خواہرم\nمن زینبم\n<<DIVIDER>>\nنیزے پہ میرے بھائی کا سر تم‌ نے چڑھایا\nتربت میں علی اور نبی کو ہے رلایا\nجتنا بھی ستانا تھا ہمیں تم نے ستایا\nپر بیعت ظالم پہ نہ سر ہم نے جھکایا\n<<DIVIDER>>\nتنہائیء من\nمن چراغِ مصطفیٰ\nمن جلال مرتظی\nمن شکستہ زینبم\nمن زینبم\n<<DIVIDER>>\nمن ذوالفقار حیدرم\nمن اعتبار خواہرم\nمن زینبم\n<<DIVIDER>>\nہے اکبر و شبیر سے عباس سے وعدہ\nجب بھی در زندان ستم مجھ پہ کھلے گا\nماتم میرے پیاروں کا بپا شام میں ہو گا\nپھر ماتم شبیر نہ تا حشر رکے گا\n<<DIVIDER>>\nتنہائیء من\nمن چراغِ مصطفیٰ\nمن جلال مرتظی\nمن شکستہ زینبم\nمن زینبم\n<<DIVIDER>>\nمن ذوالفقار حیدرم\nمن اعتبار خواہرم\nمن زینبم\n<<DIVIDER>>\nپیغام حسینی کا دیا جلتا رہے گا\nعباس کا پرچم بھی ہر ایک گھر میں لگے گا\nسلمان و علی جی عزاخانہ تو سجے گا\nاعلان صدا خطبۂ زینب یہ کرے گا\n<<DIVIDER>>\nتنہائیء من\nمن چراغِ مصطفیٰ\nمن جلال مرتظی\nمن شکستہ زینبم\nمن زینبم\n<<DIVIDER>>\nمن ذوالفقار حیدرم\nمن اعتبار خواہرم\nمن زینبم",
+  "styling": [
+    {
+      "insert": "تنہائیء من"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من ذوالفقار حیدرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من اعتبار خواہرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من زینبم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شامیوں میں بنت نبی بنت علی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب ہوں میں زینب ہوں میں زینب ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن کے ساے میں پلی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہوں عزادار ہوں رسی میں بندھی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پھر بھی نہ ظالم سے ڈری تھی نہ ڈری ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتنہائیء من"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من چراغِ مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من جلال مرتظی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من شکستہ زینبم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من زینبم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمن ذوالفقار حیدرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من اعتبار خواہرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من زینبم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزے پہ میرے بھائی کا سر تم‌ نے چڑھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تربت میں علی اور نبی کو ہے رلایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جتنا بھی ستانا تھا ہمیں تم نے ستایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پر بیعت ظالم پہ نہ سر ہم نے جھکایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتنہائیء من"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من چراغِ مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من جلال مرتظی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من شکستہ زینبم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من زینبم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمن ذوالفقار حیدرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من اعتبار خواہرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من زینبم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے اکبر و شبیر سے عباس سے وعدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب بھی در زندان ستم مجھ پہ کھلے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم میرے پیاروں کا بپا شام میں ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر ماتم شبیر نہ تا حشر رکے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتنہائیء من"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من چراغِ مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من جلال مرتظی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من شکستہ زینبم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من زینبم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمن ذوالفقار حیدرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من اعتبار خواہرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من زینبم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیغام حسینی کا دیا جلتا رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا پرچم بھی ہر ایک گھر میں لگے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلمان و علی جی عزاخانہ تو سجے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اعلان صدا خطبۂ زینب یہ کرے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتنہائیء من"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من چراغِ مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من جلال مرتظی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من شکستہ زینبم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من زینبم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمن ذوالفقار حیدرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من اعتبار خواہرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "من زینبم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Salman Azmi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,405 @@
 {
   "remoteId": "g2611_u2966",
-  "title": "Sayyeda ko na",
+  "title": "سیدہ کو نہ",
   "body": "اے مسلمانوں خدا کا خوف کھاؤ\nسیدہ کو نہ ستاؤ\n<<DIVIDER>>\nاک یتیمہ کو خدارا نہ رلاؤ\nسیدہ کو نہ ستاؤ\n<<DIVIDER>>\nکیا تمہیں داغ یتیمی کا کچھ اندازہ ہے\nزخم بابا کی جدائی کا ابھی تازہ ہے\nغم کی ماری پہ اے لوگوں رحم کھاؤ\nسیدہ کو نہ ستاؤ\nاے مسلمانوں۔۔۔\n<<DIVIDER>>\nیہ وہی در ہے سلامی جہاں دیتے تھے رسول\nیہ وہ گلشن ہے جہاں رہتے ہیں حسنین سے پھول\nلکڑیاں لے کے تم اس در پہ نہ آؤ\nسیدہ کو نہ ستاؤ\nاے مسلمانوں۔۔۔\n<<DIVIDER>>\nتم کو کیا خوف نہیں قہر خدا کا لوگوں\nیوں غریبوں کو ستانا نہیں اچھا لوگوں\nہے پیمبر کا یہ گلشن نہ جلاؤ\nسیدہ کو نہ ستاؤ\nاے مسلمانوں۔۔۔\n<<DIVIDER>>\nملکۂ شرم و حیا پر یہ ستم کیا کم تھا\nاتنا حق مانگنے دربار میں آی زہرا\nاب نہ تم ان کے دکھے دل کو دکھاؤ\nسیدہ کو نہ ستاؤ\nاے مسلمانوں۔۔۔\n<<DIVIDER>>\nکیا خبر تم کو کہ کیا تم نے ستم ڈھایا ہے\nبھرے دربار میں صدیقہ کو جھٹلایا ہے\nدرد کے تیر نہ اب اور چلاؤ\nسیدہ کو نہ ستاؤ\nاے مسلمانوں۔۔۔\n<<DIVIDER>>\nداستاں ظلم و تشدد کی وہ کرتے ہیں بیاں\nابھی رخسار پہ باقی ہے طمانچوں کے نشاں\nواسطہ تم کو خدا کا لوٹ جاؤ\nسیدہ کو نہ ستاؤ\nاے مسلمانوں۔۔۔\n<<DIVIDER>>\nاے ندیم آگ لعینوں نے لگائی جس دم\nاپنا سر پیٹ کے کہنے لگی فضہ اس دم\nزخم یہ دل پہ نبی کے نہ لگاؤ\nسیدہ کو نہ ستاؤ\nاے مسلمانوں۔۔۔",
+  "styling": [
+    {
+      "insert": "اے مسلمانوں خدا کا خوف کھاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدہ کو نہ ستاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک یتیمہ کو خدارا نہ رلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدہ کو نہ ستاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا تمہیں داغ یتیمی کا کچھ اندازہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم بابا کی جدائی کا ابھی تازہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم کی ماری پہ اے لوگوں رحم کھاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدہ کو نہ ستاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مسلمانوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ وہی در ہے سلامی جہاں دیتے تھے رسول"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وہ گلشن ہے جہاں رہتے ہیں حسنین سے پھول"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکڑیاں لے کے تم اس در پہ نہ آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدہ کو نہ ستاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مسلمانوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم کو کیا خوف نہیں قہر خدا کا لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں غریبوں کو ستانا نہیں اچھا لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے پیمبر کا یہ گلشن نہ جلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدہ کو نہ ستاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مسلمانوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nملکۂ شرم و حیا پر یہ ستم کیا کم تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا حق مانگنے دربار میں آی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہ تم ان کے دکھے دل کو دکھاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدہ کو نہ ستاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مسلمانوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا خبر تم کو کہ کیا تم نے ستم ڈھایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھرے دربار میں صدیقہ کو جھٹلایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد کے تیر نہ اب اور چلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدہ کو نہ ستاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مسلمانوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nداستاں ظلم و تشدد کی وہ کرتے ہیں بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی رخسار پہ باقی ہے طمانچوں کے نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واسطہ تم کو خدا کا لوٹ جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدہ کو نہ ستاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مسلمانوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے ندیم آگ لعینوں نے لگائی جس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنا سر پیٹ کے کہنے لگی فضہ اس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم یہ دل پہ نبی کے نہ لگاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدہ کو نہ ستاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مسلمانوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Nadeem Sultanpuri",
   "anjumans": [],
   "verified": false

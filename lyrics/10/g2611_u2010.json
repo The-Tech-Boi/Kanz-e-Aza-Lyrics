@@ -1,12 +1,332 @@
 {
   "remoteId": "g2611_u2010",
-  "title": "Khoone hyder",
+  "title": "خونِ حیدر",
   "body": "بہتا ہے خونِ حیدر کوفے میں کربلا میں\nزہرا کا گھر لٹا ہے ہاے راہ خدا میں\n<<DIVIDER>>\nاک فجر پر ہے سجدہ اک سجدہ عصر پر ہے\nاک سمت پر ہے بیٹا اک سمت پہ پدر ہے\nکیا فرق ہے بتاؤ دونوں پہ اس جفا میں\nکوفے میں کربلا میں\nبہتا ہے خونِ حیدر۔۔۔\n<<DIVIDER>>\nکوفے میں مرتظی کی بیٹی پہ ہے یتیمی\nشبیر کی یتیمہ کربوبلا میں اجڑی\nہے زینب و سکینہ اک درد کی فضا میں\nکوفے میں کربلا میں\nبہتا ہے خونِ حیدر۔۔۔\n<<DIVIDER>>\nکلثوم اور زینب پڑتی رہی ہے نوحہ\nبابا کو زخمی دیکھا بھای کو زخمی دیکھا\nمنظر ہے ایک جیسا اس دہر بے وفا میں\nکوفے میں کربلا میں\nبہتا ہے خونِ حیدر۔۔۔\n<<DIVIDER>>\nمعلوم تھا علی کو سجدہ نہ ہو گا پورا\nسرور کو بھی پتہ ہے اب آخری ہے سجدہ\nسر کو جھکایا پھر بھی تعظیم کبریا میں\nکوفے میں کربلا میں\nبہتا ہے خونِ حیدر۔۔۔\n<<DIVIDER>>\nقاسم کے ہو وہ ٹکڑے یا ہو گلوے اصغر\nاکبر کا ہو وہ سینہ یا بازوے دلاور\nعمراں کا خوں بہا ہے بغض مرتضیٰ میں\nکوفے میں کربلا میں\nبہتا ہے خونِ حیدر۔۔۔\n<<DIVIDER>>\nسلمان اور میثم تاریخ ہے بتاتی\nگزری ہے زندگی بس اولاد سیدہ کی\nماتم میں مرتظی کے شبیر کی عزا میں\nکوفے میں کربلا میں\nبہتا ہے خونِ حیدر۔۔۔",
+  "styling": [
+    {
+      "insert": "بہتا ہے خونِ حیدر کوفے میں کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کا گھر لٹا ہے ہاے راہ خدا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک فجر پر ہے سجدہ اک سجدہ عصر پر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک سمت پر ہے بیٹا اک سمت پہ پدر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا فرق ہے بتاؤ دونوں پہ اس جفا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتا ہے خونِ حیدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوفے میں مرتظی کی بیٹی پہ ہے یتیمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کی یتیمہ کربوبلا میں اجڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے زینب و سکینہ اک درد کی فضا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتا ہے خونِ حیدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکلثوم اور زینب پڑتی رہی ہے نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو زخمی دیکھا بھای کو زخمی دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منظر ہے ایک جیسا اس دہر بے وفا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتا ہے خونِ حیدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمعلوم تھا علی کو سجدہ نہ ہو گا پورا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور کو بھی پتہ ہے اب آخری ہے سجدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کو جھکایا پھر بھی تعظیم کبریا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتا ہے خونِ حیدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاسم کے ہو وہ ٹکڑے یا ہو گلوے اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کا ہو وہ سینہ یا بازوے دلاور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمراں کا خوں بہا ہے بغض مرتضیٰ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتا ہے خونِ حیدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلمان اور میثم تاریخ ہے بتاتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گزری ہے زندگی بس اولاد سیدہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم میں مرتظی کے شبیر کی عزا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتا ہے خونِ حیدر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Salman Azmi",
   "anjumans": [],
   "verified": false

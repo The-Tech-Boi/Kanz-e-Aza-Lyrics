@@ -1,12 +1,355 @@
 {
   "remoteId": "g2611_u0686",
-  "title": "Ay mere naazon ke",
+  "title": "اے میرے نازوں کے",
   "body": "اے میرے نازوں کے پالے خاک اڑانے کے لےء\nچھوڑ کر اپنی لحد ماں کربلا جاے گی\n<<DIVIDER>>\nکند خنجر سے تیری شہ رگ بچانے کے لئے\nچھوڑ کر اپنی لحد ماں کربلا جاے گی\n<<DIVIDER>>\nساتھ تیرے کون ہوگا ایک بس ام رباب\nتیرے رخ پر ایک چلو خوں کا ہوگا ہجاب\nقبر اصغر پشت خیمہ پر بنانے کے لئے\nچھوڑ کر اپنی لحد۔۔۔\nاے میرے نازوں کے۔۔۔\n<<DIVIDER>>\nہاے سورج چھپا چکا ہو ڈھل چکا ہو شب میں شام\nروز عاشورہ قیامت ہو چکی ہو اختتام\nایک یتیمی کو تیرے لاشے پہ لانے کے لئے\nچھوڑ کر اپنی لحد۔۔۔\nاے میرے نازوں کے۔۔۔\n<<DIVIDER>>\nتیرا ہمشکل پیمبر اپنا دل تھامے ہوئے\nخوں میں تر سینے پہ اپنے ہاتھ کو رکھے ہوئے\nمل کے تیرے ساتھ اکبر کو اٹھانے کے لئے\nچھوڑ کر اپنی لحد۔۔۔\nاے میرے نازوں کے۔۔۔\n<<DIVIDER>>\nجاے گا عباس تیرا حر کے استقبال کو\nدر گزر کر دے گا تو مجرم کے سب اعمال کو\nاس کے ایک رومال ماتھے پر سجانے کے لئے\nچھوڑ کر اپنی لحد۔۔۔\nاے میرے نازوں کے۔۔۔\n<<DIVIDER>>\nکیا ستم دیکھے گی زینب تیری خواہر پر ملال\nغربت سجاد کی دے گا گواہی ذوالجلال\nکر کے ہمت اس کو شعلوں سے بچانے کے لئے\nچھوڑ کر اپنی لحد۔۔۔\nاے میرے نازوں کے۔۔۔\n<<DIVIDER>>\nبولی عابد ماں جہاں ہو گی تیری مجلس بپا\nنوحہ و ماتم کی گونجے گی کہیں بھی جب صدا\nبہتے آنسوں اپنے دامن میں اٹھانے کے لئے\nچھوڑ کر اپنی لحد۔۔۔\nاے میرے نازوں کے۔۔۔",
+  "styling": [
+    {
+      "insert": "اے میرے نازوں کے پالے خاک اڑانے کے لےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ کر اپنی لحد ماں کربلا جاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکند خنجر سے تیری شہ رگ بچانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ کر اپنی لحد ماں کربلا جاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nساتھ تیرے کون ہوگا ایک بس ام رباب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے رخ پر ایک چلو خوں کا ہوگا ہجاب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر اصغر پشت خیمہ پر بنانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ کر اپنی لحد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے نازوں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے سورج چھپا چکا ہو ڈھل چکا ہو شب میں شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز عاشورہ قیامت ہو چکی ہو اختتام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک یتیمی کو تیرے لاشے پہ لانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ کر اپنی لحد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے نازوں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرا ہمشکل پیمبر اپنا دل تھامے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں میں تر سینے پہ اپنے ہاتھ کو رکھے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل کے تیرے ساتھ اکبر کو اٹھانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ کر اپنی لحد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے نازوں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاے گا عباس تیرا حر کے استقبال کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در گزر کر دے گا تو مجرم کے سب اعمال کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کے ایک رومال ماتھے پر سجانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ کر اپنی لحد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے نازوں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا ستم دیکھے گی زینب تیری خواہر پر ملال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غربت سجاد کی دے گا گواہی ذوالجلال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر کے ہمت اس کو شعلوں سے بچانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ کر اپنی لحد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے نازوں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبولی عابد ماں جہاں ہو گی تیری مجلس بپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ و ماتم کی گونجے گی کہیں بھی جب صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتے آنسوں اپنے دامن میں اٹھانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ کر اپنی لحد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے نازوں کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Abid",
   "anjumans": [],
   "verified": false

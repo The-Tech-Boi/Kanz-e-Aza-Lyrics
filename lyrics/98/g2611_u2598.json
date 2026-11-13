@@ -1,12 +1,365 @@
 {
   "remoteId": "g2611_u2598",
-  "title": "Pani pilao",
+  "title": "پانی پلاؤ",
   "body": "پانی پلاؤ سبیلیں لگاؤ\n<<DIVIDER>>\nپانی پیو تو یاد کرو پیاس امام کی\nپیاسوں سبیلیں ہے یہ شہیدوں کے نام کی\n<<DIVIDER>>\nمحمد کا پیاسا نواسہ ہے یہ\nعلی اور زہرا کا پیارا ہے یہ\nپانی پلاؤ۔۔۔\n<<DIVIDER>>\nکیء روز کا ہاے تشنہ دہن ہے\nمسافر ہے اور یہ غریب الوطن ہے\nکہ ٹوٹے دلوں کا سہارا ہے یہ\nپانی پلاؤ۔۔۔\n<<DIVIDER>>\nپیارے نبی کی پیاری نشانی\nاسے مار ڈالے گی تشنہ دہانی\nمحمد کی آنکھوں کا تارہ ہے یہ\nپانی پلاؤ۔۔۔\n<<DIVIDER>>\nپلاے جو قاتل کو شربت کے ساغر\nپلاے گا جو حشر میں جام کوثر\nاسی شیر حیدر کا بیٹا ہے یہ\nپانی پلاؤ۔۔۔\n<<DIVIDER>>\nوہ چھ ماہ کا اصغر بے زباں ہے\nسکینہ سی معصوم تشنہ دہاں ہے\nمسلمانوں ہم سب کا مولا ہے یہ\nپانی پلاؤ۔۔۔\n<<DIVIDER>>\nسفر کی اذیت اٹھای ہے اس نے\nغریبوں کی بستی بسای ہے اس نے\nمدینے سے مہمان آیا ہے یہ\nپانی پلاؤ۔۔۔\n<<DIVIDER>>\nکرو پیش اس کو خراج عقیدت\nوہ جس تشنہ لب نے بچای شریعت\nمحمد کی گود کا پالا ہے یہ\nپانی پلاؤ۔۔۔\n<<DIVIDER>>\nادا کی شہادت نے یہ شادمانی\nبجھی حوض کوثر تشنہ دہانی\nظفر اور امجد کا نوحہ ہے یہ\nپانی پلاؤ۔۔۔",
+  "styling": [
+    {
+      "insert": "پانی پلاؤ سبیلیں لگاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپانی پیو تو یاد کرو پیاس امام کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسوں سبیلیں ہے یہ شہیدوں کے نام کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمحمد کا پیاسا نواسہ ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی اور زہرا کا پیارا ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پلاؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیء روز کا ہاے تشنہ دہن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسافر ہے اور یہ غریب الوطن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ ٹوٹے دلوں کا سہارا ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پلاؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیارے نبی کی پیاری نشانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسے مار ڈالے گی تشنہ دہانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محمد کی آنکھوں کا تارہ ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پلاؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپلاے جو قاتل کو شربت کے ساغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پلاے گا جو حشر میں جام کوثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی شیر حیدر کا بیٹا ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پلاؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ چھ ماہ کا اصغر بے زباں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سی معصوم تشنہ دہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلمانوں ہم سب کا مولا ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پلاؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسفر کی اذیت اٹھای ہے اس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریبوں کی بستی بسای ہے اس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدینے سے مہمان آیا ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پلاؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرو پیش اس کو خراج عقیدت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جس تشنہ لب نے بچای شریعت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محمد کی گود کا پالا ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پلاؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nادا کی شہادت نے یہ شادمانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بجھی حوض کوثر تشنہ دہانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظفر اور امجد کا نوحہ ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پلاؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Zafar",
   "anjumans": [],
   "verified": false

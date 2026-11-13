@@ -1,12 +1,416 @@
 {
   "remoteId": "g2611_u1328",
-  "title": "Ghar sakina ka hai",
+  "title": "گھر سکینہ کا ہے",
   "body": "گھر سکینہ کا ہے قید خانہ\nاب نہ ہو گا وطن اس کا جانا\n<<DIVIDER>>\nرو کے غربت سے بولی سکینہ\nجانے والوں ہمیں بھول جانا\nگھر سکینہ کا ہے۔۔۔\n<<DIVIDER>>\nقید ہے اور لحد کا اندھیرا\nاب گیا روشنی کا زمانہ\nگھر سکینہ کا ہے۔۔۔\n<<DIVIDER>>\nغم سکینہ کا سمجھا اسی نے\nجو پرندہ ہے بے آشیانہ\nگھر سکینہ کا ہے۔۔۔\n<<DIVIDER>>\nکیسے جیتی وہ جب ایک دن میں\nلٹ گیا زندگی کا خزانہ\nگھر سکینہ کا ہے۔۔۔\n<<DIVIDER>>\nجو نہ پای بابا پر اس کو\nروے گا حشر تک اب زمانہ\nگھر سکینہ کا ہے۔۔۔\n<<DIVIDER>>\nتیر جتنے چلے رنج و غم کے\nاس کا معصوم دل تھا نشانہ\nگھر سکینہ کا ہے۔۔۔\n<<DIVIDER>>\nکمسنی میں ملے زخم اتنے\nموت کا بن گیا یہ بہانہ\nگھر سکینہ کا ہے۔۔۔\n<<DIVIDER>>\nباپ مقتل میں بیٹی لحد میں\nاب کہاں روٹھنا اور منانا\nگھر سکینہ کا ہے۔۔۔\n<<DIVIDER>>\nتھی عماری سکینہ کی خالی\nقافلہ جب ہوا تھا روانہ\nگھر سکینہ کا ہے۔۔۔\n<<DIVIDER>>\nکتنی غربت میں موت آی اس کو\nتھا کفن اس کا کرتہ پرانہ\nگھر سکینہ کا ہے۔۔۔\n<<DIVIDER>>\nجاگتے جاگتے مر گیء وہ\nجس کو دشوار تھا نیند آنا\nگھر سکینہ کا ہے۔۔۔\n<<DIVIDER>>\nیاد کرنا سرور اسکی تربت\nجب اندھیرے میں شمع جلانا\nگھر سکینہ کا ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "گھر سکینہ کا ہے قید خانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہ ہو گا وطن اس کا جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو کے غربت سے بولی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے والوں ہمیں بھول جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سکینہ کا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقید ہے اور لحد کا اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب گیا روشنی کا زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سکینہ کا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم سکینہ کا سمجھا اسی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو پرندہ ہے بے آشیانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سکینہ کا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے جیتی وہ جب ایک دن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ گیا زندگی کا خزانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سکینہ کا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو نہ پای بابا پر اس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روے گا حشر تک اب زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سکینہ کا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیر جتنے چلے رنج و غم کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کا معصوم دل تھا نشانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سکینہ کا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکمسنی میں ملے زخم اتنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کا بن گیا یہ بہانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سکینہ کا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ مقتل میں بیٹی لحد میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کہاں روٹھنا اور منانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سکینہ کا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھی عماری سکینہ کی خالی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ جب ہوا تھا روانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سکینہ کا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنی غربت میں موت آی اس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا کفن اس کا کرتہ پرانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سکینہ کا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاگتے جاگتے مر گیء وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو دشوار تھا نیند آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سکینہ کا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد کرنا سرور اسکی تربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب اندھیرے میں شمع جلانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سکینہ کا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Suroor Lakhnavi",
   "anjumans": [],
   "verified": false

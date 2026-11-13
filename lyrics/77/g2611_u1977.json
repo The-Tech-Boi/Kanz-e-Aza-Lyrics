@@ -1,12 +1,532 @@
 {
   "remoteId": "g2611_u1977",
-  "title": "Khaak pe baithi",
+  "title": "خاک پہ بیٹھی",
   "body": "ہاے زینب ہاے یتیمی\nکوفے والوں لٹ گیء زینب\nاٹھ گیا سر سے باپ کا سایہ\n<<DIVIDER>>\nخاک پہ بیٹھی سر کو جھکائے\nدکھیا کیا کیا دیکھ رہی ہے\nآج علی کی لاڈلی بیٹی\nکل کا کوفہ دیکھ رہی ہے\n<<DIVIDER>>\nہر بی بی ہے در کے سرہانے\nلے لے کر عباس کا نام\nاپنے بازو اپنے گیسوں\nاپنا چہرہ دیکھ رہی ہے\nخاک پہ بیٹھی۔۔۔\n<<DIVIDER>>\nچومتے ہیں عباس کے بازو\nفاتح خیبر اور زینب\nدرد و الم کے اس منظر میں\nدست بریدہ دیکھ رہی ہے\nخاک پہ بیٹھی۔۔۔\n<<DIVIDER>>\nزہر میں ڈوبی تیغ لگی ہے\nفرق علی سے خوں ہے رواں\nاور اس گہرے زخم میں زینب\nزخم حسینا دیکھ رہی ہے\nخاک پہ بیٹھی۔۔۔\n<<DIVIDER>>\nاشک فشاں ہے چاہنے والے\nدر پہ ہے لاکھوں کا ہجوم\nپھر بھی زینب جانے کیوں\nسرور کو اکیلا دیکھ رہی ہے\nخاک پہ بیٹھی۔۔۔\n<<DIVIDER>>\nکچھ تو پیا تھا تیغ ستم نے\nزہر ابھی کچھ شام میں ہے\nاس لئے زینب صد پارہ\nشبر کا کلیجہ دیکھ رہی ہے\nخاک پہ بیٹھی۔۔۔\n<<DIVIDER>>\nباپ کی میت مل جھل کر\nکاندھے پہ اٹھاتے ہیں شبیر\nزینب دکھیا تیروں پر سرور\nکا جنازہ دیکھ رہی ہے\nخاک پہ بیٹھی۔۔۔\n<<DIVIDER>>\nصبح کو حیدر دفن ہوئے ہیں\nشام کو حیدر کی جای\nمثل سکینہ خاک پہ بیٹھی\nباپ کا رستہ دیکھ رہی ہے\nخاک پہ بیٹھی۔۔۔\n<<DIVIDER>>\nامت کے اس ظلم پہ شاید\nیاد آتے ہیں نانا رسول\nباپ لا لاشہ دیکھ کے زینب\nسوے مدینہ دیکھ رہی ہے\nخاک پہ بیٹھی۔۔۔\n<<DIVIDER>>\nدل کو ہمارے ہوتا ہے\nمحسوس یہ عامر اور بلال\nشاید زینب لاشہء سرور\nخون میں ڈوبا دیکھ رہی ہے\nخاک پہ بیٹھی۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے زینب ہاے یتیمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے والوں لٹ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھ گیا سر سے باپ کا سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاک پہ بیٹھی سر کو جھکائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھیا کیا کیا دیکھ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج علی کی لاڈلی بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کل کا کوفہ دیکھ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر بی بی ہے در کے سرہانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لے کر عباس کا نام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بازو اپنے گیسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنا چہرہ دیکھ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پہ بیٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچومتے ہیں عباس کے بازو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاتح خیبر اور زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد و الم کے اس منظر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دست بریدہ دیکھ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پہ بیٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزہر میں ڈوبی تیغ لگی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرق علی سے خوں ہے رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اس گہرے زخم میں زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم حسینا دیکھ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پہ بیٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاشک فشاں ہے چاہنے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در پہ ہے لاکھوں کا ہجوم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی زینب جانے کیوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور کو اکیلا دیکھ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پہ بیٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ تو پیا تھا تیغ ستم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہر ابھی کچھ شام میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس لئے زینب صد پارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبر کا کلیجہ دیکھ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پہ بیٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ کی میت مل جھل کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاندھے پہ اٹھاتے ہیں شبیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب دکھیا تیروں پر سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کا جنازہ دیکھ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پہ بیٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصبح کو حیدر دفن ہوئے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کو حیدر کی جای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مثل سکینہ خاک پہ بیٹھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کا رستہ دیکھ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پہ بیٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامت کے اس ظلم پہ شاید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آتے ہیں نانا رسول"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ لا لاشہ دیکھ کے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوے مدینہ دیکھ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پہ بیٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل کو ہمارے ہوتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محسوس یہ عامر اور بلال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاید زینب لاشہء سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوبا دیکھ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پہ بیٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Bilal Kazmi",
   "anjumans": [],
   "verified": false

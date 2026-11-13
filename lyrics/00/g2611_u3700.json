@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u3700",
-  "title": "Zia e khoone",
+  "title": "ضیاے خون",
   "body": "ضیاے خونِ شہیداں کی دلکشی زینب\nحسینیت کے چراغوں کی روشنی زینب\n<<DIVIDER>>\nکیا وہ راہ میں برتاؤ کلمہ گویوں نے\nکہ جیسے تھی نہ نواسی رسول کی زینب\nضیاے خونِ شہیداں۔۔۔\n<<DIVIDER>>\nعزاے شاہ میں ہی زندگی تمام ہوی\nنہ اپنے عون و محمد کو رو سکی زینب\nضیاے خونِ شہیداں۔۔۔\n<<DIVIDER>>\nعلی کے لال کا لاشہ تڑپ اٹھا اس دم\nتمہارے بازو میں جس دم رسن بندھی زینب\nضیاے خونِ شہیداں۔۔۔\n<<DIVIDER>>\nکس نے مارا جو پتھر تو چپ رہی لیکن\nکہا جو باغی کسی نے تو رو پڑی زینب\nضیاے خونِ شہیداں۔۔۔\n<<DIVIDER>>\nلہو میں ڈوبی ہوی بیڑیاں مہاری کی\nسفر میں تھام کے دل دیکھتی رہی زینب\nضیاے خونِ شہیداں۔۔۔\n<<DIVIDER>>\nحسین چور تھے زخموں سے پھر بھی اٹھ بیٹھے\nکہا جو شمر نے خیمے سے آ گیء زینب\nضیاے خونِ شہیداں۔۔۔\n<<DIVIDER>>\nہجاب میں بھی جہاں سے گزر نہ مشکل تھا\nوہاں پہ کیسے کھلے سر کھڑی رہی زینب\nضیاے خونِ شہیداں۔۔۔\n<<DIVIDER>>\nحسینیت کو بقا اس لےء نثار ملی\nیزیدیت کے مقابل نہیں جھکی زینب\nضیاے خونِ شہیداں۔۔۔",
+  "styling": [
+    {
+      "insert": "ضیاے خونِ شہیداں کی دلکشی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسینیت کے چراغوں کی روشنی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا وہ راہ میں برتاؤ کلمہ گویوں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ جیسے تھی نہ نواسی رسول کی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضیاے خونِ شہیداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعزاے شاہ میں ہی زندگی تمام ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ اپنے عون و محمد کو رو سکی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضیاے خونِ شہیداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی کے لال کا لاشہ تڑپ اٹھا اس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے بازو میں جس دم رسن بندھی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضیاے خونِ شہیداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس نے مارا جو پتھر تو چپ رہی لیکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا جو باغی کسی نے تو رو پڑی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضیاے خونِ شہیداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلہو میں ڈوبی ہوی بیڑیاں مہاری کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر میں تھام کے دل دیکھتی رہی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضیاے خونِ شہیداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین چور تھے زخموں سے پھر بھی اٹھ بیٹھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا جو شمر نے خیمے سے آ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضیاے خونِ شہیداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہجاب میں بھی جہاں سے گزر نہ مشکل تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہاں پہ کیسے کھلے سر کھڑی رہی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضیاے خونِ شہیداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسینیت کو بقا اس لےء نثار ملی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یزیدیت کے مقابل نہیں جھکی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضیاے خونِ شہیداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Salaams"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Baba Nisaar Haideri",
   "anjumans": [],
   "verified": false

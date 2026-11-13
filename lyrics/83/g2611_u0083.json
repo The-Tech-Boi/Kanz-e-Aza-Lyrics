@@ -1,12 +1,468 @@
 {
   "remoteId": "g2611_u0083",
-  "title": "Aakhri raat hai",
+  "title": "آخری رات ہے",
   "body": "شمع زندان میں منگا دے کوئی\nآخری رات ہے سکینہ کی\n<<DIVIDER>>\nجا رہی ہے حسین کی بیٹی\nآخری رات ہے سکینہ کی\n<<DIVIDER>>\nیہ جو گردن پہ ہیں رسن کے نشاں\nساتھ تربت میں اسکے جاے گا\nکوئی امت رباب سے کہہ دے\nاب یہ چہرہ نظر نہ آے گا\nآج جی بھر کے دیکھ لو بی بی\nآخری رات ہے۔۔۔\n<<DIVIDER>>\nپاس بابا کے جانے والی ہے\nاب طمانچے نہ کوئی مارے گا\nقبر میں تو غموں کی ماری کے\nکوئی گوہر نہیں اتارے گا\nجاکے تربت میں چین پاے گی\nآخری رات ہے۔۔۔\n<<DIVIDER>>\nہے جنابِ امیر کی پوتی\nانتہا اس پہ ہے غریبی کی\nعالم نزع ہو گیا طاری\nسانس رکنے لگی ہے بچی کی\nریسماں اب تو کھول دو اسکی\nآخری رات ہے۔۔۔\n<<DIVIDER>>\nرونے والی کی چلتی سانسوں کو\nآج اس طرح روکا جاتا ہے\nبند ہوجاے شور گریہ کا\nسر شبیر لایا جاتا ہے\nہے ملاقات باپ بیٹی کی\nآخری رات ہے۔۔۔\n<<DIVIDER>>\nشور یہ بیڑیوں کا کہتا ہے\nکوئی اٹھتا ہے کوئی گرتا ہے\nہے خبر یہ غریب بھای کو\nدم بہن کا نکلنے والا ہے\nابھی لے گی یہ آخری ہچکی\nآخری رات ہے۔۔۔\n<<DIVIDER>>\nروکے سجاد قد سے کہتے تھے\nکیسے میت اٹھاؤں گا اس کی\nقید زنجیر میں ہے ہاتھ میرے\nقبر کیسے بناؤں گا اس کی\nبے کفن جاے گی بہن میری\nآخری رات ہے۔۔۔\n<<DIVIDER>>\nکیسا منظر تھا قید میں اکبر\nچار جانب تھا شور گریاں کا\nلاکے سجاد نے سکینہ کی\nگود میں سر جو رکھا بابا کا\nسر شبیر سے صدا آی\nآخری رات ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "شمع زندان میں منگا دے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری رات ہے سکینہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجا رہی ہے حسین کی بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری رات ہے سکینہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ جو گردن پہ ہیں رسن کے نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ تربت میں اسکے جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی امت رباب سے کہہ دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب یہ چہرہ نظر نہ آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج جی بھر کے دیکھ لو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری رات ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپاس بابا کے جانے والی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب طمانچے نہ کوئی مارے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر میں تو غموں کی ماری کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی گوہر نہیں اتارے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاکے تربت میں چین پاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری رات ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے جنابِ امیر کی پوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انتہا اس پہ ہے غریبی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عالم نزع ہو گیا طاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سانس رکنے لگی ہے بچی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ریسماں اب تو کھول دو اسکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری رات ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرونے والی کی چلتی سانسوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج اس طرح روکا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بند ہوجاے شور گریہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر شبیر لایا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے ملاقات باپ بیٹی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری رات ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشور یہ بیڑیوں کا کہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی اٹھتا ہے کوئی گرتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خبر یہ غریب بھای کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم بہن کا نکلنے والا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی لے گی یہ آخری ہچکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری رات ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروکے سجاد قد سے کہتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے میت اٹھاؤں گا اس کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنجیر میں ہے ہاتھ میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر کیسے بناؤں گا اس کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے کفن جاے گی بہن میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری رات ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسا منظر تھا قید میں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چار جانب تھا شور گریاں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاکے سجاد نے سکینہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گود میں سر جو رکھا بابا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر شبیر سے صدا آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری رات ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

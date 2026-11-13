@@ -1,12 +1,518 @@
 {
   "remoteId": "g2611_u1237",
-  "title": "Ek sitam sajjad par",
+  "title": "ایک ستم سجاد پر",
   "body": "ہاے سجاد ہاے ہاے سجاد\n<<DIVIDER>>\nایک ستم سجاد پر ایسا ہوا\nجب تلک جیتا رہا روتا رہا\n<<DIVIDER>>\nوہ ستم تھا بے ردائی شام میں\nسر کھلے زینب جو آی شام میں\nطوق دیتا تھا دہائی شام میں\nآنکھ سے خون جگر بہتا رہا\nایک ستم سجاد پر۔۔۔\nجب تلک جیتا رہا۔۔۔\n<<DIVIDER>>\nآسماں روتا تھا روتی تھی زمیں\nقلب تھے زخمی تو زخمی تھی جبیں\nبی بیوں کے نام لیتے تھے لعیں\nتھام کر دل سارباں سنتا رہا\nایک ستم سجاد پر۔۔۔\nجب تلک جیتا رہا۔۔۔\n<<DIVIDER>>\nسنگ دل أہل جفا کے سامنے\nکیا کوئی جاتا رداییں مانگنے\nدرد و غم کتنے دیےء ہیں شام‌ نے\nحق قدم پر ایک غم ملتا رہا\nایک ستم سجاد پر۔۔۔\nجب تلک جیتا رہا۔۔۔\n<<DIVIDER>>\nآسماں والے زمیں پر آ گےء\nغم کے بادل چار جانب چھا گےء\nروتے روتے قلب و جاں پتھرا گےء\nدل کو ماحول بھی دستہ رہا\nایک ستم سجاد پر۔۔۔\nجب تلک جیتا رہا۔۔۔\n<<DIVIDER>>\nجس کو سورج نے نہ دیکھا ہو کبھی\nہاے اس بی بی کی چادر چھن گیء\nموت کا ساماں تھی بس یہ گھڑی\nامتحاں دینے کو وہ جیتا رہا\nایک ستم سجاد پر۔۔۔\nجب تلک جیتا رہا۔۔۔\n<<DIVIDER>>\nبیڑیوں کے زخم سارے بھول کر\nنوحہ کرتا تھا نبی کی آل پر\nاور کبھی روتا تھا سر کو پیٹ کر\nخون دل بھی آنکھ سے بہتا رہا\nایک ستم سجاد پر۔۔۔\nجب تلک جیتا رہا۔۔۔\n<<DIVIDER>>\nزندگی تھی ہر قدم پر ایک سزا\nسانس کرتی تھی حرم پر مرثیہ\nبین کرنا بھی وہاں پر جرم تھا\nہاں مگر یہ جرم وہ کرتا رہا\nایک ستم سجاد پر۔۔۔\nجب تلک جیتا رہا۔۔۔\n<<DIVIDER>>\nکیا لکھے روادار مظہر عابدی\nلکھ نہیں سکتا وہ صدمے کوئی بھی\nبن گیء نوحہ مگر یہ بات ہی\nجب تلک جیتا رہا روتا رہا\nایک ستم سجاد پر۔۔۔\nجب تلک جیتا رہا۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے سجاد ہاے ہاے سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک ستم سجاد پر ایسا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تلک جیتا رہا روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ ستم تھا بے ردائی شام میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کھلے زینب جو آی شام میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طوق دیتا تھا دہائی شام میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھ سے خون جگر بہتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ستم سجاد پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تلک جیتا رہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآسماں روتا تھا روتی تھی زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلب تھے زخمی تو زخمی تھی جبیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بیوں کے نام لیتے تھے لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھام کر دل سارباں سنتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ستم سجاد پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تلک جیتا رہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنگ دل أہل جفا کے سامنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کوئی جاتا رداییں مانگنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد و غم کتنے دیےء ہیں شام‌ نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق قدم پر ایک غم ملتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ستم سجاد پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تلک جیتا رہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآسماں والے زمیں پر آ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم کے بادل چار جانب چھا گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے روتے قلب و جاں پتھرا گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کو ماحول بھی دستہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ستم سجاد پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تلک جیتا رہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس کو سورج نے نہ دیکھا ہو کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اس بی بی کی چادر چھن گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کا ساماں تھی بس یہ گھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امتحاں دینے کو وہ جیتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ستم سجاد پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تلک جیتا رہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیڑیوں کے زخم سارے بھول کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ کرتا تھا نبی کی آل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور کبھی روتا تھا سر کو پیٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون دل بھی آنکھ سے بہتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ستم سجاد پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تلک جیتا رہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزندگی تھی ہر قدم پر ایک سزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سانس کرتی تھی حرم پر مرثیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین کرنا بھی وہاں پر جرم تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں مگر یہ جرم وہ کرتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ستم سجاد پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تلک جیتا رہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا لکھے روادار مظہر عابدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھ نہیں سکتا وہ صدمے کوئی بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن گیء نوحہ مگر یہ بات ہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تلک جیتا رہا روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ستم سجاد پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تلک جیتا رہا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Zain-ul-Abedeen (a.s)",
+  "subcategory": "مولا سجّاد (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

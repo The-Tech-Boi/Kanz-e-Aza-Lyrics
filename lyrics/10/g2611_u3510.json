@@ -1,12 +1,301 @@
 {
   "remoteId": "g2611_u3510",
-  "title": "Zaalim ne ali ko",
+  "title": "ظالم نے علی کو",
   "body": "اکیسویں رمضان ہے عاشور محرم\nہوتا ہے بپا حیدر کرار کا‌ ماتم\n<<DIVIDER>>\nسر پیٹ کے حسنین نے مسجد میں پکارا\nظالم نے علی کو نہیں مارا ہمیں مارا\n<<DIVIDER>>\nبابا کا لہو ماہ مبارک میں بہایا\nظالم نے ہمیں عید کے نزدیک رلایا\nسر شیر خدا کا ہوا مسجد میں دو پارہ\nظالم نے علی کو۔۔۔\n<<DIVIDER>>\nکس طرح سے بن آپ کے جی پاے گی زینب\nتنہائی سے پردیس میں مر جاۓ گی زینب\nبابا یوں ہمیں چھوڑ کے جاییں نہ خدارا\nظالم نے علی کو۔۔۔\n<<DIVIDER>>\nجبرییل صدا دیتا ہے صدرہ سے تڑپ کر\nتلوار چلی سجدے میں داماد نبی پر\nعاشور سا ہے مسجد کوفہ کا نظارہ\nظالم نے علی کو۔۔۔\n<<DIVIDER>>\nاک شور ہے پھر اجڑا ہے سادات کا کنبہ\nدنیا سے سفر کرتا ہے حسنین کا بابا\nزہرا کے یتیموں پہ قیامت ہے دوبارہ\nظالم نے علی کو۔۔۔\n<<DIVIDER>>\nمولا کی خبر سنتے ہی مر جائیں گے بچے\nاس عالم غربت میں کدھر جائیں گے بچے\nاب کون ہے کوفے کے یتیموں کا سہارا\nظالم نے علی کو۔۔۔\n<<DIVIDER>>\nکیا لکھے تکلم جو شہادت کا تھا منظر\nبند آنکھیں ہوی گود میں زینب کی رہا سر\nخالق کی طرف لوٹ گیا مولا ہمارا\nظالم نے علی کو۔۔۔",
+  "styling": [
+    {
+      "insert": "اکیسویں رمضان ہے عاشور محرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتا ہے بپا حیدر کرار کا‌ ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر پیٹ کے حسنین نے مسجد میں پکارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم نے علی کو نہیں مارا ہمیں مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا کا لہو ماہ مبارک میں بہایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم نے ہمیں عید کے نزدیک رلایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر شیر خدا کا ہوا مسجد میں دو پارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم نے علی کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح سے بن آپ کے جی پاے گی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہائی سے پردیس میں مر جاۓ گی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا یوں ہمیں چھوڑ کے جاییں نہ خدارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم نے علی کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجبرییل صدا دیتا ہے صدرہ سے تڑپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تلوار چلی سجدے میں داماد نبی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور سا ہے مسجد کوفہ کا نظارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم نے علی کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک شور ہے پھر اجڑا ہے سادات کا کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا سے سفر کرتا ہے حسنین کا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کے یتیموں پہ قیامت ہے دوبارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم نے علی کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمولا کی خبر سنتے ہی مر جائیں گے بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس عالم غربت میں کدھر جائیں گے بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کون ہے کوفے کے یتیموں کا سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم نے علی کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا لکھے تکلم جو شہادت کا تھا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بند آنکھیں ہوی گود میں زینب کی رہا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خالق کی طرف لوٹ گیا مولا ہمارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم نے علی کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "group": 2026,
   "author": "Mir Takallum",
   "anjumans": [],

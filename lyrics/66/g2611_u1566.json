@@ -1,7 +1,346 @@
 {
   "remoteId": "g2611_u1566",
-  "title": "Hum zinda hai",
+  "title": "ہم زندہ ہیں",
   "body": "ہم زندہ ہیں ماتمِ شبیر کے لیے\n<<DIVIDER>>\nدورِ اُمیہ میں یہ کسکا خون تھا جو کہ بہتا تھا\nاہلِ وفا کو اہلِ اعزا کو دیواروں میں چُنا گیا\nپھر کبھی ایک صدائے پیہم آتی تھی دیواروں سے\nہم زندہ ہیں۔۔۔\n<<DIVIDER>>\nہر جابر سے ہر ظالم سے ہم تھے جو ٹکراتے تھے\nاس ماتم کی خاطر ہم نے گھر کے گھر قُربان کیے\nغالب آخر حق آیا باطل نے گُھٹنے ٹیک دیئے\nہم زندہ ہیں۔۔۔\n<<DIVIDER>>\nطوفانوں کی زد پہ ہمیشہ ہم نے دیئے جلائے ہیں\nاتنے ضدی سر کش حاسد ہم کو مٹانے آئے ہیں\nدیوانوں کے خواب ادھورے اب تک پورے ہو نہ سکے\nہم زندہ ہیں۔۔۔\n<<DIVIDER>>\nاہلِ بیت کے در کو چھوڑیں اپنا یہ کردار نہیں\nہر انسان کو رہبر کہہ دیں اپنے یہ اطوار نہیں\nکل بھی جو اپنا مولا تھا آج بھی اپنا مولا ہے\nہم زندہ ہیں۔۔۔\n<<DIVIDER>>\nکچھ دیوانے ہیں ایسے بھی کرب و بلا کو بھول گئے\nاللہ اللہ یاد رکھا اور آلِ عبا کو بھول گئے\nراہِ وفا سے ہٹنے والو تم کو کون یہ سمجھائے\nہم زندہ ہیں۔۔۔\n<<DIVIDER>>\nسر دے کر گھر بار لُٹا کر ہم نے یہ غم پایا ہے\nاس کی خاطر جانے کتنا اپنا خون بہایا ہے\nجو خون سرِ تاریخ بہا اُس خون کی خاطر بول اُٹھے\nہم زندہ ہیں۔۔۔\n<<DIVIDER>>\nجذ بہِ میثم لے کر ہم نے نفرت کا رُخ موڑ دیا\nطلم و ستم کی زنجیروں کو اپنے عمل سے توڑ دیا\nنام و نشاں تک مٹ جاتے ہیں ہم کو مٹانے والوں کے\nہم زندہ ہیں۔۔۔\n<<DIVIDER>>\nنوحہ گروں اور سینہ زنوں کو زینب دیتی ہے یہ دُعا\nگھر نہ اُجڑے ہائے کسی کا جیسے میرا گھر اُجڑا\nبس ایک ارمان ہے زینب کا قائم یہ غم صدا رہے\nہم زندہ ہیں۔۔۔",
+  "styling": [
+    {
+      "insert": "ہم زندہ ہیں ماتمِ شبیر کے لیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدورِ اُمیہ میں یہ کسکا خون تھا جو کہ بہتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ وفا کو اہلِ اعزا کو دیواروں میں چُنا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر کبھی ایک صدائے پیہم آتی تھی دیواروں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم زندہ ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر جابر سے ہر ظالم سے ہم تھے جو ٹکراتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس ماتم کی خاطر ہم نے گھر کے گھر قُربان کیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غالب آخر حق آیا باطل نے گُھٹنے ٹیک دیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم زندہ ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطوفانوں کی زد پہ ہمیشہ ہم نے دیئے جلائے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنے ضدی سر کش حاسد ہم کو مٹانے آئے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیوانوں کے خواب ادھورے اب تک پورے ہو نہ سکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم زندہ ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاہلِ بیت کے در کو چھوڑیں اپنا یہ کردار نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر انسان کو رہبر کہہ دیں اپنے یہ اطوار نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کل بھی جو اپنا مولا تھا آج بھی اپنا مولا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم زندہ ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ دیوانے ہیں ایسے بھی کرب و بلا کو بھول گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ اللہ یاد رکھا اور آلِ عبا کو بھول گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راہِ وفا سے ہٹنے والو تم کو کون یہ سمجھائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم زندہ ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر دے کر گھر بار لُٹا کر ہم نے یہ غم پایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کی خاطر جانے کتنا اپنا خون بہایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو خون سرِ تاریخ بہا اُس خون کی خاطر بول اُٹھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم زندہ ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجذ بہِ میثم لے کر ہم نے نفرت کا رُخ موڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طلم و ستم کی زنجیروں کو اپنے عمل سے توڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام و نشاں تک مٹ جاتے ہیں ہم کو مٹانے والوں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم زندہ ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوحہ گروں اور سینہ زنوں کو زینب دیتی ہے یہ دُعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر نہ اُجڑے ہائے کسی کا جیسے میرا گھر اُجڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس ایک ارمان ہے زینب کا قائم یہ غم صدا رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم زندہ ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -1,12 +1,667 @@
 {
   "remoteId": "g2611_u3397",
-  "title": "Ya maula ya ghazi",
+  "title": "یا مولا یا غازی",
   "body": "یا مولا یا غازی عباس علمدار\n<<DIVIDER>>\nسقاے سکینہ اے جانِ حزینہ\nعباس علمدار\n<<DIVIDER>>\nیا مولا یا غازی عباس علمدار\n<<DIVIDER>>\nدریا کے کنارے سو گیا\nڈھونڈا تو کہاں وہ کھو گیا\nاک شور ہے آل زہرا میں\nعاشور کو یہ کیا ہو گیا\nشبیر کے غم خوار\nدکھیاروں کے مددگار\nعباس علمدار\nیا مولا یا غازی۔۔۔\n<<DIVIDER>>\nروتا ہے فلک ہلتی ہے زمیں\nاماں کو لحد میں چین نہیں\nیہ عصر قیامت والا ہے\nہے سینۂ شہ پہ شمر لعیں\nلٹنے کو ہے سرکار آجاؤ بس ایک بار\nعباس علمدار\nیا مولا یا غازی۔۔۔\n<<DIVIDER>>\nآتی ہے سکینہ کی یہ صدا\nصورت ہمیں دکھلا جاؤ چچا\nآفت پہ ہے آفت آی ہوی\nدر لے گےء ظالم اور ردا\nپانی نہیں درکار\nکنبے سے خبر دار\nعباس علمدار\nیا مولا یا غازی۔۔۔\n<<DIVIDER>>\nنیزوں پہ ہے نیزے آے ہوے\nسید پہ ستمگر چھاے ہوے\nیہ لشکرِ اعدا کے حیوان\nبھای پہ مظالم ڈھاے ہوے\nہر سوں ہے ستمگار\nمنزل ہے یہ دشوار\nعباس علمدار\nیا مولا یا غازی۔۔۔\n<<DIVIDER>>\nسب سوتے ہیں رن میں ہو کے جدا\nاب کوئی نہیں عابد کے سوا\nمجبور سمجھ کر پیاسے کو\nدیتے ہیں اذیت اہلِ جفا\nہے نرغہء اغیار\nمشکل میں ہے بیمار\nعباس علمدار\nیا مولا یا غازی۔۔۔\n<<DIVIDER>>\nکس طرح سنبھالے دل مادر\nپھر ٹکڑے ہوا جاتا ہے جگر\nہے شور سپاہ باطل میں\nڈھونڈوں ہے کہاں خبر اصغر\nپھر نیزے ہے تیار\nاچھے نہیں آثار\nعباس علمدار\nیا مولا یا غازی۔۔۔\n<<DIVIDER>>\nچھنتی ہیں سر زینب سے ردا\nدیتی ہے بہن کب سے یہ صدا\nپردہ ہے غریبوں کا تم سے\nآجاؤ بچانے بہر خدا\nاے ثانیء کرار\nحیدر کے دل افگار\nعباس علمدار\nیا مولا یا غازی۔۔۔\n<<DIVIDER>>\nدایم وہ فغان آل نبی\nیزداں ہو بیاں کیسے وہ گھڑی\nقیدی بن کر سوے زنداں\nیہ کہتی ہوی غم خوار چلی\nکنبے کے طرفدار\nسرور سے خبر دار\nعباس علمدار\nیا مولا یا غازی۔۔۔",
+  "styling": [
+    {
+      "insert": "یا مولا یا غازی عباس علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسقاے سکینہ اے جانِ حزینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا مولا یا غازی عباس علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدریا کے کنارے سو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈا تو کہاں وہ کھو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک شور ہے آل زہرا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کو یہ کیا ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کے غم خوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھیاروں کے مددگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا یا غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتا ہے فلک ہلتی ہے زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں کو لحد میں چین نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عصر قیامت والا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے سینۂ شہ پہ شمر لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹنے کو ہے سرکار آجاؤ بس ایک بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا یا غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآتی ہے سکینہ کی یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صورت ہمیں دکھلا جاؤ چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آفت پہ ہے آفت آی ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در لے گےء ظالم اور ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی نہیں درکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کنبے سے خبر دار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا یا غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزوں پہ ہے نیزے آے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سید پہ ستمگر چھاے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ لشکرِ اعدا کے حیوان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای پہ مظالم ڈھاے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سوں ہے ستمگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منزل ہے یہ دشوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا یا غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب سوتے ہیں رن میں ہو کے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کوئی نہیں عابد کے سوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجبور سمجھ کر پیاسے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتے ہیں اذیت اہلِ جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے نرغہء اغیار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشکل میں ہے بیمار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا یا غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح سنبھالے دل مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر ٹکڑے ہوا جاتا ہے جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے شور سپاہ باطل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈوں ہے کہاں خبر اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر نیزے ہے تیار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھے نہیں آثار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا یا غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھنتی ہیں سر زینب سے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتی ہے بہن کب سے یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردہ ہے غریبوں کا تم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ بچانے بہر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ثانیء کرار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کے دل افگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا یا غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدایم وہ فغان آل نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یزداں ہو بیاں کیسے وہ گھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیدی بن کر سوے زنداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہتی ہوی غم خوار چلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کنبے کے طرفدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور سے خبر دار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مولا یا غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Dayam Najafi",
   "anjumans": [],
   "verified": false

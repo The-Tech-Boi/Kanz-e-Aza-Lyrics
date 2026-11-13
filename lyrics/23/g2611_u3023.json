@@ -1,12 +1,329 @@
 {
   "remoteId": "g2611_u3023",
-  "title": "Shabbir se mohabbat",
+  "title": "شبیر سے محبت",
   "body": "شبیر سے محبت ہے مجھ کو\nعشقِ شبیر میری دولت ہے\nمجھ کو شبیر سے ۔۔۔\n<<DIVIDER>>\nسارا عالم بنا ہوا ہے یزید\nایک شبیر کی ضرورت ہے\nمجھ کو شبیر سے ۔۔۔\n<<DIVIDER>>\nابو طالب پہ کُفر کا الزام\nیہ فقط جذبہِ رقابت ہے\nمجھ کو شبیر سے ۔۔۔\n<<DIVIDER>>\nدینِ حق میں ملوکیت کا شمول\nنسلِ سفیان کی شرارت ہے\nمجھ کو شبیر سے ۔۔۔\n<<DIVIDER>>\nکر گئی پھر حبیب شِہ کو جوان\nکتنی معجز نما محبت ہے\nمجھ کو شبیر سے ۔۔۔\n<<DIVIDER>>\nاس کو نیزہ نہ ما ابنِ انس\nتیری زد پر نبی کی صورت ہے\nمجھ کو شبیر سے ۔۔۔\n<<DIVIDER>>\nکیسے اُٹھے گی لاش اکبر کی\nباپ بوڑھا جواں کی میت ہے\nمجھ کو شبیر سے ۔۔۔\n<<DIVIDER>>\nرکھ لی ٹوٹی کمر پہ لاشِ جوان\nشاہِ دین آپ ہی کی ہمت ہے\nمجھ کو شبیر سے ۔۔۔\n<<DIVIDER>>\nرن سے آتی ہے لاش اکبر کی\nخیمہِ شِہ میں قیامت ہے\nمجھ کو شبیر سے ۔۔۔\n<<DIVIDER>>\nآ رہی ہے چچا چچا کی صدا\nقید خانے میں کس کی تُربت ہے\nمجھ کو شبیر سے ۔۔۔",
+  "styling": [
+    {
+      "insert": "شبیر سے محبت ہے مجھ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عشقِ شبیر میری دولت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو شبیر سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسارا عالم بنا ہوا ہے یزید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک شبیر کی ضرورت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو شبیر سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nابو طالب پہ کُفر کا الزام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ فقط جذبہِ رقابت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو شبیر سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدینِ حق میں ملوکیت کا شمول"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نسلِ سفیان کی شرارت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو شبیر سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکر گئی پھر حبیب شِہ کو جوان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنی معجز نما محبت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو شبیر سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس کو نیزہ نہ ما ابنِ انس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری زد پر نبی کی صورت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو شبیر سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے اُٹھے گی لاش اکبر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ بوڑھا جواں کی میت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو شبیر سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرکھ لی ٹوٹی کمر پہ لاشِ جوان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہِ دین آپ ہی کی ہمت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو شبیر سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرن سے آتی ہے لاش اکبر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمہِ شِہ میں قیامت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو شبیر سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآ رہی ہے چچا چچا کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں کس کی تُربت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو شبیر سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "anjumans": [],
   "verified": false
 }

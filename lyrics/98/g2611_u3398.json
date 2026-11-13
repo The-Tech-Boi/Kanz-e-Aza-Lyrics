@@ -1,12 +1,568 @@
 {
   "remoteId": "g2611_u3398",
-  "title": "Ya mazoom imam",
+  "title": "یا مظلوم امام",
   "body": "یا مظلوم امام\n<<DIVIDER>>\nسب کے آنسوں ہیں رواں\nسب کے لب پر ہے فغاں\nاے دل یا فاطمہ\nیا مظلوم امام\n<<DIVIDER>>\nحسین حسین حسین\nالسلام\nحسین جاں حسین جاں حسین جاں\nیا امام\nحسین جاں حسین جاں حسین جاں\nیا حسین یا حسین یا حسین\nیا حسین یا حسین یا حسین\n<<DIVIDER>>\nنوحہ ہے ماتم ہے دل گریہ کناں ہے\nہر لمحہ ہر لب پر ایک آہ و فغاں ہے\nدریا ہے پانی ہے سب کچھ تو رواں ہے\nایک گھر تھا زہرا کا اب گھر وہ کہاں ہے\nدل زہرا ہے بڑا تنہا ہے\nبڑا پیاسا ہے بڑا پیاسا ہے\n<<DIVIDER>>\nسب کے آنسوں ہیں رواں\nسب کے لب پر ہے فغاں\nاے دل یا فاطمہ\nیا مظلوم امام\nیا حسین یا حسین یا حسین\nیا حسین یا حسین یا حسین\n<<DIVIDER>>\nنہ لشکر نہ یاور نہ کوئی سہارا\nنہ بھای نہ بیٹے گھر لٹ گیا سارا\nنیزوں میں تیغوں میں زہرا کا دلارا\nکس دل سے غربت میں پیاروں کو پکارا\nکہاں ہو اکبر کہاں ہو اصغر\nصدا دو دلبر صدا دو دلبر\n<<DIVIDER>>\nسب کے آنسوں ہیں رواں\nسب کے لب پر ہے فغاں\nاے دل یا فاطمہ\nیا مظلوم امام\nیا حسین یا حسین یا حسین\nیا حسین یا حسین یا حسین\n<<DIVIDER>>\nمحشر کا منظر ہے روتا ہے بیاباں\nشعلے ہیں خیمے ہے اور شام غریباں\nنہ غازی نہ چادر زینب ہے پریشاں\nبہنوں کا بچوں کا اب کون نگہبان\nحسین آجاؤ نہ اب تڑپاو\nردا بھی لاؤ ردا بھی لاؤ\n<<DIVIDER>>\nسب کے آنسوں ہیں رواں\nسب کے لب پر ہے فغاں\nاے دل یا فاطمہ\nیا مظلوم امام\nیا حسین یا حسین یا حسین\nیا حسین یا حسین یا حسین\n<<DIVIDER>>\nالسلام\nحسین جاں حسین جاں حسین جاں\nیا امام\nحسین جاں حسین جاں حسین جاں\n<<DIVIDER>>\nیا مظلوم امام\nیا مظلوم امام\nیا مظلوم امام\nیا مظلوم امام",
+  "styling": [
+    {
+      "insert": "یا مظلوم امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب کے آنسوں ہیں رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کے لب پر ہے فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے دل یا فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مظلوم امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین حسین حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "السلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاں حسین جاں حسین جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاں حسین جاں حسین جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوحہ ہے ماتم ہے دل گریہ کناں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر لمحہ ہر لب پر ایک آہ و فغاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا ہے پانی ہے سب کچھ تو رواں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک گھر تھا زہرا کا اب گھر وہ کہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل زہرا ہے بڑا تنہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑا پیاسا ہے بڑا پیاسا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب کے آنسوں ہیں رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کے لب پر ہے فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے دل یا فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مظلوم امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ لشکر نہ یاور نہ کوئی سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ بھای نہ بیٹے گھر لٹ گیا سارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزوں میں تیغوں میں زہرا کا دلارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس دل سے غربت میں پیاروں کو پکارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں ہو اکبر کہاں ہو اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدا دو دلبر صدا دو دلبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب کے آنسوں ہیں رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کے لب پر ہے فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے دل یا فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مظلوم امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمحشر کا منظر ہے روتا ہے بیاباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شعلے ہیں خیمے ہے اور شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ غازی نہ چادر زینب ہے پریشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہنوں کا بچوں کا اب کون نگہبان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین آجاؤ نہ اب تڑپاو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ردا بھی لاؤ ردا بھی لاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب کے آنسوں ہیں رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کے لب پر ہے فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے دل یا فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مظلوم امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسین یا حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالسلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاں حسین جاں حسین جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاں حسین جاں حسین جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا مظلوم امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مظلوم امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مظلوم امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا مظلوم امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "group": 2026,
   "author": "N. Sarwar, H. Naqvi & Z. Abbas",
   "anjumans": [],

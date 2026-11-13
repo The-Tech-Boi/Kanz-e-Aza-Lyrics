@@ -1,12 +1,613 @@
 {
   "remoteId": "g2611_u0163",
-  "title": "Ab wo sajjad na",
+  "title": "اب وہ سجاد نہ",
   "body": "ہاے ہاے شام ہاے ہاے شام\n<<DIVIDER>>\nنوکِ نیزہ سے دیکھ لو بابا\nاب وہ سجاد نہ رہا سجاد\n<<DIVIDER>>\nجس گھڑی بے ردا ہوی زینب\nکربلا میں ہی مر گیا سجاد\n<<DIVIDER>>\nکیا ہے پردہ یہ شام والوں کو\nتیری دادی نے ہی سکھایا ہے\nانہیں لوگوں نے میری پھوپھیوں کو\nبے ردا شام میں پھرایا ہے\nکیا غضب ہے کہ ہاتھ پھیلا کر\nمانگتا ہے بس ایک ردا سجاد\nنوکِ نیزہ سے۔۔۔\n<<DIVIDER>>\nہاے جس نے بغیر محمل کے\nگھر سے باہر قدم نہ رکھتا تھا\nاس پھپھی کو زمانے والوں نے\nآپ کے بعد بے ردا دیکھا\nکاش عباس آج ہوتے تو\nیہ قیامت نہ دیکھتا سجاد\nنوکِ نیزہ سے۔۔۔\n<<DIVIDER>>\nسر پہ جب تک تھا آپ کا سایہ\nماؤں بہنوں کے سر پہ تھی چادر\nورنہ میں بھی علی کا بیٹا ہوں\nجانتا ہوں میں جنگ کے جوہر\nدیکھ کر بے ردا پھوپی کا سر\nشرم کے مارے جھک گیا سجاد\nنوکِ نیزہ سے۔۔۔\n<<DIVIDER>>\nننھے بچوں کے ہاتھ میں پتھر\nدے کے مارا گیا سکینہ کو\nپشت ناقہ سے بھی گرایا اور\nتازیانے لگے یتیمہ کو\nمیں بندھے ہاتھ دیکھ کر رویا\nاس نے ہر درد پر کہا سجاد\nنوکِ نیزہ سے۔۔۔\n<<DIVIDER>>\nبدر و خیبر کی جو عداوت تھی\nاس کا یوں انتقام لیتے ہیں\nشام کے لوگ بھیڑ میں ہر دم\nمیری پھوپھیوں کا نام لیتے ہیں\nتازیانے تو سہہ گیا بابا\nتنس لیکن نہ سہہ سکا سجاد\nنوکِ نیزہ سے۔۔۔\n<<DIVIDER>>\nاس طرح سے بندھے ہیں رسی سے\nہاتھ میرے گلے یتیموں کے\nنہ جھکوں تو زمین سے بابا\nپاؤں اٹھتے ہیں ننھے بچوں کے\nبس رکوع میں ہی شکر کے سجدے\nکر کے گزرے ‌گا اب تیرا سجاد\nنوکِ نیزہ سے۔۔۔\n<<DIVIDER>>\nجس بہن نے ہمیشہ جینے کی\nہاے عباس کو دعائیں دی\nبے ردا سر پہ رکھ کے ہاتھوں کو\nاس نے عباس کو صداییں دی\nسر سناں سے وہاں گرا ان کا\nاور یہاں خاک پر گرا سجاد\nنوکِ نیزہ سے۔۔۔\n<<DIVIDER>>\nاپنے مولا کے ایک آنسوں کا\nحق ادا نہ صحاب کر پایا\nگرتے اشکوں کی روشنائی سے\nدل کے قرطاس پر یہی لکھا\nکتنا گہرا تھا غم رداؤں کا\nیا خدا جانتا ہے یا سجاد\nنوکِ نیزہ سے۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے ہاے شام ہاے ہاے شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوکِ نیزہ سے دیکھ لو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب وہ سجاد نہ رہا سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس گھڑی بے ردا ہوی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا میں ہی مر گیا سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا ہے پردہ یہ شام والوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری دادی نے ہی سکھایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انہیں لوگوں نے میری پھوپھیوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا شام میں پھرایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا غضب ہے کہ ہاتھ پھیلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانگتا ہے بس ایک ردا سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ نیزہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے جس نے بغیر محمل کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سے باہر قدم نہ رکھتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس پھپھی کو زمانے والوں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے بعد بے ردا دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاش عباس آج ہوتے تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ قیامت نہ دیکھتا سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ نیزہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر پہ جب تک تھا آپ کا سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماؤں بہنوں کے سر پہ تھی چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ورنہ میں بھی علی کا بیٹا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانتا ہوں میں جنگ کے جوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر بے ردا پھوپی کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شرم کے مارے جھک گیا سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ نیزہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nننھے بچوں کے ہاتھ میں پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے کے مارا گیا سکینہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پشت ناقہ سے بھی گرایا اور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تازیانے لگے یتیمہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بندھے ہاتھ دیکھ کر رویا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس نے ہر درد پر کہا سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ نیزہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبدر و خیبر کی جو عداوت تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کا یوں انتقام لیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کے لوگ بھیڑ میں ہر دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری پھوپھیوں کا نام لیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تازیانے تو سہہ گیا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنس لیکن نہ سہہ سکا سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ نیزہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس طرح سے بندھے ہیں رسی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ میرے گلے یتیموں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جھکوں تو زمین سے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاؤں اٹھتے ہیں ننھے بچوں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس رکوع میں ہی شکر کے سجدے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر کے گزرے ‌گا اب تیرا سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ نیزہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس بہن نے ہمیشہ جینے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے عباس کو دعائیں دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا سر پہ رکھ کے ہاتھوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس نے عباس کو صداییں دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر سناں سے وہاں گرا ان کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور یہاں خاک پر گرا سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ نیزہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے مولا کے ایک آنسوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق ادا نہ صحاب کر پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرتے اشکوں کی روشنائی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کے قرطاس پر یہی لکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنا گہرا تھا غم رداؤں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا خدا جانتا ہے یا سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ نیزہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Zain-ul-Abedeen (a.s)",
+  "subcategory": "مولا سجّاد (ع)",
   "author": "Arif Sahab",
   "anjumans": [],
   "verified": false

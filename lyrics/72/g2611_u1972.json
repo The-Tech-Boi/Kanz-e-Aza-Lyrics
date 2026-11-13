@@ -1,12 +1,496 @@
 {
   "remoteId": "g2611_u1972",
-  "title": "Kha gaye shaam ke",
+  "title": "کھا گئے شام كے",
   "body": "ادارو دعا مانگو کوئی ایسے یتیم نہ ہو\nجیسے سكینہ یتیم ہوئی\n<<DIVIDER>>\nشام كے زندان میں جب سكینہ کو بابا کا سر ملا\nلپٹا كے سَر کو سینے سے بچی نے یہ کہا\nکھا گئے شام كے زنداں میں اندھیرے بابا\n<<DIVIDER>>\nکس کو کہتے ہے یتیمی یہ سنا تھا میں نے\nآپ كے بعد یہ احساس ہوا ہے بابا\nکھا گئے شام كے۔۔۔\n<<DIVIDER>>\nآپ كے بعد یتیمی کی سزا پائی ہے\nاتنی تنہا ہوں كہ سایہ ہے نہ پرچھائی ہے\nرات رو رو کے گزرتی ہے تو دن ماتم میں\nقید خانے میں یونہی سال کٹا ہے بابا\nکھا گئے شام كے۔۔۔\n<<DIVIDER>>\nزندگی میری دکھوں سے ہے عبارت بابا\nکیسی قسمت نے دکھائی ہے مصیبت بابا\nمیں جو روتی ہوں تو لگتے ہیں تمانچے بابا\nآپ کی یاد میں رونا بھی سزا ہے بابا\nکھا گئے شام كے۔۔۔\n<<DIVIDER>>\nاشک آنکھوں سے نکلتے ہیں لہو کانوں سے\nاب درندوں سے نہیں خوف ہے انسانوں سے\nایک مجبور یتیما پر ستم ڈھاتے ہیں\nمیری تقدیر میں درّوں کی جفا ہے بابا\nکھا گئے شام كے۔۔۔\n<<DIVIDER>>\nآپ کی طرح سے روٹھے ہے اُجالے بابا\nکون زندان سے اب مجھ کو نکالے بابا\nتُو نے مانگا تھا دعاؤں میں خدا سے جس کو\nاب وہی بیٹی ہے زندانِ جفا ہے بابا\nکھا گئے شام كے۔۔۔\n<<DIVIDER>>\nکتنے ارمان تھے زنداں سے میں گھر جاؤں گی\nایسا لگتا ہے یہیں رَو رَو كے مر جاؤں گی\nیہ ستمگار سكینہ کو کفن کیا دیں گے\nکیا کفن آپ کے لاشے کو مِلا ہے بابا\nکھا گئے شام كے۔۔۔\n<<DIVIDER>>\nبابا کہتے ہیں یہ زنداں كے اندھیرے مجھ سے\nموت ہی آئیگی اب مجھ کو دِلاسے دینے\nمیری ہر سانس ہی رہتی ہے ستم کی زد پر\nایسے جینے سے تو مرنا ہی بَھلا ہے بابا\nکھا گئے شام كے۔۔۔\n<<DIVIDER>>\nزخم لاکھوں ہیں کلیجے میں دکھاؤں کیسے\nمجھ پہ جو بیت رہی ہے وہ بتاؤں کیسے\nپیاس لگتی ہے تو پی لیتی ہوں آنسو اپنے\nشمر کے دُرّے سكینہ کی غِزا ہیں بابا\nکھا گئے شام كے۔۔۔\n<<DIVIDER>>\nلفظ مظہر نے جو لکھے ہیں لہو روتے ہیں\nشادماں آنکھ سے یوں اشکِ عزا بہتے ہیں\nایسا لگتا ہے كہ زنداں سے صدا آتی ہے\nایسا نوحہ میری غربت پہ لکھا ہے بابا\nکھا گئے شام كے۔۔۔",
+  "styling": [
+    {
+      "insert": "ادارو دعا مانگو کوئی ایسے یتیم نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے سكینہ یتیم ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام كے زندان میں جب سكینہ کو بابا کا سر ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لپٹا كے سَر کو سینے سے بچی نے یہ کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا گئے شام كے زنداں میں اندھیرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس کو کہتے ہے یتیمی یہ سنا تھا میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ كے بعد یہ احساس ہوا ہے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا گئے شام كے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ كے بعد یتیمی کی سزا پائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنی تنہا ہوں كہ سایہ ہے نہ پرچھائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات رو رو کے گزرتی ہے تو دن ماتم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں یونہی سال کٹا ہے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا گئے شام كے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزندگی میری دکھوں سے ہے عبارت بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی قسمت نے دکھائی ہے مصیبت بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جو روتی ہوں تو لگتے ہیں تمانچے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کی یاد میں رونا بھی سزا ہے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا گئے شام كے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاشک آنکھوں سے نکلتے ہیں لہو کانوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب درندوں سے نہیں خوف ہے انسانوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک مجبور یتیما پر ستم ڈھاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری تقدیر میں درّوں کی جفا ہے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا گئے شام كے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کی طرح سے روٹھے ہے اُجالے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون زندان سے اب مجھ کو نکالے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تُو نے مانگا تھا دعاؤں میں خدا سے جس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب وہی بیٹی ہے زندانِ جفا ہے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا گئے شام كے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنے ارمان تھے زنداں سے میں گھر جاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا لگتا ہے یہیں رَو رَو كے مر جاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ستمگار سكینہ کو کفن کیا دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کفن آپ کے لاشے کو مِلا ہے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا گئے شام كے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا کہتے ہیں یہ زنداں كے اندھیرے مجھ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت ہی آئیگی اب مجھ کو دِلاسے دینے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری ہر سانس ہی رہتی ہے ستم کی زد پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے جینے سے تو مرنا ہی بَھلا ہے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا گئے شام كے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخم لاکھوں ہیں کلیجے میں دکھاؤں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ جو بیت رہی ہے وہ بتاؤں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاس لگتی ہے تو پی لیتی ہوں آنسو اپنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر کے دُرّے سكینہ کی غِزا ہیں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا گئے شام كے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلفظ مظہر نے جو لکھے ہیں لہو روتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شادماں آنکھ سے یوں اشکِ عزا بہتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا لگتا ہے كہ زنداں سے صدا آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا نوحہ میری غربت پہ لکھا ہے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا گئے شام كے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u3058",
-  "title": "Sheh kehte thay",
+  "title": "شہ کہتے تھے",
   "body": "شہ کہتے تھے یہ ہاتھ ہٹاؤ علی اکبر\nبرچھی کہاں کھای ہے دکھاؤ علی اکبر\n<<DIVIDER>>\nافسوس ہمیں لاش تمہاری ہے اٹھانی\nہم تو یہ جو چاہا تھا میرے یوسف ثانی\nماں باپ کا تم لاشہ اٹھاؤ علی اکبر\nشہ کہتے تھے۔۔۔\n<<DIVIDER>>\nیہ زخم نہیں پہلوے مادر سے تو بڑھ کر\nگھبراؤ نہ ہم صبر کریں گے میرے دلبر\nبابا سے نہ سینے کو چھپاؤ علی اکبر\nشہ کہتے تھے۔۔۔\n<<DIVIDER>>\nبازو سے پکڑ کر ہمیں غربت یہاں لای\nہم نے جو اٹھانی تھی اذیت وہ اٹھای\nشرمندہ نہ ہو نظریں ملاؤ علی اکبر\nشہ کہتے تھے۔۔۔\n<<DIVIDER>>\nجینے نہیں دے گی تمہیں ظالم کی یہ برچھی\nمقتل میں تمہارے زرا بیمار بہن کی\nکچھ دیر تو باتیں کریں آؤ علی اکبر\nشہ کہتے تھے۔۔۔\n<<DIVIDER>>\nجو دل میں تھے زینب کے وہ ارمان بڑھا لوں\nاس خوں بھرے چہرے پہ میں سہرا تو سجا لوں\nٹہرو ابھی دنیا سے نہ جاؤ علی اکبر\nشہ کہتے تھے۔۔۔\n<<DIVIDER>>\nمیں نے تو صدا دی تھی وہ اٹھتا نہیں گلفام\nنزدیک ہے اے لال میرے عصر کا ہنگام\nغازی کو اذاں دے کر بلاؤ علی اکبر\nشہ کہتے تھے۔۔۔\n<<DIVIDER>>\nتم ہچکیاں لیتے ہو نکلتا ہے میرا دم\nبازو بھی شکستہ ہوے کیسے کروں ماتم\nمیں کیا کروں غربت میں بتاؤ علی اکبر\nشہ کہتے تھے۔۔۔\n<<DIVIDER>>\nشہ بولے تکلم یہ قیامت کی گھڑی تھی\nدیکھا نہیں جاتا میری ماں کب سے کھڑی ہے\nلینے وہ تمہیں آی ہے جاؤ علی اکبر\nشہ کہتے تھے۔۔۔",
+  "styling": [
+    {
+      "insert": "شہ کہتے تھے یہ ہاتھ ہٹاؤ علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برچھی کہاں کھای ہے دکھاؤ علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nافسوس ہمیں لاش تمہاری ہے اٹھانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم تو یہ جو چاہا تھا میرے یوسف ثانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں باپ کا تم لاشہ اٹھاؤ علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ زخم نہیں پہلوے مادر سے تو بڑھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھبراؤ نہ ہم صبر کریں گے میرے دلبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا سے نہ سینے کو چھپاؤ علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازو سے پکڑ کر ہمیں غربت یہاں لای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم نے جو اٹھانی تھی اذیت وہ اٹھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شرمندہ نہ ہو نظریں ملاؤ علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجینے نہیں دے گی تمہیں ظالم کی یہ برچھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں تمہارے زرا بیمار بہن کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ دیر تو باتیں کریں آؤ علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو دل میں تھے زینب کے وہ ارمان بڑھا لوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس خوں بھرے چہرے پہ میں سہرا تو سجا لوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹہرو ابھی دنیا سے نہ جاؤ علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں نے تو صدا دی تھی وہ اٹھتا نہیں گلفام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نزدیک ہے اے لال میرے عصر کا ہنگام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کو اذاں دے کر بلاؤ علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم ہچکیاں لیتے ہو نکلتا ہے میرا دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازو بھی شکستہ ہوے کیسے کروں ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیا کروں غربت میں بتاؤ علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہ بولے تکلم یہ قیامت کی گھڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا نہیں جاتا میری ماں کب سے کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لینے وہ تمہیں آی ہے جاؤ علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

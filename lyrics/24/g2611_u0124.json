@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u0124",
-  "title": "Aap ki zahra",
+  "title": "آپکی زہرا",
   "body": "آپکی زہرا پہ یہ کیسے زمانے آے\nدیکھیےء لوگ میرے گھر کو جلانے آے\n<<DIVIDER>>\nجانے سوے تھے مدینے کے مسلمان کہاں\nجلتا در دیکھ کے فضہ یہی کرتی تھی فغاں\nآگ دروازے کی کوی تو بجھانے آے\nآپکی زہرا پہ۔۔۔\n<<DIVIDER>>\nپسلیاں ٹوٹ گیء مجھ پہ گرا دروازہ\nاور جلتا ہوا دروازے پہ ظالم گزرا\nزخم پہلو پہ میرے کتنے نہ جانے آے\nآپکی زہرا پہ۔۔۔\n<<DIVIDER>>\nتازیانہ میرے بازو پہ لگا جب بابا\nآ گئ یاد مدینے میں مجھے کربوبلا\nیاد عباس کے کٹتے ہوے شانے آے\nآپکی زہرا پہ۔۔۔\n<<DIVIDER>>\nجب سے باندھی گیء حیدر کے گلے میں رسی\nدیکھ کر زینب و کلثوم کو کہتے ہیں یہی\nکاش تم کو کوئی قیدی نہ بنانے آے\nآپکی زہرا پہ۔۔۔\n<<DIVIDER>>\nغم زدہ میرے گھرانے کو دلاسہ دینے\nکوئی محسن کا مجھے آیا نہ پرسہ دینے\nلوگ آئے بھی تو بس دل تو دکھانے آے\nآپکی زہرا پہ۔۔۔\n<<DIVIDER>>\nمیں نے مولا کو فقط یہی وصیت کی ہے\nجن مسلمانوں نے مجھ کو یہ اذیت دی ہے\nکوئی ان میں سے جنازہ نہ اٹھانے آے\nآپکی زہرا پہ۔۔۔\n<<DIVIDER>>\nآشک اس بات پہ آنکھوں سے بہے جاتے ہیں\nدیکھ آی ہوں میں دربار کسے کہتے ہیں\nیاد زینب کی اسیری کے زمانے آے\nآپکی زہرا پہ۔۔۔\n<<DIVIDER>>\nباپ کی قبر پہ اکبر وہ یہ کہہ کر روی\nمیری غربت کہ میرا بھائی نہیں ہے کوئی\nکون ہے ساتھ جو زہرا کا نبھانے آے\nآپکی زہرا پہ۔۔۔",
+  "styling": [
+    {
+      "insert": "آپکی زہرا پہ یہ کیسے زمانے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھیےء لوگ میرے گھر کو جلانے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانے سوے تھے مدینے کے مسلمان کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتا در دیکھ کے فضہ یہی کرتی تھی فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگ دروازے کی کوی تو بجھانے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپکی زہرا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپسلیاں ٹوٹ گیء مجھ پہ گرا دروازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور جلتا ہوا دروازے پہ ظالم گزرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم پہلو پہ میرے کتنے نہ جانے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپکی زہرا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتازیانہ میرے بازو پہ لگا جب بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گئ یاد مدینے میں مجھے کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد عباس کے کٹتے ہوے شانے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپکی زہرا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے باندھی گیء حیدر کے گلے میں رسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر زینب و کلثوم کو کہتے ہیں یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاش تم کو کوئی قیدی نہ بنانے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپکی زہرا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم زدہ میرے گھرانے کو دلاسہ دینے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی محسن کا مجھے آیا نہ پرسہ دینے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگ آئے بھی تو بس دل تو دکھانے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپکی زہرا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں نے مولا کو فقط یہی وصیت کی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جن مسلمانوں نے مجھ کو یہ اذیت دی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی ان میں سے جنازہ نہ اٹھانے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپکی زہرا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآشک اس بات پہ آنکھوں سے بہے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ آی ہوں میں دربار کسے کہتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد زینب کی اسیری کے زمانے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپکی زہرا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ کی قبر پہ اکبر وہ یہ کہہ کر روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری غربت کہ میرا بھائی نہیں ہے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون ہے ساتھ جو زہرا کا نبھانے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپکی زہرا پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

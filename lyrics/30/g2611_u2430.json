@@ -1,12 +1,500 @@
 {
   "remoteId": "g2611_u2430",
-  "title": "Mere raaj dulare",
+  "title": "میرے راج دلارے",
   "body": "میرے راج دلارے قاسم\nہاے قاسم ہاے قاسم\nفروا کے لبوں پر مقتل میں\nتھے درد کے مارے قاسم\n<<DIVIDER>>\nہے چشم فلک پرنم پرنم\nہے عرش پہ بھی تیرا ماتم\nروتے ہیں تیری پامالی پر\nیہ چاند ستارے قاسم\nہاے قاسم میرے راج۔۔۔\n<<DIVIDER>>\nپردیس میں پھرتے ہیں در در\nغربت کی گھٹائیں ہیں سر پر\nاب کون ہمیں پہنچاے وطن\nجب تم ہی سدھارے قاسم\nہاے قاسم میرے راج۔۔۔\n<<DIVIDER>>\nتم مجھ سے جدا یوں ہوتے ہو\nکیوں خاک پہ بکھرے سوتے ہو\nمقتل سے پلٹ کر آ جاؤ\nماں زلفیں سوارے قاسم\nہاے قاسم میرے راج۔۔۔\n<<DIVIDER>>\nواری بھی ہوا نظروں سے نہاں\nاور تم بھی سدھارے سوے جناں\nیہ عمر میری گزرے گی بھلا\nاب کس کے سہارے قاسم\nہاے قاسم میرے راج۔۔۔\n<<DIVIDER>>\nتو تین دنوں کا پیاسا ہے\nکوثر میں طلاتم برپا ہے\nتیری پیاس پہ گریا گریا ہے\nتسنیم کے دھارے قاسم\nہاے قاسم میرے راج۔۔۔\n<<DIVIDER>>\nکی فوج جفا نے کیسی جفا\nجیتے جی تجھے پامال کیا\nیوں دشت میں تم بکھرے جیسے\nقرآن کے پارے قاسم\nہاے قاسم میرے راج۔۔۔\n<<DIVIDER>>\nاس سونے سونے جنگل سے\nتم کربوبلا کے مقتل سے\nاے لال پلٹ کر آجاؤ\nماں تم کو پکارے قاسم\nہاے قاسم میرے راج۔۔۔\n<<DIVIDER>>\nروتے تھے حرم پھٹتے تھے جگر\nہوتا تھا بپا اس دم محشر\nجب کہتی تھی یہ دکھیا روکر\nمیرے آنکھ کے تارے قاسم\nہاے قاسم میرے راج۔۔۔\n<<DIVIDER>>\nخیرات پہ شہ ذیشاں کی\nرکھ لاج بلال و عرفاں کی\nمحشر میں کھڑے ہیں یہ دونوں\nبس تیرے سہارے قاسم\nہاے قاسم میرے راج۔۔۔",
+  "styling": [
+    {
+      "insert": "میرے راج دلارے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قاسم ہاے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فروا کے لبوں پر مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھے درد کے مارے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے چشم فلک پرنم پرنم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے عرش پہ بھی تیرا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے ہیں تیری پامالی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ چاند ستارے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قاسم میرے راج۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپردیس میں پھرتے ہیں در در"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غربت کی گھٹائیں ہیں سر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کون ہمیں پہنچاے وطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تم ہی سدھارے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قاسم میرے راج۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم مجھ سے جدا یوں ہوتے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں خاک پہ بکھرے سوتے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل سے پلٹ کر آ جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں زلفیں سوارے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قاسم میرے راج۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nواری بھی ہوا نظروں سے نہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور تم بھی سدھارے سوے جناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عمر میری گزرے گی بھلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کس کے سہارے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قاسم میرے راج۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو تین دنوں کا پیاسا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوثر میں طلاتم برپا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری پیاس پہ گریا گریا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تسنیم کے دھارے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قاسم میرے راج۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکی فوج جفا نے کیسی جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیتے جی تجھے پامال کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں دشت میں تم بکھرے جیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن کے پارے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قاسم میرے راج۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس سونے سونے جنگل سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کربوبلا کے مقتل سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لال پلٹ کر آجاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں تم کو پکارے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قاسم میرے راج۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتے تھے حرم پھٹتے تھے جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتا تھا بپا اس دم محشر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کہتی تھی یہ دکھیا روکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے آنکھ کے تارے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قاسم میرے راج۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیرات پہ شہ ذیشاں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھ لاج بلال و عرفاں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محشر میں کھڑے ہیں یہ دونوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس تیرے سہارے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قاسم میرے راج۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shahzade Qasim (a.s)",
+  "subcategory": "شہزادے قاسم (ع)",
   "author": "Bilal Kazmi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,419 @@
 {
   "remoteId": "g2611_u1562",
-  "title": "Hum log mar gaye",
+  "title": "ہم لوگ مر گےء",
   "body": "کون پہنچاے گا اب رزق علی زخمی ہے\nآج کوفے کے یتیموں کی خدا خیر کرے\nکوفے میں گونجتی ہے صدا ہر یتیم کی\nہم لوگ مر گےء تیرے مرنے سے یا علی\n<<DIVIDER>>\nانیسویں کی صبح قیامت کی تھی خبر\nفاقے ہیں تین روز سے ہم بیکسوں کے گھر\nدنیا سے تم گےء تو یہ دنیا بدل گیء\nہم لوگ مر گےء۔۔۔\n<<DIVIDER>>\nکہتا ہے ہر یتیم کہ تنہا نہ چھوڑیےء\nلے جاے مجھکو ساتھ اکیلا نہ چھوڑیےء\nکوفے میں ہم غریبوں کا باقی ‌نہیں کوئی\nہم لوگ مر گےء۔۔۔\n<<DIVIDER>>\nنابینا اک ضعیف یہ کہتا ہے بارہا\nاب کون مجھکو ہاتھوں سے کھانا کھلاے گا\nآے گا کون پوچھنے اب خیریت میری\nہم لوگ مر گےء۔۔۔\n<<DIVIDER>>\nلیکر پیالے شیر آے یتیم سب\nروے حسن سے مل کے یتیمان کوفہ جب\nدروازہء علی پہ قیامت بپا ہوی\nہم لوگ مر گےء۔۔۔\n<<DIVIDER>>\nہر حال میں سنبھالنے والا چلا گیا\nغربت میں ہم کو پالنے والا چلا گیا\nکس طرح سے بھلاییں گے کریمی امام کی\nہم لوگ مر گےء۔۔۔\n<<DIVIDER>>\nپہلے ہی مضطرب تھی تبعیت حسین کی\nیاد آ گیء امام کو پھر اپنی لاڈلی\nدر پر صدا جو کوفے کے بچوں نے آ کے دی\nہم لوگ مر گےء۔۔۔\n<<DIVIDER>>\nباہر جو گھر سے آیا جنازہ امام کا\nرونے سے اہلبیت کے کوفہ لرز گیا\nچاروں طرف سے آتی تھی آواز بس یہی\nہم لوگ مر گےء۔۔۔\n<<DIVIDER>>\nیہ کون بی بی جو جنازے کے ساتھ ہے\nجھک جھک کے چل رہی ہے وہ پہلو پہ ہاتھ ہے\nکیا فاطمہ یہ سن کے مدینے سے آ گیء\nہم لوگ مر گےء۔۔۔\n<<DIVIDER>>\nماییں یہ کہکے میر تکلم ہوی نڈھال\nرکھتے تھے ان یتیموں کا کتنا علی خیال\nمحسوس ہو گی بچوں کو اب باپ کی کمی\nہم لوگ مر گےء۔۔۔",
+  "styling": [
+    {
+      "insert": "کون پہنچاے گا اب رزق علی زخمی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج کوفے کے یتیموں کی خدا خیر کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں گونجتی ہے صدا ہر یتیم کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم لوگ مر گےء تیرے مرنے سے یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانیسویں کی صبح قیامت کی تھی خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاقے ہیں تین روز سے ہم بیکسوں کے گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا سے تم گےء تو یہ دنیا بدل گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم لوگ مر گےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتا ہے ہر یتیم کہ تنہا نہ چھوڑیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے جاے مجھکو ساتھ اکیلا نہ چھوڑیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں ہم غریبوں کا باقی ‌نہیں کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم لوگ مر گےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنابینا اک ضعیف یہ کہتا ہے بارہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کون مجھکو ہاتھوں سے کھانا کھلاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے گا کون پوچھنے اب خیریت میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم لوگ مر گےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلیکر پیالے شیر آے یتیم سب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روے حسن سے مل کے یتیمان کوفہ جب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دروازہء علی پہ قیامت بپا ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم لوگ مر گےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر حال میں سنبھالنے والا چلا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غربت میں ہم کو پالنے والا چلا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح سے بھلاییں گے کریمی امام کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم لوگ مر گےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہلے ہی مضطرب تھی تبعیت حسین کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آ گیء امام کو پھر اپنی لاڈلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در پر صدا جو کوفے کے بچوں نے آ کے دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم لوگ مر گےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباہر جو گھر سے آیا جنازہ امام کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے سے اہلبیت کے کوفہ لرز گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاروں طرف سے آتی تھی آواز بس یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم لوگ مر گےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کون بی بی جو جنازے کے ساتھ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھک جھک کے چل رہی ہے وہ پہلو پہ ہاتھ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا فاطمہ یہ سن کے مدینے سے آ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم لوگ مر گےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماییں یہ کہکے میر تکلم ہوی نڈھال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھتے تھے ان یتیموں کا کتنا علی خیال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محسوس ہو گی بچوں کو اب باپ کی کمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم لوگ مر گےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

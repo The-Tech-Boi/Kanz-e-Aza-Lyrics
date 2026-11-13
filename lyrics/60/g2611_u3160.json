@@ -1,12 +1,583 @@
 {
   "remoteId": "g2611_u3160",
-  "title": "Tanha hai dulaara",
+  "title": "تنہا ہے دلارا",
   "body": "اجڑی ہوئی ہے اسے کیسے بساییں\nبکھرے ہوئے لاشوں پر سسکتی ہے ہواییں\nآتی ہے کہیں دور سے پر درد صداییں\nتنہا ہے دلارا زہرا کا\n<<DIVIDER>>\nجنگل کی فضا سنی سنی\nہر سمت اداسی ہے کیسی\nکیسا ہے یہ منظر غربت کا\nتنہا ہے دلارا۔۔۔\n<<DIVIDER>>\nآیا تھی بھرے گھر کو لے کر\nپر ازم بہتر کا لشکر\nکوی نہ رہا کوئی نہ بچا\nتنہا ہے دلارا۔۔۔\n<<DIVIDER>>\nسب ساقیء کوثر کے بچے\nدریا کے کنارے پیاسے رہے\nایک بوندھ انہیں پانی نہ ملا\nتنہا ہے دلارا۔۔۔\n<<DIVIDER>>\nہمشکل پیمبر قتل ہوا\nاکبر کا جگر برچھی سے چھدا\nہاتھوں پہ پسر کا ہے لاشہ\nتنہا ہے دلارا۔۔۔\n<<DIVIDER>>\nفروہ کا پسر وہ ابنِ حسن\nٹکڑے ٹکڑے دولہا کا بدن\nبکھرا ہوا لاشہ قاسم کا\nتنہا ہے دلارا۔۔۔\n<<DIVIDER>>\nہے سکتہ کے عالم میں کنبہ\nدلہن تھی ابھی اب ہے بیوہ\nاب کون اسے پرسہ دے گا\nتنہا ہے دلارا۔۔۔\n<<DIVIDER>>\nعباس علی سقاے حرم\nشانے ہوئے دونوں ان کے قلم\nہے سامنے بھای کا لاشہ\nتنہا ہے دلارا۔۔۔\n<<DIVIDER>>\nپیاسا ششماہا رن کو گیا\nننھے سے گلے پر تیر لگا\nبے شیر مجاہد قتل ہوا\nتنہا ہے دلارا۔۔۔\n<<DIVIDER>>\nہاتھوں میں لیےء کوزے خالی\nبے چینی وہ پیاسے بچوں کی\nسقاے سکینہ بھی نہ رہا\nتنہا ہے دلارا۔۔۔\n<<DIVIDER>>\nکوی تو زرا اس سے پوچھے\nیہ کس کی اٹھاتے ہیں لاشے\nدے کون اسے بڑھ کر پرسہ\nتنہا ہے دلارا۔۔۔\n<<DIVIDER>>\nہر سمت سے نیزے اور پتھر\nوہ شمر ستمگر کا خنجر\nاب کٹتا ہے پیاسے کا گلا\nتنہا ہے دلارا۔۔۔\n<<DIVIDER>>\nایک پیاسا مسافر جنگل میں\nخاموش کھڑا تھا مقتل میں\nزخمی زخمی ہاتف کی صدا\nتنہا ہے دلارا۔۔۔\n<<DIVIDER>>\nمقتل میں رشید ایک حشر ہوا\nسر ہو گیا شہ کا تن سے جدا\nایک بیکس ماں دیتی ہے صدا\nتنہا ہے دلارا۔۔۔",
+  "styling": [
+    {
+      "insert": "اجڑی ہوئی ہے اسے کیسے بساییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بکھرے ہوئے لاشوں پر سسکتی ہے ہواییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی ہے کہیں دور سے پر درد صداییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا زہرا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنگل کی فضا سنی سنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سمت اداسی ہے کیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا ہے یہ منظر غربت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآیا تھی بھرے گھر کو لے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پر ازم بہتر کا لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی نہ رہا کوئی نہ بچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب ساقیء کوثر کے بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کے کنارے پیاسے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بوندھ انہیں پانی نہ ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہمشکل پیمبر قتل ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کا جگر برچھی سے چھدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں پہ پسر کا ہے لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفروہ کا پسر وہ ابنِ حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑے ٹکڑے دولہا کا بدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بکھرا ہوا لاشہ قاسم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے سکتہ کے عالم میں کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دلہن تھی ابھی اب ہے بیوہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کون اسے پرسہ دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس علی سقاے حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شانے ہوئے دونوں ان کے قلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے سامنے بھای کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاسا ششماہا رن کو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھے سے گلے پر تیر لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے شیر مجاہد قتل ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھوں میں لیےء کوزے خالی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے چینی وہ پیاسے بچوں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقاے سکینہ بھی نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوی تو زرا اس سے پوچھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس کی اٹھاتے ہیں لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے کون اسے بڑھ کر پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر سمت سے نیزے اور پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شمر ستمگر کا خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کٹتا ہے پیاسے کا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک پیاسا مسافر جنگل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش کھڑا تھا مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی زخمی ہاتف کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل میں رشید ایک حشر ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر ہو گیا شہ کا تن سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بیکس ماں دیتی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے دلارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Rasheed Shaheedi",
   "anjumans": [],
   "verified": false

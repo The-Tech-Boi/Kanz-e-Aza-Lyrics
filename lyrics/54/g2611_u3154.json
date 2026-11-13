@@ -1,12 +1,384 @@
 {
   "remoteId": "g2611_u3154",
-  "title": "Talab ki manzil",
+  "title": "طلب کی منزل",
   "body": "طلب کی منزل مقصود کربلا تک ہے\nپھر اس کے بعد نظر عرش کبریا تک ہے\n<<DIVIDER>>\nوہی عمل وہی فکر و نظر وہی انداز\nنبی کے خوں کا اثر شاہ نینوا تک ہے\nطلب کی منزل۔۔۔\n<<DIVIDER>>\nخیاس کیجیےُ وہ کیا ہوگا ہر ایک عمل جس کا\nبلندیوں کے تصور کی انتہا تک ہے\nطلب کی منزل۔۔۔\n<<DIVIDER>>\nرسول پیک خدا ہے حسین پیک رسول\nخدا سے بات چلی تھی خدا نما تک ہے\nطلب کی منزل۔۔۔\n<<DIVIDER>>\nوہ دیکھو شکریہ افسانہء عروجِ بشر\nلکیر خون کی کعبے سے کربلا تک ہے\nطلب کی منزل۔۔۔\n<<DIVIDER>>\nوہ لوگ داور ماحول کے مقابل ہے\nرسائی جن کی فقط خنجر جفا تک ہے\nطلب کی منزل۔۔۔\n<<DIVIDER>>\nنہ جانے کتنے زمانوں کی منزلوں پہ محیط\nسفر مدینے سے صحرائے کربلا تک ہے\nطلب کی منزل۔۔۔\n<<DIVIDER>>\nرکیں گے باپ کے آنسوں نہ لاش اکبر پر\nیہ ضبط گریہ فقط فرست‌ وغا تک ہے\nطلب کی منزل۔۔۔\n<<DIVIDER>>\nحسین ڈھانپ لو دامن سے گردن اصغر\nکہ اب تو اشک فشاں چشمِ حرملہ تک ہے\nطلب کی منزل۔۔۔\n<<DIVIDER>>\nفشار دے نہ گراہ گو کہ اس رسن میں شقی\nبندھا ہوا کسی معصوم کا گلا تک ہے\nطلب کی منزل۔۔۔\n<<DIVIDER>>\nیزید مال غنیمت دکھا نہ لوگوں کو\nکہ اس میں زینب مظلوم کی ردا تک ہے\nطلب کی منزل۔۔۔\n<<DIVIDER>>\nنقوش پاے محمد تلاش کر عزت\nکہ حد فکر مسافر کی رہنما تک ہے\nطلب کی منزل۔۔۔",
+  "styling": [
+    {
+      "insert": "طلب کی منزل مقصود کربلا تک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر اس کے بعد نظر عرش کبریا تک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہی عمل وہی فکر و نظر وہی انداز"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی کے خوں کا اثر شاہ نینوا تک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طلب کی منزل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیاس کیجیےُ وہ کیا ہوگا ہر ایک عمل جس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلندیوں کے تصور کی انتہا تک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طلب کی منزل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرسول پیک خدا ہے حسین پیک رسول"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا سے بات چلی تھی خدا نما تک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طلب کی منزل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ دیکھو شکریہ افسانہء عروجِ بشر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکیر خون کی کعبے سے کربلا تک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طلب کی منزل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ لوگ داور ماحول کے مقابل ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسائی جن کی فقط خنجر جفا تک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طلب کی منزل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ جانے کتنے زمانوں کی منزلوں پہ محیط"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر مدینے سے صحرائے کربلا تک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طلب کی منزل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرکیں گے باپ کے آنسوں نہ لاش اکبر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ضبط گریہ فقط فرست‌ وغا تک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طلب کی منزل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین ڈھانپ لو دامن سے گردن اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اب تو اشک فشاں چشمِ حرملہ تک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طلب کی منزل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفشار دے نہ گراہ گو کہ اس رسن میں شقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بندھا ہوا کسی معصوم کا گلا تک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طلب کی منزل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیزید مال غنیمت دکھا نہ لوگوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اس میں زینب مظلوم کی ردا تک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طلب کی منزل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنقوش پاے محمد تلاش کر عزت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ حد فکر مسافر کی رہنما تک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طلب کی منزل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Izzat Lakhnavi",
   "anjumans": [],
   "verified": false

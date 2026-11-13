@@ -1,12 +1,595 @@
 {
   "remoteId": "g2611_u0865",
-  "title": "Bahot gham milay",
+  "title": "بہت غم ملے",
   "body": "بہت غم ملے بابا جاں\n<<DIVIDER>>\nزندان میں بابا کا سر جو ملا\nبالی سکینہ نے نوحہ کیا\nپردیس میں ہوگیءبے امان\nبہت غم ملے بابا جاں\n<<DIVIDER>>\nکیا کیا نہ ڈھاے ستم اشقیاء نے\nکھاتی رہی بی بیاں تازیانے\nتھی ایک رسن اور بارہ گلے\nمیں قد میں چھوٹی سب تھے بڑے\nگھٹوں پہ میں میلوں چلی بی بیاں\nبہت غم ملے۔۔۔\n<<DIVIDER>>\nشام غریباں کا غمناک منظر\nخیمے ہمارے تھے شعلوں کی ضد پر\nبستر جلا بھای سجاد کا\nگہوارہء بے زباں بھی جلا\nمنظر تھا وہ الحفیظ و الامان\nبہت غم ملے۔۔۔\n<<DIVIDER>>\nجب بن میں آی گیارہ محرم\nبابا تھا مجھ پر اسیری کا عالم\nپھر میرے دل پر ستم یہ ہوا\nنیزے پہ سر آپ کا آ گیا\nآنکھوں سے خونِ جگر تھا رواں\nبہت غم ملے۔۔۔\n<<DIVIDER>>\nمجھکو طمانچے ستمگر نے مارے\nسجاد کھاتا رہا تازیانے\nتشنہ لبی اور سفر کی تھکن\nکرتے بھی کیا دونوں بھائی بہن\nکرتے رہے صبر کا امتحان\nبہت غم ملے۔۔۔\n<<DIVIDER>>\nپھر کان زخمی کرتہ جلا تھا\nچھالے زباں پر سوکھا گلا تھا\nسوتی تو سونے نہ دیتے زرا\nروی تو رونے پہ پہرا لگا\nمجھ پر ہوی ہے بڑی سختیاں\nبہت غم ملے۔۔۔\n<<DIVIDER>>\nتھا یہ تقاضہ انکی وفا کا\nغم مجھ سے پوچھو میرے چچا کا\nدیکھے جو پھپھیوں کے سر بے ردا\nنیزے سے عمو کا سر گر گیا\nہے یاد وہ شور آہ و فغاں\nبہت غم ملے۔۔۔\n<<DIVIDER>>\nہاں میرے بابا ہے یاد اب بھی\nجب پشت ناقہ سے میں گر گیء تھی\nتم سے بچھڑ کر میں سوتی نہ تھی\nآغوش زہرا میں نیند آ گیء\nبعد اسکے پھر نیند آی کہاں\nبہت غم ملے۔۔۔\n<<DIVIDER>>\nبالوں پہ میرے جو ہے سفیدی\nغم کی فضاییں دیکھی ہے ایسی\nنوحوں کا کمسن صحیفہ ہوں میں\nاک چار سالہ ضعیفہ ہوں میں\nخم ہے کمر میرے مثل کماں\nبہت غم ملے۔۔۔\n<<DIVIDER>>\nنوحہ جو لکھا حمید عابدی نے\nلکھوایا شبیر کی لاڈلی نے\nنوحوں سے صفدر کی پہچان ہے\nبالی سکینہ کا احسان ہے\nجو آج نوحہ ہے ورد زباں\nبہت غم ملے۔۔۔",
+  "styling": [
+    {
+      "insert": "بہت غم ملے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزندان میں بابا کا سر جو ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالی سکینہ نے نوحہ کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس میں ہوگیءبے امان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت غم ملے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا کیا نہ ڈھاے ستم اشقیاء نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھاتی رہی بی بیاں تازیانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی ایک رسن اور بارہ گلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں قد میں چھوٹی سب تھے بڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹوں پہ میں میلوں چلی بی بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت غم ملے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام غریباں کا غمناک منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے ہمارے تھے شعلوں کی ضد پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بستر جلا بھای سجاد کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گہوارہء بے زباں بھی جلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منظر تھا وہ الحفیظ و الامان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت غم ملے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب بن میں آی گیارہ محرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تھا مجھ پر اسیری کا عالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر میرے دل پر ستم یہ ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ سر آپ کا آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے خونِ جگر تھا رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت غم ملے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھکو طمانچے ستمگر نے مارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کھاتا رہا تازیانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تشنہ لبی اور سفر کی تھکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتے بھی کیا دونوں بھائی بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتے رہے صبر کا امتحان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت غم ملے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر کان زخمی کرتہ جلا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھالے زباں پر سوکھا گلا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوتی تو سونے نہ دیتے زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روی تو رونے پہ پہرا لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پر ہوی ہے بڑی سختیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت غم ملے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھا یہ تقاضہ انکی وفا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم مجھ سے پوچھو میرے چچا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھے جو پھپھیوں کے سر بے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے سے عمو کا سر گر گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یاد وہ شور آہ و فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت غم ملے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاں میرے بابا ہے یاد اب بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب پشت ناقہ سے میں گر گیء تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم سے بچھڑ کر میں سوتی نہ تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آغوش زہرا میں نیند آ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد اسکے پھر نیند آی کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت غم ملے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبالوں پہ میرے جو ہے سفیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم کی فضاییں دیکھی ہے ایسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحوں کا کمسن صحیفہ ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک چار سالہ ضعیفہ ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خم ہے کمر میرے مثل کماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت غم ملے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوحہ جو لکھا حمید عابدی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھوایا شبیر کی لاڈلی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحوں سے صفدر کی پہچان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالی سکینہ کا احسان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو آج نوحہ ہے ورد زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت غم ملے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Hameed Abidi",
   "anjumans": [],
   "verified": false

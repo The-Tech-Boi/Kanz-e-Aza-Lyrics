@@ -1,12 +1,378 @@
 {
   "remoteId": "g2611_u3465",
-  "title": "Ye janaza hai ali ka",
+  "title": "یہ جنازہ ہے علی کا",
   "body": "یہ جنازہ ہے علی کا شاہ خیبر گیر کا\nیہ جنازہ ہے علی کا\nآج بابا مر گیا ہے شبر و شبیر کا\nیہ جنازہ ہے علی کا\n<<DIVIDER>>\nفاطمہ زہرا کی مرقد سے صدا آنے لگی\nہاےء صدا آنے لگی\nیہ مصایب رہ گیا تھا کیا میری تقدیر کا\n---یہ جنازہ ہے علی کا\n<<DIVIDER>>\nیا رسول اللہ یہ جبریل نے رو کر کہا\nہاے یہ رو کر کہا\nایک حلقہ اور ٹوٹا نور کی زنجیر کا\n---یہ جنازہ ہے علی کا\n<<DIVIDER>>\nکیوں چلایء تیغ حیدر پر بن ملجم بتا\nاے بن ملجم بتا\nقتل قرآں کر دیا کاٹا گلا تفسیر کا\n---یہ جنازہ ہے علی کا\n<<DIVIDER>>\nغم علی کی بیٹیوں کے پھر سے تازہ ہوگےء\nہاے تازہ ہوگےء\nغم ابھی بھولی کہاں تھی مادر دلگیر کا\n---یہ جنازہ ہے علی کا\n<<DIVIDER>>\nنزع میں جانے علی کو کیا خیال آتا رہا\nہاے خیال آتا رہا\nمنہ کبھی زینب کا دیکھا اور کبھی شبیر کا\n---یہ جنازہ ہے علی کا\n<<DIVIDER>>\nبیٹیوں کو دیکھتے ہیں اور روتے ہیں علی\nہاے روتے ہیں علی\nہاے وہ ظالم تصور شام کی تشہیر کا\n---یہ جنازہ ہے علی کا\n<<DIVIDER>>\nچھوٹے سے عباس بھی روتے ہیں سر کو پیٹ کر\nہاے سر کو پیٹ کر\nبچپنا عباس کا اور زخم دل پر تیر کا\n---یہ جنازہ ہے علی کا\n<<DIVIDER>>\nباپ کی میت سے زینب کا لپٹنا بار بار\nہاے لپٹنا بار بار\nدل ہلا دیتا تھا رونا شاہ کی ہمشیر کا\n---یہ جنازہ ہے علی کا",
+  "styling": [
+    {
+      "insert": "یہ جنازہ ہے علی کا شاہ خیبر گیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ جنازہ ہے علی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج بابا مر گیا ہے شبر و شبیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ جنازہ ہے علی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفاطمہ زہرا کی مرقد سے صدا آنے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاےء صدا آنے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ مصایب رہ گیا تھا کیا میری تقدیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ جنازہ ہے علی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا رسول اللہ یہ جبریل نے رو کر کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے یہ رو کر کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک حلقہ اور ٹوٹا نور کی زنجیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ جنازہ ہے علی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں چلایء تیغ حیدر پر بن ملجم بتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بن ملجم بتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل قرآں کر دیا کاٹا گلا تفسیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ جنازہ ہے علی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم علی کی بیٹیوں کے پھر سے تازہ ہوگےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تازہ ہوگےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم ابھی بھولی کہاں تھی مادر دلگیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ جنازہ ہے علی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنزع میں جانے علی کو کیا خیال آتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے خیال آتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منہ کبھی زینب کا دیکھا اور کبھی شبیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ جنازہ ہے علی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹیوں کو دیکھتے ہیں اور روتے ہیں علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے روتے ہیں علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے وہ ظالم تصور شام کی تشہیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ جنازہ ہے علی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھوٹے سے عباس بھی روتے ہیں سر کو پیٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے سر کو پیٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچپنا عباس کا اور زخم دل پر تیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ جنازہ ہے علی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ کی میت سے زینب کا لپٹنا بار بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے لپٹنا بار بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل ہلا دیتا تھا رونا شاہ کی ہمشیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ جنازہ ہے علی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "anjumans": [],
   "verified": false
 }

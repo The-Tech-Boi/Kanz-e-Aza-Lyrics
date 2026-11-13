@@ -1,12 +1,450 @@
 {
   "remoteId": "g2611_u3453",
-  "title": "Ye chand taare",
+  "title": "یہ چاند تارے",
   "body": "یہ چاند تارے یہ پھول کلیاں\nحسین کا غم منارہے ہیں\nجہاں میں سارے حسین والے\nحسین کا غم منارہے ہیں\n<<DIVIDER>>\nقلیل کعبہ کہاں ہو آؤ\nقلیل کربوبلا کو دیکھو\nحسین جلتی ہوئی زمیں پر\nپسر کی میت اٹھا رہے ہیں\n---یہ چاند تارے\n<<DIVIDER>>\nحسین کے یہ جگر کی طاقت\nہے جس سے ایوب کو بھی حیرت\nگلے پہ خنجر رواں ہے لیکن\nحسین کلمہ سنا رہے ہیں\n---یہ چاند تارے\n<<DIVIDER>>\nکہیں پہ اکبر سا گلبدن ہے\nکہیں پہ قاسم گل حسن ہے\nجگر کے ٹکڑوں سے شاہ والا\nزمین مقتل سجا رہے ہیں\n---یہ چاند تارے\n<<DIVIDER>>\nنہ جانے زینب نے کیسے دیکھا\nعجیب منظر وہ کربلا کا\nحسین گر گر کے اٹھ رہے ہیں\nتڑپ کے اکبر بلا رہے ہیں\n---یہ چاند تارے\n<<DIVIDER>>\nچراغ خیمہ بجھا کے سرور\nبنا گےء ہیں ایک ایسا لشکر\nانہیں چراغوں کی روشنی سے\nچراغ سب جگمگا رہے ہیں\n---یہ چاند تارے\n<<DIVIDER>>\nیہ اڑتے بادل یہ بہتے دریا\nسنو زرا کیا بتا رہے ہیں\nجہاں خدا ہے وہاں حسینی\nحسین کا غم منارہے ہیں\n---یہ چاند تارے\n<<DIVIDER>>\nپدر کے سینے پہ سونے والی\nسموں سے رہوار کے ہے لپٹی\nسکینہ شاید سمجھ گیء ہے\nکہ بابا مرنے کو جا رہے ہیں\n---یہ چاند تارے\n<<DIVIDER>>\nجہاں جہاں بھی حسینیت ہے\nریحان و سرور یہ بات سچ ہے\nحسین والے الم اٹھا کر\nحسین کا غم منارہے ہیں\n---یہ چاند تارے",
+  "styling": [
+    {
+      "insert": "یہ چاند تارے یہ پھول کلیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کا غم منارہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جہاں میں سارے حسین والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کا غم منارہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقلیل کعبہ کہاں ہو آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلیل کربوبلا کو دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جلتی ہوئی زمیں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسر کی میت اٹھا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ چاند تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین کے یہ جگر کی طاقت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے جس سے ایوب کو بھی حیرت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلے پہ خنجر رواں ہے لیکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کلمہ سنا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ چاند تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہیں پہ اکبر سا گلبدن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں پہ قاسم گل حسن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جگر کے ٹکڑوں سے شاہ والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین مقتل سجا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ چاند تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ جانے زینب نے کیسے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب منظر وہ کربلا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین گر گر کے اٹھ رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپ کے اکبر بلا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ چاند تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچراغ خیمہ بجھا کے سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنا گےء ہیں ایک ایسا لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انہیں چراغوں کی روشنی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چراغ سب جگمگا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ چاند تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ اڑتے بادل یہ بہتے دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنو زرا کیا بتا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جہاں خدا ہے وہاں حسینی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کا غم منارہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ چاند تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپدر کے سینے پہ سونے والی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سموں سے رہوار کے ہے لپٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ شاید سمجھ گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ بابا مرنے کو جا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ چاند تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجہاں جہاں بھی حسینیت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ریحان و سرور یہ بات سچ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین والے الم اٹھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کا غم منارہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---یہ چاند تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

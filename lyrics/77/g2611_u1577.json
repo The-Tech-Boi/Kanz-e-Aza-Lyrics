@@ -1,12 +1,571 @@
 {
   "remoteId": "g2611_u1577",
-  "title": "Hussain al ghareeb",
+  "title": "حسین الغریب",
   "body": "حسین العریب الغریب الحسین\nحسین اش شہید اش شہید الحسین\n<<DIVIDER>>\nدہائی دہائی خدارا دہائی\nیہ دشت بلا میں ہے کیسی تباہی\nبہایا ہے کس نے یہ خونِ محمد\nقیامت یہ ڈھای ہے کس نے الہی\nجوانوں بزرگوں کو مارا گیا ہے\nشہیدوں میں شامل ہے ننھا سپاہی\nحسین العریب۔۔۔\nحسین اش شہید۔۔۔\n<<DIVIDER>>\nکیا جشن برپا یوں أہل حوس نے\nشہیدوں کے لاشوں پہ ڈنکے بجاے\nجلا ڈالے آل محمد کے خیمے\nسکینہ کے منہ پر طمانچے لگاے\nجو بیمار تھا اس کا بستر نہ چھوڑا\nنبی زادیوں پر بھی درے چلاے\nحسین العریب۔۔۔\nحسین اش شہید۔۔۔\n<<DIVIDER>>\nاٹھی اپنے مرقد سے بنت محمد\nسیاہ شب کی چادر میں چہرہ چھپا کر\nگیء کربلا میں تو اس نے یہ دیکھا\nہے بوسیدہ کرتے میں ایک لاش بے سر\nبدن سارا تیروں سے چھلنی پڑا ہے\nلہو میں ہے ڈوبا ہوا سارا پیکر\nحسین العریب۔۔۔\nحسین اش شہید۔۔۔\n<<DIVIDER>>\nتڑپ کر وہ چلای شبیر بیٹا\nلہو میں نہاے ہو سر بھی جدا ہے\nتبر کس نے مارے ہیں سارے بدن پر\nیہ تیروں پہ کس نے جنازہ رکھا ہے\nکہاں ہے میرا لال عباس بولو\nمیں پوچھوں گی اس سے یہ کیسے ہوا ہے\nحسین العریب۔۔۔\nحسین اش شہید۔۔۔\n<<DIVIDER>>\nصدا سن کے زہرا کی تھراے غازی\nجدا تن سے سر تھا دو شانے کٹے تھے\nغم و یاس و حسرت میں مجروح و مضطر\nکہے کیا کے دریا کنارے پڑے تھے\nسوے علقمہ اب جو بی بی نے دیکھا\nوفاؤں کے ساحل پہ جھنڈے گڑھے تھے\nحسین العریب۔۔۔\nحسین اش شہید۔۔۔\n<<DIVIDER>>\nادھر درد و غم کی ستای تھی زینب\nجو وحشت کے جنگل میں حیدر بنی تھی\nکبھی خاک اڑاتی کبھی اشک پیتی\nجو کنبے کے پہرے پہ تنہا کھڑی تھی\nسکینہ کے سقہ کو آواز دے کر\nغمِ شاہ دیں میں بکا کر رہی تھی\nحسین العریب۔۔۔\nحسین اش شہید۔۔۔\n<<DIVIDER>>\nکبھی دل میں دیتی وہ ماں کو صداییں\nکبھی رو کے کہتی کہ بابا کہاں ہو\nشہیدوں کا نوحہ تھا اس کی زباں پر\nابد کس طرح اس کے غم کا بیاں ہو\nہمیں بھی سعادت ہو نصرت کی حاصل\nخدارا ظہورِ امام زماں ہو\nحسین العریب۔۔۔\nحسین اش شہید۔۔۔",
+  "styling": [
+    {
+      "insert": "حسین العریب الغریب الحسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین اش شہید اش شہید الحسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدہائی دہائی خدارا دہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دشت بلا میں ہے کیسی تباہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہایا ہے کس نے یہ خونِ محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت یہ ڈھای ہے کس نے الہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوانوں بزرگوں کو مارا گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہیدوں میں شامل ہے ننھا سپاہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین العریب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین اش شہید۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا جشن برپا یوں أہل حوس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہیدوں کے لاشوں پہ ڈنکے بجاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلا ڈالے آل محمد کے خیمے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کے منہ پر طمانچے لگاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو بیمار تھا اس کا بستر نہ چھوڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی زادیوں پر بھی درے چلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین العریب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین اش شہید۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھی اپنے مرقد سے بنت محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیاہ شب کی چادر میں چہرہ چھپا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گیء کربلا میں تو اس نے یہ دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بوسیدہ کرتے میں ایک لاش بے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بدن سارا تیروں سے چھلنی پڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو میں ہے ڈوبا ہوا سارا پیکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین العریب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین اش شہید۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتڑپ کر وہ چلای شبیر بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو میں نہاے ہو سر بھی جدا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تبر کس نے مارے ہیں سارے بدن پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تیروں پہ کس نے جنازہ رکھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں ہے میرا لال عباس بولو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پوچھوں گی اس سے یہ کیسے ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین العریب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین اش شہید۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصدا سن کے زہرا کی تھراے غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جدا تن سے سر تھا دو شانے کٹے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم و یاس و حسرت میں مجروح و مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہے کیا کے دریا کنارے پڑے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوے علقمہ اب جو بی بی نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفاؤں کے ساحل پہ جھنڈے گڑھے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین العریب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین اش شہید۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nادھر درد و غم کی ستای تھی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو وحشت کے جنگل میں حیدر بنی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی خاک اڑاتی کبھی اشک پیتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو کنبے کے پہرے پہ تنہا کھڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کے سقہ کو آواز دے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمِ شاہ دیں میں بکا کر رہی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین العریب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین اش شہید۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکبھی دل میں دیتی وہ ماں کو صداییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی رو کے کہتی کہ بابا کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہیدوں کا نوحہ تھا اس کی زباں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابد کس طرح اس کے غم کا بیاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیں بھی سعادت ہو نصرت کی حاصل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدارا ظہورِ امام زماں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین العریب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین اش شہید۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Sarfaraz Abad",
   "anjumans": [],
   "verified": false

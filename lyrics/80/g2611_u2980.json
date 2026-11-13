@@ -1,7 +1,495 @@
 {
   "remoteId": "g2611_u2980",
-  "title": "Shaam chali",
+  "title": "شام چلی",
   "body": "شام چلی میں شام چلی\n<<DIVIDER>>\nپردیس میں گھر لٹوا کے\nپر تیرا دین بچا کے\nمیں شام چلی نانا\nشام چلی میں شام چلی\n<<DIVIDER>>\nبے گور و کفن بھای ہے میرا\nاسباب لٹا ہے گھر بھی جلا\nسو تیر غموں کا کھا کے\nآنکھوں سے خون بہا کے\nمیں شام چلی نانا\nشام چلی۔۔۔\n<<DIVIDER>>\nبھای کا گلا کٹتے دیکھا\nقاسم کا بدن پامال ہوا\nاکبر کا درد اٹھا کے\nہاتھوں میں رسن بندھوا کے\nمیں شام چلی نانا\nشام چلی۔۔۔\n<<DIVIDER>>\nغازی تیرے علم کی حفاظت کروں گی میں\nدنیا تیرے علم کو گھروں پر لگاے گی\nمیں آج شام لے کے چلی ہوں تیرا علم\nاک قوم ساری عمر یہ پرچم اٹھائے گی\n<<DIVIDER>>\nغازی کی بعد میں غازی ہوں\nمیں ناد علی دہراتی ہوں\nخطبوں کی تیغ چلا کے\nغازی کا علم لہرا کے\nمیں شام چلی نانا\nشام چلی۔۔۔\n<<DIVIDER>>\nرسی میں سکینہ کا ہے گلا\nسجاد پہن کر طوق چلا\nلو شمر کے درے کھا کے\nمیں صبر حسین دکھا کے\nمیں شام چلی نانا\nشام چلی۔۔۔\n<<DIVIDER>>\nآنسوں تمہاری لاشوں پہ میں نہ بہا سکی\nدو گھونٹ بھی نہ تم کو میں پانی پلا سکی\nظالم نے میرے ہاتھوں کو باندھا ستم کے ساتھ\nجس کے سبب گلے بھی نہ تم کو لگا سکی\n<<DIVIDER>>\nدو لال فدا بھای پہ کیےء\nمیں روی نہیں دونوں کے لئے\nآنکھوں میں اشک چھپا کے\nبھای کا درد بسا کے\nمیں شام چلی نانا\nشام چلی۔۔۔\n<<DIVIDER>>\nریحان نبی زادی نے کہا\nاے کربوبلا اے کربوبلا\nنانا سے کہونگی جا کے\nمیں آ گیء دین بچا کے\nمیں شام چلی نانا\nشام چلی۔۔۔",
+  "styling": [
+    {
+      "insert": "شام چلی میں شام چلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپردیس میں گھر لٹوا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پر تیرا دین بچا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں شام چلی نانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام چلی میں شام چلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے گور و کفن بھای ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسباب لٹا ہے گھر بھی جلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو تیر غموں کا کھا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے خون بہا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں شام چلی نانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام چلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای کا گلا کٹتے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کا بدن پامال ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کا درد اٹھا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں میں رسن بندھوا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں شام چلی نانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام چلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغازی تیرے علم کی حفاظت کروں گی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا تیرے علم کو گھروں پر لگاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں آج شام لے کے چلی ہوں تیرا علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک قوم ساری عمر یہ پرچم اٹھائے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغازی کی بعد میں غازی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ناد علی دہراتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خطبوں کی تیغ چلا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کا علم لہرا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں شام چلی نانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام چلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرسی میں سکینہ کا ہے گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد پہن کر طوق چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو شمر کے درے کھا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں صبر حسین دکھا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں شام چلی نانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام چلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنسوں تمہاری لاشوں پہ میں نہ بہا سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو گھونٹ بھی نہ تم کو میں پانی پلا سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم نے میرے ہاتھوں کو باندھا ستم کے ساتھ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے سبب گلے بھی نہ تم کو لگا سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدو لال فدا بھای پہ کیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں روی نہیں دونوں کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں میں اشک چھپا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کا درد بسا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں شام چلی نانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام چلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان نبی زادی نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے کربوبلا اے کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا سے کہونگی جا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں آ گیء دین بچا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں شام چلی نانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام چلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -1,12 +1,463 @@
 {
   "remoteId": "g2611_u1221",
-  "title": "Ek dukhiyari madar",
+  "title": "ایک دکھیاری مادر",
   "body": "ایک دکھیاری مادر کہتی ہے رو رو کر\nکربوبلا کے بن میں لوٹا گیا میرا گھر\n<<DIVIDER>>\nمیرے جگر کے پارے تڑپے زیر خنجر\nکربوبلا کے بن میں لوٹا گیا میرا گھر\n<<DIVIDER>>\nچاند جب ماہ محرم کا نکل آتا ہے\nدل عزاداروں کا سینے میں مچل جاتا ہے\nچہرہ غم خواروں کا پل بھر میں بدل جاتا ہے\nخونِ دل یاد میں پیاسوں کی ابل جاتا ہے\nجب کہتی ہے دکھیا ماں یہ آہیں بھر کر\nکربوبلا کے بن میں۔۔۔\nایک دکھیاری مادر۔۔۔\n<<DIVIDER>>\nچھ مہینے کا تھا جو اصغر بے شیر میرا\nتیر سہہ شوبہ اسی لال کی گردن پہ لگا\nباپ کے ہاتھوں پہ دم توڑ رہا تھا بچہ\nدیکھ کر سوے فلک روتا تھا سرور میرا\nزہرا کیسے بھولے درد بھرا وہ منظر\nکربوبلا کے بن میں۔۔۔\nایک دکھیاری مادر۔۔۔\n<<DIVIDER>>\nہاے وہ گیسوؤں والا وہ ہمارا اکبر\nنیزہ مارا ہے ستمگر نے جسے سینے پر\nجب میرا پھول گرا جلتی ہوئی ریتی پر\nلو سلام آخری بابا کو صدا دی گر کر\nبوڑھا باپ آیا ہے گھٹنوں کے بل چل کر\nکربوبلا کے بن میں۔۔۔\nایک دکھیاری مادر۔۔۔\n<<DIVIDER>>\nوہ میرا لال وہ عباس میرا شہزادہ\nبھر کے مشکیزہ وہ غازی جو نہر سے نکلا\nدونوں شانے بھی کٹے مشک چھدی واویلا\nآنکھ میں میرے دلارے کے لگا تیر جفا\nگرز لگا جب سر پہ میں تڑپی یہ کہہ کر\nکربوبلا کے بن میں۔۔۔\nایک دکھیاری مادر۔۔۔\n<<DIVIDER>>\nاے عزاداروں میرے لال کے ماتم داروں\nغم مناتے ہو میرے لال کا میرے پیاروں\nتم نہ گھبرانا مصیبت میں کبھی دلداروں\nمیرے بچوں پہ کرو آہ و بکا غم خواروں\nآنچ نہ آنے دوں گی میں تم سب کے اوپر\nکربوبلا کے بن میں۔۔۔\nایک دکھیاری مادر۔۔۔\n<<DIVIDER>>\nدل تڑپ جاتا ہے یہ سوچ کے اکثر وایض\nدیکھا ایک ماں نے نگاہوں سے وہ منظر وایض\nجس گھڑی شمر چھدا سینۂ شہ پر وایض\nرو پڑا گردن شبیر نے خنجر وایض\nروی جب دکھیاری ماں یہ نوحہ پڑھ کر\nکربوبلا کے بن میں۔۔۔\nایک دکھیاری مادر۔۔۔",
+  "styling": [
+    {
+      "insert": "ایک دکھیاری مادر کہتی ہے رو رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا کے بن میں لوٹا گیا میرا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے جگر کے پارے تڑپے زیر خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا کے بن میں لوٹا گیا میرا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاند جب ماہ محرم کا نکل آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل عزاداروں کا سینے میں مچل جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرہ غم خواروں کا پل بھر میں بدل جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خونِ دل یاد میں پیاسوں کی ابل جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کہتی ہے دکھیا ماں یہ آہیں بھر کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا کے بن میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک دکھیاری مادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھ مہینے کا تھا جو اصغر بے شیر میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیر سہہ شوبہ اسی لال کی گردن پہ لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کے ہاتھوں پہ دم توڑ رہا تھا بچہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر سوے فلک روتا تھا سرور میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کیسے بھولے درد بھرا وہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا کے بن میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک دکھیاری مادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے وہ گیسوؤں والا وہ ہمارا اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزہ مارا ہے ستمگر نے جسے سینے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب میرا پھول گرا جلتی ہوئی ریتی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو سلام آخری بابا کو صدا دی گر کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بوڑھا باپ آیا ہے گھٹنوں کے بل چل کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا کے بن میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک دکھیاری مادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ میرا لال وہ عباس میرا شہزادہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھر کے مشکیزہ وہ غازی جو نہر سے نکلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دونوں شانے بھی کٹے مشک چھدی واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھ میں میرے دلارے کے لگا تیر جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرز لگا جب سر پہ میں تڑپی یہ کہہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا کے بن میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک دکھیاری مادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے عزاداروں میرے لال کے ماتم داروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم مناتے ہو میرے لال کا میرے پیاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم نہ گھبرانا مصیبت میں کبھی دلداروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بچوں پہ کرو آہ و بکا غم خواروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنچ نہ آنے دوں گی میں تم سب کے اوپر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا کے بن میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک دکھیاری مادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل تڑپ جاتا ہے یہ سوچ کے اکثر وایض"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا ایک ماں نے نگاہوں سے وہ منظر وایض"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس گھڑی شمر چھدا سینۂ شہ پر وایض"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو پڑا گردن شبیر نے خنجر وایض"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روی جب دکھیاری ماں یہ نوحہ پڑھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا کے بن میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک دکھیاری مادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Waiz Sultanpuri",
   "anjumans": [],
   "verified": false

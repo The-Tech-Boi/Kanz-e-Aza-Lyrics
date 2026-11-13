@@ -1,12 +1,400 @@
 {
   "remoteId": "g2611_u1511",
-  "title": "Haye shame ghariban",
+  "title": "ہاے شام غریباں",
   "body": "دن ڈھل گیا ہے لوگوں\nگھر جل گیا ہے لوگوں\nزینب اجڑ گیء ہے\nہاے شام غریباں\n<<DIVIDER>>\nزینب کے سر سے دیکھو چادر بھی چھین لی ہے\nبیمار ایک جان کو کیسی سزا یہ دی ہے\nعابد بھی رو رہا ہے دامن بھگو رہا ہے\nزینب اجڑ گیء ہے\nہاے شام غریباں۔۔۔\n<<DIVIDER>>\nلوٹا ہے ظالموں نے زہرہ کے گلستاں کو\nدیکھو لگے طمانچے ننھی سی ایک جاں کو\nبے آسرا سکینہ بھائی پدر بھی چھینا\nزینب اجڑ گیء ہے\nہاے شام غریباں۔۔۔\n<<DIVIDER>>\nلاشے پہ جاکے باپ کے کہتی ہے یہ سکینہ\nپھر کب ملے گا بابا مجھکو تیرا یہ سینہ\nدشمن جہاں ہے میرا چھینا ہے پیار تیرا\nزینب اجڑ گیء ہے\nہاے شام غریباں۔۔۔\n<<DIVIDER>>\nآیا سوار کوئی خیموں میں اک ہجاب میں\nپوچھا بتول زادی نے تو کون ہے نقاب میں\nبولے علی نہ گھبرا یہ کیا ہوا ہے بتلا\nزینب اجڑ گیء ہے\nہاے شام غریباں۔۔۔\n<<DIVIDER>>\nروکے کہا یہ زینب نے ہم لٹ گےء ہیں بابا\nمیدان کربلا میں ہم مٹ گےء ہیں بابا\nہاے ظلم کیا ہوا ہے ہاے کیا ستم ہوا ہے\nزینب اجڑ گیء ہے\nہاے شام غریباں۔۔۔\n<<DIVIDER>>\nدامن کسی کا دیکھو آتش سے جل رہا ہے\nلوگوں یہی سکینہ اصغر سے جو جدا ہے\nبھائی کسی کا بچھڑا گلشن علی کا اجڑا\nزینب اجڑ گیء ہے\nہاے شام غریباں۔۔۔\n<<DIVIDER>>\nناصر یہ شام کیسی آی ہے کربلا میں\nکیا کیا مصیبتوں کو لای ہے کربلا میں\nبھائی بچھڑ گیا ہے گھر بھی اجڑ گیا ہے\nزینب اجڑ گیء ہے\nہاے شام غریباں۔۔۔",
+  "styling": [
+    {
+      "insert": "دن ڈھل گیا ہے لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر جل گیا ہے لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب اجڑ گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کے سر سے دیکھو چادر بھی چھین لی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار ایک جان کو کیسی سزا یہ دی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد بھی رو رہا ہے دامن بھگو رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب اجڑ گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلوٹا ہے ظالموں نے زہرہ کے گلستاں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو لگے طمانچے ننھی سی ایک جاں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے آسرا سکینہ بھائی پدر بھی چھینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب اجڑ گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشے پہ جاکے باپ کے کہتی ہے یہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر کب ملے گا بابا مجھکو تیرا یہ سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشمن جہاں ہے میرا چھینا ہے پیار تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب اجڑ گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآیا سوار کوئی خیموں میں اک ہجاب میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوچھا بتول زادی نے تو کون ہے نقاب میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے علی نہ گھبرا یہ کیا ہوا ہے بتلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب اجڑ گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروکے کہا یہ زینب نے ہم لٹ گےء ہیں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان کربلا میں ہم مٹ گےء ہیں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے ظلم کیا ہوا ہے ہاے کیا ستم ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب اجڑ گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدامن کسی کا دیکھو آتش سے جل رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگوں یہی سکینہ اصغر سے جو جدا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی کسی کا بچھڑا گلشن علی کا اجڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب اجڑ گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nناصر یہ شام کیسی آی ہے کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کیا مصیبتوں کو لای ہے کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی بچھڑ گیا ہے گھر بھی اجڑ گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب اجڑ گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "anjumans": [],
   "verified": false
 }

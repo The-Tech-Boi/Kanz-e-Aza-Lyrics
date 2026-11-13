@@ -1,12 +1,374 @@
 {
   "remoteId": "g2611_u2696",
-  "title": "Qatl abid shaam",
+  "title": "قتل عابد شام",
   "body": "سید زادہ سید سجاد شام کا بازار\n<<DIVIDER>>\nسر برہنہ دیکھ کے ماؤں کو خون روتا رہا\nقتل عابد شام کے ہر موڑ پہ ہوتا رہا\n<<DIVIDER>>\nبے ردا بنت پیمبر کیسے گزری شام سے\nباغی باغی کی صدا کیوں آی بلوے عام سے\nحرمت دین بے ردا تھی شام کیوں سوتا رہا\nقتل عابد شام کے۔۔۔\n<<DIVIDER>>\nغربت سجاد پہ روتی تھی کہہ کے بیڑیاں\nسید سجاد کی غیرت کروں کیسے بیاں\nسر جھکائے شام کے بازار میں روتا رہا\nقتل عابد شام کے۔۔۔\n<<DIVIDER>>\nقاتل اکبر کو لیلیٰ دیکھ کر کہنے لگی\nکیا بے ردا تھا میرے دلبر نے تیرا اے شقی\nماجرا یہ دیکھ کے اشکوں سے منہ دھوتا رہا\nقتل عابد شام کے۔۔۔\n<<DIVIDER>>\nشام کا بازار دیکھا عابد بیمار نے\nکی دعا اللہ سے یہ قافلہ سالار نے\nیہ کھلا سیدانیوں کا سر چھپا دے کبریا\nورنہ لکھ رکھی ہے میری موت اس بازار نے\n<<DIVIDER>>\nشام کا بازار ہے اور بیکس و لاچار ہے\nظلم کرنے کو تماشائی سبھی تیار ہیں\nہر تماشائی کھڑا انسانیت کھوتا رہا\nقتل عابد شام کے۔۔۔\n<<DIVIDER>>\nمادر اصغر چلی ہے راہوں میں گھٹڑی لئے\nلکڑیاں جھولے کی اس میں اور دل زخمی لئے\nبیکسی یہ دیکھ کے سجاد خون روتا رہا\nقتل عابد شام کے۔۔۔\n<<DIVIDER>>\nراہ میں گر گر کے بچے ناقوں سے مرتے رہے\nآل عمراں پہ ستمگر بس ستم کرتے رہے\nغم وہ سارے کربلا سے شام تک دھوتا رہا\nقتل عابد شام کے۔۔۔\n<<DIVIDER>>\nہاے حیدر عابد بیمار غش کھانے لگے\nاس گھڑی ریحان وہ دربار میں جانے لگے\nیہ مظالم کربلا والوں پہ بس ہوتا رہا\nقتل عابد شام کے۔۔۔",
+  "styling": [
+    {
+      "insert": "سید زادہ سید سجاد شام کا بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر برہنہ دیکھ کے ماؤں کو خون روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل عابد شام کے ہر موڑ پہ ہوتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے ردا بنت پیمبر کیسے گزری شام سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باغی باغی کی صدا کیوں آی بلوے عام سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرمت دین بے ردا تھی شام کیوں سوتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل عابد شام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغربت سجاد پہ روتی تھی کہہ کے بیڑیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سید سجاد کی غیرت کروں کیسے بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جھکائے شام کے بازار میں روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل عابد شام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاتل اکبر کو لیلیٰ دیکھ کر کہنے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بے ردا تھا میرے دلبر نے تیرا اے شقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماجرا یہ دیکھ کے اشکوں سے منہ دھوتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل عابد شام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام کا بازار دیکھا عابد بیمار نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کی دعا اللہ سے یہ قافلہ سالار نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کھلا سیدانیوں کا سر چھپا دے کبریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ورنہ لکھ رکھی ہے میری موت اس بازار نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام کا بازار ہے اور بیکس و لاچار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم کرنے کو تماشائی سبھی تیار ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر تماشائی کھڑا انسانیت کھوتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل عابد شام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمادر اصغر چلی ہے راہوں میں گھٹڑی لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکڑیاں جھولے کی اس میں اور دل زخمی لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکسی یہ دیکھ کے سجاد خون روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل عابد شام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراہ میں گر گر کے بچے ناقوں سے مرتے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل عمراں پہ ستمگر بس ستم کرتے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم وہ سارے کربلا سے شام تک دھوتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل عابد شام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے حیدر عابد بیمار غش کھانے لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس گھڑی ریحان وہ دربار میں جانے لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ مظالم کربلا والوں پہ بس ہوتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل عابد شام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Zain-ul-Abedeen (a.s)",
+  "subcategory": "مولا سجّاد (ع)",
   "group": 2026,
   "author": "Haider Sultanpuri",
   "anjumans": [],

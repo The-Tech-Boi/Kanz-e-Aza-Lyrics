@@ -1,7 +1,251 @@
 {
   "remoteId": "g2611_u2050",
-  "title": "Koi ghaibat mein",
+  "title": "کوئی غیبت میں",
   "body": "کوئی غیبت میں بیٹھا خون کے آنسو بہاتا ہے\nاُسے زینب کا جب بازار جانا یاد آتا ہے\n<<DIVIDER>>\nکوئی غمخوار غیبت میں میسر ہی نہیں اُس کو\nسو تنہائی میں ہر نوحہ وہ خود کو ہی سُناتا ہے\nکوئی غیبت میں بیٹھا ۔۔۔\n<<DIVIDER>>\nاُنہی گلیوں میںچل چل کر جہاں چلتی رہی زینب\nنشاں زینب کے قدموں کے وہ ہاتھوں سے مٹاتا ہے\nکوئی غیبت میں بیٹھا ۔۔۔\n<<DIVIDER>>\nبقیے میںصدائے واہ حسینا گونج اُٹھتی ہے\nوہ جب بھی قبرِ زہرا آکے سینے سے لگاتا ہے\nکوئی غیبت میں بیٹھا ۔۔۔\n<<DIVIDER>>\nنہیں تھمتے ہیں اُس کی آنکھ سے آنسو کسی صورت\nاُسے بے شیر کا جب مسکرانہ یاد آتا ہے\nکوئی غیبت میں بیٹھا ۔۔۔\n<<DIVIDER>>\nپدر کی گود کی خاطر سکینہ جب بھی روتی ہے\nوہ لوری باپ کے لہجے میں بیٹی کو سناتا ہے\nکوئی غیبت میں بیٹھا ۔۔۔\n<<DIVIDER>>\nخیال آتا ہے جب بھی پردئہ زینب کا مہدی کو\nکبھی تلوار پر وہ ہاتھ رکھتا ہے ہٹاتا ہے\nکوئی غیبت میں بیٹھا ۔۔۔\n<<DIVIDER>>\nوہ حُجت ہے اُسی کا کام ہے اِس درد کو سہنا\nکسی خاکی کے دل میں جون یہ غم کب سماتا ہے\nکوئی غیبت میں بیٹھا ۔۔۔",
+  "styling": [
+    {
+      "insert": "کوئی غیبت میں بیٹھا خون کے آنسو بہاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُسے زینب کا جب بازار جانا یاد آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی غمخوار غیبت میں میسر ہی نہیں اُس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو تنہائی میں ہر نوحہ وہ خود کو ہی سُناتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی غیبت میں بیٹھا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاُنہی گلیوں میںچل چل کر جہاں چلتی رہی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نشاں زینب کے قدموں کے وہ ہاتھوں سے مٹاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی غیبت میں بیٹھا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبقیے میںصدائے واہ حسینا گونج اُٹھتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جب بھی قبرِ زہرا آکے سینے سے لگاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی غیبت میں بیٹھا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہیں تھمتے ہیں اُس کی آنکھ سے آنسو کسی صورت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُسے بے شیر کا جب مسکرانہ یاد آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی غیبت میں بیٹھا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپدر کی گود کی خاطر سکینہ جب بھی روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ لوری باپ کے لہجے میں بیٹی کو سناتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی غیبت میں بیٹھا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیال آتا ہے جب بھی پردئہ زینب کا مہدی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی تلوار پر وہ ہاتھ رکھتا ہے ہٹاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی غیبت میں بیٹھا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ حُجت ہے اُسی کا کام ہے اِس درد کو سہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی خاکی کے دل میں جون یہ غم کب سماتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی غیبت میں بیٹھا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

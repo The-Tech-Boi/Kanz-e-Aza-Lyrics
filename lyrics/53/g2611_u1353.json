@@ -1,12 +1,528 @@
 {
   "remoteId": "g2611_u1353",
-  "title": "Ghazi ko bachpane",
+  "title": "غازی کو بچپنے",
   "body": "میرے بیٹا عباس\n<<DIVIDER>>\nمدینے میں ایک رات ام البنین\nبیٹے کو لوری سنا رہی ہے\nعباس عباس عباس عباس\n<<DIVIDER>>\nغازی کو بچپنے میں ماں یہ سبق پڑھاے\nتیرے بازؤوں کے ہوتے زینب نہ غم اٹھاے\n<<DIVIDER>>\nحیدر کے زوجیت میں جس دن سے ہوں میں آی\nانکے لبوں پہ میں نے بس یہ دعا ہے پای\nیا رب وہ لال دے جو زینب کے کام آے\nعباس عباس عباس عباس\nغازی کو بچپنے میں۔۔۔\n<<DIVIDER>>\nمانا کہ تو بنے گا سالار و میر لشکر\nلیکن حسین کا تو بن کر رہے گا نوکر\nاتنا خیال رکھنا سر ماں کا جھک نہ جاے\nعباس عباس عباس عباس\nغازی کو بچپنے میں۔۔۔\n<<DIVIDER>>\nآقا حسین کو تم بھای کبھی نہ کہنا\nجب تک ہے سانس باقی بن کر غلام رہنا\nمیری دعا ہے تم کو سقای راس آے\nعباس عباس عباس عباس\nغازی کو بچپنے میں۔۔۔\n<<DIVIDER>>\nمیں ہوں کنیز زہرا فضہ سے پھر بھی کم ہوں\nیہ سوچ سوچ کر میں بس مبتلاے غم ہوں\nتیرے سبب سے بیٹا زہرا نہ روٹھ جاے\nعباس عباس عباس عباس\nغازی کو بچپنے میں۔۔۔\n<<DIVIDER>>\nیہ گھر ہے سیدہ کا اس گھر کی شان پردہ\nاس گھر کی بیٹیوں کو سورج نہ دیکھ پایا\nشہزادیوں کے سر تک تیری نظر نہ جاے\nعباس عباس عباس عباس\nغازی کو بچپنے میں۔۔۔\n<<DIVIDER>>\nاب کربلا کا منظر راوی نے یوں لکھا ہے\nعباس فوج شہ کا سالار بن گیا ہے\nکس کی مجال ہے جو شہ سے نظر ملاے\nعباس عباس عباس عباس\nغازی کو بچپنے میں۔۔۔\n<<DIVIDER>>\nعاشور کو ہے ٹوٹی پیاسوں پہ کیا قیامت\nلڑنے کے مل نہ پای جرار کو اجازت\nعباس جا رہے ہیں مشک و علم اٹھاے\nعباس عباس عباس عباس\nغازی کو بچپنے میں۔۔۔\n<<DIVIDER>>\nغازی کے راستے پر نظریں ہیں بی بیوں کی\nاور ہے دعا مسلسل زینب کے یہ لبوں کی\nمیری ردا کا ضامن اے کاش لوٹ آے\nعباس عباس عباس عباس\nغازی کو بچپنے میں۔۔۔\n<<DIVIDER>>\nریحان اعظمی جب بے دست ہو کے غازی\nمقتل میں گر گیا تھا ریتی پر کربلا کی\nمادر کی وہ نصیحت غازی کو یاد آئے\nعباس عباس عباس عباس\nغازی کو بچپنے میں۔۔۔",
+  "styling": [
+    {
+      "insert": "میرے بیٹا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمدینے میں ایک رات ام البنین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹے کو لوری سنا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغازی کو بچپنے میں ماں یہ سبق پڑھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے بازؤوں کے ہوتے زینب نہ غم اٹھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحیدر کے زوجیت میں جس دن سے ہوں میں آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انکے لبوں پہ میں نے بس یہ دعا ہے پای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا رب وہ لال دے جو زینب کے کام آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کو بچپنے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمانا کہ تو بنے گا سالار و میر لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن حسین کا تو بن کر رہے گا نوکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا خیال رکھنا سر ماں کا جھک نہ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کو بچپنے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآقا حسین کو تم بھای کبھی نہ کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تک ہے سانس باقی بن کر غلام رہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری دعا ہے تم کو سقای راس آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کو بچپنے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں ہوں کنیز زہرا فضہ سے پھر بھی کم ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سوچ سوچ کر میں بس مبتلاے غم ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے سبب سے بیٹا زہرا نہ روٹھ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کو بچپنے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ گھر ہے سیدہ کا اس گھر کی شان پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس گھر کی بیٹیوں کو سورج نہ دیکھ پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہزادیوں کے سر تک تیری نظر نہ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کو بچپنے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب کربلا کا منظر راوی نے یوں لکھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس فوج شہ کا سالار بن گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کی مجال ہے جو شہ سے نظر ملاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کو بچپنے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشور کو ہے ٹوٹی پیاسوں پہ کیا قیامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لڑنے کے مل نہ پای جرار کو اجازت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس جا رہے ہیں مشک و علم اٹھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کو بچپنے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغازی کے راستے پر نظریں ہیں بی بیوں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ہے دعا مسلسل زینب کے یہ لبوں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری ردا کا ضامن اے کاش لوٹ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کو بچپنے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان اعظمی جب بے دست ہو کے غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں گر گیا تھا ریتی پر کربلا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مادر کی وہ نصیحت غازی کو یاد آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کو بچپنے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

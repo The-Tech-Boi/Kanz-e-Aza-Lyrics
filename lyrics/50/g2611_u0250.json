@@ -1,12 +1,297 @@
 {
   "remoteId": "g2611_u0250",
-  "title": "Abbas na ab laut ke",
+  "title": "عباس نہ اب لوٹ کے",
   "body": "نہ رونا سکینہ\nعباس نہ اب لوٹ کے آئے گا سکینہ\nاب کون تیرے ناز اُٹھائے گا سکینہ\n<<DIVIDER>>\nبھائی سے ودا ع ہو کے یوں فرماتے تھے مولا\nاب کون میرے گھر کو بچائے گا سکینہ\nعباس نہ اب لوٹ۔۔۔\n<<DIVIDER>>\nکیا ہوگا ذرا دیرمیں معلوم ہے ہم کو\nتر خوں میں علم نہر سے آئے گا سکینہ\nعباس نہ اب لوٹ۔۔۔\n<<DIVIDER>>\nاک شور ہے کہرام ہے بی بی لبِ دریا\nلگتا ہے کہ اب شیر نہ آئیگا سکینہ\nعباس نہ اب لوٹ۔۔۔\n<<DIVIDER>>\nتلواروں میں نیزوں میں گھِراہے میرا بھائی\nوہ مشک وعلم کیسے بچائے گا سکینہ\nعباس نہ اب لوٹ۔۔۔\n<<DIVIDER>>\nعباس نہ ہوںگے تیرا بابا بھی نہ ہوگا\nاب کون تیری پیاس بجھائے گا سکینہ\nعباس نہ اب لوٹ۔۔۔\n<<DIVIDER>>\nکس کے لئے بی بی درِخیمہ پہ کھڑی تھی\nاب کوئی ترائی سے نہ آئے گا سکینہ\nعباس نہ اب لوٹ۔۔۔\n<<DIVIDER>>\nعباس کا وعدہ ہے کہ پانی نہ پیئے گا\nپہلے تمہیں کوثر پہ پلائے گا سکینہ\nعباس نہ اب لوٹ۔۔۔\n<<DIVIDER>>\nاے سرور و ریحان یہ کہتے رہے مولا\nیہ غم تُجھے تاحشر رُلائے گا سکینہ\nعباس نہ اب لوٹ۔۔۔",
+  "styling": [
+    {
+      "insert": "نہ رونا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نہ اب لوٹ کے آئے گا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کون تیرے ناز اُٹھائے گا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھائی سے ودا ع ہو کے یوں فرماتے تھے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کون میرے گھر کو بچائے گا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نہ اب لوٹ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا ہوگا ذرا دیرمیں معلوم ہے ہم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تر خوں میں علم نہر سے آئے گا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نہ اب لوٹ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک شور ہے کہرام ہے بی بی لبِ دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگتا ہے کہ اب شیر نہ آئیگا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نہ اب لوٹ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتلواروں میں نیزوں میں گھِراہے میرا بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ مشک وعلم کیسے بچائے گا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نہ اب لوٹ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس نہ ہوںگے تیرا بابا بھی نہ ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کون تیری پیاس بجھائے گا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نہ اب لوٹ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس کے لئے بی بی درِخیمہ پہ کھڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کوئی ترائی سے نہ آئے گا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نہ اب لوٹ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس کا وعدہ ہے کہ پانی نہ پیئے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلے تمہیں کوثر پہ پلائے گا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نہ اب لوٹ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے سرور و ریحان یہ کہتے رہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم تُجھے تاحشر رُلائے گا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نہ اب لوٹ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

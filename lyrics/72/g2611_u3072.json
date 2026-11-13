@@ -1,12 +1,383 @@
 {
   "remoteId": "g2611_u3072",
-  "title": "Shikwa e zehra",
+  "title": "شکوۂ زہرا",
   "body": "یہ دیتی ہے مرقد سے زہرا صدا\nمیرے قبر پر سایباں کیوں نہیں ہے\n<<DIVIDER>>\nبتاؤ مسلمان میری خطا\nمیرے قبر پر سایباں کیوں نہیں ہے\n<<DIVIDER>>\nبتاے کوی کیوں نہ مجھ سے وفا کی\nمیں بیٹی نہیں کیا رسول خدا کی\nمجھے کس لےء دی گیء ہے سزا\nمیرے قبر پر۔۔۔\n<<DIVIDER>>\nنہ رہنے دیا چین سے کیوں دہر میں\nلگای گیء آگ کیوں میرے گھر میں\nستایا گیا کیوں مجھے بے خطا\nمیرے قبر پر۔۔۔\n<<DIVIDER>>\nمیری بیکسی پہ تڑپتا ہے سورج\nمیرا مرثیہ روز پڑھتا ہے سورج\nمیں تابہ قیامت کروں گی گلا\nمیرے قبر پر۔۔۔\n<<DIVIDER>>\nتم اپنے مکانوں میں آرام سے ہو\nتپش کے بنا چین سے سو رہے ہو\nغرض بھی کوی تم کو اس سے ہے کیا\nمیرے قبر پر۔۔۔\n<<DIVIDER>>\nمیں کرتی رہوں گی سوالات تم سے\nکبھی تو ملیں گے جوابات تم سے\nکبھی تو سنے گے کوئی یہ صدا\nمیرے قبر پر۔۔۔\n<<DIVIDER>>\nمجھے حسرتوں سے محمد نے پالا\nکبھی دھوپ میں بھی نہ باہر نکالا\nعمل کیوں نہ سیرت پہ تم نے کیا\nمیرے قبر پر۔۔۔\n<<DIVIDER>>\nبہ روز جزا سختیاں جب سہو گے\nکبھی تم نے سوچا بھی ہے کیا کہوگے\nاگر تم سے پوچھے گا بابا میرا\nمیرے قبر پر۔۔۔\n<<DIVIDER>>\nسناے گا نوحہ یہ جب جب بھی عامر\nرلاییں گے آصف بقیع کے مناظر\nہر ایک سمت سے آے گی یہ صدا\nمیرے قبر پر۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ دیتی ہے مرقد سے زہرا صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے قبر پر سایباں کیوں نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبتاؤ مسلمان میری خطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے قبر پر سایباں کیوں نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبتاے کوی کیوں نہ مجھ سے وفا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بیٹی نہیں کیا رسول خدا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے کس لےء دی گیء ہے سزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے قبر پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ رہنے دیا چین سے کیوں دہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگای گیء آگ کیوں میرے گھر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستایا گیا کیوں مجھے بے خطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے قبر پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری بیکسی پہ تڑپتا ہے سورج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا مرثیہ روز پڑھتا ہے سورج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تابہ قیامت کروں گی گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے قبر پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم اپنے مکانوں میں آرام سے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تپش کے بنا چین سے سو رہے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غرض بھی کوی تم کو اس سے ہے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے قبر پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کرتی رہوں گی سوالات تم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی تو ملیں گے جوابات تم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی تو سنے گے کوئی یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے قبر پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھے حسرتوں سے محمد نے پالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی دھوپ میں بھی نہ باہر نکالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمل کیوں نہ سیرت پہ تم نے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے قبر پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہ روز جزا سختیاں جب سہو گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی تم نے سوچا بھی ہے کیا کہوگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر تم سے پوچھے گا بابا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے قبر پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسناے گا نوحہ یہ جب جب بھی عامر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلاییں گے آصف بقیع کے مناظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک سمت سے آے گی یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے قبر پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Asif Bijnori",
   "anjumans": [],
   "verified": false

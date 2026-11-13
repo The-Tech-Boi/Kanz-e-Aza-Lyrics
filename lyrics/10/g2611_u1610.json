@@ -1,12 +1,508 @@
 {
   "remoteId": "g2611_u1610",
-  "title": "Hussain kya hai",
+  "title": "حسین کیا ہے",
   "body": "تو پھر بھی ہم سے یہ پوچھتا ہے\nحسین کیا ہے حسین کیا ہے\n<<DIVIDER>>\nضمیر انسان جگایا جس نے\nفلک زمیں کو بنایا جس نے\nسناں پہ قرآن سنایا جس نے\nنشان باطل مٹایا جس نے\nخدا کے دیں کو بچایا جس نے\nحسین وہ ہے حسین وہ ہے\nتو پھر بھی ہم سے۔۔۔\n<<DIVIDER>>\nخدا کے لشکر کا امیر لشکر\nوہ جس پہ نازاں ہے رب اکبر\nہے جس کے گھر میں فرشتے نوکر\nفقیر جس کے ہیں سب قلندر\nہے جس کی تشنہ لبی سمںندر\nحسین وہ ہے حسین وہ ہے\nتو پھر بھی ہم سے۔۔۔\n<<DIVIDER>>\nوہ جس نے کربوبلا بنائی\nوہ جس نے بزمِ وفا سجای\nعلی کا بیٹا حسن کا بھای\nکرے جو نبیوں کی رہنمائی\nخدا نہ دے دی جسے خدای\nحسین وہ ہے حسین وہ ہے\nتو پھر بھی ہم سے۔۔۔\n<<DIVIDER>>\nوہ جس نے خاک شفا بنائی\nوہ جس نے نفس جہاں چلای\nوہ جس نے شمعِ عمل جلای\nہر ایک عصمت ہے ان کا ہای\nہے جس کا عباس جیسا بھای\nحسین وہ ہے حسین وہ ہے\nتو پھر بھی ہم سے۔۔۔\n<<DIVIDER>>\nحسین سردار عالمیں ہے\nحسین دنیا میں مثل دیں ہے\nرسالتوں کا یہی امیر ہے\nبہت حسیں ہے بہت حسیں ہے\nوہ جس کے جیسا کوئی نہیں ہے\nحسین وہ ہے حسین وہ ہے\nتو پھر بھی ہم سے۔۔۔\n<<DIVIDER>>\nزمانہ کروٹ ضرور لے گا\nہر ایک مؤذن اذاں یہ دے گا\nزرا ٹہر جاتی خود کہے گا\nجلوس جس کا نہ رک سکے گا\nوہ جس کا ماتم صدا رہے گا\nحسین وہ ہے حسین وہ ہے\nتو پھر بھی ہم سے۔۔۔\n<<DIVIDER>>\nجو مقتلوں میں حیات بانٹے\nبتا دو گوہر یہ وہ سقی ہے\nنہیں ہے قسمت میں تیرے بیٹے\nرسول حق بھی یہ کہدے جس سے\nجو ساتھ بیٹے اسی کو دے دے\nحسین وہ ہے حسین وہ ہے\nتو پھر بھی ہم سے۔۔۔",
+  "styling": [
+    {
+      "insert": "تو پھر بھی ہم سے یہ پوچھتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کیا ہے حسین کیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nضمیر انسان جگایا جس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فلک زمیں کو بنایا جس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سناں پہ قرآن سنایا جس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نشان باطل مٹایا جس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے دیں کو بچایا جس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین وہ ہے حسین وہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو پھر بھی ہم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخدا کے لشکر کا امیر لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جس پہ نازاں ہے رب اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے جس کے گھر میں فرشتے نوکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فقیر جس کے ہیں سب قلندر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے جس کی تشنہ لبی سمںندر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین وہ ہے حسین وہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو پھر بھی ہم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ جس نے کربوبلا بنائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جس نے بزمِ وفا سجای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا بیٹا حسن کا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرے جو نبیوں کی رہنمائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا نہ دے دی جسے خدای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین وہ ہے حسین وہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو پھر بھی ہم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ جس نے خاک شفا بنائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جس نے نفس جہاں چلای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جس نے شمعِ عمل جلای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک عصمت ہے ان کا ہای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے جس کا عباس جیسا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین وہ ہے حسین وہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو پھر بھی ہم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین سردار عالمیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین دنیا میں مثل دیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسالتوں کا یہی امیر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت حسیں ہے بہت حسیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جس کے جیسا کوئی نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین وہ ہے حسین وہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو پھر بھی ہم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزمانہ کروٹ ضرور لے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک مؤذن اذاں یہ دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زرا ٹہر جاتی خود کہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلوس جس کا نہ رک سکے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جس کا ماتم صدا رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین وہ ہے حسین وہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو پھر بھی ہم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو مقتلوں میں حیات بانٹے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتا دو گوہر یہ وہ سقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہیں ہے قسمت میں تیرے بیٹے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسول حق بھی یہ کہدے جس سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ساتھ بیٹے اسی کو دے دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین وہ ہے حسین وہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو پھر بھی ہم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Gohar Jarchvi",
   "anjumans": [],
   "verified": false

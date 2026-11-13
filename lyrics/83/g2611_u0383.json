@@ -1,7 +1,510 @@
 {
   "remoteId": "g2611_u0383",
-  "title": "Al ajal ya imame",
+  "title": "العجل یا امام",
   "body": "العجل العجل یا امام زماں\n<<DIVIDER>>\nیا امام زماں کعبہ دو جہاں\nدے رہے ہیں صدا یہ زمیں آسماں\nہم شبیہ نبی دے چکے ہیں اذاں\nالعجل العجل۔۔۔\n<<DIVIDER>>\nاے علی محمد اے زہرا کی جاں\nکتنے صدیوں سے آنکھیں بچھاے یہاں\nکربلا ڈھونڈتی ہے قدم کے نشاں\nالعجل العجل۔۔۔\n<<DIVIDER>>\nآیےء منتظر ہے یہ دنیا و دیں\nپوچھتی ہے یہ کربوبلا کی زمیں\nکتنے صدیوں کا غم ہے ابھی درمیاں\nالعجل العجل۔۔۔\n<<DIVIDER>>\nاے حسینیء زماں اے محمد کی جاں\nدیکھیےء آج بھی یا امام زماں\nکھونے مظلوم سے سرخ ہے آسماں\nالعجل العجل۔۔۔\n<<DIVIDER>>\nاے عزادار کربوبلا العجل\nاے علمدار دین خدا العجل\nاے شریک عزاے شہ دو جہاں\nالعجل العجل۔۔۔\n<<DIVIDER>>\nکیسے بھولے وہ منظر امام زماں\nوہ ضعیفی وہ مقتل وہ لاشے جواں\nکیا قیامت کا تھا کربلا میں سماں\nالعجل العجل۔۔۔\n<<DIVIDER>>\nاب بھی اشکوں میں ہے شام غم کا سماں\nجلتے خیمے وہ صحرا وہ اٹھتا دھواں\nآج بھی ہے فضاؤں میں آہ و فغاں\nالعجل العجل۔۔۔\n<<DIVIDER>>\nغازی عباس کا واسطہ آیےء\nشاہ کی پیاس کا واسطہ آیےء\nدیکھیےء تشنہ لب ہے ابھی بے زباں\nالعجل العجل۔۔۔\n<<DIVIDER>>\nعصرِ عاشور شام علم کی قسم\nظلم تھمتا نہیں آج بھی ہے ستم\nاپنے پرچم کے سائے میں دیجیےء عماں\nالعجل العجل۔۔۔\n<<DIVIDER>>\nتشنگی دھوپ صحرا وہ ریگ تپاں\nزیر خنجر وہ سجدہ وہ زہرا کی جاں\nتھی سر کربلا ماں کی آہ و فغاں\nالعجل العجل۔۔۔\n<<DIVIDER>>\nایک نگاہ کرم یا امام زماں\nناصر ابن زہرا ہے یہ انجمن\nہے عریضہ ہمارا یہ اشک رواں\nالعجل العجل۔۔۔\n<<DIVIDER>>\nاے شبیہ رسول زمن المدد\nالمدد ابنِ خیبر شکن المدد\nہے فرید آج سب کے یہ ورد زباں\nالعجل العجل۔۔۔",
+  "styling": [
+    {
+      "insert": "العجل العجل یا امام زماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا امام زماں کعبہ دو جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے رہے ہیں صدا یہ زمیں آسماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم شبیہ نبی دے چکے ہیں اذاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل العجل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے علی محمد اے زہرا کی جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنے صدیوں سے آنکھیں بچھاے یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا ڈھونڈتی ہے قدم کے نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل العجل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآیےء منتظر ہے یہ دنیا و دیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوچھتی ہے یہ کربوبلا کی زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنے صدیوں کا غم ہے ابھی درمیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل العجل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے حسینیء زماں اے محمد کی جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھیےء آج بھی یا امام زماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھونے مظلوم سے سرخ ہے آسماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل العجل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے عزادار کربوبلا العجل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علمدار دین خدا العجل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شریک عزاے شہ دو جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل العجل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے بھولے وہ منظر امام زماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ضعیفی وہ مقتل وہ لاشے جواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا قیامت کا تھا کربلا میں سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل العجل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب بھی اشکوں میں ہے شام غم کا سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے خیمے وہ صحرا وہ اٹھتا دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج بھی ہے فضاؤں میں آہ و فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل العجل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغازی عباس کا واسطہ آیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ کی پیاس کا واسطہ آیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھیےء تشنہ لب ہے ابھی بے زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل العجل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعصرِ عاشور شام علم کی قسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم تھمتا نہیں آج بھی ہے ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے پرچم کے سائے میں دیجیےء عماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل العجل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتشنگی دھوپ صحرا وہ ریگ تپاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زیر خنجر وہ سجدہ وہ زہرا کی جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی سر کربلا ماں کی آہ و فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل العجل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک نگاہ کرم یا امام زماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناصر ابن زہرا ہے یہ انجمن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے عریضہ ہمارا یہ اشک رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل العجل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شبیہ رسول زمن المدد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد ابنِ خیبر شکن المدد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے فرید آج سب کے یہ ورد زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل العجل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

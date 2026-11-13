@@ -1,12 +1,333 @@
 {
   "remoteId": "g2611_u3165",
-  "title": "Tanhai ali ki",
+  "title": "تنہائی علی کی",
   "body": "ہائے زہرا تیری تنہائی ہے تنہائی علی کی\n<<DIVIDER>>\nہائے غم میں تیرے جاتی رہی بینائی علی کی\nتیری تنہائی ہے تنہائی علی کی\n<<DIVIDER>>\nدربار میں ظالم کے گئی بنتِ پیعمبر\nکیا وقت تھا کچھ کر نہ سکا فاتح خیبر\nہائے ہنستے رہے غربت پہ تماشائی علی کی\n...تیری تنہائی ہے\n<<DIVIDER>>\nپیغام ِ ولایت لیے گھر گھر گئی زہرا\nشوہر کے لیے ڈھال تھی جب تک رہی زندہ\nہائے دُنیا کو بتاتی رہی سچائی علی کی\n...تیری تنہائی ہے\n<<DIVIDER>>\nکہتے تھے علی زہرا سے کیا حال ہے بی بی\nاب ہم کو سلام آ کے بھی کرتا نہیں کوئی\nہائے ہے بعدِ نبی کیسی پزیرائی علی کی\n...تیری تنہائی ہے\n<<DIVIDER>>\nدر جلتا ہوا فاطمہ زہرا پہ گرایا\nمحسن کی شہادت کا سبب بن گئی دُنیا\nہائے تصویر مکمل نہیں ہو پائی علی کی\n...تیری تنہائی ہے\n<<DIVIDER>>\nباہر کبھی حجرے میں کبھی قبرِ نبی پر\nہر رات کی تاریکی میں اولاد سے چھُپ کر\nہائے نکلی ہے تجھے ڈھونڈنے بینائی علی کی\n...تیری تنہائی ہے\n<<DIVIDER>>\nزہرا کی جُدائی کو لگائے ہوئے دل سے\nپچیس برس مولا نے چُپ چاپ گُزارے\nہائے اک حجرے میں کُل دُنیا سمٹ آئی علی کی\n...تیری تنہائی ہے\n<<DIVIDER>>\nاُس وقت تکلم وہ زمانے کا ولی تھا\nسجاد جو زینب کو لیے شام سے گُزرا\nہائے اسلام کو خاموشی بچا لائی علی کی\n...تیری تنہائی ہے",
+  "styling": [
+    {
+      "insert": "ہائے زہرا تیری تنہائی ہے تنہائی علی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہائے غم میں تیرے جاتی رہی بینائی علی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری تنہائی ہے تنہائی علی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدربار میں ظالم کے گئی بنتِ پیعمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا وقت تھا کچھ کر نہ سکا فاتح خیبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے ہنستے رہے غربت پہ تماشائی علی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...تیری تنہائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیغام ِ ولایت لیے گھر گھر گئی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شوہر کے لیے ڈھال تھی جب تک رہی زندہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے دُنیا کو بتاتی رہی سچائی علی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...تیری تنہائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتے تھے علی زہرا سے کیا حال ہے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ہم کو سلام آ کے بھی کرتا نہیں کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے ہے بعدِ نبی کیسی پزیرائی علی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...تیری تنہائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدر جلتا ہوا فاطمہ زہرا پہ گرایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محسن کی شہادت کا سبب بن گئی دُنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے تصویر مکمل نہیں ہو پائی علی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...تیری تنہائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباہر کبھی حجرے میں کبھی قبرِ نبی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر رات کی تاریکی میں اولاد سے چھُپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے نکلی ہے تجھے ڈھونڈنے بینائی علی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...تیری تنہائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزہرا کی جُدائی کو لگائے ہوئے دل سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پچیس برس مولا نے چُپ چاپ گُزارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے اک حجرے میں کُل دُنیا سمٹ آئی علی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...تیری تنہائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاُس وقت تکلم وہ زمانے کا ولی تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد جو زینب کو لیے شام سے گُزرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے اسلام کو خاموشی بچا لائی علی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...تیری تنہائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

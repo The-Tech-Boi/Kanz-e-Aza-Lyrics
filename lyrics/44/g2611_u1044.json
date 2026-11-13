@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u1044",
-  "title": "Bole shaah kya",
+  "title": "بولے شہ کے",
   "body": "بولے شہ کے کیا میں جواب خط دختر لکھوں\nنامور دیکھ لے جو حال ہے کیوں کر لکھوں\n<<DIVIDER>>\nکیسے لکھوں کہ تیرے چاہنے والے نہ رہے\nہوگی اس غم کی وہ کس طرح سے خوگار لکھوں\nبولے شہ کے کیا میں۔۔۔\n<<DIVIDER>>\nپیار لکھا ہے جسے جان سے پیارا کہہ کر\nمر گےء تیر ستم کھا کے وہ اصغر لکھوں\nبولے شہ کے کیا میں۔۔۔\n<<DIVIDER>>\nتم سے شکوہ و شکایت ہے بہت صغرا کو\nنیزہ کھاے ہوے سو رہے ہیں وہ اکبر لکھوں\nبولے شہ کے کیا میں۔۔۔\n<<DIVIDER>>\nکٹ گےء شان چھدی مشک سکینہ افسوس\nبچھڑے پردیس میں عباس دلاور لکھوں\nبولے شہ کے کیا میں۔۔۔\n<<DIVIDER>>\nشام کو دولہا بنے صبح شہادت پای\nلاش قاسم ہوی پامال یہ کیوں کر لکھوں\nبولے شہ کے کیا میں۔۔۔\n<<DIVIDER>>\nدو ہوے کوفے میں دو کربوبلا میں مقتول\nہاے مسلم کے پسر مر گےء کیوں کر لکھوں\nبولے شہ کے کیا میں۔۔۔\n<<DIVIDER>>\nکتنے تنہا تھے حسین عصر کے ہنگام انیس\nغم سے پھٹ جاے کلیجہ جو وہ منظر لکھوں\nبولے شہ کے کیا میں۔۔۔",
+  "styling": [
+    {
+      "insert": "بولے شہ کے کیا میں جواب خط دختر لکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نامور دیکھ لے جو حال ہے کیوں کر لکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے لکھوں کہ تیرے چاہنے والے نہ رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی اس غم کی وہ کس طرح سے خوگار لکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے شہ کے کیا میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیار لکھا ہے جسے جان سے پیارا کہہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گےء تیر ستم کھا کے وہ اصغر لکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے شہ کے کیا میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم سے شکوہ و شکایت ہے بہت صغرا کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزہ کھاے ہوے سو رہے ہیں وہ اکبر لکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے شہ کے کیا میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکٹ گےء شان چھدی مشک سکینہ افسوس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچھڑے پردیس میں عباس دلاور لکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے شہ کے کیا میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام کو دولہا بنے صبح شہادت پای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاش قاسم ہوی پامال یہ کیوں کر لکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے شہ کے کیا میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدو ہوے کوفے میں دو کربوبلا میں مقتول"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مسلم کے پسر مر گےء کیوں کر لکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے شہ کے کیا میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنے تنہا تھے حسین عصر کے ہنگام انیس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم سے پھٹ جاے کلیجہ جو وہ منظر لکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے شہ کے کیا میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Anees",
   "anjumans": [],
   "verified": false

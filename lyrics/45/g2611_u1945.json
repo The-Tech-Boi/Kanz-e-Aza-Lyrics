@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u1945",
-  "title": "Kazim ka hai janaza",
+  "title": "کاظم کا ہے جنازہ",
   "body": "کاظم کا ہے جنازہ بغداد کے پل پر\nرونے کو آی زہرا بغداد کے پل پر\n<<DIVIDER>>\nپچیسویں رجب کو تابوت ہے یہ کیسا\nڈوبا ہوا لہو میں زنجیر میں ہے جکڑا\nہے تین دن سے رکھا بغداد کے پل پر\nکاظم کا ہے جنازہ۔۔۔\n<<DIVIDER>>\nہارون نے نہ جانے کیسا زہر دیا ہے\nتن پاش پاش ہاے کاظم کا ہو گیا ہے\nگٹھری میں آے مولا بغداد کے پل پر\nکاظم کا ہے جنازہ۔۔۔\n<<DIVIDER>>\nبیٹا امام کا ہے بابا امام کا ہے\nشہ کی طرح سے اس پہ غربت کی انتہا ہے\nبے گور و بے کفن تھا بغداد کے پل پر\nکاظم کا ہے جنازہ۔۔۔\n<<DIVIDER>>\nجس بے وطن کی میت مزدور نے اٹھای\nمیت پہ جس پدر کی بیٹی بھی رو نہ پائی\nروتی ہے اس کو دنیا بغداد کے پل پر\nکاظم کا ہے جنازہ۔۔۔\n<<DIVIDER>>\nاترے بدن کے ٹکڑے زنجیر میں لپٹ کر\nمعصوم دیکھتی تو مر جاتی وہ وہی پر\nکس حال میں ہے بابا بغداد کے پل پر\nکاظم کا ہے جنازہ۔۔۔\n<<DIVIDER>>\nسرور کی لاڈلی پہ چودہ برس جو رویا\nعابد کو ساتھ لے کے کرنے کو اس پہ گریہ\nآتی ہے خود سکینہ بغداد کے پل پر\nکاظم کا ہے جنازہ۔۔۔\n<<DIVIDER>>\nاٹھتا ہے جب جنازہ ہاے ساتویں علی کا\nکرنے کو اس پہ گریہ آتی ہے بی بی زہرا\nلوگوں ادب سے آنا بغداد کے پل پر\nکاظم کا ہے جنازہ۔۔۔\n<<DIVIDER>>\nجب کاظمین جاؤ کاظم کا غم منانے\nاے ارسلان و میثم واجب ہوا ہے تم پہ\nتابوت تم اٹھانا بغداد کے پل پر\nکاظم کا ہے جنازہ۔۔۔",
+  "styling": [
+    {
+      "insert": "کاظم کا ہے جنازہ بغداد کے پل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے کو آی زہرا بغداد کے پل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپچیسویں رجب کو تابوت ہے یہ کیسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈوبا ہوا لہو میں زنجیر میں ہے جکڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے تین دن سے رکھا بغداد کے پل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاظم کا ہے جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہارون نے نہ جانے کیسا زہر دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تن پاش پاش ہاے کاظم کا ہو گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گٹھری میں آے مولا بغداد کے پل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاظم کا ہے جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹا امام کا ہے بابا امام کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کی طرح سے اس پہ غربت کی انتہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے گور و بے کفن تھا بغداد کے پل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاظم کا ہے جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس بے وطن کی میت مزدور نے اٹھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میت پہ جس پدر کی بیٹی بھی رو نہ پائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہے اس کو دنیا بغداد کے پل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاظم کا ہے جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاترے بدن کے ٹکڑے زنجیر میں لپٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم دیکھتی تو مر جاتی وہ وہی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس حال میں ہے بابا بغداد کے پل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاظم کا ہے جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسرور کی لاڈلی پہ چودہ برس جو رویا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کو ساتھ لے کے کرنے کو اس پہ گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی ہے خود سکینہ بغداد کے پل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاظم کا ہے جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھتا ہے جب جنازہ ہاے ساتویں علی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرنے کو اس پہ گریہ آتی ہے بی بی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگوں ادب سے آنا بغداد کے پل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاظم کا ہے جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب کاظمین جاؤ کاظم کا غم منانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ارسلان و میثم واجب ہوا ہے تم پہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تابوت تم اٹھانا بغداد کے پل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاظم کا ہے جنازہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Moosa e Kazim (a.s)",
+  "subcategory": "امام موسیٰ کاظم (ع)",
   "author": "Arsalan Azmi",
   "anjumans": [],
   "verified": false

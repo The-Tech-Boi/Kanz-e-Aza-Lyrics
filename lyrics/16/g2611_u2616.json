@@ -1,12 +1,455 @@
 {
   "remoteId": "g2611_u2616",
-  "title": "Peer ghazi",
+  "title": "پیر غازی",
   "body": "با وفا عباس علماں والے میرے علماں والے\nعلماں والے میرے مشکاں والے\n<<DIVIDER>>\nشاہ وفا ہے سنتا صدا ہے\nکرتا عطا ہے و میرا پیر غازی\n<<DIVIDER>>\nمیرا پیر غازی مولا وفا کا\nو میرا پیر غازی\n<<DIVIDER>>\nدنیا میں جس کا یہ پرچم یہ سوہݨا\nگھر گھر سجا ہے و میرا پیر غازی\n<<DIVIDER>>\nام البنیں کی آنکھوں کا تارا\nجب مولا غازی دھرتی پہ آیا\nاس ماں کا رتبہ کتنا ہے اعلیٰ\nہاں جس کو ملا ہے میرا پیر غازی\nمیرا پیر غازی۔۔۔\nشاہ وفا ہے۔۔۔\n<<DIVIDER>>\nغازی کا رتبہ ہم کیا بتائیں\nزہرا نے جس کو دی ہیں دعائیں\nحیدر نے جس کے ہیں ناز اٹھائے\nہاں ایسے پلا ہے میرا پیر غازی\nمیرا پیر غازی۔۔۔\nشاہ وفا ہے۔۔۔\n<<DIVIDER>>\nبابا بھی مولا بھائی بھی مولا\nدونوں کا پیارا غازی بھی مولا\nہر در پہ جس کی ہے بادشاہی\nہاں وہ بادشاہ ہے و میرا پیر غازی\nمیرا پیر غازی۔۔۔\nشاہ وفا ہے۔۔۔\n<<DIVIDER>>\nنیزے پہ آیا جب مولا غازی\nبہنوں كے سر پر چادر نہیں تھی\nسارے سفر میں رہی بند آنکھیں\nہاں روتا رہا ہے و میرا پیر غازی\nمیرا پیر غازی۔۔۔\nشاہ وفا ہے۔۔۔\n<<DIVIDER>>\nبھولیں گے ہم یہ منظر کبھی نہ\nروتی تڑپتی در پر سكینہ\nپیاسی سكینہ تیرے غم میں چاچا\nہاں پیاسا گیا ہے و میرا پیر غازی\nمیرا پیر غازی۔۔۔\nشاہ وفا ہے۔۔۔\n<<DIVIDER>>\nجواد و سرور نے سچ کہا ہے\nسب کچھ وفا ہے سب کچھ وفا ہے\nاولاد زہرا سے پیار کرنا\nہاں سمجھا گیا ہے و میرا پیر غازی\nمیرا پیر غازی۔۔۔\nشاہ وفا ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "با وفا عباس علماں والے میرے علماں والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علماں والے میرے مشکاں والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاہ وفا ہے سنتا صدا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتا عطا ہے و میرا پیر غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا پیر غازی مولا وفا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "و میرا پیر غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدنیا میں جس کا یہ پرچم یہ سوہݨا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر گھر سجا ہے و میرا پیر غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nام البنیں کی آنکھوں کا تارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مولا غازی دھرتی پہ آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس ماں کا رتبہ کتنا ہے اعلیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں جس کو ملا ہے میرا پیر غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا پیر غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ وفا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغازی کا رتبہ ہم کیا بتائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا نے جس کو دی ہیں دعائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر نے جس کے ہیں ناز اٹھائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں ایسے پلا ہے میرا پیر غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا پیر غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ وفا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا بھی مولا بھائی بھی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دونوں کا پیارا غازی بھی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر در پہ جس کی ہے بادشاہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں وہ بادشاہ ہے و میرا پیر غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا پیر غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ وفا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزے پہ آیا جب مولا غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہنوں كے سر پر چادر نہیں تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سارے سفر میں رہی بند آنکھیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں روتا رہا ہے و میرا پیر غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا پیر غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ وفا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھولیں گے ہم یہ منظر کبھی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی تڑپتی در پر سكینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی سكینہ تیرے غم میں چاچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں پیاسا گیا ہے و میرا پیر غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا پیر غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ وفا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجواد و سرور نے سچ کہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کچھ وفا ہے سب کچھ وفا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اولاد زہرا سے پیار کرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں سمجھا گیا ہے و میرا پیر غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا پیر غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ وفا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "N. Sarwar & J. Jaffri",
   "anjumans": [],
   "verified": false

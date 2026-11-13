@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u3264",
-  "title": "Utha kohraam",
+  "title": "اٹھا کہرام",
   "body": "اٹھا کہرام گھر میں فاطمہ کے\nچلی ہے تیغ سر پر مرتظی کے\n<<DIVIDER>>\nتڑپتی ہے علی کی بیٹیاں سب\nاڑا کر خاک یہ کہتی ہے زینب\nمیرے گھر آ گےء پھر دن عزا کے\nاٹھا کہرام۔۔۔\n<<DIVIDER>>\nعلی کو گھر میں جب حسنین لاے\nپکاری زینب و کلثوم ہاے\nغشی طاری ہوئی یہ غم اٹھا کے\nاٹھا کہرام۔۔۔\n<<DIVIDER>>\nنہ جاے چھوڑ کے یوں ہم کو بابا\nابھی تو ماں کا غم ہے دل میں تازہ\nکہ ہے محتاج زخم دل دوا کے\nاٹھا کہرام۔۔۔\n<<DIVIDER>>\nعلی‌کرنے لگے رو کر وصیت\nبلا کر پاس بچوں کو با رقت\nحوالے ہیں یہ گھر اب مجتبیٰ کے\nاٹھا کہرام۔۔۔\n<<DIVIDER>>\nرہا نہ درد سے جب دل پہ قابو\nعلی نے چوم کر زینب کے بازو\nحوالے کر دیا شیر وفا کے\nاٹھا کہرام۔۔۔\n<<DIVIDER>>\nچلا جب گھر سے مولا کا جنازہ\nلب زینب پہ تھا بس ایک نوحہ\nنگاہوں میں ہے منظر کربلا کے\nاٹھا کہرام۔۔۔\n<<DIVIDER>>\nسکوں زینب کو ایک پل نہ آیا\nعلی کا زخم بہنوں کو دکھایا\nجبیں سے خون بابا کا ہٹا کے\nاٹھا کہرام۔۔۔\n<<DIVIDER>>\nبیاں کیا صفدر و مظہر کریں گے\nوہ منظر کیسے لفظوں میں لکھیں گے\nقلم جب رک گیا آنسوں بہا کے\nاٹھا کہرام۔۔۔",
+  "styling": [
+    {
+      "insert": "اٹھا کہرام گھر میں فاطمہ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلی ہے تیغ سر پر مرتظی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتڑپتی ہے علی کی بیٹیاں سب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اڑا کر خاک یہ کہتی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے گھر آ گےء پھر دن عزا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھا کہرام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی کو گھر میں جب حسنین لاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکاری زینب و کلثوم ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غشی طاری ہوئی یہ غم اٹھا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھا کہرام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ جاے چھوڑ کے یوں ہم کو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی تو ماں کا غم ہے دل میں تازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ ہے محتاج زخم دل دوا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھا کہرام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی‌کرنے لگے رو کر وصیت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلا کر پاس بچوں کو با رقت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حوالے ہیں یہ گھر اب مجتبیٰ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھا کہرام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرہا نہ درد سے جب دل پہ قابو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی نے چوم کر زینب کے بازو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حوالے کر دیا شیر وفا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھا کہرام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلا جب گھر سے مولا کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لب زینب پہ تھا بس ایک نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نگاہوں میں ہے منظر کربلا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھا کہرام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسکوں زینب کو ایک پل نہ آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا زخم بہنوں کو دکھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جبیں سے خون بابا کا ہٹا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھا کہرام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیاں کیا صفدر و مظہر کریں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ منظر کیسے لفظوں میں لکھیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلم جب رک گیا آنسوں بہا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھا کہرام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "group": 2026,
   "author": "Mazhar Abidi",
   "anjumans": [],

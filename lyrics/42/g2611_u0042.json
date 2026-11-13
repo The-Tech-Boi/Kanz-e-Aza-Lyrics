@@ -1,12 +1,486 @@
 {
   "remoteId": "g2611_u0042",
-  "title": "Aahista chalo",
+  "title": "آہستہ چلو",
   "body": "دمشق کا ہے سفر بے ردا ہے آل نبی\nنہ محمل نہ کجاوا ہے نہ ہودج ہے کوئی\nاسیر سب تھے مگر ایک ہی رسن میں بندھے\nگلا سکینہ کا ہے شان حرم کے جکڑے ہوئے\nرسن جو کھنچتی ہے کرتی ہے سکینہ نالے\nٹہرو آہستہ چلو\nآہستہ چلو اے پھپھی اماں\nرسی سے گلا دکھتا ہے میرا\n<<DIVIDER>>\nہے اماں گلا اس طرح جکڑا ہے رسن میں\nدو گام بھی چلنے کی نہیں جان بدن میں\nکھلوادو رسن کردو یہ احسان\nرسی سے گلا دکھتا ہے میرا\nآہستہ چلو۔۔۔\n<<DIVIDER>>\nکس شان سے نکلی تھی سواری میرے گھر سے\nعمو مجھے قد لاے تھے محمل میں بٹھا کے\nاک یہ ہے سفر ہاے پھپھی جان\nرسی سے گلا دکھتا ہے میرا\nآہستہ چلو۔۔۔\n<<DIVIDER>>\nیہ دیکھ کے روتے ہیں میرے بابا سناں پر\nرونے پہ مجھے درے لگاتا ہے ستمگر\nروتے ہیں اسی رن میں چچا جان\nرسی سے گلا دکھتا ہے میرا\nآہستہ چلو۔۔۔\n<<DIVIDER>>\nکیا دن ہے میرے ناز اٹھاتا نہیں کوئی\nاماں میری سانسوں کا بھروسہ نہیں کوئی\nچہرے سے اذیت ہے نمایاں\nرسی سے گلا دکھتا ہے میرا\nآہستہ چلو۔۔۔\n<<DIVIDER>>\nمیں آپکے زخموں سے بھی واقف ہوں پھپھی جان\nکچھ وعدے نبھانے ہیں مجھے بر سرِ زنداں\nبس کہتی ہوں میں بہ حال پریشان\nرسی سے گلا دکھتا ہے میرا\nآہستہ چلو۔۔۔\n<<DIVIDER>>\nمر جائے گی مر جائے گی اس راہ میں مضطر\nدادا کو صدا دیتی ہوں ہر گام تڑپ کر\nیا شاہ نجف سید ذیشان\nرسی سے گلا دکھتا ہے میرا\nآہستہ چلو۔۔۔\n<<DIVIDER>>\nاے اماں کلیجے میں الجھنے لگی سانسیں\nاب اور سفر کرنے کی طاقت نہیں مجھ میں\nجا پاؤں گی کیا جانب زندان\nرسی سے گلا دکھتا ہے میرا\nآہستہ چلو۔۔۔\n<<DIVIDER>>\nاے مظہر و عرفان سکینہ کی فغاں پر\nزینب نے کہا میں بھی تڑپ جاتی ہوں دختر\nجب کہتی ہے تو مجھ سے میری جان\nرسی سے گلا دکھتا ہے میرا\nآہستہ چلو۔۔۔",
+  "styling": [
+    {
+      "insert": "دمشق کا ہے سفر بے ردا ہے آل نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ محمل نہ کجاوا ہے نہ ہودج ہے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسیر سب تھے مگر ایک ہی رسن میں بندھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلا سکینہ کا ہے شان حرم کے جکڑے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسن جو کھنچتی ہے کرتی ہے سکینہ نالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹہرو آہستہ چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ چلو اے پھپھی اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسی سے گلا دکھتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے اماں گلا اس طرح جکڑا ہے رسن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو گام بھی چلنے کی نہیں جان بدن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھلوادو رسن کردو یہ احسان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسی سے گلا دکھتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس شان سے نکلی تھی سواری میرے گھر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمو مجھے قد لاے تھے محمل میں بٹھا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک یہ ہے سفر ہاے پھپھی جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسی سے گلا دکھتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ دیکھ کے روتے ہیں میرے بابا سناں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے پہ مجھے درے لگاتا ہے ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے ہیں اسی رن میں چچا جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسی سے گلا دکھتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا دن ہے میرے ناز اٹھاتا نہیں کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں میری سانسوں کا بھروسہ نہیں کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرے سے اذیت ہے نمایاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسی سے گلا دکھتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں آپکے زخموں سے بھی واقف ہوں پھپھی جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ وعدے نبھانے ہیں مجھے بر سرِ زنداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس کہتی ہوں میں بہ حال پریشان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسی سے گلا دکھتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمر جائے گی مر جائے گی اس راہ میں مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دادا کو صدا دیتی ہوں ہر گام تڑپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا شاہ نجف سید ذیشان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسی سے گلا دکھتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے اماں کلیجے میں الجھنے لگی سانسیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب اور سفر کرنے کی طاقت نہیں مجھ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا پاؤں گی کیا جانب زندان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسی سے گلا دکھتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے مظہر و عرفان سکینہ کی فغاں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے کہا میں بھی تڑپ جاتی ہوں دختر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کہتی ہے تو مجھ سے میری جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسی سے گلا دکھتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,374 @@
 {
   "remoteId": "g2611_u0641",
-  "title": "Ay ghareebe zahra",
+  "title": "اے غریب زہرا",
   "body": "اے غریب زہرا اے غریب زہرا\n<<DIVIDER>>\nعصرِ عاشور یہ ایک ماں کی ہے مقتل میں صدا\nاے غریب زہرا اے غریب زہرا\n<<DIVIDER>>\nمیرے بیٹے میں تیری پیاس بجھاؤں کیسے\nکند خنجر سے تجھے لال بچاؤں کیسے\nخاک مقتل میں اڑا کر یہ پکاری ممتا\nاے غریب زہرا۔۔۔\n<<DIVIDER>>\nصبحِ عاشور سے اب تک تھے جو مضطر لاشے\nتو نے کاندھوں پہ اٹھاے وہ اکہتر لاشے\nغم یہ ہے تجھکو میسر نہیں کوئی کاندھا\nاے غریب زہرا۔۔۔\n<<DIVIDER>>\nتیر ہی تیر بدن میں ہے نکالے کوئی\nماں تڑپتی ہے تجھے لال بچا لے کوئی\nپھر یہ بولی تیرا اکبر تیرا غازی نہ رہا\nاے غریب زہرا۔۔۔\n<<DIVIDER>>\nشمر خنجر نہ چلا ماں یہ تڑپ کر بولی\nمر چکا لال میرا وقتِ ظہر پہلے ہی\nقاسم و اکبر و اصغر کا اٹھا کر لاشہ\nاے غریب زہرا۔۔۔\n<<DIVIDER>>\nمیرے شبیر کی ہے تیروں پہ میت غازی\nہے سبب اس کا تمہاری یہ شہادت غازی\nلاشے عباس پہ ماں کہتی ہے کر کے گریہ\nاے غریب زہرا۔۔۔\n<<DIVIDER>>\nقتل کے بعد یہ صدمہ مجھے تڑپاے گا\nسر نیزہ میرے بیٹے تیرا سر جاے گا\nسنگ مارے گا تیرے سر پہ یہ شام و کوفہ\nاے غریب زہرا۔۔۔\n<<DIVIDER>>\nشمر سے اپنی سکینہ کو بچانا بیٹا\nتم وہاں جا کے اسے ساتھ میں لانا بیٹا\nقید خانے میں سکینہ جو کرے واویلا\nاے غریب زہرا۔۔۔\n<<DIVIDER>>\nہے یہ وعدہ تیرے یاسر کو شفاعت دونگی\nتیرے غم خوار کو جنت کی ضمانت دونگی\nجب ساجد مجھے دے گا تیرے غم کا پرسہ\nاے غریب زہرا۔۔۔",
+  "styling": [
+    {
+      "insert": "اے غریب زہرا اے غریب زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعصرِ عاشور یہ ایک ماں کی ہے مقتل میں صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب زہرا اے غریب زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے بیٹے میں تیری پیاس بجھاؤں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کند خنجر سے تجھے لال بچاؤں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک مقتل میں اڑا کر یہ پکاری ممتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصبحِ عاشور سے اب تک تھے جو مضطر لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو نے کاندھوں پہ اٹھاے وہ اکہتر لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم یہ ہے تجھکو میسر نہیں کوئی کاندھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیر ہی تیر بدن میں ہے نکالے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں تڑپتی ہے تجھے لال بچا لے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر یہ بولی تیرا اکبر تیرا غازی نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشمر خنجر نہ چلا ماں یہ تڑپ کر بولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر چکا لال میرا وقتِ ظہر پہلے ہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم و اکبر و اصغر کا اٹھا کر لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے شبیر کی ہے تیروں پہ میت غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے سبب اس کا تمہاری یہ شہادت غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے عباس پہ ماں کہتی ہے کر کے گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقتل کے بعد یہ صدمہ مجھے تڑپاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر نیزہ میرے بیٹے تیرا سر جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنگ مارے گا تیرے سر پہ یہ شام و کوفہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشمر سے اپنی سکینہ کو بچانا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم وہاں جا کے اسے ساتھ میں لانا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں سکینہ جو کرے واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے یہ وعدہ تیرے یاسر کو شفاعت دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے غم خوار کو جنت کی ضمانت دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ساجد مجھے دے گا تیرے غم کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Yasir Abbas",
   "anjumans": [],
   "verified": false

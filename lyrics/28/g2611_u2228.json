@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u2228",
-  "title": "Mai raahe shaam se",
+  "title": "میں راہِ شام سے",
   "body": "میں راہِ شام سے گزری ہوں بے ردا بابا\nاسیرِ ظلم ہوں روتی ہوں بے ردا بابا\n<<DIVIDER>>\nتھا بے کفن تیرا اسلام میں ردا دے کر\nبلا کے دشت سے آئی ہوں بے ردا بابا\nمیں راہِ شام سے ۔۔۔\n<<DIVIDER>>\nستم گاروں نے جگایا ہے تعزیانوں سے\nجو تھک کے راہ میں سوتی ہوں بے ردا بابا\nمیں راہِ شام سے ۔۔۔\n<<DIVIDER>>\nعدو جو دُرے لگاتے ہیں میرے عابد کو\nمیں دل کو تھام کے روتی ہوں بے ردابابا\nمیں راہِ شام سے ۔۔۔\n<<DIVIDER>>\nلہو بہاتا ہے آنکھوں سے عابدِ مضطر\nمیں جب بھی کانٹوں پہ چلتی ہوں بے ردا بابا\nمیں راہِ شام سے ۔۔۔\n<<DIVIDER>>\nسفر کی خاک نے بالوں کا کر لیا پردہ\nمیں اس کے بعد بھی پھرتی ہوں بے ردا بابا\nمیں راہِ شام سے ۔۔۔\n<<DIVIDER>>\nبچھڑنے والوں کے ماتم میں رات دن گزرے\nہر اک نام پہ تڑپی ہوں بے ردا بابا\nمیں راہِ شام سے ۔۔۔\n<<DIVIDER>>\nمیری اسیری پہ مظہر نے جو لکھا نوحہ\nہر اک لفظ پہ تڑپی ہوں بے ردا بابا\nمیں راہِ شام سے ۔۔۔",
+  "styling": [
+    {
+      "insert": "میں راہِ شام سے گزری ہوں بے ردا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسیرِ ظلم ہوں روتی ہوں بے ردا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھا بے کفن تیرا اسلام میں ردا دے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلا کے دشت سے آئی ہوں بے ردا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں راہِ شام سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nستم گاروں نے جگایا ہے تعزیانوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو تھک کے راہ میں سوتی ہوں بے ردا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں راہِ شام سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعدو جو دُرے لگاتے ہیں میرے عابد کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں دل کو تھام کے روتی ہوں بے ردابابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں راہِ شام سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلہو بہاتا ہے آنکھوں سے عابدِ مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جب بھی کانٹوں پہ چلتی ہوں بے ردا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں راہِ شام سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسفر کی خاک نے بالوں کا کر لیا پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں اس کے بعد بھی پھرتی ہوں بے ردا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں راہِ شام سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچھڑنے والوں کے ماتم میں رات دن گزرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر اک نام پہ تڑپی ہوں بے ردا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں راہِ شام سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری اسیری پہ مظہر نے جو لکھا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر اک لفظ پہ تڑپی ہوں بے ردا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں راہِ شام سے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar",
   "anjumans": [],
   "verified": false

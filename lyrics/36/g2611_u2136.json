@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u2136",
-  "title": "Laut ke aaja mere",
+  "title": "لوٹ کے آجا میرے",
   "body": "دیتی تھی صغرا یہ دہائی\nلوٹ کے آجا میرے بھائی\n<<DIVIDER>>\nتم مجھے لے جاؤ گے یہ وعدہ کیا تھا\nکیوں مجھے لے جانے نہیں آے ہوا کیا\nہاے بہت دیر لگائی\nلوٹ کے آجا میرے بھائی۔۔۔\n<<DIVIDER>>\nراستہ تکتی ہوی مر جاۓ گی بہنا\nتیرے بنا اب نہیں جی پاے گی بہنا\nسہہ نہیں سکتی میں جدائی\nلوٹ کے آجا میرے بھائی۔۔۔\n<<DIVIDER>>\nبیٹھی ہوئی در پہ کبھی کرتی یہ نوحہ\nہاے میرا بھای ابھی تک نہیں آیا\nکوئی خبر بھی نہیں آیا\nلوٹ کے آجا میرے بھائی۔۔۔\n<<DIVIDER>>\nپھرتا ہے ان آنکھوں میں اب تک تیرا چہرہ\nاک بھی پل ایسا گزرا ہے بھیا\nجب کہ تیری یاد نہ آی\nلوٹ کے آجا میرے بھائی۔۔۔\n<<DIVIDER>>\nمیں تو ہر ایک وقت تیرے غم میں ہوں روتی\nمجھ کو میرے بھائی خبر ہی نہیں ہوتی\nکب ہوا دن رات کب آی\nلوٹ کے آجا میرے بھائی۔۔۔\n<<DIVIDER>>\nروتا ہوا ایسا مجھے چھوڑ گیا تو\nرکتے نہیں بھای میری آنکھوں سے آنسوں\nایسی گھٹا درد کی چھای\nلوٹ کے آجا میرے بھائی۔۔۔\n<<DIVIDER>>\nجینے کی اب کوئی مجھے آس نہیں ہے\nکوئی بھی اے بھای میرے پاس نہیں ہے\nمجھ پہ ترس کھا میرے بھائی\nلوٹ کے آجا میرے بھائی۔۔۔\n<<DIVIDER>>\nگوہر دلگیر یہی لب پہ تھا نوحہ\nہاے یہی کہتے ہوے مر گیء صغرا\nلوٹ کے آجا میرے بھائی\nلوٹ کے آجا میرے بھائی۔۔۔",
+  "styling": [
+    {
+      "insert": "دیتی تھی صغرا یہ دہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے آجا میرے بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم مجھے لے جاؤ گے یہ وعدہ کیا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں مجھے لے جانے نہیں آے ہوا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے بہت دیر لگائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے آجا میرے بھائی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراستہ تکتی ہوی مر جاۓ گی بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے بنا اب نہیں جی پاے گی بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہہ نہیں سکتی میں جدائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے آجا میرے بھائی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹھی ہوئی در پہ کبھی کرتی یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرا بھای ابھی تک نہیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی خبر بھی نہیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے آجا میرے بھائی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھرتا ہے ان آنکھوں میں اب تک تیرا چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بھی پل ایسا گزرا ہے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کہ تیری یاد نہ آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے آجا میرے بھائی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں تو ہر ایک وقت تیرے غم میں ہوں روتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو میرے بھائی خبر ہی نہیں ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب ہوا دن رات کب آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے آجا میرے بھائی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتا ہوا ایسا مجھے چھوڑ گیا تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکتے نہیں بھای میری آنکھوں سے آنسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسی گھٹا درد کی چھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے آجا میرے بھائی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجینے کی اب کوئی مجھے آس نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی بھی اے بھای میرے پاس نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ ترس کھا میرے بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے آجا میرے بھائی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگوہر دلگیر یہی لب پہ تھا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے یہی کہتے ہوے مر گیء صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے آجا میرے بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے آجا میرے بھائی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Gohar Jarchvi",
   "anjumans": [],
   "verified": false

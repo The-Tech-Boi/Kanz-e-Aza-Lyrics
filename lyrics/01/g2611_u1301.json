@@ -1,12 +1,373 @@
 {
   "remoteId": "g2611_u1301",
-  "title": "Ghame fatema",
+  "title": "غمِ فاطمہ",
   "body": "ہاے مظلومہ فاطمہ زہرا\nہاے محرومہ فاطمہ زہرا\n<<DIVIDER>>\nفاطمہ کا بھرے مدینے میں\nغم بٹانے کوئی نہیں آیا\nگھر جلانے کو کلمہ گو آے\nگھر بجھانے کوئی نہیں آیا\n<<DIVIDER>>\nکیا وہ اسلام کا ہی مرکز تھا\nکیا مدینہ تھا وہ محمد کا\nلگ رہے تھے جہاں پہ زہرا کے\nتازیانے کوئی نہیں آیا\nفاطمہ کا بھرے۔۔۔\n<<DIVIDER>>\nرسیاں تھی علی کی گردن میں\nاور بازار سے گزرتے تھے\nسب تماشائی بن کے تکتے رہے\nاور چھڑانے کوئی نہیں آیا\nفاطمہ کا بھرے۔۔۔\n<<DIVIDER>>\nدر جلا قتل ہو گےء محسن\nپسلیاں سیدہ کی ٹوٹ گیء\nپھر بھی کہتے ہو تم کہ زہرا پر\nظلم ڈھانے کوئی نہیں آیا\nفاطمہ کا بھرے۔۔۔\n<<DIVIDER>>\nخود ہی چن نے لگی نبی زادی\nبکھری تحریر اپنے بابا کی\nمصطفیٰ کی سند کے ٹکڑوں کو\nجب اٹھانے کوئی نہیں آیا\nفاطمہ کا بھرے۔۔۔\n<<DIVIDER>>\nہر ستم فاطمہ پہ ڈھایا گیا\nجلتا دروازہ بھی گرایا گیا\nاپنے مہدی کو دی صدا اس نے\nجب بچانے کوئی نہیں آیا\nفاطمہ کا بھرے۔۔۔\n<<DIVIDER>>\nآٹھ شوال کو ہوی اکبر\nپھر شہادت نبی کی بیٹی کی\nگر رہا تھا مزار بی بی کا\nاور بچانے کوئی نہیں آیا\nفاطمہ کا بھرے۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے مظلومہ فاطمہ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے محرومہ فاطمہ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفاطمہ کا بھرے مدینے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم بٹانے کوئی نہیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر جلانے کو کلمہ گو آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر بجھانے کوئی نہیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا وہ اسلام کا ہی مرکز تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا مدینہ تھا وہ محمد کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگ رہے تھے جہاں پہ زہرا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تازیانے کوئی نہیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا بھرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرسیاں تھی علی کی گردن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور بازار سے گزرتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب تماشائی بن کے تکتے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور چھڑانے کوئی نہیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا بھرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدر جلا قتل ہو گےء محسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں سیدہ کی ٹوٹ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی کہتے ہو تم کہ زہرا پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم ڈھانے کوئی نہیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا بھرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخود ہی چن نے لگی نبی زادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بکھری تحریر اپنے بابا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مصطفیٰ کی سند کے ٹکڑوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب اٹھانے کوئی نہیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا بھرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر ستم فاطمہ پہ ڈھایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتا دروازہ بھی گرایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے مہدی کو دی صدا اس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب بچانے کوئی نہیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا بھرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآٹھ شوال کو ہوی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر شہادت نبی کی بیٹی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر رہا تھا مزار بی بی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور بچانے کوئی نہیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا بھرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

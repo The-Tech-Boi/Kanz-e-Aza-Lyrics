@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u1153",
-  "title": "Dekha jo zere taygh",
+  "title": "دیکھا جو زیرِ تیغ",
   "body": "دیکھا جو زیرِ تیغ گلا اپنے بھائی کا\nدل پاش پاش ہو گیا زہرا کی جائی کا\n<<DIVIDER>>\nکہتی تھی رو کے زینبِ خستہ جگر فگار\nمشکل کشائ یہ وقت ہے مشکل کشائی کا\nدل پاش پاش ہو گیا زہرا کی جائی کا\nدیکھا جو زیرِ تیغ۔۔۔\n<<DIVIDER>>\nکر کے مخاطب اکبرِمحرو کو بولے شہہ\nبیٹا خیال رکھنا ذرا چھوٹے بھائی کا\nدل پاش پاش ہو گیا زہرا کی جائی کا\nدیکھا جو زیرِ تیغ۔۔۔\n<<DIVIDER>>\nٹکڑے جو دیکھے حضرتِ قاسم کی لاش کے\nسرور کو یاد آیا جگر اپنے بھائی کا\nدل پاش پاش ہو گیا زہرا کی جائی کا\nدیکھا جو زیرِ تیغ۔۔۔\n<<DIVIDER>>\nبانو یہ کہہ کے قبرِ سکینہ پہ گر گئی\nاُٹھو سکینہ حکم ملا ہے رہائی کا\nدل پاش پاش ہو گیا زہرا کی جائی کا\nدیکھا جو زیرِ تیغ۔۔۔\n<<DIVIDER>>\nجس طرح سے لُٹا ہے بھرا گھر حسین کا\nدیکھا نہ پھر فلک نے وہ منظر تباہی کا\nدل پاش پاش ہو گیا زہرا کی جائی کا\nدیکھا جو زیرِ تیغ۔۔۔\n<<DIVIDER>>\nہے دوش پر حسین کے کڑیل جواں کی لاش\nدل تھر تھرا رہا ہے خدا کی خدائی کا\nدل پاش پاش ہو گیا زہرا کی جائی کا\nدیکھا جو زیرِ تیغ۔۔۔\n<<DIVIDER>>\nبڑھ کرگلے سے اپنے اجل کو لگا لیا\nدیکھے تو حوصلہ کوئی ننھے سپاہی کا\nدل پاش پاش ہو گیا زہرا کی جائی کا\nدیکھا جو زیرِ تیغ۔۔۔\n<<DIVIDER>>\nلوگوں نے آج ذکرِ شاہِ مشرقین کو\nکاوش بنا لیا ہے وسیلہ کمائی کا\nدل پاش پاش ہو گیا زہرا کی جائی کا\nدیکھا جو زیرِ تیغ۔۔۔",
+  "styling": [
+    {
+      "insert": "دیکھا جو زیرِ تیغ گلا اپنے بھائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پاش پاش ہو گیا زہرا کی جائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی تھی رو کے زینبِ خستہ جگر فگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشکل کشائ یہ وقت ہے مشکل کشائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پاش پاش ہو گیا زہرا کی جائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جو زیرِ تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکر کے مخاطب اکبرِمحرو کو بولے شہہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹا خیال رکھنا ذرا چھوٹے بھائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پاش پاش ہو گیا زہرا کی جائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جو زیرِ تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹکڑے جو دیکھے حضرتِ قاسم کی لاش کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور کو یاد آیا جگر اپنے بھائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پاش پاش ہو گیا زہرا کی جائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جو زیرِ تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبانو یہ کہہ کے قبرِ سکینہ پہ گر گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھو سکینہ حکم ملا ہے رہائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پاش پاش ہو گیا زہرا کی جائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جو زیرِ تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس طرح سے لُٹا ہے بھرا گھر حسین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا نہ پھر فلک نے وہ منظر تباہی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پاش پاش ہو گیا زہرا کی جائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جو زیرِ تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے دوش پر حسین کے کڑیل جواں کی لاش"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل تھر تھرا رہا ہے خدا کی خدائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پاش پاش ہو گیا زہرا کی جائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جو زیرِ تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبڑھ کرگلے سے اپنے اجل کو لگا لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھے تو حوصلہ کوئی ننھے سپاہی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پاش پاش ہو گیا زہرا کی جائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جو زیرِ تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلوگوں نے آج ذکرِ شاہِ مشرقین کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاوش بنا لیا ہے وسیلہ کمائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پاش پاش ہو گیا زہرا کی جائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جو زیرِ تیغ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "anjumans": [],
   "verified": false
 }

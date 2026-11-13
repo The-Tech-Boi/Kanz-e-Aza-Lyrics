@@ -1,12 +1,458 @@
 {
   "remoteId": "g2611_u2783",
-  "title": "Rone walon shehr",
+  "title": "رونے والوں شہر",
   "body": "رونے والوں شہر مدینے میں\nایک ایسا بھی وقت آیا ہے\nکلمہ گویوں نے کلمہ والوں کو\nبھرے دربار میں رلایا ہے\n<<DIVIDER>>\nہے مقدمہ رسول زادی کا\nبھرے دربار میں وہ آئی ہے\nجن پہ اللہ بھی درود پڑھے\nایسے فرزند ساتھ لائی ہے\nغاسبان فدک نے پھر کیسے\nان گواہوں کا دل دکھایا ہے\nرونے والوں۔۔۔\n<<DIVIDER>>\nمسند مصطفی پہ غالب ہے\nسامنے مصطفی کی بیٹی ہے\nمیرا حق دیدو اے مسلمانو\nرو کے خیرالنساء یہ کہتی ہے\nمیرے با با کے بعد کیوں تم نے\nفاطمہ پہ یہ ظلم ڈھایا ہے\nرونے والوں۔۔۔\n<<DIVIDER>>\nبولا بے ظرف اے نبی زادی\nتیرے حق کو میں جانتا ہی نہیں\nجو لکھی تھی تمھارے با با نے\nمیں وہ تحریر مانتا ہی نہیں\nچاک کر دی سندمحمد کی\nقہقہہ زور سے لگایا ہے\nرونے والوں۔۔۔\n<<DIVIDER>>\nقبر احمد پہ جا کے کہنے لگیں\nفاطمہ کو نحیف کر ڈالا\nدیکھو با با تمھاری امت نے\nکتنا مجھ کو ضعیف کر ڈالا\nمیرا محسن شہید کر ڈالا\nمیرے پہلو پہ در گرایا ہے\nرونے والوں۔۔۔\n<<DIVIDER>>\nفاطمہ سیدہ کو با با کی\nگر وراثت پہ اختیار نہیں\nپھر وہ عورت نبی کے حجرے کی\nاے مسلمانو ورثہ دار نہیں\nجس نے مولا حسن کی میت پہ\nتیر ہاتھوں سے خود چلایا ہے\nرونے والوں۔۔۔\n<<DIVIDER>>\nغمِ آل عبا میں رہتا ہے\nذکر شبیر عام کرتا ہے\nماتمی طوق و تیر نوہوں میں\nاس لےء بھی سلام کرتا\nجس نے بی بی بتول کے غم میں\nدل کو بیت الحزن بنایا ہے\nرونے والوں۔۔۔",
+  "styling": [
+    {
+      "insert": "رونے والوں شہر مدینے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ایسا بھی وقت آیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلمہ گویوں نے کلمہ والوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھرے دربار میں رلایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے مقدمہ رسول زادی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھرے دربار میں وہ آئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جن پہ اللہ بھی درود پڑھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے فرزند ساتھ لائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غاسبان فدک نے پھر کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان گواہوں کا دل دکھایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے والوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسند مصطفی پہ غالب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سامنے مصطفی کی بیٹی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا حق دیدو اے مسلمانو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے خیرالنساء یہ کہتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے با با کے بعد کیوں تم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ پہ یہ ظلم ڈھایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے والوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبولا بے ظرف اے نبی زادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے حق کو میں جانتا ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو لکھی تھی تمھارے با با نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں وہ تحریر مانتا ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاک کر دی سندمحمد کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قہقہہ زور سے لگایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے والوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر احمد پہ جا کے کہنے لگیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کو نحیف کر ڈالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو با با تمھاری امت نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنا مجھ کو ضعیف کر ڈالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا محسن شہید کر ڈالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے پہلو پہ در گرایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے والوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفاطمہ سیدہ کو با با کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر وراثت پہ اختیار نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر وہ عورت نبی کے حجرے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مسلمانو ورثہ دار نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس نے مولا حسن کی میت پہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیر ہاتھوں سے خود چلایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے والوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغمِ آل عبا میں رہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذکر شبیر عام کرتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتمی طوق و تیر نوہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس لےء بھی سلام کرتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس نے بی بی بتول کے غم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کو بیت الحزن بنایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے والوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Tauqeer Kamalvi",
   "anjumans": [],
   "verified": false

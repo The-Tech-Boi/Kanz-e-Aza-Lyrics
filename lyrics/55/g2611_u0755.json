@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u0755",
-  "title": "Ay zuljana",
+  "title": "اے ذوالجناح",
   "body": "اے ذوالجناح کیا کیا اپنے سوار کو\nدلبندِ مصطفیٰ شاہِ گردو وقار کو\n<<DIVIDER>>\nجب جانتا تھا مر گئے سب سب خاص و اقربائ\nپھر کس پہ چھوڑ آیا غریبُ ادّیار کو\nاے ذوالجناح ۔۔۔\n<<DIVIDER>>\nمقتل سے دوڑتا ہوا خالی پھرا ہے کیوں\nوسواس آ رہا ہے دلِ بے قرار کو\nاے ذوالجناح ۔۔۔\n<<DIVIDER>>\nاے ذوالجناح اس طرحے سے آنے کا فائدہ\nجب خیریت سے لےکے نہ لایا سوار کو\nاے ذوالجناح ۔۔۔\n<<DIVIDER>>\nکیوں سر جھُکائے شرم سے روتا ہے زار زار\nکیا خاک پر گرا دیا اپنے سوار کو\nاے ذوالجناح ۔۔۔\n<<DIVIDER>>\nکیا ہو گئی یتیم سکینہ بلا نصیب\nکیوں رو رہا ہے دیکھ کے اُس دلفگار کو\nاے ذوالجناح ۔۔۔\n<<DIVIDER>>\nجس منزلِ آخیر کا بچپن سے شوق تھا\nکیا اُس جگہ اُتارا ہے اپنے سوار کو\nاے ذوالجناح ۔۔۔\n<<DIVIDER>>\nاے قیس اہلِ شام نے اندھیار کر دیا\nگُل کر دیا نبی کے چراغِ مزار کو\nاے ذوالجناح ۔۔۔",
+  "styling": [
+    {
+      "insert": "اے ذوالجناح کیا کیا اپنے سوار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دلبندِ مصطفیٰ شاہِ گردو وقار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب جانتا تھا مر گئے سب سب خاص و اقربائ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر کس پہ چھوڑ آیا غریبُ ادّیار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل سے دوڑتا ہوا خالی پھرا ہے کیوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وسواس آ رہا ہے دلِ بے قرار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے ذوالجناح اس طرحے سے آنے کا فائدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب خیریت سے لےکے نہ لایا سوار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں سر جھُکائے شرم سے روتا ہے زار زار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا خاک پر گرا دیا اپنے سوار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا ہو گئی یتیم سکینہ بلا نصیب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں رو رہا ہے دیکھ کے اُس دلفگار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس منزلِ آخیر کا بچپن سے شوق تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اُس جگہ اُتارا ہے اپنے سوار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے قیس اہلِ شام نے اندھیار کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گُل کر دیا نبی کے چراغِ مزار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Qais Zangipuri",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,481 @@
 {
   "remoteId": "g2611_u1022",
-  "title": "Bibiyan rehgayi",
+  "title": "بیبیاں رہ گئیں",
   "body": "سوگیا لشکر اے شامِ غریباں\nبیبیاں رہ گئیں\n<<DIVIDER>>\nجلتے ہوئے خیموں کی بجھتی راکھ پر\nبیبیاں رہ گئیں\nدل سے لگائے داغ بہتر نوحہ گر\nبیبیاں رہ گئیں\n<<DIVIDER>>\nشامِ غریباں سے کچھ پہلے\nجھولا چادر بستر تھا\nپہلو میں ہمشکلِ پیمبر\nگودِ میں ماں کی اصغر تھا\nگودیاں خالی مانگیں اُجڑیں بے پسر\nبیبیاں رہ گئیں\nجلتے ہوئے خیموں کی ۔۔۔\n<<DIVIDER>>\nہے یہ ابوطالب کا کنبہ\nبیٹیاں ساری حیدر کی\nعظمتِ زہرا عظمتِ مریم\nعزت تھی پیغمبر کی\nچادریں مانگتیں نامِ پیمبر در بدر\nبیبیاں رہ گئیں\nجلتے ہوئے خیموں کی ۔۔۔\n<<DIVIDER>>\nڈھلتا سورج سوچ رہا ہے\nوقتِ سحرکیا منظر تھا\nمحوِ عبادت زیرعلم\nشبیر کا سارا لشکر تھا\nسوگیا لشکر جاگنے والی رات بھر\nبیبیاں رہ گئیں\nجلتے ہوئے خیموں کی ۔۔۔\n<<DIVIDER>>\nدریا موجیں مار رہا ہے\nپیاس ابھی تک باقی ہے\nشاید غازی لوٹ کے آئے\nآس ابھی تک باقی ہے\nدیکھ زرا زینب کے برادر جاگ کر\nبیبیاں رہ گئیں\nجلتے ہوئے خیموں کی ۔۔۔\n<<DIVIDER>>\nکوئی نہیں جو پو چھ لے آکر\nکیا ہوئی زینب تیری چادر\nتیرے تو تھے اٹھارہ برادر\nکیوں ہے اکیلی پہرے پر\nہمسفر مقتول ہوئے سب ہمسفر\nبیبیاں رہ گئیں\nجلتے ہوئے خیموں کی ۔۔۔\n<<DIVIDER>>\nسوچوں زرا ریحان اور سرور\nشامِ غریباں کا و ہ منظر\nچاک گریباں آئے جو حیدر\nدیکھ کے زینب کوپہرے پر\nرو دیئے حیدر خیمے مقتل دیکھ کر\nبیبیاں رہ گئیں\nجلتے ہوئے خیموں کی ۔۔۔",
+  "styling": [
+    {
+      "insert": "سوگیا لشکر اے شامِ غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیبیاں رہ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلتے ہوئے خیموں کی بجھتی راکھ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیبیاں رہ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل سے لگائے داغ بہتر نوحہ گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیبیاں رہ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشامِ غریباں سے کچھ پہلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا چادر بستر تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلو میں ہمشکلِ پیمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گودِ میں ماں کی اصغر تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گودیاں خالی مانگیں اُجڑیں بے پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیبیاں رہ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے ہوئے خیموں کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے یہ ابوطالب کا کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیاں ساری حیدر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عظمتِ زہرا عظمتِ مریم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزت تھی پیغمبر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادریں مانگتیں نامِ پیمبر در بدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیبیاں رہ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے ہوئے خیموں کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈھلتا سورج سوچ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقتِ سحرکیا منظر تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محوِ عبادت زیرعلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کا سارا لشکر تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوگیا لشکر جاگنے والی رات بھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیبیاں رہ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے ہوئے خیموں کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدریا موجیں مار رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاس ابھی تک باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاید غازی لوٹ کے آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آس ابھی تک باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ زرا زینب کے برادر جاگ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیبیاں رہ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے ہوئے خیموں کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی نہیں جو پو چھ لے آکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ہوئی زینب تیری چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے تو تھے اٹھارہ برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں ہے اکیلی پہرے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمسفر مقتول ہوئے سب ہمسفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیبیاں رہ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے ہوئے خیموں کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوچوں زرا ریحان اور سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شامِ غریباں کا و ہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاک گریباں آئے جو حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کے زینب کوپہرے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو دیئے حیدر خیمے مقتل دیکھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیبیاں رہ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے ہوئے خیموں کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

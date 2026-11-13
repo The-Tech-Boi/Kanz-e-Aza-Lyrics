@@ -1,12 +1,536 @@
 {
   "remoteId": "g2611_u2922",
-  "title": "Salam ay ghareeb",
+  "title": "سلام اے غریب",
   "body": "سلام ہو آپ پر اے آدم کے وارث\nسلام ہو آپ پر اے نوح و ابراہیم و موسی و عیسیٰ کے وارث\nسلام ہو آپ پر اے محمد و علی و زہرا کے وارث\nسلام اے غریبِ زہرا سلام\n<<DIVIDER>>\nمیرے حسین تیری پیاس کو سلام میرا\nکہ تیری پیاس سے سیراب ہے یہ دین خدا\nگواہی دیتا ہے کعبہ اذان اور سجدہ\nحسین وارث آدم ہے وارث عیسیٰ\nکیا نبی اور ولی خود محمد سا نبی\nتیرے روضے پہ تجھے کرتا ہے سلام\nسلام سلام سلام اے غریبِ زہرا۔۔۔\n<<DIVIDER>>\nحسین قید نہیں ہے حسین سب کا ہے\nحسین عالم انسانیت کا وارث ہے\nعجب امیر ہے جنت کو چھوڑ کر اپنی\nحسین آج بھی ٹوٹے دلوں میں رہتا ہے\nکیا نبی اور ولی خود محمد سا نبی\nتیرے روضے پہ تجھے کرتا ہے سلام\nسلام سلام سلام اے غریبِ زہرا۔۔۔\n<<DIVIDER>>\nحسین درد میں جینا سکھا دیا تو نے\nحسین پیاس کو پانی پلا دیا تو نے\nغریب بھی جہاں جا کر امیر لگتا ہے\nحسین شہر ہی ایسا بسا دیا تو نے\nکیا نبی اور ولی خود محمد سا نبی\nتیرے روضے پہ تجھے کرتا ہے سلام\nسلام سلام سلام اے غریبِ زہرا۔۔۔\n<<DIVIDER>>\nعجیب شان سے وعدہ نبھایا نانا کا\nخدا کی راہ میں تو نے لٹا دیا کنبہ\nجوان بیٹے کے لاشے پہ شکر کا سجدہ\nکوئی رسول بھی ہوتا ہواس کھو دیتا\nکیا نبی اور ولی خود محمد سا نبی\nتیرے روضے پہ تجھے کرتا ہے سلام\nسلام سلام سلام اے غریبِ زہرا۔۔۔\n<<DIVIDER>>\nمیرے غریب حسین میرے شہید حسین\nالسلام علیک یا قتیل العبرات\n<<DIVIDER>>\nبہ وقت عصر گرے شاہ جلتی ریتی پر\nکہیں سے لگتا تھا نیزہ کہیں سے تیر و تبر\nخدا کسی کو قیامت نہ یہ دکھاے کبھی\nبہن کے سامنے بھای پہ چل گیا خنجر\nالسلام علیک یا قتیل العبرات\nسلام سلام سلام اے غریبِ زہرا۔۔۔\n<<DIVIDER>>\nڈھلا جو عصر کا سورج عجیب شام ہوی\nپدر کے لاشہء بے سر پہ آی اک بچی\nہٹا کے لاش سے پتھر کہا یہ روتے ہوے\nاٹھو اٹھو میرے بابا اجڑ گیء بیٹی\nسلام سلام سلام اے غریبِ زہرا۔۔۔\n<<DIVIDER>>\nاسی نشیب سے نیزے پہ آ رہے ہیں حسین\nسناں کی نوک پہ قرآں سنا رہے ہیں حسین\nیہ بات سچ ہے تکلم خدا کی مرضی سے\nخدا کی ساری خدائی چلا رہے ہیں حسین\nکیا نبی اور ولی خود محمد سا نبی\nتیرے روضے پہ تجھے کرتا ہے سلام\nسلام سلام سلام اے غریبِ زہرا۔۔۔\n<<DIVIDER>>\nالسلام علیک یا ابا عبداللہ یا قتیل العبرات",
+  "styling": [
+    {
+      "insert": "سلام ہو آپ پر اے آدم کے وارث"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام ہو آپ پر اے نوح و ابراہیم و موسی و عیسیٰ کے وارث"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام ہو آپ پر اے محمد و علی و زہرا کے وارث"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام اے غریبِ زہرا سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے حسین تیری پیاس کو سلام میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ تیری پیاس سے سیراب ہے یہ دین خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گواہی دیتا ہے کعبہ اذان اور سجدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین وارث آدم ہے وارث عیسیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نبی اور ولی خود محمد سا نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے روضے پہ تجھے کرتا ہے سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام سلام سلام اے غریبِ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین قید نہیں ہے حسین سب کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین عالم انسانیت کا وارث ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجب امیر ہے جنت کو چھوڑ کر اپنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین آج بھی ٹوٹے دلوں میں رہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نبی اور ولی خود محمد سا نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے روضے پہ تجھے کرتا ہے سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام سلام سلام اے غریبِ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین درد میں جینا سکھا دیا تو نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین پیاس کو پانی پلا دیا تو نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب بھی جہاں جا کر امیر لگتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین شہر ہی ایسا بسا دیا تو نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نبی اور ولی خود محمد سا نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے روضے پہ تجھے کرتا ہے سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام سلام سلام اے غریبِ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعجیب شان سے وعدہ نبھایا نانا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کی راہ میں تو نے لٹا دیا کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوان بیٹے کے لاشے پہ شکر کا سجدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی رسول بھی ہوتا ہواس کھو دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نبی اور ولی خود محمد سا نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے روضے پہ تجھے کرتا ہے سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام سلام سلام اے غریبِ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے غریب حسین میرے شہید حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "السلام علیک یا قتیل العبرات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہ وقت عصر گرے شاہ جلتی ریتی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں سے لگتا تھا نیزہ کہیں سے تیر و تبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کسی کو قیامت نہ یہ دکھاے کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہن کے سامنے بھای پہ چل گیا خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "السلام علیک یا قتیل العبرات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام سلام سلام اے غریبِ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈھلا جو عصر کا سورج عجیب شام ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پدر کے لاشہء بے سر پہ آی اک بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہٹا کے لاش سے پتھر کہا یہ روتے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو اٹھو میرے بابا اجڑ گیء بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام سلام سلام اے غریبِ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسی نشیب سے نیزے پہ آ رہے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سناں کی نوک پہ قرآں سنا رہے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بات سچ ہے تکلم خدا کی مرضی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کی ساری خدائی چلا رہے ہیں حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نبی اور ولی خود محمد سا نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے روضے پہ تجھے کرتا ہے سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام سلام سلام اے غریبِ زہرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالسلام علیک یا ابا عبداللہ یا قتیل العبرات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

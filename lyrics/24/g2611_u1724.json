@@ -1,12 +1,410 @@
 {
   "remoteId": "g2611_u1724",
-  "title": "Jab shaam jaana",
+  "title": "جب شام جانا",
   "body": "جب شام جانا\nبی بی کو جا کر نوحہ سنانا\nاہل عزا تم جب شام جانا\n<<DIVIDER>>\nتم ہمیشہ یاد رکھنا اس زمانے کا محل\nجس جگہ تم ہو وہی زینب رسن بستہ تھی کل\nتھے یہی زنجیر میں جکڑے ہوئے زین العبا\nاہل عزا تم جب۔۔۔\n<<DIVIDER>>\nیہ سکینہ کی لحد ہے جس جگہ ہے روشنی\nسوچیےء اک دن یہاں پر کس قدر تھی تیرگی\nبند تھی ساری سبیلیں ختم تھا ہر آسرا\nاہل عزا تم جب۔۔۔\n<<DIVIDER>>\nبی بیاں پاؤں اٹھاتی تھی مگر اٹھتا نہ تھا\nعابد بیمار کا غیرت سے سر اٹھتا نہ تھا\nہر طرف بازار میں تھا آیینہ ہی آیینہ\nاہل عزا تم جب۔۔۔\n<<DIVIDER>>\nیہ وہ دروازہ ہے ٹہری تھی جہاں پر بی بیاں\nکم نہیں تھے حشر کے منظر سے وہ رسوایییاں\nہنس رہے تھے بے ردا سادات پر أہل جفا\nاہل عزا تم جب۔۔۔\n<<DIVIDER>>\nہر طرف سے ظلم کے پتھر برستے تھے یہی\nوارث تطہیر چادر کو ترستے تھے یہی\nگویا پردہ تھی یہی پر دوسری اک کربوبلا\nاہل عزا تم جب۔۔۔\n<<DIVIDER>>\nمنہ کو آتا تھا کلیجہ زینب دلگیر کا\nجس جگہ ایک طشت میں رکھا تھا سر شبیر کا\nتھا یہی بیٹھا ہوا حاکم شرابی بے حیا\nاہل عزا تم جب۔۔۔\n<<DIVIDER>>\nیا خدا قیدی نہ ہو ایسے یتیمی میں کوئی\nپھر نہ مانگ اس طرح بچی کنیزی میں کوی\nتھا سکینہ کے لئے ایک حشر کا وہ سماں\nاہل عزا تم جب۔۔۔\n<<DIVIDER>>\nظلم کی روداد بتلاییں گے تم کو راستے\nتھے یہی پر ایک رسی میں بندھے بارہ گلے\nیہ علی کی بیٹیاں ہے تھی منادی کی ندا\nاہل عزا تم جب۔۔۔\n<<DIVIDER>>\nنیر و عامر کی ہے تم سے گزارش زایروں\nہو سکے تو ایک یتیمہ کے لئے لے کر چلو\nننھی سی دو بالیاں اور ایک چھوٹی سی ردا\nاہل عزا تم جب۔۔۔",
+  "styling": [
+    {
+      "insert": "جب شام جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی کو جا کر نوحہ سنانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہل عزا تم جب شام جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم ہمیشہ یاد رکھنا اس زمانے کا محل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس جگہ تم ہو وہی زینب رسن بستہ تھی کل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھے یہی زنجیر میں جکڑے ہوئے زین العبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہل عزا تم جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سکینہ کی لحد ہے جس جگہ ہے روشنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوچیےء اک دن یہاں پر کس قدر تھی تیرگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بند تھی ساری سبیلیں ختم تھا ہر آسرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہل عزا تم جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبی بیاں پاؤں اٹھاتی تھی مگر اٹھتا نہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد بیمار کا غیرت سے سر اٹھتا نہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف بازار میں تھا آیینہ ہی آیینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہل عزا تم جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ وہ دروازہ ہے ٹہری تھی جہاں پر بی بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کم نہیں تھے حشر کے منظر سے وہ رسوایییاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہنس رہے تھے بے ردا سادات پر أہل جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہل عزا تم جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر طرف سے ظلم کے پتھر برستے تھے یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وارث تطہیر چادر کو ترستے تھے یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گویا پردہ تھی یہی پر دوسری اک کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہل عزا تم جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنہ کو آتا تھا کلیجہ زینب دلگیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس جگہ ایک طشت میں رکھا تھا سر شبیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا یہی بیٹھا ہوا حاکم شرابی بے حیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہل عزا تم جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا خدا قیدی نہ ہو ایسے یتیمی میں کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر نہ مانگ اس طرح بچی کنیزی میں کوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا سکینہ کے لئے ایک حشر کا وہ سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہل عزا تم جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظلم کی روداد بتلاییں گے تم کو راستے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھے یہی پر ایک رسی میں بندھے بارہ گلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ علی کی بیٹیاں ہے تھی منادی کی ندا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہل عزا تم جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیر و عامر کی ہے تم سے گزارش زایروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو سکے تو ایک یتیمہ کے لئے لے کر چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھی سی دو بالیاں اور ایک چھوٹی سی ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہل عزا تم جب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Nayyar Jalalpuri",
   "anjumans": [],
   "verified": false

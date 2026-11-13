@@ -1,12 +1,423 @@
 {
   "remoteId": "g2611_u0839",
-  "title": "Baba nahi rahe",
+  "title": "بابا نہیں رہے",
   "body": "عرش بریں سے آی جو تا دمت صدا\nکوفہ شہر میں حشر کا ہنگام ہو گیا\nگونجی فضا میں جب یہ صدا ہال مرتظی\nنوحہ کناں کہا جو منادی نے الوداع\n<<DIVIDER>>\nزینب ردا کو تھام کے کرنے لگی بکا\nبابا نہیں رہے بابا نہیں رہے\n<<DIVIDER>>\nمسجد ہے سوگوار مصلہ ہے غم زدہ\nسجدے میں سر علی کا شکستہ کیا گیا\nکوفہ شہر میں آج ہے آغاز کربلا\nبابا نہیں رہے بابا نہیں رہے\nزینب ردا کو تھام کے۔۔۔\n<<DIVIDER>>\nبے آسرا ہوے تھے جو بچے تڑپ گےء\nپیالے جو دودھ کے تھے وہ ہاتھوں سے گر گےء\nدر پر علی کے سارے یتیموں نے دی صدا\nبابا نہیں رہے بابا نہیں رہے\nزینب ردا کو تھام کے۔۔۔\n<<DIVIDER>>\nراتوں کو اٹھ کے پانی پلاے گا کون اب\nبولے حسین پیاس بجھاے گا کون اب\nاماں کے بعد آ گیء بابا کو بھی قضا\nبابا نہیں رہے بابا نہیں رہے\nزینب ردا کو تھام کے۔۔۔\n<<DIVIDER>>\nدیکھا بڑے جو بھای کو رونے لگی بہن\nہاے حسن پکار کے بولی تیرا بدن\nدیکھوں گی انقریب میں تیروں بھرا ہوا\nبابا نہیں رہے بابا نہیں رہے\nزینب ردا کو تھام کے۔۔۔\n<<DIVIDER>>\nجس کی دعا نے اس کو علمدار کر دیا\nعباس تھا وہ حیدر کرار کر دیا\nکیسے کرے یقین وہ عباس با وفا\nبابا نہیں رہے بابا نہیں رہے\nزینب ردا کو تھام کے۔۔۔\n<<DIVIDER>>\nیہ سوچ کر کے مجھکو یہ بیٹی کہے ابھی\nمیت پہ اپنے باپ کی ناد علی پڑھی\nاب تک قبول کر نہ سکی بنت سیدہ\nبابا نہیں رہے بابا نہیں رہے\nزینب ردا کو تھام کے۔۔۔\n<<DIVIDER>>\nمسلم کے ساتھ مسجد کوفہ میں یا خدا\nپرسہ بتول پاک کی بیٹی کا ہو بپا\nضربت کی جا پہ بین کرے یاسر عزا\nبابا نہیں رہے بابا نہیں رہے\nزینب ردا کو تھام کے۔۔۔",
+  "styling": [
+    {
+      "insert": "عرش بریں سے آی جو تا دمت صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفہ شہر میں حشر کا ہنگام ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی فضا میں جب یہ صدا ہال مرتظی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ کناں کہا جو منادی نے الوداع"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب ردا کو تھام کے کرنے لگی بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا نہیں رہے بابا نہیں رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسجد ہے سوگوار مصلہ ہے غم زدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدے میں سر علی کا شکستہ کیا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفہ شہر میں آج ہے آغاز کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا نہیں رہے بابا نہیں رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب ردا کو تھام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے آسرا ہوے تھے جو بچے تڑپ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیالے جو دودھ کے تھے وہ ہاتھوں سے گر گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در پر علی کے سارے یتیموں نے دی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا نہیں رہے بابا نہیں رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب ردا کو تھام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراتوں کو اٹھ کے پانی پلاے گا کون اب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے حسین پیاس بجھاے گا کون اب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں کے بعد آ گیء بابا کو بھی قضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا نہیں رہے بابا نہیں رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب ردا کو تھام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھا بڑے جو بھای کو رونے لگی بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسن پکار کے بولی تیرا بدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھوں گی انقریب میں تیروں بھرا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا نہیں رہے بابا نہیں رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب ردا کو تھام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس کی دعا نے اس کو علمدار کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تھا وہ حیدر کرار کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے کرے یقین وہ عباس با وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا نہیں رہے بابا نہیں رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب ردا کو تھام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سوچ کر کے مجھکو یہ بیٹی کہے ابھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میت پہ اپنے باپ کی ناد علی پڑھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تک قبول کر نہ سکی بنت سیدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا نہیں رہے بابا نہیں رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب ردا کو تھام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسلم کے ساتھ مسجد کوفہ میں یا خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ بتول پاک کی بیٹی کا ہو بپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضربت کی جا پہ بین کرے یاسر عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا نہیں رہے بابا نہیں رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب ردا کو تھام کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Yasir Abbas",
   "anjumans": [],
   "verified": false

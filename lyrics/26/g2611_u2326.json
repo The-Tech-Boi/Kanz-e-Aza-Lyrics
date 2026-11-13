@@ -1,12 +1,513 @@
 {
   "remoteId": "g2611_u2326",
-  "title": "Maula imam raza",
+  "title": "مولا امام رضا",
   "body": "سلام اللّٰہ علی مولا امام رضا\nیا غریب الغربا یا معین اضعفا\nیا غریب الغربا یا مولا امام رضا\n<<DIVIDER>>\nمیرے مولا میرے معصوم غریب الغربا\nمیرے ہادی میرے مظلوم معین اضعفا\nہو سلام آپ پہ سرکار میرے مولا رضا\nمولا مل جاے رضا آپ کی راضی ہو خدا\nسید و آقا یا امام رضا\nسلام اللّٰہ علی مولا۔۔۔\n<<DIVIDER>>\nآپ کے نام کے سکے کا امام ضامن\nمیرے بازو پہ باندھا رہتا ہے جو رات اور دن\nاسکی برکت سے ہوے کام ہیں سارے ممکن\nمولا محفوظ ہے اس سے میرا ظاہر باطن\nدلبر زہرا یا امام رضا\nسلام اللّٰہ علی مولا۔۔۔\n<<DIVIDER>>\nآپ جیسا نہ ہوا کوئی غریب الغربا\nآپ کو شہر مدینہ میں بھی رہنے نہ دیا\nقبر زہرا کی پیمبر کا بھی روضہ چھوٹا\nآپ کو آپ کے بابا کی طرح قید کیا\nچھٹ گیا کنبہ یا امام رضا\nسلام اللّٰہ علی مولا۔۔۔\n<<DIVIDER>>\nجس گھڑی چاند محرم کا نظر آتا تھا\nکربلا والوں کا غم آپ کو تڑپاتا تھا\nاور ماتم سے گریبان پھٹا جاتا تھا\nآہ کرتے تھے تو یہ عرش بھی تھراتا تھا\nروتا تھا کعبہ یا امام رضا\nسلام اللّٰہ علی مولا۔۔۔\n<<DIVIDER>>\nزہر انگور میں ظالم نے ملایا ہاے ہاے\nقبر میں فاطمہ زہرا کو رلایا ہاے ہاے\nبے خطا شمعِ امامت کو بجھایا ہاے ہاے\nایک مظلوم کو سید کو ستایا ہاے ہاے\nآسماں رویا یا امام رضا\nسلام اللّٰہ علی مولا۔۔۔\n<<DIVIDER>>\nپہنچے ایران میں معصومہء قم کے جو قدم\nدیکھا ہر بام پہ لہراتا ہے کالا پرچم\nغم میں بھای کے ہیں ڈوبا ہوا سارا عالم\nہاے مظلوم کا بیکس کا ہے گھر گھر ماتم\nغش ہوئی بہنا یا امام رضا\nسلام اللّٰہ علی مولا۔۔۔\n<<DIVIDER>>\nمومنو اٹھتا ہے تابوت رضا کا آؤ\nدینگی رو رو کے دعائیں تمہیں زہرا آؤ\nآؤ سب مل کے کرے ماتم مولا آؤ\nآؤ اک بہن کو دے بھای کا پرسہ آؤ\nلیجئے پرسہ یا امام رضا\nسلام اللّٰہ علی مولا۔۔۔\n<<DIVIDER>>\nغم زدہ آج وباؤں سے ہے دنیا مولا\nآج دشوار ہے انسان کا جینا مولا\nہے بلال اور یہ سرور کی تمنا مولا\nرب سے دلوا دو شفاوءں کا خزانہ مولا\nاے میرے مولا یا امام رضا\nسلام اللّٰہ علی مولا۔۔۔",
+  "styling": [
+    {
+      "insert": "سلام اللّٰہ علی مولا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا غریب الغربا یا معین اضعفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا غریب الغربا یا مولا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے مولا میرے معصوم غریب الغربا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے ہادی میرے مظلوم معین اضعفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو سلام آپ پہ سرکار میرے مولا رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا مل جاے رضا آپ کی راضی ہو خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سید و آقا یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام اللّٰہ علی مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کے نام کے سکے کا امام ضامن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بازو پہ باندھا رہتا ہے جو رات اور دن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسکی برکت سے ہوے کام ہیں سارے ممکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا محفوظ ہے اس سے میرا ظاہر باطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دلبر زہرا یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام اللّٰہ علی مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ جیسا نہ ہوا کوئی غریب الغربا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کو شہر مدینہ میں بھی رہنے نہ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر زہرا کی پیمبر کا بھی روضہ چھوٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کو آپ کے بابا کی طرح قید کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھٹ گیا کنبہ یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام اللّٰہ علی مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس گھڑی چاند محرم کا نظر آتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا والوں کا غم آپ کو تڑپاتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ماتم سے گریبان پھٹا جاتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہ کرتے تھے تو یہ عرش بھی تھراتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتا تھا کعبہ یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام اللّٰہ علی مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزہر انگور میں ظالم نے ملایا ہاے ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر میں فاطمہ زہرا کو رلایا ہاے ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے خطا شمعِ امامت کو بجھایا ہاے ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک مظلوم کو سید کو ستایا ہاے ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آسماں رویا یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام اللّٰہ علی مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہنچے ایران میں معصومہء قم کے جو قدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا ہر بام پہ لہراتا ہے کالا پرچم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم میں بھای کے ہیں ڈوبا ہوا سارا عالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مظلوم کا بیکس کا ہے گھر گھر ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غش ہوئی بہنا یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام اللّٰہ علی مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمومنو اٹھتا ہے تابوت رضا کا آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دینگی رو رو کے دعائیں تمہیں زہرا آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ سب مل کے کرے ماتم مولا آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ اک بہن کو دے بھای کا پرسہ آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیجئے پرسہ یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام اللّٰہ علی مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم زدہ آج وباؤں سے ہے دنیا مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج دشوار ہے انسان کا جینا مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بلال اور یہ سرور کی تمنا مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رب سے دلوا دو شفاوءں کا خزانہ مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے مولا یا امام رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام اللّٰہ علی مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Raza (a.s)",
+  "subcategory": "امام رضا (ع)",
   "author": "Bilal Kazmi",
   "anjumans": [],
   "verified": false

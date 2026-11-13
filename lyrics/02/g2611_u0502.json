@@ -1,12 +1,486 @@
 {
   "remoteId": "g2611_u0502",
-  "title": "Amma na jao",
+  "title": "اماں نہ جاؤ",
   "body": "گھر سے جو زہرا کے میت اٹھی\nگھر میں علی کے قیامت ہوی\n<<DIVIDER>>\nکہتی تھی زینب یہ سر پیٹ کر\nاماں نہ جاؤ مجھے چھوڑ کر\nویران ہوجاے گا اب یہ گھر\nاماں نہ جاؤ مجھے چھوڑ کر\n<<DIVIDER>>\nاٹھ اٹھ کے کرتی تھی شب کو فغاں\nدل کاٹ جاتا تھا غم کا بیاں\nخاموش ہو کچھ تو بولو نہ ماں\nاٹھ جاؤ زینب کی فریاد پر\nاماں نہ جاؤ مجھے چھوڑ کر\nکہتی تھی زینب۔۔۔\n<<DIVIDER>>\nدے کر صداییں بلاؤ ہمیں\nسینے سے اپنے لگاؤ ہمیں\nفرقت کے دن نہ دکھاؤ ہمیں\nکیوں آج ہم سے ہوی بے قرار\nاماں نہ جاؤ مجھے چھوڑ کر\nکہتی تھی زینب۔۔۔\n<<DIVIDER>>\nبچوں پہ کوہ الم گر پڑا\nسر کو جھکائے ہے شیر خدا\nکلثوم و فضہ ہے محوِ بکا\nحسنین روتے ہیں تھامے جگر\nاماں نہ جاؤ مجھے چھوڑ کر\nکہتی تھی زینب۔۔۔\n<<DIVIDER>>\nبابا کا اپنے جدائی کا غم\nدربار جانے کا دل پر ستم\nامت سے پاے ہیں اس درجہ غم\nسب سے چھپا کے وہ زخم جگر\nاماں نہ جاؤ مجھے چھوڑ کر\nکہتی تھی زینب۔۔۔\n<<DIVIDER>>\nپہلو پہ جلتا ہوا در گرا\nمحسن کا مقتل یہ گھر بن گیا\nاس غم نے تم کو نہ جینے دیا\nسب زخم دیکھے ہیں تم نے مگر\nاماں نہ جاؤ مجھے چھوڑ کر\nکہتی تھی زینب۔۔۔\n<<DIVIDER>>\nپہلو شکستہ جھکی ہے کمر\nاس ہاتھ پہلو پہ ایک قلب پر\nزیب مصلہ تھی تم رات بھر\nاب کیوں ہو خاموش لگتا ہے ڈر\nاماں نہ جاؤ مجھے چھوڑ کر\nکہتی تھی زینب۔۔۔\n<<DIVIDER>>\nالطاف و صفدر ہو کیسے رقم\nخیرالنسا پہ جو گزرے ستم\nقرطاس پر لکھ کے رویا قلم\nہے ایک جملے کا دل پر اثر\nاماں نہ جاؤ مجھے چھوڑ کر\nکہتی تھی زینب۔۔۔",
+  "styling": [
+    {
+      "insert": "گھر سے جو زہرا کے میت اٹھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں علی کے قیامت ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی تھی زینب یہ سر پیٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں نہ جاؤ مجھے چھوڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویران ہوجاے گا اب یہ گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں نہ جاؤ مجھے چھوڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھ اٹھ کے کرتی تھی شب کو فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کاٹ جاتا تھا غم کا بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش ہو کچھ تو بولو نہ ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھ جاؤ زینب کی فریاد پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں نہ جاؤ مجھے چھوڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدے کر صداییں بلاؤ ہمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے سے اپنے لگاؤ ہمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرقت کے دن نہ دکھاؤ ہمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں آج ہم سے ہوی بے قرار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں نہ جاؤ مجھے چھوڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچوں پہ کوہ الم گر پڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کو جھکائے ہے شیر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلثوم و فضہ ہے محوِ بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین روتے ہیں تھامے جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں نہ جاؤ مجھے چھوڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا کا اپنے جدائی کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دربار جانے کا دل پر ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت سے پاے ہیں اس درجہ غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب سے چھپا کے وہ زخم جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں نہ جاؤ مجھے چھوڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہلو پہ جلتا ہوا در گرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محسن کا مقتل یہ گھر بن گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس غم نے تم کو نہ جینے دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب زخم دیکھے ہیں تم نے مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں نہ جاؤ مجھے چھوڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہلو شکستہ جھکی ہے کمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس ہاتھ پہلو پہ ایک قلب پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زیب مصلہ تھی تم رات بھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کیوں ہو خاموش لگتا ہے ڈر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں نہ جاؤ مجھے چھوڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالطاف و صفدر ہو کیسے رقم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیرالنسا پہ جو گزرے ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرطاس پر لکھ کے رویا قلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے ایک جملے کا دل پر اثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں نہ جاؤ مجھے چھوڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Altaf Hussain",
   "anjumans": [],
   "verified": false

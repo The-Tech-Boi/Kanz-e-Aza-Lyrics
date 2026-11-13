@@ -1,12 +1,347 @@
 {
   "remoteId": "g2611_u1709",
-  "title": "Jab huwe abbas ke",
+  "title": "جب ہوے عباس کے",
   "body": "جب ہوے بازوے عباس قلم دریا پر\nگر کے ٹھنڈا ہوا حضرت کا علم دریا پر\nغرق خوں ہو گیا وہ بہر کرم دریا پر\nغل تھا زخمی ہوا سقاے حرم دریا پر\nمشک کو دانتوں میں پکڑے ہوے یوں لاتا ہے\nدہن شیر میں جس طرح شکار آتا ہے\n<<DIVIDER>>\nجب ہوے عباس کے بازو قلم\nہو گےء بے آسرا أہل حرم\n<<DIVIDER>>\nتیروں سے مشکیزہ چھلنی ہو گیا\nخوں میں عباس کے ڈوبا علم\nجب ہوے عباس کے۔۔۔\n<<DIVIDER>>\nجام معصوموں کے خالی رہ گےء\nلوٹ کر آے نہ غازی کے قدم\nجب ہوے عباس کے۔۔۔\n<<DIVIDER>>\nزین سے گرتا نہ گر زور کمر\nیوں کمر شبیر کی ہوتی نہ خم\nجب ہوے عباس کے۔۔۔\n<<DIVIDER>>\nلاش غازی تڑپتا رہ گیا\nکھا گیا عباس کو چادر کا غم\nجب ہوے عباس کے۔۔۔\n<<DIVIDER>>\nجب ہوا بازو بریدہ با وفا\nآے خیمے لوٹنے اہل ستم\nجب ہوے عباس کے۔۔۔\n<<DIVIDER>>\nوا حجابا کہہ کے روے گی صدا\nغم نہ ہوگا ثانیء زہرا کا کم\nجب ہوے عباس کے۔۔۔\n<<DIVIDER>>\nکہتے ہیں عباس یہ أہل عزا\nکاش ماتم میں تیرے مر جائے ہم\nجب ہوے عباس کے۔۔۔\n<<DIVIDER>>\nنوحہ جب سے ہے لکھا عباس کا\nروتے ہیں جواد قرطاس و قلم\nجب ہوے عباس کے۔۔۔",
+  "styling": [
+    {
+      "insert": "جب ہوے بازوے عباس قلم دریا پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر کے ٹھنڈا ہوا حضرت کا علم دریا پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غرق خوں ہو گیا وہ بہر کرم دریا پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غل تھا زخمی ہوا سقاے حرم دریا پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشک کو دانتوں میں پکڑے ہوے یوں لاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دہن شیر میں جس طرح شکار آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب ہوے عباس کے بازو قلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گےء بے آسرا أہل حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیروں سے مشکیزہ چھلنی ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں میں عباس کے ڈوبا علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہوے عباس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجام معصوموں کے خالی رہ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کر آے نہ غازی کے قدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہوے عباس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزین سے گرتا نہ گر زور کمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں کمر شبیر کی ہوتی نہ خم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہوے عباس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاش غازی تڑپتا رہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا گیا عباس کو چادر کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہوے عباس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب ہوا بازو بریدہ با وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے خیمے لوٹنے اہل ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہوے عباس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوا حجابا کہہ کے روے گی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم نہ ہوگا ثانیء زہرا کا کم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہوے عباس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتے ہیں عباس یہ أہل عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاش ماتم میں تیرے مر جائے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہوے عباس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوحہ جب سے ہے لکھا عباس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے ہیں جواد قرطاس و قلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہوے عباس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Jawad Jaffri",
   "anjumans": [],
   "verified": false

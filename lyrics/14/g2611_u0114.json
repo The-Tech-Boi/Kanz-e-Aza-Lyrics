@@ -1,12 +1,432 @@
 {
   "remoteId": "g2611_u0114",
-  "title": "Aao sakina roti",
+  "title": "آؤ سکینہ روتی",
   "body": "آؤ سکینہ روتی ہے\nعباس عباس آؤ سکینہ روتی ہے\n<<DIVIDER>>\nجنگل ہے سونا کیا کروں\nکیا حال ہے کس سے کہوں\nپلکوں پہ اشک غم لیے\nمنہ آشکوں سے وہ دھوتی ہے\nعباس عباس آؤ سکینہ۔۔۔\n<<DIVIDER>>\nزہرا کے دل جان علی\nمرجھا گیء غم سے کلی\nگوہر چھنے کرتا جلا\nافتاد اس پر ہوتی ہے\nعباس عباس آؤ سکینہ۔۔۔\n<<DIVIDER>>\nشمر لعیں سے ڈرتی ہے\nجب یاد تم کو کرتی ہے\nمرتی ہے تیرے غم میں وہ\nبے چین و مضطر ہوتی ہے\nعباس عباس آؤ سکینہ۔۔۔\n<<DIVIDER>>\nاسکو تسلی دیتی ہوں\nآیںگے بھیا کہتی ہوں\nبولو کہوں میں کیا کروں\nبے کل وہ غم سے ہوتی ہے\nعباس عباس آؤ سکینہ۔۔۔\n<<DIVIDER>>\nننھی سی جان لاکھوں ستم\nہے اک اس پہ غم پہ غم\nسینہ کہاں شبیر کا\nکب چین سے وہ سوتی ہے\nعباس عباس آؤ سکینہ۔۔۔\n<<DIVIDER>>\nظالم کے اس پر کوڑے ہیں\nتم ساتھ جب سے چھوڑے ہیں\nسینے پہ سونے والی تھی\nوہ خاک پر اب سوتی ہے\nعباس عباس آؤ سکینہ۔۔۔\n<<DIVIDER>>\nکیسے نہر پر سو گےء\nبن بھائی کے ہم ہوگےء\nزینب کی تھی رن میں صدا\nشام و سحر وہ روتی تھی\nعباس عباس آؤ سکینہ۔۔۔\n<<DIVIDER>>\nصابر غم عباس میں\nبالی سکینہ پیاس میں\nاقبال بنت شاہ دیں\nعمو کے غم میں روتی ہے\nعباس عباس آؤ سکینہ۔۔۔",
+  "styling": [
+    {
+      "insert": "آؤ سکینہ روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس آؤ سکینہ روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنگل ہے سونا کیا کروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا حال ہے کس سے کہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پلکوں پہ اشک غم لیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منہ آشکوں سے وہ دھوتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس آؤ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزہرا کے دل جان علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرجھا گیء غم سے کلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گوہر چھنے کرتا جلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افتاد اس پر ہوتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس آؤ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشمر لعیں سے ڈرتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب یاد تم کو کرتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرتی ہے تیرے غم میں وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے چین و مضطر ہوتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس آؤ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسکو تسلی دیتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آیںگے بھیا کہتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولو کہوں میں کیا کروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے کل وہ غم سے ہوتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس آؤ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nننھی سی جان لاکھوں ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے اک اس پہ غم پہ غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینہ کہاں شبیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب چین سے وہ سوتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس آؤ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظالم کے اس پر کوڑے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ساتھ جب سے چھوڑے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے پہ سونے والی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ خاک پر اب سوتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس آؤ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے نہر پر سو گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن بھائی کے ہم ہوگےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی تھی رن میں صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام و سحر وہ روتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس آؤ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصابر غم عباس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالی سکینہ پیاس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اقبال بنت شاہ دیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمو کے غم میں روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس آؤ سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Iqbal Abedi",
   "anjumans": [],
   "verified": false

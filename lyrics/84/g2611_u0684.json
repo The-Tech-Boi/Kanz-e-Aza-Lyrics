@@ -1,12 +1,424 @@
 {
   "remoteId": "g2611_u0684",
-  "title": "Ay mere kadiyal jawan",
+  "title": "اے میرے کڑیل جواں",
   "body": "اے میرے کڑیل جواں اے میرے کڑیل جواں\nاے پسر نوجواں اے پسر نوجواں\n<<DIVIDER>>\nپیٹ کے سر دشت میں نوحہ یہ کرتی تھی ماں\nاے میرے کڑیل جواں اے میرے کڑیل جواں\n<<DIVIDER>>\nتو ہی تھا میرا سکوں تجھ سے تھا آباد گھر\nجاتے ہی تیرے میرا ہوگیا برباد گھر\nدشت میں اب ڈھونڈنے تجھکو میں جاؤں کہاں\nاے میرے کڑیل جواں۔۔۔\n<<DIVIDER>>\nتو تھا کمای میری تو ہی تھا حاصل میرا\nبرچھی لگی ہے تجھے زخمی ہوا دل میرا\nخون میرا دل سے بھی ہونے لگا ہے رواں\nاے میرے کڑیل جواں۔۔۔\n<<DIVIDER>>\nظلم یہ کیسا ہوا ہاے سر کربلا\nلٹ گیا اسباب سب چھن گیء سر سے ردا\nروتا ہے اکبر تجھے خیموں سے اٹھتا دھواں\nاے میرے کڑیل جواں۔۔۔\n<<DIVIDER>>\nاشک بہاوں گی میں خاک اڑاؤں گی میں\nروتی رہوں گی صدا سب کو رلاؤں گی میں\nہوگا لبوں پر میرے نوحہ تیرا ہی رواں\nاے میرے کڑیل جواں۔۔۔\n<<DIVIDER>>\nاے میرے نورِ نظر کھا گیء کس کی نظر\nہوگی بھلا کس طرح عمر میری اب بسر\nروے گی اکبر تجھے جاے گی مادر جہاں\nاے میرے کڑیل جواں۔۔۔\n<<DIVIDER>>\nجب میں سنوں گی اذاں یاد تیری آے گی\nخون ہر ایک گام پہ یاد یہ رلواے گی\nدل میرا پھٹ جاے گا جب میں سنوں گی اذاں\nاے میرے کڑیل جواں۔۔۔\n<<DIVIDER>>\nکس طرح اب لوٹ کے جاؤں گی میں کربلا\nکیا کہوں صغرا کو میں اتنا تو ماں کو بتا\nغم تیرا صغرا سے میں کیسے کروں گی بیاں\nاے میرے کڑیل جواں۔۔۔\n<<DIVIDER>>\nگود کے پالے میرے پاس بلالے مجھے\nظلم و ستمگار سے آکے بچالے مجھے\nباندھ رہے ہیں لعیں شانوں میں اب ریسماں\nاے میرے کڑیل جواں۔۔۔\n<<DIVIDER>>\nنور علی لب پہ ہے سب کے ہی آہ و بکا\nچھای ہے چاروں طرف رنج و الم کی گھٹا\nناصر زیدی کرے کس طرح یہ غم بیاں\nاے میرے کڑیل جواں۔۔۔",
+  "styling": [
+    {
+      "insert": "اے میرے کڑیل جواں اے میرے کڑیل جواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے پسر نوجواں اے پسر نوجواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیٹ کے سر دشت میں نوحہ یہ کرتی تھی ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے کڑیل جواں اے میرے کڑیل جواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو ہی تھا میرا سکوں تجھ سے تھا آباد گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتے ہی تیرے میرا ہوگیا برباد گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت میں اب ڈھونڈنے تجھکو میں جاؤں کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے کڑیل جواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو تھا کمای میری تو ہی تھا حاصل میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برچھی لگی ہے تجھے زخمی ہوا دل میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میرا دل سے بھی ہونے لگا ہے رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے کڑیل جواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظلم یہ کیسا ہوا ہاے سر کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ گیا اسباب سب چھن گیء سر سے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتا ہے اکبر تجھے خیموں سے اٹھتا دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے کڑیل جواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاشک بہاوں گی میں خاک اڑاؤں گی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی رہوں گی صدا سب کو رلاؤں گی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگا لبوں پر میرے نوحہ تیرا ہی رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے کڑیل جواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے میرے نورِ نظر کھا گیء کس کی نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی بھلا کس طرح عمر میری اب بسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روے گی اکبر تجھے جاے گی مادر جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے کڑیل جواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب میں سنوں گی اذاں یاد تیری آے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون ہر ایک گام پہ یاد یہ رلواے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میرا پھٹ جاے گا جب میں سنوں گی اذاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے کڑیل جواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح اب لوٹ کے جاؤں گی میں کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کہوں صغرا کو میں اتنا تو ماں کو بتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم تیرا صغرا سے میں کیسے کروں گی بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے کڑیل جواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگود کے پالے میرے پاس بلالے مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم و ستمگار سے آکے بچالے مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باندھ رہے ہیں لعیں شانوں میں اب ریسماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے کڑیل جواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنور علی لب پہ ہے سب کے ہی آہ و بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھای ہے چاروں طرف رنج و الم کی گھٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناصر زیدی کرے کس طرح یہ غم بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے کڑیل جواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Noor Ali",
   "anjumans": [],
   "verified": false

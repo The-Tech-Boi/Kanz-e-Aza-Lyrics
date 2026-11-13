@@ -1,12 +1,365 @@
 {
   "remoteId": "g2611_u0219",
-  "title": "Abbas kahan ho",
+  "title": "عباس کہاں ہو",
   "body": "کہتے تھے شہ دیں میرے عباس کہاں ہو\nعباس کہاں ہو عباس کہاں ہو\n<<DIVIDER>>\nتنہا ہوں کھڑا دشتِ بلا میں برادر\nدیکھو زرا آ کر دیکھو زرا آ کر\n<<DIVIDER>>\nپالا تھا جنہیں نازوں سے سوتے ہیں کہاں وہ\nعباس کہاں ہو۔۔۔\n<<DIVIDER>>\nدکھتا نہیں آنکھوں سے ہر سوں ہے اندھیرا\nدم رکتا ہے میرا دم رکتا ہے میرا\nدیتا ہے صداییں علی اکبر میرا مجھکو\nعباس کہاں ہو۔۔۔\n<<DIVIDER>>\nسینے میں جواں لال کے برچھی کی انی ہے\nتھراتی زمیں ہے تھراتی زمیں ہے\nالجھا ہوا برچھی میں نہ اکبر کا جگر ہو\nعباس کہاں ہو۔۔۔\n<<DIVIDER>>\nہاتھوں پہ اگلتا ہے لہو اصغر بے شیر\nگردن پہ لگا تیر گردن پہ لگا تیر\nکیا کہہ کے تسلی دوں میں در پہ کھڑی ماں کو\nعباس کہاں ہو۔۔۔\n<<DIVIDER>>\nننھی سی لحد میں علی اصغر کو لٹا کر\nمٹی پہ سلا کر مٹی پہ سلا کر\nاٹھتا ہوں کبھی گرتا ہوں تھامے ہوئے دل کو\nعباس کہاں ہو۔۔۔\n<<DIVIDER>>\nچھینیں گے سکینہ کے گوہر اب یہ ستمگر\nقاسم ہے نہ اکبر قاسم ہے نہ اکبر\nلاشے پہ میرے آ‌ کے پکارے گی وہ تم کو\nعباس کہاں ہو۔۔۔\n<<DIVIDER>>\nچلتی رہی گردن پہ چھری دیکھ رہی تھی\nزینب نے صدا دی زینب نے صدا دی\nسوکھا ہے گلا بھای کا پانی تو پلا دو\nعباس کہاں ہو۔۔۔\n<<DIVIDER>>\nچلتی تھی سیاہ آندھیاں خوں بکھرا تھا ہر سو\nجب کھول کے گیسو جب کھول کے گیسو\nایک لاشے بریدہ پہ یہ ماں کہتی تھی رو رو\nعباس کہاں ہو۔۔۔",
+  "styling": [
+    {
+      "insert": "کہتے تھے شہ دیں میرے عباس کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کہاں ہو عباس کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتنہا ہوں کھڑا دشتِ بلا میں برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو زرا آ کر دیکھو زرا آ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپالا تھا جنہیں نازوں سے سوتے ہیں کہاں وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدکھتا نہیں آنکھوں سے ہر سوں ہے اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم رکتا ہے میرا دم رکتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتا ہے صداییں علی اکبر میرا مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسینے میں جواں لال کے برچھی کی انی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھراتی زمیں ہے تھراتی زمیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الجھا ہوا برچھی میں نہ اکبر کا جگر ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھوں پہ اگلتا ہے لہو اصغر بے شیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گردن پہ لگا تیر گردن پہ لگا تیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کہہ کے تسلی دوں میں در پہ کھڑی ماں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nننھی سی لحد میں علی اصغر کو لٹا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مٹی پہ سلا کر مٹی پہ سلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھتا ہوں کبھی گرتا ہوں تھامے ہوئے دل کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھینیں گے سکینہ کے گوہر اب یہ ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم ہے نہ اکبر قاسم ہے نہ اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے پہ میرے آ‌ کے پکارے گی وہ تم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلتی رہی گردن پہ چھری دیکھ رہی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے صدا دی زینب نے صدا دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوکھا ہے گلا بھای کا پانی تو پلا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلتی تھی سیاہ آندھیاں خوں بکھرا تھا ہر سو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کھول کے گیسو جب کھول کے گیسو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک لاشے بریدہ پہ یہ ماں کہتی تھی رو رو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کہاں ہو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Ali Rizvi Sachey",
   "anjumans": [],
   "verified": false

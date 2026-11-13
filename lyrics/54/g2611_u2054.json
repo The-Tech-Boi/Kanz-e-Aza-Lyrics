@@ -1,7 +1,379 @@
 {
   "remoteId": "g2611_u2054",
-  "title": "Koi misle shahe",
+  "title": "کوئی مثل شاہ",
   "body": "کوئی مثل شاہ دیں ہو تو آئے\nضعیفی میں جواں کا داغ اٹھاے\n<<DIVIDER>>\nاٹھی تعظیم کو ہر موجِ دریا\nسر ساحل جونہی عباس آے\nکوئی مثل شاہ دیں۔۔۔\n<<DIVIDER>>\nارے لوگوں میرا نوشاہ آیا\nلہو کی ہاتھ میں مہندی لگاے\nکوئی مثل شاہ دیں۔۔۔\n<<DIVIDER>>\nکلیجہ تھام کر چلای مادر\nشہ دیں لاشہء قاسم جو لاے\nکوئی مثل شاہ دیں۔۔۔\n<<DIVIDER>>\nکہو بہنوں سے آنچل سر پہ ڈالے\nکوئی نوشاہ کی مسند بچھاے\nکوئی مثل شاہ دیں۔۔۔\n<<DIVIDER>>\nرخ قاسم سے سہرے کو ہٹا دو\nدلہن آتی ہے گھونگھٹ کو ہٹاے\nکوئی مثل شاہ دیں۔۔۔\n<<DIVIDER>>\nجو دیکھی لاش اکبر کی تو ماں نے\nالم سے پوچھ کے چھلے بڑھاے\nکوئی مثل شاہ دیں۔۔۔\n<<DIVIDER>>\nکہا بانو نے اصغر تم کہاں ہو\nیہ مادر اب کسے جھولا جھلاے\nکوئی مثل شاہ دیں۔۔۔\n<<DIVIDER>>\nارے بے شیر کی کوی خبر لے\nمیرا بچہ لحد میں ڈر نہ جاے\nکوئی مثل شاہ دیں۔۔۔\n<<DIVIDER>>\nچلی آندھی فلک سے خون برسا\nشہ بیکس لہو میں جب نہاے\nکوئی مثل شاہ دیں۔۔۔\n<<DIVIDER>>\nارے یہ کیا ستم ہے اے لعینوں\nبہن بھائی پر رونے بھی نہ پائے\nکوئی مثل شاہ دیں۔۔۔\n<<DIVIDER>>\nسمجھ لو عشقِ جنت ہے اسی کی\nغمِ سرور میں جو آنسوں بہاے\nکوئی مثل شاہ دیں۔۔۔",
+  "styling": [
+    {
+      "insert": "کوئی مثل شاہ دیں ہو تو آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضعیفی میں جواں کا داغ اٹھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھی تعظیم کو ہر موجِ دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر ساحل جونہی عباس آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مثل شاہ دیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nارے لوگوں میرا نوشاہ آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو کی ہاتھ میں مہندی لگاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مثل شاہ دیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکلیجہ تھام کر چلای مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ دیں لاشہء قاسم جو لاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مثل شاہ دیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہو بہنوں سے آنچل سر پہ ڈالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نوشاہ کی مسند بچھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مثل شاہ دیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرخ قاسم سے سہرے کو ہٹا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دلہن آتی ہے گھونگھٹ کو ہٹاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مثل شاہ دیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو دیکھی لاش اکبر کی تو ماں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الم سے پوچھ کے چھلے بڑھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مثل شاہ دیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا بانو نے اصغر تم کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ مادر اب کسے جھولا جھلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مثل شاہ دیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nارے بے شیر کی کوی خبر لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بچہ لحد میں ڈر نہ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مثل شاہ دیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلی آندھی فلک سے خون برسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ بیکس لہو میں جب نہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مثل شاہ دیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nارے یہ کیا ستم ہے اے لعینوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہن بھائی پر رونے بھی نہ پائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مثل شاہ دیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسمجھ لو عشقِ جنت ہے اسی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمِ سرور میں جو آنسوں بہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مثل شاہ دیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

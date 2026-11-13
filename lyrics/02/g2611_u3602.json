@@ -1,12 +1,334 @@
 {
   "remoteId": "g2611_u3602",
-  "title": "Zameene karbala",
+  "title": "زمین کربلا",
   "body": "العجل العجل العجل\n<<DIVIDER>>\nآے کعبے سے صدا حیا علی خیر العمل\nالعجل اے وارث خونِ شہیداں العجل\nاے یوسف زہرا\n<<DIVIDER>>\nزمین کربلا والے تجھے آواز دیتے ہیں\nبہتر بیکفن لاشے تجھے آواز دیتے ہیں\n<<DIVIDER>>\nہے کہیں گنج شہیداں میں رکھی گھٹڑی کوئی\nکسی کی لاش کے ٹکڑے تجھے آواز دیتے ہیں\nزمین کربلا وال۔۔۔\n<<DIVIDER>>\nچلتے ناقے سے گرے جو ماؤں کی آغوش سے\nوہ سارے بے زباں بچے تجھے آواز دیتے ہیں\nزمین کربلا وال۔۔۔\n<<DIVIDER>>\nتشنگی آ کر سکینہ اور اصغر کی بجھا\nنہ جانے کب سے وہ پیاسے تجھے آواز دیتے ہیں\nزمین کربلا وال۔۔۔\n<<DIVIDER>>\nالعجل کہتی ہے جھولے کی سلگتی لڑکیاں\nکہیں جلتے ہوے خیمے تجھے آواز دیتے ہیں\nزمین کربلا وال۔۔۔\n<<DIVIDER>>\nان کی مظلومی مصیب کی زمیں سے پوچھ لے\nوہ دو بچے رقیہ کے تجھے آواز دیتے ہیں\nزمین کربلا وال۔۔۔\n<<DIVIDER>>\nجلتے خیموں سے بچا کر لای جو سجاد کو\nاسی کے پاؤں کے چھالے آواز دیتے ہیں\nزمین کربلا وال۔۔۔\n<<DIVIDER>>\nجو شہیدانِ ولاے مرتضیٰ ہے آج بھی\nکفن باندھے ہوے سر سے آواز دیتے ہیں\nزمین کربلا وال۔۔۔\n<<DIVIDER>>\nحلق ماتم میں آ کر اے تکلم ماتمی\nتجھے آواز دیتے تھے تجھے آواز دیتے ہیں\nزمین کربلا وال۔۔۔",
+  "styling": [
+    {
+      "insert": "العجل العجل العجل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآے کعبے سے صدا حیا علی خیر العمل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل اے وارث خونِ شہیداں العجل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے یوسف زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزمین کربلا والے تجھے آواز دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتر بیکفن لاشے تجھے آواز دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے کہیں گنج شہیداں میں رکھی گھٹڑی کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی کی لاش کے ٹکڑے تجھے آواز دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین کربلا وال۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلتے ناقے سے گرے جو ماؤں کی آغوش سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ سارے بے زباں بچے تجھے آواز دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین کربلا وال۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتشنگی آ کر سکینہ اور اصغر کی بجھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے کب سے وہ پیاسے تجھے آواز دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین کربلا وال۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالعجل کہتی ہے جھولے کی سلگتی لڑکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں جلتے ہوے خیمے تجھے آواز دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین کربلا وال۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nان کی مظلومی مصیب کی زمیں سے پوچھ لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ دو بچے رقیہ کے تجھے آواز دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین کربلا وال۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلتے خیموں سے بچا کر لای جو سجاد کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی کے پاؤں کے چھالے آواز دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین کربلا وال۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو شہیدانِ ولاے مرتضیٰ ہے آج بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کفن باندھے ہوے سر سے آواز دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین کربلا وال۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحلق ماتم میں آ کر اے تکلم ماتمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھے آواز دیتے تھے تجھے آواز دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین کربلا وال۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

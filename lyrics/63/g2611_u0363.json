@@ -1,12 +1,377 @@
 {
   "remoteId": "g2611_u0363",
-  "title": "Akbar nahi aaye",
+  "title": "اکبر نہیں آئے",
   "body": "اکبر نہیں آئے اصغر نہیں آئے\nدن بیت گیا اب رات ہوئی دلبر نہیں آئے\n<<DIVIDER>>\nہم نامِ علی ہم شکلِ نبی\nجُرا،ت تھی سوا غیرت تھی بڑی\nلیکن جب مشکل آئی گھڑی\nماں دیتی رہی رو رو کے صدا\nاکبر نہیں آئے ۔۔۔\n<<DIVIDER>>\nکہتی تھی یہ بانو رو رو\nللہ بُلا دو اصغر کو\nکیا جانے کس عالم میں ہو\nرن کو گئے باپ کے ہاتھوں پر\nپھر گھر نہیں آئے\nاکبر نہیں آئے ۔۔۔\n<<DIVIDER>>\nکیا گزری لال میرے تم پر\nکچھ تو بولو جانِ مادر\nکیا بات ہوئی رن میں سرور\nلے کر تو گئے تھے ہاتھوں پر\nلے کر نہیں آئے\nاکبر نہیں آئے ۔۔۔\n<<DIVIDER>>\nتم پر تو ہے سب حال عیاں\nپانی تھا کہاں جو دیتی ماں\nاتنی سی بات پہ دے دی جاں\nگھر سے گئے ایسے ہو کے خفا\nمُڑ کر نہیں آئے\nاکبر نہیں آئے ۔۔۔\n<<DIVIDER>>\nآجائو اے اصغر آئو\nمادر پر لال ترس کھائو\nاک بار گلے سے لگ جائو\nممکن ہے لوٹ کہ پھر دلبر\nمادر نہیں آئے\nاکبر نہیں آئے ۔۔۔\n<<DIVIDER>>\nزخمی ہے گلا محبوب ہو تم\nبیٹا زخموں سے چُور ہو تم\nاب میں سمجھی کیوں دور ہو تم\nمیں جان گئے اے لختِ جگر\nکیونکر نہیں آئے\nاکبر نہیں آئے ۔۔۔",
+  "styling": [
+    {
+      "insert": "اکبر نہیں آئے اصغر نہیں آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن بیت گیا اب رات ہوئی دلبر نہیں آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم نامِ علی ہم شکلِ نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جُرا،ت تھی سوا غیرت تھی بڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن جب مشکل آئی گھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں دیتی رہی رو رو کے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نہیں آئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی تھی یہ بانو رو رو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "للہ بُلا دو اصغر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا جانے کس عالم میں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رن کو گئے باپ کے ہاتھوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر گھر نہیں آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نہیں آئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا گزری لال میرے تم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ تو بولو جانِ مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بات ہوئی رن میں سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے کر تو گئے تھے ہاتھوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے کر نہیں آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نہیں آئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم پر تو ہے سب حال عیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی تھا کہاں جو دیتی ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنی سی بات پہ دے دی جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر سے گئے ایسے ہو کے خفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مُڑ کر نہیں آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نہیں آئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآجائو اے اصغر آئو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مادر پر لال ترس کھائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بار گلے سے لگ جائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ممکن ہے لوٹ کہ پھر دلبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مادر نہیں آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نہیں آئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخمی ہے گلا محبوب ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹا زخموں سے چُور ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میں سمجھی کیوں دور ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جان گئے اے لختِ جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیونکر نہیں آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نہیں آئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "anjumans": [],
   "verified": false
 }

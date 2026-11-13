@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u0265",
-  "title": "Abbas tera haq hai",
+  "title": "عباس تیرا حق ہے",
   "body": "عباس تیرا حق ہے زمانہ تجھے روئے\nجب شام و سحر فاطمہ زہرا تجھے روئے\n<<DIVIDER>>\nدرہ لئے پہرےپہ ستمگار کھڑا ہے\nکیسے تیرے لا شےپہ سکینہ تجھے روئے\n…عباس تیرا حق ہے\n<<DIVIDER>>\nجس وقت اٹھایا نہ گیا لاشہ جواں کا\nشہ اس گھڑی اکبر سے ذیادہ تجھے روئے\n…عباس تیرا حق ہے\n<<DIVIDER>>\nزینب نے کہا شام غریباں میں اے غازی\nبے پردہ مجھے د یکھ کے بابا تجھے روئے\n…عباس تیرا حق ہے\n<<DIVIDER>>\nسجدے کے لئے جب لیا ہا تھوں کا سہارا\nتو سجاد مصلے پہ ہمیشہ تجھے روئے\n…عباس تیرا حق ہے\n<<DIVIDER>>\nبن ہاتھوں کے کس طرح تو گھوڑے سے گرا تھا\nیہ سن کے بہت اھل مدینہ تجھے روئے\n…عباس تیرا حق ہے\n<<DIVIDER>>\nمشکیزہ کہیں جسم کہیں ہاتھ کہیں ہے\nجا جا کے کہاں فاطمہ زہرا تجھے روئے\n…عباس تیرا حق ہے\n<<DIVIDER>>\nارمان سکینہ کا تھا جتنا تجھے روتی\nسجاد تیری قبر پہ اتنا تجھے روئے\n…عباس تیرا حق ہے\n<<DIVIDER>>\nہاشم کے قمر کیوں نہ تیرا چاہنے والا\nوالشمس کا پڑھتے ہوئے سورہ تجھے روئے\n…عباس تیرا حق ہے\n<<DIVIDER>>\nحسرت ہے کہ غازی ہو لہو آنکھوں سے جاری\nیہ میر تکلم کبھی ایسا تجھے روئے\n…عباس تیرا حق ہے",
+  "styling": [
+    {
+      "insert": "عباس تیرا حق ہے زمانہ تجھے روئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب شام و سحر فاطمہ زہرا تجھے روئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدرہ لئے پہرےپہ ستمگار کھڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے تیرے لا شےپہ سکینہ تجھے روئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…عباس تیرا حق ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس وقت اٹھایا نہ گیا لاشہ جواں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ اس گھڑی اکبر سے ذیادہ تجھے روئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…عباس تیرا حق ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے کہا شام غریباں میں اے غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے پردہ مجھے د یکھ کے بابا تجھے روئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…عباس تیرا حق ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجدے کے لئے جب لیا ہا تھوں کا سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو سجاد مصلے پہ ہمیشہ تجھے روئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…عباس تیرا حق ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبن ہاتھوں کے کس طرح تو گھوڑے سے گرا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سن کے بہت اھل مدینہ تجھے روئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…عباس تیرا حق ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشکیزہ کہیں جسم کہیں ہاتھ کہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا جا کے کہاں فاطمہ زہرا تجھے روئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…عباس تیرا حق ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nارمان سکینہ کا تھا جتنا تجھے روتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد تیری قبر پہ اتنا تجھے روئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…عباس تیرا حق ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاشم کے قمر کیوں نہ تیرا چاہنے والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "والشمس کا پڑھتے ہوئے سورہ تجھے روئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…عباس تیرا حق ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسرت ہے کہ غازی ہو لہو آنکھوں سے جاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میر تکلم کبھی ایسا تجھے روئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…عباس تیرا حق ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

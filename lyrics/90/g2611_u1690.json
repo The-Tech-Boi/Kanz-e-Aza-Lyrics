@@ -1,12 +1,514 @@
 {
   "remoteId": "g2611_u1690",
-  "title": "Jaane sakina",
+  "title": "جانِ سکینہ",
   "body": "بابا کجای بابا کجای\nکہاں ہو بابا\n<<DIVIDER>>\nچراغِ زنداں خموش ام شب\nاے بابا یہ قبم کجای کجای\n<<DIVIDER>>\nبابا تم پاس نہیں چچا عباس نہیں\nبابا تم پاس نہیں کوئی بھی آس نہیں آس نہیں\nچراغِ زنداں خموش ام شب\nاے بابا یہ قبم کجای کجای\n<<DIVIDER>>\nبابا میں قید میں ہوں آپ کہاں ہو بابا\nلاڈلی بیٹی کو اک بار پکارو بابا\nپاس آؤ یا مجھے پاس بلا لو بابا\nاپنے دامن میں سکینہ کو چھپا لو بابا\nمیرے بابا مجھے دو آ کے سہارا\nاے جانِ سکینہ کہاں ہو کہاں ہو\nچراغِ زنداں۔۔۔\nاے بابا یہ قبم۔۔۔\n<<DIVIDER>>\nبابا تم پاس نہیں چچا عباس نہیں\nبابا تم پاس نہیں کوئی بھی آس نہیں آس نہیں\nچراغِ زنداں خموش ام شب\nاے بابا یہ قبم کجای کجای\n<<DIVIDER>>\nہاے سہتی ہے ستم آپ کی بیٹی بابا\nخون بہتا ہے میرے کان ہیں زخمی بابا\nچھین کر لے گےء کیوں بالیاں میری بابا\nمانگتے آ کے جو مجھ سے میں دیتی بابا\nکتنا مشکل ہے سکینہ کا گزارا\nاے جانِ سکینہ کہاں ہو کہاں ہو\nچراغِ زنداں۔۔۔\nاے بابا یہ قبم۔۔۔\n<<DIVIDER>>\nبابا تم پاس نہیں چچا عباس نہیں\nبابا تم پاس نہیں کوئی بھی آس نہیں آس نہیں\nچراغِ زنداں خموش ام شب\nاے بابا یہ قبم کجای کجای\n<<DIVIDER>>\nبابا کل خواب میں تم پاس میرے آے تھے\nگود میں اصغر معصوم کو بھی لاے تھے\nبھای اکبر چچا عباس یہی بیٹھے تھے\nباری باری گلے لپٹا کے مجھے روتے تھے\nجانے کب دیکھوں گی کنبہ میں دوبارہ\nاے جانِ سکینہ کہاں ہو کہاں ہو\nچراغِ زنداں۔۔۔\nاے بابا یہ قبم۔۔۔\n<<DIVIDER>>\nبابا تم پاس نہیں چچا عباس نہیں\nبابا تم پاس نہیں کوئی بھی آس نہیں آس نہیں\nچراغِ زنداں خموش ام شب\nاے بابا یہ قبم کجای کجای\n<<DIVIDER>>\nایک دن بابا کا سر بالی سکینہ کو ملا\nاشک بار آنکھوں سے بابا نے سکینہ سے کہا\nہاے کس حال میں تم ہم سے ملی ہو بیٹا\nاب وہ سینہ ہی نہیں جس پہ سلاے بابا\nاپنا سر رکھ دے میرے سر پہ سکینہ\n<<DIVIDER>>\nچراغِ زنداں خموش ام شب",
+  "styling": [
+    {
+      "insert": "بابا کجای بابا کجای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں ہو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچراغِ زنداں خموش ام شب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بابا یہ قبم کجای کجای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا تم پاس نہیں چچا عباس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تم پاس نہیں کوئی بھی آس نہیں آس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چراغِ زنداں خموش ام شب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بابا یہ قبم کجای کجای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا میں قید میں ہوں آپ کہاں ہو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاڈلی بیٹی کو اک بار پکارو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاس آؤ یا مجھے پاس بلا لو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے دامن میں سکینہ کو چھپا لو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا مجھے دو آ کے سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے جانِ سکینہ کہاں ہو کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چراغِ زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بابا یہ قبم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا تم پاس نہیں چچا عباس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تم پاس نہیں کوئی بھی آس نہیں آس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چراغِ زنداں خموش ام شب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بابا یہ قبم کجای کجای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے سہتی ہے ستم آپ کی بیٹی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون بہتا ہے میرے کان ہیں زخمی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھین کر لے گےء کیوں بالیاں میری بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانگتے آ کے جو مجھ سے میں دیتی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنا مشکل ہے سکینہ کا گزارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے جانِ سکینہ کہاں ہو کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چراغِ زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بابا یہ قبم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا تم پاس نہیں چچا عباس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تم پاس نہیں کوئی بھی آس نہیں آس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چراغِ زنداں خموش ام شب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بابا یہ قبم کجای کجای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا کل خواب میں تم پاس میرے آے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گود میں اصغر معصوم کو بھی لاے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای اکبر چچا عباس یہی بیٹھے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باری باری گلے لپٹا کے مجھے روتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے کب دیکھوں گی کنبہ میں دوبارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے جانِ سکینہ کہاں ہو کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چراغِ زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بابا یہ قبم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا تم پاس نہیں چچا عباس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تم پاس نہیں کوئی بھی آس نہیں آس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چراغِ زنداں خموش ام شب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بابا یہ قبم کجای کجای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک دن بابا کا سر بالی سکینہ کو ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشک بار آنکھوں سے بابا نے سکینہ سے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے کس حال میں تم ہم سے ملی ہو بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب وہ سینہ ہی نہیں جس پہ سلاے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنا سر رکھ دے میرے سر پہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچراغِ زنداں خموش ام شب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "N. Sarwar, J. Jaffri & M. Abdollahi",
   "anjumans": [],
   "verified": false

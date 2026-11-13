@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u1058",
-  "title": "Chaar saal ki bachi",
+  "title": "چار سال کی بچی",
   "body": "سر جھکائے بیٹھی ہے چار سال کی بچی\nپانی کو ترستی ہے چار سال کی بچی\n<<DIVIDER>>\nسب بزرگ حسرت سے دیکھتے ہیں چہرے کو\nسوگوار بیٹھی ہے چار سال کی بچی\nسر جھکائے بیٹھی ہے۔۔۔\n<<DIVIDER>>\nدیتے ہیں تسلی سب کیا رباب کیا زینب\nجس کے پاس جاتی ہے چار سال کی بچی\nسر جھکائے بیٹھی ہے۔۔۔\n<<DIVIDER>>\nاپنے باپ کا لاشہ رات کے اندھیرے میں\nڈھونڈنے نکلتی ہے چار سال کی بچی\nسر جھکائے بیٹھی ہے۔۔۔\n<<DIVIDER>>\nکروٹیں بدلتی ہے اسکی لاش مقتل میں\nجس کا‌ نام لیتی ہے چار سال کی بچی\nسر جھکائے بیٹھی ہے۔۔۔\n<<DIVIDER>>\nموت کی صداؤں نے اتنا دل دکھایا ہے\nآہٹوں سے ڈرتی ہے چار سال کی بچی\nسر جھکائے بیٹھی ہے۔۔۔\n<<DIVIDER>>\nگوشوار چھنتے ہیں اور طمانچے لگتے ہیں\nگرتی ہے سنبھلتی ہے چار سال کی بچی\nسر جھکائے بیٹھی ہے۔۔۔\n<<DIVIDER>>\nاک پہاڑ بانو کے دل پہ اور ٹوٹے گا\nلو جہاں سے اٹھتی ہے چار سال کی بچی\nسر جھکائے بیٹھی ہے۔۔۔\n<<DIVIDER>>\nکل تھا باپ کا سینہ والدہ کا آنچل تھا\nاب لحد میں سوتی ہے چار سال کی بچی\nسر جھکائے بیٹھی ہے۔۔۔\n<<DIVIDER>>\nاب یہ حال ہے عشرت پیٹتی ہے سر بانو\nجب بھی یاد آتی ہے چار سال کی بچی\nسر جھکائے بیٹھی ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "سر جھکائے بیٹھی ہے چار سال کی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی کو ترستی ہے چار سال کی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب بزرگ حسرت سے دیکھتے ہیں چہرے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوگوار بیٹھی ہے چار سال کی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جھکائے بیٹھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیتے ہیں تسلی سب کیا رباب کیا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے پاس جاتی ہے چار سال کی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جھکائے بیٹھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے باپ کا لاشہ رات کے اندھیرے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈنے نکلتی ہے چار سال کی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جھکائے بیٹھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکروٹیں بدلتی ہے اسکی لاش مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کا‌ نام لیتی ہے چار سال کی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جھکائے بیٹھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nموت کی صداؤں نے اتنا دل دکھایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہٹوں سے ڈرتی ہے چار سال کی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جھکائے بیٹھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگوشوار چھنتے ہیں اور طمانچے لگتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرتی ہے سنبھلتی ہے چار سال کی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جھکائے بیٹھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک پہاڑ بانو کے دل پہ اور ٹوٹے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو جہاں سے اٹھتی ہے چار سال کی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جھکائے بیٹھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکل تھا باپ کا سینہ والدہ کا آنچل تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب لحد میں سوتی ہے چار سال کی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جھکائے بیٹھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب یہ حال ہے عشرت پیٹتی ہے سر بانو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب بھی یاد آتی ہے چار سال کی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جھکائے بیٹھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Ishrat Lakhnavi",
   "anjumans": [],
   "verified": false

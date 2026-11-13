@@ -1,12 +1,333 @@
 {
   "remoteId": "g2611_u0137",
-  "title": "Aaye hai agar aap",
+  "title": "آے ہیں اگر آپ",
   "body": "اے شام غریباں\n<<DIVIDER>>\nآے ہیں اگر آپ تو رک جائیے بابا\nگھر جل گیا میں کیا کروں فرمایےء بابا\n<<DIVIDER>>\nاب آے ہیں جب فوج خدا سو گیء رن میں\nجب خوں بھرا پرچم ہے علمدار کا بن میں\nسینے سے علم غازی کا لپٹایےء بابا\nآے ہیں اگر آپ تو۔۔۔\n<<DIVIDER>>\nمیدان میں لاشہ ہے میرے بھائی کا عریاں\nپوشاک میرے بھائی کی ہے خون میں غلطاں\nلللہ کفن بھای کو پہنایےء بابا\nآے ہیں اگر آپ تو۔۔۔\n<<DIVIDER>>\nعابد کو بچا لای ہوں جلتے ہوے گھر سے\nگو شمر لعیں لے گیا چادر میری سر سے\nسر پہ عمامے کو پھیلایےء بابا\nآے ہیں اگر آپ تو۔۔۔\n<<DIVIDER>>\nبابا مجھے جانا ہے ابھی قید ستم میں\nہونا ہے اضافہ ابھی کچھ اور بھی غم میں\nدم‌ ناد علی بازو کے کر جایےء بابا\nآے ہیں اگر آپ تو۔۔۔\n<<DIVIDER>>\nبابا میں بہت تڑپی ہوں شبیر کے غم میں\nدل ٹکڑے ہے بابا میرا غازی کے علم میں\nماتم کروں یہ ریسماں کھلوایےء بابا\nآے ہیں اگر آپ تو۔۔۔\n<<DIVIDER>>\nبابا میں رسن بستہ سوے شام چلی ہوں\nلگتا ہی نہیں مجھکو کہ میں بنت علی ہوں\nہمراہ نجف اب مجھے لے جایےء بابا\nآے ہیں اگر آپ تو۔۔۔\n<<DIVIDER>>\nکرتے ہیں سوالات فرشتے جو لحد میں\nاب دیر نہ لللہ کرے آپ مدد میں\nریحان کی تربت میں چلے جایےء بابا\nآے ہیں اگر آپ تو۔۔۔",
+  "styling": [
+    {
+      "insert": "اے شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآے ہیں اگر آپ تو رک جائیے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر جل گیا میں کیا کروں فرمایےء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب آے ہیں جب فوج خدا سو گیء رن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب خوں بھرا پرچم ہے علمدار کا بن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے سے علم غازی کا لپٹایےء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے ہیں اگر آپ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیدان میں لاشہ ہے میرے بھائی کا عریاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوشاک میرے بھائی کی ہے خون میں غلطاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لللہ کفن بھای کو پہنایےء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے ہیں اگر آپ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعابد کو بچا لای ہوں جلتے ہوے گھر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گو شمر لعیں لے گیا چادر میری سر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پہ عمامے کو پھیلایےء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے ہیں اگر آپ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا مجھے جانا ہے ابھی قید ستم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونا ہے اضافہ ابھی کچھ اور بھی غم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم‌ ناد علی بازو کے کر جایےء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے ہیں اگر آپ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا میں بہت تڑپی ہوں شبیر کے غم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل ٹکڑے ہے بابا میرا غازی کے علم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کروں یہ ریسماں کھلوایےء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے ہیں اگر آپ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا میں رسن بستہ سوے شام چلی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگتا ہی نہیں مجھکو کہ میں بنت علی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمراہ نجف اب مجھے لے جایےء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے ہیں اگر آپ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرتے ہیں سوالات فرشتے جو لحد میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب دیر نہ لللہ کرے آپ مدد میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ریحان کی تربت میں چلے جایےء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے ہیں اگر آپ تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

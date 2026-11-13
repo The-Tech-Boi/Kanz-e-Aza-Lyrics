@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u0560",
-  "title": "Asghar ko leke godh",
+  "title": "اصغر کو لے کہ گود",
   "body": "اصغر کو لے کہ گود میں کہتی ہے کربلا\nیہ وہ علی ہے جسکو کبھی گھر نہیں ملا\n<<DIVIDER>>\nچھہ ماہ کے غریب مسافر کو سونپ کے\nکہنے لگے حسین یہ قبرِصغیر سے\nرکھنا زراخیال میرے تشنہ کام کا\nیہ وہ علی ہے جس کو۔۔۔\n<<DIVIDER>>\nمادر یہ بین کرتی تھی دل میں ہے یہ کسک\nصغرا تمہاری گود سے آغوشِ قبر تک\nاصغر کو موت نے کہیں رُکنے نہیں دیا\nیہ وہ علی ہے جس کو۔۔۔\n<<DIVIDER>>\nماںسوچتی تھی ڈھلتا ہے دن ہو رہی ہے شام\nجھولے میںلوٹ آئے گا شاید وہ تشنہ کام\nلیکن غضب ہوا کہ وہ جھولا بھی جل گیا\nیہ وہ علی ہے جس کو۔۔۔\n<<DIVIDER>>\nگلیوں میں شہرِ کوفہ کی بازارِشام میں\nشیریں کے گھر کبھی کبھی دربارِشام میں\nمرنے کے بعد بھی علی اصغر سفر میںتھا\nیہ وہ علی ہے جس کو۔۔۔\n<<DIVIDER>>\nننے سے سر کو یاس سے بس تکتے رہتے تھے\nپھر خون رو کہ سیدِ سجاد کہتے تھے\nمیںوہ علی ہوں جس کا بھرا گھر اُجڑگیا\nیہ وہ علی ہے جس کو۔۔۔\n<<DIVIDER>>\nجانے لگا وطن جو غریبوں کا کارواں\nمڑمڑ کہ کہتی جاتی تھی اک خالی گود ماں\nرکھیو سنبھال کر اسے اے ارضِ نینوا\nیہ وہ علی ہے جس کو۔۔۔\n<<DIVIDER>>\nڈر ہے یہ پھر سے کوئی سناں پر اٹھا نہ لے\nلپٹا ہوا ہے اب بھی وہ سینے سے باپ کے\nرو رو کے کہ رہی ہے تکلم یہ کربلا\nیہ وہ علی ہے جس کو۔۔۔",
+  "styling": [
+    {
+      "insert": "اصغر کو لے کہ گود میں کہتی ہے کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وہ علی ہے جسکو کبھی گھر نہیں ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھہ ماہ کے غریب مسافر کو سونپ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنے لگے حسین یہ قبرِصغیر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھنا زراخیال میرے تشنہ کام کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وہ علی ہے جس کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمادر یہ بین کرتی تھی دل میں ہے یہ کسک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا تمہاری گود سے آغوشِ قبر تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کو موت نے کہیں رُکنے نہیں دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وہ علی ہے جس کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماںسوچتی تھی ڈھلتا ہے دن ہو رہی ہے شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولے میںلوٹ آئے گا شاید وہ تشنہ کام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن غضب ہوا کہ وہ جھولا بھی جل گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وہ علی ہے جس کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگلیوں میں شہرِ کوفہ کی بازارِشام میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیریں کے گھر کبھی کبھی دربارِشام میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرنے کے بعد بھی علی اصغر سفر میںتھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وہ علی ہے جس کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nننے سے سر کو یاس سے بس تکتے رہتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر خون رو کہ سیدِ سجاد کہتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میںوہ علی ہوں جس کا بھرا گھر اُجڑگیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وہ علی ہے جس کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانے لگا وطن جو غریبوں کا کارواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مڑمڑ کہ کہتی جاتی تھی اک خالی گود ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھیو سنبھال کر اسے اے ارضِ نینوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وہ علی ہے جس کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈر ہے یہ پھر سے کوئی سناں پر اٹھا نہ لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لپٹا ہوا ہے اب بھی وہ سینے سے باپ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے کہ رہی ہے تکلم یہ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وہ علی ہے جس کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

@@ -1,7 +1,427 @@
 {
   "remoteId": "g2611_u1282",
-  "title": "Gar haq ki justuju",
+  "title": "گر حق کی جستجو",
   "body": "گر حق کی جستجو ہے تو بزمِ اعزا میں آ\nبتلائوں تجھ کو مجلس و ماتم ہے کیوں بپا\n<<DIVIDER>>\nحق کی ہے عرش فرش میں پھیلی ہوئی ضیائ\nحق کہتے ہیں اُسے جو ہے میزانِ کبریائ\nحق کہتے ہیں جسے وہ ہے ایمانِ انبیائ\nحق کی صفت تو خاص میں ہے ایک مُصطفٰی\nگر حق کی جستجو ۔۔۔\n<<DIVIDER>>\nوہ مُصطفٰی کہ جن کا محمد ہے پاک نام\nوہ جن کے قول و فعل سے حق کا ملا دوام\nیعنی بغیر وحی جو کرتے نہیں کلام\nقرآن بتا رہا ہے جو ہے ان کا مرتبہ\nگر حق کی جستجو ۔۔۔\n<<DIVIDER>>\nحق کیا ہے کیا بتائوں کہ وہ لا حدود ہے\nآلِ نبی میں نورِ خُدا کا وجود ہے\nحمد و ثنائ میں اس لیئے شامل درود ہے\nحق اس کا ہے یہ حق کے نہیں کوئی فاصلہ\nگر حق کی جستجو ۔۔۔\n<<DIVIDER>>\nبا حُکمِ رب تھی اسی نورِ عین سےالفت\nیہ بارہا سُنا ہے شاہِ مشرقین سے\nمیرا حُسین مُجھ سے ہے اور میں حُسین سے\nکیا فرق ہے حُسین و نبی میں رہا بتا\nگر حق کی جستجو ۔۔۔\n<<DIVIDER>>\nبیعت نہ کی حُسین نے تو قتل کر دیا\nبدکر تو اس کے بعد کو کیوں گھر جلا دیا\nسیدانیوں کو لوٹ لیا چھین لی ردا\nآلِ رسول کی تھی بھلا اس میں کیا خطا\nگر حق کی جستجو ۔۔۔\n<<DIVIDER>>\nسیدانیوں کے سر تھے کُھلے اجدھام میں\nاسیر کر کے لے گئے دربارِ عام میں\nپھر بھی نہ چھوڑا قید کیا انو شام میں\nاجرِ رسالت اس طرح اُمت نے کی ادا\nگر حق کی جستجو ۔۔۔\n<<DIVIDER>>\nجس پر پہاڑ ٹوٹے گاغم کا وہ روئے گا\nآئے گا چین دن کو نہ راتوں کو سوئے گا\nہو گا رفیق جوئی تو یہ حال ہوئے گا\nتاریخ جب آئے گی ہوئے گا غم سوا\nگر حق کی جستجو ۔۔۔\n<<DIVIDER>>\nاپنے نبی کو غم ہے تو ہم دور کیوں رہے\nلینے کو پُرسہ جاتے ہیں گریہ کو نہ چلے\nمل کر انیس کیوں نہیں ماتم بپا کرے\nسبطِ نبی کے غم میں ہے یہ مجلسِ اعزا\nگر حق کی جستجو ۔۔۔",
+  "styling": [
+    {
+      "insert": "گر حق کی جستجو ہے تو بزمِ اعزا میں آ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتلائوں تجھ کو مجلس و ماتم ہے کیوں بپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحق کی ہے عرش فرش میں پھیلی ہوئی ضیائ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق کہتے ہیں اُسے جو ہے میزانِ کبریائ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق کہتے ہیں جسے وہ ہے ایمانِ انبیائ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق کی صفت تو خاص میں ہے ایک مُصطفٰی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر حق کی جستجو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ مُصطفٰی کہ جن کا محمد ہے پاک نام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جن کے قول و فعل سے حق کا ملا دوام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یعنی بغیر وحی جو کرتے نہیں کلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن بتا رہا ہے جو ہے ان کا مرتبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر حق کی جستجو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحق کیا ہے کیا بتائوں کہ وہ لا حدود ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آلِ نبی میں نورِ خُدا کا وجود ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حمد و ثنائ میں اس لیئے شامل درود ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق اس کا ہے یہ حق کے نہیں کوئی فاصلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر حق کی جستجو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبا حُکمِ رب تھی اسی نورِ عین سےالفت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بارہا سُنا ہے شاہِ مشرقین سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا حُسین مُجھ سے ہے اور میں حُسین سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا فرق ہے حُسین و نبی میں رہا بتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر حق کی جستجو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیعت نہ کی حُسین نے تو قتل کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بدکر تو اس کے بعد کو کیوں گھر جلا دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدانیوں کو لوٹ لیا چھین لی ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آلِ رسول کی تھی بھلا اس میں کیا خطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر حق کی جستجو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسیدانیوں کے سر تھے کُھلے اجدھام میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسیر کر کے لے گئے دربارِ عام میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی نہ چھوڑا قید کیا انو شام میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اجرِ رسالت اس طرح اُمت نے کی ادا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر حق کی جستجو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس پر پہاڑ ٹوٹے گاغم کا وہ روئے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئے گا چین دن کو نہ راتوں کو سوئے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گا رفیق جوئی تو یہ حال ہوئے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تاریخ جب آئے گی ہوئے گا غم سوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر حق کی جستجو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے نبی کو غم ہے تو ہم دور کیوں رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لینے کو پُرسہ جاتے ہیں گریہ کو نہ چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل کر انیس کیوں نہیں ماتم بپا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سبطِ نبی کے غم میں ہے یہ مجلسِ اعزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر حق کی جستجو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -1,12 +1,415 @@
 {
   "remoteId": "g2611_u1156",
-  "title": "Dekho abbas chale",
+  "title": "دیکھو عباس چلے",
   "body": "مشک کاندھے پہ لیےء یا علی کہکے اٹھے\nدیکھا جبرییل نے جب ڈر گےء کہنے لگے\n<<DIVIDER>>\nدیکھو عباس چلے دیکھو عباس چلے\n<<DIVIDER>>\nعلقمہ خیر منا وہ علمدار وفا\nکھا کے زہرا کی قسم ساتھ زینب کی دعا\nتیری جانب ہے چلا کون روکے گا اسے\nدیکھو عباس چلے۔۔۔\n<<DIVIDER>>\nذوالفیں ولیل ہشم آنکھیں والنجم بہم\nتیغ حیدر کی طرح دوڑو اب ان کے تھے خم\nسینہ تھا مثل عصا بازو پرچم سے کھلے\nدیکھو عباس چلے۔۔۔\n<<DIVIDER>>\nجب علم انکا کھلا ہو گیء صاف فضا\nبولی پنجے کی چمک مرحبا صل علٰی\nعلقمہ کہنے لگی موت کوئی نہ بہے\nدیکھو عباس چلے۔۔۔\n<<DIVIDER>>\nدفعتاً کانپی زمیں آ گیا سب کو یقیں\nلشکرِ شام کی اب خیریت کوئی نہیں\nالاماں کی تھی صدا غیض آنکھوں میں لیےء\nدیکھو عباس چلے۔۔۔\n<<DIVIDER>>\nپیاسے بچوں نے کہا تشنگی ہوگی فنا\nچل کے خیموں کی طرف آے گا اب دریا\nخالی کوزون نے کہا لے لو ہاتھوں میں مجھے\nدیکھو عباس چلے۔۔۔\n<<DIVIDER>>\nتھی سکینہ کی صدا مل کے کرتے ہیں دعا\nیا علی کیجیےء مدد ہے جو غصے میں چچا\nجا کے دریا پہ انہیں جنگ نہ یاد رہے\nدیکھو عباس چلے۔۔۔\n<<DIVIDER>>\nناگاہ شور ہوا شیر گھوڑے سے گرا\nآس بچوں کی گیء جب علم جھکنے لگا\nجھک گیء شہ کی کمر رو کے فرمانے لگے\nدیکھو عباس چلے۔۔۔\n<<DIVIDER>>\nغش سکینہ کو ہوا خاک پہ کوزہ گرا\nخود بخود گرنے لگی سر سے زینب کی ردا\nبولی دربار میں اب میں پکاروں گی کسے\nدیکھو عباس چلے۔۔۔\n<<DIVIDER>>\nوقت ریحان تھا کیا ہو کے بے بازو گرا\nساحل ظلم پہ جب وہ علمدار وفا\nہاے اس وقت رضا کہہ کے۔ شبیر گرے\nدیکھو عباس چلے۔۔۔",
+  "styling": [
+    {
+      "insert": "مشک کاندھے پہ لیےء یا علی کہکے اٹھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جبرییل نے جب ڈر گےء کہنے لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھو عباس چلے دیکھو عباس چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلقمہ خیر منا وہ علمدار وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا کے زہرا کی قسم ساتھ زینب کی دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری جانب ہے چلا کون روکے گا اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو عباس چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nذوالفیں ولیل ہشم آنکھیں والنجم بہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیغ حیدر کی طرح دوڑو اب ان کے تھے خم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینہ تھا مثل عصا بازو پرچم سے کھلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو عباس چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب علم انکا کھلا ہو گیء صاف فضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولی پنجے کی چمک مرحبا صل علٰی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علقمہ کہنے لگی موت کوئی نہ بہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو عباس چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدفعتاً کانپی زمیں آ گیا سب کو یقیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لشکرِ شام کی اب خیریت کوئی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الاماں کی تھی صدا غیض آنکھوں میں لیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو عباس چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاسے بچوں نے کہا تشنگی ہوگی فنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل کے خیموں کی طرف آے گا اب دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خالی کوزون نے کہا لے لو ہاتھوں میں مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو عباس چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھی سکینہ کی صدا مل کے کرتے ہیں دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی کیجیےء مدد ہے جو غصے میں چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا کے دریا پہ انہیں جنگ نہ یاد رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو عباس چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nناگاہ شور ہوا شیر گھوڑے سے گرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آس بچوں کی گیء جب علم جھکنے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھک گیء شہ کی کمر رو کے فرمانے لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو عباس چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغش سکینہ کو ہوا خاک پہ کوزہ گرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود بخود گرنے لگی سر سے زینب کی ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولی دربار میں اب میں پکاروں گی کسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو عباس چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوقت ریحان تھا کیا ہو کے بے بازو گرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساحل ظلم پہ جب وہ علمدار وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اس وقت رضا کہہ کے۔ شبیر گرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو عباس چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

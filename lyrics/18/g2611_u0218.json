@@ -1,12 +1,311 @@
 {
   "remoteId": "g2611_u0218",
-  "title": "Abbas ka sar",
+  "title": "عباس کا سر",
   "body": "ہاے عباس ہاے ہاے عباس\nغیرت کا آسماں زینب کا سائباں\n<<DIVIDER>>\nکیسے زینب کی طرف دیکھتا عباس کا سر\nشرم سے خاک پہ گرتا رہا عباس کا سر\n<<DIVIDER>>\nشام کے لوگوں نے پتھر سے کیا استقبال\nجونہی بازار میں داخل ہوا عباس کا سر\nکیسے زینب کی طرف۔۔۔\n<<DIVIDER>>\nیوں بھی اس سر سے لیا بدر وعہد کا بدلہ\nہو بہو بابا علی جیسا تھا عباس کا سر\nکیسے زینب کی طرف۔۔۔\n<<DIVIDER>>\nوہ سناں پر بھی نہ آقا کے برابر آیا\nشہ کی تعظیم میں جھکتا رہا عباس کا سر\nکیسے زینب کی طرف۔۔۔\n<<DIVIDER>>\nپاؤں کے آبلے عابد کو کہاں یاد رہے\nجب گرا گرم زمیں پر گرا عباس کا سر\nکیسے زینب کی طرف۔۔۔\n<<DIVIDER>>\nیوں بھی باندھا گیا رہوار کی گردن سے اسے\nظلم نزدیک سے دیکھے زرا عباس کا سر\nکیسے زینب کی طرف۔۔۔\n<<DIVIDER>>\nپہلے چادر سے لہو صاف کیا زینب نے\nساتھ اسباب کے جس دم ملا عباس کا سر\nکیسے زینب کی طرف۔۔۔\n<<DIVIDER>>\nنہر پہ جس گھڑی عباس نے دم توڑا تھا\nدلبر زہرا کی گودی میں تھا عباس کا سر\nکیسے زینب کی طرف۔۔۔\n<<DIVIDER>>\nیاد زیشان سر شیر خدا آنے لگا\nگرز سے ایسے شکستہ ہوا عباس کا سر\nکیسے زینب کی طرف۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے عباس ہاے ہاے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غیرت کا آسماں زینب کا سائباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے زینب کی طرف دیکھتا عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شرم سے خاک پہ گرتا رہا عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام کے لوگوں نے پتھر سے کیا استقبال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جونہی بازار میں داخل ہوا عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے زینب کی طرف۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیوں بھی اس سر سے لیا بدر وعہد کا بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو بہو بابا علی جیسا تھا عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے زینب کی طرف۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ سناں پر بھی نہ آقا کے برابر آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کی تعظیم میں جھکتا رہا عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے زینب کی طرف۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپاؤں کے آبلے عابد کو کہاں یاد رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب گرا گرم زمیں پر گرا عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے زینب کی طرف۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیوں بھی باندھا گیا رہوار کی گردن سے اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم نزدیک سے دیکھے زرا عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے زینب کی طرف۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہلے چادر سے لہو صاف کیا زینب نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ اسباب کے جس دم ملا عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے زینب کی طرف۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہر پہ جس گھڑی عباس نے دم توڑا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دلبر زہرا کی گودی میں تھا عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے زینب کی طرف۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد زیشان سر شیر خدا آنے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرز سے ایسے شکستہ ہوا عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے زینب کی طرف۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Zeeshan Abidi",
   "anjumans": [],
   "verified": false

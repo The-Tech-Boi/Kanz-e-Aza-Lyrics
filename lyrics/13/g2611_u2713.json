@@ -1,12 +1,369 @@
 {
   "remoteId": "g2611_u2713",
-  "title": "Qayamat hai alamdar",
+  "title": "قیامت ہے علمدار",
   "body": "خیمے میں قیامت ہے علمدار تیرے بعد\nتھامے ہیں کمر سید ابرار تیرے بعد\nخیمے میں قیامت ہے۔۔۔\n<<DIVIDER>>\nبازو تیرے لاے ہیں شہنشاہِ مدینہ\nروتی ہے لپٹ کر تیرے پرچم سے سکینہ\nبچی ہے مصیبت میں گرفتار تیرے بعد\nخیمے میں قیامت ہے۔۔۔\n<<DIVIDER>>\nآجا بنی ہاشم کے قمر ڈھونڈ رہی ہے\nغازی تجھے زینب کی نظر ڈھونڈ رہی ہے\nخیمے میں چلے آے ستمگار تیرے بعد\nخیمے میں قیامت ہے۔۔۔\n<<DIVIDER>>\nڈھونڈوں میں کہاں جاکے محافظ کو ردا کے\nتو سوگیا میداں میں شانوں کو کٹا کے\nچلتی ہے میرے قلب پہ تلوار تیرے بعد\nخیمے میں قیامت ہے۔۔۔\n<<DIVIDER>>\nرہ رہ کے تڑپتی ہے بچی تیری پیاسی\nمایوس ہے سیدانیاں چھای ہے اداسی\nاے آل محمّد کے مددگار تیرے بعد\nخیمے میں قیامت ہے۔۔۔\n<<DIVIDER>>\nشبیر کی حالت پہ ترس آتا ہے بھیا\nٹوٹی ہے کمر درد سے تھراتا ہے بھیا\nجینا تیرے بھای کا ہے دشوار تیرے بعد\nخیمے میں قیامت ہے۔۔۔\n<<DIVIDER>>\nبے درد لعیں باندھیں گے بازو میں رسن کو\nعباس یقیں ہوگیا اب تیری بہن کو\nبے پردہ پھروں گی سر بازار تیرے بعد\nخیمے میں قیامت ہے۔۔۔\n<<DIVIDER>>\nظالم نے طمانچوں سے لہو کر دیا ان کو\nتو چومتا تھا شام و سحر پیار سے جن کو\nزخمی ہے سکینہ کہ وہ رخسار تیرے بعد\nخیمے میں قیامت ہے۔۔۔\n<<DIVIDER>>\nزینب کے یہی بین تھے اے عامر و اختر\nہاتھوں سے کمر تھام کے روتی ہے برابر\nکیا شاہ پہ گزری ہے وفادار تیرے بعد\nخیمے میں قیامت ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "خیمے میں قیامت ہے علمدار تیرے بعد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھامے ہیں کمر سید ابرار تیرے بعد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے میں قیامت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازو تیرے لاے ہیں شہنشاہِ مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہے لپٹ کر تیرے پرچم سے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچی ہے مصیبت میں گرفتار تیرے بعد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے میں قیامت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآجا بنی ہاشم کے قمر ڈھونڈ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی تجھے زینب کی نظر ڈھونڈ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے میں چلے آے ستمگار تیرے بعد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے میں قیامت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈھونڈوں میں کہاں جاکے محافظ کو ردا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو سوگیا میداں میں شانوں کو کٹا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتی ہے میرے قلب پہ تلوار تیرے بعد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے میں قیامت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرہ رہ کے تڑپتی ہے بچی تیری پیاسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مایوس ہے سیدانیاں چھای ہے اداسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے آل محمّد کے مددگار تیرے بعد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے میں قیامت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر کی حالت پہ ترس آتا ہے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹوٹی ہے کمر درد سے تھراتا ہے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جینا تیرے بھای کا ہے دشوار تیرے بعد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے میں قیامت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے درد لعیں باندھیں گے بازو میں رسن کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس یقیں ہوگیا اب تیری بہن کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے پردہ پھروں گی سر بازار تیرے بعد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے میں قیامت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظالم نے طمانچوں سے لہو کر دیا ان کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو چومتا تھا شام و سحر پیار سے جن کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہے سکینہ کہ وہ رخسار تیرے بعد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے میں قیامت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کے یہی بین تھے اے عامر و اختر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں سے کمر تھام کے روتی ہے برابر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا شاہ پہ گزری ہے وفادار تیرے بعد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے میں قیامت ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Akhtar Sirsvi",
   "anjumans": [],
   "verified": false

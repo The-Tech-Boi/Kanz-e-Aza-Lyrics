@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u3635",
-  "title": "Zinda hai akbar",
+  "title": "زندہ ہے اکبر",
   "body": "تم ہو گےء بیجاں پدر زندہ ہے اکبر\nایسا بھی زمانے میں کہیں ہوتا ہے اکبر\n<<DIVIDER>>\nمقتل سے جنازے کو تیرے کیسے اٹھاییں\nجن ہاتھوں سے مانگی تیرے جینے کی دعائیں\nان ہاتھوں پہ اب ہاے تیرا لاشہ ہے اکبر\nتم ہو گےء بیجاں۔۔۔\n<<DIVIDER>>\nدل اپنا سنبھالوں تو سناں دل سے نکالوں\nپھر کانپتے ہاتھوں سے تیرا لاشہ اٹھالوں\nکس حال میں دیکھو تو تیرا بابا ہے اکبر\nتم ہو گےء بیجاں۔۔۔\n<<DIVIDER>>\nتم آنکھیں پھرا لیتے ہو جب درد کے مارے\nجب سانس نہیں لیتے ہو ہاتھوں پہ ہمارے\nدم ساتھ میں میرا بھی نکل جاتا ہے اکبر\nتم ہو گےء بیجاں۔۔۔\n<<DIVIDER>>\nسوچا تھا تمہیں شان سے ہم دولہا بناتے\nافسوس مگر لاش پہ ہے آنسوں بہاتے\nاب خوں کا ماتھے پہ تیرے صحرا ہے اکبر\nتم ہو گےء بیجاں۔۔۔\n<<DIVIDER>>\nچھٹتا ہے ضعیفی میں جو بیٹے کا سہارا\nاب ساتھ نہیں دیتی ہے بینائی ہمارا\nاٹھتا ہے پدر اور کبھی گرتا ہے اکبر\nتم ہو گےء بیجاں۔۔۔\n<<DIVIDER>>\nزینب کو تیرا حال یہ دکھلاؤں تو کیسے\nمیں اپنے گلے سے تجھے لپٹاوں تو کیسے\nلپٹا ہوا برچھی میں تیرا سینہ ہے اکبر\nتم ہو گےء بیجاں۔۔۔\n<<DIVIDER>>\nنوحہ علی اکبر کا ہے میثم کی زبانی\nآنکھوں سے رضا ہوتی ہے اشکوں کی روانی\nاحساس تیرے غم کا بڑھا جاتا ہے اکبر\nتم ہو گےء بیجاں۔۔۔",
+  "styling": [
+    {
+      "insert": "تم ہو گےء بیجاں پدر زندہ ہے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا بھی زمانے میں کہیں ہوتا ہے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل سے جنازے کو تیرے کیسے اٹھاییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جن ہاتھوں سے مانگی تیرے جینے کی دعائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان ہاتھوں پہ اب ہاے تیرا لاشہ ہے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہو گےء بیجاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل اپنا سنبھالوں تو سناں دل سے نکالوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر کانپتے ہاتھوں سے تیرا لاشہ اٹھالوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس حال میں دیکھو تو تیرا بابا ہے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہو گےء بیجاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم آنکھیں پھرا لیتے ہو جب درد کے مارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سانس نہیں لیتے ہو ہاتھوں پہ ہمارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم ساتھ میں میرا بھی نکل جاتا ہے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہو گےء بیجاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوچا تھا تمہیں شان سے ہم دولہا بناتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افسوس مگر لاش پہ ہے آنسوں بہاتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب خوں کا ماتھے پہ تیرے صحرا ہے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہو گےء بیجاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھٹتا ہے ضعیفی میں جو بیٹے کا سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ساتھ نہیں دیتی ہے بینائی ہمارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھتا ہے پدر اور کبھی گرتا ہے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہو گےء بیجاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کو تیرا حال یہ دکھلاؤں تو کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں اپنے گلے سے تجھے لپٹاوں تو کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لپٹا ہوا برچھی میں تیرا سینہ ہے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہو گےء بیجاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوحہ علی اکبر کا ہے میثم کی زبانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے رضا ہوتی ہے اشکوں کی روانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "احساس تیرے غم کا بڑھا جاتا ہے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہو گےء بیجاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Raza Shah",
   "anjumans": [],
   "verified": false

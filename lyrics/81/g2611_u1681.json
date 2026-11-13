@@ -1,7 +1,341 @@
 {
   "remoteId": "g2611_u1681",
-  "title": "Ja raha hoo karbala",
+  "title": "جا رہا ہوں کربلا",
   "body": "جا رہا ہوں کربلا میں\n<<DIVIDER>>\nمومن مل‌ کر چلو یہ ہے حسینی قافلہ\nنوحہ پڑھو ماتم کرو حسین یا حسین\n<<DIVIDER>>\nفرض ہے گنج شہیداں کی زیارت اس طرح\nفرض قرآں کی تلاوت اور عبادت جس طرح\nکربلا غم کا مدینہ کربلا کعبہ نما\nنوحہ پڑھو ماتم۔۔۔\nجا رہا ہوں کربلا۔۔۔\n<<DIVIDER>>\nوہ زمیں جو مل لی تھی سید ابرار نے\nاس زمیں پر شہ کو مارا شمر بد اتبار نے\nاس زمیں کی خاک کو شہ نے کیا خاک شفا\nنوحہ پڑھو ماتم۔۔۔\nجا رہا ہوں کربلا۔۔۔\n<<DIVIDER>>\nکربلا کیا ہے معلی آدم و عیسا کا ہے\nکربلا دارل خلافہ خم کے اس مولا کا ہے\nجو کہ نفس پیمبر جو کہ ہے دست خدا\nنوحہ پڑھو ماتم۔۔۔\nجا رہا ہوں کربلا۔۔۔\n<<DIVIDER>>\nیہ زمیں وہ ہے جہاں سوتا ہے زہرا کا پسر\nانبیاء کرتے ہیں سجدہ اب بھی اس کی خاک پر\nاپنے بچوں کے لیےء محو فغاں ہے سیدہ\nنوحہ پڑھو ماتم۔۔۔\nجا رہا ہوں کربلا۔۔۔\n<<DIVIDER>>\nگردن شبیر پر خنجر چلا تھا جس جگہ\nسینۂ اکبر میں نیزہ تھا جہاں ٹوٹا ہوا\nگلشنِ زہرا کے گل بوٹے جہاں ہے جابجا\nنوحہ پڑھو ماتم۔۔۔\nجا رہا ہوں کربلا۔۔۔\n<<DIVIDER>>\nمرقد شبیر پر ریحان ہو جانا اگر\nکربلا کی خاک پر ایسے جھکانا اپنا سر\nوا حسینا وا حسینا کی رہے لب پر صدا\nنوحہ پڑھو ماتم۔۔۔\nجا رہا ہوں کربلا۔۔۔",
+  "styling": [
+    {
+      "insert": "جا رہا ہوں کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمومن مل‌ کر چلو یہ ہے حسینی قافلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ پڑھو ماتم کرو حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرض ہے گنج شہیداں کی زیارت اس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرض قرآں کی تلاوت اور عبادت جس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا غم کا مدینہ کربلا کعبہ نما"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ پڑھو ماتم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا رہا ہوں کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ زمیں جو مل لی تھی سید ابرار نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس زمیں پر شہ کو مارا شمر بد اتبار نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس زمیں کی خاک کو شہ نے کیا خاک شفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ پڑھو ماتم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا رہا ہوں کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا کیا ہے معلی آدم و عیسا کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا دارل خلافہ خم کے اس مولا کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو کہ نفس پیمبر جو کہ ہے دست خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ پڑھو ماتم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا رہا ہوں کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ زمیں وہ ہے جہاں سوتا ہے زہرا کا پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انبیاء کرتے ہیں سجدہ اب بھی اس کی خاک پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بچوں کے لیےء محو فغاں ہے سیدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ پڑھو ماتم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا رہا ہوں کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگردن شبیر پر خنجر چلا تھا جس جگہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینۂ اکبر میں نیزہ تھا جہاں ٹوٹا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلشنِ زہرا کے گل بوٹے جہاں ہے جابجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ پڑھو ماتم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا رہا ہوں کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمرقد شبیر پر ریحان ہو جانا اگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کی خاک پر ایسے جھکانا اپنا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وا حسینا وا حسینا کی رہے لب پر صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ پڑھو ماتم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا رہا ہوں کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

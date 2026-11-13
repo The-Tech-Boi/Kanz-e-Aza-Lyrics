@@ -1,12 +1,482 @@
 {
   "remoteId": "g2611_u3444",
-  "title": "Ye baade nabi ro",
+  "title": "یہ بعد نبی رو",
   "body": "یہ بعد نبی رو کے کہتی تھی زہرا\nکہ اک ہاتھ پہلو سے اٹھا نہیں ہے\n<<DIVIDER>>\nمیرے بابا تم جو سدھارے جہاں سے\nمیری زندگی ہے عبارت فغاں سے\nیہ غم کوئی کم تو نہیں میرا کہنا\nکہ اک ہاتھ پہلو سے۔۔۔\nیہ بعد نبی رو کے۔۔۔\n<<DIVIDER>>\nجنہیں آپ کہتے تھے امت ہے میری\nانہوں نے ہی مجھکو گھڑی یہ دکھائی\nمیرے لب پہ ہر وقت رہتا ہے نوحہ\nکہ اک ہاتھ پہلو سے۔۔۔\nیہ بعد نبی رو کے۔۔۔\n<<DIVIDER>>\nبہت خوب اجر رسالت ہے پایا\nہے اک ہاتھ مصروف ماتم میں بابا\nمیں کیسے سنبھالوں گی اپنا کلیجہ\nکہ اک ہاتھ پہلو سے۔۔۔\nیہ بعد نبی رو کے۔۔۔\n<<DIVIDER>>\nوہی لوگ محسن کے قاتل ہیں بابا\nکہ جن کے لئے آپ تھے مثل زہرا\nوہی لوگ دیتے ہیں اب مجھکو طعنہ\nکہ اک ہاتھ پہلو سے۔۔۔\nیہ بعد نبی رو کے۔۔۔\n<<DIVIDER>>\nسجے گا بازار روز جزا کا\nخدا مجھ سے پوچھے گا احوال میرا\nیہی مرثیہ ہوگا اس دن بھی میرا\nکہ اک ہاتھ پہلو سے۔۔۔\nیہ بعد نبی رو کے۔۔۔\n<<DIVIDER>>\nبلایا گیا مجھکو دربار میں بھی\nلعینوں نے جھٹلای میری گواہی\nاور اب مجھ پہ یہ بھی ستم ایک ٹوٹا\nکہ اک ہاتھ پہلو سے۔۔۔\nیہ بعد نبی رو کے۔۔۔\n<<DIVIDER>>\nمیرا دل بھی اور میرا گھر بھی جلایا\nمیں بنت پیمبر ہوں یہ بھی نہ سوچا\nدیا کیسا زخم یہ امت نے بابا\nکہ اک ہاتھ پہلو سے۔۔۔\nیہ بعد نبی رو کے۔۔۔\n<<DIVIDER>>\nجنھوں نے دیے ہیں زخم اتنے\nیہی کل جلاےنگے زینب کے خیمے\nتو زینب کو کیسے میں دونگی سہارا\nکہ اک ہاتھ پہلو سے۔۔۔\nیہ بعد نبی رو کے۔۔۔\n<<DIVIDER>>\nکہے مجھ سے اے کاش زینب کی مادر\nرہے شادماں اس جہاں میں تو مظہر\nیہ نوحہ وصیلہ بنے گا تمہارا\nکہ اک ہاتھ پہلو سے۔۔۔\nیہ بعد نبی رو کے۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ بعد نبی رو کے کہتی تھی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اک ہاتھ پہلو سے اٹھا نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے بابا تم جو سدھارے جہاں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری زندگی ہے عبارت فغاں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم کوئی کم تو نہیں میرا کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اک ہاتھ پہلو سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بعد نبی رو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنہیں آپ کہتے تھے امت ہے میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انہوں نے ہی مجھکو گھڑی یہ دکھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے لب پہ ہر وقت رہتا ہے نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اک ہاتھ پہلو سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بعد نبی رو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہت خوب اجر رسالت ہے پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے اک ہاتھ مصروف ماتم میں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے سنبھالوں گی اپنا کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اک ہاتھ پہلو سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بعد نبی رو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہی لوگ محسن کے قاتل ہیں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ جن کے لئے آپ تھے مثل زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہی لوگ دیتے ہیں اب مجھکو طعنہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اک ہاتھ پہلو سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بعد نبی رو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجے گا بازار روز جزا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا مجھ سے پوچھے گا احوال میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی مرثیہ ہوگا اس دن بھی میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اک ہاتھ پہلو سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بعد نبی رو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبلایا گیا مجھکو دربار میں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعینوں نے جھٹلای میری گواہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اب مجھ پہ یہ بھی ستم ایک ٹوٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اک ہاتھ پہلو سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بعد نبی رو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا دل بھی اور میرا گھر بھی جلایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بنت پیمبر ہوں یہ بھی نہ سوچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیا کیسا زخم یہ امت نے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اک ہاتھ پہلو سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بعد نبی رو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنھوں نے دیے ہیں زخم اتنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی کل جلاےنگے زینب کے خیمے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو زینب کو کیسے میں دونگی سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اک ہاتھ پہلو سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بعد نبی رو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہے مجھ سے اے کاش زینب کی مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہے شادماں اس جہاں میں تو مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ نوحہ وصیلہ بنے گا تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ اک ہاتھ پہلو سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بعد نبی رو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

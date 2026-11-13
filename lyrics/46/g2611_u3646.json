@@ -1,12 +1,237 @@
 {
   "remoteId": "g2611_u3646",
-  "title": "Zindan ka andhera",
+  "title": "زنداںکا اندھیرا",
   "body": "زنداںکا اندھیرا مجھے سونے نہیں دیتا\nروتی ہوں تو ظالم مجھے رونے نہیں دیتا\n<<DIVIDER>>\nبابا میرے کانوں سے کہو اب بھی ہے جاری\nمارے ہیں تماچے بھی سکینہ کو تمھاری\nپہلو میں پھپھی کے مجھے رہنے نہیں دیتا\nزنداںکا اندھیرا مجھے۔۔۔\n<<DIVIDER>>\nاول تو مجھے نیند ہی آتی نہیں بابا\nسوتی ہوں تو دُروں سے جگا دیتے ہیں اعدا\nیہ شمر مجھے سانس بھی لینے نہیں دیتا\nزنداںکا اندھیرا مجھے۔۔۔\n<<DIVIDER>>\nاب خواب میںپانی کی تمنا نہیں کرتی\nکانٹے ہیں پڑے حلق میںاور سانس ہے رُکتی\nعموں سے شکایت کوئی کرنے نہیں دیتا\nزنداںکا اندھیرا مجھے۔۔۔\n<<DIVIDER>>\nاس قید سے کب ہو گی رہائی میرے بابا\nکیسے سہئوں اصغر کی جدائی میرے بابا\nغم کنبے کا اب تو مجھے جینے نہیںدیتا\nزنداںکا اندھیرا مجھے۔۔۔\n<<DIVIDER>>\nریحان بُکا کرتی تھی جب بالی سکینہ\nخود موت کے ماتھے پہ بھی آتا تھا پسینہ\nیہ واقعہ آنسو میرے رُکنے نہیںدیتا\nزنداںکا اندھیرا مجھے۔۔۔",
+  "styling": [
+    {
+      "insert": "زنداںکا اندھیرا مجھے سونے نہیں دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہوں تو ظالم مجھے رونے نہیں دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا میرے کانوں سے کہو اب بھی ہے جاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارے ہیں تماچے بھی سکینہ کو تمھاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلو میں پھپھی کے مجھے رہنے نہیں دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداںکا اندھیرا مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاول تو مجھے نیند ہی آتی نہیں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوتی ہوں تو دُروں سے جگا دیتے ہیں اعدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شمر مجھے سانس بھی لینے نہیں دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداںکا اندھیرا مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب خواب میںپانی کی تمنا نہیں کرتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کانٹے ہیں پڑے حلق میںاور سانس ہے رُکتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عموں سے شکایت کوئی کرنے نہیں دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداںکا اندھیرا مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس قید سے کب ہو گی رہائی میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے سہئوں اصغر کی جدائی میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم کنبے کا اب تو مجھے جینے نہیںدیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداںکا اندھیرا مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان بُکا کرتی تھی جب بالی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود موت کے ماتھے پہ بھی آتا تھا پسینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ واقعہ آنسو میرے رُکنے نہیںدیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداںکا اندھیرا مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

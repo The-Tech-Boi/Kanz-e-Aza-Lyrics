@@ -1,12 +1,351 @@
 {
   "remoteId": "g2611_u3111",
-  "title": "Sughra ko nahi",
+  "title": "صغرا کو نہیں",
   "body": "پردیس گئے بابا دیس میں صغرا تنہا ہے\nہوبہو فاطمہ جیسا ہی تھا چہرا اُس کا\nکربلا اس لیے صغرا کو نہیں لائے حسین\n<<DIVIDER>>\nباپ کو دیکھے گی وہ دشت میں کیسے پیاسا\nکربلا اس لیے صغرا کو نہیں لائے حسین\n<<DIVIDER>>\nپھر نبی زادی کو یہ دن نا دیکھائے کوئی\nراہ میں اس کو تماچے نا لگائے کوئی\nزخمی ہاتھوں سے چھپائے نا وہ زخمی چہرا\nکربلا اس لیے صغرا کو۔۔۔\n<<DIVIDER>>\nآئے گی خیموں میں جب لاش علی اکبر کی\nہوگی اُس وقت کلیجے میں سِناں ٹوٹی ہوئی\nدیکھ نا پائے گی بھائی کا وہ زخمی سینہ\nکربلا اس لیے صغرا کو۔۔۔\n<<DIVIDER>>\nشہہ نے دیکھا تھا اسے بیٹھے ہوئے جھولے کے پاس\nاپنے ہاتھوں سے بناتے ہوئے اصغر کے لباس\nخون میں ڈوبا ہوا دیکھے گی وہ کیسے کُرتا\nکربلا اس لیے صغرا کو۔۔۔\n<<DIVIDER>>\nطوق سجاد کی گردن سے چھڑانے کے لئے\nپیچھے پیچھے نا چلی آئے بچانے کے لیے\nتازیانہ کوئی مارے نا سمجھ کر زہرا\nکربلا اس لیے صغرا کو۔۔۔\n<<DIVIDER>>\nدیکھ کر اس کو تماشائی کہنگے ہنس کر\nیہ تو ہے فاطمہ زہرا اسے مارو پھتر\nمیری بیٹی سے لیا جائے گا خم کا بدلہ\nکربلا اس لیے صغرا کو۔۔۔\n<<DIVIDER>>\nشہہ نے نانا کی لحد چھوڑی تھی یہ کہتے ہوئے\nکوئی تو ہو جو میرے بعد میری جانب سے\nآکے روزے پہ جلائے میرے حصے کا دیا\nکربلا اس لیے صغرا کو۔۔۔\n<<DIVIDER>>\nشہہ نے ذیشان کہا ایک سبب ہے یہ بھی\nبھائی کو جیسے شام میں منوائے گی\nیہ میرا نام مدنیے میں رکھےگی زندہ\nکربلا اس لیے صغرا کو۔۔۔",
+  "styling": [
+    {
+      "insert": "پردیس گئے بابا دیس میں صغرا تنہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوبہو فاطمہ جیسا ہی تھا چہرا اُس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اس لیے صغرا کو نہیں لائے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ کو دیکھے گی وہ دشت میں کیسے پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اس لیے صغرا کو نہیں لائے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر نبی زادی کو یہ دن نا دیکھائے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راہ میں اس کو تماچے نا لگائے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہاتھوں سے چھپائے نا وہ زخمی چہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اس لیے صغرا کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآئے گی خیموں میں جب لاش علی اکبر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی اُس وقت کلیجے میں سِناں ٹوٹی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ نا پائے گی بھائی کا وہ زخمی سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اس لیے صغرا کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہہ نے دیکھا تھا اسے بیٹھے ہوئے جھولے کے پاس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے ہاتھوں سے بناتے ہوئے اصغر کے لباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوبا ہوا دیکھے گی وہ کیسے کُرتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اس لیے صغرا کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطوق سجاد کی گردن سے چھڑانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیچھے پیچھے نا چلی آئے بچانے کے لیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تازیانہ کوئی مارے نا سمجھ کر زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اس لیے صغرا کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھ کر اس کو تماشائی کہنگے ہنس کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو ہے فاطمہ زہرا اسے مارو پھتر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بیٹی سے لیا جائے گا خم کا بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اس لیے صغرا کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہہ نے نانا کی لحد چھوڑی تھی یہ کہتے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی تو ہو جو میرے بعد میری جانب سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آکے روزے پہ جلائے میرے حصے کا دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اس لیے صغرا کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہہ نے ذیشان کہا ایک سبب ہے یہ بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی کو جیسے شام میں منوائے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میرا نام مدنیے میں رکھےگی زندہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا اس لیے صغرا کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Zeeshan Abidi",
   "anjumans": [],
   "verified": false

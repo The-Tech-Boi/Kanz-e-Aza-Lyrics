@@ -1,12 +1,482 @@
 {
   "remoteId": "g2611_u1042",
-  "title": "Bole akbar jo watan",
+  "title": "بولے اکبر جو وطن",
   "body": "بولے اکبر جو وطن لوٹ کے جانا اماں\nمیری روٹھی ہوی صغرا کو منانا اماں\n<<DIVIDER>>\nمیرے قدموں کے نشانوں پہ رکھے ہوگی وہ سر\nاس سے کہنا نہیں آے گا کبھی اب اکبر\nگھر کی دہلیز سے تم اس کو اٹھانا اماں\nمیری روٹھی۔۔۔\nبولے اکبر جو۔۔۔\n<<DIVIDER>>\nمرنے سے پہلے گلے مل لیا اکبر سب سے\nکاش اک بار میں سینے سے لگا لیتا اسے\nمیری جانب سے اسے سینے لگانا اماں\nمیری روٹھی۔۔۔\nبولے اکبر جو۔۔۔\n<<DIVIDER>>\nپوچھے اصغر کا تو کہہ دینا ہمکتا تھا بہت\nنام لیتے تھے تمہارا تو وہ ہنستا تھا بہت\nگھٹنیوں چلنے لگا تھا وہ بتانا اماں\nمیری روٹھی۔۔۔\nبولے اکبر جو۔۔۔\n<<DIVIDER>>\nاس ردا سے اسے آ جاے گی خوشبو میری\nیہ میرا خون ہے سنتے ہی وہ مر جاۓ گی\nمیری صغرا سے ردا اپنی چھپانا اماں\nمیری روٹھی۔۔۔\nبولے اکبر جو۔۔۔\n<<DIVIDER>>\nگر وہ پوچھے کہ میرے بھائی کو کیسے مارا\nکہنا بس ہو گیا اللّٰہ کو پیارا صغرا\nمجھکو ماری تھی سناں یہ نہ بتانا اماں\nمیری روٹھی۔۔۔\nبولے اکبر جو۔۔۔\n<<DIVIDER>>\nاس سے کہنا کہ وہ ناراض نہ ہو عمو سے\nوہ تو خود نام مٹاتے ہوے اسکا روے\nچاہتے تھے وہ اسے ساتھ میں لانا اماں\nمیری روٹھی۔۔۔\nبولے اکبر جو۔۔۔\n<<DIVIDER>>\nوہ ہے بیمار نہ کر پاے گی میلوں کا سفر\nبس وہی بیٹھ کے رو لے وہ مجھے شام و سحر\nاک نشاں قبر کا آنگن میں بہانا اماں\nمیری روٹھی۔۔۔\nبولے اکبر جو۔۔۔\n<<DIVIDER>>\nخط صغرا میری میت پہ سنانا ایسے\nجیسے تلقین پڑھا کرتے ہیں بلکل ویسے\nدونوں ہاتھوں سے میرا شانہ ہلانا اماں\nمیری روٹھی۔۔۔\nبولے اکبر جو۔۔۔\n<<DIVIDER>>\nمیر سجاد یہ تھا آخری اکبر کا بیاں\nجب مدینے میں تمہیں آے گی آواز اذاں\nچھپ کے صغرا سے کہیں آنسوں بہانا اماں\nمیری روٹھی۔۔۔\nبولے اکبر جو۔۔۔",
+  "styling": [
+    {
+      "insert": "بولے اکبر جو وطن لوٹ کے جانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری روٹھی ہوی صغرا کو منانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے قدموں کے نشانوں پہ رکھے ہوگی وہ سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس سے کہنا نہیں آے گا کبھی اب اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کی دہلیز سے تم اس کو اٹھانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری روٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمرنے سے پہلے گلے مل لیا اکبر سب سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاش اک بار میں سینے سے لگا لیتا اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری جانب سے اسے سینے لگانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری روٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپوچھے اصغر کا تو کہہ دینا ہمکتا تھا بہت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام لیتے تھے تمہارا تو وہ ہنستا تھا بہت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹنیوں چلنے لگا تھا وہ بتانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری روٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس ردا سے اسے آ جاے گی خوشبو میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میرا خون ہے سنتے ہی وہ مر جاۓ گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری صغرا سے ردا اپنی چھپانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری روٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگر وہ پوچھے کہ میرے بھائی کو کیسے مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنا بس ہو گیا اللّٰہ کو پیارا صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو ماری تھی سناں یہ نہ بتانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری روٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس سے کہنا کہ وہ ناراض نہ ہو عمو سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ تو خود نام مٹاتے ہوے اسکا روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاہتے تھے وہ اسے ساتھ میں لانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری روٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ ہے بیمار نہ کر پاے گی میلوں کا سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس وہی بیٹھ کے رو لے وہ مجھے شام و سحر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک نشاں قبر کا آنگن میں بہانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری روٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخط صغرا میری میت پہ سنانا ایسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے تلقین پڑھا کرتے ہیں بلکل ویسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دونوں ہاتھوں سے میرا شانہ ہلانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری روٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیر سجاد یہ تھا آخری اکبر کا بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مدینے میں تمہیں آے گی آواز اذاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھپ کے صغرا سے کہیں آنسوں بہانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری روٹھی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Mir Sajjad Mir",
   "anjumans": [],
   "verified": false

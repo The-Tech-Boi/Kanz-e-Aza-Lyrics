@@ -1,12 +1,392 @@
 {
   "remoteId": "g2611_u2391",
-  "title": "Mere baba ab nahi",
+  "title": "میرے بابا اب نہیں",
   "body": "میرے بابا اب نہیں آییں گے\n<<DIVIDER>>\nپچھلے پہر میرے آنگن میں کوئی بی بی کرتی ہے بین\nجیسے میری دادی کہتی ہو رو کر ہاے حسین\nلگتا ہے مجھکو میرے بابا جان گنواییں گے\nمیرے بابا اب نہیں۔۔۔\n<<DIVIDER>>\nاتنے بڑے گھر میں میرا غم خوار نہیں کوی\nساتھ مجھے لے جانے کو تیار نہیں کوئی\nمجھ بیمار کو سب آخر تک سمجھایینگے\nمیرے بابا اب نہیں۔۔۔\n<<DIVIDER>>\nدل میں جو میرے درد ہے سب سے کہنا مشکل ہے\nمیں وہ مریضہ ہوں میرا زندہ رہنا مشکل ہے\nجانے والے پھر میری صورت دیکھ نہ پائیں گے\nمیرے بابا اب نہیں۔۔۔\n<<DIVIDER>>\nنزع میں مجھکو قبلے کی جانب کون لٹاے گا\nکون‌ میری تربت پہ مجھے تلقیں سناے گا\nگھر والے کیا میرا جنازہ بھی نہ اٹھاییں گے\nمیرے بابا اب نہیں۔۔۔\n<<DIVIDER>>\nدل میں میرے کیسے کیسے اندیشے آتے ہیں\nمجھکو ہمیشہ کے لئے اکبر چھوڑ کے جاتے ہیں\nاپنے کلیجے پر علی اکبر برچھی کھاییں گے\nمیرے بابا اب نہیں۔۔۔\n<<DIVIDER>>\nجانے کیوں رہ رہ کے مجھے ایک وہم ستاتا ہے\nخوف یہی ایک مجھ بیمار کو کھاے جاتا ہے\nمیرے عمو دریا پر شانے کٹواییں گے\nمیرے بابا اب نہیں۔۔۔\n<<DIVIDER>>\nجانے کہاں سب مجھکو اکیلا چھوڑ کے جاتے ہیں\nبیماری میں سارے رشتے توڑ کے جاتے ہیں\nسب جاے میری گودی سے اصغر تو نہ جائیں گے\nمیرے بابا اب نہیں۔۔۔\n<<DIVIDER>>\nسچے ہیں سب مجھکو مگر دنیا پہ نہیں ہے یقیں\nکاش یہ وعدہ پورا ہو اے میرا خدا آمیں\nکہنا ہے سب کا جاتے ہی مجھکو بلواییں گے\nمیرے بابا اب نہیں۔۔۔\n<<DIVIDER>>\nنیر و عامر کیسے بیاں ہو صغرا کی افتاد\nکوئی مریضہ آج بھی جیسے کرتی ہو فریاد\nدنیا کو اس دکھیا کے نوحے تڑپایینگے\nمیرے بابا اب نہیں۔۔۔",
+  "styling": [
+    {
+      "insert": "میرے بابا اب نہیں آییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپچھلے پہر میرے آنگن میں کوئی بی بی کرتی ہے بین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے میری دادی کہتی ہو رو کر ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگتا ہے مجھکو میرے بابا جان گنواییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا اب نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاتنے بڑے گھر میں میرا غم خوار نہیں کوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ مجھے لے جانے کو تیار نہیں کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ بیمار کو سب آخر تک سمجھایینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا اب نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل میں جو میرے درد ہے سب سے کہنا مشکل ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں وہ مریضہ ہوں میرا زندہ رہنا مشکل ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے والے پھر میری صورت دیکھ نہ پائیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا اب نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنزع میں مجھکو قبلے کی جانب کون لٹاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون‌ میری تربت پہ مجھے تلقیں سناے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر والے کیا میرا جنازہ بھی نہ اٹھاییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا اب نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل میں میرے کیسے کیسے اندیشے آتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو ہمیشہ کے لئے اکبر چھوڑ کے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے کلیجے پر علی اکبر برچھی کھاییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا اب نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانے کیوں رہ رہ کے مجھے ایک وہم ستاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوف یہی ایک مجھ بیمار کو کھاے جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے عمو دریا پر شانے کٹواییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا اب نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانے کہاں سب مجھکو اکیلا چھوڑ کے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیماری میں سارے رشتے توڑ کے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب جاے میری گودی سے اصغر تو نہ جائیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا اب نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسچے ہیں سب مجھکو مگر دنیا پہ نہیں ہے یقیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاش یہ وعدہ پورا ہو اے میرا خدا آمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنا ہے سب کا جاتے ہی مجھکو بلواییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا اب نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیر و عامر کیسے بیاں ہو صغرا کی افتاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مریضہ آج بھی جیسے کرتی ہو فریاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا کو اس دکھیا کے نوحے تڑپایینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا اب نہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Zain-ul-Abedeen (a.s)",
+  "subcategory": "مولا سجّاد (ع)",
   "author": "Nayyar Jalalpuri",
   "anjumans": [],
   "verified": false

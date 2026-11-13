@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u1265",
-  "title": "Fatema khamosh hai",
+  "title": "فاطمہ خاموش ہے",
   "body": "پہلو شکستہ فاطمہ فاطمہ کس سے کرے بیاں\nدر اس طرح گرایا کے ٹوٹی ہے پسلیاں\nہر شب کو اپنی حال پر روتی ہے فاطمہ\nلیکن کبھی علی سے نہ شکوہ کوئی کیا\n<<DIVIDER>>\nدرد غم پہلو کا سہہ کر فاطمہ خاموش ہے\nزخم یہ دیکھے نہ حیدر فاطمہ خاموش ہے\n<<DIVIDER>>\nپسلیاں ٹوٹی ہوئ ہے درد کی ہے انتہا\nکر رہی ہے بیٹھ کر اپنی نمازوں کو ادا\nکب کوئی شکوہ ہے لب پر فاطمہ خاموش ہے\nدرد غم پہلو کا سہہ کر۔۔۔\n<<DIVIDER>>\nدل پہ محسن کی شہادت کا ابھی تازہ ہے غم\nمنتظر ہے موت کی اور آشک سے آنکھیں ہیں نم\nغم سبھی اپنے چھپا کر فاطمہ خاموش ہے\nدرد غم پہلو کا سہہ کر۔۔۔\n<<DIVIDER>>\nخوف ہے اس بات کا‌ دیکھے نہ چہرہ مرتظی\nنیل ظالم کے طمانچہ کا ہے بی بی کے پڑا\nدرد کی تصویر بن کر فاطمہ خاموش ہے\nدرد غم پہلو کا سہہ کر۔۔۔\n<<DIVIDER>>\nبضتو منی کہا جس کو نبی و پاک نے\nحیف کے امت نے ہر لمحہ ستایا ہے اسے\nقبر میں روے پیمبر فاطمہ خاموش ہے\nدرد غم پہلو کا سہہ کر۔۔۔\n<<DIVIDER>>\nیاس سے مادر کو اپنی دیکھتے ہیں مجتبیٰ\nرو کے یہ بابا سے کہتے ہیں شہ کربوبلا\nکیوں میری آواز سن کر فاطمہ خاموش ہے\nدرد غم پہلو کا سہہ کر۔۔۔\n<<DIVIDER>>\nآ کے امت نے جلایا فاطمہ زہرا کا گھر\nدیکھ کر حیدر کو تنہا خون روتا ہے جگر\nقلب پہ چلتا ہے خنجر فاطمہ خاموش ہے\nدرد غم پہلو کا سہہ کر۔۔۔\n<<DIVIDER>>\nآی تھی حق لینے زہرا ظلم کے دربار سے\nکر دیے ٹکڑے سند کے بے حیا بدکار نے\nبکھرے ٹکڑوں کو اٹھا کر فاطمہ خاموش ہے\nدرد غم پہلو کا سہہ کر۔۔۔\n<<DIVIDER>>\nکس طرح ریحان کوی غربت زہرا لکھے\nیہ وہ مظلومہ ہے جس پر ظلم اب تک نہ رکے\nروتا ہے دانش بھی لکھ کر فاطمہ خاموش ہے\nدرد غم پہلو کا سہہ کر۔۔۔",
+  "styling": [
+    {
+      "insert": "پہلو شکستہ فاطمہ فاطمہ کس سے کرے بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در اس طرح گرایا کے ٹوٹی ہے پسلیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر شب کو اپنی حال پر روتی ہے فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن کبھی علی سے نہ شکوہ کوئی کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدرد غم پہلو کا سہہ کر فاطمہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم یہ دیکھے نہ حیدر فاطمہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپسلیاں ٹوٹی ہوئ ہے درد کی ہے انتہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر رہی ہے بیٹھ کر اپنی نمازوں کو ادا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب کوئی شکوہ ہے لب پر فاطمہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد غم پہلو کا سہہ کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل پہ محسن کی شہادت کا ابھی تازہ ہے غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منتظر ہے موت کی اور آشک سے آنکھیں ہیں نم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم سبھی اپنے چھپا کر فاطمہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد غم پہلو کا سہہ کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوف ہے اس بات کا‌ دیکھے نہ چہرہ مرتظی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیل ظالم کے طمانچہ کا ہے بی بی کے پڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد کی تصویر بن کر فاطمہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد غم پہلو کا سہہ کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبضتو منی کہا جس کو نبی و پاک نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیف کے امت نے ہر لمحہ ستایا ہے اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر میں روے پیمبر فاطمہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد غم پہلو کا سہہ کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاس سے مادر کو اپنی دیکھتے ہیں مجتبیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے یہ بابا سے کہتے ہیں شہ کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں میری آواز سن کر فاطمہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد غم پہلو کا سہہ کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآ کے امت نے جلایا فاطمہ زہرا کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر حیدر کو تنہا خون روتا ہے جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلب پہ چلتا ہے خنجر فاطمہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد غم پہلو کا سہہ کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآی تھی حق لینے زہرا ظلم کے دربار سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر دیے ٹکڑے سند کے بے حیا بدکار نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بکھرے ٹکڑوں کو اٹھا کر فاطمہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد غم پہلو کا سہہ کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح ریحان کوی غربت زہرا لکھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وہ مظلومہ ہے جس پر ظلم اب تک نہ رکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتا ہے دانش بھی لکھ کر فاطمہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد غم پہلو کا سہہ کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Danish Mirza",
   "anjumans": [],
   "verified": false

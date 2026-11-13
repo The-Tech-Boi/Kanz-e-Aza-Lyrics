@@ -1,12 +1,540 @@
 {
   "remoteId": "g2611_u3259",
-  "title": "Unees sau hai zakhm",
+  "title": "انیس سو ہیں زخم",
   "body": "گر کر کبھی اٹھے کبھی رکھا زمیں پہ سر\nابلا لہو کبھی تو سنبھالا کبھی جگر\nحسرت سے کی خیام کی جانب کبھی نظر\nکروٹ کبھی تڑپ کے ادھر لی کبھی ادھر\nاٹھ بیٹھے جب تو زخموں سے برچی کے بل گرے\nتیر اور تن میں گاد گئے جب مو کے بل گرے\nجنگل سے آی فاطمہ زہرا کی یہ صدا\nامت نے مجھکو لوٹ لیا وا محمدا\nاس وقت کون حق رفاقت کرے ادا\nزینب سے بولی فاطمہ زہرا بصد بکا\n<<DIVIDER>>\nانیس سو ہیں زخم تن پاش پاش پر\nزینب نکل حسین تڑپتا ہے خاک پر\n<<DIVIDER>>\nکس چاہ سے پالا اسے آنچل میں چھپا کر\nمیں جاگتی رہتی اسے راتوں کو سلا کر\nچکی بھی جو پیسی ہے تو گودی میں بٹھا کر\nکس حال میں دیکھا ہے اسے دشت میں آکر\nانیس سو ہیں زخم۔۔۔\nزینب نکل حسین۔۔۔\n<<DIVIDER>>\nہے کون جو مظلوم کو تیروں سے بچاے\nسہہ روز کے پیاسے کو کوئی پانی پلاے\nزخموں میں بھری خاک کوی آکے چھڑاے\nہر لاش اٹھای ہے اسے کون اٹھاے\nانیس سو ہیں زخم۔۔۔\nزینب نکل حسین۔۔۔\n<<DIVIDER>>\nعباس کے مرنے سے کمر ٹوٹ چکی ہے\nاکبر کے بچھڑ جانے سے بینای گیء ہے\nان آنکھوں میں بے شیر کی تربت بھی بنی ہے\nہے آخری لمحہ اور اجل سر پہ کھڑی ہے\nانیس سو ہیں زخم۔۔۔\nزینب نکل حسین۔۔۔\n<<DIVIDER>>\nکچھ دیر میں خنجر میرے بچے پہ چلے گا\nآفسوس دم ذبح بھی پانی نہ ملے گا\nخنجر کی کیء ضربوں سے سر اس کا کٹے گا\nغیور ہے بیٹا میرا ہر گز نہ کہے گا\nانیس سو ہیں زخم۔۔۔\nزینب نکل حسین۔۔۔\n<<DIVIDER>>\nباقی ہے ابھی جان تیرا بھائی ہے زندہ\nگھوڑے کہیں دوڑا نہ دے بے درد ہیں اعدا\nہاے ہاے کوئی بے کس کو نہیں پوچھنے والا\nبھائی سے محبت ہے تو مقتل میں چلی آ\nانیس سو ہیں زخم۔۔۔\nزینب نکل حسین۔۔۔\n<<DIVIDER>>\nیہ بین میں سنتی ہوں تیرے بابا علی سے\nہو جاے نگے پامال ابھی لاش سبھی کے\nکچھ مرحلے باقی ہیں غریب الوطنی کے\nجا حال زرا دیکھ لے اس پیاسے اخی کے\nانیس سو ہیں زخم۔۔۔\nزینب نکل حسین۔۔۔\n<<DIVIDER>>\nعاجز ہے یہاں آکے ہر ایک سخنور\nفرحان انیس شہ والا ہو کہ مظہر\nلکھ پایا نہیں آج تلک کوئی وہ منظر\nجب کہتی تھی زینب سے میرے بی بی تڑپ کر\nانیس سو ہیں زخم۔۔۔\nزینب نکل حسین۔۔۔",
+  "styling": [
+    {
+      "insert": "گر کر کبھی اٹھے کبھی رکھا زمیں پہ سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابلا لہو کبھی تو سنبھالا کبھی جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسرت سے کی خیام کی جانب کبھی نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کروٹ کبھی تڑپ کے ادھر لی کبھی ادھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھ بیٹھے جب تو زخموں سے برچی کے بل گرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیر اور تن میں گاد گئے جب مو کے بل گرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگل سے آی فاطمہ زہرا کی یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت نے مجھکو لوٹ لیا وا محمدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس وقت کون حق رفاقت کرے ادا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب سے بولی فاطمہ زہرا بصد بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانیس سو ہیں زخم تن پاش پاش پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل حسین تڑپتا ہے خاک پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس چاہ سے پالا اسے آنچل میں چھپا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جاگتی رہتی اسے راتوں کو سلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چکی بھی جو پیسی ہے تو گودی میں بٹھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس حال میں دیکھا ہے اسے دشت میں آکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انیس سو ہیں زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے کون جو مظلوم کو تیروں سے بچاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہہ روز کے پیاسے کو کوئی پانی پلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخموں میں بھری خاک کوی آکے چھڑاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر لاش اٹھای ہے اسے کون اٹھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انیس سو ہیں زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس کے مرنے سے کمر ٹوٹ چکی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے بچھڑ جانے سے بینای گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنکھوں میں بے شیر کی تربت بھی بنی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آخری لمحہ اور اجل سر پہ کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انیس سو ہیں زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ دیر میں خنجر میرے بچے پہ چلے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آفسوس دم ذبح بھی پانی نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خنجر کی کیء ضربوں سے سر اس کا کٹے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غیور ہے بیٹا میرا ہر گز نہ کہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انیس سو ہیں زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباقی ہے ابھی جان تیرا بھائی ہے زندہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھوڑے کہیں دوڑا نہ دے بے درد ہیں اعدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے ہاے کوئی بے کس کو نہیں پوچھنے والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی سے محبت ہے تو مقتل میں چلی آ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انیس سو ہیں زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ بین میں سنتی ہوں تیرے بابا علی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو جاے نگے پامال ابھی لاش سبھی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ مرحلے باقی ہیں غریب الوطنی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا حال زرا دیکھ لے اس پیاسے اخی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انیس سو ہیں زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاجز ہے یہاں آکے ہر ایک سخنور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرحان انیس شہ والا ہو کہ مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھ پایا نہیں آج تلک کوئی وہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کہتی تھی زینب سے میرے بی بی تڑپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انیس سو ہیں زخم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نکل حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

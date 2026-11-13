@@ -1,12 +1,532 @@
 {
   "remoteId": "g2611_u1599",
-  "title": "Hussain jaate hai",
+  "title": "حسین جاتے ہیں",
   "body": "عزا تمام ہے رقت کرو عزاداروں\nحسین جاتے ہیں رخصت کرو عزاداروں\n<<DIVIDER>>\nسفر کا وقت ہے مہمان کو الوداع کہو\nجلوس شاہ شہیداں کو الوداع کہو\nاجڑنے والے ہیں کچھ دیر میں عزاخانے\nکسی بہن کو کسی ماں کو الوداع کہو\nحسین جاتے ہیں۔۔۔\n<<DIVIDER>>\nضریح تشنہ مسافر کی بڑھنے والی ہے\nامام باڑوں کی رونق اجڑنے والی ہے\nبجھے ہوے ہیں دیےء رو رہی ہے دیواریں\nجو مہمان تھی وہ بی بی بچھڑنے والی ہے\nحسین جاتے ہیں۔۔۔\n<<DIVIDER>>\nسروں پہ گرد ہے آنسوں ہے آستینوں پر\nاداس بیٹھے ہیں سب ماتمی زمینوں پر\nرلا رہے ہیں یہ مرجھائے پھول سہروں کے\nنہ تعزیےء ہے نہ پٹکے ہیں شہ نشینوں پر\nحسین جاتے ہیں۔۔۔\n<<DIVIDER>>\nکہاں سے آج یہ منظر عزا کے لاے گی\nیہ خموشی یہ اداسی ہمیں رلاے گی\nجیےء گیں کیسے ضریح و علم سے ہو کے جدا\nنہ دن کو چین نہ راتوں کو نیند آے گی\nحسین جاتے ہیں۔۔۔\n<<DIVIDER>>\nنبی کے چین کو کیسے کہے خدا حافظ\nشہ حنین کو کیسے کہے خدا حافظ\nیہ سوچ سوچ کے آنکھوں میں آشک آے ہیں\nکہ ہم حسین کو کیسے کہے خدا حافظ\nحسین جاتے ہیں۔۔۔\n<<DIVIDER>>\nسقوط بزمِ عزا کا بہت رلاے گا\nخود اپنے گھر کا یہ سنت ہم کو کھاے گا\nکسے خبر کے یہ دن پھر نصیب ہو کہ نہ ہو\nجو اگلے سال جیےء گا وہ غم مناے گا\nحسین جاتے ہیں۔۔۔\n<<DIVIDER>>\nاداسیاں سبھی ماؤں کے رخ پہ چھای ہے\nلبوں پہ بین کو آنکھوں میں آشک لای ہے\nپھپھی کو دینا ہے پرسہ تمہارے بابا کا\nسکینہ بی بی تمہاری کنیزیں آی ہیں\nحسین جاتے ہیں۔۔۔\n<<DIVIDER>>\nتمہاری یاد میں بے چین ہوتے جاتے ہیں\nتمہاری ہجر میں جاں اپنی کھوتے جاتے ہیں\nانہیں بھی دیکھ لو جھولے سے اے علی اصغر\nیہ بچے گودی میں ماؤں کی روتے جاتے ہیں\nحسین جاتے ہیں۔۔۔\n<<DIVIDER>>\nجب آے گا کسی برچھی کا دھیان روےنگے\nفضا میں گونجے گی جب جب اذان روےنگے\nتمہارے ہجر میں ہم اے شبیہ پیغمبر\nدل اپنا پیٹ کے سارے جوان روےنگے\nحسین جاتے ہیں۔۔۔\n<<DIVIDER>>\nہے اتنا عامر و نیر کو بھی یقیں مولا\nپسند تم کو ہے دونوں ہی سر زمیں مولا\nوطن ہمارا ہے بھارت بھی کربلا بھی مگر\nجہاں چلے ہو ہمیں لے چلو وہی مولا\nحسین جاتے ہیں۔۔۔",
+  "styling": [
+    {
+      "insert": "عزا تمام ہے رقت کرو عزاداروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاتے ہیں رخصت کرو عزاداروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسفر کا وقت ہے مہمان کو الوداع کہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلوس شاہ شہیداں کو الوداع کہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اجڑنے والے ہیں کچھ دیر میں عزاخانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی بہن کو کسی ماں کو الوداع کہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nضریح تشنہ مسافر کی بڑھنے والی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امام باڑوں کی رونق اجڑنے والی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بجھے ہوے ہیں دیےء رو رہی ہے دیواریں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مہمان تھی وہ بی بی بچھڑنے والی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسروں پہ گرد ہے آنسوں ہے آستینوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اداس بیٹھے ہیں سب ماتمی زمینوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلا رہے ہیں یہ مرجھائے پھول سہروں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ تعزیےء ہے نہ پٹکے ہیں شہ نشینوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہاں سے آج یہ منظر عزا کے لاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ خموشی یہ اداسی ہمیں رلاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیےء گیں کیسے ضریح و علم سے ہو کے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ دن کو چین نہ راتوں کو نیند آے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنبی کے چین کو کیسے کہے خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ حنین کو کیسے کہے خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سوچ سوچ کے آنکھوں میں آشک آے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ ہم حسین کو کیسے کہے خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسقوط بزمِ عزا کا بہت رلاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود اپنے گھر کا یہ سنت ہم کو کھاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسے خبر کے یہ دن پھر نصیب ہو کہ نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو اگلے سال جیےء گا وہ غم مناے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاداسیاں سبھی ماؤں کے رخ پہ چھای ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لبوں پہ بین کو آنکھوں میں آشک لای ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھپھی کو دینا ہے پرسہ تمہارے بابا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ بی بی تمہاری کنیزیں آی ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہاری یاد میں بے چین ہوتے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہاری ہجر میں جاں اپنی کھوتے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انہیں بھی دیکھ لو جھولے سے اے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بچے گودی میں ماؤں کی روتے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب آے گا کسی برچھی کا دھیان روےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فضا میں گونجے گی جب جب اذان روےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے ہجر میں ہم اے شبیہ پیغمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل اپنا پیٹ کے سارے جوان روےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے اتنا عامر و نیر کو بھی یقیں مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسند تم کو ہے دونوں ہی سر زمیں مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وطن ہمارا ہے بھارت بھی کربلا بھی مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جہاں چلے ہو ہمیں لے چلو وہی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جاتے ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Widaye Ayyam e Aza",
+  "subcategory": "الوداع",
   "author": "Nayyar Jalalpuri",
   "anjumans": [],
   "verified": false

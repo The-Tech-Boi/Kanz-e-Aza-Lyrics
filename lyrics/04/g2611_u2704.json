@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u2704",
-  "title": "Qatl hue hai naqi",
+  "title": "قتل ہوئے ہیں نقی",
   "body": "مومنوں سر پیٹ لو قتل ہوئے ہیں نقی\nسامرہ میں زہر سے قتل ہوۓ ہیں نقی\n<<DIVIDER>>\nروتے ہیں سادات سب ہو گیا ہاۓ غضب\nآتی ہے کیسی نداء قتل ہوۓ ہیں نقی\nمومنوں سر پیٹ لو۔۔۔\n<<DIVIDER>>\nتونے اے معتز باللہ کیوں دیا زہر دغاء\nوہ تھا اسیر جفاء قتل ہوۓ ہیں نقی\nمومنوں سر پیٹ لو۔۔۔\n<<DIVIDER>>\nزہر نے کاٹا جگر نوحہ کناں بام و در\nبچھ گئی فرش عزاء قتل ہوۓ ہیں نقی\nمومنوں سر پیٹ لو۔۔۔\n<<DIVIDER>>\nکہہ کے بلایا عراق ملنے کا ہے اشتیاق\nپھر دیا زہر قضاء قتل ہوۓ ہیں نقی\nمومنوں سر پیٹ لو۔۔۔\n<<DIVIDER>>\nنوحہ کناں بیبیاں سوگ میں دونوں جہاں\nکہتے ہیں سب انس و جاں قتل ہوۓ ہیں نقی\nمومنوں سر پیٹ لو۔۔۔\n<<DIVIDER>>\nمرگیا بابا میرا کوئی نہیں ہے یہاں\nظلم ہے میرے خدا قتل ہوۓ ہیں نقی\nمومنوں سر پیٹ لو۔۔۔\n<<DIVIDER>>\nجائیں گے عشرت کبھی پڑھتے ہوۓ آپ بھی\nسامرہ سے کربلا قتل ہوۓ ہیں نقی\nمومنوں سر پیٹ لو۔۔۔",
+  "styling": [
+    {
+      "insert": "مومنوں سر پیٹ لو قتل ہوئے ہیں نقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سامرہ میں زہر سے قتل ہوۓ ہیں نقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتے ہیں سادات سب ہو گیا ہاۓ غضب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی ہے کیسی نداء قتل ہوۓ ہیں نقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مومنوں سر پیٹ لو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتونے اے معتز باللہ کیوں دیا زہر دغاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ تھا اسیر جفاء قتل ہوۓ ہیں نقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مومنوں سر پیٹ لو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزہر نے کاٹا جگر نوحہ کناں بام و در"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچھ گئی فرش عزاء قتل ہوۓ ہیں نقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مومنوں سر پیٹ لو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہہ کے بلایا عراق ملنے کا ہے اشتیاق"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر دیا زہر قضاء قتل ہوۓ ہیں نقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مومنوں سر پیٹ لو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوحہ کناں بیبیاں سوگ میں دونوں جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے ہیں سب انس و جاں قتل ہوۓ ہیں نقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مومنوں سر پیٹ لو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمرگیا بابا میرا کوئی نہیں ہے یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم ہے میرے خدا قتل ہوۓ ہیں نقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مومنوں سر پیٹ لو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجائیں گے عشرت کبھی پڑھتے ہوۓ آپ بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سامرہ سے کربلا قتل ہوۓ ہیں نقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مومنوں سر پیٹ لو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali un Naqi (a.s)",
+  "subcategory": "امام علی نقی (ع)",
   "author": "Ishrat Bilgrami",
   "anjumans": [],
   "verified": false

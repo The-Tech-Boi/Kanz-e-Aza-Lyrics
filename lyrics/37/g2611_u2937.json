@@ -1,12 +1,310 @@
 {
   "remoteId": "g2611_u2937",
-  "title": "Saqqae ahlebayt",
+  "title": "سقائے اہلِبیت",
   "body": "سقائے اہلِبیتِ علمدار ہے کہاں\n<<DIVIDER>>\nاہلِ حرم کا قافلہ سالار ہے کہاں\nدینِ رسولِ حق کا مدد گار ہے کہاں\nکرب و بلا کا حیدرِ کرار ہے کہاں\nسقائے اہلِبیت۔۔۔\n<<DIVIDER>>\nہمشیر سے یہ کہتے ہیں مظلومِ کربلا\nغربت میں بے کسوں کا سہارا نہیں رہا\nزینب ہمارا مونث و غمخوار ہے کہاں\nسقائے اہلِبیت۔۔۔\n<<DIVIDER>>\nپیاسی سکینہ کہتی ہے رو کر یہ بار بار\nشدت کی تشنگی سے میرا دل ہے بیقرار\nبابا میرا چچا میرا غمخوار ہے کہاں\nسقائے اہلِبیت۔۔۔\n<<DIVIDER>>\nمشک سکینہ چھد گیء شان قلم ہوے\nفرزند بوتراب پہ کیا کیا ستم ہوئے\nزینب پکاری ہاے وفادار ہے کہاں\nسقائے اہلِبیت۔۔۔\n<<DIVIDER>>\nقاسم نہیں رہا علی اکبر نہیں رہا\nشش ماہ بے زباں علی اصغر نہیں رہا\nتنہا ہے اب حسین علمدار ہے کہاں\nسقائے اہلِبیت۔۔۔\n<<DIVIDER>>\nلعیں جو رن سے مشک و علم شاہ کربلا\nفضہ ہر ایک خیمے میں دیتی تھی یہ صدا\nاے بی بیوں حسین کا غم خوار ہے کہاں\nسقائے اہلِبیت۔۔۔\n<<DIVIDER>>\nچاروں طرف سے تیر تھے صابر حسین پر\nہرظلم ہو رہا تھا شہ مشرقین پر\nلب پر یہی صدا تھی علمدار ہے کہاں\nسقائے اہلِبیت۔۔۔",
+  "styling": [
+    {
+      "insert": "سقائے اہلِبیتِ علمدار ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاہلِ حرم کا قافلہ سالار ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دینِ رسولِ حق کا مدد گار ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرب و بلا کا حیدرِ کرار ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے اہلِبیت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہمشیر سے یہ کہتے ہیں مظلومِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غربت میں بے کسوں کا سہارا نہیں رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب ہمارا مونث و غمخوار ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے اہلِبیت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاسی سکینہ کہتی ہے رو کر یہ بار بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شدت کی تشنگی سے میرا دل ہے بیقرار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا میرا چچا میرا غمخوار ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے اہلِبیت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشک سکینہ چھد گیء شان قلم ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرزند بوتراب پہ کیا کیا ستم ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری ہاے وفادار ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے اہلِبیت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاسم نہیں رہا علی اکبر نہیں رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شش ماہ بے زباں علی اصغر نہیں رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے اب حسین علمدار ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے اہلِبیت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلعیں جو رن سے مشک و علم شاہ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فضہ ہر ایک خیمے میں دیتی تھی یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بی بیوں حسین کا غم خوار ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے اہلِبیت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاروں طرف سے تیر تھے صابر حسین پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہرظلم ہو رہا تھا شہ مشرقین پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لب پر یہی صدا تھی علمدار ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے اہلِبیت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "anjumans": [],
   "verified": false
 }

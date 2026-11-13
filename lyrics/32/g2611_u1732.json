@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u1732",
-  "title": "Jafar ki shahadat",
+  "title": "جعفر کی شہادت",
   "body": "جعفر کی شہادت جو مدینے میں ہوی ہے\nپھر آل محمّد پہ قیامت کی گھڑی ہے\n<<DIVIDER>>\nٹکڑے کیا تربت میں محمد کا کلیجہ\nجعفر کو دیا زہر جو منصور شقی ہے\nجعفر کی شہادت جو۔۔۔\n<<DIVIDER>>\nبستر پہ تڑپتے رہے شبر کی طرح سے\nاک آگ ہے جو زہرا کی شدت سے لگی ہے\nجعفر کی شہادت جو۔۔۔\n<<DIVIDER>>\nسم سینے میں جعفر کے جو پہنچا ہے خدارا\nدل ٹکڑے ہے اندر سے کوئی چلتی چھری ہے\nجعفر کی شہادت جو۔۔۔\n<<DIVIDER>>\nوہ علم کا خزانہ اٹھا آج جہان سے\nتفسیر جو معصوم نے قرآن کی کی ہے\nجعفر کی شہادت جو۔۔۔\n<<DIVIDER>>\nجعفر کے جنازے پہ ہے یوں موسی کاظم\nعمامہ نہیں سر پہ یتیمی کی گھڑی ہے\nجعفر کی شہادت جو۔۔۔\n<<DIVIDER>>\nصادق کی شہادت پہ ہے شعیوں کا عجب عالم\nسر پیٹتے ہیں کوئی کہیں سینہ زنی ہے\nجعفر کی شہادت جو۔۔۔\n<<DIVIDER>>\nہے صرف عزا آپ کی اولاد کے غم میں\nیہ ماتمی سنگت جو رسولِ عربی ہے\nجعفر کی شہادت جو۔۔۔\n<<DIVIDER>>\nحر بعد نبی آل نبی کیسے گزارے\nامت ہے نبی کی جو کبھی چین نہ دی ہے\nجعفر کی شہادت جو۔۔۔",
+  "styling": [
+    {
+      "insert": "جعفر کی شہادت جو مدینے میں ہوی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر آل محمّد پہ قیامت کی گھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹکڑے کیا تربت میں محمد کا کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کو دیا زہر جو منصور شقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کی شہادت جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبستر پہ تڑپتے رہے شبر کی طرح سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک آگ ہے جو زہرا کی شدت سے لگی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کی شہادت جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسم سینے میں جعفر کے جو پہنچا ہے خدارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل ٹکڑے ہے اندر سے کوئی چلتی چھری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کی شہادت جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ علم کا خزانہ اٹھا آج جہان سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تفسیر جو معصوم نے قرآن کی کی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کی شہادت جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجعفر کے جنازے پہ ہے یوں موسی کاظم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمامہ نہیں سر پہ یتیمی کی گھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کی شہادت جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصادق کی شہادت پہ ہے شعیوں کا عجب عالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹتے ہیں کوئی کہیں سینہ زنی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کی شہادت جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے صرف عزا آپ کی اولاد کے غم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ماتمی سنگت جو رسولِ عربی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کی شہادت جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحر بعد نبی آل نبی کیسے گزارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت ہے نبی کی جو کبھی چین نہ دی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کی شہادت جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Jaffer e Sadiq (a.s)",
+  "subcategory": "امام جعفر صادق (ع)",
   "author": "Hur Hyderabadi",
   "anjumans": [],
   "verified": false

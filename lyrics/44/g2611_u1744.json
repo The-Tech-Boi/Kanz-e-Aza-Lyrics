@@ -1,12 +1,524 @@
 {
   "remoteId": "g2611_u1744",
-  "title": "Jal raha hai fatema",
+  "title": "جل رہا ہے فاطمہ",
   "body": "یا ام ابیہا یا ام فقیہہ\nیا فاطمہ زہرا یا فاطمہ زہرا\n<<DIVIDER>>\nاے رسول لیجیے خبر\nجل رہا فاطمہ کا گھر\nآیےء خدارا لوٹ کر\nجل رہا فاطمہ کا گھر\n<<DIVIDER>>\nشہر مصطفیٰ دھواں دھواں\nرو رہے ہیں عرض اور سماں\nدے رہے ہیں رو کے یہ خبر\nجل رہا فاطمہ کا گھر\n<<DIVIDER>>\nکشتۂ جفا کا تھا یہ بین\nسیدہ کو کب ملا ہے چین\nمحنتوں کا یہ ملا ثمر\nجل رہا فاطمہ کا گھر\n<<DIVIDER>>\nسیدہ کی ٹوٹی پسلیاں\nکھاے ہیں طمانچے سہلیاں\nوقت ہے کٹھن کس قدر\nجل رہا فاطمہ کا گھر\n<<DIVIDER>>\nہاے بنت مصطفیٰ کا گھر\nاور ہے ہجوم اہلِ شر\nظلم ہو رہا ہے بے قدر\nجل رہا فاطمہ کا گھر\n<<DIVIDER>>\nدختر نبی پہ کیا ستم\nکر گیا ہے وہ شقی رقم\nروح سیدہ ہے خوں میں تر\nجل رہا فاطمہ کا گھر\n<<DIVIDER>>\nاللّٰہ اللّٰہ بنت مصطفیٰ\nانکے لب پہ ہے یہ مرثیہ\nبیٹی آپ کی ہے نوحہ گر\nجل رہا فاطمہ کا گھر\n<<DIVIDER>>\nبادلوں تمہیں مدد کرو\nآگ پر تو پانی ڈال دو\nدیکھ لو زمیں پہ اک نظر\nجل رہا فاطمہ کا گھر\n<<DIVIDER>>\nزخم پہ تو زخم آ چکے\nہاے وہ صداییں دے کسے\nجل چکا ہے سیدہ کا گھر\nجل رہا فاطمہ کا گھر\n<<DIVIDER>>\nبابا جاں خبر تو لیجیےء\nفاطمہ کی سمت دیکھیےء\nآپ کیا گےء ہیں چھوڑ کر\nجل رہا فاطمہ کا گھر\n<<DIVIDER>>\nبعد آپ کے یہ کیا ہوا\nپل میں یہ جہاں بدل گیا\nدیکھیےء خدارا اے پدر\nجل رہا فاطمہ کا گھر\n<<DIVIDER>>\nدایم حزیں وہ غمزدہ\nیزدان پڑھ رہا ہے مرثیہ\nآفتاب نکلا ننگے سر\nجل رہا فاطمہ کا گھر",
+  "styling": [
+    {
+      "insert": "یا ام ابیہا یا ام فقیہہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا فاطمہ زہرا یا فاطمہ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے رسول لیجیے خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل رہا فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آیےء خدارا لوٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل رہا فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہر مصطفیٰ دھواں دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رہے ہیں عرض اور سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے رہے ہیں رو کے یہ خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل رہا فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکشتۂ جفا کا تھا یہ بین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدہ کو کب ملا ہے چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محنتوں کا یہ ملا ثمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل رہا فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسیدہ کی ٹوٹی پسلیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھاے ہیں طمانچے سہلیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقت ہے کٹھن کس قدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل رہا فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے بنت مصطفیٰ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ہے ہجوم اہلِ شر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم ہو رہا ہے بے قدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل رہا فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدختر نبی پہ کیا ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر گیا ہے وہ شقی رقم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روح سیدہ ہے خوں میں تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل رہا فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللّٰہ اللّٰہ بنت مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انکے لب پہ ہے یہ مرثیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی آپ کی ہے نوحہ گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل رہا فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبادلوں تمہیں مدد کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگ پر تو پانی ڈال دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ لو زمیں پہ اک نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل رہا فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخم پہ تو زخم آ چکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے وہ صداییں دے کسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل چکا ہے سیدہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل رہا فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا جاں خبر تو لیجیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کی سمت دیکھیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کیا گےء ہیں چھوڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل رہا فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد آپ کے یہ کیا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پل میں یہ جہاں بدل گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھیےء خدارا اے پدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل رہا فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدایم حزیں وہ غمزدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یزدان پڑھ رہا ہے مرثیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آفتاب نکلا ننگے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل رہا فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Dayam Najafi",
   "anjumans": [],
   "verified": false

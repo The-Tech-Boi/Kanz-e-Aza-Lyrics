@@ -1,12 +1,383 @@
 {
   "remoteId": "g2611_u2894",
-  "title": "Sakina ko chod de",
+  "title": "سکینہ کو چھوڑ دے",
   "body": "نیزے پہ سر حسین کا یہ کہہ کے رو پڑا\nظالم میری یتیم سکینہ کو چھوڑ دو\n<<DIVIDER>>\nکیوں مارتا ہے اس نے بگاڑا ہے کیا تیرا\nظالم میری یتیم سکینہ کو چھوڑ دو\n<<DIVIDER>>\nپہلے ہی غمزدہ نے سہے ہیں بڑے ستم\nبچھڑا ہے کمسنی میں پدر کم ہے کیا یہ غم\nبہر خدا غموں کی ستای کو نہ ستا\nظالم میری یتیم۔۔۔\n<<DIVIDER>>\nاس غمزدہ کو باپ کا پرسہ نہ دے لعیں\nدیتا نہیں گر اس کو دلاسہ نہ دے لعیں\nلللہ اس کے رخ پہ طمانچے تو نہ لگا\nظالم میری یتیم۔۔۔\n<<DIVIDER>>\nہے دشمنی لعیں تیری گر حسین سے\nتو تازیانے میرے کٹے سر پہ مار لے\nدرے نہ مار اس کو ہے معصوم بے خطا\nظالم میری یتیم۔۔۔\n<<DIVIDER>>\nبے حال ہو چکی ہے یہ شدت سے پیاس کی\nدروں کا وار سہنے کی قوت نہیں بچی\nایذاء نہ دے اب اور اسے بہر کبریا\nظالم میری یتیم۔۔۔\n<<DIVIDER>>\nدیکھا ہے جب سے باپ کا کٹتا ہوا گلا\nڈر یوں بسا ہے دل میں لرزتی‌ ہے غمزدہ\nمر جاۓ گی سہم کے اسے اور نہ ڈرا\nظالم میری یتیم۔۔۔\n<<DIVIDER>>\nنازک ہے کان چھین نہ بندیں یوں کھینچ کے\nبیٹی ہے یہ کریم کی دے دیگی مانگ لے\nتڑپا کے اس یتیم کو کیا ہاتھ آے گا\nظالم میری یتیم۔۔۔\n<<DIVIDER>>\nایذاء نہ دے بہن کو برادر کے سامنے\nکوڑے نہ مار عابد لاغر کے سامنے\nغیرت پہ ایک بھائی کی یہ زخم نہ لگے\nظالم میری یتیم۔۔۔\n<<DIVIDER>>\nہو کیا بیان ندیم وہ غربت وہ بے کسی\nمحسوس قید شام میں ہوتا ہے آج بھی\nجیسے کی دے رہا ہو تڑپ کر کوی صدا\nظالم میری یتیم۔۔۔",
+  "styling": [
+    {
+      "insert": "نیزے پہ سر حسین کا یہ کہہ کے رو پڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم میری یتیم سکینہ کو چھوڑ دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں مارتا ہے اس نے بگاڑا ہے کیا تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم میری یتیم سکینہ کو چھوڑ دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہلے ہی غمزدہ نے سہے ہیں بڑے ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچھڑا ہے کمسنی میں پدر کم ہے کیا یہ غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہر خدا غموں کی ستای کو نہ ستا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم میری یتیم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس غمزدہ کو باپ کا پرسہ نہ دے لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتا نہیں گر اس کو دلاسہ نہ دے لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لللہ اس کے رخ پہ طمانچے تو نہ لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم میری یتیم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے دشمنی لعیں تیری گر حسین سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو تازیانے میرے کٹے سر پہ مار لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درے نہ مار اس کو ہے معصوم بے خطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم میری یتیم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے حال ہو چکی ہے یہ شدت سے پیاس کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دروں کا وار سہنے کی قوت نہیں بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایذاء نہ دے اب اور اسے بہر کبریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم میری یتیم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھا ہے جب سے باپ کا کٹتا ہوا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈر یوں بسا ہے دل میں لرزتی‌ ہے غمزدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جاۓ گی سہم کے اسے اور نہ ڈرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم میری یتیم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنازک ہے کان چھین نہ بندیں یوں کھینچ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی ہے یہ کریم کی دے دیگی مانگ لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپا کے اس یتیم کو کیا ہاتھ آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم میری یتیم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایذاء نہ دے بہن کو برادر کے سامنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوڑے نہ مار عابد لاغر کے سامنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غیرت پہ ایک بھائی کی یہ زخم نہ لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم میری یتیم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہو کیا بیان ندیم وہ غربت وہ بے کسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محسوس قید شام میں ہوتا ہے آج بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے کی دے رہا ہو تڑپ کر کوی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم میری یتیم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Nadeem Sultanpuri",
   "anjumans": [],
   "verified": false

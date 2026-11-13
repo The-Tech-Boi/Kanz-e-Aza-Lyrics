@@ -1,12 +1,287 @@
 {
   "remoteId": "g2611_u2043",
-  "title": "Kohraam hai taboote",
+  "title": "کہرام ہے تابوت",
   "body": "کہرام ہے تابوتِ حسن اٹھتا ہے گھر سے\nکلثوم بکا کرتی ہے لپٹی ہوئی در سے\nاے وائے مصیبت\n<<DIVIDER>>\nزینب نے کیےء پیٹ کے سر بال پریشاں\nخوں بہتا ہے اشکوں کی جگہ دیدۂ تر سے\nاے وائے مصیبت\nکہرام ہے تابوتِ حسن۔۔۔\n<<DIVIDER>>\nایک حشر ہوا چرخ سے گرنے لگے تارے\nٹکڑے جو گرے طشت میں شبر کے جگر سے\nاے وائے مصیبت\nکہرام ہے تابوتِ حسن۔۔۔\n<<DIVIDER>>\nقاسم جو جواں ہوتے ہوئے کربوبلا تک\nدیکھیں گے حسن بیٹے کو فروہ کی نظر سے\nاے وائے مصیبت\nکہرام ہے تابوتِ حسن۔۔۔\n<<DIVIDER>>\nجاتے ہوئے شبیر سے شبر نے کہا تھا\nاب کشتیء دیں تم کو بچانا ہے بھنور سے\nاے وائے مصیبت\nکہرام ہے تابوتِ حسن۔۔۔\n<<DIVIDER>>\nبس ایک جنازہ ہے یہ دنیا میں حسن کا\nدو بار اٹھایا جو گیا ایک ہی گھر سے\nاے وائے مصیبت\nکہرام ہے تابوتِ حسن۔۔۔\n<<DIVIDER>>\nدل سینے میں ماجد نہ ٹہر پاے گا اس دم\nدیکھے کوی اس غم کو شہ دیں کی نظر سے\nاے وائے مصیبت\nکہرام ہے تابوتِ حسن۔۔۔",
+  "styling": [
+    {
+      "insert": "کہرام ہے تابوتِ حسن اٹھتا ہے گھر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلثوم بکا کرتی ہے لپٹی ہوئی در سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے وائے مصیبت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے کیےء پیٹ کے سر بال پریشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں بہتا ہے اشکوں کی جگہ دیدۂ تر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے وائے مصیبت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہرام ہے تابوتِ حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک حشر ہوا چرخ سے گرنے لگے تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑے جو گرے طشت میں شبر کے جگر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے وائے مصیبت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہرام ہے تابوتِ حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاسم جو جواں ہوتے ہوئے کربوبلا تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھیں گے حسن بیٹے کو فروہ کی نظر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے وائے مصیبت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہرام ہے تابوتِ حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاتے ہوئے شبیر سے شبر نے کہا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کشتیء دیں تم کو بچانا ہے بھنور سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے وائے مصیبت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہرام ہے تابوتِ حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبس ایک جنازہ ہے یہ دنیا میں حسن کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بار اٹھایا جو گیا ایک ہی گھر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے وائے مصیبت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہرام ہے تابوتِ حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل سینے میں ماجد نہ ٹہر پاے گا اس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھے کوی اس غم کو شہ دیں کی نظر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے وائے مصیبت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہرام ہے تابوتِ حسن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hassan (a.s)",
+  "subcategory": "امام حسن (ع)",
   "author": "Majid Raza Abdi",
   "anjumans": [],
   "verified": false

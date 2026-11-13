@@ -1,12 +1,237 @@
 {
   "remoteId": "g2611_u1065",
-  "title": "Chal pade shabbir",
+  "title": "چل پڑے شبیر",
   "body": "چل پڑے شبیر کربلا ہو گیا ویراں مدینہ\nروتی اکبر تجھکو صغرا رہ گیء تنہا مدینہ\n<<DIVIDER>>\nسر بھی دونگا گھر بھی دونگا بہنوں کی چادر بھی دونگا\nدیں بچانے کیلئے نوجواں اکبر بھی دونگا\nاب نہ زندہ لوٹ کر میں آؤں گا نانا مدینہ\nچل پڑے شبیر کربلا۔۔۔\n<<DIVIDER>>\nبہنیں لے کر حرم لے کر کربلا کو جا رہا ہوں\nایک غم ہے میرے دل میں جسکو لے کر جا رہا ہوں\nنانا امت نے نہیں دی قبر کی بھی جا مدینہ\nچل پڑے شبیر کربلا۔۔۔\n<<DIVIDER>>\nرو رہا ہے ایک صحرا دے رہا ہے وہ صداییں\nخوں خدارا دے کے اپنا مولا مجھکو آ بساییں\nبن جاؤں گا میں مقدس جس طرح مکہ مدینہ\nچل پڑے شبیر کربلا۔۔۔\n<<DIVIDER>>\nصبح عاشور جو گونجی بن میں اکبر کی اذاں\nبہنیں روی پھپھیاں روی روتی ہے اکبر کی ماں\nسن کے روی بہن بچھڑی بھای کی اذاں مدینہ\nچل پڑے شبیر کربلا۔۔۔\n<<DIVIDER>>\nجب چلا تھا قافلہ یہ اونٹوں کی تھی سو خطاریں\nآج شاہد بی بیوں کی کوی سنتا نہ پکاریں\nتین محمل اک مہاری قافلہ لوٹا مدینہ\nچل پڑے شبیر کربلا۔۔۔",
+  "styling": [
+    {
+      "insert": "چل پڑے شبیر کربلا ہو گیا ویراں مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی اکبر تجھکو صغرا رہ گیء تنہا مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر بھی دونگا گھر بھی دونگا بہنوں کی چادر بھی دونگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیں بچانے کیلئے نوجواں اکبر بھی دونگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہ زندہ لوٹ کر میں آؤں گا نانا مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل پڑے شبیر کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہنیں لے کر حرم لے کر کربلا کو جا رہا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک غم ہے میرے دل میں جسکو لے کر جا رہا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا امت نے نہیں دی قبر کی بھی جا مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل پڑے شبیر کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو رہا ہے ایک صحرا دے رہا ہے وہ صداییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں خدارا دے کے اپنا مولا مجھکو آ بساییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن جاؤں گا میں مقدس جس طرح مکہ مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل پڑے شبیر کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصبح عاشور جو گونجی بن میں اکبر کی اذاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہنیں روی پھپھیاں روی روتی ہے اکبر کی ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کے روی بہن بچھڑی بھای کی اذاں مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل پڑے شبیر کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب چلا تھا قافلہ یہ اونٹوں کی تھی سو خطاریں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج شاہد بی بیوں کی کوی سنتا نہ پکاریں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تین محمل اک مہاری قافلہ لوٹا مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل پڑے شبیر کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Safar e Imam Hussain",
+  "subcategory": "سفر امام حسین (ع)",
   "author": "Malik Shahid",
   "anjumans": [],
   "verified": false

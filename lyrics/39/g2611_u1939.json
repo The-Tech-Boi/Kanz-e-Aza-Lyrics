@@ -1,12 +1,532 @@
 {
   "remoteId": "g2611_u1939",
-  "title": "Kaun hai jo imdad",
+  "title": "کون ہے جو امداد",
   "body": "کون ہے جو امداد کو آے\nثانیء زہرا کس کو بلاے\n<<DIVIDER>>\nغش میں پڑے سجاد مضطر\nجلتے ہیں خیمے چھنتی ہے چادر\nکون بھلا اب آ کے بجائے\nثانیء زہرا کس کو بلاے\nکون ہے جو امداد۔۔۔\n<<DIVIDER>>\nقلب کی راحت آنکھوں کے تارے\nعون و محمد رن کو سدھارے\nبیکس کی دنیا لٹ گیء ہاے\nثانیء زہرا کس کو بلاے\nکون ہے جو امداد۔۔۔\n<<DIVIDER>>\nچاروں طرف اغیار کی محفل\nسخت گھڑی دشوار ہے منزل\nدیس پرایا لوگ پراے\nثانیء زہرا کس کو بلاے\nکون ہے جو امداد۔۔۔\n<<DIVIDER>>\nاے میرے اصغر ہسلیوں والے\nکیسے پھپھی اب دل کو سنبھالے\nڈھل گیء شام اور تم بھی نہ آے\nثانیء زہرا کس کو بلاے\nکون ہے جو امداد۔۔۔\n<<DIVIDER>>\nزینب مضطر شام غریباں\nخاک پہ بیٹھی بال پریشاں\nغم کی ہے دھوپ اور درد کے ساے\nثانیء زہرا کس کو بلاے\nکون ہے جو امداد۔۔۔\n<<DIVIDER>>\nایک رسن میں بارہ گلے ہیں\nچھوٹے بڑے سب قیدی بنے ہیں\nکون انہیں آفت سے چھڑاے\nثانیء زہرا کس کو بلاے\nکون ہے جو امداد۔۔۔\n<<DIVIDER>>\nآ کے وطن سے دور سفر میں\nسب کچھ لٹا ہے ایک دو پہر میں\nدشمن پہ بھی یہ وقت نہ آئے\nثانیء زہرا کس کو بلاے\nکون ہے جو امداد۔۔۔\n<<DIVIDER>>\nکیسے ہو اب پردے کی حفاظت\nجس کے بھروسے لی تھی ضمانت\nنہر پہ اس نے شانے کٹاے\nثانیء زہرا کس کو بلاے\nکون ہے جو امداد۔۔۔\n<<DIVIDER>>\nعون و محمد قاسم مضطر\nسوے ہوئے ہے عباس و اکبر\nاب تو ہمیں جو چاہے ستاے\nثانیء زہرا کس کو بلاے\nکون ہے جو امداد۔۔۔\n<<DIVIDER>>\nجب ہو میسر موسم‌ عزا کا\nدرد میں ڈوبا زینب کا نوحہ\nلکھے بلال اور عامر سناے\nثانیء زہرا کس کو بلاے\nکون ہے جو امداد۔۔۔",
+  "styling": [
+    {
+      "insert": "کون ہے جو امداد کو آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء زہرا کس کو بلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغش میں پڑے سجاد مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے ہیں خیمے چھنتی ہے چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون بھلا اب آ کے بجائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء زہرا کس کو بلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون ہے جو امداد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقلب کی راحت آنکھوں کے تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عون و محمد رن کو سدھارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکس کی دنیا لٹ گیء ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء زہرا کس کو بلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون ہے جو امداد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاروں طرف اغیار کی محفل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سخت گھڑی دشوار ہے منزل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیس پرایا لوگ پراے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء زہرا کس کو بلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون ہے جو امداد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے میرے اصغر ہسلیوں والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے پھپھی اب دل کو سنبھالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھل گیء شام اور تم بھی نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء زہرا کس کو بلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون ہے جو امداد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب مضطر شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پہ بیٹھی بال پریشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم کی ہے دھوپ اور درد کے ساے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء زہرا کس کو بلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون ہے جو امداد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک رسن میں بارہ گلے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوٹے بڑے سب قیدی بنے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون انہیں آفت سے چھڑاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء زہرا کس کو بلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون ہے جو امداد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآ کے وطن سے دور سفر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کچھ لٹا ہے ایک دو پہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشمن پہ بھی یہ وقت نہ آئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء زہرا کس کو بلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون ہے جو امداد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے ہو اب پردے کی حفاظت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے بھروسے لی تھی ضمانت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہر پہ اس نے شانے کٹاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء زہرا کس کو بلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون ہے جو امداد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعون و محمد قاسم مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوے ہوئے ہے عباس و اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو ہمیں جو چاہے ستاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء زہرا کس کو بلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون ہے جو امداد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب ہو میسر موسم‌ عزا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد میں ڈوبا زینب کا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھے بلال اور عامر سناے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء زہرا کس کو بلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون ہے جو امداد۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Bilal Kazmi",
   "anjumans": [],
   "verified": false

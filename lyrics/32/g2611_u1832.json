@@ -1,12 +1,432 @@
 {
   "remoteId": "g2611_u1832",
-  "title": "Kafan mujhko pinha",
+  "title": "کفن مجھکو پہنادو",
   "body": "دی تھی اماں نے جو پوشاک وہ لا دو زینب\nاپنے ہاتھوں سے کفن مجھکو پہنادو زینب\n<<DIVIDER>>\nآج مقتل میں فقط بات تمہاری ہوگی\nابھی اماں سے ملاقات ہماری ہو گی\nکوئی پیغام اگر ہے تو سنا دو زینب\nاپنے ہاتھوں سے کفن۔۔۔\nدی تھی اماں نے جو پوشاک۔۔۔\n<<DIVIDER>>\nہاتھ پابند رسن بہنا تمہارے ہونگے\nمجھکو رہ رہ کے خیال آتا ہے لاشے سے میرے\nتیر کس طرح نکا لوگی بتادو زینب\nاپنے ہاتھوں سے کفن۔۔۔\nدی تھی اماں نے جو پوشاک۔۔۔\n<<DIVIDER>>\nمیرے لاشے کی رہے گی تمہیں پہچان بہن\nچاک کردو میرے کرتے کا گریبان‌ بہنا\nکوئی لوٹے نہ اسے ایسا بنادو زینب\nاپنے ہاتھوں سے کفن۔۔۔\nدی تھی اماں نے جو پوشاک۔۔۔\n<<DIVIDER>>\nسامنے اپنے سکینہ سے اتروا لو گوہر\nابھی کچھ دیر میں لٹ جاے گا مظلوم کا گھر\nیہ امانت کسی گوشے میں چھپا دو زینب\nاپنے ہاتھوں سے کفن۔۔۔\nدی تھی اماں نے جو پوشاک۔۔۔\n<<DIVIDER>>\nباہر آنے کو نہ خیمے سے میں کہتا تم کو\nہوتے عباس تو تکلیف نہ دیتا تم کو\nبن کے عباس مجھے زیں پہ بٹھا دو زینب\nاپنے ہاتھوں سے کفن۔۔۔\nدی تھی اماں نے جو پوشاک۔۔۔\n<<DIVIDER>>\nقید خانے کی سنبھالو یہ امانت بی بی\nگود میں لو اسے مظلوم ہو رخصت بی بی\nمیرا دامن میری بچی سے چھڑا دو زینب\nاپنے ہاتھوں سے کفن۔۔۔\nدی تھی اماں نے جو پوشاک۔۔۔\n<<DIVIDER>>\nجب سے اکبر گےء بینائی بھی آنکھوں کی گیء\nلا کے دیدو علی اصغر کی نشانی کوئی\nکرتہ بے شیر کا آنکھوں سے لگا دو زینب\nاپنے ہاتھوں سے کفن۔۔۔\nدی تھی اماں نے جو پوشاک۔۔۔\n<<DIVIDER>>\nگھر سے شبیر جنازے کی طرح سے نکلے\nسبھی روتے تھے تکلم در خیمہ پہ کھڑے\nشہ نے جس دم کہا مرنے کی رضا دو زینب\nاپنے ہاتھوں سے کفن۔۔۔\nدی تھی اماں نے جو پوشاک۔۔۔",
+  "styling": [
+    {
+      "insert": "دی تھی اماں نے جو پوشاک وہ لا دو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے ہاتھوں سے کفن مجھکو پہنادو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآج مقتل میں فقط بات تمہاری ہوگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی اماں سے ملاقات ہماری ہو گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی پیغام اگر ہے تو سنا دو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے ہاتھوں سے کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دی تھی اماں نے جو پوشاک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھ پابند رسن بہنا تمہارے ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو رہ رہ کے خیال آتا ہے لاشے سے میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیر کس طرح نکا لوگی بتادو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے ہاتھوں سے کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دی تھی اماں نے جو پوشاک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے لاشے کی رہے گی تمہیں پہچان بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاک کردو میرے کرتے کا گریبان‌ بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی لوٹے نہ اسے ایسا بنادو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے ہاتھوں سے کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دی تھی اماں نے جو پوشاک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسامنے اپنے سکینہ سے اتروا لو گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی کچھ دیر میں لٹ جاے گا مظلوم کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ امانت کسی گوشے میں چھپا دو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے ہاتھوں سے کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دی تھی اماں نے جو پوشاک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباہر آنے کو نہ خیمے سے میں کہتا تم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتے عباس تو تکلیف نہ دیتا تم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن کے عباس مجھے زیں پہ بٹھا دو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے ہاتھوں سے کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دی تھی اماں نے جو پوشاک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقید خانے کی سنبھالو یہ امانت بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گود میں لو اسے مظلوم ہو رخصت بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا دامن میری بچی سے چھڑا دو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے ہاتھوں سے کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دی تھی اماں نے جو پوشاک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے اکبر گےء بینائی بھی آنکھوں کی گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لا کے دیدو علی اصغر کی نشانی کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتہ بے شیر کا آنکھوں سے لگا دو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے ہاتھوں سے کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دی تھی اماں نے جو پوشاک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر سے شبیر جنازے کی طرح سے نکلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سبھی روتے تھے تکلم در خیمہ پہ کھڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ نے جس دم کہا مرنے کی رضا دو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے ہاتھوں سے کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دی تھی اماں نے جو پوشاک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

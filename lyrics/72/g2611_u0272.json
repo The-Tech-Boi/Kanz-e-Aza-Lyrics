@@ -1,12 +1,586 @@
 {
   "remoteId": "g2611_u0272",
-  "title": "Abbas tumhe bali",
+  "title": "عباس تمہیں بالی",
   "body": "تو شیر جری ہے سخیوں کا سقی ہے\nیا باب حوایج میری فریاد کو سن لے\n<<DIVIDER>>\nامداد کرو میری اب وقت کرم ہے\nعباس تمہیں بالی سکینہ کی قسم ہے\n<<DIVIDER>>\nآیا ہوں تیرے در پہ بڑی آس ہے مولا\nہر ٹوٹے ہوے دل کا تو احساس ہے مولا\nتو ایک سمندر ہے مجھے پیاس ہے مولا\nزخموں کی دوا صرف تیرے پاس ہے مولا\nامداد کرو میری۔۔۔\nعباس تمہیں بالی۔۔۔\n<<DIVIDER>>\nبے دست سقی اپنی سخاوت تو دکھا دے\nمرتے ہوے لوگوں کی حیات اور بڑھا دے\nتو چاہے تو مٹی کو بھی اکسیر بنا دے\nبیمار کو عباس علمدار شفا دے\nامداد کرو میری۔۔۔\nعباس تمہیں بالی۔۔۔\n<<DIVIDER>>\nملتی ہے تیرے در سے گنہگار کو عزت\nبٹتی ہے زمانے میں تیرے ہاتھ سے دولت\nاولاد شفا رزق ہنر لطف و سماعت\nایثار وفا عشقِ خدا تیری اطاعت\nامداد کرو میری۔۔۔\nعباس تمہیں بالی۔۔۔\n<<DIVIDER>>\nتو باب حوایج ہے سقی ابنِ سقی ہے\nاللّٰہ کے نزدیک تیری بات بڑی ہے\nجن ماؤں کی گودی ابھی ویران پڑی ہے\nاولاد انہیں دیدے دعا ان کی یہی ہے\nامداد کرو میری۔۔۔\nعباس تمہیں بالی۔۔۔\n<<DIVIDER>>\nحالات نے اے مولا مجھے توڑ دیا ہے\nعالم و مصایب سے مجھے جوڑ دیا ہے\nطوفانوں کا رخ میری طرف موڑ دیا ہے\nاپنوں نے بھی اب ساتھ میرا چھوڑ دیا ہے\nامداد کرو میری۔۔۔\nعباس تمہیں بالی۔۔۔\n<<DIVIDER>>\nہر ایک سے یہ بات تو کرتا نہیں کوئی\nجز تیرے کہاں جا کے وہ پھیلاییں گے جھولی\nماں باپ کے سینوں پہ یہی بوجھ ہے بھاری\nبیٹی کے نصیبوں کو جگہ دو میرے غازی\nامداد کرو میری۔۔۔\nعباس تمہیں بالی۔۔۔\n<<DIVIDER>>\nبے جرم عزادار جو ہے قید میں مولا\nزنداں میں بچھاتے ہیں مگر فرش عزا کا\nمل جاے انہیں سید سجاد کا صدقہ\nدے ان کو رہائی کی خبر وارث زہرا\nامداد کرو میری۔۔۔\nعباس تمہیں بالی۔۔۔\n<<DIVIDER>>\nیہ کہکے نگاہوں کو تیرے در پہ جھکایا\nبس سر پہ سلامت رہے ماں باپ کا سایہ\nدے علم و ہنر بچوں کو صیحت بھی خدارا\nکب ہم نے کسی غیر کو مشکل میں پکارا\nامداد کرو میری۔۔۔\nعباس تمہیں بالی۔۔۔\n<<DIVIDER>>\nآیا ہوں تیرے در پہ یہ امید لگا کر\nپہنا ہے تیرے نام کا تعویذ بنا کر\nدل کہتا ہے سرکار سے بس اتنی دعا کر\nمظہر کو بھی فرحان سی اولاد عطا کر\nامداد کرو میری۔۔۔\nعباس تمہیں بالی۔۔۔",
+  "styling": [
+    {
+      "insert": "تو شیر جری ہے سخیوں کا سقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا باب حوایج میری فریاد کو سن لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامداد کرو میری اب وقت کرم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تمہیں بالی سکینہ کی قسم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآیا ہوں تیرے در پہ بڑی آس ہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ٹوٹے ہوے دل کا تو احساس ہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو ایک سمندر ہے مجھے پیاس ہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخموں کی دوا صرف تیرے پاس ہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امداد کرو میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تمہیں بالی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے دست سقی اپنی سخاوت تو دکھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرتے ہوے لوگوں کی حیات اور بڑھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو چاہے تو مٹی کو بھی اکسیر بنا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار کو عباس علمدار شفا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امداد کرو میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تمہیں بالی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nملتی ہے تیرے در سے گنہگار کو عزت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بٹتی ہے زمانے میں تیرے ہاتھ سے دولت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اولاد شفا رزق ہنر لطف و سماعت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایثار وفا عشقِ خدا تیری اطاعت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امداد کرو میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تمہیں بالی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو باب حوایج ہے سقی ابنِ سقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللّٰہ کے نزدیک تیری بات بڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جن ماؤں کی گودی ابھی ویران پڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اولاد انہیں دیدے دعا ان کی یہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امداد کرو میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تمہیں بالی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحالات نے اے مولا مجھے توڑ دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عالم و مصایب سے مجھے جوڑ دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طوفانوں کا رخ میری طرف موڑ دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنوں نے بھی اب ساتھ میرا چھوڑ دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امداد کرو میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تمہیں بالی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر ایک سے یہ بات تو کرتا نہیں کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جز تیرے کہاں جا کے وہ پھیلاییں گے جھولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں باپ کے سینوں پہ یہی بوجھ ہے بھاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی کے نصیبوں کو جگہ دو میرے غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امداد کرو میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تمہیں بالی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے جرم عزادار جو ہے قید میں مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں بچھاتے ہیں مگر فرش عزا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل جاے انہیں سید سجاد کا صدقہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے ان کو رہائی کی خبر وارث زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امداد کرو میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تمہیں بالی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کہکے نگاہوں کو تیرے در پہ جھکایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس سر پہ سلامت رہے ماں باپ کا سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے علم و ہنر بچوں کو صیحت بھی خدارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب ہم نے کسی غیر کو مشکل میں پکارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امداد کرو میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تمہیں بالی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآیا ہوں تیرے در پہ یہ امید لگا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہنا ہے تیرے نام کا تعویذ بنا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کہتا ہے سرکار سے بس اتنی دعا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظہر کو بھی فرحان سی اولاد عطا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امداد کرو میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تمہیں بالی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,483 @@
 {
   "remoteId": "g2611_u2248",
-  "title": "Maine ay sughra",
+  "title": "میں نے اے صغرا",
   "body": "میں نے اے صغرا اندھیروں سے رفاقت کرلی\nقید زنداں میں سکینہ یہ صدا دیتی تھی\n<<DIVIDER>>\nجب سے بابا کا بہن سینہ ہوا مجھ سے جدا\nمر گیء سینے میں امید میرے جینے کی\nمیں نے اے صغرا۔۔۔\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nنیلے رخسار تیرے ہوتے بہن میری طرح\nیہ تو اچھا ہی ہوا تم نہ یہاں پر آی\nمیں نے اے صغرا۔۔۔\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nمیری آواز بھی ہے میری طرح قید میں اب\nبس اسی طرح سے اب قید میں مر جاؤں گی\nمیں نے اے صغرا۔۔۔\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nنیند جب آتی نہیں قید ستم میں خواہر\nلوریاں یاد بہت آتی ہیں مجھکو ماں کی\nمیں نے اے صغرا۔۔۔\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nگرچہ خالق کی ہر ایک شہ ہے مجھے یاد مگر\nروشنی چیز ہے کیا اب تو یہاں بھول گیء\nمیں نے اے صغرا۔۔۔\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nتم کو میں دکھڑا سناؤں گی گلے سے لگا کر\nقید سے جلد رہائی کی ہو صورت سب کی\nمیں نے اے صغرا۔۔۔\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nاب تو زندان کی تاریکی کا ہے ساتھ میرا\nروشنی یاد نہیں اب مجھے مدینے کی\nمیں نے اے صغرا۔۔۔\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nاب میسر ہے مجھے خاک کا تکیہ بستر\nچین کی نیند مدینے میں مجھے آتی تھی\nمیں نے اے صغرا۔۔۔\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nاپنے ہی قدموں کی آہٹ سے سہم جاتی ہوں\nاس قدر ہے در و دیوار سے وحشت طاری\nمیں نے اے صغرا۔۔۔\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nدن بھی رہتا ہے یہاں چادر ظلمت اوڑھے\nکیا بیاں شب کے اندھیرے کا کرے یاں کوئی\nمیں نے اے صغرا۔۔۔\nقید زنداں میں۔۔۔\n<<DIVIDER>>\nخشک لب یاد سکینہ کے مجھے آے نجف\nقلب دو پارہ ہوا آگیء آنکھوں میں نمی\nمیں نے اے صغرا۔۔۔\nقید زنداں میں۔۔۔",
+  "styling": [
+    {
+      "insert": "میں نے اے صغرا اندھیروں سے رفاقت کرلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں سکینہ یہ صدا دیتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے بابا کا بہن سینہ ہوا مجھ سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیء سینے میں امید میرے جینے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے اے صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیلے رخسار تیرے ہوتے بہن میری طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو اچھا ہی ہوا تم نہ یہاں پر آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے اے صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری آواز بھی ہے میری طرح قید میں اب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس اسی طرح سے اب قید میں مر جاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے اے صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیند جب آتی نہیں قید ستم میں خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوریاں یاد بہت آتی ہیں مجھکو ماں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے اے صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگرچہ خالق کی ہر ایک شہ ہے مجھے یاد مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روشنی چیز ہے کیا اب تو یہاں بھول گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے اے صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم کو میں دکھڑا سناؤں گی گلے سے لگا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید سے جلد رہائی کی ہو صورت سب کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے اے صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب تو زندان کی تاریکی کا ہے ساتھ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روشنی یاد نہیں اب مجھے مدینے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے اے صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب میسر ہے مجھے خاک کا تکیہ بستر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چین کی نیند مدینے میں مجھے آتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے اے صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے ہی قدموں کی آہٹ سے سہم جاتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس قدر ہے در و دیوار سے وحشت طاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے اے صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدن بھی رہتا ہے یہاں چادر ظلمت اوڑھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بیاں شب کے اندھیرے کا کرے یاں کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے اے صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخشک لب یاد سکینہ کے مجھے آے نجف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلب دو پارہ ہوا آگیء آنکھوں میں نمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے اے صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید زنداں میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Najaf Murshidabadi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,405 @@
 {
   "remoteId": "g2611_u3591",
-  "title": "Zakhmi hyder",
+  "title": "زخمی حیدر",
   "body": "مسجد میں ہوے زخمی حیدر\nزینب پہ قیامت ٹوٹی ہے\n<<DIVIDER>>\nیہ فجر علی کی بیٹی کو\nعاشور کے جیسی لگتی ہے\n<<DIVIDER>>\nنزدیک جو پہنچے گھر کے علی\nبولے یہ حسن سے اے بیٹا\nاصحاب یہ کہہ دو گھر جاے\nدروازے پہ زینب بیٹھی ہے\nمسجد میں ہوے۔۔۔\n<<DIVIDER>>\nزینب نے زخمی بابا کے\nچہرے سے لہو جو صاف کیا\nمرقد سے صدا دی زہرا نے\nیہ کربل کی تیاری ہے\nمسجد میں ہوے۔۔۔\n<<DIVIDER>>\nدو سال کے ہیں سجاد مگر\nبند آنکھیں کی ہے غیرت سے\nناموس محمد کی جو ردا\nگرتی ہوئی سر سے دیکھی ہے\nمسجد میں ہوے۔۔۔\n<<DIVIDER>>\nایک بار شہادت بابا کی\nایک بار شہادت شوہر کی\nافسوس کے شہر کوفہ میں\nدو بار رقیہ اجڑی ہے\nمسجد میں ہوے۔۔۔\n<<DIVIDER>>\nوہ جس نے اپنے قاتل کو\nشربت سے نوازا کوفے میں\nاولاد اسی کی امت نے\nصحرا میں پیاسی ماری ہے\nمسجد میں ہوے۔۔۔\n<<DIVIDER>>\nآہستہ علی نے دی یہ صدا\nگھبرانا نہیں میں بھی ہونگا\nبازار میں جانا ہے تم کو\nزینب یہ خدا کی مرضی ہے\nمسجد میں ہوے۔۔۔\n<<DIVIDER>>\nاے میر تکلم شور اٹھا\nاب دونوں ملیں گے کربوبلا\nانا لللہ پڑھ لو زینب\nبابا کی سواری جاتی ہے\nمسجد میں ہوے۔۔۔",
+  "styling": [
+    {
+      "insert": "مسجد میں ہوے زخمی حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پہ قیامت ٹوٹی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ فجر علی کی بیٹی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کے جیسی لگتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنزدیک جو پہنچے گھر کے علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے یہ حسن سے اے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصحاب یہ کہہ دو گھر جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دروازے پہ زینب بیٹھی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے زخمی بابا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرے سے لہو جو صاف کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرقد سے صدا دی زہرا نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کربل کی تیاری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدو سال کے ہیں سجاد مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بند آنکھیں کی ہے غیرت سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناموس محمد کی جو ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرتی ہوئی سر سے دیکھی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک بار شہادت بابا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بار شہادت شوہر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افسوس کے شہر کوفہ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بار رقیہ اجڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ جس نے اپنے قاتل کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شربت سے نوازا کوفے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اولاد اسی کی امت نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحرا میں پیاسی ماری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآہستہ علی نے دی یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھبرانا نہیں میں بھی ہونگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں جانا ہے تم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب یہ خدا کی مرضی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے میر تکلم شور اٹھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب دونوں ملیں گے کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انا لللہ پڑھ لو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کی سواری جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد میں ہوے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

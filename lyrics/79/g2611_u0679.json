@@ -1,12 +1,441 @@
 {
   "remoteId": "g2611_u0679",
-  "title": "Ay mere bhai raza",
+  "title": "اے میرے بھای رضا",
   "body": "اے غریب الغربا اے میرے بھای رضا\nروکے معصومہء قم قم سے دیتی ہے صدا\nاے میرے بھای رضا\n<<DIVIDER>>\nتیرے دیدار نہیں بھای قسمت میں میری\nدے ہواؤں کو زرا حکم اے میرے علی\nسن لوں آواز تیری دل بہل جاے میرا\nاے میرے بھای رضا\nاے غریب الغربا۔۔۔\n<<DIVIDER>>\nدیکھنے آی ہوں میں قم سے صورت تیری\nاے غریب الغربا دیکھ غربت میری\nکوئی بتلاتا نہیں مجھکو مشہد کا پتہ\nاے میرے بھای رضا\nاے غریب الغربا۔۔۔\n<<DIVIDER>>\nمجھ پہ جو بیت گےء وہ الم کچھ بھی نہیں\nسامنے زینب کے میرے غم کچھ بھی نہیں\nمیں نہ بازار گیء نہ چھنی میری ردا\nاے میرے بھای رضا\nاے غریب الغربا۔۔۔\n<<DIVIDER>>\nجب سے پہنچی ہوں میں قم دل ہے قابو میں کہاں\nغم زدہ آے نظر شہر کے پیر و جواں\nدیکھ کر کالے الم دل دہلتا ہے میرا\nاے میرے بھای رضا\nاے غریب الغربا۔۔۔\n<<DIVIDER>>\nہوں یتیمہ لیکن وہ یتیمہ تو نہیں\nقیدی بابا کی قسم میں سکینہ تو نہیں\nجس کے گوہر بھی چھنے جس کا دامن بھی جلا\nاے میرے بھای رضا\nاے غریب الغربا۔۔۔\n<<DIVIDER>>\nکس جگہ خار چبھے کس جگہ تھک کے گری\nپوچھو چھالوں سے زرا کیسے میلوں میں چلی\nزخم پیروں کے تمہیں غم سناے نگے میرا\nاے میرے بھای رضا\nاے غریب الغربا۔۔۔\n<<DIVIDER>>\nساتھ جاے گا میرے یہ غم تنہائی\nتم بھی اکبر کی طرح نہیں لوٹے بھای\nروز صغرا کی طرح میں جلاتی ہوں دیا\nاے میرے بھای رضا\nاے غریب الغربا۔۔۔\n<<DIVIDER>>\nقم سے مشہد جو گیا زایر مولا رضا\nاے تکلم وہ یہی لے کے پیغمبر چلا\nراستہ تیری بہن اب بھی تکتی ہے تیرا\nاے میرے بھای رضا\nاے غریب الغربا۔۔۔",
+  "styling": [
+    {
+      "insert": "اے غریب الغربا اے میرے بھای رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے معصومہء قم قم سے دیتی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھای رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے دیدار نہیں بھای قسمت میں میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے ہواؤں کو زرا حکم اے میرے علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن لوں آواز تیری دل بہل جاے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھای رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الغربا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھنے آی ہوں میں قم سے صورت تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الغربا دیکھ غربت میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی بتلاتا نہیں مجھکو مشہد کا پتہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھای رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الغربا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ پہ جو بیت گےء وہ الم کچھ بھی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سامنے زینب کے میرے غم کچھ بھی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نہ بازار گیء نہ چھنی میری ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھای رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الغربا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے پہنچی ہوں میں قم دل ہے قابو میں کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم زدہ آے نظر شہر کے پیر و جواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر کالے الم دل دہلتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھای رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الغربا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوں یتیمہ لیکن وہ یتیمہ تو نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیدی بابا کی قسم میں سکینہ تو نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے گوہر بھی چھنے جس کا دامن بھی جلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھای رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الغربا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس جگہ خار چبھے کس جگہ تھک کے گری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوچھو چھالوں سے زرا کیسے میلوں میں چلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم پیروں کے تمہیں غم سناے نگے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھای رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الغربا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nساتھ جاے گا میرے یہ غم تنہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم بھی اکبر کی طرح نہیں لوٹے بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز صغرا کی طرح میں جلاتی ہوں دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھای رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الغربا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقم سے مشہد جو گیا زایر مولا رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے تکلم وہ یہی لے کے پیغمبر چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راستہ تیری بہن اب بھی تکتی ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھای رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غریب الغربا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Raza (a.s)",
+  "subcategory": "امام رضا (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

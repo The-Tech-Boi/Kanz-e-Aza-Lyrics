@@ -1,7 +1,595 @@
 {
   "remoteId": "g2611_u1940",
-  "title": "Kaun kaafir hai",
+  "title": "کون کافر ہے",
   "body": "کون کافر ہے کون مومن ہے\nوقت آنے پہ فیصلہ ہو گا\nبات کھل جائے گی قیامت میں\nجب عدالت کا سامنا ہو گا\n<<DIVIDER>>\nظل عاشیرہ سے حج آخر تک\nکس کو وارث کیا محمد نے\nکس نے تحریک کو بدل ڈالا\nیہ مورخ سے پوچھنا ہو گا\n---کون کافر ہے\n<<DIVIDER>>\nمسئلہ باغ کا نہیں ہرگز\nمسئلہ عدئیے حق کا ہے\nکس کی تکذیب کون کرتا ہے\nبس اسی پہ موباہیلا ہو گا\n---کون کافر ہے\n<<DIVIDER>>\nبادشاہت کو سب سے پہلی بار\nکس نے پہنائی دین کی پوشاک\nکب خلافت ملوکیت میں ڈھلی\nکم سے کم سب تو سوچنا ہو گا\n---کون کافر ہے\n<<DIVIDER>>\nخیر تو خیر شعر بھی اچھا ہے\nکون سمجھے یہ فاصلہ کیا ہے\nایک ہی ساتھ حق و باطل سے\nکیسے راضی بھلا خدا ہو گا\n---کون کافر ہے\n<<DIVIDER>>\nجس کی تخلیق کا سبب گریہ\nجس کے ورد زبان علی مولا\nاس کو نابود کر سکے گا کون\nجس کی تائید میں خدا ہو گا\n---کون کافر ہے\n<<DIVIDER>>\nقلب پر جن کے مہر لگ جائے\nپھر انہیں سائباں نصیب کہاں\nابن زہرہ کے رونے والوں پر\nحشر تک سائے کسا ہو گا\n---کون کافر ہے\n<<DIVIDER>>\nمجلس غم ہے فاطمہ بھی ہے\nماتم شاہ کربلا ہو گا\nاے عزاداروں اشک غم تیرہ\nنظر رومال سیدہ ہو گا\n---کون کافر ہے\n<<DIVIDER>>\nجب ثنا کھینچنے چلے ہون گے\nاکبر نوجوان کے سینے سے\nآستانے الٹ کے سرور نے\nکس طرح یاعلی کہا ہو گا\n---کون کافر ہے\n<<DIVIDER>>\nصرف مشک و علم لئے شبیر\nآئے ہوں گے فرات سے جس دم\nبنت شاہ زمن کے ہاتھوں سے\nخالی کوزہ بھی گر گیا ہو گیا\n---کون کافر ہے\n<<DIVIDER>>\nدل لرزتا ہے آنکھ روتی ہے\nتھرتھری سی بدن میں ہوتی ہے\nشاہ کا حال کیا ہوا گا\nتیر اصغر کو جب لگا ہو گا\n---کون کافر ہے\n<<DIVIDER>>\nانبیائ سانس روک کر شاہد\nتک رہیں ہے حسین کی صورت\nگرم ریتی پہ زیر خنجر اب\nسجدہ آخر ادا ہو گا\n---کون کافر ہے",
+  "styling": [
+    {
+      "insert": "کون کافر ہے کون مومن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقت آنے پہ فیصلہ ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بات کھل جائے گی قیامت میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب عدالت کا سامنا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظل عاشیرہ سے حج آخر تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو وارث کیا محمد نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس نے تحریک کو بدل ڈالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ مورخ سے پوچھنا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کون کافر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسئلہ باغ کا نہیں ہرگز"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسئلہ عدئیے حق کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کی تکذیب کون کرتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس اسی پہ موباہیلا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کون کافر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبادشاہت کو سب سے پہلی بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس نے پہنائی دین کی پوشاک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب خلافت ملوکیت میں ڈھلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کم سے کم سب تو سوچنا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کون کافر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیر تو خیر شعر بھی اچھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون سمجھے یہ فاصلہ کیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ہی ساتھ حق و باطل سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے راضی بھلا خدا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کون کافر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس کی تخلیق کا سبب گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے ورد زبان علی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کو نابود کر سکے گا کون"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کی تائید میں خدا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کون کافر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقلب پر جن کے مہر لگ جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر انہیں سائباں نصیب کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابن زہرہ کے رونے والوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حشر تک سائے کسا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کون کافر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجلس غم ہے فاطمہ بھی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم شاہ کربلا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے عزاداروں اشک غم تیرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نظر رومال سیدہ ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کون کافر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب ثنا کھینچنے چلے ہون گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نوجوان کے سینے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آستانے الٹ کے سرور نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح یاعلی کہا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کون کافر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصرف مشک و علم لئے شبیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئے ہوں گے فرات سے جس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنت شاہ زمن کے ہاتھوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خالی کوزہ بھی گر گیا ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کون کافر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل لرزتا ہے آنکھ روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھرتھری سی بدن میں ہوتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ کا حال کیا ہوا گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیر اصغر کو جب لگا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کون کافر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانبیائ سانس روک کر شاہد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تک رہیں ہے حسین کی صورت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرم ریتی پہ زیر خنجر اب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدہ آخر ادا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کون کافر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

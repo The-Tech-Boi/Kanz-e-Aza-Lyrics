@@ -1,12 +1,632 @@
 {
   "remoteId": "g2611_u2137",
-  "title": "Laut ke ghar aajao",
+  "title": "لوٹ کے گھر آجاؤ",
   "body": "لوٹ کے گھر آجاؤ بابا\nآج سکینہ ہو گیء تنہا\n<<DIVIDER>>\nبابا یہ ماحول ہے کیسا\nظلم کا ہے انداز نرالہ\nکاش چچا آ جاتا میرا\nآجاؤ بابا\nلوٹ کے گھر آجاؤ بابا۔۔۔\n<<DIVIDER>>\nآؤ مجھے گودی میں اٹھالو\nبابا مجھے سینے سے لگا لو\nخاک پہ ہے بے چین سکینہ\nآجاؤ بابا\nلوٹ کے گھر آجاؤ بابا۔۔۔\n<<DIVIDER>>\nجان بھی لے لے تشنہ دہانی\nاب نہیں مانگوں گی میں پانی\nعمو سے یہ کہہ کے خدارا\nآجاؤ بابا\nلوٹ کے گھر آجاؤ بابا۔۔۔\n<<DIVIDER>>\nبھای علی اکبر بھی خفا ہے\nمیرا چچا بھی روٹھ گیا ہے\nکون مجھے اب دے گا دلاسہ\nآجاؤ بابا\nلوٹ کے گھر آجاؤ بابا۔۔۔\n<<DIVIDER>>\nکیسے اپنا جی بہلاؤں\nاب تک یوں ہی اشک بہاؤں\nکس کو پکاروں کون ہے میرا\nآجاؤ بابا\nلوٹ کے گھر آجاؤ بابا۔۔۔\n<<DIVIDER>>\nپھیلا رہے ہے شام کے سائے\nچھانے لگے ہر سوں اندھیارے\nبابا دل گھبراتا ہے میرا\nآجاؤ بابا\nلوٹ کے گھر آجاؤ بابا۔۔۔\n<<DIVIDER>>\nاب یہ سکینہ سو نہیں سکتی\nغم میں مسلسل رو نہیں سکتی\nمیرا بستر آپ کا سینہ\nآجاؤ بابا\nلوٹ کے گھر آجاؤ بابا۔۔۔\n<<DIVIDER>>\nدیکھو میری گردن میں رسن ہے\nدروں سے سب زخمی بدن ہے\nچھن گےء گوہر گیا کرتہ\nآجاؤ بابا\nلوٹ کے گھر آجاؤ بابا۔۔۔\n<<DIVIDER>>\nظالم نے مارے ہے طمانچے\nکان ہے زخمی سویوں میں کیسے\nآؤ دیکھو حال ہمارا\nآجاؤ بابا\nلوٹ کے گھر آجاؤ بابا۔۔۔\n<<DIVIDER>>\nکہتی تھی رو رو کے سکینہ\nمشکل ہے اب میرا جینا\nاور نہ اب تڑپاو بابا\nآجاؤ بابا\nلوٹ کے گھر آجاؤ بابا۔۔۔\n<<DIVIDER>>\nآنے میں اب دیر نہ کرنا\nدیکھو کہنا مان لو میرا\nبابا مر جاۓ گی سکینہ\nآجاؤ بابا\nلوٹ کے گھر آجاؤ بابا۔۔۔\n<<DIVIDER>>\nبین رشید اس بی بی کے سن کر\nروتے تھے پیہم عابد مضطر\nتھا یہ مسلسل اس کا نوحہ\nآجاؤ بابا\nلوٹ کے گھر آجاؤ بابا۔۔۔",
+  "styling": [
+    {
+      "insert": "لوٹ کے گھر آجاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج سکینہ ہو گیء تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا یہ ماحول ہے کیسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم کا ہے انداز نرالہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاش چچا آ جاتا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے گھر آجاؤ بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآؤ مجھے گودی میں اٹھالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا مجھے سینے سے لگا لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پہ ہے بے چین سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے گھر آجاؤ بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجان بھی لے لے تشنہ دہانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہیں مانگوں گی میں پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمو سے یہ کہہ کے خدارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے گھر آجاؤ بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای علی اکبر بھی خفا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا چچا بھی روٹھ گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون مجھے اب دے گا دلاسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے گھر آجاؤ بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے اپنا جی بہلاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تک یوں ہی اشک بہاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو پکاروں کون ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے گھر آجاؤ بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھیلا رہے ہے شام کے سائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھانے لگے ہر سوں اندھیارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا دل گھبراتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے گھر آجاؤ بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب یہ سکینہ سو نہیں سکتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم میں مسلسل رو نہیں سکتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بستر آپ کا سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے گھر آجاؤ بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھو میری گردن میں رسن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دروں سے سب زخمی بدن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن گےء گوہر گیا کرتہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے گھر آجاؤ بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظالم نے مارے ہے طمانچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کان ہے زخمی سویوں میں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ دیکھو حال ہمارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے گھر آجاؤ بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی تھی رو رو کے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشکل ہے اب میرا جینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور نہ اب تڑپاو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے گھر آجاؤ بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنے میں اب دیر نہ کرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو کہنا مان لو میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا مر جاۓ گی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے گھر آجاؤ بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبین رشید اس بی بی کے سن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے تھے پیہم عابد مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا یہ مسلسل اس کا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے گھر آجاؤ بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Rasheed Shaheedi",
   "anjumans": [],
   "verified": false

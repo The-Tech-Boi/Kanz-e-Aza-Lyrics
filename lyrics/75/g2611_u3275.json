@@ -1,12 +1,536 @@
 {
   "remoteId": "g2611_u3275",
-  "title": "Utho sakina chale",
+  "title": "اٹھو سکینہ چلے",
   "body": "زنداں سے جب رہا ہوے سادات کربلا\nماں نے لپٹ کے قبر سکینہ پہ دی صدا\nاٹھو سکینہ چلے کربلا\n<<DIVIDER>>\nچھوٹی سی تربت پہ ماں نے کہا\nزنداں سے جاتا ہے اب قافلہ\n<<DIVIDER>>\nمجھے شاہزادی تمہاری قسم\nنہ رکھوں گی زنداں سے باہر قدم\nسفر کی اب ہوتی ہے تیاریاں\nعماری میں بیٹھے ہیں اہلِ حرم\nغربت کا میرے تمہیں واسطہ\nاٹھو سکینہ چلے۔۔۔\n<<DIVIDER>>\nوہ پہلے کے جیسی تو غربت نہیں\nاے بی بی ہماری وہ حالت نہیں\nتمہیں شامیوں سے اب اے میری جاں\nکفن مانگنے کی ضرورت نہیں\nلو مل گیء ہے تمہاری ردا\nاٹھو سکینہ چلے۔۔۔\n<<DIVIDER>>\nمجھے یاد اصغر کی ہے بیکسی\nلحد سے وہ میت نکالی گیء\nاکیلے میں رہنے نہ دونگی تمہیں\nبھروسہ نہیں شامیوں کا کوی\nرہتے ہیں چاروں طرف اشقیاء\nاٹھو سکینہ چلے۔۔۔\n<<DIVIDER>>\nیہ شامی کہاں تمکو بہلاییں گے\nتمہاری لحد پر نہیں آےنگے\nرہیں گے اندھیرا ہی زنداں میں\nحرم جب یہاں سے چلے جاییں گے\nکون آے گا پھر جلانے دیا\nاٹھو سکینہ چلے۔۔۔\n<<DIVIDER>>\nکہانی پدر کی سناؤنگی میں\nاگر نیند آی سلاؤں گی میں\nاکیلے نہ ناقے پہ بیٹھوگی تم\nتمہیں ساتھ اپنے بٹھاؤ گی تم\nاب تو رسن میں نہ ہوگا گلا\nاٹھو سکینہ چلے۔۔۔\n<<DIVIDER>>\nمجھے مار ڈالے گا بس یہی غم\nکمر میں ہے بیٹی تمہاری جو خم\nورم بازوؤں کا مجھے یاد ہے\nتمہیں تو دکھای بھی دیتا ہے کم\nاکبر سے بی بی ملے گی شفا\nاٹھو سکینہ چلے۔۔۔\n<<DIVIDER>>\nبڑی دیر ٹہری ہے دربار میں\nیہاں پر نہ روکو زیادہ انہیں\nکہ پہلو پہ اک ہاتھ رکھے ہوے\nصدا دے رہی ہے سکینہ تمہیں\nلینے کو آی ہے خود سیدہ\nاٹھو سکینہ چلے۔۔۔\n<<DIVIDER>>\nتھی زنداں میں اکبر عجب وہ گھڑی\nرہائی پہ روتی تھی ہر ایک پھپھی\nادھر خون روتا تھا عابد ادھر\nسکینہ لحد میں تڑپتی رہی\nجب بھی یہ مادر نے رو کر کہا\nاٹھو سکینہ چلے۔۔۔",
+  "styling": [
+    {
+      "insert": "زنداں سے جب رہا ہوے سادات کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نے لپٹ کے قبر سکینہ پہ دی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو سکینہ چلے کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھوٹی سی تربت پہ ماں نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں سے جاتا ہے اب قافلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھے شاہزادی تمہاری قسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ رکھوں گی زنداں سے باہر قدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر کی اب ہوتی ہے تیاریاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عماری میں بیٹھے ہیں اہلِ حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غربت کا میرے تمہیں واسطہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو سکینہ چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ پہلے کے جیسی تو غربت نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بی بی ہماری وہ حالت نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں شامیوں سے اب اے میری جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کفن مانگنے کی ضرورت نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو مل گیء ہے تمہاری ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو سکینہ چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھے یاد اصغر کی ہے بیکسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لحد سے وہ میت نکالی گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکیلے میں رہنے نہ دونگی تمہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھروسہ نہیں شامیوں کا کوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہتے ہیں چاروں طرف اشقیاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو سکینہ چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ شامی کہاں تمکو بہلاییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہاری لحد پر نہیں آےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہیں گے اندھیرا ہی زنداں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم جب یہاں سے چلے جاییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون آے گا پھر جلانے دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو سکینہ چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہانی پدر کی سناؤنگی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اگر نیند آی سلاؤں گی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکیلے نہ ناقے پہ بیٹھوگی تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں ساتھ اپنے بٹھاؤ گی تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو رسن میں نہ ہوگا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو سکینہ چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھے مار ڈالے گا بس یہی غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کمر میں ہے بیٹی تمہاری جو خم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ورم بازوؤں کا مجھے یاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں تو دکھای بھی دیتا ہے کم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر سے بی بی ملے گی شفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو سکینہ چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبڑی دیر ٹہری ہے دربار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہاں پر نہ روکو زیادہ انہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ پہلو پہ اک ہاتھ رکھے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدا دے رہی ہے سکینہ تمہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لینے کو آی ہے خود سیدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو سکینہ چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھی زنداں میں اکبر عجب وہ گھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہائی پہ روتی تھی ہر ایک پھپھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر خون روتا تھا عابد ادھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ لحد میں تڑپتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب بھی یہ مادر نے رو کر کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو سکینہ چلے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

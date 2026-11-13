@@ -1,12 +1,447 @@
 {
   "remoteId": "g2611_u2675",
-  "title": "Qaid khane se",
+  "title": "قید خانے سے",
   "body": "سمجھکے زہرا ستایا گیا سکینہ کو\nقدم قدم پہ رلایا گیا سکینہ کو\n<<DIVIDER>>\nوہ زخم آج بھی تازہ ہے پشت ناقہ سے\nہاے گری نہیں ہے گرایا گیا سکینہ کو\n<<DIVIDER>>\nقید خانے سے سکینہ کی یہ آتی تھی صدا\nپسلیاں ٹوٹ گئی میری بھی دادی کی طرح\n<<DIVIDER>>\nمجھکو چلتے ہوئے ناقے سے گرایا بابا\n…پسلیاں ٹوٹ گئی\nہو گیء چاربرس میں ہی سکینہ زہرا\n…پسلیاں ٹوٹ گئی\n<<DIVIDER>>\nوہ بھی دادا سے چھپاتی رہی اپنا پہلو\nمجھ سے بھی دیکھے نہ جائے نگے علی کے آنسوں\nجیتے جی میرے میرا زخم نہ دیکھے بھیا\n…پسلیاں ٹوٹ گئی\n<<DIVIDER>>\nکیسے آیء ہوں میں بازار سے ہو کر بابا\nمجھ کو مارے گئے اس زخم پہ پتھر بابا\nروکے میں کہتی رہی پھربھی کسی نے نہ سنا\n…پسلیاں ٹوٹ گئی\n<<DIVIDER>>\nاب سمجھ سکتی ہوں کس طرح سے سوتی ہونگی\nہاتھ پہلو پہ رکھے کیسے تڑپتی ہونگی\nکروٹیں درد مجھے بھی نہیں لینے دیتا\n…پسلیاں ٹوٹ گئی\n<<DIVIDER>>\nہو بہو فاطمہ زہرا سی ضعیفی چھایء\nجھریاں چہرے پہ بالوں پہ سفیدی آیء\nاک کمی آپکی تھی وہ بھی ہوئی پوری بابا\n…پسلیاں ٹوٹ گئی\n<<DIVIDER>>\nساتھ سورج کے یہ دل ڈوب رہا ہوتا ہے\nاماں کہتی ہے یہی وقت دعا ہوتا ہے\nروز کرتی ہوں سر شام یہ مرنے کی دعا\n…پسلیاں ٹوٹ گئی\n<<DIVIDER>>\nجاکے جنت میں بھی آرام نہیں آےگا\nکیا یہ ارمان میرے دل میں ہی رہ جائے گا\nکیسے گودی میں اٹھاونگی میں اصغر کو بھلا\n…پسلیاں ٹوٹ گئی\n<<DIVIDER>>\nآپ کاسر جلے دامن میں اٹھانے کے لئے\nہاتھ دربار میں مشکل سے اٹھائے میں نے\nتم کو اس وقت بھی میں نے نہ بتایا بابا\n…پسلیاں ٹوٹ گئی\n<<DIVIDER>>\nگر پڑی خاک پہ ناموسِ نبی پیٹ کے سر\nقید خانے میں ہوئی اور قیامت اکبر\nلے کے سر باپ کا بچی نے جو رو رو کے کہا\n…پسلیاں ٹوٹ گئی",
+  "styling": [
+    {
+      "insert": "سمجھکے زہرا ستایا گیا سکینہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدم قدم پہ رلایا گیا سکینہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ زخم آج بھی تازہ ہے پشت ناقہ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے گری نہیں ہے گرایا گیا سکینہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقید خانے سے سکینہ کی یہ آتی تھی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں ٹوٹ گئی میری بھی دادی کی طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھکو چلتے ہوئے ناقے سے گرایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…پسلیاں ٹوٹ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیء چاربرس میں ہی سکینہ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…پسلیاں ٹوٹ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ بھی دادا سے چھپاتی رہی اپنا پہلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ سے بھی دیکھے نہ جائے نگے علی کے آنسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیتے جی میرے میرا زخم نہ دیکھے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…پسلیاں ٹوٹ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے آیء ہوں میں بازار سے ہو کر بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو مارے گئے اس زخم پہ پتھر بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے میں کہتی رہی پھربھی کسی نے نہ سنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…پسلیاں ٹوٹ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب سمجھ سکتی ہوں کس طرح سے سوتی ہونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ پہلو پہ رکھے کیسے تڑپتی ہونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کروٹیں درد مجھے بھی نہیں لینے دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…پسلیاں ٹوٹ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہو بہو فاطمہ زہرا سی ضعیفی چھایء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھریاں چہرے پہ بالوں پہ سفیدی آیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک کمی آپکی تھی وہ بھی ہوئی پوری بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…پسلیاں ٹوٹ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nساتھ سورج کے یہ دل ڈوب رہا ہوتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں کہتی ہے یہی وقت دعا ہوتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز کرتی ہوں سر شام یہ مرنے کی دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…پسلیاں ٹوٹ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاکے جنت میں بھی آرام نہیں آےگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا یہ ارمان میرے دل میں ہی رہ جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے گودی میں اٹھاونگی میں اصغر کو بھلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…پسلیاں ٹوٹ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کاسر جلے دامن میں اٹھانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ دربار میں مشکل سے اٹھائے میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو اس وقت بھی میں نے نہ بتایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…پسلیاں ٹوٹ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگر پڑی خاک پہ ناموسِ نبی پیٹ کے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں ہوئی اور قیامت اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے کے سر باپ کا بچی نے جو رو رو کے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…پسلیاں ٹوٹ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

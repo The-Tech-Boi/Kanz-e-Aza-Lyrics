@@ -1,7 +1,472 @@
 {
   "remoteId": "g2611_u2522",
-  "title": "Na rakh ab chadar",
+  "title": "نہ رکھ اب چادر",
   "body": "نہ رکھ اب چادر بازوؤں پہ\nتو نیلے داغ چھپا نہیں\nزہرا کی جاں شرما نہیں\n<<DIVIDER>>\nتیرے نانا کا یہ روضہ ہے\nکوی کوفہ شام کی راہ نہیں\n<<DIVIDER>>\nجو چادر اجلی تھی تیری\nرنگ اس کا کیسے لال ہوا\nاب سر پہ تیرے اے شہزادی\nوہ کیوں موجود ردا نہیں\nزہرا کی جاں شرما نہیں\nنہ رکھ اب چادر۔۔۔\n<<DIVIDER>>\nاٹھارہ جو تیرے بھائی تھے\nکس بات پہ تجھ سے روٹھ گےء\nدو شہزادے کیوں ساتھ نہیں\nکیوں ساتھ عباس تیرا نہیں\nزہرا کی جاں شرما نہیں\nنہ رکھ اب چادر۔۔۔\n<<DIVIDER>>\nیہ کون جوان ہے ساتھ تیرے\nہیں کپڑے جس کے خوں سے بھرے\nکن زخموں سے یہ چور ہوا\nآنکھوں سے بھی خوں رکتا نہیں\nزہرا کی جاں شرما نہیں\nنہ رکھ اب چادر۔۔۔\n<<DIVIDER>>\nکس حال میں کربل سے آی\nاے زینب اپنے شہر میں تو\nاب اس سے سوا افسوس ہو کیا\nپہچان سکی صغرا نہیں\nزہرا کی جاں شرما نہیں\nنہ رکھ اب چادر۔۔۔\n<<DIVIDER>>\nوہ بچی جس کو سینے پہ\nشبیر سلایا کرتے تھے\nمیرے آنکھیں ڈھونڈ کے ہار گیء\nکہیں ملتا اس کا پتہ نہیں\nزہرا کی جاں شرما نہیں\nنہ رکھ اب چادر۔۔۔\n<<DIVIDER>>\nایک غنچہ دہن معصوم بھی تھا\nنام اس کا اصغر رکھا تھا\nکیوں خالی گود رباب کی ہے\nاسباب میں کیوں جھولا نہیں\nزہرا کی جاں شرما نہیں\nنہ رکھ اب چادر۔۔۔\n<<DIVIDER>>\nریحان کرو ہر دم ماتم\nتم نوحہ پڑھو ہر دم سرور\nیہ ایک عبادت ہے ایسی\nجو ہوتی کبھی بھی قضا نہیں\nزہرا کی جاں شرما نہیں\nنہ رکھ اب چادر۔۔۔",
+  "styling": [
+    {
+      "insert": "نہ رکھ اب چادر بازوؤں پہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو نیلے داغ چھپا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی جاں شرما نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے نانا کا یہ روضہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی کوفہ شام کی راہ نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو چادر اجلی تھی تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رنگ اس کا کیسے لال ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سر پہ تیرے اے شہزادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ کیوں موجود ردا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی جاں شرما نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ رکھ اب چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھارہ جو تیرے بھائی تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس بات پہ تجھ سے روٹھ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو شہزادے کیوں ساتھ نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں ساتھ عباس تیرا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی جاں شرما نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ رکھ اب چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کون جوان ہے ساتھ تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہیں کپڑے جس کے خوں سے بھرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کن زخموں سے یہ چور ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے بھی خوں رکتا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی جاں شرما نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ رکھ اب چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس حال میں کربل سے آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے زینب اپنے شہر میں تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب اس سے سوا افسوس ہو کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہچان سکی صغرا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی جاں شرما نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ رکھ اب چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ بچی جس کو سینے پہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر سلایا کرتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے آنکھیں ڈھونڈ کے ہار گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں ملتا اس کا پتہ نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی جاں شرما نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ رکھ اب چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک غنچہ دہن معصوم بھی تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام اس کا اصغر رکھا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں خالی گود رباب کی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسباب میں کیوں جھولا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی جاں شرما نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ رکھ اب چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان کرو ہر دم ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم نوحہ پڑھو ہر دم سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ایک عبادت ہے ایسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ہوتی کبھی بھی قضا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی جاں شرما نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ رکھ اب چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

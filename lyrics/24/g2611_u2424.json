@@ -1,7 +1,654 @@
 {
   "remoteId": "g2611_u2424",
-  "title": "Mere maula aane",
+  "title": "میرے مولا آنے",
   "body": "میرے مولا آنے والے ہے\n<<DIVIDER>>\nاگر حسین کے مقصد سے ہے وفاداری\nتو پھر امام کی نصرت ہے یہ عزاداری\nامام عصر کو گھر میں اگر بلانا ہے\nبس اتنا کرنا ہے فرش عزا بچھانا ہے\n<<DIVIDER>>\nگھر گھر میں بچھا دو فرش عزا\nمولا کو دینا ہے پرسہ\nکے بس مولا آنے والے ہے\nہاں میرے مولا آنے والے ہے\n<<DIVIDER>>\nصدیاں گزری ہے پھر بھی سفر\nوہ کربوبلا کا جاری ہے\nیہ رسم عزاداری ہے کیا\nیہ نصرت کی تیاری ہے\nناصر ہو نگے سب اہلِ عزا\nمیرے مولا آنے۔۔۔\n<<DIVIDER>>\nجاری ہے عزاداری شہ کی\nبچے ہیں لہو میں آج بھی تر\nاے ماؤں شہیدوں کی ماؤں\nقربان کیا ہے تم نے پسر\nمولا خود دینگے اس کا صلہ\nمیرے مولا آنے۔۔۔\n<<DIVIDER>>\nزہرا کا پسر اب آے گا\nآزاد کراے گا کعبہ\nآے گا وارث کربوبلا\nبدلہ وہ لے گا بقیہ کا\nہوگا تعمیر ہر اک روضہ\nمیرے مولا آنے۔۔۔\n<<DIVIDER>>\nاے ماؤں بہنوں شرم و حیاء\nاور عزت کا بھی دھیان رہے\nزہرا کی محنت کا ہو خیال\nاور زینب کا بھی مان رہے\nرکھنا ہے تمہیں قایم پردہ\nمیرے مولا آنے۔۔۔\n<<DIVIDER>>\nزہرا کا پسر کے خاطر اب\nگھر کیسے سجایا ہے تم نے\nماحول ہو مولا کے قابل\nخود انکو بلایا ہے تم نے\nدر کھول کے بیٹھو تقوے کا\nمیرے مولا آنے۔۔۔\n<<DIVIDER>>\nقاسم کے ٹکڑوں کا بدلہ\nہر شام کے پتھر کا بدلہ\nزہرا کی مصیبت کا بدلہ\nزینب کی چادر کا بدلہ\nجاؤ گے کہاں تم اہلِ جفا\nمیرے مولا آنے۔۔۔\n<<DIVIDER>>\nبن ہاتھ گرے جب گھوڑے سے\nکیسی یہ مصیبت تھی ہاے\nغازی کی ایک ہی خواہش ہے\nمولا کی زیارت ہو جاے\nاے موت دے مہلت مجھکو زرا\nمیرے مولا آنے۔۔۔\n<<DIVIDER>>\nمولا سب سے پہلے لیں گے\nمحسن کی شہادت کا بدلہ\nبچی کے طمانچوں کا بدلہ\nسجاد کی زحمت کا بدلہ\nیا ثاراللہ کا ہے نعرہ\nمیرے مولا آنے۔۔۔\n<<DIVIDER>>\nاے شادماں اور قمر اب ہم\nدشمن کے مقابل ڈٹ جاے\nٹکڑے ہو لاکھ دھماکوں سے\nکٹتے ہیں ہاتھ تو کٹ جاے\nتھامے رہے پرچم مولا کا\n<<DIVIDER>>\nگھر گھر میں بچھا دو فرش عزا\nمولا کو دینا ہے پرسہ\nمیرے مولا آنے۔۔۔",
+  "styling": [
+    {
+      "insert": "میرے مولا آنے والے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاگر حسین کے مقصد سے ہے وفاداری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو پھر امام کی نصرت ہے یہ عزاداری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امام عصر کو گھر میں اگر بلانا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس اتنا کرنا ہے فرش عزا بچھانا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر گھر میں بچھا دو فرش عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا کو دینا ہے پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کے بس مولا آنے والے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں میرے مولا آنے والے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصدیاں گزری ہے پھر بھی سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ کربوبلا کا جاری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ رسم عزاداری ہے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ نصرت کی تیاری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناصر ہو نگے سب اہلِ عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاری ہے عزاداری شہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچے ہیں لہو میں آج بھی تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ماؤں شہیدوں کی ماؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قربان کیا ہے تم نے پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا خود دینگے اس کا صلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزہرا کا پسر اب آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آزاد کراے گا کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے گا وارث کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بدلہ وہ لے گا بقیہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگا تعمیر ہر اک روضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے ماؤں بہنوں شرم و حیاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور عزت کا بھی دھیان رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی محنت کا ہو خیال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور زینب کا بھی مان رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھنا ہے تمہیں قایم پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزہرا کا پسر کے خاطر اب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کیسے سجایا ہے تم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماحول ہو مولا کے قابل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود انکو بلایا ہے تم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در کھول کے بیٹھو تقوے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاسم کے ٹکڑوں کا بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر شام کے پتھر کا بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی مصیبت کا بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی چادر کا بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاؤ گے کہاں تم اہلِ جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبن ہاتھ گرے جب گھوڑے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی یہ مصیبت تھی ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کی ایک ہی خواہش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا کی زیارت ہو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے موت دے مہلت مجھکو زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمولا سب سے پہلے لیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محسن کی شہادت کا بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچی کے طمانچوں کا بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کی زحمت کا بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا ثاراللہ کا ہے نعرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شادماں اور قمر اب ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشمن کے مقابل ڈٹ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑے ہو لاکھ دھماکوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کٹتے ہیں ہاتھ تو کٹ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھامے رہے پرچم مولا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر گھر میں بچھا دو فرش عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا کو دینا ہے پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے مولا آنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

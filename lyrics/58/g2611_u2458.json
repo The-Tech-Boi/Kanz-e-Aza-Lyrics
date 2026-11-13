@@ -1,12 +1,522 @@
 {
   "remoteId": "g2611_u2458",
-  "title": "Moharam ka chand",
+  "title": "محرم کا چاند",
   "body": "یہ ہے ہلالِ غم\nیہ غم کا چاند ہے\n<<DIVIDER>>\nاہلِ عزا یہ چاند محرم کا چاند ہے\n<<DIVIDER>>\nاہلِ عزا یہ چاند محرم کا چاند ہے\nنکلا غمِ حسین کے موسم کا چاند ہے\nیہ فاطمہ کے لال کے ماتم کا چاند ہے\nفرشِ عزا بچھاؤ بڑے غم کا چاند ہے\nاسِ چاند میں علی کا دلارا ہوا شہید\nاسِ چاند میں رسول کا پیارا ہوا شہید\nاہلِ عزا یہ چاند۔۔۔\n<<DIVIDER>>\nگھر میں سجاؤ پرچمِ عباس باوفا\nاور اسُ کے پاس لاکے رکھو شہ کا تعزیہ\nپڑھتے رہو حسین کی غربت کا مرثیہ\nتھا جسکا انتظار وہ دن پھر سے آگیا\nپرسے کو شاہزادئ کونین آینگی\nفرشِ عزا پہ مادرِ حسنین آینگی\nاہلِ عزا یہ چاند۔۔۔\n<<DIVIDER>>\nنکلا ہے جب یہ چاند سفر میں حسین تھے\nاصغر کو لیکے گود میں شبیر رو پڑے\nکہنے لگے یہ چاند مرے لال دیکھلے\nاسِ چاند میں نہ چھوڑنگے اہلِ جفا تجھے\nمارنگے ایسے تیر سے تجھکو یہ اہلِ شر\nحیوان بھی لرزتے ہیں جو تیر دیکھکر\nاہلِ عزا یہ چاند۔۔۔\n<<DIVIDER>>\nعباس کو گلے سے لگایا حسین نے\nقاسم کو اپنے پاس بٹھایا حسین نے\nاکبر کو بھی قریب بلایا حسین نے\nپھر غم کا چاند سب کو دکھایا حسین نے\nکہنے لگے قریب ہے اب عرضِ کربلا\nہر چاند کربلا میں میرا ڈوب جائیگا\nاہلِ عزا یہ چاند۔۔۔\n<<DIVIDER>>\nمونس نہ بچ سکا کوئ یاور نہ بچ سکا\nقاسم نہ بچ سکے علی اکبر نہ بچ سکا\nبتّیس سال والا برادر نہ بچ سکا\nحد ہو گئی کی ننّھا سا اصغر نہ بچ سکا\nاسِ چاند میں اجڑ گئ کھیتی رسول کی\nاس چاند میں لٹی ہے کمائ بتول کی\nاہلِ عزا یہ چاند۔۔۔\n<<DIVIDER>>\nکربوبلا کے بعد بھی پڑتی تھی جب نظر\nلیلىؑ تڑپ کے روتی تھی یہ چاند دیکھکر\nشدّت سے یاد آتا تھا کڑیل جواں پسر\nسینے کا زخم اور وہ فرزند کا جگر\nکہتی تھی میرا چاند تو مٹی میں مل گیا\nاے چاند بار بار میرے سامنے نہ\nاہلِ عزا یہ چاند۔۔۔\n<<DIVIDER>>\nواعظ حلالِ ماہِ محرم کو دیکھکر\nسینے میں کانپ جاتا ہے اکثر میرا جگر\nروتا ہے دل حسین کی غربت کو سوچ کر\nجاتی ہے میری فکر سکینہ کے درد پر\nاسِ چاند میں حسین کی پیاری ہوئ یتیم\nسینے پہ سونے والی دلاری ہوئ یتیم\nاہلِ عزا یہ چاند۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ ہے ہلالِ غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم کا چاند ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاہلِ عزا یہ چاند محرم کا چاند ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاہلِ عزا یہ چاند محرم کا چاند ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکلا غمِ حسین کے موسم کا چاند ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ فاطمہ کے لال کے ماتم کا چاند ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرشِ عزا بچھاؤ بڑے غم کا چاند ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسِ چاند میں علی کا دلارا ہوا شہید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسِ چاند میں رسول کا پیارا ہوا شہید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ عزا یہ چاند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر میں سجاؤ پرچمِ عباس باوفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اسُ کے پاس لاکے رکھو شہ کا تعزیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پڑھتے رہو حسین کی غربت کا مرثیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا جسکا انتظار وہ دن پھر سے آگیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسے کو شاہزادئ کونین آینگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرشِ عزا پہ مادرِ حسنین آینگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ عزا یہ چاند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنکلا ہے جب یہ چاند سفر میں حسین تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کو لیکے گود میں شبیر رو پڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنے لگے یہ چاند مرے لال دیکھلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسِ چاند میں نہ چھوڑنگے اہلِ جفا تجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارنگے ایسے تیر سے تجھکو یہ اہلِ شر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیوان بھی لرزتے ہیں جو تیر دیکھکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ عزا یہ چاند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس کو گلے سے لگایا حسین نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کو اپنے پاس بٹھایا حسین نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کو بھی قریب بلایا حسین نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر غم کا چاند سب کو دکھایا حسین نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنے لگے قریب ہے اب عرضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر چاند کربلا میں میرا ڈوب جائیگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ عزا یہ چاند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمونس نہ بچ سکا کوئ یاور نہ بچ سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم نہ بچ سکے علی اکبر نہ بچ سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتّیس سال والا برادر نہ بچ سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حد ہو گئی کی ننّھا سا اصغر نہ بچ سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسِ چاند میں اجڑ گئ کھیتی رسول کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس چاند میں لٹی ہے کمائ بتول کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ عزا یہ چاند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربوبلا کے بعد بھی پڑتی تھی جب نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلىؑ تڑپ کے روتی تھی یہ چاند دیکھکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شدّت سے یاد آتا تھا کڑیل جواں پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے کا زخم اور وہ فرزند کا جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی میرا چاند تو مٹی میں مل گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے چاند بار بار میرے سامنے نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ عزا یہ چاند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nواعظ حلالِ ماہِ محرم کو دیکھکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے میں کانپ جاتا ہے اکثر میرا جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتا ہے دل حسین کی غربت کو سوچ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتی ہے میری فکر سکینہ کے درد پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسِ چاند میں حسین کی پیاری ہوئ یتیم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے پہ سونے والی دلاری ہوئ یتیم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ عزا یہ چاند۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ibtedaye Ayyam e Aza",
+  "subcategory": "ابتدائے ایام عزا",
   "author": "Waiz Sultanpuri",
   "anjumans": [],
   "verified": false

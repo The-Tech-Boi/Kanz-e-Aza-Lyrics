@@ -1,7 +1,355 @@
 {
   "remoteId": "g2611_u3639",
-  "title": "Zinda rehan hai to",
+  "title": "زندہ رہنا ہے تو",
   "body": "مستقل خونِ شہادت سے نکھرنا ہوگا\nزندہ رہنا ہے تو شبیر پہ مرنا ہوگا\n<<DIVIDER>>\nآنکھ سے مہدیء دوراں کے لہو بہتا ہے\nانتقام شہ مظلوم ابھی رہتا ہے\nبدلہ لینا ہے تو میداں میں اترنا ہوگا\nزندہ رہنا ہے تو۔۔۔\n<<DIVIDER>>\nحالتِ جنگ میں ہے اہلِ عزا جاییں گے\nہم علی والے شہادت سے نہیں بھاگیں گے\nموت کے خوف سے ظالم کو ہی ڈرنا ہوگا\nزندہ رہنا ہے تو۔۔۔\n<<DIVIDER>>\nاحتجاج اپنا ہمیشہ ہے اصولوں کی طرح\nہم جنازوں کو اٹھا لیتے ہیں پھولوں کی طرح\nہر گلی اور ہر ایک شہر میں دھرنا ہوگا\nزندہ رہنا ہے تو۔۔۔\n<<DIVIDER>>\nراہ ہموار نہیں کرتے پلیدوں کے لئے\nہم سہارا نہیں بنتے ہیں یزیدوں کے لئے\nاک سمندر کی طرح ہم کو بپھرنا ہوگا\nزندہ رہنا ہے تو۔۔۔\n<<DIVIDER>>\nحوصلہ لینا ہے بچوں کو علی اصغر سے\nجوش ملتا ہے جوانوں کو علی اکبر سے\nڈوب کر خون کے دریا میں ابھرنا ہوگا\nزندہ رہنا ہے تو۔۔۔\n<<DIVIDER>>\nجوڑنا عالم اسلام ہے بیٹا تم نے\nشہ یہ کہتے ہیں کہ قاسم تیرے ٹکڑے ہونگے\nخاک پر جان میری تم کو بکھرنا ہوگا\nزندہ رہنا ہے تو۔۔۔\n<<DIVIDER>>\nجان سب دے چکے تو بات عجب شہ نے کہی\nجنگ ایسی کبھی دنیا نے نہ دیکھی ہوگی\nآج اصغر کو لیےء رن میں اترنا ہوگا\nزندہ رہنا ہے تو۔۔۔\n<<DIVIDER>>\nقبر بچی کی ہے زندان میں تیار قمر\nاور زنجیر میں عابد ہے گرفتار مگر\nلے کے میت اسی حالت میں اترنا ہوگا\nزندہ رہنا ہے تو۔۔۔",
+  "styling": [
+    {
+      "insert": "مستقل خونِ شہادت سے نکھرنا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ رہنا ہے تو شبیر پہ مرنا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھ سے مہدیء دوراں کے لہو بہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انتقام شہ مظلوم ابھی رہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بدلہ لینا ہے تو میداں میں اترنا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ رہنا ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحالتِ جنگ میں ہے اہلِ عزا جاییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم علی والے شہادت سے نہیں بھاگیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کے خوف سے ظالم کو ہی ڈرنا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ رہنا ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاحتجاج اپنا ہمیشہ ہے اصولوں کی طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم جنازوں کو اٹھا لیتے ہیں پھولوں کی طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گلی اور ہر ایک شہر میں دھرنا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ رہنا ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراہ ہموار نہیں کرتے پلیدوں کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سہارا نہیں بنتے ہیں یزیدوں کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک سمندر کی طرح ہم کو بپھرنا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ رہنا ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحوصلہ لینا ہے بچوں کو علی اصغر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوش ملتا ہے جوانوں کو علی اکبر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈوب کر خون کے دریا میں ابھرنا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ رہنا ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجوڑنا عالم اسلام ہے بیٹا تم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ یہ کہتے ہیں کہ قاسم تیرے ٹکڑے ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر جان میری تم کو بکھرنا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ رہنا ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجان سب دے چکے تو بات عجب شہ نے کہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگ ایسی کبھی دنیا نے نہ دیکھی ہوگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج اصغر کو لیےء رن میں اترنا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ رہنا ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر بچی کی ہے زندان میں تیار قمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور زنجیر میں عابد ہے گرفتار مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے کے میت اسی حالت میں اترنا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندہ رہنا ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

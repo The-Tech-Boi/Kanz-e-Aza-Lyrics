@@ -1,7 +1,295 @@
 {
   "remoteId": "g2611_u2757",
-  "title": "Rehti thi ye zainab",
+  "title": "رہتی تھی یہ زینب",
   "body": "رہتی تھی یہ زینب کی صدا ارضِ کربلا\nاے ارضِ کربلا\nکیا تھی میرے بھائی کی خطا ارضِ کربلا\nاے ارضِ کربلا\n<<DIVIDER>>\nدو دن کے لیئے ہم تیرے مہمان ہوئے تھے\nکیا مہماں نوازی کے یہ سامان ہوئے تھے\nکیوں کنبہ میرا پیاسا رہا ارضِ کربلا\nاے ارضِ کربلا\nرہتی تھی یہ زینب کی ۔۔۔\n<<DIVIDER>>\nمیں اپنے برادر کو کہاں ڈھونڈنے جائوں\nاپنے علی اکبر کو کہاں ڈھونڈنے جائوں\nکنبہ میرا تاراج ہوا ارضِ کربلا\nاے ارضِ کربلا\nرہتی تھی یہ زینب کی ۔۔۔\n<<DIVIDER>>\nبے دست ہوئے نہر پہ عباسِ دلاور\nدُر بالی سکینہ کے چھنے اور میری چادر\nلوٹا دے میرے سر کی ردا ارضِ کربلا\nاے ارضِ کربلا\nرہتی تھی یہ زینب کی ۔۔۔\n<<DIVIDER>>\nبے شیر تڑپتا رہا بیتاب رہے ہم\nسینے پہ تیرے نہر تھی بے آب رہے ہم\nاصغر کے لگا تیرِ جفا ارضِ کربلا\nاے ارضِ کربلا\nرہتی تھی یہ زینب کی ۔۔۔\n<<DIVIDER>>\nبھائی تیرے سینے پہ رگڑتا تھا ایڑیاں\nسینے پہ سِناں کھا کے تڑپتا تھا نوجواں\nجمبش نہ ہوئی تجھ کو ذرا ارضِ کربلا\nاے ارضِ کربلا\nرہتی تھی یہ زینب کی ۔۔۔",
+  "styling": [
+    {
+      "insert": "رہتی تھی یہ زینب کی صدا ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تھی میرے بھائی کی خطا ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدو دن کے لیئے ہم تیرے مہمان ہوئے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا مہماں نوازی کے یہ سامان ہوئے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں کنبہ میرا پیاسا رہا ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہتی تھی یہ زینب کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں اپنے برادر کو کہاں ڈھونڈنے جائوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے علی اکبر کو کہاں ڈھونڈنے جائوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کنبہ میرا تاراج ہوا ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہتی تھی یہ زینب کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے دست ہوئے نہر پہ عباسِ دلاور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُر بالی سکینہ کے چھنے اور میری چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹا دے میرے سر کی ردا ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہتی تھی یہ زینب کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے شیر تڑپتا رہا بیتاب رہے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے پہ تیرے نہر تھی بے آب رہے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کے لگا تیرِ جفا ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہتی تھی یہ زینب کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھائی تیرے سینے پہ رگڑتا تھا ایڑیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے پہ سِناں کھا کے تڑپتا تھا نوجواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جمبش نہ ہوئی تجھ کو ذرا ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ارضِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہتی تھی یہ زینب کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

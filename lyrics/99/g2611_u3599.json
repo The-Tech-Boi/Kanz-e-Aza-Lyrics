@@ -1,12 +1,442 @@
 {
   "remoteId": "g2611_u3599",
-  "title": "Zameen par laasha",
+  "title": "زمیں پر لاشہء",
   "body": "زمیں پر لاشہء سرور پڑا ہے\nسر مظلوم نیزے پر چڑھا ہے\n<<DIVIDER>>\nعلی کا لال احمد کا نواسہ\nحسن کا بھای زہرا کا دلارا\nستوں کعبے کا قاتل ڈھا گیا ہے\nزمیں پر لاشہء۔۔۔\n<<DIVIDER>>\nزمیں جلتی ہے اور زخمی بدن ہے\nپسر زہرا کا رن میں بیکفن ہے\nہے بیٹا قید زینب بے ردا ہے\nزمیں پر لاشہء۔۔۔\n<<DIVIDER>>\nادھر سجدے میں عابد کی جبیں ہے\nفلک لرزاں ہے سکتے میں زمیں ہے\nگلے میں طوق ہے شکر خدا ہے\nزمیں پر لاشہء۔۔۔\n<<DIVIDER>>\nجلے خیمے ہے اور بیکس حرم ہے\nمصیبت اور اعدا کے ستم ہے\nنبی کے گھر کو لوٹا جا رہا ہے\nزمیں پر لاشہء۔۔۔\n<<DIVIDER>>\nرسن بستہ ہے ادھر پیاسی سکینہ\nادھر شبیر کا مجروح سینہ\nیتیمی کا یہ پہلا دن ہوا ہے\nزمیں پر لاشہء۔۔۔\n<<DIVIDER>>\nعلمدار حسینی کو بلاؤ\nجری کو حال بیکس کا سناؤ\nصداییں سارا کنبہ دے رہا ہے\nزمیں پر لاشہء۔۔۔\n<<DIVIDER>>\nتن مجروح کا کیا حال ہوگا\nنبی کا لاڈلا پامال ہوگا\nسواروں کا وہ دستہ آ رہا ہے\nزمیں پر لاشہء۔۔۔\n<<DIVIDER>>\nالٹ دو یا علی اب اس زمیں کو\nاذیت ہو نہ میرے نازنیں کو\nسر مقتل پہ زہرا کی بکا ہے\nزمیں پر لاشہء۔۔۔\n<<DIVIDER>>\nفضائیں رو رہی ہے بے بسی ہے\nحرم گریہ ہے اپنی بیکسی پر\nفلک آنکھوں سے خوں برسا رہا ہے\nزمیں پر لاشہء۔۔۔\n<<DIVIDER>>\nبھلا سکتے نہیں اس درد و غم کو\nتصور ہے یہی جوید ہم کو\nیہ ماتم کربلا میں ہو رہا ہے\nزمیں پر لاشہء۔۔۔",
+  "styling": [
+    {
+      "insert": "زمیں پر لاشہء سرور پڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر مظلوم نیزے پر چڑھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی کا لال احمد کا نواسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسن کا بھای زہرا کا دلارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستوں کعبے کا قاتل ڈھا گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پر لاشہء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزمیں جلتی ہے اور زخمی بدن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسر زہرا کا رن میں بیکفن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بیٹا قید زینب بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پر لاشہء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nادھر سجدے میں عابد کی جبیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فلک لرزاں ہے سکتے میں زمیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلے میں طوق ہے شکر خدا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پر لاشہء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلے خیمے ہے اور بیکس حرم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مصیبت اور اعدا کے ستم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی کے گھر کو لوٹا جا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پر لاشہء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرسن بستہ ہے ادھر پیاسی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر شبیر کا مجروح سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یتیمی کا یہ پہلا دن ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پر لاشہء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلمدار حسینی کو بلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جری کو حال بیکس کا سناؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں سارا کنبہ دے رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پر لاشہء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتن مجروح کا کیا حال ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی کا لاڈلا پامال ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سواروں کا وہ دستہ آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پر لاشہء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالٹ دو یا علی اب اس زمیں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اذیت ہو نہ میرے نازنیں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر مقتل پہ زہرا کی بکا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پر لاشہء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفضائیں رو رہی ہے بے بسی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم گریہ ہے اپنی بیکسی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فلک آنکھوں سے خوں برسا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پر لاشہء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھلا سکتے نہیں اس درد و غم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تصور ہے یہی جوید ہم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ماتم کربلا میں ہو رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پر لاشہء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Ali Jaweed Maqsood",
   "anjumans": [],
   "verified": false

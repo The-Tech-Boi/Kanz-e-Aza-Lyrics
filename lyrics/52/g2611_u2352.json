@@ -1,12 +1,310 @@
 {
   "remoteId": "g2611_u2352",
-  "title": "Mazloome karbala tak",
+  "title": "مظلومِ کربلا تک",
   "body": "مظلومِ کربلا تک میرا سلام لے جا\n<<DIVIDER>>\nکربلا کو جانے والے غربت اُٹھانے والے\nمظلوم تک رسائی قسمت سے پانے والے\nاس کُشتئہ جفا تک میرا سلام لے جا\nمظلومِ کربلا تک۔۔۔\n<<DIVIDER>>\nگھر جس نے سب لُٹایا پیاسا گلا کٹایا\nوہ شاہ جس نے مر کر نانا کا دیں بچایا\nاُس سبطِ مصطفیٰ تک میرا سلام لے جا\nمظلومِ کربلا تک۔۔۔\n<<DIVIDER>>\nوہ نورِ چشمِ حیدر وہ فاطمہ کا دلبر\nوہ جسم و جانِ احمد بھائی تھا جس کا شبر\nاس پیکرِ رضا تک میرا سلام لے جا\nمظلومِ کربلا تک۔۔۔\n<<DIVIDER>>\nہاتھوں پہ شہہ کے آیا پانی نہ جس نے پایا\nپانی کے بدلے جس پر تیرِ جفا چلایا\nشش ماہے مہلکا تک میرا سلام لے جا\nمظلومِ کربلا تک۔۔۔\n<<DIVIDER>>\nرن میں گرا جو اکبر شکوہ نہ لایا لب پر\nسہ سہ کے سخت ایذا جاں دے دی جس نے آخر\nہمشکلِ مصطفیٰ تک میرا سلام لے جا\nمظلومِ کربلا تک۔۔۔\n<<DIVIDER>>\nسہ سہ کے جس نے آفت دیں کی بچائی عزت\nخطروں میں جس نے پیہم کی دین کی حمایت\nاس آلِ مصطفیٰ تک میرا سلام لے جا\nمظلومِ کربلا تک۔۔۔\n<<DIVIDER>>\nشبیر کا برادر عباس ابنِ حیدر\nجو تھا امیرِ لشکر جسکا وفا تھا زیور\nاُس پیکرِ صفا تک میرا سلام لے جا\nمظلومِ کربلا تک۔۔۔",
+  "styling": [
+    {
+      "insert": "مظلومِ کربلا تک میرا سلام لے جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا کو جانے والے غربت اُٹھانے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم تک رسائی قسمت سے پانے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کُشتئہ جفا تک میرا سلام لے جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلومِ کربلا تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر جس نے سب لُٹایا پیاسا گلا کٹایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شاہ جس نے مر کر نانا کا دیں بچایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس سبطِ مصطفیٰ تک میرا سلام لے جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلومِ کربلا تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ نورِ چشمِ حیدر وہ فاطمہ کا دلبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جسم و جانِ احمد بھائی تھا جس کا شبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس پیکرِ رضا تک میرا سلام لے جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلومِ کربلا تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھوں پہ شہہ کے آیا پانی نہ جس نے پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی کے بدلے جس پر تیرِ جفا چلایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شش ماہے مہلکا تک میرا سلام لے جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلومِ کربلا تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرن میں گرا جو اکبر شکوہ نہ لایا لب پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہ سہ کے سخت ایذا جاں دے دی جس نے آخر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمشکلِ مصطفیٰ تک میرا سلام لے جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلومِ کربلا تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسہ سہ کے جس نے آفت دیں کی بچائی عزت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خطروں میں جس نے پیہم کی دین کی حمایت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس آلِ مصطفیٰ تک میرا سلام لے جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلومِ کربلا تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر کا برادر عباس ابنِ حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو تھا امیرِ لشکر جسکا وفا تھا زیور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس پیکرِ صفا تک میرا سلام لے جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلومِ کربلا تک۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "anjumans": [],
   "verified": false
 }

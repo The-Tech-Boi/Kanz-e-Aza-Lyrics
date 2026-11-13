@@ -1,12 +1,314 @@
 {
   "remoteId": "g2611_u2519",
-  "title": "Na patthar maaro",
+  "title": "نہ پتھر مارو",
   "body": "نہ مارو نہ مارو نہ مارو\nنہ پتھر مارو میں زینب ہوں\n<<DIVIDER>>\nمیں بے وطن میں بے ردا بھای میرا مارا گیا\nبابا علی ماں سیدہ کرتے ہو کیوں مجھ پر جفا\nنہ پتھر مارو۔۔۔\n<<DIVIDER>>\nمہماں بلا کر لوٹ لیا کاٹا ہے میرے بھائی کا گلا\nبے گور و کفن ہے فوج خدا اے اہلِ ستم اے اہلِ جفا\nمیں زینب خستہ جگر جلتی زمیں پر ہے سفر\nبھای کی خوں میں نوحہ گر کیوں نہ کہوں سر پیٹ کر\nنہ پتھر مارو۔۔۔\n<<DIVIDER>>\nآی تھی بھرا گھر لے کر میں تم نے وہ بھرا گھر لوٹ لیا\nلوٹی ہے رداییں بھی سر سے سہہ روز ہمیں پانی نہ دیا\nخوں سے بھرا ہے پیرہن زخمی ہے پہلے سے بدن\nہوتی ہے سینے میں دکھن میں ہوں وقار پنجتن\nنہ پتھر مارو۔۔۔\n<<DIVIDER>>\nکانٹوں پہ چلاتے ہو ہم کو بے جرم ستاتے ہو ہم کو\nدکھلا کے عزیزوں کے لاشے تم لوگ رلاتے ہو ہم کو\nمیں دختر شیر خدا نانا میرا ہے مصطفیٰ\nچھینی ہے کیوں میری ردا تم کو خدا کا واسطہ\nنہ پتھر مارو۔۔۔\n<<DIVIDER>>\nدوڑاو نہ اونٹوں کو ایسے بچوں پہ زرا کچھ رحم کرو\nماؤں کے دلوں کے اے ظالم اس ظلم سے تم ٹکڑے نہ کرو\nکرتے ہو کیوں ہم پہ ستم گھٹنے لگا بچوں کا دم\nہم سب نبی کے ہے حرم تم کو محمد کی قسم\nنہ پتھر مارو۔۔۔\n<<DIVIDER>>\nریحان نبی زادی رو کر کہتی تھی سر دربار ستم\nنیزے پہ میرے بھائی کا ہے سر بے پردہ ہوے بازار میں ہم\nآنکھیں لہو سے بھر گیء وارث بھی اب کوئی نہیں\nرویا فلک روی زمیں کہتی تھی زینب اے لعیں\nنہ پتھر مارو۔۔۔",
+  "styling": [
+    {
+      "insert": "نہ مارو نہ مارو نہ مارو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پتھر مارو میں زینب ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں بے وطن میں بے ردا بھای میرا مارا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا علی ماں سیدہ کرتے ہو کیوں مجھ پر جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پتھر مارو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمہماں بلا کر لوٹ لیا کاٹا ہے میرے بھائی کا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے گور و کفن ہے فوج خدا اے اہلِ ستم اے اہلِ جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں زینب خستہ جگر جلتی زمیں پر ہے سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کی خوں میں نوحہ گر کیوں نہ کہوں سر پیٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پتھر مارو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآی تھی بھرا گھر لے کر میں تم نے وہ بھرا گھر لوٹ لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹی ہے رداییں بھی سر سے سہہ روز ہمیں پانی نہ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں سے بھرا ہے پیرہن زخمی ہے پہلے سے بدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتی ہے سینے میں دکھن میں ہوں وقار پنجتن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پتھر مارو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکانٹوں پہ چلاتے ہو ہم کو بے جرم ستاتے ہو ہم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھلا کے عزیزوں کے لاشے تم لوگ رلاتے ہو ہم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں دختر شیر خدا نانا میرا ہے مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھینی ہے کیوں میری ردا تم کو خدا کا واسطہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پتھر مارو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدوڑاو نہ اونٹوں کو ایسے بچوں پہ زرا کچھ رحم کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماؤں کے دلوں کے اے ظالم اس ظلم سے تم ٹکڑے نہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتے ہو کیوں ہم پہ ستم گھٹنے لگا بچوں کا دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سب نبی کے ہے حرم تم کو محمد کی قسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پتھر مارو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان نبی زادی رو کر کہتی تھی سر دربار ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ میرے بھائی کا ہے سر بے پردہ ہوے بازار میں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھیں لہو سے بھر گیء وارث بھی اب کوئی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رویا فلک روی زمیں کہتی تھی زینب اے لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ پتھر مارو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

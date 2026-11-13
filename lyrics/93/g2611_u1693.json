@@ -1,12 +1,483 @@
 {
   "remoteId": "g2611_u1693",
-  "title": "Jaata hai madine se",
+  "title": "جاتا ہے مدینے سے",
   "body": "جاتا ہے مدینے سے محمد کا گھرانہ\nصغرا کو دیےء جاتا ہے زخموں کا خزانہ\n<<DIVIDER>>\nجو ہے وہی سامان سفر باندھ رہا ہے\nلیکن میرا بستر اسے گوشے میں پڑا ہے\nمجھ سے یہ ہدایت ہے دوا وقت سے کھانا\nجاتا ہے مدینے سے۔۔۔\n<<DIVIDER>>\nہے ساتھ میں بابا کے چچا بھائی ہمارے\nسورج طرفدار ہے سب چاند ستارے\nاب آج سے گھر ہو گا اندھیروں کا ٹھکانہ\nجاتا ہے مدینے سے۔۔۔\n<<DIVIDER>>\nبیمار ہوں لیکن کوئی خطرہ تو نہیں ہے\nمیں راہ میں مر جاؤں گی ایسا تو نہیں ہے\nڈھونڈا ہے مجھے چھوڑ کے جانے کا بہانہ\nجاتا ہے مدینے سے۔۔۔\n<<DIVIDER>>\nکچھ دیر وہ لپٹی رہی پھوپھیوں کی ردا سے\nبابا سے کہا اور کبھی اپنے چچا سے\nلے جانے پہ صغرا کو مگر کوئی نہ مانا\nجاتا ہے مدینے سے۔۔۔\n<<DIVIDER>>\nپردیس میں بھی میرے لئے سوچتے رہنا\nخط بھیج کے تم سب کی خبر بھیجتے رہنا\nاس چاہنے والی کو ذیادہ نہ رلانا\nجاتا ہے مدینے سے۔۔۔\n<<DIVIDER>>\nدل کے کسی گوشے میں میرا نام بھی لکھ لو\nپھر جس کو بھی چاہو اسے جی جان سے چاہو\nلیکن میرے حصے کی محبت نہ لٹانا\nجاتا ہے مدینے سے۔۔۔\n<<DIVIDER>>\nمیں کوی بھی زحمت تمہیں ہونے نہیں دونگی\nآنکھیں تو الگ دل کو بھی رونے نہیں دونگی\nتم میرے طرف سے کوئی صدمہ نہ اٹھانا\nجاتا ہے مدینے سے۔۔۔\n<<DIVIDER>>\nکچھ دن میں میرا بھائی ہو جب بولنے والا\nدے دینا اشاروں میں اسے میرا حوالہ\nبے چین اگر ہو تو اسے ذیادہ نہ بتانا\nجاتا ہے مدینے سے۔۔۔\n<<DIVIDER>>\nتنہائی داد حد سے تو بھلوا نہ سکوں میں\nیا آنا بھی چاہوں کبھی آ نہ سکوں میں\nبس اتنی گزارش ہے کہیں دور نہ جانا\nجاتا ہے مدینے سے۔۔۔\n<<DIVIDER>>\nجینے نہیں دیتا مجھے یادوں سے بھرا گھر\nایسا بھی نہیں کوی جو غم بات لے آ کر\nاپنوں کی طرح بھول گیا مجھکو زمانہ\nجاتا ہے مدینے سے۔۔۔\n<<DIVIDER>>\nدی لاکھ سرور اس نے نہ جانے کی دہائی\nبیمار کسی کو بھی مگر روک نہ پای\nاشکوں کی طرح ہوگےء سب لوگ روانہ\nجاتا ہے مدینے سے۔۔۔",
+  "styling": [
+    {
+      "insert": "جاتا ہے مدینے سے محمد کا گھرانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا کو دیےء جاتا ہے زخموں کا خزانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو ہے وہی سامان سفر باندھ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن میرا بستر اسے گوشے میں پڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ سے یہ ہدایت ہے دوا وقت سے کھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتا ہے مدینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے ساتھ میں بابا کے چچا بھائی ہمارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سورج طرفدار ہے سب چاند ستارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب آج سے گھر ہو گا اندھیروں کا ٹھکانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتا ہے مدینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیمار ہوں لیکن کوئی خطرہ تو نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں راہ میں مر جاؤں گی ایسا تو نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈا ہے مجھے چھوڑ کے جانے کا بہانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتا ہے مدینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ دیر وہ لپٹی رہی پھوپھیوں کی ردا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا سے کہا اور کبھی اپنے چچا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے جانے پہ صغرا کو مگر کوئی نہ مانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتا ہے مدینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپردیس میں بھی میرے لئے سوچتے رہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خط بھیج کے تم سب کی خبر بھیجتے رہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس چاہنے والی کو ذیادہ نہ رلانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتا ہے مدینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل کے کسی گوشے میں میرا نام بھی لکھ لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر جس کو بھی چاہو اسے جی جان سے چاہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن میرے حصے کی محبت نہ لٹانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتا ہے مدینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کوی بھی زحمت تمہیں ہونے نہیں دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھیں تو الگ دل کو بھی رونے نہیں دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم میرے طرف سے کوئی صدمہ نہ اٹھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتا ہے مدینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ دن میں میرا بھائی ہو جب بولنے والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے دینا اشاروں میں اسے میرا حوالہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے چین اگر ہو تو اسے ذیادہ نہ بتانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتا ہے مدینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتنہائی داد حد سے تو بھلوا نہ سکوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا آنا بھی چاہوں کبھی آ نہ سکوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس اتنی گزارش ہے کہیں دور نہ جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتا ہے مدینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجینے نہیں دیتا مجھے یادوں سے بھرا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا بھی نہیں کوی جو غم بات لے آ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنوں کی طرح بھول گیا مجھکو زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتا ہے مدینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدی لاکھ سرور اس نے نہ جانے کی دہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار کسی کو بھی مگر روک نہ پای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشکوں کی طرح ہوگےء سب لوگ روانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتا ہے مدینے سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Suroor Lakhnavi",
   "anjumans": [],
   "verified": false

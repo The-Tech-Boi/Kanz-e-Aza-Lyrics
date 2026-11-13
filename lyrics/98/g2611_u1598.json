@@ -1,12 +1,614 @@
 {
   "remoteId": "g2611_u1598",
-  "title": "Hussain jaanam",
+  "title": "حسین جانم",
   "body": "میرا حسین ہے سب کچھ نصیب کچھ بھی نہیں\nسید زادہ حسین شاہ زادہ حسین\nدلوں کا بادشاہ آیت کبریا حسین\n<<DIVIDER>>\nسلام فرمندہ فرمندہ\nسلام فرمندہ یا حسین\n<<DIVIDER>>\nجانم‌ حسین جانم‌ حسین\nآہ جانم‌ یا حسین\n<<DIVIDER>>\nیا حسین سلام حسین\nسلام حسین سلام حسین\n<<DIVIDER>>\nسلام دلبر زہرا حسین جان\nسلام کعبہ دلہا حسین جان\nحسین جانم حسین جانم حسین جانم\nحسین جان۔۔۔\n<<DIVIDER>>\nاے شہنشاہِ زمن عقیل حسن یا مولا\nتیرا دیدار عزادار کی الفت کا صلہ\nاس کو دنیا میں سب ملا حسین جان\nجس نے اک بار کہا حسین جان\nسلام کعبہ دلہا حسین جان\nحسین جان۔۔۔\n<<DIVIDER>>\nحسرت دل ہے کہ جب کربوبلا جون میں\nسجدۂ شکر کروں خاک شفا لاؤں میں\nیابن الزہرا حسین قبلہ حسین جان\nبن کے نوکر رہوں تیرا حسین جان\nسلام کعبہ دلہا حسین جان\nحسین جان۔۔۔\n<<DIVIDER>>\nایک کرم اور میری ذات پہ مولا کر دے\nآسمانوں سے بھی آے جو نظر وہ گھر دے\nجس پہ پرچم لگے تیرا حسین جان\nصدقہ غازی کا ہو عطا حسین جان\nسلام کعبہ دلہا حسین جان\nحسین جان۔۔۔\n<<DIVIDER>>\nسوگےء نہر پہ عباس جری بھی جا کر\nکوی مونس نہ رہا پاس نہ کوی یاور\nرہ گےء دشت میں تنہا حسین جان\nبر لب تو دلم حسین جان\nسلام کعبہ دلہا حسین جان\nحسین جان۔۔۔\n<<DIVIDER>>\nزین سے گر کے زمین پر یہ کہا اکبر نے\nزخم دل آپ سے بابا میں چھپاؤں کیسے\nآ کے دیکھو میرا سینہ حسین جان\nپسر یٹ زخمیےء بیا حسین جان\nسلام کعبہ دلہا حسین جان\nحسین جان۔۔۔\n<<DIVIDER>>\nسجدۂ شکر ادا آپ نے مقتل میں کیا\nسورہء فجر سے آنے لگی آواز خدا\nآجا میری طرف آجا حسین جان\nتجھ سے راضی تیرا خدا حسین جان\nشکریہ کعبہ دلہا حسین جان\nحسین جان۔۔۔\n<<DIVIDER>>\nممبر نوک سناں پر تیرا خطبہ سن کے\nسامنے ماؤں کے روتے رہے پیاسے بچے\nقافلہ کہہ کے یہ چلا حسین جان\nتوی ذکرم حسین مولا حسین جان\nسلام کعبہ دلہا حسین جان\nحسین جان۔۔۔\n<<DIVIDER>>\nاختر و ناد علی ہے جسے عرفان عزا\nاس سے راضی قسم رب کی قسم جناب زہرا\nشکریہ دلبر زہرا حسین جان\nشکریہ کعبہ دلہا حسین جان\nحسین جان۔۔۔",
+  "styling": [
+    {
+      "insert": "میرا حسین ہے سب کچھ نصیب کچھ بھی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سید زادہ حسین شاہ زادہ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دلوں کا بادشاہ آیت کبریا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلام فرمندہ فرمندہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام فرمندہ یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانم‌ حسین جانم‌ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہ جانم‌ یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا حسین سلام حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام حسین سلام حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلام دلبر زہرا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام کعبہ دلہا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جانم حسین جانم حسین جانم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شہنشاہِ زمن عقیل حسن یا مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا دیدار عزادار کی الفت کا صلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کو دنیا میں سب ملا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس نے اک بار کہا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام کعبہ دلہا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسرت دل ہے کہ جب کربوبلا جون میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدۂ شکر کروں خاک شفا لاؤں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یابن الزہرا حسین قبلہ حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن کے نوکر رہوں تیرا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام کعبہ دلہا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک کرم اور میری ذات پہ مولا کر دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آسمانوں سے بھی آے جو نظر وہ گھر دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس پہ پرچم لگے تیرا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدقہ غازی کا ہو عطا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام کعبہ دلہا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوگےء نہر پہ عباس جری بھی جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی مونس نہ رہا پاس نہ کوی یاور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ گےء دشت میں تنہا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بر لب تو دلم حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام کعبہ دلہا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزین سے گر کے زمین پر یہ کہا اکبر نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم دل آپ سے بابا میں چھپاؤں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ کے دیکھو میرا سینہ حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسر یٹ زخمیےء بیا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام کعبہ دلہا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجدۂ شکر ادا آپ نے مقتل میں کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سورہء فجر سے آنے لگی آواز خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا میری طرف آجا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھ سے راضی تیرا خدا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکریہ کعبہ دلہا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nممبر نوک سناں پر تیرا خطبہ سن کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سامنے ماؤں کے روتے رہے پیاسے بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ کہہ کے یہ چلا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "توی ذکرم حسین مولا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام کعبہ دلہا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاختر و ناد علی ہے جسے عرفان عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس سے راضی قسم رب کی قسم جناب زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکریہ دلبر زہرا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکریہ کعبہ دلہا حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Akhtar Abbas Zaidi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u3203",
-  "title": "Teri ummat ne mere",
+  "title": "تیری امت نے میرے",
   "body": "تیری امت نے میرے در کو جلایا بابا\nپھر وہ جلتا ہوا در مجھ پہ گرایا بابا\n<<DIVIDER>>\nراخ تھی شعلے تھے سہمے ہوے بچے یا دھواں\nمیرے آنگن میں تھا اک شام غریباں کا سماں\nدر ہٹا کر مجھے فضہ نے اٹھایا بابا\nتیری امت نے میرے۔۔۔\n<<DIVIDER>>\nلوٹ کر آی تو چہرہ بھی میرا زخمی تھا\nمیری زینب کو میری پیشی کا پہلا نوحہ\nمیرے بالوں کی سفیدی نے سنایا بابا\nتیری امت نے میرے۔۔۔\n<<DIVIDER>>\nلے چلے قیدی بنا کر جو علی کو دشمن\nمیں نے چھوڑا نہیں حیدر کی عبا کا دامن\nتازیانوں نے مگر مجھ سے چھڑایا بابا\nتیری امت نے میرے۔۔۔\n<<DIVIDER>>\nبیٹھ کر پڑھتی ہوں مشکل سے نمازِ شب بھی\nپھر بھی عباس کی خلقت کی دعا بھولی نہیں\nجب بھی زخمی ہوے ہاتھوں کو اٹھایا بابا\nتیری امت نے میرے۔۔۔\n<<DIVIDER>>\nزخمی حالت میں بھی دہلیز سے باہر آی\nاور علی یون ولی اللّٰہ بچا کر لای\nعہد جو میں نے کیا تھا وہ نبھایا بابا\nتیری امت نے میرے۔۔۔\n<<DIVIDER>>\nکونسا در ہے جہاں آپ کی بیٹی نہ گیء\nبات سننا کو کجا یوں ہوی عزت میری\nکوئی دروازے سے باہر نہیں آیا بابا\nتیری امت نے میرے۔۔۔\n<<DIVIDER>>\nقد یہ دیکھا ہے تیرے شہر کی دیواروں نے\nایسی غربت تھی کہ ہاتھوں میں ستمگاروں نے\nرسیاں باندھ کے حیدر کو پھرایا بابا\nتیری امت نے میرے۔۔۔\n<<DIVIDER>>\nجس جگہ آپ نے رک رک کے اجازت مانگی\nوہاں گستاخ مسلمانوں نے بیعت مانگی\nکوئی شعلے کوئی لکڑیاں لایا بابا\nتیری امت نے میرے۔۔۔\n<<DIVIDER>>\nعرش اور فرش پہ محسن ہوا کہرام بپا\nجس گھڑی روکے ولایت کی شہیدا نے کہا\nمجھکو ہنس ہنس کے زمانے نے رلایا بابا\nتیری امت نے میرے۔۔۔",
+  "styling": [
+    {
+      "insert": "تیری امت نے میرے در کو جلایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر وہ جلتا ہوا در مجھ پہ گرایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراخ تھی شعلے تھے سہمے ہوے بچے یا دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے آنگن میں تھا اک شام غریباں کا سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در ہٹا کر مجھے فضہ نے اٹھایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری امت نے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلوٹ کر آی تو چہرہ بھی میرا زخمی تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری زینب کو میری پیشی کا پہلا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بالوں کی سفیدی نے سنایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری امت نے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلے چلے قیدی بنا کر جو علی کو دشمن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے چھوڑا نہیں حیدر کی عبا کا دامن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تازیانوں نے مگر مجھ سے چھڑایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری امت نے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹھ کر پڑھتی ہوں مشکل سے نمازِ شب بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی عباس کی خلقت کی دعا بھولی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب بھی زخمی ہوے ہاتھوں کو اٹھایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری امت نے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخمی حالت میں بھی دہلیز سے باہر آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور علی یون ولی اللّٰہ بچا کر لای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عہد جو میں نے کیا تھا وہ نبھایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری امت نے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکونسا در ہے جہاں آپ کی بیٹی نہ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بات سننا کو کجا یوں ہوی عزت میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی دروازے سے باہر نہیں آیا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری امت نے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقد یہ دیکھا ہے تیرے شہر کی دیواروں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسی غربت تھی کہ ہاتھوں میں ستمگاروں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسیاں باندھ کے حیدر کو پھرایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری امت نے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس جگہ آپ نے رک رک کے اجازت مانگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہاں گستاخ مسلمانوں نے بیعت مانگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی شعلے کوئی لکڑیاں لایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری امت نے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعرش اور فرش پہ محسن ہوا کہرام بپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس گھڑی روکے ولایت کی شہیدا نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو ہنس ہنس کے زمانے نے رلایا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری امت نے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Mohsin Jaffri",
   "anjumans": [],
   "verified": false

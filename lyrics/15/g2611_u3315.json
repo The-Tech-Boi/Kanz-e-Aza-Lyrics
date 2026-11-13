@@ -1,12 +1,423 @@
 {
   "remoteId": "g2611_u3315",
-  "title": "Wasiyate zehra",
+  "title": "وصیتِ زہرا",
   "body": "زہرا کی اب جہاں سے رخصت ہے یا علی\nتم سے یہی ہماری وصیت ہے یا علی\n<<DIVIDER>>\nیا علی میرے میت پر\nمیرا حق کھانے والے نہ آئیں\nدربار میں تیری زہرا کو\nجھٹلانے والے نہ آئیں\n<<DIVIDER>>\nیا علی میرے بابا ہر لمحہ\nجس در کو چوما کرتے تھے\nاس در کو جلانے والے\nاور جلوانے والے نہ آئیں\nیا علی میرے میت پر۔۔۔\n<<DIVIDER>>\nیا علی میرے حسرت تھی تم کو\nبابا کے ممبر پر دیکھوں\nہاے تیری جگہ اس پر\nآ جانے والے نہ آئیں\nیا علی میرے میت پر۔۔۔\n<<DIVIDER>>\nیا علی پہلو بھی شکستہ ہے\nبالوں میں سفیدی چھای ہے\nزہرا کو تیری اس حالت میں\nپہنچانے والے نہ آئیں\nیا علی میرے میت پر۔۔۔\n<<DIVIDER>>\nیا علی میرے محسن پر گریہ\nحق تھا میرا جو چھین لیا\nیا علی مجھے مرتے مرتے بھی\nتڑپانے والے نہ آئیں\nیا علی میرے میت پر۔۔۔\n<<DIVIDER>>\nیا علی زینب کی آنکھوں میں\nمجھے خوف دکھای دیتا ہے\nگردن میں تیری ہاے تنگ رسن\nپہنانے والے نہ آئیں\nیا علی میرے میت پر۔۔۔\n<<DIVIDER>>\nیا علی میری میت کو چھپ کر\nتاریکی میں دفنا دینا\nرونے کے لئے مجھ پر مجھکو\nرلوانے والے نہ آئیں\nیا علی میرے میت پر۔۔۔\n<<DIVIDER>>\nسلمان میں بی بی کا نوحہ\nمیثم کے لئے کیسے لکھوں\nجب تک جنت میں لے جا کر\nلکھوانے والے نہ آئیں\nیا علی میرے میت پر۔۔۔",
+  "styling": [
+    {
+      "insert": "زہرا کی اب جہاں سے رخصت ہے یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم سے یہی ہماری وصیت ہے یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا علی میرے میت پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا حق کھانے والے نہ آئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دربار میں تیری زہرا کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھٹلانے والے نہ آئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا علی میرے بابا ہر لمحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس در کو چوما کرتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس در کو جلانے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور جلوانے والے نہ آئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی میرے میت پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا علی میرے حسرت تھی تم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کے ممبر پر دیکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تیری جگہ اس پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ جانے والے نہ آئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی میرے میت پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا علی پہلو بھی شکستہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالوں میں سفیدی چھای ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کو تیری اس حالت میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہنچانے والے نہ آئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی میرے میت پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا علی میرے محسن پر گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق تھا میرا جو چھین لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی مجھے مرتے مرتے بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپانے والے نہ آئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی میرے میت پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا علی زینب کی آنکھوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے خوف دکھای دیتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گردن میں تیری ہاے تنگ رسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہنانے والے نہ آئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی میرے میت پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا علی میری میت کو چھپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تاریکی میں دفنا دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے کے لئے مجھ پر مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلوانے والے نہ آئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی میرے میت پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلمان میں بی بی کا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میثم کے لئے کیسے لکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تک جنت میں لے جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھوانے والے نہ آئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا علی میرے میت پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Arsalan Azmi & Salman Azmi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,473 @@
 {
   "remoteId": "g2611_u0147",
-  "title": "Ab ghar ko chalo",
+  "title": "اب گھر کو چلو",
   "body": "اب گھر کو چلو خاک سے اُٹھو علی اکبر\n<<DIVIDER>>\nپہنچے جو حسین ابنِ علی لاشِ پسر پر\nوہ حال نظر آیا چھُری چل گئی دل پر\nیہ کہہ کے زمین پر گِر ے بیٹے کے برابر\nآیا ہے پدر ہوش میں آئو علی اکبر\nاب گھر کو چلو۔۔۔\n<<DIVIDER>>\nظالم کوئی بے کس کو بتاتا نہ تھا راستہ\nچھایا تھا نگاہوں میں اندھیرا ہی اندھیرا\nآیا ہے پدر پاس تیرے ٹھوکریں کھاتا\nآکھوں کو ہوا کیا میری پوچھو علی اکبر\nاب گھر کو چلو۔۔۔\n<<DIVIDER>>\nکیوں پائوں رگڑتے ہو کہا ں درد اُٹھا ہے\nبتلائو میری جان میرا دل بیٹھ رہا ہے\nکیوں ہاتھ ہے سینے پہ کہاں زخم لگا ہے\nپھٹ جائے گا دل باپ کا بولو علی اکبر\nاب گھر کو چلو۔۔۔\n<<DIVIDER>>\nنوحہ ہپے لبوں پر ہے آنکھوں سے خوں جاری\nہم کب سے کھڑے روتے ہیں بالی پہ تمہاری\nکھایا نہ ترس تم نے غریبی پہ ہماری\nدل باپ کا اس طرح نہ توڑو علی اکبر\nاب گھر کو چلو۔۔۔\n<<DIVIDER>>\nاے لال تصور میں تھا ماں کے تیرا سہرا\nہے دیر سے دروازئہ خیمہ پہ وہ دُکھیا\nکیا جا کے بتائوں جو ہوا حال تمہارا\nلیلیٰ سے کہوں کیا یہ بتائو علی اکبر\nاب گھر کو چلو۔۔۔\n<<DIVIDER>>\nاب دیر جو کی تم نے تو کرتی ہوئی زاری\nبے پردہ بہن آئے گی مقتل میں ہماری\nمادر کہیں مر جائے نہ صدمے سے تمہاری\nبابا بھی نہیں جینے کے سُن لو علی اکبر\nاب گھر کو چلو۔۔۔\n<<DIVIDER>>\nکس طرح سے دیکھے یہ پدر حال تمہارا\nقابو میں نہیں قلب الٹتا ہے کلیجہ\nپہلو میں ہے دل باپ کا پتھر نہیں بیٹا\nآگے میرے اس طرح نہ تڑپو علی اکبر\nاب گھر کو چلو۔۔۔\n<<DIVIDER>>\nتم چپ ہو تو چلتے ہیں میرے قلب پہ خنجر\nکچھ حال لڑائی کا سناؤ میرے دلبر\nبتلاؤ کہ کس طرح لگا زخم جگر پر\nکچھ بات کرو آنکھ تو کھولو علی اکبر\nاب گھر کو چلو۔۔۔\n<<DIVIDER>>\nفریاد لبوں پر ہے اور اشکوں کی روانی\nغربت بھی ضعیفی بھی ہے اور تشنہ دہانی\nہنستے ہیں میرے حال پہ دشمن میرے جانی\nتنہا مجھے اس طرح نہ چھوڑو علی اکبر\nاب گھر کو چلو۔۔۔",
+  "styling": [
+    {
+      "insert": "اب گھر کو چلو خاک سے اُٹھو علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہنچے جو حسین ابنِ علی لاشِ پسر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ حال نظر آیا چھُری چل گئی دل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ کے زمین پر گِر ے بیٹے کے برابر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آیا ہے پدر ہوش میں آئو علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب گھر کو چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظالم کوئی بے کس کو بتاتا نہ تھا راستہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھایا تھا نگاہوں میں اندھیرا ہی اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آیا ہے پدر پاس تیرے ٹھوکریں کھاتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آکھوں کو ہوا کیا میری پوچھو علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب گھر کو چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں پائوں رگڑتے ہو کہا ں درد اُٹھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتلائو میری جان میرا دل بیٹھ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں ہاتھ ہے سینے پہ کہاں زخم لگا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھٹ جائے گا دل باپ کا بولو علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب گھر کو چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوحہ ہپے لبوں پر ہے آنکھوں سے خوں جاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کب سے کھڑے روتے ہیں بالی پہ تمہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھایا نہ ترس تم نے غریبی پہ ہماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل باپ کا اس طرح نہ توڑو علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب گھر کو چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے لال تصور میں تھا ماں کے تیرا سہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے دیر سے دروازئہ خیمہ پہ وہ دُکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا جا کے بتائوں جو ہوا حال تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ سے کہوں کیا یہ بتائو علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب گھر کو چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب دیر جو کی تم نے تو کرتی ہوئی زاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے پردہ بہن آئے گی مقتل میں ہماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مادر کہیں مر جائے نہ صدمے سے تمہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بھی نہیں جینے کے سُن لو علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب گھر کو چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح سے دیکھے یہ پدر حال تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قابو میں نہیں قلب الٹتا ہے کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلو میں ہے دل باپ کا پتھر نہیں بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگے میرے اس طرح نہ تڑپو علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب گھر کو چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم چپ ہو تو چلتے ہیں میرے قلب پہ خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ حال لڑائی کا سناؤ میرے دلبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتلاؤ کہ کس طرح لگا زخم جگر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ بات کرو آنکھ تو کھولو علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب گھر کو چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفریاد لبوں پر ہے اور اشکوں کی روانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غربت بھی ضعیفی بھی ہے اور تشنہ دہانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہنستے ہیں میرے حال پہ دشمن میرے جانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا مجھے اس طرح نہ چھوڑو علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب گھر کو چلو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Ali Jaweed Maqsood",
   "anjumans": [],
   "verified": false

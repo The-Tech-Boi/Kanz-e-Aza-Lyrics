@@ -1,7 +1,463 @@
 {
   "remoteId": "g2611_u1130",
-  "title": "Darya kanare teri aal",
+  "title": "دریا کے کنارے تیری آل",
   "body": "دریا کے کنارے تیری آل پیاسی\nگھر کو لٹا کے پردیس آ کے\n<<DIVIDER>>\nشاہ مدینہ جنگل بسا کے\nدریا کے کنارے تیری آل پیاسی\n<<DIVIDER>>\nآنکھوں میں آنسوں سو زخم دل پر\nبیٹھے ہیں بچے جلتی زمیں پر\nکچھ خالی کوزے دل سے لگا کر\nسوتے ہیں پیاسے جلتی زمیں پر\nسب زخم خاک کربوبلا کے\nدریا کے کنارے۔۔۔\n<<DIVIDER>>\nکتنے مصائب جھیلے ہیں دل پر\nزینب نے دیکھے پر درد منظر\nاکبر کا لاشہ قاسم کے ٹکڑے\nعباس کا لاشہ بھای پہ خنجر\nلاشے اٹھا کے مقتل سجا کے\nدریا کے کنارے۔۔۔\n<<DIVIDER>>\nدشت بلا میں تنہا حرم ہے\nپردیسیوں پر لاکھوں ستم ہے\nامت نے ایسی کی ہے جفاییں\nسب کے سروں سے چھینی ردائیں\nامت سے پاکے صدمے ردا کے\nدریا کے کنارے۔۔۔\n<<DIVIDER>>\nکیسے کفن دے بھای کو زینب\nجکڑے ہوے ہیں شانے رسن سے\nاہلِ حرم سب کہتے ہیں رو کر\nیہ درد پاے آ کر وطن سے\nسب کچھ لٹا کے روتی ہے جا کے\nدریا کے کنارے۔۔۔\n<<DIVIDER>>\nہر غم تو اپنے دل سے لگا کر\nروتی ہے بن میں بالی سکینہ\nعمو نہ آے بابا نہ آے\nمیں کیا کروں اے شاہ مدینہ\nاس دل پہ کھاکے ناوک جفا کے\nدریا کے کنارے۔۔۔\n<<DIVIDER>>\nوعدہ نبھانے دیں کو بچانے\nجنگل میں اولاد تیری\nدین خدا پر جانیں لٹانے\nمقتل میں آی اولاد تیری\nوعدہ نبھا کے دیں کو بچا کے\nدریا کے کنارے۔۔۔\n<<DIVIDER>>\nقرآن غم کی کرکے تلاوت\nروتا ہے صفدر نوحے سنا کر\nمیرا قلم بھی خوں رو رہا ہے\nلکھتے ہوے یہ پر درد منظر\nغم کربلا کے دل میں بسا کے\nدریا کے کنارے۔۔۔",
+  "styling": [
+    {
+      "insert": "دریا کے کنارے تیری آل پیاسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کو لٹا کے پردیس آ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاہ مدینہ جنگل بسا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کے کنارے تیری آل پیاسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھوں میں آنسوں سو زخم دل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹھے ہیں بچے جلتی زمیں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ خالی کوزے دل سے لگا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوتے ہیں پیاسے جلتی زمیں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب زخم خاک کربوبلا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کے کنارے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنے مصائب جھیلے ہیں دل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے دیکھے پر درد منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کا لاشہ قاسم کے ٹکڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا لاشہ بھای پہ خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے اٹھا کے مقتل سجا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کے کنارے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدشت بلا میں تنہا حرم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیسیوں پر لاکھوں ستم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت نے ایسی کی ہے جفاییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کے سروں سے چھینی ردائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت سے پاکے صدمے ردا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کے کنارے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے کفن دے بھای کو زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جکڑے ہوے ہیں شانے رسن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ حرم سب کہتے ہیں رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ درد پاے آ کر وطن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کچھ لٹا کے روتی ہے جا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کے کنارے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر غم تو اپنے دل سے لگا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہے بن میں بالی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمو نہ آے بابا نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیا کروں اے شاہ مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس دل پہ کھاکے ناوک جفا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کے کنارے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوعدہ نبھانے دیں کو بچانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگل میں اولاد تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دین خدا پر جانیں لٹانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں آی اولاد تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ نبھا کے دیں کو بچا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کے کنارے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقرآن غم کی کرکے تلاوت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتا ہے صفدر نوحے سنا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا قلم بھی خوں رو رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھتے ہوے یہ پر درد منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم کربلا کے دل میں بسا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کے کنارے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

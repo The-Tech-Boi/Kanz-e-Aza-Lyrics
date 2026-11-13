@@ -1,12 +1,505 @@
 {
   "remoteId": "g2611_u1835",
-  "title": "Kaha kisi ne sakina",
+  "title": "کہا کسی نے سکینہ",
   "body": "کہا کسی نے سکینہ سے تم دعا یہ کرو\nکوئی بھی بیٹی تمہاری طرح یتیم نہ ہو\n<<DIVIDER>>\nوہ جس کا دل دکھی رات بھر نہیں سوتا\nدعائیں کرتے ہوے جب بھی کوئی ہے روتا\nسنا ہے اس کی دعاؤں میں ہے اثر ہوتا\nہمارے گھر ہوں سلامت یہ تم دعا مانگو\nکہا کسی نے سکینہ سے۔۔۔\n<<DIVIDER>>\nیہ کہہ رہے ہیں کہ بیمار کو دوا دیں گے\nکفن شہیدوں کو بہنو کو ہم ردا دینگے\nیہ چار سال کی بچی کو ہم دعا دینگے\nہمیں بھی ایک دعا چاہیےء یہ اس سے کہو\nکہا کسی نے سکینہ سے۔۔۔\n<<DIVIDER>>\nکہا کسی نے کہ بابا سفر پہ نکلے ہیں\nکہا یہ ماں نے کہ اس سے دعائیں لیتے ہیں\nہمارے بی بی بہت چھوٹے چھوٹے بچے ہیں\nسکینہ سوچنے لگتی ہے لاش اصغر کو\nکہا کسی نے سکینہ سے۔۔۔\n<<DIVIDER>>\nیہ ننھی بچی کی حالت پہ کوی کہتا ہے\nنجف میں اس کا کوی رشتہ دار رہتا ہے\nچھنی ہے بالیاں کانوں سے خون بہتا ہے\nلرزتے ہاتھ ہے یہ دیکھ کر طمانچوں کو\nکہا کسی نے سکینہ سے۔۔۔\n<<DIVIDER>>\nکہا کسی نے جو یہ بی بیاں ہے بے چادر\nیہ فخر مریم و سارہ ہیں آل پیغمبر\nیہ طوق میں جو برادر ہے عابد مضطر\nامام وقت ہے یہ دے دعا کہو ان‌ سے\nکہا کسی نے سکینہ سے۔۔۔\n<<DIVIDER>>\nیہ فاطمہ کے ہے گھر کی عظیم ہے رتبے\nدعا کرے کہو مشکل کشاء کی پوتی سے\nبہت قریب ہے بچی یہ عرش خالق کے\nدعا یہ مانگ لے پھیلا کے ننھے ہاتھوں کو\nکہا کسی نے سکینہ سے۔۔۔\n<<DIVIDER>>\nنہیں ہے آب یہ کرتے کو دھو نہیں سکتی\nیہ رونا چاہتی ہے اور رو نہیں سکتی\nیہ قید خانے میں اک پل بھی سو نہیں سکتی\nنہیں ہے باپ کا سینہ بھی اس کے سونے کو\nکہا کسی نے سکینہ سے۔۔۔\n<<DIVIDER>>\nدعا تو کر دی سکینہ نے ہاتھ پھیلا کر\nلرز رہا ہے قمر عرش خالق اکبر\nپھپھی نے تھاما سکینہ کو پھٹ گیا تھا جگر\nحسین کی طرح کتنی کریم ہے دیکھو\nکہا کسی نے سکینہ سے۔۔۔\n<<DIVIDER>>\nکہا سکینہ نے اہلِ عزا سلامت ہو\nسبھی کے نور نظر مہ لقا سلامت ہو\nبھتیجے بھانجے سب کے چچا سلامت ہو\nدعائیں دیتی ہوں ہر وقت اپنے شیعوں کو\nکسی کی بیٹی میری طرح یتیم نہ ہو\n<<DIVIDER>>\nسکینہ بی بی تمہارے غلام حاضر ہیں\nبجھے جو پیاس تو اشکوں کے جام‌ حاضر ہیں",
+  "styling": [
+    {
+      "insert": "کہا کسی نے سکینہ سے تم دعا یہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی بھی بیٹی تمہاری طرح یتیم نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ جس کا دل دکھی رات بھر نہیں سوتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعائیں کرتے ہوے جب بھی کوئی ہے روتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنا ہے اس کی دعاؤں میں ہے اثر ہوتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمارے گھر ہوں سلامت یہ تم دعا مانگو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا کسی نے سکینہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کہہ رہے ہیں کہ بیمار کو دوا دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کفن شہیدوں کو بہنو کو ہم ردا دینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ چار سال کی بچی کو ہم دعا دینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیں بھی ایک دعا چاہیےء یہ اس سے کہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا کسی نے سکینہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا کسی نے کہ بابا سفر پہ نکلے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا یہ ماں نے کہ اس سے دعائیں لیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمارے بی بی بہت چھوٹے چھوٹے بچے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ سوچنے لگتی ہے لاش اصغر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا کسی نے سکینہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ ننھی بچی کی حالت پہ کوی کہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نجف میں اس کا کوی رشتہ دار رہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھنی ہے بالیاں کانوں سے خون بہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لرزتے ہاتھ ہے یہ دیکھ کر طمانچوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا کسی نے سکینہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا کسی نے جو یہ بی بیاں ہے بے چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ فخر مریم و سارہ ہیں آل پیغمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ طوق میں جو برادر ہے عابد مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امام وقت ہے یہ دے دعا کہو ان‌ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا کسی نے سکینہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ فاطمہ کے ہے گھر کی عظیم ہے رتبے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعا کرے کہو مشکل کشاء کی پوتی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت قریب ہے بچی یہ عرش خالق کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعا یہ مانگ لے پھیلا کے ننھے ہاتھوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا کسی نے سکینہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہیں ہے آب یہ کرتے کو دھو نہیں سکتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ رونا چاہتی ہے اور رو نہیں سکتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ قید خانے میں اک پل بھی سو نہیں سکتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہیں ہے باپ کا سینہ بھی اس کے سونے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا کسی نے سکینہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدعا تو کر دی سکینہ نے ہاتھ پھیلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لرز رہا ہے قمر عرش خالق اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھپھی نے تھاما سکینہ کو پھٹ گیا تھا جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کی طرح کتنی کریم ہے دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا کسی نے سکینہ سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا سکینہ نے اہلِ عزا سلامت ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سبھی کے نور نظر مہ لقا سلامت ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھتیجے بھانجے سب کے چچا سلامت ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعائیں دیتی ہوں ہر وقت اپنے شیعوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی کی بیٹی میری طرح یتیم نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسکینہ بی بی تمہارے غلام حاضر ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بجھے جو پیاس تو اشکوں کے جام‌ حاضر ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Qamar Hasnain",
   "anjumans": [],
   "verified": false

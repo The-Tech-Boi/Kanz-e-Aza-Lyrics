@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u3452",
-  "title": "Ye chand hame kaisa",
+  "title": "یہ چاند ہمیں کیسا",
   "body": "یہ چاند ہمیں کیسا گردوں پہ نظر آیا\nجس نے غم زہرا میں خوں آنکھوں کو رلوایا\n<<DIVIDER>>\nصغریٰ کی نگاہوں میں رخصت کے وہ لمحے ہیں\nگھر والوں کی فرقت نے بیمار کو تڑپاے\nیہ چاند ہمیں کیسا۔۔۔\n<<DIVIDER>>\nپھر کالے لباسوں میں سب لوگ نظر آے\nپھر ماتمی حلقوں میں ہر گھر سے الم آیا\nیہ چاند ہمیں کیسا۔۔۔\n<<DIVIDER>>\nجو زخم بھرے دل تھے پھر تازہ ہوے سارے\nنوحہ علی اکبر کا ہونٹوں نے دہرایا\nیہ چاند ہمیں کیسا۔۔۔\n<<DIVIDER>>\nپھر سجنے لگی مہندی نوشاہ کی گھر گھر میں\nفروا کی صداؤں سے دل اور بھی بھر آیا\nیہ چاند ہمیں کیسا۔۔۔\n<<DIVIDER>>\nاک چھوٹا سا مشکیزہ مصروف بکا دیکھا\nجب سامنے آنکھوں کے غازی کا الم آیا\nیہ چاند ہمیں کیسا۔۔۔\n<<DIVIDER>>\nاک ننھے سے جھولے پر پہنچی جو نظر میری\nدل ٹکڑے ہوا میرا خوں آنکھوں سے برسایا\nیہ چاند ہمیں کیسا۔۔۔\n<<DIVIDER>>\nجب ہاے حسینا کی ہر سمت صدا گونجی\nماتم کی صداؤں سے پھر چرخ بھی تھرایا\nیہ چاند ہمیں کیسا۔۔۔\n<<DIVIDER>>\nاختر یہ قیامت تھی اولاد پیمبر پر\nگھر شہ کا اجڑنے کی عاشور خبر لایا\nیہ چاند ہمیں کیسا۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ چاند ہمیں کیسا گردوں پہ نظر آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس نے غم زہرا میں خوں آنکھوں کو رلوایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصغریٰ کی نگاہوں میں رخصت کے وہ لمحے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر والوں کی فرقت نے بیمار کو تڑپاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ چاند ہمیں کیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر کالے لباسوں میں سب لوگ نظر آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر ماتمی حلقوں میں ہر گھر سے الم آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ چاند ہمیں کیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو زخم بھرے دل تھے پھر تازہ ہوے سارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ علی اکبر کا ہونٹوں نے دہرایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ چاند ہمیں کیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر سجنے لگی مہندی نوشاہ کی گھر گھر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فروا کی صداؤں سے دل اور بھی بھر آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ چاند ہمیں کیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک چھوٹا سا مشکیزہ مصروف بکا دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سامنے آنکھوں کے غازی کا الم آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ چاند ہمیں کیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک ننھے سے جھولے پر پہنچی جو نظر میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل ٹکڑے ہوا میرا خوں آنکھوں سے برسایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ چاند ہمیں کیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب ہاے حسینا کی ہر سمت صدا گونجی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کی صداؤں سے پھر چرخ بھی تھرایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ چاند ہمیں کیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاختر یہ قیامت تھی اولاد پیمبر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر شہ کا اجڑنے کی عاشور خبر لایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ چاند ہمیں کیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ibtedaye Ayyam e Aza",
+  "subcategory": "ابتدائے ایام عزا",
   "author": "Akhtar",
   "anjumans": [],
   "verified": false

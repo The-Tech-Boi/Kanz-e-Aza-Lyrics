@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u1503",
-  "title": "Haye sakina",
+  "title": "ہاے سکینہ",
   "body": "مارا گیا دریا پہ جو شیداےء سکینہ\nشہ رگ سے صدا آتی رہی ہاے سکینہ\n<<DIVIDER>>\nشہ سے کہا عباس نے ڈر ہے مجھے آقا\nدریا پہ کہیں روتی نہ آجائے سکینہ\nہاے سکینہ, ہاے سکینہ\n<<DIVIDER>>\nلاشے سے صدا آتی تھی ہم بھی نہ پیینگے\nجب تک تمہیں پانی نہیں مل جائے سکینہ\nہاے سکینہ, ہاے سکینہ\n<<DIVIDER>>\nکس طرح سے دکھلاؤں تمہیں شکل دوبارہ\nجب پانی ہی مشکیزے سے بہہ جائے سکینہ\nہاے سکینہ, ہاے سکینہ\n<<DIVIDER>>\nمجبور ہے بازو ہی نہیں تم ہی بتاؤ\nکس طرح سے عمو تمہیں بہلاےء سکینہ\nہاے سکینہ, ہاے سکینہ\n<<DIVIDER>>\nزینب نے کہا زیر علم پیٹ کے سر کو\nماتم کرو مارا گیا سقاےء سکینہ\nہاے سکینہ, ہاے سکینہ\n<<DIVIDER>>\nآجایےء یوں زوجہء عباس پکاری\nوالی کہیں فرقت میں نہ مر جائے سکینہ\nہاے سکینہ, ہاے سکینہ\n<<DIVIDER>>\nسب چاہنے والے تو انیس ہو گےء مقصود\nرخسار کے نیل اب کسے دکھلاےء سکینہ\nہاے سکینہ, ہاے سکینہ",
+  "styling": [
+    {
+      "insert": "مارا گیا دریا پہ جو شیداےء سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ رگ سے صدا آتی رہی ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہ سے کہا عباس نے ڈر ہے مجھے آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا پہ کہیں روتی نہ آجائے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے سکینہ, ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشے سے صدا آتی تھی ہم بھی نہ پیینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تک تمہیں پانی نہیں مل جائے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے سکینہ, ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح سے دکھلاؤں تمہیں شکل دوبارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب پانی ہی مشکیزے سے بہہ جائے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے سکینہ, ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجبور ہے بازو ہی نہیں تم ہی بتاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح سے عمو تمہیں بہلاےء سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے سکینہ, ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے کہا زیر علم پیٹ کے سر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کرو مارا گیا سقاےء سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے سکینہ, ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآجایےء یوں زوجہء عباس پکاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "والی کہیں فرقت میں نہ مر جائے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے سکینہ, ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب چاہنے والے تو انیس ہو گےء مقصود"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخسار کے نیل اب کسے دکھلاےء سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے سکینہ, ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Anees",
   "anjumans": [],
   "verified": false

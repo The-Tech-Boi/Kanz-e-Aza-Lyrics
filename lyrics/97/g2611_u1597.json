@@ -1,12 +1,436 @@
 {
   "remoteId": "g2611_u1597",
-  "title": "Hussain Jaan",
+  "title": "ہاے حسین جان",
   "body": "اے کربلا خیال رکھیو\nتیری آغوش میں سوتا ہے حسین\nاک ضعیف ماں کا\nایک ضعیف بیٹا ہےحسین\nاور ایک یتیم بیٹی کا\nایک یتیم بابا ہے حسین\nمیرا مظلوم\nمیرا بیکس میرا پیاسا\nپیاسا ہے حسین\n<<DIVIDER>>\nہاے آواز یہ آتی ہے سر کربوبلا\nجیسے کرتی ہو کوی ماں کوی بیٹی گریہ\nجس طرح کوئی بہن روے کہے واویلا\nیا نبی قتل ہوا آپ کا پیارا بیٹا\nہاے حسین جان\n<<DIVIDER>>\nآی آواز نبی یہ دوسرا مقتل میں\nمیرے بچے تجھے آی ہے قضا جنگل میں\nاے میرے نور نظر\nکشتۂ تیغ جفا ہاے حسین\nہاے حسین جان۔۔۔\n<<DIVIDER>>\nہاتھ پہلو پہ رکھے دیتی تھی زہرا یہ صدا\nچکیاں پیس کے اس ماں نے تجھے پالا تھا\nمیری گودی میں ہوا\nسر تیرا تن سے جدا ہاے حسین\nہاے حسین جان۔۔۔\n<<DIVIDER>>\nوقتِ آخر بھی تھا زینب کے لبوں پر یہ سخن\nہاے بھای تجھے جی بھر کے نہیں روی بہن\nتشنگی باقی رہی آ گیء مجھکو قضا\nہاے حسین جان۔۔۔\n<<DIVIDER>>\nمیرے بابا کی خطا کیا تھی بتا اے ظالم\nکوی چادر تن بے سر پہ اڑھا دے ظالم\nسوے گی بیٹی کہاں\nتھی سکینہ کی صدا ہاے حسین\nہاے حسین جان۔۔۔\n<<DIVIDER>>\nایک ننھی سی لحد جو ہے سر دشت بلا\nاس میں جو سوتا ہے اس بچے کا زخمی ہے گلا\nاپنے بابا کے لئے\nروح اصغر نے کہا ہاے حسین\nہاے حسین جان۔۔۔\n<<DIVIDER>>\nعشق غم کہتے ہے اس بات میں سچائی ہے\nبات ریحان جو درویش نے سمجھای ہے\nدل بھی کہتا ہے میرا\nیہ ہے تسبیح خدا ہاے حسین\nہاے حسین جان۔۔۔",
+  "styling": [
+    {
+      "insert": "اے کربلا خیال رکھیو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری آغوش میں سوتا ہے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ضعیف ماں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ضعیف بیٹا ہےحسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ایک یتیم بیٹی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک یتیم بابا ہے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا مظلوم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بیکس میرا پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسا ہے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے آواز یہ آتی ہے سر کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے کرتی ہو کوی ماں کوی بیٹی گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس طرح کوئی بہن روے کہے واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا نبی قتل ہوا آپ کا پیارا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسین جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآی آواز نبی یہ دوسرا مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بچے تجھے آی ہے قضا جنگل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے نور نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کشتۂ تیغ جفا ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھ پہلو پہ رکھے دیتی تھی زہرا یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چکیاں پیس کے اس ماں نے تجھے پالا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری گودی میں ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر تیرا تن سے جدا ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوقتِ آخر بھی تھا زینب کے لبوں پر یہ سخن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے بھای تجھے جی بھر کے نہیں روی بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تشنگی باقی رہی آ گیء مجھکو قضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے بابا کی خطا کیا تھی بتا اے ظالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی چادر تن بے سر پہ اڑھا دے ظالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوے گی بیٹی کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی سکینہ کی صدا ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک ننھی سی لحد جو ہے سر دشت بلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس میں جو سوتا ہے اس بچے کا زخمی ہے گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روح اصغر نے کہا ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعشق غم کہتے ہے اس بات میں سچائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بات ریحان جو درویش نے سمجھای ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل بھی کہتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ہے تسبیح خدا ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حسین جان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

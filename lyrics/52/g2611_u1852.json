@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u1852",
-  "title": "Kahun kaise musibat",
+  "title": "کہوں کیسے مصیبت",
   "body": "کہوں کیسے مصیبت فاطمہ کی\nلحد پر بھی ہے آفت فاطمہ کی\n<<DIVIDER>>\nکیا پامال مرقد کو شقی نے\nبڑی جس سے اذیت فاطمہ کی\nکہوں کیسے مصیبت۔۔۔\n<<DIVIDER>>\nمیری تربت پہ تم ہر روز آنا\nعلی سے تھی وصیت فاطمہ کی\nکہوں کیسے مصیبت۔۔۔\n<<DIVIDER>>\nعلی کی آنکھ سے بہتے تھے آنسوں\nرلاتی تھی شہادت فاطمہ کی\nکہوں کیسے مصیبت۔۔۔\n<<DIVIDER>>\nکرے سرکار خود تعظیم اس کی\nکوئی سمجھا نہ عظمت فاطمہ کی\nکہوں کیسے مصیبت۔۔۔\n<<DIVIDER>>\nمل کب قبر میں بھی چین اسکو\nہوی مسمار تربت فاطمہ کی\nکہوں کیسے مصیبت۔۔۔\n<<DIVIDER>>\nاجالا ہے نہ مرقد پر ہے سایہ\nبتاؤں کیا میں غربت فاطمہ کی\nکہوں کیسے مصیبت۔۔۔\n<<DIVIDER>>\nنکل کر پردہء غیبت سے مولا\nکروں تعمیر تربت فاطمہ کی\nکہوں کیسے مصیبت۔۔۔\n<<DIVIDER>>\nعزاداروں اڑاؤ خاک سر پر\nہوی ہے پھر سے رحلت فاطمہ کی\nکہوں کیسے مصیبت۔۔۔\n<<DIVIDER>>\nمٹایا جس نے قبر آل حیدر\nبوبر اس پر ہے لعنت فاطمہ کی\nکہوں کیسے مصیبت۔۔۔",
+  "styling": [
+    {
+      "insert": "کہوں کیسے مصیبت فاطمہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لحد پر بھی ہے آفت فاطمہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا پامال مرقد کو شقی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑی جس سے اذیت فاطمہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہوں کیسے مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری تربت پہ تم ہر روز آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی سے تھی وصیت فاطمہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہوں کیسے مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی کی آنکھ سے بہتے تھے آنسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلاتی تھی شہادت فاطمہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہوں کیسے مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرے سرکار خود تعظیم اس کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی سمجھا نہ عظمت فاطمہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہوں کیسے مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمل کب قبر میں بھی چین اسکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوی مسمار تربت فاطمہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہوں کیسے مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاجالا ہے نہ مرقد پر ہے سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتاؤں کیا میں غربت فاطمہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہوں کیسے مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنکل کر پردہء غیبت سے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کروں تعمیر تربت فاطمہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہوں کیسے مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعزاداروں اڑاؤ خاک سر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوی ہے پھر سے رحلت فاطمہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہوں کیسے مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمٹایا جس نے قبر آل حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بوبر اس پر ہے لعنت فاطمہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہوں کیسے مصیبت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Mir Bober Ali",
   "anjumans": [],
   "verified": false

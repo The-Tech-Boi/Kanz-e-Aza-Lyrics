@@ -1,7 +1,265 @@
 {
   "remoteId": "g2611_u1232",
-  "title": "Ek sada hai",
+  "title": "ایک صدا ہے",
   "body": "ڈھل نہ جائے رات\n<<DIVIDER>>\nخیمہ خیمہ ایک صدا ہے اللہ خیر کرے\nپیاسوں کے لب پر یہ صدا ہے اللہ خیر کرے\n<<DIVIDER>>\nہر بی بی ہے زیب مصلیٰ آنکھوں میں ہے اشک مسلسل\nدل کی دھڑکن محو بکا ہے اللہ خیر کرے\nخیمہ خیمہ ایک صدا ہے۔۔۔\n<<DIVIDER>>\nہے شب عاشور کا منظر روتی ہے ناموسِ پیمبر\nرات گزرنے پر یہ صدا ہے اللّٰہ خیر کرے\nخیمہ خیمہ ایک صدا ہے۔۔۔\n<<DIVIDER>>\nکتنی حسرت سے بھای کو دیکھ رہی ہے ثانیء زہرا\nجانے خواب میں کیا دیکھا ہے اللہ خیر کرے\nخیمہ خیمہ ایک صدا ہے۔۔۔\n<<DIVIDER>>\nدیکھ کے مشرق کی جانب کہتی ہے بھای سے زینب\nآج یہ سورج کیا کہتا ہے اللہ خیر کرے\nخیمہ خیمہ ایک صدا ہے۔۔۔\n<<DIVIDER>>\nدیکھ کے روتی بانو جھولے میں اصغر کا چہرہ\nجیسے جھولا خود کہتا ہے اللہ خیر کرے\nخیمہ خیمہ ایک صدا ہے۔۔۔\n<<DIVIDER>>\nکہتی ہے دل تھام کے لیلیٰ جی بھر کے اکبر کو دیکھوں\nکس کو خبر کل کیا ہونا ہے اللّٰہ خیر کرے\nخیمہ خیمہ ایک صدا ہے۔۔۔\n<<DIVIDER>>\nلکھنے سے قاصر ہے مظہر کیسے لکھے اس رات کا منظر\nدل میں غم کا درد اٹھا ہے اللّٰہ خیر کرے\nخیمہ خیمہ ایک صدا ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "ڈھل نہ جائے رات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمہ خیمہ ایک صدا ہے اللہ خیر کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسوں کے لب پر یہ صدا ہے اللہ خیر کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر بی بی ہے زیب مصلیٰ آنکھوں میں ہے اشک مسلسل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کی دھڑکن محو بکا ہے اللہ خیر کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمہ خیمہ ایک صدا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے شب عاشور کا منظر روتی ہے ناموسِ پیمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات گزرنے پر یہ صدا ہے اللّٰہ خیر کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمہ خیمہ ایک صدا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنی حسرت سے بھای کو دیکھ رہی ہے ثانیء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے خواب میں کیا دیکھا ہے اللہ خیر کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمہ خیمہ ایک صدا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھ کے مشرق کی جانب کہتی ہے بھای سے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج یہ سورج کیا کہتا ہے اللہ خیر کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمہ خیمہ ایک صدا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھ کے روتی بانو جھولے میں اصغر کا چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے جھولا خود کہتا ہے اللہ خیر کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمہ خیمہ ایک صدا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی ہے دل تھام کے لیلیٰ جی بھر کے اکبر کو دیکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو خبر کل کیا ہونا ہے اللّٰہ خیر کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمہ خیمہ ایک صدا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلکھنے سے قاصر ہے مظہر کیسے لکھے اس رات کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں غم کا درد اٹھا ہے اللّٰہ خیر کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمہ خیمہ ایک صدا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

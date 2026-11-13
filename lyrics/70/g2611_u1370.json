@@ -1,12 +1,490 @@
 {
   "remoteId": "g2611_u1370",
-  "title": "Haa ye mere bete",
+  "title": "ہاں یہ میرے بیٹے",
   "body": "شیر ہوے دو وارد لشکر\nمقتل میں برپا تھا محشر\nفخر سے اپنے سر کو اٹھا کر\nکہتی تھی عباس کی خواہر\nہاں یہ میرے بیٹے ہیں\n<<DIVIDER>>\nایک ہے محمد اور دوسرا ہے عون\nہاں یہ میرے بیٹے ہیں\n<<DIVIDER>>\nنام ہے ان کے عون و محمد\nحیدر کے عکاس ہے یہ\nملک وفا کے دونوں مکیں ہے\nدونوں ہی عباس ہے یہ\nفاطمہ زہرا کے ہے نواسے\nمامو پر جان دیتے ہیں\nہاں یہ میرے۔۔۔\n<<DIVIDER>>\nمیں نے انہیں تاکید یہ کی تھی\nدریا پر مت جانا تم\nمقتل میں پیاسے ہی رہنا\nصبر علی دکھلانا تم\nوقتِ وغا یہ بنت اسد کی\nگود کے پالے لگتے ہے\nہاں یہ میرے۔۔۔\n<<DIVIDER>>\nعون محمد سے کہتا تھا\nبھای بھول نہ جانا تم\nہم ہیں علی اکبر کا صدقہ\nاماں کا نزرانہ تم\nشکر خدا اماں کے سجدے\nفخر سے کہتے رہتے ہے\nہاں یہ میرے۔۔۔\n<<DIVIDER>>\nگھر جانا ہے خون میں نہا کے\nپہنچا جب خیموں میں لاشے\nخشک زباں کو دیکھ کے اماں\nکہہ دے ہے شہزادے پیاسے\nحکم مادر ماننے والے\nمر کے زندہ رہتے ہیں\nہاں یہ میرے۔۔۔\n<<DIVIDER>>\nعون و محمد کیا یہ حسرت\nپوری ہوی زنداں میں جا کر\nجب وقت آذادی آیا\nنوکِ سِناں سے اترے جب سر\nبولی زینب پیٹ کے سر کو\nلاوارث جو دکھتے ہیں\nہاں یہ میرے۔۔۔\n<<DIVIDER>>\nعون و محمد جیسے بیٹے\nکاش خدارا ریحان و رضا دے\nفخر سے سر اونچا ہو ماں کا\nباپ کرے سجدے پہ سجدے\nروح ابو طالب یہ پکارے\nحیدر جن کو روتے ہیں\nہاں یہ میرے۔۔۔",
+  "styling": [
+    {
+      "insert": "شیر ہوے دو وارد لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں برپا تھا محشر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فخر سے اپنے سر کو اٹھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی عباس کی خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ میرے بیٹے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک ہے محمد اور دوسرا ہے عون"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ میرے بیٹے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنام ہے ان کے عون و محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کے عکاس ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملک وفا کے دونوں مکیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دونوں ہی عباس ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ زہرا کے ہے نواسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مامو پر جان دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں نے انہیں تاکید یہ کی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا پر مت جانا تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں پیاسے ہی رہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبر علی دکھلانا تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقتِ وغا یہ بنت اسد کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گود کے پالے لگتے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعون محمد سے کہتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای بھول نہ جانا تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم ہیں علی اکبر کا صدقہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں کا نزرانہ تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکر خدا اماں کے سجدے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فخر سے کہتے رہتے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر جانا ہے خون میں نہا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہنچا جب خیموں میں لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خشک زباں کو دیکھ کے اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ دے ہے شہزادے پیاسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حکم مادر ماننے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر کے زندہ رہتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعون و محمد کیا یہ حسرت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوری ہوی زنداں میں جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب وقت آذادی آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ سِناں سے اترے جب سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولی زینب پیٹ کے سر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاوارث جو دکھتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعون و محمد جیسے بیٹے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاش خدارا ریحان و رضا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فخر سے سر اونچا ہو ماں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کرے سجدے پہ سجدے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روح ابو طالب یہ پکارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر جن کو روتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Aon o Mohd (a.s)",
+  "subcategory": "عون و محمد (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

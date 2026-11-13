@@ -1,12 +1,501 @@
 {
   "remoteId": "g2611_u2992",
-  "title": "Shaam ke zindan",
+  "title": "شام کے زنداں",
   "body": "شام کے زنداں سے یہ آی صدا\nدم گھٹا جاتا ہے میرا قید میں\nآؤ عمو تم کو میرا واسطہ\nدم گھٹا جاتا ہے میرا قید میں\n<<DIVIDER>>\nمیں کروں کب تک تمہارا انتظار\nپیاسی آنکھیں ہر گھڑی ہے اشکبار\nلینے آؤ گے مجھے تم کب بھلا\nدم گھٹا جاتا ہے۔۔۔\n<<DIVIDER>>\nلاکھ اپنے دل کو بہلاتی ہوں میں\nپر اندھیروں سے ڈری جاتی ہوں میں\nمل رہی ہے مجھکو یہ کیسی سزا\nدم گھٹا جاتا ہے۔۔۔\n<<DIVIDER>>\nکربلا سے شام تک کا یہ سفر\nسختیاں جھیلی ہے میں نے راہ بھر\nاور اس پر ظلم یہ زندان کا\nدم گھٹا جاتا ہے۔۔۔\n<<DIVIDER>>\nزندگی میں ہر گھڑی تھی روشنی\nدیکھتے ہی دیکھتے شام آ گیء\nاب اندھیروں سے فقط ہے واسطہ\nدم گھٹا جاتا ہے۔۔۔\n<<DIVIDER>>\nکیا کروں کچھ عقل میں آتا نہیں\nکوی دکھیا پر ترس کھاتا نہیں\nکب رکے گا ظلم کا یہ سلسلہ\nدم گھٹا جاتا ہے۔۔۔\n<<DIVIDER>>\nنیل چہرے پر ہے کرتہ خوں سے تر\nمیں بہت روی ہوں عمو رات بھر\nپوچھتا کوئی نہیں ہے کیا ہوا\nدم گھٹا جاتا ہے۔۔۔\n<<DIVIDER>>\nعمر چھوٹی ہے بہت میں کیا کروں\nاور کب تک ظلم سے تنہا لڑوں\nہو نہ ایسا دم نکل جائے میرا\nدم گھٹا جاتا ہے۔۔۔\n<<DIVIDER>>\nقید خانے میں ہر اک شام و سحر\nدل کو تڑپاتی رہی یاد پدر\nآج تک ٹوٹا نہیں یہ سلسلہ\nدم گھٹا جاتا ہے۔۔۔\n<<DIVIDER>>\nجانے کب ہو مجھکو میرا گھر نصیب\nمیں کھڑی ہوں موت سے اتنا قریب\nدیجیےء ڈھارس مجھے آ کر چچا\nدم گھٹا جاتا ہے۔۔۔\n<<DIVIDER>>\nدل میں جینے کی تمنا ہی نہیں\nمیری تربت اب بنے شاید یہی\nمنتظر ہے دل فقط اب موت کا\nدم گھٹا جاتا ہے۔۔۔\n<<DIVIDER>>\nجب ستم کو سہتے سہتے تھک چکی\nقید خانے میں سکینہ مر گیء\nوقتِ آخر بھی رضا نوحہ یہ تھا\nدم گھٹا جاتا ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "شام کے زنداں سے یہ آی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جاتا ہے میرا قید میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ عمو تم کو میرا واسطہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جاتا ہے میرا قید میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کروں کب تک تمہارا انتظار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی آنکھیں ہر گھڑی ہے اشکبار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لینے آؤ گے مجھے تم کب بھلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جاتا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاکھ اپنے دل کو بہلاتی ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پر اندھیروں سے ڈری جاتی ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل رہی ہے مجھکو یہ کیسی سزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جاتا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا سے شام تک کا یہ سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سختیاں جھیلی ہے میں نے راہ بھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اس پر ظلم یہ زندان کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جاتا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزندگی میں ہر گھڑی تھی روشنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھتے ہی دیکھتے شام آ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب اندھیروں سے فقط ہے واسطہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جاتا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا کروں کچھ عقل میں آتا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی دکھیا پر ترس کھاتا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب رکے گا ظلم کا یہ سلسلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جاتا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیل چہرے پر ہے کرتہ خوں سے تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بہت روی ہوں عمو رات بھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوچھتا کوئی نہیں ہے کیا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جاتا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعمر چھوٹی ہے بہت میں کیا کروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور کب تک ظلم سے تنہا لڑوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو نہ ایسا دم نکل جائے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جاتا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقید خانے میں ہر اک شام و سحر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کو تڑپاتی رہی یاد پدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج تک ٹوٹا نہیں یہ سلسلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جاتا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانے کب ہو مجھکو میرا گھر نصیب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کھڑی ہوں موت سے اتنا قریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیجیےء ڈھارس مجھے آ کر چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جاتا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل میں جینے کی تمنا ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری تربت اب بنے شاید یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منتظر ہے دل فقط اب موت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جاتا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب ستم کو سہتے سہتے تھک چکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں سکینہ مر گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقتِ آخر بھی رضا نوحہ یہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم گھٹا جاتا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Raza Ali Khan Lakhnavi",
   "anjumans": [],
   "verified": false

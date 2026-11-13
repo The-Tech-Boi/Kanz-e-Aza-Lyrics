@@ -1,12 +1,541 @@
 {
   "remoteId": "g2611_u3661",
-  "title": "Zindan se reha",
+  "title": "زندان سے رہا",
   "body": "زندان سے رہا ہو گئے سادات\nاللہ یہ کیا ہو گئے سادات\nخود کرب و بلا ہو گئے سادات\n<<DIVIDER>>\nیہ کیسی رہائی ہے کے دل خوش نہیں ہوتا\nکیا رِہ گیا زندان میں کے ہر شہہ بھی ہے روتا\nہا اپنی سکینہ سے جُدا ہوتے ہیں سادات\nاللہ میرے اللہ\nزندان سے رہا ہو گئے ۔۔۔\n<<DIVIDER>>\nاے شامیو اب چین سے آرام سے سونا\nبے چین کرے گا نہ کسی بچی کا رونا\nجو شب کو بُکا کرتی تھی روئے گی کبھی نہ\nاللہ میرے اللہ\nزندان سے رہا ہو گئے ۔۔۔\n<<DIVIDER>>\nزینب نے کہا قید میں ہے میرا خزانہ\nاے عورتوں جب شام ڈھلے اس طرف آنا\nتُربت پہ سکینہ کی بھی آئے جنانہ\nاللہ میرے اللہ\nزندان سے رہا ہو گئے ۔۔۔\n<<DIVIDER>>\nسجاد نے زیور جو اسیری کے اتارے\nسوکھے ہوئے سب زخم ہرے ہو گئے سارے\nسر دیکھ کے بابا کا تڑپ کر وہ پُکارے\nاللہ میرے اللہ\nزندان سے رہا ہو گئے ۔۔۔\n<<DIVIDER>>\nزینب نے ردا پا کے کہا شکر ِ خدا ہے\nعباس میرے بھائی مگر صدمہ بڑا ہے\nسر ننگے ہمیںسارا جہان دیکھ چُکا ہے\nاللہ میرے اللہ\nزندان سے رہا ہو گئے ۔۔۔\n<<DIVIDER>>\nکلثوم جو اک لفظ ابھی تک نہ تھی بولی\nجس وقت رسن بازو سے سجاد نے کھولی\nکہنے لگی کیا جائے وطن خالی ہے جھولی\nاللہ میرے اللہ\nزندان سے رہا ہو گئے ۔۔۔\n<<DIVIDER>>\nیہ قافلہ جب کرب و بلا لوٹ کے آیا\nدیکھا کہ پڑا دھوپ میں ہے بھائی کا لاشہ\nزینب نے سرِ خاکِ بلا خود کو گرایا\nاللہ میرے اللہ\nزندان سے رہا ہو گئے ۔۔۔\n<<DIVIDER>>\nکیا شان تھی سادات کی جب گھر سے چلے تھے\nمہمل تھی عماری بھی تھی مشکیزے بھرے تھے\nعباسِ علمدار علم کھولے ہوئے تھے\nاللہ میرے اللہ\nزندان سے رہا ہو گئے ۔۔۔\n<<DIVIDER>>\nگلیوں میں مدینے کی عجب شور بپا ہے\nصغریٰ سے ابھی آ کے کسی نے یہ کہا ہے\nآ صغریٰ تیرا بابا وطن لوٹ رہا ہے\nاللہ میرے اللہ\nزندان سے رہا ہو گئے ۔۔۔\n<<DIVIDER>>\nروضے پہ محمد کے جو سیدانیاں پہنچی\nاے سرور و ریحان نگاہیں بھی جھُکی تھی\nدکھلا کے نشاں رسی کے زینب یہ پُکاری\nاللہ میرے اللہ\nزندان سے رہا ہو گئے ۔۔۔",
+  "styling": [
+    {
+      "insert": "زندان سے رہا ہو گئے سادات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ یہ کیا ہو گئے سادات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود کرب و بلا ہو گئے سادات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کیسی رہائی ہے کے دل خوش نہیں ہوتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا رِہ گیا زندان میں کے ہر شہہ بھی ہے روتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہا اپنی سکینہ سے جُدا ہوتے ہیں سادات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ میرے اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندان سے رہا ہو گئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شامیو اب چین سے آرام سے سونا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے چین کرے گا نہ کسی بچی کا رونا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو شب کو بُکا کرتی تھی روئے گی کبھی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ میرے اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندان سے رہا ہو گئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے کہا قید میں ہے میرا خزانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے عورتوں جب شام ڈھلے اس طرف آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تُربت پہ سکینہ کی بھی آئے جنانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ میرے اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندان سے رہا ہو گئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد نے زیور جو اسیری کے اتارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوکھے ہوئے سب زخم ہرے ہو گئے سارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر دیکھ کے بابا کا تڑپ کر وہ پُکارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ میرے اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندان سے رہا ہو گئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے ردا پا کے کہا شکر ِ خدا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے بھائی مگر صدمہ بڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر ننگے ہمیںسارا جہان دیکھ چُکا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ میرے اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندان سے رہا ہو گئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکلثوم جو اک لفظ ابھی تک نہ تھی بولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس وقت رسن بازو سے سجاد نے کھولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنے لگی کیا جائے وطن خالی ہے جھولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ میرے اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندان سے رہا ہو گئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ قافلہ جب کرب و بلا لوٹ کے آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا کہ پڑا دھوپ میں ہے بھائی کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے سرِ خاکِ بلا خود کو گرایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ میرے اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندان سے رہا ہو گئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا شان تھی سادات کی جب گھر سے چلے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مہمل تھی عماری بھی تھی مشکیزے بھرے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباسِ علمدار علم کھولے ہوئے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ میرے اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندان سے رہا ہو گئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگلیوں میں مدینے کی عجب شور بپا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغریٰ سے ابھی آ کے کسی نے یہ کہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ صغریٰ تیرا بابا وطن لوٹ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ میرے اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندان سے رہا ہو گئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروضے پہ محمد کے جو سیدانیاں پہنچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے سرور و ریحان نگاہیں بھی جھُکی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھلا کے نشاں رسی کے زینب یہ پُکاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ میرے اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندان سے رہا ہو گئے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

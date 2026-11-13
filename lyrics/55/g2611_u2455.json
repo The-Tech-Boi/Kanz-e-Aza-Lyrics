@@ -1,12 +1,644 @@
 {
   "remoteId": "g2611_u2455",
-  "title": "Mohamed ka nawasa",
+  "title": "محمد کا نواسہ",
   "body": "فلک پر چاند نظر آیا محرم کا\nبے ساختہ آنکھوں نے میری خون بہایا\nلوگوں نے مجھے روتے ہوے دیکھ کے پوچھا\nشہزادی زرا یہ تو بتا غم ہے یہ کیسا\nکیوں فرش عزا آپ نے گھر میں ہے بچھایا\n<<DIVIDER>>\nصغرا نے کہا اہلِ مدینہ\nگھر زہرا کا ویران ہوا ہے\nاے لوگوں محمد کا نواسہ\nپردیس میں مہمان ہوا ہے\n<<DIVIDER>>\nنانا کے مدینے میں اداسی کا ہے ماتم\nہمشکل نبی ہے نہ شہنشاہِ دو عالم\nوحشت سی برستی ہے در و بام سے ہر دم\nبابا\nجس دن سے گےء ہے میرے بابا\nگھر زہرا کا ویران ہوا ہے\nاے لوگوں محمد کا۔۔۔\n<<DIVIDER>>\nجس دن سے گےء ہے میرے بابا میرے گھر سے\nاک لمحہ نہیں ایسا کہ آنسوں نہیں برسے\nدل میرا سکینہ سے ملاقات کو ترسے\nدنیا\nاس غم کو سمجھتی نہیں دنیا\nگھر زہرا کا ویران ہوا ہے\nاے لوگوں محمد کا۔۔۔\n<<DIVIDER>>\nاس غم کو سمجھتی نہیں دنیا میرے نانا\nصغرا پہ قیامت ہے پدر کا چلے جانا\nدل کہتا ہے اس گھر کو مصیبت سے بچانا\nاللّٰہ\nتو دیکھ رہا ہے میرے اللّٰہ\nگھر زہرا کا ویران ہوا ہے\nاے لوگوں محمد کا۔۔۔\n<<DIVIDER>>\nتو دیکھ رہا ہے میرے اللّٰہ اداسی\nاحمد کا نواسہ ہے نہ احمد کی نواسی\nامت کی نگاہوں میں نہیں چرم زرا سی\nکعبہ\nاس غم میں سیاہ پوش ہے کعبہ\nگھر زہرا کا ویران ہوا ہے\nاے لوگوں محمد کا۔۔۔\n<<DIVIDER>>\nاس غم میں سیاہ پوش ہے کعبہ بھی حرم بھی\nکلثوم بھی زینب بھی شہنشاہِ امم بھی\nاکبر بھی چچا جان بھی اور ان کا علم بھی\nصغرا\nیہ درد بتاے کسے صغرا\nگھر زہرا کا ویران ہوا ہے\nاے لوگوں محمد کا۔۔۔\n<<DIVIDER>>\nیہ درد بتاے کسے صغرا کے ہوا کیا\nگھر قبر سا لگتا ہے نہ اکبر ہے نہ بابا\nاس قبر میں ہے فاطمہ صغریٰ کا جنازہ\nصدمہ\nصغرا کو رلاتا ہے یہ صدمہ\nگھر زہرا کا ویران ہوا ہے\nاے لوگوں محمد کا۔۔۔\n<<DIVIDER>>\nصغرا کو رلاتا ہے یہ صدمہ علی اکبر\nگھر والوں کی فرقت میں گزر جاے گی خواہر\nدیکھوں کوئی گہوارہ تو یاد آتے ہیں اصغر\nاب کیا\nدامن میں میرے رہ گیا اب کیا\nگھر زہرا کا ویران ہوا ہے\nاے لوگوں محمد کا۔۔۔\n<<DIVIDER>>\nدامن میں میرے رہ گیا اب کیا میرے نانا\nمظہر یہی فریاد کیا کرتی تھی صغرا\nتم چاہو جو بیمار کے زخموں کا مداوا\nنوحہ\nعرفان سنا دو یہی نوحہ\nگھر زہرا کا ویران ہوا ہے\nاے لوگوں محمد کا۔۔۔",
+  "styling": [
+    {
+      "insert": "فلک پر چاند نظر آیا محرم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ساختہ آنکھوں نے میری خون بہایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگوں نے مجھے روتے ہوے دیکھ کے پوچھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہزادی زرا یہ تو بتا غم ہے یہ کیسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں فرش عزا آپ نے گھر میں ہے بچھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصغرا نے کہا اہلِ مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر زہرا کا ویران ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لوگوں محمد کا نواسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس میں مہمان ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنانا کے مدینے میں اداسی کا ہے ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمشکل نبی ہے نہ شہنشاہِ دو عالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وحشت سی برستی ہے در و بام سے ہر دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس دن سے گےء ہے میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر زہرا کا ویران ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لوگوں محمد کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس دن سے گےء ہے میرے بابا میرے گھر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک لمحہ نہیں ایسا کہ آنسوں نہیں برسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میرا سکینہ سے ملاقات کو ترسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس غم کو سمجھتی نہیں دنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر زہرا کا ویران ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لوگوں محمد کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس غم کو سمجھتی نہیں دنیا میرے نانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا پہ قیامت ہے پدر کا چلے جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کہتا ہے اس گھر کو مصیبت سے بچانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللّٰہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو دیکھ رہا ہے میرے اللّٰہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر زہرا کا ویران ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لوگوں محمد کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو دیکھ رہا ہے میرے اللّٰہ اداسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "احمد کا نواسہ ہے نہ احمد کی نواسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت کی نگاہوں میں نہیں چرم زرا سی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس غم میں سیاہ پوش ہے کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر زہرا کا ویران ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لوگوں محمد کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس غم میں سیاہ پوش ہے کعبہ بھی حرم بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلثوم بھی زینب بھی شہنشاہِ امم بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر بھی چچا جان بھی اور ان کا علم بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ درد بتاے کسے صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر زہرا کا ویران ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لوگوں محمد کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ درد بتاے کسے صغرا کے ہوا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر قبر سا لگتا ہے نہ اکبر ہے نہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس قبر میں ہے فاطمہ صغریٰ کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا کو رلاتا ہے یہ صدمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر زہرا کا ویران ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لوگوں محمد کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصغرا کو رلاتا ہے یہ صدمہ علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر والوں کی فرقت میں گزر جاے گی خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھوں کوئی گہوارہ تو یاد آتے ہیں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دامن میں میرے رہ گیا اب کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر زہرا کا ویران ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لوگوں محمد کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدامن میں میرے رہ گیا اب کیا میرے نانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظہر یہی فریاد کیا کرتی تھی صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم چاہو جو بیمار کے زخموں کا مداوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عرفان سنا دو یہی نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر زہرا کا ویران ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لوگوں محمد کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

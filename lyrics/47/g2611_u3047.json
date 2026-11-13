@@ -1,12 +1,332 @@
 {
   "remoteId": "g2611_u3047",
-  "title": "Shaheede karbala",
+  "title": "شہید کربلا",
   "body": "شہید کربلا بے شیر اصغر\nتبسم ہے تیرا شمشیر اصغر\n<<DIVIDER>>\nمدینے میں فقط کچھ دن کا سن تھا\nکہ تو نے چھوڑ دی آغوش صغرا\nتھا دل میں تیرے قربانی کا جزبہ\nتو ہے جان دل شبیر اصغر\nشہید کربلا۔۔۔\n<<DIVIDER>>\nیہ ہے پیاسا مسافر اور کمسن\nہے اس کی مٹھیاں بھی بند لیکن\nیہ کر سکتا ہے نا ممکن کو ممکن\nکرے گا دین کی تعمیر اصغر\nشہید کربلا۔۔۔\n<<DIVIDER>>\nاکیلے رن میں تھے سبط پیمبر\nمگر کتنا یقین تھا ان کو تجھ پر\nکہ مقتل میں صدا ھل من کی دے کر\nبلاتے ہیں تجھے شبیر اصغر\nشہید کربلا۔۔۔\n<<DIVIDER>>\nبرستا خون کربل کی ہوا میں\nوہ ہل من کی صدا دشت بلا میں\nوہ تیرا رَن کو آنا اس فضا میں\nبرائے نصرت شبیر اصغر\nشہید کربلا۔۔۔\n<<DIVIDER>>\nہے کیسی کمسن یا رب دہائی\nصداے العطش لب پر نہ آی\nفقط سوکھی زباں سب کو دکھای\nمکمل صبر کی تصویر اصغر\nشہید کربلا۔۔۔\n<<DIVIDER>>\nنہ بھولے گا زمانہ تیرا احساں\nتبسم تیرا فتح حق کا اعلان\nتو ہے بے شیر مگر مرد میداں\nعطش کے کارواں کے میر اصغر\nشہید کربلا۔۔۔",
+  "styling": [
+    {
+      "insert": "شہید کربلا بے شیر اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تبسم ہے تیرا شمشیر اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمدینے میں فقط کچھ دن کا سن تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ تو نے چھوڑ دی آغوش صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا دل میں تیرے قربانی کا جزبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو ہے جان دل شبیر اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ ہے پیاسا مسافر اور کمسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے اس کی مٹھیاں بھی بند لیکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کر سکتا ہے نا ممکن کو ممکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرے گا دین کی تعمیر اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکیلے رن میں تھے سبط پیمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر کتنا یقین تھا ان کو تجھ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ مقتل میں صدا ھل من کی دے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلاتے ہیں تجھے شبیر اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرستا خون کربل کی ہوا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ہل من کی صدا دشت بلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ تیرا رَن کو آنا اس فضا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برائے نصرت شبیر اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے کیسی کمسن یا رب دہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداے العطش لب پر نہ آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فقط سوکھی زباں سب کو دکھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مکمل صبر کی تصویر اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ بھولے گا زمانہ تیرا احساں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تبسم تیرا فتح حق کا اعلان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو ہے بے شیر مگر مرد میداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عطش کے کارواں کے میر اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "anjumans": [],
   "verified": false
 }

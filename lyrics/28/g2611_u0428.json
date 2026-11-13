@@ -1,7 +1,315 @@
 {
   "remoteId": "g2611_u0428",
-  "title": "Ali ka zikr",
+  "title": "علی کا ذکر",
   "body": "علی کا ذکر محمد کا نام باقی ہے\nحسین تم سے خدا کا کلام باقی ہے\n<<DIVIDER>>\nمٹانے والے امامت کے مٹ گےء لیکن\nخدا کے فضل سے اب بھی امام باقی ہے\nعلی کا ذکر۔۔۔\n<<DIVIDER>>\nعلی کے لال کے دنیا میں نام باقی ہے\nیزید مٹ گےء ذکر انام باقی ہے\nعلی کا ذکر۔۔۔\n<<DIVIDER>>\nمٹاے لاکھ زمانہ مٹیں گے ہم کیسے\nہمارے سر پہ ہمارا امام باقی ہے\nعلی کا ذکر۔۔۔\n<<DIVIDER>>\nہمارا ان سے کبھی فیصلہ نہیں ہوگا\nیزید مر گیا کچھ رشتہ دار باقی ہے\nعلی کا ذکر۔۔۔\n<<DIVIDER>>\nوہ اور ہونگے یتیمان مذہب و ملت\nہمارے سر پہ ہمارا امام باقی ہے\nعلی کا ذکر۔۔۔\n<<DIVIDER>>\nقریب جھولے کے آ کر یہ رو کے بولے حسین\nابھی شہیدوں میں اصغر کا نام باقی ہے\nعلی کا ذکر۔۔۔\n<<DIVIDER>>\nزرا اے موت ٹہر جا کہا یہ اکبر نے\nضعیف باپ کا تھوڑا سا کام باقی ہے\nعلی کا ذکر۔۔۔\n<<DIVIDER>>\nبہ وقت آخری زینب سے رو کے بولے حسین\nتمہارے واسطے دربار شام باقی ہے\nعلی کا ذکر۔۔۔\n<<DIVIDER>>\nمجیب کو بھی بلاےنگے اپنے روضے پر\nاسی امید میں اب تک غلام باقی ہے\nعلی کا ذکر۔۔۔",
+  "styling": [
+    {
+      "insert": "علی کا ذکر محمد کا نام باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین تم سے خدا کا کلام باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمٹانے والے امامت کے مٹ گےء لیکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے فضل سے اب بھی امام باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا ذکر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی کے لال کے دنیا میں نام باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یزید مٹ گےء ذکر انام باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا ذکر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمٹاے لاکھ زمانہ مٹیں گے ہم کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمارے سر پہ ہمارا امام باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا ذکر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہمارا ان سے کبھی فیصلہ نہیں ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یزید مر گیا کچھ رشتہ دار باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا ذکر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ اور ہونگے یتیمان مذہب و ملت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمارے سر پہ ہمارا امام باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا ذکر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقریب جھولے کے آ کر یہ رو کے بولے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی شہیدوں میں اصغر کا نام باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا ذکر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزرا اے موت ٹہر جا کہا یہ اکبر نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضعیف باپ کا تھوڑا سا کام باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا ذکر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہ وقت آخری زینب سے رو کے بولے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے واسطے دربار شام باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا ذکر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجیب کو بھی بلاےنگے اپنے روضے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی امید میں اب تک غلام باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا ذکر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

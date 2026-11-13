@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u1850",
-  "title": "Kahin nahi hai",
+  "title": "کہیں نہیں ہے",
   "body": "کہیں نہیں ہے سفر میں قیام زینب کو\nابھی تو جانا ہے مقتل سے شام زینب کو\n<<DIVIDER>>\nلٹا کے اپنی کمائی جو پہنچی اسکے حضور\nبچا کے اسکی خدای جو پہنچی اسکے حضور\nخدا نے پیش کیا اپنا جام زینب کو\nکہیں نہیں ہے۔۔۔\n<<DIVIDER>>\nفنا کے سیل میں زینب کا بین رہ جائے\nخدا کا چہرہ لیےء یا حسین رہ جائے\nاسی سبب سے ملا ہے دوام زینب کو\nکہیں نہیں ہے۔۔۔\n<<DIVIDER>>\nاذل ابد کے تسلسل ہے چاہے دن ہو کہ رات\nہر ایک زمانے میں کرنا فقط حسین کی بات\nنہیں ہے اس کے سوا کوئی کام زینب کو\nکہیں نہیں ہے۔۔۔\n<<DIVIDER>>\nکہے تو کس سے جو اس پر گزر گیء ہاے\nاسے تو کھا گئی کوفے کی خاموشی ہاے\nمگر ہلا نہ سکا شور شام زینب کو\nکہیں نہیں ہے۔۔۔\n<<DIVIDER>>\nجو دیکھا صغرا تو کھو دیے حوس تمام\nوہ پوچھتی بھی تو صغرا سے کیسے اس کا نام\nکہ قد نہ یاد رہا اپنا نام زینب کو\nکہیں نہیں ہے۔۔۔\n<<DIVIDER>>\nبراے ارض و سماں راستہ نکالنا ہے\nحدود وقت سے یہ قافلہ نکالنا ہے\nسو دے رہے ہیں قیادت امام زینب کو\nکہیں نہیں ہے۔۔۔\n<<DIVIDER>>\nرخ حسین کو تا زندہ کر دیا ہے نوید\nخدا کو اس نے جو پایندہ کر دیا ہے نوید\nیہ خون کا پرسہ ہے یعنی سلام زینب کا\nکہیں نہیں ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "کہیں نہیں ہے سفر میں قیام زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی تو جانا ہے مقتل سے شام زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلٹا کے اپنی کمائی جو پہنچی اسکے حضور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچا کے اسکی خدای جو پہنچی اسکے حضور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا نے پیش کیا اپنا جام زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفنا کے سیل میں زینب کا بین رہ جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کا چہرہ لیےء یا حسین رہ جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی سبب سے ملا ہے دوام زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاذل ابد کے تسلسل ہے چاہے دن ہو کہ رات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک زمانے میں کرنا فقط حسین کی بات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہیں ہے اس کے سوا کوئی کام زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہے تو کس سے جو اس پر گزر گیء ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسے تو کھا گئی کوفے کی خاموشی ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر ہلا نہ سکا شور شام زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو دیکھا صغرا تو کھو دیے حوس تمام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ پوچھتی بھی تو صغرا سے کیسے اس کا نام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ قد نہ یاد رہا اپنا نام زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبراے ارض و سماں راستہ نکالنا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حدود وقت سے یہ قافلہ نکالنا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو دے رہے ہیں قیادت امام زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرخ حسین کو تا زندہ کر دیا ہے نوید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کو اس نے جو پایندہ کر دیا ہے نوید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ خون کا پرسہ ہے یعنی سلام زینب کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Ahmed Naved",
   "anjumans": [],
   "verified": false

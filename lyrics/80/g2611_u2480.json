@@ -1,12 +1,451 @@
 {
   "remoteId": "g2611_u2480",
-  "title": "Mujhko seene pe",
+  "title": "مجھکو سینے پہ",
   "body": "بین یہ شام غریباں میں سکینہ نے کیا\nنیند کیا آے گی کہ بستر ہے نہ تکیہ نہ ردا\nمجھکو سینے پہ سلا لو بابا\n<<DIVIDER>>\nپہلے ان تیروں کو سینے سے نکا لو بابا\nاور پھر مجھکو کلیجے سے لگا لو بابا\nیہ بتلاؤ کہ کیوں ہو گےء تم مجھ سے خفا\nمجھکو سینے پہ۔۔۔\n<<DIVIDER>>\nخون میں ڈوبے بی بیاں سے ڈر لگتا ہے\nکبھی مقتل کبھی زنداں سے ڈر لگتا ہے\nحوصلہ دو مجھے ڈھارس تو بندھا دو بابا\nمجھکو سینے پہ۔۔۔\n<<DIVIDER>>\nکھاے درے تو میں سمجھی کہ اسیری کیا ہے\nآج معلوم ہوا مجھکو یتیمی کیا ہے\nخاک پر بیٹھی ہوں اب حال ہے یہ غربت کا\nمجھکو سینے پہ۔۔۔\n<<DIVIDER>>\nکوی مرقد نہیں کوئی جنازہ بھی نہیں\nلاش پر کیسا کفن اب تو وہ کرتہ بھی نہیں\nتو نے مانگا تھا جو فضہ پرانا کرتہ\nمجھکو سینے پہ۔۔۔\n<<DIVIDER>>\nتم تھے مشہور میرے ناز اٹھانے والے\nاپنی بیٹی کو کلیجے سے لگانے والے\nآج تم سو گےء اور دھیان بھی آیا نہ میرا\nمجھکو سینے پہ۔۔۔\n<<DIVIDER>>\nخوشبو یہ آپ کی میں پا کے چلی آی ہوں\nوہ اندھیرا ہے کہ گھبرا کے چلی آی ہوں\nجسے خیموں کا پھپھی دے رہی ہونگی پہرہ\nمجھکو سینے پہ۔۔۔\n<<DIVIDER>>\nدیکھیےء خاک پہ بکھرا ہوا کوزہ میرا\nآپ کے بعد بھی ٹوٹا نہیں فاقہ میرا\nکبھی کھاے ہے طمانچے تو کبھی آشک پیا\nمجھکو سینے پہ۔۔۔\n<<DIVIDER>>\nآپ کی سانسوں سے ہر سانس میں راحت تھی مجھے\nآپ کے سینے پہ سونے کی تو عادت تھی مجھے\nکون سوتا ہے بدل جائے جو سونے کی جگہ\nمجھکو سینے پہ۔۔۔\n<<DIVIDER>>\nمیں تڑپتی ہی رہی آپ خفا ہو بھی گےء\nخاک پر آپ کو نیند آ بھی گیء سو بھی گےء\nکیا اسی واسطے خالق سے مجھے مانگا تھا\nمجھکو سینے پہ۔۔۔\n<<DIVIDER>>\nرات بھر شام غریباں ہمیں تڑپتی ہے\nنیند پھر عامر اور نیر کو کہاں آتی ہے\nیاد آتا ہے جو شہزادیء غم کا نوحہ\nمجھکو سینے پہ۔۔۔",
+  "styling": [
+    {
+      "insert": "بین یہ شام غریباں میں سکینہ نے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند کیا آے گی کہ بستر ہے نہ تکیہ نہ ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو سینے پہ سلا لو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہلے ان تیروں کو سینے سے نکا لو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پھر مجھکو کلیجے سے لگا لو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بتلاؤ کہ کیوں ہو گےء تم مجھ سے خفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو سینے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون میں ڈوبے بی بیاں سے ڈر لگتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی مقتل کبھی زنداں سے ڈر لگتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حوصلہ دو مجھے ڈھارس تو بندھا دو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو سینے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھاے درے تو میں سمجھی کہ اسیری کیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج معلوم ہوا مجھکو یتیمی کیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر بیٹھی ہوں اب حال ہے یہ غربت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو سینے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوی مرقد نہیں کوئی جنازہ بھی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاش پر کیسا کفن اب تو وہ کرتہ بھی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو نے مانگا تھا جو فضہ پرانا کرتہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو سینے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم تھے مشہور میرے ناز اٹھانے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی بیٹی کو کلیجے سے لگانے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج تم سو گےء اور دھیان بھی آیا نہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو سینے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوشبو یہ آپ کی میں پا کے چلی آی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ اندھیرا ہے کہ گھبرا کے چلی آی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسے خیموں کا پھپھی دے رہی ہونگی پہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو سینے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھیےء خاک پہ بکھرا ہوا کوزہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے بعد بھی ٹوٹا نہیں فاقہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی کھاے ہے طمانچے تو کبھی آشک پیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو سینے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کی سانسوں سے ہر سانس میں راحت تھی مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے سینے پہ سونے کی تو عادت تھی مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون سوتا ہے بدل جائے جو سونے کی جگہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو سینے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں تڑپتی ہی رہی آپ خفا ہو بھی گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر آپ کو نیند آ بھی گیء سو بھی گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا اسی واسطے خالق سے مجھے مانگا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو سینے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرات بھر شام غریباں ہمیں تڑپتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند پھر عامر اور نیر کو کہاں آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آتا ہے جو شہزادیء غم کا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو سینے پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Nayyar Jalalpuri",
   "anjumans": [],
   "verified": false

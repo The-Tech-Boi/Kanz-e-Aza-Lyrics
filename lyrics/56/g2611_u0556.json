@@ -1,12 +1,464 @@
 {
   "remoteId": "g2611_u0556",
-  "title": "Asghar kaafi hai",
+  "title": "اصغر کافی ہے",
   "body": "ہاتھوں میں علی اصغر کو لیےء\nشبیر صدا یہ دیتے تھے\n<<DIVIDER>>\nکیا مجھ سے لڑے گی فوج جفا\nنو لاکھ اس لشکر کے لئے\nمیرے اصغر کافی ہے\n<<DIVIDER>>\nخود اس کی ثنا قرآں کی طرح\nقرآن شجاعت کرتا ہے\nیہ شیر خدا کا پوتا ہے\nتلوار بنا لڑنے کے لئے\nمیرے اصغر کافی ہے۔۔۔\n<<DIVIDER>>\nکمسن ہے مگر لاچار نہیں\nعباس کے جیسے تیور ہے\nبس ایک اشارے سے اپنے\nطوفان بپا کر نے کے لئے\nمیرے اصغر کافی ہے۔۔۔\n<<DIVIDER>>\nرو دے تو برس جاے بادل\nبولے تو قیامت آ جاے\nاے مرحبے دشتِ کربوبلا\nخیبر کو تیرے ڈھانے کے لئے\nمیرے اصغر کافی ہے۔۔۔\n<<DIVIDER>>\nامت پہ جفا منظور نہیں\nمیں صابر ہوں مجبور نہیں\nیہ حکم مشیعت ہے ورنہ\nعباس تیرے بدلے کے لئے\nمیرے اصغر کافی ہے۔۔۔\n<<DIVIDER>>\nاللّٰہ رے ہمت بانو کی\nخود فوج ستم سے کہتی تھی\nشبیر پہ تیر نہ برساؤ\nہر تیر ستم کھانے کے لیےء\nمیرے اصغر کافی ہے۔۔۔\n<<DIVIDER>>\nجب آی سکینہ مقتل میں\nاس لاش سے آتی تھی یہ صدا\nمادر کی گود میں سو جاؤ\nپہلو میں میرے سونے کے لئے\nمیرے اصغر کافی ہے۔۔۔\n<<DIVIDER>>\nصغریٰ کو خبر یہ ہو نہ سکی\nدنیا سے گیا پیاسا بھای\nاس نے تو لکھا ہے خط میں یہی\nاے بابا میرے جینے کے لئے\nمیرے اصغر کافی ہے۔۔۔\n<<DIVIDER>>\nریحان نہیں فکر محشر\nجب باب حوایج ہے اصغر\nفردوس میں ابن زہرا کے\nقدموں میں جگہ پانے کے لئے\nمیرے اصغر کافی ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاتھوں میں علی اصغر کو لیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر صدا یہ دیتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا مجھ سے لڑے گی فوج جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نو لاکھ اس لشکر کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اصغر کافی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخود اس کی ثنا قرآں کی طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن شجاعت کرتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شیر خدا کا پوتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تلوار بنا لڑنے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اصغر کافی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکمسن ہے مگر لاچار نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کے جیسے تیور ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس ایک اشارے سے اپنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طوفان بپا کر نے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اصغر کافی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو دے تو برس جاے بادل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے تو قیامت آ جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مرحبے دشتِ کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیبر کو تیرے ڈھانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اصغر کافی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامت پہ جفا منظور نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں صابر ہوں مجبور نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ حکم مشیعت ہے ورنہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تیرے بدلے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اصغر کافی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللّٰہ رے ہمت بانو کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود فوج ستم سے کہتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر پہ تیر نہ برساؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر تیر ستم کھانے کے لیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اصغر کافی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب آی سکینہ مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس لاش سے آتی تھی یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مادر کی گود میں سو جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلو میں میرے سونے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اصغر کافی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصغریٰ کو خبر یہ ہو نہ سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا سے گیا پیاسا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس نے تو لکھا ہے خط میں یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بابا میرے جینے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اصغر کافی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان نہیں فکر محشر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب باب حوایج ہے اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فردوس میں ابن زہرا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدموں میں جگہ پانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اصغر کافی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

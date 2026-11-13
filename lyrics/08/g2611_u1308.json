@@ -1,7 +1,283 @@
 {
   "remoteId": "g2611_u1308",
-  "title": "Ghame sheh mein",
+  "title": "غم شہ میں",
   "body": "غم شہ میں جو آنکھوں سے رواں ہے\nوہ آنسوں قیمت باغ جناں ہے\n<<DIVIDER>>\nمقدر ہم‌ بنا لیتے ہیں جس سے\nکسی کے پاس وہ نسخہ‌ کہاں ہے\nغم شہ میں جو۔۔۔\n<<DIVIDER>>\nبغیر الفت آل محمد\nعمل کیا زندگی بھی رایگاں ہے\nغم شہ میں جو۔۔۔\n<<DIVIDER>>\nجسے کعبہ کہا کرتی ہے دنیا\nابو طالب کے بیٹے کا مکاں ہے\nغم شہ میں جو۔۔۔\n<<DIVIDER>>\nسزاے‌ موت دی باطل کو جس نے\nوہ ایک چھ ماہ کا قانون داں ہے\nغم شہ میں جو۔۔۔\n<<DIVIDER>>\nجو حر زندہ رہا حیران کیوں ہو\nدر شہ پر کوئی مرتا کہاں ہے\nغم شہ میں جو۔۔۔\n<<DIVIDER>>\nاذاں گونجی علی اکبر کی رن‌ میں\nصدا پر سوز ہے لہجہ جواں ہے\nغم شہ میں جو۔۔۔\n<<DIVIDER>>\nجو ہے منصوب اکبر سے جہاں میں\nنمازوں کی محافظ وہ اذاں ہے\nغم شہ میں جو۔۔۔\n<<DIVIDER>>\nعلی اکبر کا یہ صدقہ ہے گوہر\nخدا کا دین جو اب تک جواں ہے\nغم شہ میں جو۔۔۔",
+  "styling": [
+    {
+      "insert": "غم شہ میں جو آنکھوں سے رواں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ آنسوں قیمت باغ جناں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقدر ہم‌ بنا لیتے ہیں جس سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی کے پاس وہ نسخہ‌ کہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم شہ میں جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبغیر الفت آل محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمل کیا زندگی بھی رایگاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم شہ میں جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجسے کعبہ کہا کرتی ہے دنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابو طالب کے بیٹے کا مکاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم شہ میں جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسزاے‌ موت دی باطل کو جس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ایک چھ ماہ کا قانون داں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم شہ میں جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو حر زندہ رہا حیران کیوں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در شہ پر کوئی مرتا کہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم شہ میں جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاذاں گونجی علی اکبر کی رن‌ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدا پر سوز ہے لہجہ جواں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم شہ میں جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو ہے منصوب اکبر سے جہاں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نمازوں کی محافظ وہ اذاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم شہ میں جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی اکبر کا یہ صدقہ ہے گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کا دین جو اب تک جواں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم شہ میں جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

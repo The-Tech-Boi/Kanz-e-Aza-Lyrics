@@ -1,12 +1,279 @@
 {
   "remoteId": "g2611_u0926",
-  "title": "Bazaar may beparda",
+  "title": "بازار میں بے پردہ",
   "body": "سیدہ طاہرہ\nوا ہجابہ وا غربتا\n<<DIVIDER>>\nبازار میں بے پردہ نبی زادی کھڑی ہے\nہر موڑ پہ مرنے کی دعا مانگ رہی ہے\n<<DIVIDER>>\nہے ہاتھوں میں پتھر ابھی آی نہیں زینب\nبازار میں پہلے سے ہی اک بھیڑ لگی ہے\nبازار میں بے پردہ۔۔۔\n<<DIVIDER>>\nاس غم کی اذیت کوئی سجاد سے پوچھے\nبچپن میں سکینہ کی کمر کیسے جھکی ہے\nبازار میں بے پردہ۔۔۔\n<<DIVIDER>>\nبازار سے لگتا ہے گزرتے ہے جنازے\nخاموش ہر ایک بی بی ہے مرنے کی کمی ہے\nبازار میں بے پردہ۔۔۔\n<<DIVIDER>>\nہے آخری منزل اسے دربار نہ سمجھو\nمقتل کی طرف شاہ کی ہمشیر چلی ہے\nبازار میں بے پردہ۔۔۔\n<<DIVIDER>>\nتسبیح کے دانوں کی طرح اک رسن میں\nہر عمر کی زہرا ہے جو پابند کھڑی ہے\nبازار میں بے پردہ۔۔۔\n<<DIVIDER>>\nنام آتا ہے زینب کا شرابی کی زباں پر\nسجاد کی غیرت پہ قیامت کی گھڑی ہے\nبازار میں بے پردہ۔۔۔\n<<DIVIDER>>\nخوں رونے کو قیام کے یہ کافی ہے تکلم\nزینب کی طرف دیکھ کے دنیا یہ ہنسی ہے\nبازار میں بے پردہ۔۔۔",
+  "styling": [
+    {
+      "insert": "سیدہ طاہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وا ہجابہ وا غربتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازار میں بے پردہ نبی زادی کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر موڑ پہ مرنے کی دعا مانگ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے ہاتھوں میں پتھر ابھی آی نہیں زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں پہلے سے ہی اک بھیڑ لگی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں بے پردہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس غم کی اذیت کوئی سجاد سے پوچھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچپن میں سکینہ کی کمر کیسے جھکی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں بے پردہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازار سے لگتا ہے گزرتے ہے جنازے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش ہر ایک بی بی ہے مرنے کی کمی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں بے پردہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے آخری منزل اسے دربار نہ سمجھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل کی طرف شاہ کی ہمشیر چلی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں بے پردہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتسبیح کے دانوں کی طرح اک رسن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر عمر کی زہرا ہے جو پابند کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں بے پردہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنام آتا ہے زینب کا شرابی کی زباں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کی غیرت پہ قیامت کی گھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں بے پردہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوں رونے کو قیام کے یہ کافی ہے تکلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی طرف دیکھ کے دنیا یہ ہنسی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار میں بے پردہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,437 @@
 {
   "remoteId": "g2611_u0527",
-  "title": "Apne bachon ko",
+  "title": "اپنے بچوں کو",
   "body": "ہاے اکبر ہاے زینب\n<<DIVIDER>>\nاپنے بچوں کو کہاں زینب مضطر روی\nہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی\n<<DIVIDER>>\nلال زینب کے سر کربوبلا قتل ہوے\nلاے جب شاہ زمن دونوں کے لاشے رن سے\nاک بھی پل کے لئے ان کو نہ مادر روی\nہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی\nاپنے بچوں کو کہاں۔۔۔\n<<DIVIDER>>\nہاتھ پر باپ کے بے شیر کا جب حلق چھدا\nاپنے اصغر پہ کیا بنت علی نے گریہ\nپھر بھی کب بانوے بیکس کے برابر روی\nہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی\nاپنے بچوں کو کہاں۔۔۔\n<<DIVIDER>>\nسخت دشوار تھا یہ بات کا دل پر سہنا\nنہر سے سامنے عباس کے خیمے ہٹنا\nگرچہ اس ظلم پہ بھی زینب مضطر روی\nہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی\nاپنے بچوں کو کہاں۔۔۔\n<<DIVIDER>>\nمانگنے آیا جو خیمے میں جری رن کی رضا\nجوڑ کے ہاتھوں کو خاموش کھڑا تھا سقہ\nدیکھ کر‌ اپنے برادر کا جھکا سر روی\nہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی\nاپنے بچوں کو کہاں۔۔۔\n<<DIVIDER>>\nجن کو پانی نہ ملا ہاے رے وہ خستہ جگر\nخطرہء آب کو ترسے ہوئے ان بچوں پر\nدشت میں شیر خدا آپ کی دختر روی\nہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی\nاپنے بچوں کو کہاں۔۔۔\n<<DIVIDER>>\nآج ہر نور نظر مجھ سے بچھڑ جائے گا\nسوچ کر یہ ہی کے گھر میرا اجڑ جائے گا\nصبح عاشور بہت شاہ کی خواہر روی\nہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی\nاپنے بچوں کو کہاں۔۔۔\n<<DIVIDER>>\nجس سے ڈھارس تھی بہت ہاے وہ سقہء حرم\nجس کے مر جانے سے پیاسوں کا بڑھا اور بھی غم\nاس کے پرچم سے لپٹ کر بھی تو اکثر روی\nہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی\nاپنے بچوں کو کہاں۔۔۔\n<<DIVIDER>>\nغم تھا بس حشر میں اظہار یہی زینب کو\nآ گیا یاد جو ہمشکل نبی زینب کو\nدیکھ کر نانا کو ایسے سر محشر روی\nجس طرح لاشہء اکبر پہ تڑپ کر روی",
+  "styling": [
+    {
+      "insert": "ہاے اکبر ہاے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے بچوں کو کہاں زینب مضطر روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلال زینب کے سر کربوبلا قتل ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاے جب شاہ زمن دونوں کے لاشے رن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بھی پل کے لئے ان کو نہ مادر روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بچوں کو کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھ پر باپ کے بے شیر کا جب حلق چھدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے اصغر پہ کیا بنت علی نے گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی کب بانوے بیکس کے برابر روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بچوں کو کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسخت دشوار تھا یہ بات کا دل پر سہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہر سے سامنے عباس کے خیمے ہٹنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرچہ اس ظلم پہ بھی زینب مضطر روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بچوں کو کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمانگنے آیا جو خیمے میں جری رن کی رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوڑ کے ہاتھوں کو خاموش کھڑا تھا سقہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر‌ اپنے برادر کا جھکا سر روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بچوں کو کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجن کو پانی نہ ملا ہاے رے وہ خستہ جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خطرہء آب کو ترسے ہوئے ان بچوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت میں شیر خدا آپ کی دختر روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بچوں کو کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآج ہر نور نظر مجھ سے بچھڑ جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوچ کر یہ ہی کے گھر میرا اجڑ جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبح عاشور بہت شاہ کی خواہر روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بچوں کو کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس سے ڈھارس تھی بہت ہاے وہ سقہء حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے مر جانے سے پیاسوں کا بڑھا اور بھی غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کے پرچم سے لپٹ کر بھی تو اکثر روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں مگر لاشہء‌ اکبر پہ تڑپ کر‌ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بچوں کو کہاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم تھا بس حشر میں اظہار یہی زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا یاد جو ہمشکل نبی زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر نانا کو ایسے سر محشر روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس طرح لاشہء اکبر پہ تڑپ کر روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Ali Izhaar",
   "anjumans": [],
   "verified": false

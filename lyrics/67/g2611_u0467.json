@@ -1,12 +1,423 @@
 {
   "remoteId": "g2611_u0467",
-  "title": "Alwida alwida",
+  "title": "الوداع الوداع",
   "body": "بابا کیسے کہوں الوداع الوداع\n<<DIVIDER>>\nآپ جاتے نہیں جان جانے لگی\nزندگی مجھ سے دامن چھڑانے لگی\nسانس سینے میں رک رک کے آنے لگی\nاب میرے ساتھ ہے آہ اور ہچکیاں\nالوداع الوداع۔۔۔\n<<DIVIDER>>\nکیوں پیوں میں دوا ہو چکی بس شفا\nچھوڑ کر مجھکو میرا مسیحا چلا\nایسا لگتا ہے مجھ سے ہوے تم خفا\nمیری ہم جھولیاں اب ہے تنہائیاں\nالوداع الوداع۔۔۔\n<<DIVIDER>>\nکیسے بہلاؤں دل کچھ تو بولو پدر\nقبر سے کم نہیں ہاے اب میرا گھر\nموت ہے میری آپ کا یہ سفر\nبولتی ہے نظر چھپ ہے میری زباں\nالوداع الوداع۔۔۔\n<<DIVIDER>>\nکون جاتا ہے بیمار کو چھوڑ کر\nہاتھ رکھتے ہیں بیمار کی نفس پر\nاس کی دل جوئی کرتے ہیں شام و سحر\nرکھتے ہیں ٹھنڈے پانی کی بھی پٹیاں\nالوداع الوداع۔۔۔\n<<DIVIDER>>\nلو میرے گھر سے رخصت اجالا ہوا\nجاتا ہے بھای نازوں کا پالا ہوا\nرنج اس بات سے ہے دو بالا ہوا\nتم رہو گے یہاں میں رہوں گی وہاں\nالوداع الوداع۔۔۔\n<<DIVIDER>>\nہاے بابا میرے دن یہ گرمی کے ہیں\nساتھ بچوں کا ہے یہ سفر نہ کرے\nیہ تو پھر ساتھ مجھکو بھی لے چلے\nکہہ رہا ہے یہی اب تو اشک رواں\nالوداع الوداع۔۔۔\n<<DIVIDER>>\nدن تو کٹ جائے گا شب نہ کٹ پاے گی\nآپ کے ہجر میں نیند کب آئے گی\nنیند آئی تو وہ موت بن جائے گی\nروے گا میری غربت پہ اب آسماں\nالوداع الوداع۔۔۔\n<<DIVIDER>>\nنوحہ فرحان صغرا کے لب پہ یہ تھا\nمنہ کو آنے لگا ہے کلیجہ میرا\nہو گیا خالی کیسا بھرا گھر جو تھا\nہاے ریحان میں بھی ہوں نوحہ کناں\nالوداع الوداع۔۔۔",
+  "styling": [
+    {
+      "insert": "بابا کیسے کہوں الوداع الوداع"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ جاتے نہیں جان جانے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندگی مجھ سے دامن چھڑانے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سانس سینے میں رک رک کے آنے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میرے ساتھ ہے آہ اور ہچکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں پیوں میں دوا ہو چکی بس شفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ کر مجھکو میرا مسیحا چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا لگتا ہے مجھ سے ہوے تم خفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری ہم جھولیاں اب ہے تنہائیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے بہلاؤں دل کچھ تو بولو پدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر سے کم نہیں ہاے اب میرا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت ہے میری آپ کا یہ سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولتی ہے نظر چھپ ہے میری زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکون جاتا ہے بیمار کو چھوڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ رکھتے ہیں بیمار کی نفس پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کی دل جوئی کرتے ہیں شام و سحر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھتے ہیں ٹھنڈے پانی کی بھی پٹیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلو میرے گھر سے رخصت اجالا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتا ہے بھای نازوں کا پالا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رنج اس بات سے ہے دو بالا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم رہو گے یہاں میں رہوں گی وہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے بابا میرے دن یہ گرمی کے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ بچوں کا ہے یہ سفر نہ کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو پھر ساتھ مجھکو بھی لے چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ رہا ہے یہی اب تو اشک رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدن تو کٹ جائے گا شب نہ کٹ پاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے ہجر میں نیند کب آئے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند آئی تو وہ موت بن جائے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روے گا میری غربت پہ اب آسماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوحہ فرحان صغرا کے لب پہ یہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منہ کو آنے لگا ہے کلیجہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیا خالی کیسا بھرا گھر جو تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے ریحان میں بھی ہوں نوحہ کناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

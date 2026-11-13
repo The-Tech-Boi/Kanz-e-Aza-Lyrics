@@ -1,12 +1,278 @@
 {
   "remoteId": "g2611_u1575",
-  "title": "Hussain aaya hai",
+  "title": "حسین آیا ہے",
   "body": "حسین آیا ہے دیکھو تو اک نظر اب اماں\nصدائیں دیتا ہے کب سے تیرا پسر اماں\n<<DIVIDER>>\nوہ دیکھو زینب و کلثوم رو رہی ہے وہاں\nتڑپ کے بھیا حسن کر رہے ہیں آہ و فغاں\nنہ جاؤ ایسے بھرے گھر کو چھوڑ کر اماں\nحسین آیا ہے دیکھو۔۔۔\n<<DIVIDER>>\nکیوں ہم سے روٹھ کے جاتی ہو اس طرح بولو\nمیں تم کو جانے نہیں دونگا آنکھ تو کھولو\nنہیں تمہارے بنا عمر کا بسر اماں\nحسین آیا ہے دیکھو۔۔۔\n<<DIVIDER>>\nیہ کیسا دور ہمیں وقت نے ہے دکھلایا\nسروں سے اٹھ گیا بچپن میں آپ کا سایہ\nکٹے گا کیسے تیرے بعد یہ سفر اماں\nحسین آیا ہے دیکھو۔۔۔\n<<DIVIDER>>\nمیں تم کو کب سے جگاتا ہوں کیوں نہیں اٹھتی\nصدائیں دیتا ہوں رو رو کے بولتی ہی نہیں\nخدارا بولو کہ پھٹتا ہے اب جگر اماں\nحسین آیا ہے دیکھو۔۔۔\n<<DIVIDER>>\nشہید ہو گیا محسن جلایا گھر اماں\nتمہارا پہلو ہے زخمی گرایا در اماں\nجناں میں دینا یہ نانا کو سب خبر اماں\nحسین آیا ہے دیکھو۔۔۔\n<<DIVIDER>>\nتمہارے بعد مزہ کچھ نہیں ہے جینے کا\nہے سوگوار ہر ایک بام و در مدینے کا\nمجھے بھی لے چلو جاتی ہو تم جدھر اماں\nحسین آیا ہے دیکھو۔۔۔",
+  "styling": [
+    {
+      "insert": "حسین آیا ہے دیکھو تو اک نظر اب اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدائیں دیتا ہے کب سے تیرا پسر اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ دیکھو زینب و کلثوم رو رہی ہے وہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپ کے بھیا حسن کر رہے ہیں آہ و فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جاؤ ایسے بھرے گھر کو چھوڑ کر اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین آیا ہے دیکھو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں ہم سے روٹھ کے جاتی ہو اس طرح بولو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تم کو جانے نہیں دونگا آنکھ تو کھولو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہیں تمہارے بنا عمر کا بسر اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین آیا ہے دیکھو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کیسا دور ہمیں وقت نے ہے دکھلایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سروں سے اٹھ گیا بچپن میں آپ کا سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کٹے گا کیسے تیرے بعد یہ سفر اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین آیا ہے دیکھو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں تم کو کب سے جگاتا ہوں کیوں نہیں اٹھتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدائیں دیتا ہوں رو رو کے بولتی ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدارا بولو کہ پھٹتا ہے اب جگر اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین آیا ہے دیکھو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہید ہو گیا محسن جلایا گھر اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارا پہلو ہے زخمی گرایا در اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جناں میں دینا یہ نانا کو سب خبر اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین آیا ہے دیکھو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہارے بعد مزہ کچھ نہیں ہے جینے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے سوگوار ہر ایک بام و در مدینے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے بھی لے چلو جاتی ہو تم جدھر اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین آیا ہے دیکھو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Ali Rizvi Sachey",
   "anjumans": [],
   "verified": false

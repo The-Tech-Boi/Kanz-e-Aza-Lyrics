@@ -1,12 +1,473 @@
 {
   "remoteId": "g2611_u1378",
-  "title": "Hai karbala ke ban",
+  "title": "ہے کربلا کے بن",
   "body": "ہے کربلا کے بن میں غریبوں کا اربعیں\n<<DIVIDER>>\nشبیر کے مزار پہ زینب کی ہے جبیں\nآنسو بہا رہے ہیں کھڑے عابدِ حزیں\nآباد تھی حسین کے قدموں سے یہ زمیں\nاب حال یہ ہے سر پہ کوئی سائباں نہیں\nہے کربلا کے۔۔۔\n<<DIVIDER>>\nماں جائے پہلے آگ لگی خیمہ گاہ میں\nہر داغ اک تازہ قیامت تھی راہ میں\nبچی کی ہچکیوں کا ہے منظر نگاہ میں\nزندانِ شام میں ہے سکینہ یہاں نہیں\nہے کربلا کے۔۔۔\n<<DIVIDER>>\nعباسِ نامور جو حرم کا تھا پاسباں\nروتی تھی یاد کر کے جسے ساری بیبیاں\nبس جس کی لاش پہ تھے شاہِ دوجہاں\nلاشہ کہیں تھا ہاتھ کہیں اور علم کہیں\nہے کربلا کے۔۔۔\n<<DIVIDER>>\nبھیا ہمارے وعدے کی تکمیل ہو گئی\nایسا سفر ہواہے کے سر پر ردا نہ تھی\nدربارِ شام میں تھی قیامت کی بے بسی\nرودادِ غم سُنانے کی طاقت بھی اب نہیں\nہے کربلا کے۔۔۔\n<<DIVIDER>>\nلیلیٰ تڑپ رہی تھی کہ دلبر نہیں رہا\nلختِ جگر شبیہ پیمبر نہیں رہا\nرونے کو ماں تو رہ گیء اکبر نہیں رہا\nچہلم جوان بیٹے کا اور مادر حزیں\nہے کربلا کے۔۔۔\n<<DIVIDER>>\nفروہ کو یاد قاسم نوشاہ آ گیا\nپہنچا جو قتل گاہ میں دولہا بنا ہوا\nٹکڑے ملے تھے جسم کے لاشہ نہیں ملا\nجس کے لہو سے سرخ ہوی تھی یہی زمیں\nہے کربلا کے۔۔۔\n<<DIVIDER>>\nعباس تم نہیں تھے قیامت گزر گئی\nمیں کربلا سے شام تک ننگے سر گیء\nگود کے پالے مر گےء میں کیوں نہ مر گیء\nزینب تڑپ رہی تھی لرزنے لگی زمیں\nہے کربلا کے۔۔۔\n<<DIVIDER>>\nکہتی تھی یہ رباب بچا لیجیےء مجھے\nمولا لحد میں اپنی چھپا لیجیےء مجھے\nگھر جا کے کیا کروں یہ بتا دیجیےء مجھے\nسنسان گود ہو گیء والی کوئی نہیں\nہے کربلا کے۔۔۔\n<<DIVIDER>>\nاہلِ جہاں کو ہو گی اگر حق کی جستجو\nاختر اثر دیکھائے گا مظلوم کا لہو\nہے غمزدہ بہن کی یہی ایک آرزو\nآباد زائرین سے ہو جائے یہ زمیں\nہے کربلا کے۔۔۔",
+  "styling": [
+    {
+      "insert": "ہے کربلا کے بن میں غریبوں کا اربعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر کے مزار پہ زینب کی ہے جبیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنسو بہا رہے ہیں کھڑے عابدِ حزیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آباد تھی حسین کے قدموں سے یہ زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب حال یہ ہے سر پہ کوئی سائباں نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں جائے پہلے آگ لگی خیمہ گاہ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر داغ اک تازہ قیامت تھی راہ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچی کی ہچکیوں کا ہے منظر نگاہ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندانِ شام میں ہے سکینہ یہاں نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباسِ نامور جو حرم کا تھا پاسباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی تھی یاد کر کے جسے ساری بیبیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس جس کی لاش پہ تھے شاہِ دوجہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ کہیں تھا ہاتھ کہیں اور علم کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھیا ہمارے وعدے کی تکمیل ہو گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا سفر ہواہے کے سر پر ردا نہ تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دربارِ شام میں تھی قیامت کی بے بسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رودادِ غم سُنانے کی طاقت بھی اب نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلیلیٰ تڑپ رہی تھی کہ دلبر نہیں رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لختِ جگر شبیہ پیمبر نہیں رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے کو ماں تو رہ گیء اکبر نہیں رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم جوان بیٹے کا اور مادر حزیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفروہ کو یاد قاسم نوشاہ آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہنچا جو قتل گاہ میں دولہا بنا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑے ملے تھے جسم کے لاشہ نہیں ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے لہو سے سرخ ہوی تھی یہی زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس تم نہیں تھے قیامت گزر گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کربلا سے شام تک ننگے سر گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گود کے پالے مر گےء میں کیوں نہ مر گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب تڑپ رہی تھی لرزنے لگی زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی تھی یہ رباب بچا لیجیےء مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا لحد میں اپنی چھپا لیجیےء مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر جا کے کیا کروں یہ بتا دیجیےء مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنسان گود ہو گیء والی کوئی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاہلِ جہاں کو ہو گی اگر حق کی جستجو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اختر اثر دیکھائے گا مظلوم کا لہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے غمزدہ بہن کی یہی ایک آرزو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آباد زائرین سے ہو جائے یہ زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کربلا کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Arbayeen",
+  "subcategory": "اربعین",
   "author": "Akhtar Zaidi",
   "anjumans": [],
   "verified": false

@@ -1,7 +1,495 @@
 {
   "remoteId": "g2611_u3124",
-  "title": "Sultane zaman",
+  "title": "سلطان زمن",
   "body": "سلطان زمن آگےء وا حسرت و دردا\nمیدان بلا میں\nزینب نے سنا مادر دلگیر کا نوحہ\nجنگل کی ہوا میں\n<<DIVIDER>>\nسامان اترنے لگا منزل ہوی آخر\nآ پہنچے مسافر\nآتے ہی گھرا احمد مختار کا کنبہ\nاندوہ بلا میں\nسلطان زمن آگےء۔۔۔\n<<DIVIDER>>\nکھلنے لگے ہتھیار شجاعان عرب کے\nپا بند ادب کے\nعباس علمدار لگانے لگے خیمہ\nدریا کی فضا میں\nسلطان زمن آگےء۔۔۔\n<<DIVIDER>>\nہر ایک نمازی کا ہے خالق کی طرف دل\nطاعت پہ ہے مایل\nمصروف ہے پیغمبر عالم کا نواسہ\nامت کی دعا میں\nسلطان زمن آگےء۔۔۔\n<<DIVIDER>>\nجنگل کی ہواؤں سے مرس میں ہے ترقی\nآنکھیں نہیں کھلتی\nپکارتا ہے جگر زہر کا ہے ذایقہ سا\nعابد کو دوا میں\nسلطان زمن آگےء۔۔۔\n<<DIVIDER>>\nشبیر کے چہرے پہ بہ حالی کے ہیں آثار\nہنس دیتے ہیں ہر بار\nفرماتے ہیں اب کاہے کو ہونے لگا عرصہ\nوعدے کی وفا میں\nسلطان زمن آگےء۔۔۔\n<<DIVIDER>>\nجھونکے جو کبھی گرم ہواؤں کے ہیں چلتے\nبچے ہیں دہلتے\nسیدانیوں کا وقت ہر ایک دم ہے گزرتا\nفریاد و بکا میں\nسلطان زمن آگےء۔۔۔\n<<DIVIDER>>\nگرمی سے دل اصغر ناداں ہے دھڑکتا\nتالو ہے لپکتا\nاک حسرت و اندوہ کا انداز ہے پیدا\nگھنگرو کی صدا میں\nسلطان زمن آگےء۔۔۔\n<<DIVIDER>>\nکچھ سوچ کے کرتی ہے فغاں زینب ناچار\nکہتی ہے یہ ہر بار\nیہ کیا ہوا ہم بیکسوں کا قافلہ اترا\nکس دشت بلا میں\nسلطان زمن آگےء۔۔۔\n<<DIVIDER>>\nمحسن کے جگر بندوں سے سب پھر گےء کفار\nہو لعنت غفار\nباقی نہیں مسرور اثر خلق و وفا کا\nدنیا کی ہوا میں\nسلطان زمن آگےء۔۔۔",
+  "styling": [
+    {
+      "insert": "سلطان زمن آگےء وا حسرت و دردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان بلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے سنا مادر دلگیر کا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگل کی ہوا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسامان اترنے لگا منزل ہوی آخر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ پہنچے مسافر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتے ہی گھرا احمد مختار کا کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اندوہ بلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلطان زمن آگےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھلنے لگے ہتھیار شجاعان عرب کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پا بند ادب کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس علمدار لگانے لگے خیمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کی فضا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلطان زمن آگےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر ایک نمازی کا ہے خالق کی طرف دل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طاعت پہ ہے مایل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مصروف ہے پیغمبر عالم کا نواسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت کی دعا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلطان زمن آگےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنگل کی ہواؤں سے مرس میں ہے ترقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھیں نہیں کھلتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکارتا ہے جگر زہر کا ہے ذایقہ سا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کو دوا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلطان زمن آگےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر کے چہرے پہ بہ حالی کے ہیں آثار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہنس دیتے ہیں ہر بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرماتے ہیں اب کاہے کو ہونے لگا عرصہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدے کی وفا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلطان زمن آگےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجھونکے جو کبھی گرم ہواؤں کے ہیں چلتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچے ہیں دہلتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدانیوں کا وقت ہر ایک دم ہے گزرتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فریاد و بکا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلطان زمن آگےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگرمی سے دل اصغر ناداں ہے دھڑکتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تالو ہے لپکتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک حسرت و اندوہ کا انداز ہے پیدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھنگرو کی صدا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلطان زمن آگےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ سوچ کے کرتی ہے فغاں زینب ناچار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی ہے یہ ہر بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کیا ہوا ہم بیکسوں کا قافلہ اترا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس دشت بلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلطان زمن آگےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمحسن کے جگر بندوں سے سب پھر گےء کفار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو لعنت غفار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باقی نہیں مسرور اثر خلق و وفا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا کی ہوا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلطان زمن آگےء۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

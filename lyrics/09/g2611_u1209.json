@@ -1,7 +1,558 @@
 {
   "remoteId": "g2611_u1209",
-  "title": "Ehad naama",
+  "title": "عہد نامہ",
   "body": "زمین قلب پہ شہ کی عزا کا موسم ہے\nخطاے حر پہ حسینی عطا کا موسم ہے\nمریض نفس کی خاطر دوا کا موسم ہے\nحسین عصر سے احد وفا کا موسم ہے\nامام وقت سے وعدہ ہے سر کٹا دونگا\nلہو کا آخری خطرہ بھی میں بہا دونگا\n<<DIVIDER>>\nالعجل العجل العجل یا امام زمانہ\n<<DIVIDER>>\nحبیب مظاہر کی طرح\nنہ خط لکھ کے مجھکو بلانا\n<<DIVIDER>>\nبجھا کر دیا اور نہ ھل من\nکی آواز سے آزمانا\nتیرے سامنے ہاتھ باندھے\nمیں حر بنکے ٹہرا ملوں گا\nحبیب مظاہر کی طرح ۔۔۔\n<<DIVIDER>>\nنگاہیں پریشان صدیوں سے\nکعبے کی جانب لگی ہے\nتیرے پاک قدموں کی آہٹ\nزمیں سے ابھی اٹھ رہی ہے\nتیری آرزو میں نجف سے\nمیں کربوبلا تک چلوں گا\nحبیب مظاہر کی طرح ۔۔۔\n<<DIVIDER>>\nبندھا میرے ماتھے کے زخم\nپر رومال وہ فاطمہ کا\nہو گھوڑوں کی ٹاپوں سے رن میں\nبدن کاش پامال میرا\nمیں سو بار بھی جی اٹھوں تو\nمیں سو بار تجھ پہ مرونگا\nحبیب مظاہر کی طرح ۔۔۔\n<<DIVIDER>>\nوہ زخمی جگر جس کی بایس\nتو مقتل میں گھٹنوں چلا تھا\nکیء بار کھای تھی ٹھوکر\nکیء بار رن میں گرا تھا\nمیں اکبر کے سینے کی برچھی\nکلیجے پہ مولا سہونگا\nحبیب مظاہر کی طرح ۔۔۔\n<<DIVIDER>>\nوہ شام غریباں ابھی بھی\nمیرے قلب پہ ڈھل رہی ہے\nوہ راستے کڑی دھوپ میں جو\nسکینہ بھی چل رہی ہے\nیتیمہ کی راہوں کے کانٹے\nمیں پلکوں سے اپنی چنوں گا\nحبیب مظاہر کی طرح ۔۔۔\n<<DIVIDER>>\nگھری شام والوں میں زینب\nمدد کی صدا دے رہی ہے\nجھکا دوں گا گستاخ نظریں\nجو روضے کی جانب اٹھی ہے\nاے بنت علی تیری خاطر\nمیں عباس بن کر لڑونگا\nحبیب مظاہر کی طرح ۔۔۔\n<<DIVIDER>>\nپڑے طوق گردن میں چاہے\nبندھے میرے پیروں میں بیڑی\nسنے گا زمانہ کسی دن\nگرجدار للکار میری\nمیں تاریک زنداں کی ظلمت\nسے مختار بن کر اٹھوں گا\nحبیب مظاہر کی طرح ۔۔۔",
+  "styling": [
+    {
+      "insert": "زمین قلب پہ شہ کی عزا کا موسم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خطاے حر پہ حسینی عطا کا موسم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مریض نفس کی خاطر دوا کا موسم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین عصر سے احد وفا کا موسم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امام وقت سے وعدہ ہے سر کٹا دونگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو کا آخری خطرہ بھی میں بہا دونگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالعجل العجل العجل یا امام زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحبیب مظاہر کی طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ خط لکھ کے مجھکو بلانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبجھا کر دیا اور نہ ھل من"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کی آواز سے آزمانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے سامنے ہاتھ باندھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں حر بنکے ٹہرا ملوں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حبیب مظاہر کی طرح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنگاہیں پریشان صدیوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کعبے کی جانب لگی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے پاک قدموں کی آہٹ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں سے ابھی اٹھ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری آرزو میں نجف سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کربوبلا تک چلوں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حبیب مظاہر کی طرح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبندھا میرے ماتھے کے زخم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پر رومال وہ فاطمہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گھوڑوں کی ٹاپوں سے رن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بدن کاش پامال میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں سو بار بھی جی اٹھوں تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں سو بار تجھ پہ مرونگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حبیب مظاہر کی طرح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ زخمی جگر جس کی بایس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو مقتل میں گھٹنوں چلا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیء بار کھای تھی ٹھوکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیء بار رن میں گرا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں اکبر کے سینے کی برچھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلیجے پہ مولا سہونگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حبیب مظاہر کی طرح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ شام غریباں ابھی بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے قلب پہ ڈھل رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ راستے کڑی دھوپ میں جو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ بھی چل رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یتیمہ کی راہوں کے کانٹے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پلکوں سے اپنی چنوں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حبیب مظاہر کی طرح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھری شام والوں میں زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدد کی صدا دے رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھکا دوں گا گستاخ نظریں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو روضے کی جانب اٹھی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بنت علی تیری خاطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں عباس بن کر لڑونگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حبیب مظاہر کی طرح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپڑے طوق گردن میں چاہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بندھے میرے پیروں میں بیڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنے گا زمانہ کسی دن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرجدار للکار میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تاریک زنداں کی ظلمت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سے مختار بن کر اٹھوں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حبیب مظاہر کی طرح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

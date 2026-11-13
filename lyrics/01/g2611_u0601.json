@@ -1,12 +1,537 @@
 {
   "remoteId": "g2611_u0601",
-  "title": "Awaaz do ali akbar",
+  "title": "آواز دو اے علی اکبر",
   "body": "آیینہ آیینہ علی اکبر\nہاے اکبر ہاے اکبر\nاے نوجواں اے نوجواں\n<<DIVIDER>>\nآواز دو اے علی اکبر آواز دو\n<<DIVIDER>>\nجاتی ہے میری جاں\nمقتل میں ہے دھواں\nبیٹا ہو تم کہاں\n<<DIVIDER>>\nمارا ہے کس طرح سے تمہیں سوچتا ہوں میں\nپتھر ہٹا کے تمہیں ڈھونڈتا ہوں میں\nچاروں طرف ہے خون ملتا نہیں سکون\nلاشوں کے درمیاں\nآواز دو اے علی اکبر۔۔۔\n<<DIVIDER>>\nکچھ بھی دکھائی دیتا نہیں میں غریب ہوں\nخوشبو سے لگ رہا ہے تمہارے قریب ہوں\nاے میرے دل کے چین بابا کے نور عین\nاب لو نہ امتحاں\nآواز دو اے علی اکبر۔۔۔\n<<DIVIDER>>\nمیں نے سنا ہے گھوڑے سے تم خود نہیں گرے\nاے میرے لال بالوں سے کھینچا گیا تمہیں\nتم ہو یہی کہیں کیوں بولتے نہیں\nخاموش ہے زباں\nآواز دو اے علی اکبر۔۔۔\n<<DIVIDER>>\nکیسے گرے ہو مجھکو بتاؤ تو زین سے\nلگتا ہے تمہیں کھای ہے برچھی لعین سے\nچہرہ بھی زرد ہے سینے میں درد ہے\nکچھ تو کرو بیاں\nآواز دو اے علی اکبر۔۔۔\n<<DIVIDER>>\nمقتل میں آتے آتے بھی مارا گیا مجھے\nڈوبا ہوا ہوں خون میں پتھر کے زخم سے\nزخمی ہے یہ جگر دیکھو میرے پسر\nچہرے پہ ہے نشاں\nآواز دو اے علی اکبر۔۔۔\n<<DIVIDER>>\nہمت کرو زرا سی کلیجے کو تھام کر\nہے وقت عصر جا گو میرے نوجواں پسر\nلیلیٰ کی آس ہے زینب اداس ہے\nدو آخری اذاں\nآواز دو اے علی اکبر۔۔۔\n<<DIVIDER>>\nتم خود علی ہو بیٹا زرا حوصلہ کرو\nبڑھنے لگا ہے درد تو ناد علی پڑھو\nآنکھیں ہیں میری نم صغرا کی ہے قسم\nرگڑو نہ ایڑیاں\nآواز دو اے علی اکبر۔۔۔\n<<DIVIDER>>\nدو ماؤں نے جواں کیا تم کو پال کر\nخیموں میں جا کے کیسے ملاؤں گا میں نظر\nمیں ان سے کیا کہوں ہے تیرا خوں\nکیسے سہے گی ماں\nآواز دو اے علی اکبر۔۔۔\n<<DIVIDER>>\nاذلان‌ رو کے کہتا رہا یہ میرا امام\nبیٹا ہمارے حال پہ ہنستی ہے فوج شام\nدھندلا ہے سب جہان ہے سرخ آسماں\nچلتی ہے آندھیاں\nآواز دو اے علی اکبر۔۔۔",
+  "styling": [
+    {
+      "insert": "آیینہ آیینہ علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اکبر ہاے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نوجواں اے نوجواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآواز دو اے علی اکبر آواز دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاتی ہے میری جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں ہے دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹا ہو تم کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمارا ہے کس طرح سے تمہیں سوچتا ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر ہٹا کے تمہیں ڈھونڈتا ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاروں طرف ہے خون ملتا نہیں سکون"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشوں کے درمیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز دو اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ بھی دکھائی دیتا نہیں میں غریب ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوشبو سے لگ رہا ہے تمہارے قریب ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے دل کے چین بابا کے نور عین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب لو نہ امتحاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز دو اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں نے سنا ہے گھوڑے سے تم خود نہیں گرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے لال بالوں سے کھینچا گیا تمہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہو یہی کہیں کیوں بولتے نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش ہے زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز دو اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے گرے ہو مجھکو بتاؤ تو زین سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگتا ہے تمہیں کھای ہے برچھی لعین سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرہ بھی زرد ہے سینے میں درد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ تو کرو بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز دو اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل میں آتے آتے بھی مارا گیا مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈوبا ہوا ہوں خون میں پتھر کے زخم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہے یہ جگر دیکھو میرے پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرے پہ ہے نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز دو اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہمت کرو زرا سی کلیجے کو تھام کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وقت عصر جا گو میرے نوجواں پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ کی آس ہے زینب اداس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو آخری اذاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز دو اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم خود علی ہو بیٹا زرا حوصلہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑھنے لگا ہے درد تو ناد علی پڑھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھیں ہیں میری نم صغرا کی ہے قسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رگڑو نہ ایڑیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز دو اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدو ماؤں نے جواں کیا تم کو پال کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں میں جا کے کیسے ملاؤں گا میں نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ان سے کیا کہوں ہے تیرا خوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے سہے گی ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز دو اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاذلان‌ رو کے کہتا رہا یہ میرا امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹا ہمارے حال پہ ہنستی ہے فوج شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دھندلا ہے سب جہان ہے سرخ آسماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتی ہے آندھیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز دو اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "group": 2026,
   "author": "Arsalan Azmi",
   "anjumans": [],

@@ -1,7 +1,356 @@
 {
   "remoteId": "g2611_u2823",
-  "title": "Saaye may sayyeda",
+  "title": "سائے میں سیدہ",
   "body": "سائے میں سیدہ کے اعزادار رہیں گے\nجب ہو گا سوا نیزے پہ خورشید و قیامت\nسائے میں سیدہ کے اعزادار رہیں گے\n<<DIVIDER>>\nبڑھتا ہی چلا جائے گا شبیر کا ماتم\nقایم جو غمِ شہہ کے علمدار رہیں گے\nسائے میں سیدہ کے۔۔۔\n<<DIVIDER>>\nہم قبر میں سو جائیں گے جب بے خبری سے\nماتم کے نشاں روح میں بیدار رہیں گے\nسائے میں سیدہ کے۔۔۔\n<<DIVIDER>>\nاے منکر ماتم تو کہاں جاکے رہے گا\nجنت میں تو سرور کے عزادار رہیں گے\nسائے میں سیدہ کے۔۔۔\n<<DIVIDER>>\nہر چیز کو دنیا میں فنا ہونا ہے اک دن\nقائم غمِ شبیر کے آثار رہیں گے\nسائے میں سیدہ کے۔۔۔\n<<DIVIDER>>\nجنت میں اگر مجلسِ شبیر نہ ہو گی\nہم اہلِ اعزا خُلد سے بیزار رہیں گے\nسائے میں سیدہ کے۔۔۔\n<<DIVIDER>>\nاک بار ذرا نامِ علی لے کے تو دیکھو\nمشکل میں مدد گار وہ ہر بار رہیں گے\nسائے میں سیدہ کے۔۔۔\n<<DIVIDER>>\nبے جان خدائوں سے کہا بنتِ اسد نے\nکعبے میں تو اب حیدرِ کرار رہیں گے\nسائے میں سیدہ کے۔۔۔\n<<DIVIDER>>\nزینب کا کھُلے سر بھرے دربار میں جانا\nسجاد اسی درد سے بیمار رہیں گے\nسائے میں سیدہ کے۔۔۔\n<<DIVIDER>>\nوہ مشک کا چھِدنا وہ سکینہ کا بلکنا\nعباس کے سینے پہ سدا وار رہیں گے\nسائے میں سیدہ کے۔۔۔\n<<DIVIDER>>\nریحان میرا نامہِ اعمال ہے نوحہ\nپروانہِ جنت میرے اشعار رہیں گے\nسائے میں سیدہ کے۔۔۔",
+  "styling": [
+    {
+      "insert": "سائے میں سیدہ کے اعزادار رہیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہو گا سوا نیزے پہ خورشید و قیامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سائے میں سیدہ کے اعزادار رہیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبڑھتا ہی چلا جائے گا شبیر کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم جو غمِ شہہ کے علمدار رہیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سائے میں سیدہ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم قبر میں سو جائیں گے جب بے خبری سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کے نشاں روح میں بیدار رہیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سائے میں سیدہ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے منکر ماتم تو کہاں جاکے رہے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنت میں تو سرور کے عزادار رہیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سائے میں سیدہ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر چیز کو دنیا میں فنا ہونا ہے اک دن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قائم غمِ شبیر کے آثار رہیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سائے میں سیدہ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنت میں اگر مجلسِ شبیر نہ ہو گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم اہلِ اعزا خُلد سے بیزار رہیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سائے میں سیدہ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک بار ذرا نامِ علی لے کے تو دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشکل میں مدد گار وہ ہر بار رہیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سائے میں سیدہ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے جان خدائوں سے کہا بنتِ اسد نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کعبے میں تو اب حیدرِ کرار رہیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سائے میں سیدہ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کا کھُلے سر بھرے دربار میں جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد اسی درد سے بیمار رہیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سائے میں سیدہ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ مشک کا چھِدنا وہ سکینہ کا بلکنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کے سینے پہ سدا وار رہیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سائے میں سیدہ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان میرا نامہِ اعمال ہے نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پروانہِ جنت میرے اشعار رہیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سائے میں سیدہ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -1,7 +1,551 @@
 {
   "remoteId": "g2611_u2683",
-  "title": "Qaim rahe ye",
+  "title": "قایم رہے یہ",
   "body": "صدا رہے گا حسین کا غم\nیہ شور گریہ یہ شور ماتم\nخدا کرے خدا کرے\n<<DIVIDER>>\nقایم رہے یہ مجلس و ماتم خدا کرے\nتازہ رہے دلوں میں محرم خدا کرے\n<<DIVIDER>>\nسہنے حرم میں اہل عزا کی رسائی ہو\nغیبت نشیں کے ہاتھ سے پرچم کشائی ہو\nلہراے بام کعبہ پہ پرچم خدا کرے\nقایم رہے یہ مجلس۔۔۔\n<<DIVIDER>>\nلللہ آنسوؤں سے نہ خالی کبھی رہے\nاشک غم حسین سے آنکھیں بھری رہے\nرومال سیدہ کا رہے نم خدا کرے\nقایم رہے یہ مجلس۔۔۔\n<<DIVIDER>>\nتابوت ذوالجناح علم جھولا تعزیہ\nان پر جو اعتراض کرے خود ہے بے وفا\nاپنا رہے عقیدہ مسلم خدا کرے\nقایم رہے یہ مجلس۔۔۔\n<<DIVIDER>>\nماتم دبا نہ پاے دھماکوں کی بھی صدا\nرکنے نہ پائے مجلس و ماتم کا سلسلہ\nبن جائے ہم شہیدوں کے محرم خدا کرے\nقایم رہے یہ مجلس۔۔۔\n<<DIVIDER>>\nہر ماتمی کے دل میں یہ ارمان ہے بسا\nپیدل نجف سے کب ہو سفر اربعین کا\nقایم کے ساتھ چلے ہم خدا کرے\nقایم رہے یہ مجلس۔۔۔\n<<DIVIDER>>\nہاں وہی رہے جو اپنے بزرگوں کا تھا چلن\nایک انجمن ہٹے تو بڑھے ایک انجمن\nہو ہر جلوس ایسے منظم خدا کرے\nقایم رہے یہ مجلس۔۔۔\n<<DIVIDER>>\nرہتا ہے سال بھر کسی بی بی کو انتظار\nقاسم کی مہندی جاے لے کر یہ پرسہ دار\nماتم سے گونجے پھر سے مقیم خدا کرے\nقایم رہے یہ مجلس۔۔۔\n<<DIVIDER>>\nجنت سجاے پیاسوں کے صدقے زمین پر\nخواہش ہے سب کی موکب ام البنین پر\nخدام زایرین بنے ہم خدا کرے\nقایم رہے یہ مجلس۔۔۔\n<<DIVIDER>>\nمقتل میں جس نے خاک پہ رگڑی تھی ایڑیاں\nسیراب اس کی پیاس کے صدقے ہو یہ جہاں\nبٹتا رہے سبیلوں سے زم زم خدا کرے\nقایم رہے یہ مجلس۔۔۔\n<<DIVIDER>>\nدیکھا ہے جب سے ماہ عزاء دل ہے بیقرار\nصغرا مدینے والوں سے کہتی ہے بار بار\nہو خیریت سے شاہ معظم خدا کرے\nقایم رہے یہ مجلس۔۔۔\n<<DIVIDER>>\nٹیلے پہ ہے کھڑی ہوئی مظلوم کی بہن\nخنجر تلے حسین کے لب پر ہے یہ سخن\nزینب نہ دیکھے نزع کا عالم خدا کرے\nقایم رہے یہ مجلس۔۔۔\n<<DIVIDER>>\nاسیاں سے حشر تک میری فرد عمل ہو پاک\nہر دم یہی دعا ہے تکلم یہ میری خواب\nخاک در حسین میں ہو زم خدا کرے\nقایم رہے یہ مجلس۔۔۔",
+  "styling": [
+    {
+      "insert": "صدا رہے گا حسین کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شور گریہ یہ شور ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کرے خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقایم رہے یہ مجلس و ماتم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تازہ رہے دلوں میں محرم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسہنے حرم میں اہل عزا کی رسائی ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غیبت نشیں کے ہاتھ سے پرچم کشائی ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہراے بام کعبہ پہ پرچم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم رہے یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلللہ آنسوؤں سے نہ خالی کبھی رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشک غم حسین سے آنکھیں بھری رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رومال سیدہ کا رہے نم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم رہے یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتابوت ذوالجناح علم جھولا تعزیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان پر جو اعتراض کرے خود ہے بے وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنا رہے عقیدہ مسلم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم رہے یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماتم دبا نہ پاے دھماکوں کی بھی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکنے نہ پائے مجلس و ماتم کا سلسلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن جائے ہم شہیدوں کے محرم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم رہے یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر ماتمی کے دل میں یہ ارمان ہے بسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیدل نجف سے کب ہو سفر اربعین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم کے ساتھ چلے ہم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم رہے یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاں وہی رہے جو اپنے بزرگوں کا تھا چلن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک انجمن ہٹے تو بڑھے ایک انجمن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو ہر جلوس ایسے منظم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم رہے یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرہتا ہے سال بھر کسی بی بی کو انتظار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کی مہندی جاے لے کر یہ پرسہ دار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم سے گونجے پھر سے مقیم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم رہے یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنت سجاے پیاسوں کے صدقے زمین پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خواہش ہے سب کی موکب ام البنین پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدام زایرین بنے ہم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم رہے یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل میں جس نے خاک پہ رگڑی تھی ایڑیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیراب اس کی پیاس کے صدقے ہو یہ جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بٹتا رہے سبیلوں سے زم زم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم رہے یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھا ہے جب سے ماہ عزاء دل ہے بیقرار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا مدینے والوں سے کہتی ہے بار بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو خیریت سے شاہ معظم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم رہے یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹیلے پہ ہے کھڑی ہوئی مظلوم کی بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خنجر تلے حسین کے لب پر ہے یہ سخن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نہ دیکھے نزع کا عالم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم رہے یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسیاں سے حشر تک میری فرد عمل ہو پاک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر دم یہی دعا ہے تکلم یہ میری خواب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک در حسین میں ہو زم خدا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قایم رہے یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

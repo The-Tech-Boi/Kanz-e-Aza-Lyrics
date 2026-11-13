@@ -1,12 +1,405 @@
 {
   "remoteId": "g2611_u3070",
-  "title": "Shere khuda ka",
+  "title": "شیر خدا کا",
   "body": "تیری آنکھیں سقی عباس تیری زلفیں سقی سقی عباس\nتیرا چہرہ سقی عباس ہے مثل حیدر کرّار\n<<DIVIDER>>\nشیر خدا کا شیر ہے عباس\nعباس عباس عباس عباس عباس\n<<DIVIDER>>\nحیدر نے دعاؤں میں بس تجھکو ہی مانگا ہے\nزہرا کی تمنا تو زینب کا سہارا ہے\nکلثوم کا بھای ہے شبیر کا چہرہ ہے\nتقدیر ہے کیا تیری کیا تیری مولا\nشیر خدا کا شیر۔۔۔\n<<DIVIDER>>\nشبر کی حقیقت تو شبیر کا لشکر تو\nمیداں میں اے غازی ہے حیدر صفدر تو\nاک وار میں کرتا ہے ملعونوں کو بے سر تو\nیہ تیرا قصیدہ بھی رب جھوم کے ہے پڑتا\nشیر خدا کا شیر۔۔۔\n<<DIVIDER>>\nجبریل لرزتے ہیں اور عرش لرزتا ہے\nحیبت ہے تمہاری وہ خاموش جو دریا ہے\nعباس تمہیں سورج حیرانی سے تکتا ہے\nتلوار چلای ہے صفین میں جس لمحہ\nشیر خدا کا شیر۔۔۔\n<<DIVIDER>>\nجو سر کو جھکاتے ہیں عباس کی چوکھٹ پر\nمعراج وہ پاتے ہیں عباس کی چوکھٹ پر\nسر جو نہ جھکاتے ہیں عباس کی چوکھٹ پر\nاس شخص سے خوش ہر گز اللّٰہ نہیں ہوگا\nشیر خدا کا شیر۔۔۔\n<<DIVIDER>>\nتو ثاقیء کوثر کا فرزند ہے اے غازی\nاس واسطے سرور نے دی مشک تجھے غازی\nاب بالی سکینہ کی بس پیاس بجھا غازی\nیہ کہکے شہ دیں نے میداں میں تجھے بھیجا\nشیر خدا کا شیر۔۔۔\n<<DIVIDER>>\nعباس پہ میداں میں کیا ظلم ہوا ہاے\nشانے بھی کٹے ان کے مشکیزہ چھدا ہاے\nغازی کا یہ ارماں بھی پیاسا ہی رہا ہاے\nافسوس کہ خیموں میں پانی نہ پہنچ پایا\nشیر خدا کا شیر۔۔۔\n<<DIVIDER>>\nباٹیں گے صدا کوزے پانی سے بھرے مولا\nزوار کا وعدہ ہے یہ تجھ سے میرے مولا\nعارف کو بلالے تو روضے پہ تیرے مولا\nناصر نے بھی رو رو کر تجھ سے ہے یہی مانگا\nشیر خدا کا شیر۔۔۔",
+  "styling": [
+    {
+      "insert": "تیری آنکھیں سقی عباس تیری زلفیں سقی سقی عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا چہرہ سقی عباس ہے مثل حیدر کرّار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشیر خدا کا شیر ہے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس عباس عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحیدر نے دعاؤں میں بس تجھکو ہی مانگا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی تمنا تو زینب کا سہارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلثوم کا بھای ہے شبیر کا چہرہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تقدیر ہے کیا تیری کیا تیری مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیر خدا کا شیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبر کی حقیقت تو شبیر کا لشکر تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میداں میں اے غازی ہے حیدر صفدر تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک وار میں کرتا ہے ملعونوں کو بے سر تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تیرا قصیدہ بھی رب جھوم کے ہے پڑتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیر خدا کا شیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجبریل لرزتے ہیں اور عرش لرزتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیبت ہے تمہاری وہ خاموش جو دریا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تمہیں سورج حیرانی سے تکتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تلوار چلای ہے صفین میں جس لمحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیر خدا کا شیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو سر کو جھکاتے ہیں عباس کی چوکھٹ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معراج وہ پاتے ہیں عباس کی چوکھٹ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جو نہ جھکاتے ہیں عباس کی چوکھٹ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس شخص سے خوش ہر گز اللّٰہ نہیں ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیر خدا کا شیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو ثاقیء کوثر کا فرزند ہے اے غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس واسطے سرور نے دی مشک تجھے غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب بالی سکینہ کی بس پیاس بجھا غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہکے شہ دیں نے میداں میں تجھے بھیجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیر خدا کا شیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس پہ میداں میں کیا ظلم ہوا ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شانے بھی کٹے ان کے مشکیزہ چھدا ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کا یہ ارماں بھی پیاسا ہی رہا ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افسوس کہ خیموں میں پانی نہ پہنچ پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیر خدا کا شیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباٹیں گے صدا کوزے پانی سے بھرے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زوار کا وعدہ ہے یہ تجھ سے میرے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عارف کو بلالے تو روضے پہ تیرے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناصر نے بھی رو رو کر تجھ سے ہے یہی مانگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیر خدا کا شیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Nasir Hussain",
   "anjumans": [],
   "verified": false

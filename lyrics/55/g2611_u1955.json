@@ -1,12 +1,448 @@
 {
   "remoteId": "g2611_u1955",
-  "title": "Kehte thay shaah",
+  "title": "کہتے تھے شاہ",
   "body": "کہتے تھے شاہ اے علی اکبر کہاں ہو تم\nاے میرے لال اے میرے دلبر کہاں ہو تم\n<<DIVIDER>>\nاپنے ضعیف باپ کی آ کر مدد کرو\nگھیرے ہوے ہے شام کا لشکر کہاں ہو تم\nکہتے تھے شاہ۔۔۔\n<<DIVIDER>>\nآواز دے رہے ہیں پسر کو شہ ہدا\nاے نوجواں شبیہ پیمبر کہاں ہو تم\nکہتے تھے شاہ۔۔۔\n<<DIVIDER>>\nخیمے کے در پہ آس لگاے کھڑی ہے ماں\nویران ہو گیا ہے بھرا گھر کہاں ہو تم\nکہتے تھے شاہ۔۔۔\n<<DIVIDER>>\nرو رو کے کہہ رہی ہے یہ زینب جواب دو\nخیمے جلا رہے ہے ستمگر کہاں ہو تم\nکہتے تھے شاہ۔۔۔\n<<DIVIDER>>\nلیلیٰ کے دل کو کون سنبھالے میرے پسر\nدر در پھرا رہے ہیں ستمگر کہاں ہو تم\nکہتے تھے شاہ۔۔۔\n<<DIVIDER>>\nجب سے گےء ہو تم دل مادر اداس ہے\nآنکھوں کا نور اے علی اکبر کہاں ہو تم\nکہتے تھے شاہ۔۔۔\n<<DIVIDER>>\nبیٹھی ہوی ہوں منہ کو چھپائے زمین پر\nاعدا نے چھین لی میری چادر کہاں ہو تم\nکہتے تھے شاہ۔۔۔\n<<DIVIDER>>\nاب شام ہو رہی ہے سکینہ کی لو خبر\nاے نوجواں حسین کے دلبر کہاں ہو تم\nکہتے تھے شاہ۔۔۔\n<<DIVIDER>>\nہم گھر چکے ہیں نرغہء اعدا میں اے پسر\nدرے لگا رہے ہیں ستمگر کہاں ہو تم\nکہتے تھے شاہ۔۔۔\n<<DIVIDER>>\nٹوٹی ہوی کمر کو سنبھالو حسین کی\nکہتی ہے رو کے زینب مضطر کہاں ہو تم\nکہتے تھے شاہ۔۔۔\n<<DIVIDER>>\nلیلیٰ کی آرزو ہے اک بار دیکھ لو\nہمشکل مصطفیٰ علی اکبر کہاں ہو تم\nکہتے تھے شاہ۔۔۔\n<<DIVIDER>>\nشہ کے گلے پہ شمر کا خنجر غضب ہوا\nآی صدا کے اے علی اکبر کہاں ہو تم\nکہتے تھے شاہ۔۔۔\n<<DIVIDER>>\nاہلِ حرم میں حشر بپا ہو گیا اسیم\nسرور نے جب کہا علی اکبر کہاں ہو تم\nکہتے تھے شاہ۔۔۔",
+  "styling": [
+    {
+      "insert": "کہتے تھے شاہ اے علی اکبر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے لال اے میرے دلبر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے ضعیف باپ کی آ کر مدد کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھیرے ہوے ہے شام کا لشکر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآواز دے رہے ہیں پسر کو شہ ہدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نوجواں شبیہ پیمبر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے کے در پہ آس لگاے کھڑی ہے ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویران ہو گیا ہے بھرا گھر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو رو کے کہہ رہی ہے یہ زینب جواب دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے جلا رہے ہے ستمگر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلیلیٰ کے دل کو کون سنبھالے میرے پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در در پھرا رہے ہیں ستمگر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے گےء ہو تم دل مادر اداس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں کا نور اے علی اکبر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹھی ہوی ہوں منہ کو چھپائے زمین پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اعدا نے چھین لی میری چادر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب شام ہو رہی ہے سکینہ کی لو خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نوجواں حسین کے دلبر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم گھر چکے ہیں نرغہء اعدا میں اے پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درے لگا رہے ہیں ستمگر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹوٹی ہوی کمر کو سنبھالو حسین کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی ہے رو کے زینب مضطر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلیلیٰ کی آرزو ہے اک بار دیکھ لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمشکل مصطفیٰ علی اکبر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہ کے گلے پہ شمر کا خنجر غضب ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی صدا کے اے علی اکبر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاہلِ حرم میں حشر بپا ہو گیا اسیم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور نے جب کہا علی اکبر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے شاہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Aseem Lakhnavi",
   "anjumans": [],
   "verified": false

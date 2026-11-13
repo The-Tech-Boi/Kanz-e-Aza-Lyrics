@@ -1,12 +1,382 @@
 {
   "remoteId": "g2611_u2694",
-  "title": "Qateele taygh o sina",
+  "title": "قتیل تیغ و سناں",
   "body": "قتیل تیغ و سناں لا الہ الا اللہ\nتیرے بغیر کہاں لا الہ الا اللہ\n<<DIVIDER>>\nحسین دہر میں اسلام کی علامت ہے\nحسین وقت کی سب سے بڑی ضرورت ہے\nحسین اسم تیرا ورد ہے عبادت ہے\nتیرے لہو میں نہاں لا الہ الا اللہ\n---قتیل تیغ و سناں\n<<DIVIDER>>\nحسین تجھ سے بقا دین کی نبوت کی\nحسین تو نے آبرو رکھی شریعت کی\nحسین تو نے کمر توڑ دی سخاوت کی\nتیرے سبب ہیں عیاں لا الہ الا اللہ\n---قتیل تیغ و سناں\n<<DIVIDER>>\nکسی ضعیف کی نظروں میں یوں نہیں دیکھا\nقیدیوں کو رگڑتا ہے نوجوان بیٹا\nالٹ کے آستین کہہ کے یاعلی مولا\nتو کھینچتا ہے سناں لا الہ الا اللہ\n---قتیل تیغ و سناں\n<<DIVIDER>>\nنرالی شان سے مرنے کو ہر جوان گیا\nخدا کے دین پہ مٹنے کو ہر جوان گیا\nملا جو اذن تو لڑنے کو ہر جوان گیا\nمگر وہ شیر جواں لا الہ الا اللہ\n---قتیل تیغ و سناں\n<<DIVIDER>>\nبپا ہے شور و فغاں سارے آسمانوں پر\nعجیب یاس ہے اہل حرم کی چہروں پر\nپدر کے حکم پہ معصوم خشک ہونٹوں پر\nجو پھیرتی ہے زباں لا الہ الا اللہ\n---قتیل تیغ و سناں\n<<DIVIDER>>\nدمشق کی وہ سجاوٹ کہ جیسے ہر گھر عید\nعلی کی بیٹیاں دربار شام اور وہ یزید\nوہ چبھے خشک وہ سرور کا سر وہ ظلم شدید\nلرز رہا ہے جہاں لا الہ الا اللہ\n---قتیل تیغ و سناں\n<<DIVIDER>>\nجہاں بھی مجلس سرور ہو شور ماتم ہو\nمیرے تو قبر میں شہید بس اک یہ غم ہو\nیہ سانس آئے کہ رک جائے آنکھ پرنم ہو\nفدا ہو تجھ پہ جواں لا الہ الا اللہ\n---قتیل تیغ و سناں",
+  "styling": [
+    {
+      "insert": "قتیل تیغ و سناں لا الہ الا اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے بغیر کہاں لا الہ الا اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین دہر میں اسلام کی علامت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین وقت کی سب سے بڑی ضرورت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین اسم تیرا ورد ہے عبادت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے لہو میں نہاں لا الہ الا اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---قتیل تیغ و سناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین تجھ سے بقا دین کی نبوت کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین تو نے آبرو رکھی شریعت کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین تو نے کمر توڑ دی سخاوت کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے سبب ہیں عیاں لا الہ الا اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---قتیل تیغ و سناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکسی ضعیف کی نظروں میں یوں نہیں دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیدیوں کو رگڑتا ہے نوجوان بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الٹ کے آستین کہہ کے یاعلی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو کھینچتا ہے سناں لا الہ الا اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---قتیل تیغ و سناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنرالی شان سے مرنے کو ہر جوان گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے دین پہ مٹنے کو ہر جوان گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملا جو اذن تو لڑنے کو ہر جوان گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر وہ شیر جواں لا الہ الا اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---قتیل تیغ و سناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبپا ہے شور و فغاں سارے آسمانوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عجیب یاس ہے اہل حرم کی چہروں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پدر کے حکم پہ معصوم خشک ہونٹوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو پھیرتی ہے زباں لا الہ الا اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---قتیل تیغ و سناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدمشق کی وہ سجاوٹ کہ جیسے ہر گھر عید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی بیٹیاں دربار شام اور وہ یزید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ چبھے خشک وہ سرور کا سر وہ ظلم شدید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لرز رہا ہے جہاں لا الہ الا اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---قتیل تیغ و سناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجہاں بھی مجلس سرور ہو شور ماتم ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے تو قبر میں شہید بس اک یہ غم ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سانس آئے کہ رک جائے آنکھ پرنم ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فدا ہو تجھ پہ جواں لا الہ الا اللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---قتیل تیغ و سناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Shahid Jafer",
   "anjumans": [],
   "verified": false

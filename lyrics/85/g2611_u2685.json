@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u2685",
-  "title": "Qamare fatema ki",
+  "title": "قمرِ فاطمہ کی",
   "body": "قمرِ فاطمہ کی یاد دلانے کے لیئے\nچاند نکلا ہے محرم کا رُلانے کے لیئے\n<<DIVIDER>>\nڈوب کر خوں میں ہر روز شفق آتی ہے\nداستانِ غمِ شبیر سُنانے کے لیئے\nقمرِ فاطمہ کی ۔۔۔\nچاند تو آیاہے ۔۔۔\n<<DIVIDER>>\nہر کلی چاک گریباں ہے چمن میں اب تک\nہائے بے شیر تیرا سوگ منانے کے لیئے\nقمرِ فاطمہ کی ۔۔۔\nچاند تو آیا ہے ۔۔۔\n<<DIVIDER>>\nدے دیا نذرِ خُدا ضربھی پسر بھی سر بھی\nحوصلہ چاہیئے یوں گھر کو لُٹانے کے لیئے\nقمرِ فاطمہ کی ۔۔۔\nچاند تو آیا ہے ۔۔۔\n<<DIVIDER>>\nپیاس کا غم نہیں بے تاب سکینہ کا ہے دل\nجھولے میں ننھے برادر کو جُھلانے کے لیئے\nقمرِ فاطمہ کی ۔۔۔\nچاند تو آیا ہے ۔۔۔\n<<DIVIDER>>\nلے چلا باپ جواں بیٹے کی میت افسوس\nیہ ضعیفی تو نہ تھی لاش اُٹھانے کے لیئے\nقمرِ فاطمہ کی ۔۔۔\nچاند تو آیا ہے ۔۔۔\n<<DIVIDER>>\nشاہ جب رہ گئے تنہا تو تڑپ کر اصغر\nگر گئے جُھولے سے آغوش میں آنے کے لیئے\nقمرِ فاطمہ کی ۔۔۔\nچاند تو آیا ہے ۔۔۔\n<<DIVIDER>>\nذبح کر کے بھی مُسافر کو بھی نہ مانے اعدا\nاب شقی آئے ہیں خیموں کو جلانے کے لیئے\nقمرِ فاطمہ کی ۔۔۔\nچاند تو آیا ہے ۔۔۔\n<<DIVIDER>>\nغمِ شبیر کو اُتنا ہی عروج اور ہوا\nکوششیں کی گئیں جتنی بھی مٹانے کے لیئے\nقمرِ فاطمہ کی ۔۔۔\nچاند تو آیا ہے ۔۔۔",
+  "styling": [
+    {
+      "insert": "قمرِ فاطمہ کی یاد دلانے کے لیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند نکلا ہے محرم کا رُلانے کے لیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈوب کر خوں میں ہر روز شفق آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داستانِ غمِ شبیر سُنانے کے لیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قمرِ فاطمہ کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند تو آیاہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر کلی چاک گریباں ہے چمن میں اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے بے شیر تیرا سوگ منانے کے لیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قمرِ فاطمہ کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند تو آیا ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدے دیا نذرِ خُدا ضربھی پسر بھی سر بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حوصلہ چاہیئے یوں گھر کو لُٹانے کے لیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قمرِ فاطمہ کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند تو آیا ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاس کا غم نہیں بے تاب سکینہ کا ہے دل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولے میں ننھے برادر کو جُھلانے کے لیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قمرِ فاطمہ کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند تو آیا ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلے چلا باپ جواں بیٹے کی میت افسوس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ضعیفی تو نہ تھی لاش اُٹھانے کے لیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قمرِ فاطمہ کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند تو آیا ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاہ جب رہ گئے تنہا تو تڑپ کر اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر گئے جُھولے سے آغوش میں آنے کے لیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قمرِ فاطمہ کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند تو آیا ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nذبح کر کے بھی مُسافر کو بھی نہ مانے اعدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب شقی آئے ہیں خیموں کو جلانے کے لیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قمرِ فاطمہ کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند تو آیا ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغمِ شبیر کو اُتنا ہی عروج اور ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوششیں کی گئیں جتنی بھی مٹانے کے لیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قمرِ فاطمہ کی ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند تو آیا ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ibtedaye Ayyam e Aza",
+  "subcategory": "ابتدائے ایام عزا",
   "author": "Urooj Bijnori",
   "anjumans": [],
   "verified": false

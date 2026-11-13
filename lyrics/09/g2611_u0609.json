@@ -1,12 +1,454 @@
 {
   "remoteId": "g2611_u0609",
-  "title": "Ay alamdara rasha",
+  "title": "اے علمدارا راشا",
   "body": "اے علمدارا غازی عباسا\nاے علمدارا راشا زما رو را\nغازی عباسا راشا زما رو را\n<<DIVIDER>>\nکون بیوؤں کی چادر کو بچاے آ کر\nلاشے سب والی و وارث کے پڑے ہیں بے سر\nمیری آواز پہ کوئی نہیں آتا غازی\nہو گیء دشتِ بیاباں میں تنہا خواہر\nغازی عباسا غازی عباسا راشا زما رو را\nاے علمدارا۔۔۔\n<<DIVIDER>>\nظلم کرتے ہیں ہمیں تنہا سمجھ کر اعدا\nبے ردا بلوے میں روتے ہیں حرم واویلا\nسر پہ معصوم سکینہ کے نہیں دست کرم\nچھن گےء اس کے گوہر آگ سے دامن بھی جلا\nغازی عباسا غازی عباسا راشا زما رو را\nاے علمدارا۔۔۔\n<<DIVIDER>>\nاے علمدار فغاں لب پہ سکینہ لاے\nہر طرف آگ دھواں ہے وہ کہاں پر جاے\nگھرکیاں رنج و الم تشنہ لَبی داغ پدر\nسوے دریا نہ چلی جاے سکینہ ہاے\nغازی عباسا غازی عباسا راشا زما رو را\nاے علمدارا۔۔۔\n<<DIVIDER>>\nہم تو آے تھے یہاں تیرے سہارے غازی\nتو مگر سوگیا دریا کے کنارے غازی\nبے وطن تشنہ دہن مارا گیا بھائی میرا\nچھن گئی چادریں اب سر سے ہمارے غازی\nغازی عباسا غازی عباسا راشا زما رو را\nاے علمدارا۔۔۔\n<<DIVIDER>>\nاے میرے پردے کے ضامن اے علمدار آجا\nمیرے غازی اے میرے مونس و غم خوار آجا\nآ کے پردیس میں بگڑا ہے مقدر میرا\nتیری زینب کا نہیں کوئی مددگار آجا\nغازی عباسا غازی عباسا راشا زما رو را\nاے علمدارا۔۔۔\n<<DIVIDER>>\nتیری ہمشیر ہے بلوے میں کھلے سر غازی\nاب نہیں کوئی میرا مونس و یاور غازی\nتیرے جانے سے بھرم ٹوٹ گیا زینب کا\nہاے بے آس ہوی آل پیمبر غازی\nغازی عباسا غازی عباسا راشا زما رو را\nاے علمدارا۔۔۔\n<<DIVIDER>>\nصفدر خستہ جگر میرا قلم بھی روے\nکربلا روتی رہی أہل حرم بھی روے\nبین کرتی تھی یہ عباس کی خواہر رن میں\nسن کے فریاد میری مشک و علم بھی روے\nغازی عباسا غازی عباسا راشا زما رو را\nاے علمدارا۔۔۔",
+  "styling": [
+    {
+      "insert": "اے علمدارا غازی عباسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علمدارا راشا زما رو را"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی عباسا راشا زما رو را"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکون بیوؤں کی چادر کو بچاے آ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے سب والی و وارث کے پڑے ہیں بے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری آواز پہ کوئی نہیں آتا غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیء دشتِ بیاباں میں تنہا خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی عباسا غازی عباسا راشا زما رو را"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علمدارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظلم کرتے ہیں ہمیں تنہا سمجھ کر اعدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا بلوے میں روتے ہیں حرم واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پہ معصوم سکینہ کے نہیں دست کرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن گےء اس کے گوہر آگ سے دامن بھی جلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی عباسا غازی عباسا راشا زما رو را"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علمدارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے علمدار فغاں لب پہ سکینہ لاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف آگ دھواں ہے وہ کہاں پر جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھرکیاں رنج و الم تشنہ لَبی داغ پدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوے دریا نہ چلی جاے سکینہ ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی عباسا غازی عباسا راشا زما رو را"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علمدارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم تو آے تھے یہاں تیرے سہارے غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو مگر سوگیا دریا کے کنارے غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے وطن تشنہ دہن مارا گیا بھائی میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن گئی چادریں اب سر سے ہمارے غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی عباسا غازی عباسا راشا زما رو را"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علمدارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے میرے پردے کے ضامن اے علمدار آجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے غازی اے میرے مونس و غم خوار آجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ کے پردیس میں بگڑا ہے مقدر میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری زینب کا نہیں کوئی مددگار آجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی عباسا غازی عباسا راشا زما رو را"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علمدارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیری ہمشیر ہے بلوے میں کھلے سر غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہیں کوئی میرا مونس و یاور غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے جانے سے بھرم ٹوٹ گیا زینب کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے بے آس ہوی آل پیمبر غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی عباسا غازی عباسا راشا زما رو را"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علمدارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصفدر خستہ جگر میرا قلم بھی روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا روتی رہی أہل حرم بھی روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین کرتی تھی یہ عباس کی خواہر رن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کے فریاد میری مشک و علم بھی روے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی عباسا غازی عباسا راشا زما رو را"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علمدارا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "anjumans": [],
   "verified": false
 }

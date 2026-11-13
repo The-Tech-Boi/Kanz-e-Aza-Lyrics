@@ -1,12 +1,278 @@
 {
   "remoteId": "g2611_u2392",
-  "title": "Mere baba chale aao",
+  "title": "میرے بابا چلے آؤ",
   "body": "میرے بابا چلے آؤ سکینہ یاد کرتی ہے\nکبھی زنداں میں روتی ہے کبھی فریاد کرتی ہے\n<<DIVIDER>>\nاندھیرا دن یہ چھایا ہے کہ بس میں ہوں اندھیرے میں\nرہا نہ فرق کچھ شب کی سیاہی اور سویرے میں\nفغاں معصوم کی ہر دل یہاں ناشاد کرتی ہے\n---میرے بابا چلے آؤ\n<<DIVIDER>>\nمیں زنداں کے اندھیروں میں بھٹک ہی رہوں بابا\nتمہاری یاد میں روکر تڑپتی ہی رہوں بابا\nغموں سے آپکی قربت مجھے آزاد کرتی ہے\n---میرے بابا چلے آؤ\n<<DIVIDER>>\nچھنی ہے بالیاں کانوں سے میرے خوں ٹپکتا ہے\nطمانچے شمر کے کھاتی ہوں دل سینے میں روتا ہے\nنےء مجھ پر ستم فوج ستم ایجاد کرتی ہے\n---میرے بابا چلے آؤ\n<<DIVIDER>>\nتمہیں دیکھے بنا دل کو سکوں ملتا نہیں بابا\nچراغ آشک غم جلتا ہے تو بجھتا نہیں بابا\nسکینہ اب اندھیروں کا نگر آباد کرتی ہے\n---میرے بابا چلے آؤ\n<<DIVIDER>>\nکبھی یاد علی اصغر کبھی یاد علی اکبر\nستاتی ہے مجھے پیارے چچا کی یاد رہ رہ کر\nبیاں کربوبلا کی طےء میں یہ روداد کرتی ہے\n---میرے بابا چلے آؤ\n<<DIVIDER>>\nنہیں آے اگر بابا تڑپ کر جان دے دونگی\nمیں دادی جاں سے خلد بری میں جاکے کہہ دوں گی\nبکا محبوب معصومہ پےء فریاد کرتی ہے\n---میرے بابا چلے آؤ",
+  "styling": [
+    {
+      "insert": "میرے بابا چلے آؤ سکینہ یاد کرتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی زنداں میں روتی ہے کبھی فریاد کرتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاندھیرا دن یہ چھایا ہے کہ بس میں ہوں اندھیرے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہا نہ فرق کچھ شب کی سیاہی اور سویرے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فغاں معصوم کی ہر دل یہاں ناشاد کرتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میرے بابا چلے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں زنداں کے اندھیروں میں بھٹک ہی رہوں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہاری یاد میں روکر تڑپتی ہی رہوں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غموں سے آپکی قربت مجھے آزاد کرتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میرے بابا چلے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھنی ہے بالیاں کانوں سے میرے خوں ٹپکتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طمانچے شمر کے کھاتی ہوں دل سینے میں روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نےء مجھ پر ستم فوج ستم ایجاد کرتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میرے بابا چلے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہیں دیکھے بنا دل کو سکوں ملتا نہیں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چراغ آشک غم جلتا ہے تو بجھتا نہیں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ اب اندھیروں کا نگر آباد کرتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میرے بابا چلے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکبھی یاد علی اصغر کبھی یاد علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستاتی ہے مجھے پیارے چچا کی یاد رہ رہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیاں کربوبلا کی طےء میں یہ روداد کرتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میرے بابا چلے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہیں آے اگر بابا تڑپ کر جان دے دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں دادی جاں سے خلد بری میں جاکے کہہ دوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بکا محبوب معصومہ پےء فریاد کرتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میرے بابا چلے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "anjumans": [],
   "verified": false
 }

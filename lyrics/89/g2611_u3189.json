@@ -1,7 +1,428 @@
 {
   "remoteId": "g2611_u3189",
-  "title": "Tera ghar hogaya",
+  "title": "تیرا گھر ہو گیا",
   "body": "تیرا گھر ہو گیا ویرانا\nاے نانا فریاد ہے\n<<DIVIDER>>\nکہتی تھی زینبِ مضطر\nاے نانا فریاد ہے\nآئی ہوں بھائی کو کھو کر\nاے نانا فریاد ہے\n<<DIVIDER>>\nبھائی کو مہمان بُلا کر\nہائے ہائے شمرِ ستمگر\nحلق پہ پھیرا ہے خنجر\nاے نانا فریاد ہے\n<<DIVIDER>>\nشب کو رچی تھی شادی\nصبح ہوئی بربادی\nخاک ہے دولہن کے سر پر\nاے نانا فریاد ہے\n<<DIVIDER>>\nبالی سکینہ روتی تھی\nباپ کے غم میں نہ سوتی تھی\nمر گئی زندان میں آ کر\nاے نانا فریاد ہے\n<<DIVIDER>>\nکٹ گےء سقہ کے بازو\nبہہ گیا ارمانوں کا لہو\nہوگےء ہم سب بے چادر\nاے نانا فریاد ہے\n<<DIVIDER>>\nمارے گئے قاسم اکبر\nعون و محمد اور اصغر\nاجڑ گیا سب گھر کا گھر\nاے نانا فریاد ہے\n<<DIVIDER>>\nاصغرِ ناداں تشنہ دہن\nمارا گیا وہ غنچہ دہن\nتیرستم کا کھا کر\nاے نانا فریاد ہے\n<<DIVIDER>>\nاکبر و اصغر مارے گئے\nعون و محمد مارے گئے\nکر ب و بلا میں لُوٹے گئے\n<<DIVIDER>>\nآپکی امت نے نانا\nعطرت پر وہ ظلم کیا\nسر پہ نہیں تھی چادر\nاے نانا فریاد ہے\n<<DIVIDER>>\nبارہ گلے اور اک رسن\nمرزا تھا یہ رنج و محن\nبندھے تھے رسی میں کس کر\nاے نانا فریاد ہے",
+  "styling": [
+    {
+      "insert": "تیرا گھر ہو گیا ویرانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نانا فریاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی تھی زینبِ مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نانا فریاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی ہوں بھائی کو کھو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نانا فریاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھائی کو مہمان بُلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے ہائے شمرِ ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حلق پہ پھیرا ہے خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نانا فریاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشب کو رچی تھی شادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبح ہوئی بربادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک ہے دولہن کے سر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نانا فریاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبالی سکینہ روتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کے غم میں نہ سوتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گئی زندان میں آ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نانا فریاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکٹ گےء سقہ کے بازو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہہ گیا ارمانوں کا لہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگےء ہم سب بے چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نانا فریاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمارے گئے قاسم اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عون و محمد اور اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اجڑ گیا سب گھر کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نانا فریاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغرِ ناداں تشنہ دہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارا گیا وہ غنچہ دہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرستم کا کھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نانا فریاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر و اصغر مارے گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عون و محمد مارے گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر ب و بلا میں لُوٹے گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپکی امت نے نانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عطرت پر وہ ظلم کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پہ نہیں تھی چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نانا فریاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبارہ گلے اور اک رسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرزا تھا یہ رنج و محن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بندھے تھے رسی میں کس کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نانا فریاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

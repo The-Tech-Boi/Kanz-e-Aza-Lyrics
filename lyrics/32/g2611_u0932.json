@@ -1,12 +1,532 @@
 {
   "remoteId": "g2611_u0932",
-  "title": "Bazaro may darbaro",
+  "title": "بازاروں میں درباروں",
   "body": "ان جکڑے ہوے ہاتھوں کی قسم\nغازی کی بہن کا وعدہ ہے\nماتم ہوگا ماتم ہوگا\n<<DIVIDER>>\nیہ زینب نے اعلان کیا\nبازاروں میں درباروں میں\nغازی کا میرے ماتم ہوگا\nبازاروں میں درباروں میں\n<<DIVIDER>>\nنہ تخت رہا نہ تاج رہا\nنہ ظلم رہا نہ راج رہا\nاک شور ہے ماتم داری کا\nبازاروں میں درباروں میں\nیہ زینب نے اعلان۔۔۔\n<<DIVIDER>>\nنہ قاتل ہےنہ باطل ہے\nاے دنیا آ کے دیکھ زرا\nشبیر کے ماتم کی ہے صدا\nبازاروں میں درباروں میں\nیہ زینب نے اعلان۔۔۔\n<<DIVIDER>>\nہم ٹھوک کے سینہ کہتے ہیں\nہم رکنے نہیں دیں گے ماتم\nہر حال میں یہ ماتم ہوگا\nبازاروں میں درباروں میں\nیہ زینب نے اعلان۔۔۔\n<<DIVIDER>>\nیہ سینے نہیں دیواریں ہیں\nیہ ہاتھ نہیں تلواریں ہیں\nلو آگیا لشکر زینب کا\nبازاروں میں درباروں میں\nیہ زینب نے اعلان۔۔۔\n<<DIVIDER>>\nاو شامیوں ہمت ہے روکو\nمظلوم بہن کو بھای کا\nہم دینے آے ہیں پرسہ\nبازاروں میں درباروں میں\nیہ زینب نے اعلان۔۔۔\n<<DIVIDER>>\nدے حکم اگر تو شہزادی\nیہ بہتے ہوے اشکوں کی قسم\nہم خوں کا بچھا دے فرش عزا\nبازاروں میں درباروں میں\nیہ زینب نے اعلان۔۔۔\n<<DIVIDER>>\nاس شام کے اس بازار سے ہی\nیہ کہہ کر گزری تھی زینب\nغازی کا الم لہراے گا\nبازاروں میں درباروں میں\nیہ زینب نے اعلان۔۔۔\n<<DIVIDER>>\nپابند رسن مجبور ہوں میں\nاے شامیوں کھلے ہو ہاتھ تو پھر\nشبیر کا تم ماتم کر لو\nبازاروں میں درباروں میں\nیہ زینب نے اعلان۔۔۔\n<<DIVIDER>>\nزینب کی تمنا ہے گوہر\nہو ایسا قیامت کا ماتم\nخود دیکھنے آے کربوبلا\nبازاروں میں درباروں میں\nیہ زینب نے اعلان۔۔۔",
+  "styling": [
+    {
+      "insert": "ان جکڑے ہوے ہاتھوں کی قسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کی بہن کا وعدہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہوگا ماتم ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ زینب نے اعلان کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں درباروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کا میرے ماتم ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں درباروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ تخت رہا نہ تاج رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ظلم رہا نہ راج رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک شور ہے ماتم داری کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں درباروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زینب نے اعلان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ قاتل ہےنہ باطل ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے دنیا آ کے دیکھ زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کے ماتم کی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں درباروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زینب نے اعلان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم ٹھوک کے سینہ کہتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم رکنے نہیں دیں گے ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر حال میں یہ ماتم ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں درباروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زینب نے اعلان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سینے نہیں دیواریں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ہاتھ نہیں تلواریں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو آگیا لشکر زینب کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں درباروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زینب نے اعلان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاو شامیوں ہمت ہے روکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم بہن کو بھای کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم دینے آے ہیں پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں درباروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زینب نے اعلان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدے حکم اگر تو شہزادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بہتے ہوے اشکوں کی قسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم خوں کا بچھا دے فرش عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں درباروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زینب نے اعلان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس شام کے اس بازار سے ہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہہ کر گزری تھی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کا الم لہراے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں درباروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زینب نے اعلان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپابند رسن مجبور ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شامیوں کھلے ہو ہاتھ تو پھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کا تم ماتم کر لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں درباروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زینب نے اعلان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کی تمنا ہے گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو ایسا قیامت کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود دیکھنے آے کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں درباروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زینب نے اعلان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Gohar Jarchvi",
   "anjumans": [],
   "verified": false

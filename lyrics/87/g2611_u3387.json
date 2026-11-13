@@ -1,12 +1,333 @@
 {
   "remoteId": "g2611_u3387",
-  "title": "Ya imame askari",
+  "title": "یا امامِ عسکری",
   "body": "یا حسن ہائے حسن عسکری\n<<DIVIDER>>\nبھیجیئے بیٹے کو مولا منتظر ہیں ماتمی\nیا امامِ عسکری\n<<DIVIDER>>\nداستانِ ظلم مولا اب جہاں سے ختم ہو\nجب تلک مہدی نہ آئے روک دیجئے وقت کو\nالعجل کہہ کر گزرتی جا رہی ہے ہر صدی\nیا امامِ عسکری…\n<<DIVIDER>>\nظالموں نے زہر مولا آپکو ایسا دیا\nدست و پا کے ناخنوں سے خون جاری ہو گیا\nآپ کی غربت کو دیکھا یادِ شبر آ گئی\nیا امامِ عسکری…\n<<DIVIDER>>\nدفن شہہ نے جس طرح سے اپنے اصغر کو کیا\nآ گیا نظروں میں ہائے منظرِ کرب و بلا\nاپنی تُربت آپ نے جو گھر میں خود تیار کی\nیا امامِ عسکری…\n<<DIVIDER>>\nیوں تو سارا ثامرہ تھا رونے والوں میں مگر\nہائے بھائی کہہ کے روئے کوئی تیری لاش پر\nاک بہن زینب کے جیسی کاش کے ہوتی تیری\nیا امامِ عسکری…\n<<DIVIDER>>\nگھر میں داخل ہو گئے تھے ظلم ڈھانے کے لیے\nپُرسہ دینے کے بجائے قتل کرنے کے لیے\nڈھونڈتے تھے چاروں جانب تیرے مہدی کو شقی\nیا امامِ عسکری…\n<<DIVIDER>>\nپردئہ غیبت میں مہدی بھی تڑپ کر رہ گیا\nگیارہ صدیوں بعد یہ پھر سے ستم ڈھایا گیا\nآپ کے روضے کا گِرنا ہے شہادت دوسری\nیا امامِ عسکری…\n<<DIVIDER>>\nمادرِ شبیر کا تعمیر روضہ دیکھ لے\nگھر میں خالق کے تکلم شہہ کا ماتم دیکھ لے\nکم سے کم سے اتنی بڑھا دو ماتمی کی زندگی\nیا امامِ عسکری…",
+  "styling": [
+    {
+      "insert": "یا حسن ہائے حسن عسکری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھیجیئے بیٹے کو مولا منتظر ہیں ماتمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا امامِ عسکری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nداستانِ ظلم مولا اب جہاں سے ختم ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تلک مہدی نہ آئے روک دیجئے وقت کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "العجل کہہ کر گزرتی جا رہی ہے ہر صدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا امامِ عسکری…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظالموں نے زہر مولا آپکو ایسا دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دست و پا کے ناخنوں سے خون جاری ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کی غربت کو دیکھا یادِ شبر آ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا امامِ عسکری…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدفن شہہ نے جس طرح سے اپنے اصغر کو کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا نظروں میں ہائے منظرِ کرب و بلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی تُربت آپ نے جو گھر میں خود تیار کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا امامِ عسکری…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیوں تو سارا ثامرہ تھا رونے والوں میں مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے بھائی کہہ کے روئے کوئی تیری لاش پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بہن زینب کے جیسی کاش کے ہوتی تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا امامِ عسکری…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر میں داخل ہو گئے تھے ظلم ڈھانے کے لیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پُرسہ دینے کے بجائے قتل کرنے کے لیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈتے تھے چاروں جانب تیرے مہدی کو شقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا امامِ عسکری…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپردئہ غیبت میں مہدی بھی تڑپ کر رہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گیارہ صدیوں بعد یہ پھر سے ستم ڈھایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے روضے کا گِرنا ہے شہادت دوسری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا امامِ عسکری…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمادرِ شبیر کا تعمیر روضہ دیکھ لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں خالق کے تکلم شہہ کا ماتم دیکھ لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کم سے کم سے اتنی بڑھا دو ماتمی کی زندگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا امامِ عسکری…"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hassan Askari (a.s)",
+  "subcategory": "امام حسن عسکری (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

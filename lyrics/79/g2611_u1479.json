@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u1479",
-  "title": "Haye jis kurte",
+  "title": "ہاے جس کرتے",
   "body": "ہاے جس کرتے میں زندان تلک لای گیء\nاے سکینہ تو اسی کرتے میں دفنای گیء\n<<DIVIDER>>\nتیرے کانوں سے نہ رک پایا لہو کا بہنا\nکب رکا شام تلک طمانچے لگنا\nہر قدم ہاے اذیت تمہیں پہنچای گیء\n---ہاے جس کرتے میں\n<<DIVIDER>>\nتجھکو زندان میں سر باپ کا دکھلایا گیا\nامتحاں باپ کی چاہت کا تمہیں دینا پڑا\nجتنا تو روی کوئی بچی نہ رلواےگی\n---ہاے جس کرتے میں\n<<DIVIDER>>\nجتنا میت پہ تیری برسی یہ غربت بی بی\nایسے دفنای نہیں جاتی ہے کوئی بچی\nدو بندھے ہاتھوں سے تو قبر تلک لای گیء\n---ہاے جس کرتے میں\n<<DIVIDER>>\nکبھی گردن پہ رسن آتی کبھی جسم بندھا\nہاے تھی کیسی تسلی کہ چھنی سر سے ردا\nہر نفس ایک قیامت تیرے سر ڈھای گیء\n---ہاے جس کرتے میں\n<<DIVIDER>>\nنام سنتے ہی تیرے بھائی چلا آتا ہے\nشمر لگتا ہے اذیت تمہیں پھر دیتا ہے\nجب کبھی تیری مصیبت کہیں دہرای گیء\n---ہاے جس کرتے میں\n<<DIVIDER>>\nمیرے دادا نے تو قاتل کو پلایا پانی\nاور میرے بابا نے حیوانوں کو بخشا پانی\nپر اک سکینہ ہی میری پانی کو ترسای گیء\n---ہاے جس کرتے میں\n<<DIVIDER>>\nمیری خواہر کو کنیزی میں کوئی مانگتا تھا\nاور کوئی راہ میں صدقہ اسے دکھلاتا تھا\nپوتی زہرا کی اور بازاروں میں بلوای گیء\n---ہاے جس کرتے میں\n<<DIVIDER>>\nتھی دعا بابا کی مجھ سے نہ بچھڑنے پاے\nاتنا میں چاہوں میرے بن نہ اسے نیند آے\nشہ سے ریحان اور مبارک وہی چھڑوای گیء\n---ہاے جس کرتے میں",
+  "styling": [
+    {
+      "insert": "ہاے جس کرتے میں زندان تلک لای گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے سکینہ تو اسی کرتے میں دفنای گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے کانوں سے نہ رک پایا لہو کا بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب رکا شام تلک طمانچے لگنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر قدم ہاے اذیت تمہیں پہنچای گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے جس کرتے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتجھکو زندان میں سر باپ کا دکھلایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امتحاں باپ کی چاہت کا تمہیں دینا پڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جتنا تو روی کوئی بچی نہ رلواےگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے جس کرتے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجتنا میت پہ تیری برسی یہ غربت بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے دفنای نہیں جاتی ہے کوئی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بندھے ہاتھوں سے تو قبر تلک لای گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے جس کرتے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکبھی گردن پہ رسن آتی کبھی جسم بندھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تھی کیسی تسلی کہ چھنی سر سے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر نفس ایک قیامت تیرے سر ڈھای گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے جس کرتے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنام سنتے ہی تیرے بھائی چلا آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر لگتا ہے اذیت تمہیں پھر دیتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کبھی تیری مصیبت کہیں دہرای گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے جس کرتے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے دادا نے تو قاتل کو پلایا پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور میرے بابا نے حیوانوں کو بخشا پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پر اک سکینہ ہی میری پانی کو ترسای گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے جس کرتے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری خواہر کو کنیزی میں کوئی مانگتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور کوئی راہ میں صدقہ اسے دکھلاتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوتی زہرا کی اور بازاروں میں بلوای گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے جس کرتے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھی دعا بابا کی مجھ سے نہ بچھڑنے پاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا میں چاہوں میرے بن نہ اسے نیند آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ سے ریحان اور مبارک وہی چھڑوای گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے جس کرتے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mubarak Jalalpuri",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,558 @@
 {
   "remoteId": "g2611_u0047",
-  "title": "Aaj ghar se nahi",
+  "title": "آج گھر سے نہیں",
   "body": "کیا عجب سی سحر یہ آی ہے\nجس طرف دیکھیےء اداسی ہے\nباپ جاتا ہے گھر سے مسجد کو\nبیٹی فریاد کرتی جاتی ہے\nآج گھر سے نہیں جاؤ بابا\n<<DIVIDER>>\nرو کے زینب یہ حیدر سے بولی\nآج گھر سے نہیں جاؤ بابا\n<<DIVIDER>>\nکیسے سمجھاے تم کو یہ دکھیا\nکیفیت کو میری سمجھو بابا\nخوف ہے میرے دل میں عجب سا\nکوی ہم سے تمہیں چھین لے گا\nہوگا ہم پہ یتیمی کا سایہ\nآج گھر سے نہیں جاؤ بابا\nرو کے زینب یہ۔۔۔\n<<DIVIDER>>\nمان لو آج یہ بات میری\nپیارے بابا پریشان ہے بیٹی\nآج کا دن لگا مجھکو ایسے\nجیسے دربار کو ماں گیء تھی\nواسطہ ہے تمہیں سیدہ کا\nآج گھر سے نہیں جاؤ بابا\nرو کے زینب یہ۔۔۔\n<<DIVIDER>>\nکل سے کوفے میں ہے خوف پھیلا\nشخص دیکھا گیا ایک ایسا\nزہر میں ڈوبی تلوار تھامے\nوہ بھی مسجد کی جانب گیا تھا\nالتجاء سن لو میری خدارا\nآج گھر سے نہیں جاؤ بابا\nرو کے زینب یہ۔۔۔\n<<DIVIDER>>\nجانتی ہوں میں یہ بعد زہرا\nگھر میں لگتا نہیں دل تمہارا\nآج ایک روز بس رہ لو گھر میں\nثانیء فاطمہ ہوں میں بابا\nمیری چادر کو کر لو مصلیٰ\nآج گھر سے نہیں جاؤ بابا\nرو کے زینب یہ۔۔۔\n<<DIVIDER>>\nکیا بتاؤں تمہیں دل کی حالت\nٹوٹ جائے گی ہم پر قیامت\nجب سے ماں سے جدا ہو گےء ہے\nہے نہیں غم کو سہنے کی ہمت\nدیکھ سکتے نہیں ہم جنازہ\nآج گھر سے نہیں جاؤ بابا\nرو کے زینب یہ۔۔۔\n<<DIVIDER>>\nتم کو خود جانتے ہو نہ بابا\nبے وفا ہے یہ سارا ہی کوفہ\nیہ تو پرسہ بھی ہم کو نہ دیں گے\nفطرتوں میں ہے ان کی مدینہ\nجانے کیوں کھینچ رہا ہے کلیجہ\nآج گھر سے نہیں جاؤ بابا\nرو کے زینب یہ۔۔۔\n<<DIVIDER>>\nراستہ رو کا مرغابیاں نے\nہاتھ جوڑے ہے خود بیٹیوں نے\nپھر بھی مسجد کی جانب بڑھے وہ\nدیکھا اذلان سب کوفیوں نے\nبولتی ہی رہی بنت زہرا\nآج گھر سے نہیں جاؤ بابا\nرو کے زینب یہ۔۔۔",
+  "styling": [
+    {
+      "insert": "کیا عجب سی سحر یہ آی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس طرف دیکھیےء اداسی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ جاتا ہے گھر سے مسجد کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی فریاد کرتی جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج گھر سے نہیں جاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو کے زینب یہ حیدر سے بولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج گھر سے نہیں جاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے سمجھاے تم کو یہ دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیفیت کو میری سمجھو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوف ہے میرے دل میں عجب سا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی ہم سے تمہیں چھین لے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگا ہم پہ یتیمی کا سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج گھر سے نہیں جاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے زینب یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمان لو آج یہ بات میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیارے بابا پریشان ہے بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج کا دن لگا مجھکو ایسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے دربار کو ماں گیء تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واسطہ ہے تمہیں سیدہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج گھر سے نہیں جاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے زینب یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکل سے کوفے میں ہے خوف پھیلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شخص دیکھا گیا ایک ایسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہر میں ڈوبی تلوار تھامے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بھی مسجد کی جانب گیا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "التجاء سن لو میری خدارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج گھر سے نہیں جاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے زینب یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانتی ہوں میں یہ بعد زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں لگتا نہیں دل تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج ایک روز بس رہ لو گھر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء فاطمہ ہوں میں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری چادر کو کر لو مصلیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج گھر سے نہیں جاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے زینب یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا بتاؤں تمہیں دل کی حالت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹوٹ جائے گی ہم پر قیامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سے ماں سے جدا ہو گےء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے نہیں غم کو سہنے کی ہمت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ سکتے نہیں ہم جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج گھر سے نہیں جاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے زینب یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم کو خود جانتے ہو نہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے وفا ہے یہ سارا ہی کوفہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو پرسہ بھی ہم کو نہ دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فطرتوں میں ہے ان کی مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے کیوں کھینچ رہا ہے کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج گھر سے نہیں جاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے زینب یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراستہ رو کا مرغابیاں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ جوڑے ہے خود بیٹیوں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی مسجد کی جانب بڑھے وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا اذلان سب کوفیوں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولتی ہی رہی بنت زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج گھر سے نہیں جاؤ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے زینب یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "group": 2026,
   "author": "Arslan Azmi",
   "anjumans": [],

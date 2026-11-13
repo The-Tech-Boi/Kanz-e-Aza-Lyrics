@@ -1,7 +1,411 @@
 {
   "remoteId": "g2611_u3442",
-  "title": "Ye azadari e sarwar",
+  "title": "یہ عزاداریء سرور",
   "body": "یہ عزاداریء سرور ہے ہماری زندگی\nاس عزاداری سے پای راہ حق کی روشنی\n<<DIVIDER>>\nکچھ زبانوں پر تھا کل لبیک یا مولا حسین\nاب یہ نعرہ بنتا جاتا ہے صداے عالمی\nیہ عزاداریء سرور۔۔۔\n<<DIVIDER>>\nہم نہیں مٹ پاےنگے کرلے کوئی کتنا ستم\nجبر و استبداد دنیا آزماتی ہی رہی\nیہ عزاداریء سرور۔۔۔\n<<DIVIDER>>\nفاتح بدر و عہد کے چاہنے والے ہیں ہم\nہم سے لرزا ہے دہر کے مرحبی و انتری\nیہ عزاداریء سرور۔۔۔\n<<DIVIDER>>\nپہلے اللّٰہ پھر محمد بعد میں مولا علی\nہے یہی حق ما سوا اس کے ہیں دین آزری\nیہ عزاداریء سرور۔۔۔\n<<DIVIDER>>\nاس عزاداری کے ڈر پہ ہے زمانہ غم نہیں\nماتم سرور کے ضامن ہیں جب ابنِ عسکری\nیہ عزاداریء سرور۔۔۔\n<<DIVIDER>>\nانبیاء ماتم کناں ہے جس کے غم میں وہ حسین\nہے ہمیں بھی فخر کے ہم ہیں حسینی ماتمی\nیہ عزاداریء سرور۔۔۔\n<<DIVIDER>>\nہاں یونہی جاری رہے گا شور و گریہ تا ابد\nمجلس و ماتم کی بنت زہرا ہے بانی بنی\nیہ عزاداریء سرور۔۔۔\n<<DIVIDER>>\nماں کو تھا ارمان علی اکبر کے سہرے کا بہت\nبعد اکبر قلب ماں سے پھر نہ ویرانی گیء\nیہ عزاداریء سرور۔۔۔\n<<DIVIDER>>\nہاں حسین ابنِ علی ہے صبر کا پروردگار\nتھی نکال کس طرح اکبر کے سینے سے انی\nیہ عزاداریء سرور۔۔۔\n<<DIVIDER>>\nایک نیزے سے کیا عباس نے دریا فتح\nاشقیاء میں خوف و حیرت کی فراوانی ہوی\nیہ عزاداریء سرور۔۔۔\n<<DIVIDER>>\nکب کہاں ٹہرا ہے باطل شہ کے غم سے سامنے\nحق فلک باطل زمیں کے سے ہو کوئی ہمسری\nیہ عزاداریء سرور۔۔۔\n<<DIVIDER>>\nہے دعا نوحے میں ایجاز و حسن کے اشتیاق\nاے خدا مرحم ہو قلب زہرا کا یہ شاعری\nیہ عزاداریء سرور۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ عزاداریء سرور ہے ہماری زندگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس عزاداری سے پای راہ حق کی روشنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ زبانوں پر تھا کل لبیک یا مولا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب یہ نعرہ بنتا جاتا ہے صداے عالمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عزاداریء سرور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم نہیں مٹ پاےنگے کرلے کوئی کتنا ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جبر و استبداد دنیا آزماتی ہی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عزاداریء سرور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفاتح بدر و عہد کے چاہنے والے ہیں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سے لرزا ہے دہر کے مرحبی و انتری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عزاداریء سرور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہلے اللّٰہ پھر محمد بعد میں مولا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یہی حق ما سوا اس کے ہیں دین آزری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عزاداریء سرور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس عزاداری کے ڈر پہ ہے زمانہ غم نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم سرور کے ضامن ہیں جب ابنِ عسکری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عزاداریء سرور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانبیاء ماتم کناں ہے جس کے غم میں وہ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے ہمیں بھی فخر کے ہم ہیں حسینی ماتمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عزاداریء سرور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاں یونہی جاری رہے گا شور و گریہ تا ابد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجلس و ماتم کی بنت زہرا ہے بانی بنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عزاداریء سرور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں کو تھا ارمان علی اکبر کے سہرے کا بہت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد اکبر قلب ماں سے پھر نہ ویرانی گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عزاداریء سرور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاں حسین ابنِ علی ہے صبر کا پروردگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی نکال کس طرح اکبر کے سینے سے انی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عزاداریء سرور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک نیزے سے کیا عباس نے دریا فتح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشقیاء میں خوف و حیرت کی فراوانی ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عزاداریء سرور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکب کہاں ٹہرا ہے باطل شہ کے غم سے سامنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق فلک باطل زمیں کے سے ہو کوئی ہمسری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عزاداریء سرور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے دعا نوحے میں ایجاز و حسن کے اشتیاق"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے خدا مرحم ہو قلب زہرا کا یہ شاعری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عزاداریء سرور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

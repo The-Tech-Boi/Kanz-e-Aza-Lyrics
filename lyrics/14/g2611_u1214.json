@@ -1,12 +1,383 @@
 {
   "remoteId": "g2611_u1214",
-  "title": "Ek behan bhai ke",
+  "title": "اک بہن بھائ کے",
   "body": "ہاے ہمشیر رضا\nیا معصومہ\n<<DIVIDER>>\nقبر معصومہء قم سے اب بھی آتی ہے صدا\nاک بہن بھائ کے لاشے پہ نہ جاے پای\n<<DIVIDER>>\nجس گھڑی شہر خراساں میں بلواے گےء\nبانیء ظلم و جفا ظلم سے کب بعض آے\nتم کو مامون نے کیوں زہر کھلا کر مارا\nقبر معصومہء قم سے۔۔۔\n<<DIVIDER>>\nاے شہنشاہِ وطن تم نے بگاڑا کیا تھا\nمیرے پردیسی اخی تیرا سہارا کیا تھا\nقم میں میں تنہا رہی تم تھے طوس میں تنہا\nقبر معصومہء قم سے۔۔۔\n<<DIVIDER>>\nزہر نے اپنا اثر جس گھڑی چھوڑا ہوگا\nکٹ گیا ہوگا میرے بھائی کلیجہ تیرا\nکتنی تکلیف ہوئی ہوگی غریب الغربا\nقبر معصومہء قم سے۔۔۔\n<<DIVIDER>>\nآپ سینے پہ رکھے ہاتھ تڑپتے ہونگے\nبد نصیبی یہ میری مجھکو بلاتے ہونگے\nنہ وطن جا سکی میں تو نہ بہن تک پہنچا\nقبر معصومہء قم سے۔۔۔\n<<DIVIDER>>\nمیں تیری لاش پہ ہوتی تو یہ نوحہ کرتی\nکم سے کم تیرے جنازے کی تو زینت ہوتی\nمیرے بھائی یہ مگر میرے مقدر میں نہ تھا\nقبر معصومہء قم سے۔۔۔\n<<DIVIDER>>\nکیا مسافر کو کبھی زہر دغا ملتا ہے\nجب سفر میں کوئی پردیسی گزر جاتا ہے\nیاد آجاتا ہے ہمشکل پیمبر بھیا\nقبر معصومہء قم سے۔۔۔\n<<DIVIDER>>\nمجھ سے بہتر کیء قسمت تھی میرے جدہ کی\nلاشے شبیر تھی اور ثانیء زہرا بھی تھی\nکم سے کم بھای کی میت کو بہن نے دیکھا\nقبر معصومہء قم سے۔۔۔\n<<DIVIDER>>\nہاے عرفان نہ تھا میرا مقدر ایسا\nکیا مبارک تیرا کم ہوگا یہ نوحہ میرا\nمیں بھی تنہا تھی کہیں بھای کہیں تھا تنہا\nقبر معصومہء قم سے۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے ہمشیر رضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا معصومہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر معصومہء قم سے اب بھی آتی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بہن بھائ کے لاشے پہ نہ جاے پای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس گھڑی شہر خراساں میں بلواے گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بانیء ظلم و جفا ظلم سے کب بعض آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو مامون نے کیوں زہر کھلا کر مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر معصومہء قم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شہنشاہِ وطن تم نے بگاڑا کیا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے پردیسی اخی تیرا سہارا کیا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قم میں میں تنہا رہی تم تھے طوس میں تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر معصومہء قم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزہر نے اپنا اثر جس گھڑی چھوڑا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کٹ گیا ہوگا میرے بھائی کلیجہ تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنی تکلیف ہوئی ہوگی غریب الغربا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر معصومہء قم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ سینے پہ رکھے ہاتھ تڑپتے ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بد نصیبی یہ میری مجھکو بلاتے ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ وطن جا سکی میں تو نہ بہن تک پہنچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر معصومہء قم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں تیری لاش پہ ہوتی تو یہ نوحہ کرتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کم سے کم تیرے جنازے کی تو زینت ہوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بھائی یہ مگر میرے مقدر میں نہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر معصومہء قم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا مسافر کو کبھی زہر دغا ملتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سفر میں کوئی پردیسی گزر جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آجاتا ہے ہمشکل پیمبر بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر معصومہء قم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ سے بہتر کیء قسمت تھی میرے جدہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے شبیر تھی اور ثانیء زہرا بھی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کم سے کم بھای کی میت کو بہن نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر معصومہء قم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے عرفان نہ تھا میرا مقدر ایسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا مبارک تیرا کم ہوگا یہ نوحہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بھی تنہا تھی کہیں بھای کہیں تھا تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر معصومہء قم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Raza (a.s)",
+  "subcategory": "امام رضا (ع)",
   "author": "Mubarak Jalalpuri",
   "anjumans": [],
   "verified": false

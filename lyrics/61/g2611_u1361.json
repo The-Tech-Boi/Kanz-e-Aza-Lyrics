@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u1361",
-  "title": "Giri hai khaak pe",
+  "title": "گری ہے خاک پہ",
   "body": "گری ہے خاک پہ زینب سنبھال اے فضہ\nعلی کی بیٹی کا صدقہ نکال اے فضہ\n<<DIVIDER>>\nکہا یہ فضہ سے شبیر نے دم رخصت\nمیری سکینہ کا رکھنا خیال اے فضہ\nگری ہے خاک پہ۔۔۔\n<<DIVIDER>>\nردا نہ دیں گے لعیں مانگ مت ردا ان سے\nبس اب تو خاک ہی بالوں پہ ڈال اے فضہ\nگری ہے خاک پہ۔۔۔\n<<DIVIDER>>\nابھی تو شام کے رستے ہیں صبر کر کے گزر\nابھی تو ہونے ہیں مشکل سوال اے فضہ\nگری ہے خاک پہ۔۔۔\n<<DIVIDER>>\nہر ایک سوال کے بدلے یہ سنگ ماریں گے\nنہ کر تو رحم کا ان سے سوال اے فضہ\nگری ہے خاک پہ۔۔۔\n<<DIVIDER>>\nبچا لعینوں کی نظروں سے بنت زہرا کو\nبنالے قد کو تو زینب کی ڈھال اے فضہ\nگری ہے خاک پہ۔۔۔\n<<DIVIDER>>\nکریگا کس طرح یہ گفتگو شرابی سے\nبتول زادی کی مشکل یہ ٹال اے فضہ\nگری ہے خاک پہ۔۔۔\n<<DIVIDER>>\nبلا ہبش کے غلاموں کو تو مدد کے لئے\nہے قید آج پیمبر کی آل اے فضہ\nگری ہے خاک پہ۔۔۔\n<<DIVIDER>>\nخبر ہے عابد مضطر کو یا ہے تجھکو خبر\nجو ہے بتول کی بیٹی کا حال اے فضہ\nگری ہے خاک پہ۔۔۔\n<<DIVIDER>>\nنہ کیوں جھکائے تیرے در پہ سر کو نور علی\nکہ تجھکو ماں کہے زہرا کے لال اے فضہ\nگری ہے خاک پہ۔۔۔",
+  "styling": [
+    {
+      "insert": "گری ہے خاک پہ زینب سنبھال اے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی بیٹی کا صدقہ نکال اے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا یہ فضہ سے شبیر نے دم رخصت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری سکینہ کا رکھنا خیال اے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گری ہے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nردا نہ دیں گے لعیں مانگ مت ردا ان سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس اب تو خاک ہی بالوں پہ ڈال اے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گری ہے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nابھی تو شام کے رستے ہیں صبر کر کے گزر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی تو ہونے ہیں مشکل سوال اے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گری ہے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر ایک سوال کے بدلے یہ سنگ ماریں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ کر تو رحم کا ان سے سوال اے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گری ہے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچا لعینوں کی نظروں سے بنت زہرا کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنالے قد کو تو زینب کی ڈھال اے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گری ہے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکریگا کس طرح یہ گفتگو شرابی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتول زادی کی مشکل یہ ٹال اے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گری ہے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبلا ہبش کے غلاموں کو تو مدد کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے قید آج پیمبر کی آل اے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گری ہے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخبر ہے عابد مضطر کو یا ہے تجھکو خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ہے بتول کی بیٹی کا حال اے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گری ہے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ کیوں جھکائے تیرے در پہ سر کو نور علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ تجھکو ماں کہے زہرا کے لال اے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گری ہے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Noor Ali",
   "anjumans": [],
   "verified": false

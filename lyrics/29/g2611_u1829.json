@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u1829",
-  "title": "Kadiyal jawan akbar",
+  "title": "کڑیل جوان اکبر",
   "body": "کڑیل جوان اکبر مرنے کو جا رہا ہے\nخاموش ہے خدای سکتے میں کربلا ہے\n<<DIVIDER>>\nماں شیر سے پسر کو حسرت سے تک رہی ہے\nچہرے پہ بے کسی ہے آنکھوں میں بے بسی ہے\nاکبر رہے سلامت ہونٹوں پہ یہ دعا ہے\nکڑیل جوان اکبر۔۔۔\n<<DIVIDER>>\nفریاد کر رہی ہے بہنیں تڑپ تڑپ کر\nرو رو کے کہہ رہی ہے مت جاؤ بھای اکبر\nبہنوں کو بھی کسی نے کیا یہ بتا دیا ہے\nکڑیل جوان اکبر۔۔۔\n<<DIVIDER>>\nسر پیٹتا ہے کوی کرتا ہے کوی ماتم\nہے ایسا غم کے مارے سیدانیوں کا عالم\nخیموں میں شاہ دیں کے کہرام مچ گیا ہے\nکڑیل جوان اکبر۔۔۔\n<<DIVIDER>>\nدریا کی سمت دیکھا ٹھوکر جو رن میں کھای\nکچھ دیر کو تو آجا عباس میرے بھای\nیہ کہکے میرا مولا مقتل میں گھر گیا ہے\nکڑیل جوان اکبر۔۔۔\n<<DIVIDER>>\nبانو تڑپ کے بولی ارمان تو بڑھا لوں\nاپنے جواں پسر کو دولہا تو میں بنا لوں\nآے گا اب نہ واپس اکبر مجھے پتہ ہے\nکڑیل جوان اکبر۔۔۔\n<<DIVIDER>>\nخاموش ہو گیء ہے کچھ بولتی نہیں اب\nسہمی ہوی زمیں پر بیٹھی ہوی ہے زینب\nشبیر نے نہ جانے زینب کو کیا کہا ہے\nکڑیل جوان اکبر۔۔۔\n<<DIVIDER>>\nکرب و بلا کے بن میں اکبر ہے آگے آگے\nاٹھارہ سال پالا جس نے گلے لگا کے\nاکبر کے پیچھے پیچھے وہ باپ جا رہا ہے\nکڑیل جوان اکبر۔۔۔\n<<DIVIDER>>\nبھای بھتیجے یاور کوئی نہیں ہے گوہر\nاللّٰہ رے یہ غربت یہ بے کسی کا منظر\nدشت بلا میں تنہا مظلوم کربلا ہے\nکڑیل جوان اکبر۔۔۔",
+  "styling": [
+    {
+      "insert": "کڑیل جوان اکبر مرنے کو جا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش ہے خدای سکتے میں کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں شیر سے پسر کو حسرت سے تک رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرے پہ بے کسی ہے آنکھوں میں بے بسی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر رہے سلامت ہونٹوں پہ یہ دعا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کڑیل جوان اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفریاد کر رہی ہے بہنیں تڑپ تڑپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے کہہ رہی ہے مت جاؤ بھای اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہنوں کو بھی کسی نے کیا یہ بتا دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کڑیل جوان اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر پیٹتا ہے کوی کرتا ہے کوی ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے ایسا غم کے مارے سیدانیوں کا عالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں میں شاہ دیں کے کہرام مچ گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کڑیل جوان اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدریا کی سمت دیکھا ٹھوکر جو رن میں کھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ دیر کو تو آجا عباس میرے بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہکے میرا مولا مقتل میں گھر گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کڑیل جوان اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبانو تڑپ کے بولی ارمان تو بڑھا لوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے جواں پسر کو دولہا تو میں بنا لوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے گا اب نہ واپس اکبر مجھے پتہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کڑیل جوان اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاموش ہو گیء ہے کچھ بولتی نہیں اب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہمی ہوی زمیں پر بیٹھی ہوی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر نے نہ جانے زینب کو کیا کہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کڑیل جوان اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرب و بلا کے بن میں اکبر ہے آگے آگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ سال پالا جس نے گلے لگا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کے پیچھے پیچھے وہ باپ جا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کڑیل جوان اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای بھتیجے یاور کوئی نہیں ہے گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللّٰہ رے یہ غربت یہ بے کسی کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت بلا میں تنہا مظلوم کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کڑیل جوان اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Gauhar Pakistani",
   "anjumans": [],
   "verified": false

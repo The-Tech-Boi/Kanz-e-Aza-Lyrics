@@ -1,12 +1,455 @@
 {
   "remoteId": "g2611_u3530",
-  "title": "Zainab galay ko",
+  "title": "زینب گلے کو",
   "body": "رخصت کو آے خیمے میں جب شاہ کربلا\nتو بنت علی نے جوڑ کے ہاتھوں کو دی صدا\n<<DIVIDER>>\nزینب گلے کو چوم لے بھیا تو جایےء\nسو جاے تھوڑی دیر سکینہ تو جایےء\n<<DIVIDER>>\nاماں کہیں گی دیکھ لے چہرہ لہو بھرا\nزینب نے کیا خیال نہیں رکھا بھائی کا\nچادر سے صاف کرلوں جو چہرہ تو جایےء\nسو جاے تھوڑی دیر۔۔۔\nزینب گلے کو۔۔۔\n<<DIVIDER>>\nزینب غریب ہو گیء کچھ بھی نہیں بچا\nلاش اٹھا کے عون و محمد کے میں زرا\nاک بار پھر اتار لوں صدقہ تو جایےء\nسو جاے تھوڑی دیر۔۔۔\nزینب گلے کو۔۔۔\n<<DIVIDER>>\nجانے نہ دیتی برچھیوں والوں میں میں کبھی\nوہ ماں ہے اور کنیز ہوں بھیا میں آپ کی\nرن میں بلا رہی ہے جو زہرا تو جایےء\nسو جاے تھوڑی دیر۔۔۔\nزینب گلے کو۔۔۔\n<<DIVIDER>>\nروکوں گی پھر نہ آپ کو وعدہ رہا میرا\nنزدیک ہے یہاں سے نجف شاہ کربلا\nآ جاے میرے پاس جو بابا تو جایےء\nسو جاے تھوڑی دیر۔۔۔\nزینب گلے کو۔۔۔\n<<DIVIDER>>\nلگتا ہے رن میں آپ کا کرتا ہے انتظار\nلہرا رہا ہے ہاتھ میں خنجر وہ بار بار\nبھیا بدل لے شمر ارادہ تو جایےء\nسو جاے تھوڑی دیر۔۔۔\nزینب گلے کو۔۔۔\n<<DIVIDER>>\nکرنی ہے جنگ آخری بھیا بہن نثار\nخوں بہہ رہا ہے کیسے چلاینگے ذوالفقار\nبازو کا زخم باندھ دے بہنا تو جایےء\nسو جاے تھوڑی دیر۔۔۔\nزینب گلے کو۔۔۔\n<<DIVIDER>>\nزنداں میں ہم جو قبر سکینہ بنائیں گے\nکیا آپ لے کے غازی کو اس وقت آیینگے\nکر لیجیےء بہن سے یہ وعدہ تو جایےء\nسو جاے تھوڑی دیر۔۔۔\nزینب گلے کو۔۔۔\n<<DIVIDER>>\nکیسے بیاں ہو میر تکلم وہ بیکسی\nیہ کہکے بنت فاطمہ خاموش ہو گیء\nوعدے میں دیر ہوتی ہے اچھا تو جایےء\nسو جاے تھوڑی دیر۔۔۔\nزینب گلے کو۔۔۔",
+  "styling": [
+    {
+      "insert": "رخصت کو آے خیمے میں جب شاہ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بنت علی نے جوڑ کے ہاتھوں کو دی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب گلے کو چوم لے بھیا تو جایےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاے تھوڑی دیر سکینہ تو جایےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں کہیں گی دیکھ لے چہرہ لہو بھرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے کیا خیال نہیں رکھا بھائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر سے صاف کرلوں جو چہرہ تو جایےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاے تھوڑی دیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب گلے کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب غریب ہو گیء کچھ بھی نہیں بچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاش اٹھا کے عون و محمد کے میں زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بار پھر اتار لوں صدقہ تو جایےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاے تھوڑی دیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب گلے کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانے نہ دیتی برچھیوں والوں میں میں کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ماں ہے اور کنیز ہوں بھیا میں آپ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رن میں بلا رہی ہے جو زہرا تو جایےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاے تھوڑی دیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب گلے کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروکوں گی پھر نہ آپ کو وعدہ رہا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نزدیک ہے یہاں سے نجف شاہ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ جاے میرے پاس جو بابا تو جایےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاے تھوڑی دیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب گلے کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلگتا ہے رن میں آپ کا کرتا ہے انتظار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہرا رہا ہے ہاتھ میں خنجر وہ بار بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا بدل لے شمر ارادہ تو جایےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاے تھوڑی دیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب گلے کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرنی ہے جنگ آخری بھیا بہن نثار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں بہہ رہا ہے کیسے چلاینگے ذوالفقار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازو کا زخم باندھ دے بہنا تو جایےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاے تھوڑی دیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب گلے کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنداں میں ہم جو قبر سکینہ بنائیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا آپ لے کے غازی کو اس وقت آیینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر لیجیےء بہن سے یہ وعدہ تو جایےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاے تھوڑی دیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب گلے کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے بیاں ہو میر تکلم وہ بیکسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہکے بنت فاطمہ خاموش ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدے میں دیر ہوتی ہے اچھا تو جایےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو جاے تھوڑی دیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب گلے کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

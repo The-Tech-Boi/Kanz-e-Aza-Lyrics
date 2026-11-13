@@ -1,12 +1,374 @@
 {
   "remoteId": "g2611_u1198",
-  "title": "Dukhtare shabbir hai",
+  "title": "دختر شبیر ہے",
   "body": "ہاے سکینہ ہاے ہاے سکینہ\n<<DIVIDER>>\nدختر شبیر ہے اور قید خانہ شام کا\nدرد کی تصویر ہے اور قید خانہ شام کا\n<<DIVIDER>>\nکہتے تھے سجاد رو کر کیسے بہلاؤں میں خواہر\nیہ تیرا مجبور بھای کیا سناے تجھکو آ کر\nپاؤں میں زنجیر ہے اور قید خانہ شام کا\nدختر شبیر ہے اور۔۔۔\n<<DIVIDER>>\nخاک ہی بستر ہے تیرا خاک ہی تکیہ ہے تیرا\nرایگان اے میری خواہر ہر گھڑی رونا ہے تیرا\nاب یہی تقدیر ہے اور قید خانہ شام کا\nدختر شبیر ہے اور۔۔۔\n<<DIVIDER>>\nمیں کہاں سے لاؤں بیٹا زخم کا مرحم بتا دے\nتجھکو کھاانے ہے یہاں پر گھرکیاں اور تازیانے\nایک تو دلگیر ہے اور قید خانہ شام کا\nدختر شبیر ہے اور۔۔۔\n<<DIVIDER>>\nاشک غم پیتی رہو اب غم پہ غم سہتی رہو\nجس طرح بھی ہو میسر قید میں جیتی رہو\nاب یہی توقیر ہے اور قید خانہ شام کا\nدختر شبیر ہے اور۔۔۔\n<<DIVIDER>>\nباپ کی فرقت میں جینا ہے بڑا مشکل مگر\nجو مقدر میں لکھا ہے صبر کر لے صبر کر\nدرد کی تطہیر ہے اور قید خانہ شام کا\nدختر شبیر ہے اور۔۔۔\n<<DIVIDER>>\nدیکھ تیرے غم میں روتی ہے پھپھی زینب تیری\nختم ہو جائے نہ روتے روتے انکی زندگی\nوارث تطہیر ہے اور قید خانہ شام کا\nدختر شبیر ہے اور۔۔۔\n<<DIVIDER>>\nایک سکوں کا سانس لینا بھی یہاں ممکن نہیں\nجیتے جی تیری رہای میری جاں ممکن نہیں\nوقت کی زنجیر ہے اور قید خانہ شام کا\nدختر شبیر ہے اور۔۔۔\n<<DIVIDER>>\nقید میں سجاد کہتے تھے یہ مظہر عابدی\nکس طرح تقدیر بگڑی مصطفیٰ کے آل کی\nقلب میں یہ تیر ہے اور قید خانہ شام کا\nدختر شبیر ہے اور۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے سکینہ ہاے ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدختر شبیر ہے اور قید خانہ شام کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد کی تصویر ہے اور قید خانہ شام کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتے تھے سجاد رو کر کیسے بہلاؤں میں خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تیرا مجبور بھای کیا سناے تجھکو آ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاؤں میں زنجیر ہے اور قید خانہ شام کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دختر شبیر ہے اور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاک ہی بستر ہے تیرا خاک ہی تکیہ ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رایگان اے میری خواہر ہر گھڑی رونا ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب یہی تقدیر ہے اور قید خانہ شام کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دختر شبیر ہے اور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کہاں سے لاؤں بیٹا زخم کا مرحم بتا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھکو کھاانے ہے یہاں پر گھرکیاں اور تازیانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک تو دلگیر ہے اور قید خانہ شام کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دختر شبیر ہے اور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاشک غم پیتی رہو اب غم پہ غم سہتی رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس طرح بھی ہو میسر قید میں جیتی رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب یہی توقیر ہے اور قید خانہ شام کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دختر شبیر ہے اور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ کی فرقت میں جینا ہے بڑا مشکل مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مقدر میں لکھا ہے صبر کر لے صبر کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد کی تطہیر ہے اور قید خانہ شام کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دختر شبیر ہے اور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھ تیرے غم میں روتی ہے پھپھی زینب تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ختم ہو جائے نہ روتے روتے انکی زندگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وارث تطہیر ہے اور قید خانہ شام کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دختر شبیر ہے اور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک سکوں کا سانس لینا بھی یہاں ممکن نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیتے جی تیری رہای میری جاں ممکن نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقت کی زنجیر ہے اور قید خانہ شام کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دختر شبیر ہے اور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقید میں سجاد کہتے تھے یہ مظہر عابدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح تقدیر بگڑی مصطفیٰ کے آل کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلب میں یہ تیر ہے اور قید خانہ شام کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دختر شبیر ہے اور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

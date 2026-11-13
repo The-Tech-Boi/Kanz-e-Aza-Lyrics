@@ -1,12 +1,486 @@
 {
   "remoteId": "g2611_u2035",
-  "title": "Kisko de sada zainab",
+  "title": "کس کو دے صدا زینب",
   "body": "جب لاشہئِ فرزندِ نبی ہوگیا پامال\nاُس وقت عجب حال میں تھی فاطمہ کی آل\nتاریخ نے کچھ اس طرح لکھا ہے وہ احوال\nسب بیبیوں میں ایک تھا بی بی کا بُرا حال\nبے چینی سے آتی تھی درِ خیمے پہ ہر بار\nبچوں کو سمیٹے ہوئے کہتی تھی د ل ا فگار\n<<DIVIDER>>\nاے جری دلیر باوفا\nبازوئ ِشہیدِکربلا\nجانِ فاطمہ و مرتضیٰ\nتشنہ لب سکینہ کے چچا\nکس کو دے صدا زینب\nفوج اب قریب آئی\nاے حسین کے بھائی\n<<DIVIDER>>\nآپ کو نہیں یہ خبر\nلُٹ گیا ہے فاطمہ کا گھر\nسو رہے ہو جا کہ نہر پر\nنیزے پہ رکھا ہے شہہ کا سر\nکس کو دے صدا زینب۔۔۔\n<<DIVIDER>>\nاکبرِ جواں نہیں رہا\nبے زباں بھی قتل ہوگیا\nقاسمِ حزیں بھی چل بسا\nخاتمہ ہوا سپاہ کا\nکس کو دے صدا زینب۔۔۔\n<<DIVIDER>>\nکس طرح بتائوں رن کا حال\nلاش کو کرینگے پائمال\nبھائی کا کرو تو کچھ خیال\nشاہِ لافتہ کے لال\nکس کو دے صدا زینب۔۔۔\n<<DIVIDER>>\nکرتی ہے رُباب یہ فغاں\nہونے کو ہے رات اب ایاں\nرن میں ہے ہمارا بے زباں\nلے کے آئے اُس کو بھائی جاں\nکس کو دے صدا زینب۔۔۔\n<<DIVIDER>>\nخیموں کو جلا نہ دیں لعیں\nلُوٹ لے نہ مال و زر کہیں\nکیا کرے گا عابدِ حزیں\nاُس کو تب سے ہوش ہی نہیں\nکس کو دے صدا زینب۔۔۔\n<<DIVIDER>>\nفوجِ شام بانیئِ جفا\nجان کے اکیلا بینوا\nکر دے ظلم کی نہ انتہا\nچھین لے نہ آکے یہ ردا\nکس کو دے صدا زینب۔۔۔\n<<DIVIDER>>\nکن جفائوں کاہو تذکرہ\nشامِ غم میں آلِ مصطفےٰ\nہوگئی غموں میں مبتلا\nلب پہ تھی انیس یہ بکا\nکس کو دے صدا زینب۔۔۔",
+  "styling": [
+    {
+      "insert": "جب لاشہئِ فرزندِ نبی ہوگیا پامال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس وقت عجب حال میں تھی فاطمہ کی آل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تاریخ نے کچھ اس طرح لکھا ہے وہ احوال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب بیبیوں میں ایک تھا بی بی کا بُرا حال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے چینی سے آتی تھی درِ خیمے پہ ہر بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچوں کو سمیٹے ہوئے کہتی تھی د ل ا فگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے جری دلیر باوفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازوئ ِشہیدِکربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانِ فاطمہ و مرتضیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تشنہ لب سکینہ کے چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو دے صدا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فوج اب قریب آئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے حسین کے بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کو نہیں یہ خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹ گیا ہے فاطمہ کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو رہے ہو جا کہ نہر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ رکھا ہے شہہ کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو دے صدا زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبرِ جواں نہیں رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے زباں بھی قتل ہوگیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسمِ حزیں بھی چل بسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاتمہ ہوا سپاہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو دے صدا زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح بتائوں رن کا حال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاش کو کرینگے پائمال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی کا کرو تو کچھ خیال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہِ لافتہ کے لال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو دے صدا زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرتی ہے رُباب یہ فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونے کو ہے رات اب ایاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رن میں ہے ہمارا بے زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے کے آئے اُس کو بھائی جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو دے صدا زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیموں کو جلا نہ دیں لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُوٹ لے نہ مال و زر کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کرے گا عابدِ حزیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس کو تب سے ہوش ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو دے صدا زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفوجِ شام بانیئِ جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جان کے اکیلا بینوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر دے ظلم کی نہ انتہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھین لے نہ آکے یہ ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو دے صدا زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکن جفائوں کاہو تذکرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شامِ غم میں آلِ مصطفےٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگئی غموں میں مبتلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لب پہ تھی انیس یہ بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو دے صدا زینب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Anees",
   "anjumans": [],
   "verified": false

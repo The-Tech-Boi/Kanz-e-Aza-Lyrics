@@ -1,7 +1,495 @@
 {
   "remoteId": "g2611_u1663",
-  "title": "In ankhon ne dekha",
+  "title": "ان آنکھوں نے دیکھا",
   "body": "مرقد پہ بیاں کرتی تھی یہ زینب دکھیا\nان آنکھوں نے دیکھا\nاماں میں سنانے کے لئے آی ہوں کیا کیا\nان آنکھوں نے دیکھا\n<<DIVIDER>>\nشبیر لیےء آے عبا میں جو اتر کر\nتھا درد کا منظر\nپامال شدہ قاسم نوشاہ کا لاشہ\nان آنکھوں نے دیکھا\nاماں میں سنانے۔۔۔\n<<DIVIDER>>\nاکبر کی صدا سن کے جو میدان گےء تھے\nبھیا تھے اکیلے\nبیٹے کے جواں لاش کو لاتے ہوئے تنہا\nان آنکھوں نے دیکھا\nاماں میں سنانے۔۔۔\n<<DIVIDER>>\nتھا سینۂ اقدس پہ چڑھا شمر ستمگر\nتھا ہاتھ میں خنجر\nخنجر کے تلے آپ کے بیٹے کا گلا تھا\nان آنکھوں نے دیکھا\nاماں میں سنانے۔۔۔\n<<DIVIDER>>\nجب شان ہوی بن میں تو پھر ظلم نیا تھا\nپھٹتا تھا کلیجہ\nہوتے ہوئے پامال میرے بھائی کا لاشہ\nان آنکھوں نے دیکھا\nاماں میں سنانے۔۔۔\n<<DIVIDER>>\nجب شام غریباں میں جلاے گےء خیمے\nہر سمت تھے شولے\nشعلوں کی لپیٹوں میں وہ جلتا ہوا جھولا\nان آنکھوں نے دیکھا\nاماں میں سنانے۔۔۔\n<<DIVIDER>>\nجو ظلم و ستم شام تلک کربوبلا سے\nبچی پہ ہوئے تھے\nرخسار سکینہ پہ وہ ہر ایک طمانچہ\nان آنکھوں نے دیکھا\nاماں میں سنانے۔۔۔\n<<DIVIDER>>\nنظروں سے سکینہ کی نگاہوں کو بچاے\nدریا کے کنارے\nہاتھوں کو کٹاے میرا عباس پڑا تھا\nان آنکھوں نے دیکھا\nاماں میں سنانے۔۔۔\n<<DIVIDER>>\nہم لوگ رسن بستہ پھراے گےء در در\nبے مقنہ و چادر\nبازاروں میں بنتے ہوئے خود اپنا تماشا\nان آنکھوں نے دیکھا\nاماں میں سنانے۔۔۔\n<<DIVIDER>>\nمرقد پہ جمیل ایک قیامت کا سماں تھا\nزینب کا تھا نوحہ\nاماں یہ کہو اور سناؤں تمہیں کیا کیا\nان آنکھوں نے دیکھا\nاماں میں سنانے۔۔۔",
+  "styling": [
+    {
+      "insert": "مرقد پہ بیاں کرتی تھی یہ زینب دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنکھوں نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں میں سنانے کے لئے آی ہوں کیا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنکھوں نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر لیےء آے عبا میں جو اتر کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا درد کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پامال شدہ قاسم نوشاہ کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنکھوں نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں میں سنانے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر کی صدا سن کے جو میدان گےء تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا تھے اکیلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹے کے جواں لاش کو لاتے ہوئے تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنکھوں نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں میں سنانے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھا سینۂ اقدس پہ چڑھا شمر ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا ہاتھ میں خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خنجر کے تلے آپ کے بیٹے کا گلا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنکھوں نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں میں سنانے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب شان ہوی بن میں تو پھر ظلم نیا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھٹتا تھا کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتے ہوئے پامال میرے بھائی کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنکھوں نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں میں سنانے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب شام غریباں میں جلاے گےء خیمے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سمت تھے شولے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شعلوں کی لپیٹوں میں وہ جلتا ہوا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنکھوں نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں میں سنانے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو ظلم و ستم شام تلک کربوبلا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچی پہ ہوئے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخسار سکینہ پہ وہ ہر ایک طمانچہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنکھوں نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں میں سنانے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنظروں سے سکینہ کی نگاہوں کو بچاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کے کنارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں کو کٹاے میرا عباس پڑا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنکھوں نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں میں سنانے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم لوگ رسن بستہ پھراے گےء در در"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے مقنہ و چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں بنتے ہوئے خود اپنا تماشا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنکھوں نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں میں سنانے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمرقد پہ جمیل ایک قیامت کا سماں تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کا تھا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں یہ کہو اور سناؤں تمہیں کیا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنکھوں نے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں میں سنانے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u0075",
-  "title": "Aajao ali asghar",
+  "title": "آجاؤ علی اصغر",
   "body": "آجاؤ علی اصغر آ جاؤ علی اصغر\nماں جھولا جھلاے راتوں کو اٹھ کر لوری سناے\n<<DIVIDER>>\nاے پھول سے سپاہی تجھکو سلام میرا\nتو نے کیا ہے اونچا دنیا میں نام میرا\nآجا تجھے ماں سینے سے لگاے\nماں جھولا جھلاے۔۔۔\n<<DIVIDER>>\nعمو ہے پاس تیرے بابا ہے اور اکبر\nڈرنا نہ ظالموں سے اے بے زبان اصغر\nماں کو بلانا جب نیند نہ آے\nماں جھولا جھلاے۔۔۔\n<<DIVIDER>>\nماں تیری تشنگی پر قربان میری جانی\nکیوں بہہ رہا ہے دریا تجھکو ملا نہ پانی\nآجا کہ مادر پانی پلاے\nماں جھولا جھلاے۔۔۔\n<<DIVIDER>>\nتو چاند میرے گھر کا دنیا سے جانے والے\nتو کیا گیا ہے گھر سے رخصت ہوے اجالے\nتاریکیوں کے بادل سے چھاے\nماں جھولا جھلاے۔۔۔\n<<DIVIDER>>\nاولاد کا بچھڑنا سب سے بڑا ہے صدمہ\nاجڑی ہے کوک میری دل رو رہا ہے میرا\nیہ آگ دل کی ماں کیسے بجھاے\nماں جھولا جھلاے۔۔۔\n<<DIVIDER>>\nمادر کے سامنے جب پانی کا جام آے\nبے ساختہ لبوں پر تیرا ہی نام آے\nپانی میں تیرا چہرہ نظر آے\nماں جھولا جھلاے۔۔۔\n<<DIVIDER>>\nدل سے نکل رہی ہے اب یہ دعائیں ہر پل\nماں بن کے تجھکو پالے یہ سر زمین مقتل\nڈرتی ہوں لیکن تو خوف نہ کھاے\nماں جھولا جھلاے۔۔۔\n<<DIVIDER>>\nسنتی ہوں رو دیا تھا تجھ پر ستم کا لشکر\nتو مسکرا رہا تھا جس وقت تیر کھا کر\nکیسے تجھے ماں دل سے بھلاے\nماں جھولا جھلاے۔۔۔\n<<DIVIDER>>\nفریاد ایک ماں کی قرطاس سے جو آے\nمظہر وہ آنسوؤں کی برسات کر کے جاے\nفرش عزا پر عرفاں سناے\nماں جھولا جھلاے۔۔۔",
+  "styling": [
+    {
+      "insert": "آجاؤ علی اصغر آ جاؤ علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں جھولا جھلاے راتوں کو اٹھ کر لوری سناے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے پھول سے سپاہی تجھکو سلام میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو نے کیا ہے اونچا دنیا میں نام میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا تجھے ماں سینے سے لگاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں جھولا جھلاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعمو ہے پاس تیرے بابا ہے اور اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈرنا نہ ظالموں سے اے بے زبان اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں کو بلانا جب نیند نہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں جھولا جھلاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں تیری تشنگی پر قربان میری جانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں بہہ رہا ہے دریا تجھکو ملا نہ پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا کہ مادر پانی پلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں جھولا جھلاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو چاند میرے گھر کا دنیا سے جانے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو کیا گیا ہے گھر سے رخصت ہوے اجالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تاریکیوں کے بادل سے چھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں جھولا جھلاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاولاد کا بچھڑنا سب سے بڑا ہے صدمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اجڑی ہے کوک میری دل رو رہا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ آگ دل کی ماں کیسے بجھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں جھولا جھلاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمادر کے سامنے جب پانی کا جام آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ساختہ لبوں پر تیرا ہی نام آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی میں تیرا چہرہ نظر آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں جھولا جھلاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل سے نکل رہی ہے اب یہ دعائیں ہر پل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں بن کے تجھکو پالے یہ سر زمین مقتل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈرتی ہوں لیکن تو خوف نہ کھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں جھولا جھلاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنتی ہوں رو دیا تھا تجھ پر ستم کا لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو مسکرا رہا تھا جس وقت تیر کھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے تجھے ماں دل سے بھلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں جھولا جھلاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفریاد ایک ماں کی قرطاس سے جو آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظہر وہ آنسوؤں کی برسات کر کے جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش عزا پر عرفاں سناے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں جھولا جھلاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

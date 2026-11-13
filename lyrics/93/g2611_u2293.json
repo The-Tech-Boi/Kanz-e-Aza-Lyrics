@@ -1,12 +1,224 @@
 {
   "remoteId": "g2611_u2293",
-  "title": "Masjide kufa hai",
+  "title": "مسجد کوفہ ہے",
   "body": "مسجد کوفہ ہے روزَہ دار ہے\nفرق سے اونچی لہو کی دھار ہے\n<<DIVIDER>>\nآہ دامادِ پیغمبر کے لیے\nزہر میں ڈوبی ہوئی تلوار ہے\nمسجد کوفہ ہے۔۔۔\n<<DIVIDER>>\nزخمِ سر ہے حیدر کرار ہے\nدھیمی دھیمی نبض کی رفتار ہے\nمسجد کوفہ ہے۔۔۔\n<<DIVIDER>>\nکہہ رہا ہے زخمے سر سے بہکے خون\nدوسرا سجدہ بہت دشوار ہے\nمسجد کوفہ ہے۔۔۔\n<<DIVIDER>>\nرات تک آباد تھا حق کا مکاں\nصبح کو اجڑی ہوئی سرکار ہے\nمسجد کوفہ ہے۔۔۔\n<<DIVIDER>>\nفرقِ پاکِ مرتضیٰ میں تیغ ہے\nیا کلام اللہ میں تلوار ہے\nمسجد کوفہ ہے۔۔۔\n<<DIVIDER>>\nخون میں ہے غرق دامادِ نبی\nسانس کا لینا بہت دشوار ہے\nمسجد کوفہ ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "مسجد کوفہ ہے روزَہ دار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرق سے اونچی لہو کی دھار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآہ دامادِ پیغمبر کے لیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہر میں ڈوبی ہوئی تلوار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کوفہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخمِ سر ہے حیدر کرار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دھیمی دھیمی نبض کی رفتار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کوفہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہہ رہا ہے زخمے سر سے بہکے خون"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دوسرا سجدہ بہت دشوار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کوفہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرات تک آباد تھا حق کا مکاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبح کو اجڑی ہوئی سرکار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کوفہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرقِ پاکِ مرتضیٰ میں تیغ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا کلام اللہ میں تلوار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کوفہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون میں ہے غرق دامادِ نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سانس کا لینا بہت دشوار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کوفہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Sachey Bhai",
   "anjumans": [],
   "verified": false

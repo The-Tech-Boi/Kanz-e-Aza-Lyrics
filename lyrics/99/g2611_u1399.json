@@ -1,12 +1,550 @@
 {
   "remoteId": "g2611_u1399",
-  "title": "Hamara pehla imam",
+  "title": "ہمارا پہلا امام",
   "body": "سلام یا علی سلام یا علی\n<<DIVIDER>>\nخدا نے بھیجے ہے جس پر درود اور سلام\nشہید آج ہوا ہے ہمارا پہلا امام\n<<DIVIDER>>\nامام ایسا جو اللہ کا ارادہ ہے\nامام ایسا جو زوجہ جناب زہرا ہے\nامام ایسا جو پیارے نبی کا سایہ ہے\nامام ایسا جو حسنین کا بھی بابا ہے\nہے اس امام کی دنیا میں آج آخری شام\nشہید آج ہوا ہے۔۔۔\n<<DIVIDER>>\nحسینی ماؤں نے بچوں کو اپنے سمجھایا\nعلی کے قتل کے یہ دن ہے مثل عاشورہ\nلباس سوگ پہن کر بچھاؤ فرش عزا\nیہ دن وہ ہے کہ خوشی بھی حرام ہے بیٹا\nگزاروں گریہ و زاری میں اپنے صبح و شام\nشہید آج ہوا ہے۔۔۔\n<<DIVIDER>>\nزمانہ لاکھ مخالف ہو یہ بتانا ہے\nکسی بھی حال میں یومِ علی منانا ہے\nعزا کے لفظ کی حرمت کو بھی بچانا ہے\nکہ جان دے کے بھی فرش عزا بچھانا ہے\nپھر اگلے سال کہیں گے علی کے سارے غلام\nشہید آج ہوا ہے۔۔۔\n<<DIVIDER>>\nعجیب غم کا یہ ماہ صیام آیا ہے\nعلی کے قتل کا سامان ساتھ لایا ہے\nنبی کو قبر میں جس نے لہو رلایا ہے\nعلی کے بچوں نے داغ یتیمی پایا ہے\nعلی کے شیعوں میں برپا ہے درد سے کہرام\nشہید آج ہوا ہے۔۔۔\n<<DIVIDER>>\nنمک کھجور سے افطار کرنے والا امام\nفدا رسول پہ گھر بار کرنے والا امام\nعدوے دین پہ یلگار کرنے والا امام\nخدا کے بندوں سے ہی پیار کرنے والا امام\nعلی سے پیار ہے جس کو پڑھے گا وہ یہ کلام\nشہید آج ہوا ہے۔۔۔\n<<DIVIDER>>\nتمام کر کے تہجد خدا کا شیر اٹھا\nپھر اپنے گھر سے چلا سوے مسجد کوفہ\nجگہ کے اپنے ہی قاتل کو یہ علی نے کہا\nجو کام کرنے کو آیا ہے کیوں نہیں کرتا\n<<DIVIDER>>\nیہ کہہ کے مولا میرا نماز پڑھنے لگا\nہوی جو پہلی رکعت لعیں عقب سے بڑا\nچلای تیغ جفا شقاف سر کو کیا\nنمازی رونے لگے علی کی آی صدا\nفزت بے ربی کعبہ فزت بے ربی الکعبہ\n<<DIVIDER>>\nبجھی تھی زہر میں تلوار اس ستمگر کی\nشگاف کرتے ہوئے سر جبین تک اتری\nخبر یہ خانۂ زہرا میں جس گھڑی پہنچی\nحسن حسین سے زینب تڑپ کے کہنے لگی\nفلک سے آیا ہے جبریل کا یہ کیسا پیام\nشہید آج ہوا ہے۔۔۔\n<<DIVIDER>>\nجہاں کو دیتے ہیں پیغام میثم و مظہر\nنہیں قیامت صغرا سے کم یہ غم دل پر\nعلی کے سوگ میں فرش عزا بچھے گھر گھر\nہمیشہ بھیجیےء لعنت بھی ابن ملجم پر\nاس ایک بات پہ تکمیل پا چکا ہے کلام\nاللہم لعن قتلتل امیرالمؤمنین",
+  "styling": [
+    {
+      "insert": "سلام یا علی سلام یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخدا نے بھیجے ہے جس پر درود اور سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید آج ہوا ہے ہمارا پہلا امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامام ایسا جو اللہ کا ارادہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امام ایسا جو زوجہ جناب زہرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امام ایسا جو پیارے نبی کا سایہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امام ایسا جو حسنین کا بھی بابا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے اس امام کی دنیا میں آج آخری شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید آج ہوا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسینی ماؤں نے بچوں کو اپنے سمجھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کے قتل کے یہ دن ہے مثل عاشورہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لباس سوگ پہن کر بچھاؤ فرش عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دن وہ ہے کہ خوشی بھی حرام ہے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گزاروں گریہ و زاری میں اپنے صبح و شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید آج ہوا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزمانہ لاکھ مخالف ہو یہ بتانا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی بھی حال میں یومِ علی منانا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عزا کے لفظ کی حرمت کو بھی بچانا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ جان دے کے بھی فرش عزا بچھانا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر اگلے سال کہیں گے علی کے سارے غلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید آج ہوا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعجیب غم کا یہ ماہ صیام آیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کے قتل کا سامان ساتھ لایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی کو قبر میں جس نے لہو رلایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کے بچوں نے داغ یتیمی پایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کے شیعوں میں برپا ہے درد سے کہرام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید آج ہوا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنمک کھجور سے افطار کرنے والا امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فدا رسول پہ گھر بار کرنے والا امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عدوے دین پہ یلگار کرنے والا امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے بندوں سے ہی پیار کرنے والا امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی سے پیار ہے جس کو پڑھے گا وہ یہ کلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید آج ہوا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمام کر کے تہجد خدا کا شیر اٹھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر اپنے گھر سے چلا سوے مسجد کوفہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جگہ کے اپنے ہی قاتل کو یہ علی نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو کام کرنے کو آیا ہے کیوں نہیں کرتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کہہ کے مولا میرا نماز پڑھنے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوی جو پہلی رکعت لعیں عقب سے بڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلای تیغ جفا شقاف سر کو کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نمازی رونے لگے علی کی آی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فزت بے ربی کعبہ فزت بے ربی الکعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبجھی تھی زہر میں تلوار اس ستمگر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شگاف کرتے ہوئے سر جبین تک اتری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خبر یہ خانۂ زہرا میں جس گھڑی پہنچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسن حسین سے زینب تڑپ کے کہنے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فلک سے آیا ہے جبریل کا یہ کیسا پیام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید آج ہوا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجہاں کو دیتے ہیں پیغام میثم و مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہیں قیامت صغرا سے کم یہ غم دل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کے سوگ میں فرش عزا بچھے گھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیشہ بھیجیےء لعنت بھی ابن ملجم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس ایک بات پہ تکمیل پا چکا ہے کلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہم لعن قتلتل امیرالمؤمنین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

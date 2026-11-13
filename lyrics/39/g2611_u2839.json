@@ -1,12 +1,378 @@
 {
   "remoteId": "g2611_u2839",
-  "title": "Sada ran se deti",
+  "title": "صدا رن سے دیتی",
   "body": "صدا رن سے دیتی تھی اک لاشے بے سر\nادھر آ ادھر آ سکینہ سکینہ\nیہ داغ یتیمی ہے تیرا مقدر\nادھر آ ادھر آ سکینہ سکینہ\n<<DIVIDER>>\nادھر آ کلیجے سے اپنے لگالوں\nادھر آ میں سینے پہ تجھکو سلالوں\nادھر آ میری جاں میں قربان تجھ پر\nادھر آ ادھر آ سکینہ سکینہ\n<<DIVIDER>>\nیہ سنسان صحرا یہ ویران جنگل\nغضب کا اندھیرا یہ خاموش مقتل\nنہ گھبرا چلی آ سنبھل کر سنبھل کر\nادھر آ ادھر آ سکینہ سکینہ\n<<DIVIDER>>\nتجھے دیکھنا ہے میرا زخم خنجر\nتجھے دیکھنا ہے میری لاشے بے سر\nتجھے دیکھنا ہے یہ دل سوز منظر\nادھر آ ادھر آ سکینہ سکینہ\n<<DIVIDER>>\nجو سجدے میں حق کے جھکا تھا وہی سر\nنظر آے گا تجھکو نوکِ سناں پر\nبدن پر ہے اب ریگ صحرا کی چادر\nادھر آ ادھر آ سکینہ سکینہ\n<<DIVIDER>>\nرلاےگی تجھکو بہت یاد میری\nسنے گا نہ کوئی فریاد تیری\nستاے گا رستے میں شمر ستمگر\nادھر آ ادھر آ سکینہ سکینہ\n<<DIVIDER>>\nاب انداز بدلے گا سونے کا تیرے\nسلاےگی آغوش میں تجھکو مادر\nیہاں میرے سینے پہ سوے گا اصغر\nادھر آ ادھر آ سکینہ سکینہ\n<<DIVIDER>>\nتیرا سن نہیں غم اٹھانے کے قابل\nکٹھن ہے تیرے امتحانوں کی منزل\nعلی کو صدا دی خدا سے دعا کر\nادھر آ ادھر آ سکینہ سکینہ\n<<DIVIDER>>\nوقار حزیں کیا بیاں ہو وہ منظر\nجو دیکھا تھا اس نے کہو اب میں کیونکر\nبڑی جب سکینہ یہ آواز سن کر\nادھر آ ادھر آ سکینہ سکینہ",
+  "styling": [
+    {
+      "insert": "صدا رن سے دیتی تھی اک لاشے بے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر آ ادھر آ سکینہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ داغ یتیمی ہے تیرا مقدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر آ ادھر آ سکینہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nادھر آ کلیجے سے اپنے لگالوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر آ میں سینے پہ تجھکو سلالوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر آ میری جاں میں قربان تجھ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر آ ادھر آ سکینہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سنسان صحرا یہ ویران جنگل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غضب کا اندھیرا یہ خاموش مقتل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ گھبرا چلی آ سنبھل کر سنبھل کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر آ ادھر آ سکینہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتجھے دیکھنا ہے میرا زخم خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھے دیکھنا ہے میری لاشے بے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھے دیکھنا ہے یہ دل سوز منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر آ ادھر آ سکینہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو سجدے میں حق کے جھکا تھا وہی سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نظر آے گا تجھکو نوکِ سناں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بدن پر ہے اب ریگ صحرا کی چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر آ ادھر آ سکینہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرلاےگی تجھکو بہت یاد میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنے گا نہ کوئی فریاد تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستاے گا رستے میں شمر ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر آ ادھر آ سکینہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب انداز بدلے گا سونے کا تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلاےگی آغوش میں تجھکو مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہاں میرے سینے پہ سوے گا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر آ ادھر آ سکینہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرا سن نہیں غم اٹھانے کے قابل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کٹھن ہے تیرے امتحانوں کی منزل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کو صدا دی خدا سے دعا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر آ ادھر آ سکینہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوقار حزیں کیا بیاں ہو وہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو دیکھا تھا اس نے کہو اب میں کیونکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑی جب سکینہ یہ آواز سن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ادھر آ ادھر آ سکینہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Viqar Nagri",
   "anjumans": [],
   "verified": false

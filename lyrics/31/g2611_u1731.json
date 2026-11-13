@@ -1,12 +1,224 @@
 {
   "remoteId": "g2611_u1731",
-  "title": "Jafar ka rone walon",
+  "title": "جعفر کا رونے والوں",
   "body": "جعفر کا رونے والوں تابوت اُٹھ رہا ہے\nپھر فاطمہ کے گھر میں فرشِ عزا بچھا ہے\n<<DIVIDER>>\nکاظم تڑپ تڑپ کر یہ بین کر رہے ہیں\nافسوس میرا بابا مجھ سے بچھڑ گیا ہے\nجعفر کا رونے والوں۔۔۔\n<<DIVIDER>>\nمثلِ حسن جِگر ہے جعفر کا ٹکڑے ٹکرے\nحاکم نے زہر ہائے معصوم کو دیا ہے\nجعفر کا رونے والوں۔۔۔\n<<DIVIDER>>\nہر ظلم سہہ رہے ہیں جعفر امامِ صادق\nفرزندِ سیدہ پر کیسا ستم ہوا ہے\nجعفر کا رونے والوں۔۔۔\n<<DIVIDER>>\nہر ظلم کلمہ گو نے سادات پر ہے ڈھایا\nاولادِ مصطفی پر غربت کی انتہا ہے\nجعفر کا رونے والوں۔۔۔\n<<DIVIDER>>\nقیدِ ستم میں جعفر روتے ہیں شاہِ دین کو\nمولا کی چشمِ تر میں صحرا کربلا ہے\nجعفر کا رونے والوں۔۔۔\n<<DIVIDER>>\nکہہ دو محب یہ جا کر کم ظرف مفتیوں سے\nسب سے بڑی عبادت ماتم حسین کا ہے۔\nجعفر کا رونے والوں۔۔۔",
+  "styling": [
+    {
+      "insert": "جعفر کا رونے والوں تابوت اُٹھ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر فاطمہ کے گھر میں فرشِ عزا بچھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکاظم تڑپ تڑپ کر یہ بین کر رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افسوس میرا بابا مجھ سے بچھڑ گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کا رونے والوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمثلِ حسن جِگر ہے جعفر کا ٹکڑے ٹکرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حاکم نے زہر ہائے معصوم کو دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کا رونے والوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر ظلم سہہ رہے ہیں جعفر امامِ صادق"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرزندِ سیدہ پر کیسا ستم ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کا رونے والوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر ظلم کلمہ گو نے سادات پر ہے ڈھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اولادِ مصطفی پر غربت کی انتہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کا رونے والوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقیدِ ستم میں جعفر روتے ہیں شاہِ دین کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا کی چشمِ تر میں صحرا کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کا رونے والوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہہ دو محب یہ جا کر کم ظرف مفتیوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب سے بڑی عبادت ماتم حسین کا ہے۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جعفر کا رونے والوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Jaffer e Sadiq (a.s)",
+  "subcategory": "امام جعفر صادق (ع)",
   "anjumans": [],
   "verified": false
 }

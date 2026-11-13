@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u1115",
-  "title": "Darbar kaise jaun",
+  "title": "دربار کیسے جاے",
   "body": "میں فاطمہ کی دختر دربار کیسے جاؤں\nسر پر نہیں ہے چادر دربار کیسے جاؤں\n<<DIVIDER>>\nقاتل کا سامنے ہے کتنی کٹھن گھڑی ہے\nدربار سج رہا زینب ابھی کھڑی ہے\nایک ایک پل ہے دو بھر دربار کیسے جاؤں\nسر پر نہیں ہے۔۔۔\n<<DIVIDER>>\nحاکم کہاں کہاں کہ کرسی نشین ہونگے\nروے گی بنت زہرا اور خوش لعیں ہونگے\nپیش نظر ہے محشر دربار کیسے جاؤں\nسر پر نہیں ہے۔۔۔\n<<DIVIDER>>\nبھای کہاں ہے زندہ پہرہ جو آ کے دیتے\nہوتے اگر بھتیجے حلقے میں مجھکو لیتے\nعباس ہے نہ اکبر دربار کیسے جاؤں\nسر پر نہیں ہے۔۔۔\n<<DIVIDER>>\nنرغے میں اشقیاء کے ہوگا میرا تعارف\nمیں کچھ نہ کہہ سکوں گی اف میری بیکسی اف\nموت آ نہ جائے گھٹ کر دربار کیسے جاؤں\nسر پر نہیں ہے۔۔۔\n<<DIVIDER>>\nبازار کے غموں سے ہنستی بکھر چکی ہے\nدربار کیسے جاے زینب تو مر گیء ہے\nبالوں سے منہ چھپا کر دربار کیسے جاؤں\nسر پر نہیں ہے۔۔۔\n<<DIVIDER>>\nکس شہر بے وفا میں لای ہے مجھکو غربت\nاپنے کو میں چھپا لوں پاؤں جو کوئی تربت\nوہ بھی نہیں میسر دربار کیسے جاؤں\nسر پر نہیں ہے۔۔۔\n<<DIVIDER>>\nمشکل بہت ہے لیکن عابد یہ غم اٹھا لو\nزنجیر ظلم تھامو طوق ستم سنبھالو\nہاں کھینچ لو یہ لنگر دربار کیسے جاؤں\nسر پر نہیں ہے۔۔۔\n<<DIVIDER>>\nمیں ہر ستم سہوں گی ڈھاے گا جو زمانہ\nبھای سے جو کیا ہے وعدہ ہے وہ نبھانا\nاب یہ کہوں تو کیوں کر دربار کیسے جاؤں\nسر پر نہیں ہے۔۔۔\n<<DIVIDER>>\nعامر قریب باب ساعت پہ زلزلہ تھا\nنیر یہی پہ زینب نے مرثیہ پڑھا تھا\nنوحہ ہے ہر زباں پر دربار کیسے جاؤں\nسر پر نہیں ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "میں فاطمہ کی دختر دربار کیسے جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پر نہیں ہے چادر دربار کیسے جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاتل کا سامنے ہے کتنی کٹھن گھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دربار سج رہا زینب ابھی کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ایک پل ہے دو بھر دربار کیسے جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پر نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحاکم کہاں کہاں کہ کرسی نشین ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روے گی بنت زہرا اور خوش لعیں ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیش نظر ہے محشر دربار کیسے جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پر نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای کہاں ہے زندہ پہرہ جو آ کے دیتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتے اگر بھتیجے حلقے میں مجھکو لیتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس ہے نہ اکبر دربار کیسے جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پر نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنرغے میں اشقیاء کے ہوگا میرا تعارف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کچھ نہ کہہ سکوں گی اف میری بیکسی اف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت آ نہ جائے گھٹ کر دربار کیسے جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پر نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازار کے غموں سے ہنستی بکھر چکی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دربار کیسے جاے زینب تو مر گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالوں سے منہ چھپا کر دربار کیسے جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پر نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس شہر بے وفا میں لای ہے مجھکو غربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے کو میں چھپا لوں پاؤں جو کوئی تربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بھی نہیں میسر دربار کیسے جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پر نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشکل بہت ہے لیکن عابد یہ غم اٹھا لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنجیر ظلم تھامو طوق ستم سنبھالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں کھینچ لو یہ لنگر دربار کیسے جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پر نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں ہر ستم سہوں گی ڈھاے گا جو زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای سے جو کیا ہے وعدہ ہے وہ نبھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب یہ کہوں تو کیوں کر دربار کیسے جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پر نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعامر قریب باب ساعت پہ زلزلہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیر یہی پہ زینب نے مرثیہ پڑھا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ ہے ہر زباں پر دربار کیسے جاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پر نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Nayyar Jalalpuri",
   "anjumans": [],
   "verified": false

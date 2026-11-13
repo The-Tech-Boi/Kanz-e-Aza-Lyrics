@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u3091",
-  "title": "Sogaye maqtal mein",
+  "title": "سو گےء مقتل میں",
   "body": "سو گےء مقتل میں سرور حشر کا ہنگام ہے\nاہلبیت مصطفیٰ پر بیکسی کی شام ہے\n<<DIVIDER>>\nشام وہ شام غریباں آگیء سو غم‌ لیےء\nجل چکے خیمے کہیں پر اور کہیں کہرام ہے\nسو گےء مقتل میں۔۔۔\n<<DIVIDER>>\nہے طمانچے ایک یتیمہ پر خدایا اس قدر\nامت اسلام کا کیا خوب یہ انعام ہے\nسو گےء مقتل میں۔۔۔\n<<DIVIDER>>\nباپ کا سینہ ملے‌ گا اب کہاں بی بی تمہیں\nخاک کے بستر پہ سونا اب تمہارا کام ہے\nسو گےء مقتل میں۔۔۔\n<<DIVIDER>>\nکہتی ہے بانو سکینہ سے سنو بی بی زرا\nاب یہاں سے گھر ہمارا دیکھو بس دو گام ہے\nسو گےء مقتل میں۔۔۔\n<<DIVIDER>>\nہے نماز و روز و حج صرف مجلس شاہ کی\nکس جہاں کے واسطے ہم پر لگا الزام ہے\nسو گےء مقتل میں۔۔۔\n<<DIVIDER>>\nروز و شب مصروف رہتے ہے پرے ماتم صدا\nغم میں رونا شاہ دیں کے کے بس ہمارا کام ہے\nسو گےء مقتل میں۔۔۔\n<<DIVIDER>>\nجب سے دیکھی نوجواں کے دل میں برچھی کی انی\nام لیلیٰ کی نظر میں آج دن بھی شام ہے\nسو گےء مقتل میں۔۔۔\n<<DIVIDER>>\nغم میں جینا غم میں مرنا ہے مقدر یا حسین\nیا ہماری زندگی سرور تمہارے نام ہے\nسو گےء مقتل میں۔۔۔\n<<DIVIDER>>\nآپ کے نوحوں سے مولا صابر و اقبال ہے\nنوحہ خوانی نوحہ گوی دونوں کا اک کام ہے\nسو گےء مقتل میں۔۔۔",
+  "styling": [
+    {
+      "insert": "سو گےء مقتل میں سرور حشر کا ہنگام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلبیت مصطفیٰ پر بیکسی کی شام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام وہ شام غریباں آگیء سو غم‌ لیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل چکے خیمے کہیں پر اور کہیں کہرام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو گےء مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے طمانچے ایک یتیمہ پر خدایا اس قدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت اسلام کا کیا خوب یہ انعام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو گےء مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ کا سینہ ملے‌ گا اب کہاں بی بی تمہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک کے بستر پہ سونا اب تمہارا کام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو گےء مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی ہے بانو سکینہ سے سنو بی بی زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب یہاں سے گھر ہمارا دیکھو بس دو گام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو گےء مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے نماز و روز و حج صرف مجلس شاہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس جہاں کے واسطے ہم پر لگا الزام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو گےء مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروز و شب مصروف رہتے ہے پرے ماتم صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم میں رونا شاہ دیں کے کے بس ہمارا کام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو گےء مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے دیکھی نوجواں کے دل میں برچھی کی انی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ کی نظر میں آج دن بھی شام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو گےء مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم میں جینا غم میں مرنا ہے مقدر یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا ہماری زندگی سرور تمہارے نام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو گےء مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کے نوحوں سے مولا صابر و اقبال ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ خوانی نوحہ گوی دونوں کا اک کام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو گےء مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Iqbal Abedi",
   "anjumans": [],
   "verified": false

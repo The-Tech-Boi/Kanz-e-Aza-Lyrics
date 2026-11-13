@@ -1,12 +1,455 @@
 {
   "remoteId": "g2611_u3601",
-  "title": "Zameene garm se",
+  "title": "زمین گرم سے",
   "body": "صداییں دیتی ہے کب سے غریب دکھیا ماں\nہاے سکینہ ہاے سکینہ ہاے سکینہ\n<<DIVIDER>>\nزمین گرم سے بہر خدا اٹھو بی بی\nاب اور ماں کو نہ تم امتحان لو بی بی\n<<DIVIDER>>\nمیں روچکی ہوں بہت اور تم نہ رلواوء\nغریب خستہ جگر کو نہ ایسے تڑپاوء\nنہ ضد کرو میرے سینے سے آکے لگ جاؤ\nخدا کے واسطے میری صدا سنو بی بی\nزمین گرم سے۔۔۔\n<<DIVIDER>>\nلکھے گےء ہیں رہائی کہ اب تو پروانے\nرسن گلے میں نہیں ہو گےء رہا شانے\nقفس سے ہو گےء آزاد لو قفس والے\nکھلی ہواؤں میں اب تم بھی سانس لو بی بی\nزمین گرم سے۔۔۔\n<<DIVIDER>>\nنہر سے عمو صدا دے رہے ہیں آجاؤ\nجو دل پہ گزری ہے آ کر ہمیں سنا جاؤ\nنشاں طمانچوں کو عباس کو دکھا جاؤ\nنہر پہ آن کے ہم سے زرا ملو بی بی\nزمین گرم سے۔۔۔\n<<DIVIDER>>\nنہ کوئی درے لگاے گا تم سے وعدہ ہے\nنہ کوئی تم کو رلاے گا تم سے وعدہ ہے\nطمانچے کوئی نہ مارے گا تم سے وعدہ ہے\nستم کے ظلم سے بے خوف اب رہو بی بی\nزمین گرم سے۔۔۔\n<<DIVIDER>>\nلو مدعاے دل غمزدہ ہوا پورا\nنصیب ہو گیا لمحہ وطن کو جانے کا\nلباس کہنا اتارو پہن لو کپڑا نیا\nخوشی خوشی زرا اٹھ کر گلے ملو بی بی\nزمین گرم سے۔۔۔\n<<DIVIDER>>\nیہ دیکھو لوٹ کا سامان مل گیا سارا\nلو یاد کربوبلا پھر سے ہو گیء تازہ\nتم اپنے ہاتھوں سے بالی پہن لو اٹھکے زرا\nیہ لو ردا سر عریاں پہ تم رکھو بی بی\nزمین گرم سے۔۔۔\n<<DIVIDER>>\nاٹھو کہ پوری ہوی میری جاں تیری چاہت\nزمیں پہ سونے کی اب تو نہیں کوئی حاجت\nیہ دیکھو مل گیء زنداں سے آل کو رخصت\nپدر کے سینے پہ سونے چلو چلو بی بی\nزمین گرم سے۔۔۔\n<<DIVIDER>>\nعجیب وقت تھا بانو پہ دایم و یزداں\nلپٹ کے قبر سے کہتی تھی ایک دکھیا ماں\nصداییں دیتی ہوں کب سے جواب دو اب جاں\nزمین گرم کو لللہ چھوڑ دو بی بی\nزمین گرم سے۔۔۔",
+  "styling": [
+    {
+      "insert": "صداییں دیتی ہے کب سے غریب دکھیا ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے سکینہ ہاے سکینہ ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزمین گرم سے بہر خدا اٹھو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب اور ماں کو نہ تم امتحان لو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں روچکی ہوں بہت اور تم نہ رلواوء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب خستہ جگر کو نہ ایسے تڑپاوء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ضد کرو میرے سینے سے آکے لگ جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے واسطے میری صدا سنو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین گرم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلکھے گےء ہیں رہائی کہ اب تو پروانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسن گلے میں نہیں ہو گےء رہا شانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قفس سے ہو گےء آزاد لو قفس والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھلی ہواؤں میں اب تم بھی سانس لو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین گرم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہر سے عمو صدا دے رہے ہیں آجاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو دل پہ گزری ہے آ کر ہمیں سنا جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نشاں طمانچوں کو عباس کو دکھا جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہر پہ آن کے ہم سے زرا ملو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین گرم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ کوئی درے لگاے گا تم سے وعدہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ کوئی تم کو رلاے گا تم سے وعدہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طمانچے کوئی نہ مارے گا تم سے وعدہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم کے ظلم سے بے خوف اب رہو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین گرم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلو مدعاے دل غمزدہ ہوا پورا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نصیب ہو گیا لمحہ وطن کو جانے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لباس کہنا اتارو پہن لو کپڑا نیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوشی خوشی زرا اٹھ کر گلے ملو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین گرم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ دیکھو لوٹ کا سامان مل گیا سارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو یاد کربوبلا پھر سے ہو گیء تازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم اپنے ہاتھوں سے بالی پہن لو اٹھکے زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ لو ردا سر عریاں پہ تم رکھو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین گرم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھو کہ پوری ہوی میری جاں تیری چاہت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پہ سونے کی اب تو نہیں کوئی حاجت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ دیکھو مل گیء زنداں سے آل کو رخصت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پدر کے سینے پہ سونے چلو چلو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین گرم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعجیب وقت تھا بانو پہ دایم و یزداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لپٹ کے قبر سے کہتی تھی ایک دکھیا ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صداییں دیتی ہوں کب سے جواب دو اب جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین گرم کو لللہ چھوڑ دو بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین گرم سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Dayam Najafi",
   "anjumans": [],
   "verified": false

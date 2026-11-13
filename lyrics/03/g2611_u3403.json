@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u3403",
-  "title": "Ya rab hussain jaisa",
+  "title": "یا رب حسین جیسا",
   "body": "یا رب حسین جیسا کوئی بے وطن نہ ہو\nزینب کی طرح کوی اسیر محن نہ ہو\n<<DIVIDER>>\nاٹھارہ بھاییوں کی بہن تنہا ہو گیء\nبرباد اس طرح سے کسی کا چمن نہ ہو\nیا رب حسین جیسا۔۔۔\n<<DIVIDER>>\nمجبور اتنی ہو گیء شبیر کی بہن\nلاچار ایسی خلق میں کوئی بہن نہ ہو\nیا رب حسین جیسا۔۔۔\n<<DIVIDER>>\nہلچل سپاہ شام میں ہے سبط مصطفیٰ\nگھوڑوں کی ضد پہ لاشہء ابن حسن نہ ہو\nیا رب حسین جیسا۔۔۔\n<<DIVIDER>>\nغسل و کفن نہ دے سکی جو اپنے بھائی کو\nمجبور دو جہان میں کوئی بہن نہ ہو\nیا رب حسین جیسا۔۔۔\n<<DIVIDER>>\nگودی میں اپنے باپ کی پیکان‌ سے شہید\nاصغر کی طرح دوسرا غنچہ دہن نہ ہو\nیا رب حسین جیسا۔۔۔\n<<DIVIDER>>\nکیا اس سے زیادہ ہوگی غریبی و بیکسی\nعریان ہو لاشہ اور میسر کفن نہ ہو\nیا رب حسین جیسا۔۔۔\n<<DIVIDER>>\nمجلس انیس غم‌ کی ہے پرسے کے واسطے\nنوحہ وہ کیا کہ درد کا جس میں سخن نہ ہو\nیا رب حسین جیسا۔۔۔",
+  "styling": [
+    {
+      "insert": "یا رب حسین جیسا کوئی بے وطن نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی طرح کوی اسیر محن نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھارہ بھاییوں کی بہن تنہا ہو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برباد اس طرح سے کسی کا چمن نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا رب حسین جیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجبور اتنی ہو گیء شبیر کی بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاچار ایسی خلق میں کوئی بہن نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا رب حسین جیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہلچل سپاہ شام میں ہے سبط مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھوڑوں کی ضد پہ لاشہء ابن حسن نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا رب حسین جیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغسل و کفن نہ دے سکی جو اپنے بھائی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجبور دو جہان میں کوئی بہن نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا رب حسین جیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگودی میں اپنے باپ کی پیکان‌ سے شہید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کی طرح دوسرا غنچہ دہن نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا رب حسین جیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا اس سے زیادہ ہوگی غریبی و بیکسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عریان ہو لاشہ اور میسر کفن نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا رب حسین جیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجلس انیس غم‌ کی ہے پرسے کے واسطے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ وہ کیا کہ درد کا جس میں سخن نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا رب حسین جیسا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Anees",
   "anjumans": [],
   "verified": false

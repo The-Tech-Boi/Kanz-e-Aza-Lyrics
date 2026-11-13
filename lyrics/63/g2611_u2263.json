@@ -1,12 +1,278 @@
 {
   "remoteId": "g2611_u2263",
-  "title": "Maqtal may khoon se",
+  "title": "مقتل میں خوں سے",
   "body": "مقتل میں خوں سے لعل ہے بانو کا نونہال\n---مقتل میں خوں سے\n<<DIVIDER>>\nابرو ہی حسین کی پلکیں حسین کی\nتیور وہی حسین کے آنکھیں حسین کی\nآئینہ جمال ہے بانو کا نونہال\n---مقتل میں خوں سے\n<<DIVIDER>>\nسوکھے لبوں کے گرد وہ چہرے کی آب و تاب\nہمت نہیں کسی میں کوئی بڑھ کے دے جواب\nشبیر کا سوال ہے بانو کا نونہال\n---مقتل میں خوں سے\n<<DIVIDER>>\nاللہ رے وہ تیری تبسم بھری نگاہ\nاک آن میں صفیں ہی پلٹ دے خدا گوایہ\nہیبت میں اک جلال ہے بانو کا نونہال\n---مقتل میں خوں سے\n<<DIVIDER>>\nتیرا لہو زمین پر گرنے نہیں دیا\nبہتے لہو کو شاہ نے چہرے پہ مل لیا\nیکتا دم قتال ہے بانو کا نونہال\n---مقتل میں خوں سے\n<<DIVIDER>>\nبانو کی سمت جائے تو کس طرح سے حسین\nپلٹے ہیں سات بار در خیمہ سے حسین\nہاتھوں پہ نونہال ہے بانو کا نونہال\n---مقتل میں خوں سے\n<<DIVIDER>>\nاٹھتا ہے شور گریہ جو اک خیمہ گاہ سے\nسب بن کا بن لرزتا ہے بانو کی آہ سے\nاک تیر سا نڈھال ہے بانو کا نونہال\n---مقتل میں خوں سے",
+  "styling": [
+    {
+      "insert": "مقتل میں خوں سے لعل ہے بانو کا نونہال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مقتل میں خوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nابرو ہی حسین کی پلکیں حسین کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیور وہی حسین کے آنکھیں حسین کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئینہ جمال ہے بانو کا نونہال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مقتل میں خوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوکھے لبوں کے گرد وہ چہرے کی آب و تاب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمت نہیں کسی میں کوئی بڑھ کے دے جواب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کا سوال ہے بانو کا نونہال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مقتل میں خوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللہ رے وہ تیری تبسم بھری نگاہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک آن میں صفیں ہی پلٹ دے خدا گوایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہیبت میں اک جلال ہے بانو کا نونہال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مقتل میں خوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرا لہو زمین پر گرنے نہیں دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتے لہو کو شاہ نے چہرے پہ مل لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یکتا دم قتال ہے بانو کا نونہال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مقتل میں خوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبانو کی سمت جائے تو کس طرح سے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پلٹے ہیں سات بار در خیمہ سے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں پہ نونہال ہے بانو کا نونہال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مقتل میں خوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھتا ہے شور گریہ جو اک خیمہ گاہ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب بن کا بن لرزتا ہے بانو کی آہ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک تیر سا نڈھال ہے بانو کا نونہال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---مقتل میں خوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Ahmed Naved",
   "anjumans": [],
   "verified": false

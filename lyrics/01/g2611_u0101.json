@@ -1,12 +1,501 @@
 {
   "remoteId": "g2611_u0101",
-  "title": "Aao alam ke saaye",
+  "title": "آؤ علم کے ساے",
   "body": "یہ تیری دنیا یہ دنیا داری\nانسانیت ہے بے چین ساری\nانجان خدشے یہ بیقراری\nسب کچھ ہے پھر بھی سب سے بیزاری\n<<DIVIDER>>\nلیکن یہ مانو کوئی خدا ہے\nاس کا وسیلہ کچھ کہہ رہا ہے\nجب بھی کوئی غم کا احساس پاؤ\nآؤ علم کے ساے میں آؤ\n<<DIVIDER>>\nدنیا یہ تیری کیا تجھ کو دے گی\nکس کو دیا ہے جو تجھ کو دے گی\nاپنی مرادیں غازی سے پاؤ\nآؤ علم کے۔۔۔\n<<DIVIDER>>\nتیرے سہارے ٹوٹ گےء کیا\nاپنے پراے روٹھ گےء کیا\nروٹھے ہوؤں کو اپنے مناؤ\nآؤ علم کے۔۔۔\n<<DIVIDER>>\nجب غم رلاے جب دل ہو بوجھل\nتیری وفا کا نہ دے کوئی پھل\nکیا غم ہے غم کو اب بھول جاؤ\nآؤ علم کے۔۔۔\n<<DIVIDER>>\nساے میں میرے اب بھی ہے رہتی\nمیری سکینہ پیاری بھتیجی\nجب آؤ بچوں کو ساتھ لاؤ\nآؤ علم کے۔۔۔\n<<DIVIDER>>\nخوش ہوگی تم سے میری سکینہ\nگرمی کا جب بھی آے مہینہ\nپانی پرندوں کو بھی پلاؤ\nآؤ علم کے۔۔۔\n<<DIVIDER>>\nاے میرے آقا کے پرسہ داروں\nاے نوحہ خوانوں ماتم گزاروں\nجاؤ جہاں بھی مجلس کراؤ\nآؤ علم کے۔۔۔\n<<DIVIDER>>\nمیرے علم پر بی بیوں آنا\nسر کو خدارا اپنے چھپانا\nسب نے ستایا تم‌ نہ ستاؤ\nآؤ علم کے۔۔۔\n<<DIVIDER>>\nآٹھ محرم پرچم سجا کر\nبچوں کو اپنے سقہ بنا کر\nنام سکینہ پانی پلاؤ\nآؤ علم کے۔۔۔\n<<DIVIDER>>\nبیٹا ہوں میں بھی مشکل کا\nپیارا ہوں میں بھی حاجت روا کا\nٹھوکر لگے جب جب چوٹ کھاؤ\nآؤ علم کے۔۔۔\n<<DIVIDER>>\nریحان و سرور وہ دن بھی آے\nغازی یہ کہہ کر ہم کو بلاے\nہم ہیں تمہارے تم غم نہ کھاؤ\nآؤ علم کے۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ تیری دنیا یہ دنیا داری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انسانیت ہے بے چین ساری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انجان خدشے یہ بیقراری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کچھ ہے پھر بھی سب سے بیزاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلیکن یہ مانو کوئی خدا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کا وسیلہ کچھ کہہ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب بھی کوئی غم کا احساس پاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ علم کے ساے میں آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدنیا یہ تیری کیا تجھ کو دے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو دیا ہے جو تجھ کو دے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی مرادیں غازی سے پاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ علم کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے سہارے ٹوٹ گےء کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے پراے روٹھ گےء کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روٹھے ہوؤں کو اپنے مناؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ علم کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب غم رلاے جب دل ہو بوجھل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری وفا کا نہ دے کوئی پھل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا غم ہے غم کو اب بھول جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ علم کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nساے میں میرے اب بھی ہے رہتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری سکینہ پیاری بھتیجی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب آؤ بچوں کو ساتھ لاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ علم کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوش ہوگی تم سے میری سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرمی کا جب بھی آے مہینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پرندوں کو بھی پلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ علم کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے میرے آقا کے پرسہ داروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نوحہ خوانوں ماتم گزاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاؤ جہاں بھی مجلس کراؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ علم کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے علم پر بی بیوں آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کو خدارا اپنے چھپانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب نے ستایا تم‌ نہ ستاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ علم کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآٹھ محرم پرچم سجا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچوں کو اپنے سقہ بنا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام سکینہ پانی پلاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ علم کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹا ہوں میں بھی مشکل کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیارا ہوں میں بھی حاجت روا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹھوکر لگے جب جب چوٹ کھاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ علم کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان و سرور وہ دن بھی آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی یہ کہہ کر ہم کو بلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم ہیں تمہارے تم غم نہ کھاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ علم کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

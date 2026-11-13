@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u2457",
-  "title": "Mohamed ke shehr",
+  "title": "محمد کے شہر",
   "body": "گھر کس کا جل رہا ہے محمد کے شہر میں\nیہ کون رو رہا ہے محمد کے شہر میں\n<<DIVIDER>>\nکیسا یہ وقت آیا کوئی جانتا نہیں\nبیٹی نبی کی ہے کوئی پہچانتا نہیں\nمظلوم فاطمہ ہے محمد کے شہر میں\nگھر کس کا جل رہا ہے۔۔۔\n<<DIVIDER>>\nپیارے نبی نے جسم کا ٹکڑا کہا جسے\nتعظیم جس کی کرتے تھے اس کی ہی پشت پہ\nدروازہ گر رہا ہے محمد کے شہر میں\nگھر کس کا جل رہا ہے۔۔۔\n<<DIVIDER>>\nزہرا کو ایک درد کا مرحم نہ مل سکا\nکہتا ہے پر ہر ایک مسلمان برملہ\nہر درد کی دوا ہے محمد کے شہر میں\nگھر کس کا جل رہا ہے۔۔۔\n<<DIVIDER>>\nبعد رسول قدر نہ جانی بتول کی\nدربار میں کھڑی ہے نشانی رسول کی\nمحروم فاطمہ ہے محمد کے شہر میں\nگھر کس کا جل رہا ہے۔۔۔\n<<DIVIDER>>\nبابا کے پاس بیٹی کی تربت نہ بن سکی\nہے کوئی چشمِ بینا جو انصاف سے کہے\nیہ کیا ستم ہوا ہے محمد کے شہر میں\nگھر کس کا جل رہا ہے۔۔۔\n<<DIVIDER>>\nکس نے گلے میں ڈالی ہے حیدر کے رسیاں\nٹوٹی ہے کیسے فاطمہ زہرا کی پسلیاں\nکیا حادثہ ہوا ہےمحمد کے شہر میں\nگھر کس کا جل رہا ہے۔۔۔\n<<DIVIDER>>\nافسوس کلمہ گویوں نے اس کو نہیں سنا\nرہتا تھا جو بتول کے ہونٹوں پہ مرثیہ\nوہ اب بھی گونجتا ہے محمد کے شہر میں\nگھر کس کا جل رہا ہے۔۔۔\n<<DIVIDER>>\nاللّٰہ رے بقیہ کے غربت وہ بے کسی\nصدیاں گزر گیء ہے مگر آج بھی کوئی\nگھٹ گھٹ کے رو رہا ہے محمد کے شہر میں\nگھر کس کا جل رہا ہے۔۔۔\n<<DIVIDER>>\nعامر یہ کلمہ گویوں نے سونچا نہیں کبھی\nعینی جنابِ فاطمہ جان رسول کی\nمرقد پہ بھی جفا ہے محمد کے شہر میں\nگھر کس کا جل رہا ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "گھر کس کا جل رہا ہے محمد کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کون رو رہا ہے محمد کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسا یہ وقت آیا کوئی جانتا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹی نبی کی ہے کوئی پہچانتا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم فاطمہ ہے محمد کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کس کا جل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیارے نبی نے جسم کا ٹکڑا کہا جسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تعظیم جس کی کرتے تھے اس کی ہی پشت پہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دروازہ گر رہا ہے محمد کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کس کا جل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزہرا کو ایک درد کا مرحم نہ مل سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتا ہے پر ہر ایک مسلمان برملہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درد کی دوا ہے محمد کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کس کا جل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد رسول قدر نہ جانی بتول کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دربار میں کھڑی ہے نشانی رسول کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محروم فاطمہ ہے محمد کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کس کا جل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا کے پاس بیٹی کی تربت نہ بن سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کوئی چشمِ بینا جو انصاف سے کہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کیا ستم ہوا ہے محمد کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کس کا جل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس نے گلے میں ڈالی ہے حیدر کے رسیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹوٹی ہے کیسے فاطمہ زہرا کی پسلیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا حادثہ ہوا ہےمحمد کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کس کا جل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nافسوس کلمہ گویوں نے اس کو نہیں سنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہتا تھا جو بتول کے ہونٹوں پہ مرثیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ اب بھی گونجتا ہے محمد کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کس کا جل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللّٰہ رے بقیہ کے غربت وہ بے کسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدیاں گزر گیء ہے مگر آج بھی کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹ گھٹ کے رو رہا ہے محمد کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کس کا جل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعامر یہ کلمہ گویوں نے سونچا نہیں کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عینی جنابِ فاطمہ جان رسول کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرقد پہ بھی جفا ہے محمد کے شہر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کس کا جل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Ainee Rizvi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,282 @@
 {
   "remoteId": "g2611_u3433",
-  "title": "Yasrab ke musafir",
+  "title": "یثرب کے مسافر",
   "body": "یثرب کے مسافر سے قریب موت کا بن ہے\nہمراہ قضا سید آوارہ وطن ہے\n<<DIVIDER>>\nمنزل سے ہے نزدیک محمد کا نواسہ\nاب ختم سفر ہو چکا شاہ شہداء کا\nرہ رہ کے دہل جاتا ہے زینب کا کلیجہ\nمنہ دیکھ کے بھائی کا پریشان بہن ہے\nیثرب کے مسافر سے۔۔۔\n<<DIVIDER>>\nکرتا ہے کوئی راتوں کو جنگل میں یہ نالے\nقربان ہو ماں تجھ پہ میرے نازوں کے پالے\nبچے تجھے کرتی ہوں میں خالق کے حوالے\nڈر تھا مجھے لٹنے کا جہاں یہ وہی بن ہے\nیثرب کے مسافر سے۔۔۔\n<<DIVIDER>>\nاس دشت میں پاے گا تو ہر طرح کی ایذا\nاس دشت میں دشمن تیری ہو جاے گی دنیا\nلای ہے تجھے موت یہاں کھینچ کے بیٹا\nشبیر یہ تیرا ہی بس اب تیرا وطن ہے\nیثرب کے مسافر سے۔۔۔\n<<DIVIDER>>\nپیاسا تجھے جب ذبح کرے یہ ستم آرا\nلاشے کا بھی ہوگا نہ کوئی گاڑنے والا\nبیٹا تیری مظلومی کے قربان یہ دکھیا\nنے غسل قسمت میں تیری اور نہ کفن ہے\nیثرب کے مسافر سے۔۔۔\n<<DIVIDER>>\nلٹ جاے گا پیاسا تیرا یہ چھوٹا سا لشکر\nاک بوندھ بھی پانی کی نہ دیگا کوئی خود سر\nچلاے گا بے شیر کو تو ہاتھوں پہ لے کر\nلوگوں میرا معصوم بہت تشنہ دہن ہے\nیثرب کے مسافر سے۔۔۔",
+  "styling": [
+    {
+      "insert": "یثرب کے مسافر سے قریب موت کا بن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمراہ قضا سید آوارہ وطن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنزل سے ہے نزدیک محمد کا نواسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ختم سفر ہو چکا شاہ شہداء کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ رہ کے دہل جاتا ہے زینب کا کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منہ دیکھ کے بھائی کا پریشان بہن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یثرب کے مسافر سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرتا ہے کوئی راتوں کو جنگل میں یہ نالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قربان ہو ماں تجھ پہ میرے نازوں کے پالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچے تجھے کرتی ہوں میں خالق کے حوالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈر تھا مجھے لٹنے کا جہاں یہ وہی بن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یثرب کے مسافر سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس دشت میں پاے گا تو ہر طرح کی ایذا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس دشت میں دشمن تیری ہو جاے گی دنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لای ہے تجھے موت یہاں کھینچ کے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر یہ تیرا ہی بس اب تیرا وطن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یثرب کے مسافر سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاسا تجھے جب ذبح کرے یہ ستم آرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے کا بھی ہوگا نہ کوئی گاڑنے والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹا تیری مظلومی کے قربان یہ دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نے غسل قسمت میں تیری اور نہ کفن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یثرب کے مسافر سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلٹ جاے گا پیاسا تیرا یہ چھوٹا سا لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بوندھ بھی پانی کی نہ دیگا کوئی خود سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلاے گا بے شیر کو تو ہاتھوں پہ لے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگوں میرا معصوم بہت تشنہ دہن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یثرب کے مسافر سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Safar e Imam Hussain",
+  "subcategory": "سفر امام حسین (ع)",
   "anjumans": [],
   "verified": false
 }

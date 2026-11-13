@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u1307",
-  "title": "Ghame shabbir hai",
+  "title": "غمِ شبیر ہے",
   "body": "غمِ شبیر ہے آہ و فغاں ہے\nیہی محشر حیاتِ جاوداں ہے\n<<DIVIDER>>\nثنائِ شہ میرے بس کی کہاں ہے\nمیں قطرہ ہوں وہ بحرِ بیکراں ہے\nغمِ شبیر ہے ۔۔۔\n<<DIVIDER>>\nقلم جو مدح سرور میں رواں ہے\nیزیدی قلب پر نوکِ سناں ہے\nغمِ شبیر ہے ۔۔۔\n<<DIVIDER>>\nجہاں کھلتے ہیں گُل ے امامت\nوہ خاتونِ جناں کا گُلستاں ہے\nغمِ شبیر ہے ۔۔۔\n<<DIVIDER>>\nحُسین ابنِ علی کشتی کے لنگر\nردائے بنتِ زہرا بباگبان ہے\nغمِ شبیر ہے ۔۔۔\n<<DIVIDER>>\nدہن شہ کا پیعمبر کی زبان ہے\nنبوت کی امامت ترجمہ ہے\nغمِ شبیر ہے ۔۔۔\n<<DIVIDER>>\nپسر کی لاش پر کہتی تھی لیلٰی\nاُٹھو بیٹا کہ اب وقتِ اذاں ہے\nغمِ شبیر ہے ۔۔۔\n<<DIVIDER>>\nکیئے جا مدحتِ آلِ پیعمبر\nیہی محشر حیاتِ جاوداں ہے\nغمِ شبیر ہے ۔۔۔",
+  "styling": [
+    {
+      "insert": "غمِ شبیر ہے آہ و فغاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی محشر حیاتِ جاوداں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nثنائِ شہ میرے بس کی کہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں قطرہ ہوں وہ بحرِ بیکراں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمِ شبیر ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقلم جو مدح سرور میں رواں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یزیدی قلب پر نوکِ سناں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمِ شبیر ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجہاں کھلتے ہیں گُل ے امامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ خاتونِ جناں کا گُلستاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمِ شبیر ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحُسین ابنِ علی کشتی کے لنگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ردائے بنتِ زہرا بباگبان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمِ شبیر ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدہن شہ کا پیعمبر کی زبان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبوت کی امامت ترجمہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمِ شبیر ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپسر کی لاش پر کہتی تھی لیلٰی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھو بیٹا کہ اب وقتِ اذاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمِ شبیر ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیئے جا مدحتِ آلِ پیعمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی محشر حیاتِ جاوداں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمِ شبیر ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mehshar Lakhnavi",
   "anjumans": [],
   "verified": false

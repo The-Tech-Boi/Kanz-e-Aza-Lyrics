@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u0782",
-  "title": "Baade hussain kisne",
+  "title": "بعد حسین کس نے",
   "body": "بعد حسین کس نے کہا میں یتیم ہوں\nمقتل سے آ رہی ہے صدا میں یتیم ہوں\n<<DIVIDER>>\nرو کر کہا سکینہ نے لاش حسین پر\nاب جا کے یہ یقین ہوا میں یتیم ہوں\nبعد حسین کس نے۔۔۔\n<<DIVIDER>>\nجو ہے وہ ظلم کرتا ہے مجبور جان کر\nشاید یہی ہے میری خطا میں یتیم ہوں\nبعد حسین کس نے۔۔۔\n<<DIVIDER>>\nبولی سکینہ شمر سے کانوں پر رکھ کے ہاتھ\nگوہر نہ چھین بحر خدا میں یتیم ہوں\nبعد حسین کس نے۔۔۔\n<<DIVIDER>>\nدامن پھٹا ہوا ہے گریبان چاک ہے\nدیکھے زمین کربوبلا میں یتیم ہوں\nبعد حسین کس نے۔۔۔\n<<DIVIDER>>\nجو جس کے بس میں ہے وہ ستم ڈھاے شوق سے\nاب کیا کروں کسی سے گلہ میں یتیم ہوں\nبعد حسین کس نے۔۔۔\n<<DIVIDER>>\nپھر دیکھتی ہوں کون طمانچے لگاے گا\nعمو سے کوئی کہہ دے زرا میں یتیم ہوں\nبعد حسین کس نے۔۔۔\n<<DIVIDER>>\nمیں اپنے آنسوؤں سے بجھا لوں گی اپنی پیاس\nدریا سے لوٹ آؤ چچا میں یتیم ہوں\nبعد حسین کس نے۔۔۔\n<<DIVIDER>>\nسر رکھ دیا سکینہ نے زینب کی گود میں\nرکھنا پھپھی خیال میرا میں یتیم ہوں\nبعد حسین کس نے۔۔۔\n<<DIVIDER>>\nذکر سکینہ آتے ہی دل کانپ اٹھا سرور\nجیسے کسی نے مجھ سے کہا میں یتیم ہوں\nبعد حسین کس نے۔۔۔",
+  "styling": [
+    {
+      "insert": "بعد حسین کس نے کہا میں یتیم ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل سے آ رہی ہے صدا میں یتیم ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو کر کہا سکینہ نے لاش حسین پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب جا کے یہ یقین ہوا میں یتیم ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد حسین کس نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو ہے وہ ظلم کرتا ہے مجبور جان کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاید یہی ہے میری خطا میں یتیم ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد حسین کس نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبولی سکینہ شمر سے کانوں پر رکھ کے ہاتھ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گوہر نہ چھین بحر خدا میں یتیم ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد حسین کس نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدامن پھٹا ہوا ہے گریبان چاک ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھے زمین کربوبلا میں یتیم ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد حسین کس نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو جس کے بس میں ہے وہ ستم ڈھاے شوق سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کیا کروں کسی سے گلہ میں یتیم ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد حسین کس نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر دیکھتی ہوں کون طمانچے لگاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمو سے کوئی کہہ دے زرا میں یتیم ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد حسین کس نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں اپنے آنسوؤں سے بجھا لوں گی اپنی پیاس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا سے لوٹ آؤ چچا میں یتیم ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد حسین کس نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر رکھ دیا سکینہ نے زینب کی گود میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھنا پھپھی خیال میرا میں یتیم ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد حسین کس نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nذکر سکینہ آتے ہی دل کانپ اٹھا سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے کسی نے مجھ سے کہا میں یتیم ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد حسین کس نے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Suroor Lakhnavi",
   "anjumans": [],
   "verified": false

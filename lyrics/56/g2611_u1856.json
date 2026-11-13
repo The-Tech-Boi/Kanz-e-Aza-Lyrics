@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u1856",
-  "title": "Kaise ho musalman",
+  "title": "کیسے ہو مسلمان",
   "body": "کیسے ہو مسلمان چراغوں کو بجھادو\nشہزادیء کونین کھلے سر ہے ردا دو\n<<DIVIDER>>\nاٹھتا ہوا خیموں سے دھواں دیکھنے والوں\nاسلام کے گھر میں ہے لگی آگ بجھادو\nکیسے ہو مسلمان۔۔۔\n<<DIVIDER>>\nاس دن کے لئے پالا تھا کیا بنت نبی نے\nشبیر کا سر کاٹ کے نیزے پہ چڑھادو\nکیسے ہو مسلمان۔۔۔\n<<DIVIDER>>\nگھوڑوں سے تن سبط نبی روند رہے ہو\nدر پر ہے بہن رن کی زرا خاک اڑادو\nکیسے ہو مسلمان۔۔۔\n<<DIVIDER>>\nیہ شام کا بازار محمد کی نواسی\nعریاں سر اسلام ہے چادر تو اڑھادو\nکیسے ہو مسلمان۔۔۔\n<<DIVIDER>>\nماں دیکھ نہ لے سر کو کہیں بر سرِ نیزہ\nجس پر سر اصغر بے زرا دور ہٹا دو\nکیسے ہو مسلمان۔۔۔\n<<DIVIDER>>\nگھبرا کے طمانچوں سے یہ کہتی تھی سکینہ\nاچھی پھپھی اماں میرے عمو کو بلا دو\nکیسے ہو مسلمان۔۔۔\n<<DIVIDER>>\nشبیر کے ماتم کی صدا گونج رہی ہے\nاٹھو میری آواز سے آواز ملا دو\nکیسے ہو مسلمان۔۔۔",
+  "styling": [
+    {
+      "insert": "کیسے ہو مسلمان چراغوں کو بجھادو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہزادیء کونین کھلے سر ہے ردا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھتا ہوا خیموں سے دھواں دیکھنے والوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسلام کے گھر میں ہے لگی آگ بجھادو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے ہو مسلمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس دن کے لئے پالا تھا کیا بنت نبی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کا سر کاٹ کے نیزے پہ چڑھادو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے ہو مسلمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھوڑوں سے تن سبط نبی روند رہے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در پر ہے بہن رن کی زرا خاک اڑادو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے ہو مسلمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ شام کا بازار محمد کی نواسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عریاں سر اسلام ہے چادر تو اڑھادو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے ہو مسلمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں دیکھ نہ لے سر کو کہیں بر سرِ نیزہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس پر سر اصغر بے زرا دور ہٹا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے ہو مسلمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھبرا کے طمانچوں سے یہ کہتی تھی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھی پھپھی اماں میرے عمو کو بلا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے ہو مسلمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر کے ماتم کی صدا گونج رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو میری آواز سے آواز ملا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے ہو مسلمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "anjumans": [],
   "verified": false
 }

@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u1475",
-  "title": "Haye hydere karrar",
+  "title": "ہاے حیدر کرّار",
   "body": "جبریل رو کے کہتے ہیں حق کی دہائی ہے\nضربت علی نے سجدۂ خالق میں کھای ہے\n<<DIVIDER>>\nزخمی ہوا مسجد میں پیمبر کا علمدار\nہاےحیدر کرّار\nہاے حیدر کرّار لو چل گیء تلوار کٹنے لگی دستار\nہاےحیدر کرّار\n<<DIVIDER>>\nرنگین ہوی محراب ولایت کے لہو سے\nاسلام کے گھر میں چلی ایمان پہ تلوار\nہاےحیدر کرّار\nزخمی ہوا مسجد میں۔۔۔\n<<DIVIDER>>\nبیٹی نے کہا بابا کی ہو خیر اے یا رب\nکیوں سر سے گری جاتی ہےچادر میری ہر بار\nہاےحیدر کرّار\nزخمی ہوا مسجد میں۔۔۔\n<<DIVIDER>>\nاماں کے جنازے کو بھی اٹھتے ہوے دیکھا\nاب زینب و کلثوم ہے بابا کی عزادار\nہاےحیدر کرّار\nزخمی ہوا مسجد میں۔۔۔\n<<DIVIDER>>\nیہ چوم کے کہتے تھے علی بازوے زینب\nان بازؤں کو رسیوں سے باندھیں گے اغیار\nہاےحیدر کرّار\nزخمی ہوا مسجد میں۔۔۔\n<<DIVIDER>>\nآیا لب حیدر پہ سلام آخری جس دم\nسر پیٹ کے کہنے لگے مولا کے سب انصار\nہاےحیدر کرّار\nزخمی ہوا مسجد میں۔۔۔\n<<DIVIDER>>\nعاشور کا منظر ہے نگاہوں میں علی کی\nعباس کو رو رو کے بناتے ہیں علمدار\nہاےحیدر کرّار\nزخمی ہوا مسجد میں۔۔۔\n<<DIVIDER>>\nحسنین نے بابا کے جنازے کو اٹھایا\nاک عرش کے کاندھے پہ ہے اک عرش نمودار\nہاےحیدر کرّار\nزخمی ہوا مسجد میں۔۔۔\n<<DIVIDER>>\nمسجد میں علی تیغ نہ سجدے میں جو کھاتے\nتوحید نہ یوں آتی نظر ماجد و مختار\nہاےحیدر کرّار\nزخمی ہوا مسجد میں۔۔۔",
+  "styling": [
+    {
+      "insert": "جبریل رو کے کہتے ہیں حق کی دہائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضربت علی نے سجدۂ خالق میں کھای ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخمی ہوا مسجد میں پیمبر کا علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاےحیدر کرّار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے حیدر کرّار لو چل گیء تلوار کٹنے لگی دستار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاےحیدر کرّار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرنگین ہوی محراب ولایت کے لہو سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسلام کے گھر میں چلی ایمان پہ تلوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاےحیدر کرّار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہوا مسجد میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹی نے کہا بابا کی ہو خیر اے یا رب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں سر سے گری جاتی ہےچادر میری ہر بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاےحیدر کرّار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہوا مسجد میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں کے جنازے کو بھی اٹھتے ہوے دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب زینب و کلثوم ہے بابا کی عزادار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاےحیدر کرّار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہوا مسجد میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ چوم کے کہتے تھے علی بازوے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان بازؤں کو رسیوں سے باندھیں گے اغیار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاےحیدر کرّار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہوا مسجد میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآیا لب حیدر پہ سلام آخری جس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹ کے کہنے لگے مولا کے سب انصار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاےحیدر کرّار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہوا مسجد میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشور کا منظر ہے نگاہوں میں علی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کو رو رو کے بناتے ہیں علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاےحیدر کرّار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہوا مسجد میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسنین نے بابا کے جنازے کو اٹھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک عرش کے کاندھے پہ ہے اک عرش نمودار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاےحیدر کرّار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہوا مسجد میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسجد میں علی تیغ نہ سجدے میں جو کھاتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "توحید نہ یوں آتی نظر ماجد و مختار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاےحیدر کرّار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہوا مسجد میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Majid Raza Abidi",
   "anjumans": [],
   "verified": false

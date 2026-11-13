@@ -1,12 +1,536 @@
 {
   "remoteId": "g2611_u3193",
-  "title": "Tera sadqa hussain",
+  "title": "تیرا صدقہ حسین",
   "body": "یا حسینا حسینا حسینا\n<<DIVIDER>>\nگر گر زمین پہ تیروں پہ ٹہرا جو جسم شاہ\nمنظر یہ دیکھ روتے رہے سارے انبیاء\nبے ساختہ یہ نعرۂ تکبیر نے کہا\nتیرا صدقہ حسین تیرا صدقہ حسین\n<<DIVIDER>>\nروتی رہی نماز مصلی بھی رو پڑا\nپیاسا حسین زین سے جب خاک پر گرا\nسر کو کٹا کے کر دیا بلند لا الہ\nعرش بریں سے خالق اکبر نے دی صدا\nتیرا صدقہ حسین۔۔۔\nیا حسینا۔۔۔\n<<DIVIDER>>\nاپنے کرم سے رسم کرم پر کرم کیا\nتو نے وہ میزبان کا حق ہے ادا کیا\nکربوبلا یہ کہتی ہے شبیر شکریہ\nصحرا کو تو نے عرش معلیٰ بنا دیا\nتیرا صدقہ حسین۔۔۔\nیا حسینا۔۔۔\n<<DIVIDER>>\nآیینہ لا الٰہ کی بنیاد ہے حسین\nخالق جو کر رہا ہے وہ فریاد ہے حسین\nحر کا ضمیر آج بھی سرشاد ہے حسین\nانسان تیرے دم سے ہی آزاد ہے حسین\nتیرا صدقہ حسین۔۔۔\nیا حسینا۔۔۔\n<<DIVIDER>>\nحق کو بلند کر کے رکے گا یہ کارواں\nاڑتی رہے گی پرچم باطل کی دیجئے\nقابی بتول آج بھی کرتی ہے یہ فغاں\nحق کی بقا کے واسطے بولے گی ہر زباں\nتیرا صدقہ حسین۔۔۔\nیا حسینا۔۔۔\n<<DIVIDER>>\nبنت علی زمین پہ گری تھام کر جگر\nپھیلا کے دونوں ہاتھ بکاے وہ نوحہ گر\nقربان کر دیےء ہے پسر دونوں بھائی پر\nزینب یہ کہہ رہی تھی بیاباں میں ننگے سر\nتیرا صدقہ حسین۔۔۔\nیا حسینا۔۔۔\n<<DIVIDER>>\nبکھرا پڑا تھا عظمت توحید کا قرآن\nبیمار کربلا پہ عجب تھا یہ امتحاں\nپہلو میں ساتھ جس کے سکینہ تھی نیم جاں\nنیزے پہ سر حسین کا دیکھا تو دی اذاں\nتیرا صدقہ حسین۔۔۔\nیا حسینا۔۔۔\n<<DIVIDER>>\nبنت علی نے صبر کا ہر امتحاں دیا\nآنکھوں میں اشک آے تو اشکوں کو پی لیا\nکوفہ کی شاہزادی نے پیدل سفر کیا\nراہ خدا میں جو دیا یہ سوچ کر دیا\nتیرا صدقہ حسین۔۔۔\nیا حسینا۔۔۔\n<<DIVIDER>>\nیاور ہر ایک غم کا مداوا ہے یا حسین\nمومن کی زندگی کا اثاثہ ہے یا حسین\nقرآن کربلا کا خلاصہ ہے یا حسین\nخالق جو پڑھ رہا ہے وظیفہ ہے یا حسین\nتیرا صدقہ حسین۔۔۔\nیا حسینا۔۔۔",
+  "styling": [
+    {
+      "insert": "یا حسینا حسینا حسینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگر گر زمین پہ تیروں پہ ٹہرا جو جسم شاہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منظر یہ دیکھ روتے رہے سارے انبیاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ساختہ یہ نعرۂ تکبیر نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا صدقہ حسین تیرا صدقہ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتی رہی نماز مصلی بھی رو پڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسا حسین زین سے جب خاک پر گرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کو کٹا کے کر دیا بلند لا الہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عرش بریں سے خالق اکبر نے دی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا صدقہ حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسینا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے کرم سے رسم کرم پر کرم کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو نے وہ میزبان کا حق ہے ادا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا یہ کہتی ہے شبیر شکریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحرا کو تو نے عرش معلیٰ بنا دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا صدقہ حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسینا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآیینہ لا الٰہ کی بنیاد ہے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خالق جو کر رہا ہے وہ فریاد ہے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حر کا ضمیر آج بھی سرشاد ہے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انسان تیرے دم سے ہی آزاد ہے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا صدقہ حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسینا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحق کو بلند کر کے رکے گا یہ کارواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اڑتی رہے گی پرچم باطل کی دیجئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قابی بتول آج بھی کرتی ہے یہ فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق کی بقا کے واسطے بولے گی ہر زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا صدقہ حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسینا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبنت علی زمین پہ گری تھام کر جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھیلا کے دونوں ہاتھ بکاے وہ نوحہ گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قربان کر دیےء ہے پسر دونوں بھائی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب یہ کہہ رہی تھی بیاباں میں ننگے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا صدقہ حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسینا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبکھرا پڑا تھا عظمت توحید کا قرآن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار کربلا پہ عجب تھا یہ امتحاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلو میں ساتھ جس کے سکینہ تھی نیم جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ سر حسین کا دیکھا تو دی اذاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا صدقہ حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسینا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبنت علی نے صبر کا ہر امتحاں دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں میں اشک آے تو اشکوں کو پی لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفہ کی شاہزادی نے پیدل سفر کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راہ خدا میں جو دیا یہ سوچ کر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا صدقہ حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسینا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاور ہر ایک غم کا مداوا ہے یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مومن کی زندگی کا اثاثہ ہے یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن کربلا کا خلاصہ ہے یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خالق جو پڑھ رہا ہے وظیفہ ہے یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا صدقہ حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا حسینا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Yawar",
   "anjumans": [],
   "verified": false

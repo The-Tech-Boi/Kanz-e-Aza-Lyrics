@@ -1,12 +1,441 @@
 {
   "remoteId": "g2611_u0972",
-  "title": "Beta hoon mai",
+  "title": "بیٹا ہوں میں",
   "body": "بیٹا ہوں میں علی کا نواسہ رسول کا\nزینب بہن ہے میری چہیتا بتول کا\n<<DIVIDER>>\nقربانیاں یہ میری بھلای نہ جاییں گی\nجب کربلا بسیں گی صدائیں یہ آییں گی\nحسین یا حسین\nحسین بیکفن\nحسین بے خطا\nحسین شاہ\n<<DIVIDER>>\nبابا علی کے ہاتھوں میں جو ذوالفقار ہے\nمخصوص اس کا کفر کی نسلوں پہ وار ہے\nمیں جنگ کیوں کروں کہ حسن کا میں بھای ہوں\nتم منکر خدا میں خدا کا فدای ہوں\nحسین یا حسین۔۔۔\n<<DIVIDER>>\nمیرے لئے رسول کے سجدوں میں طول ہے\nمرضی میری خدا کو نبی کو قبول ہے\nسوکھے گلے پہ میرے جو خنجر چلاے‌ گا\nمرقد میں فاطمہ کو علی کو ستاے گا\nحسین یا حسین۔۔۔\n<<DIVIDER>>\nاترا تھا آسماں سے ستارہ ہمارے گھر\nکعبے کی سمت دیکھوں تو دیوار میں ہو در\nپیاسا ہوں بے وطن ہوں غریب الدیار ہوں\nزہرا کی بیٹیوں کے لئے دل فگار ہوں\nحسین یا حسین۔۔۔\n<<DIVIDER>>\nلڑنے کا قصد کر کے جو آتا وطن سے دور\nبچوں کو ساتھ اپنے نہ لاتا وطن سے دور\nبہنیں بھی بیٹیاں بھی میرے ساتھ ساتھ ہیں\nمہمان کربلا میں تیرے ہم فرات ہیں\nحسین یا حسین۔۔۔\n<<DIVIDER>>\nچاہوں تو سنگریزوں سے پانی نچوڑ دوں\nدشتِ بلا کے صحرا سے کوثر کو جوڑ دوں\nخود سے خدا کے حکم سے مجبور کر لیا\nپانی سے اپنے آپ کو لو دور کر لیا\nحسین یا حسین۔۔۔\n<<DIVIDER>>\nپانی ہے میری ماں کے مہر میں لکھا ہوا\nبچوں کو میرے پھر بھی یہ پانی نہ مل سکا\nسیراب ہو رہے ہیں شتر اور اسپ بھی\nآل نبی کے ہونٹوں پہ لکھی ہے تشنگی\nحسین یا حسین۔۔۔\n<<DIVIDER>>\nاب میرے بعد اہل حرم دکھ اٹھاییں گے\nبے پردہ اشقیاں انہیں بلوے میں لاییں گے\nسینے پہ سونے والی طمانچے جو کھاے گی\nمجھکو صداییں دے گی چچا کو بلاے گی\nحسین یا حسین۔۔۔",
+  "styling": [
+    {
+      "insert": "بیٹا ہوں میں علی کا نواسہ رسول کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب بہن ہے میری چہیتا بتول کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقربانیاں یہ میری بھلای نہ جاییں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کربلا بسیں گی صدائیں یہ آییں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین بیکفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین بے خطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین شاہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا علی کے ہاتھوں میں جو ذوالفقار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مخصوص اس کا کفر کی نسلوں پہ وار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جنگ کیوں کروں کہ حسن کا میں بھای ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم منکر خدا میں خدا کا فدای ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین یا حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے لئے رسول کے سجدوں میں طول ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرضی میری خدا کو نبی کو قبول ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوکھے گلے پہ میرے جو خنجر چلاے‌ گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرقد میں فاطمہ کو علی کو ستاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین یا حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاترا تھا آسماں سے ستارہ ہمارے گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کعبے کی سمت دیکھوں تو دیوار میں ہو در"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسا ہوں بے وطن ہوں غریب الدیار ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی بیٹیوں کے لئے دل فگار ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین یا حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلڑنے کا قصد کر کے جو آتا وطن سے دور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچوں کو ساتھ اپنے نہ لاتا وطن سے دور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہنیں بھی بیٹیاں بھی میرے ساتھ ساتھ ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مہمان کربلا میں تیرے ہم فرات ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین یا حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاہوں تو سنگریزوں سے پانی نچوڑ دوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشتِ بلا کے صحرا سے کوثر کو جوڑ دوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود سے خدا کے حکم سے مجبور کر لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی سے اپنے آپ کو لو دور کر لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین یا حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپانی ہے میری ماں کے مہر میں لکھا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچوں کو میرے پھر بھی یہ پانی نہ مل سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیراب ہو رہے ہیں شتر اور اسپ بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل نبی کے ہونٹوں پہ لکھی ہے تشنگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین یا حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب میرے بعد اہل حرم دکھ اٹھاییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے پردہ اشقیاں انہیں بلوے میں لاییں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے پہ سونے والی طمانچے جو کھاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو صداییں دے گی چچا کو بلاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین یا حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "anjumans": [],
   "verified": false
 }

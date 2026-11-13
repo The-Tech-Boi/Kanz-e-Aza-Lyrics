@@ -1,7 +1,372 @@
 {
   "remoteId": "g2611_u3168",
-  "title": "Taqdeer badal jayegi",
+  "title": "تقدیر بدل جائے گی",
   "body": "تقدیر بدل جائے گی زہرا کی دعا لے\n<<DIVIDER>>\nشبیر کے ماتم میں لہو اپنا بہا لے\nاس درد سے احساس کی دنیا کو سجا لے\nیہ زخم نہیں پھول ہے سینے سے لگا لے\nاس راہ پہ چل دولتِ ایماں کو بچالے\nجینے کا سہارا غم سرور کو بنا لے\nتقدیر بدل جائے گی۔۔۔\n<<DIVIDER>>\nگرتے ہوئے قاسم نے چچا کو جو پکارا\nشبیر نے دولہا کو عجب حال میں دیکھا\nتھا جسم جو پامال عبا میں اسے رکھا\nمسند پہ رکھا شاہ نے نوشاہ کا لاشہ\nاب کون ہے جو فاطمہ کبرا کو سنبھالے\nتقدیر بدل جائے گی۔۔۔\n<<DIVIDER>>\nجب اکبر زیشان نے پھل برچھی کا کھایا\nکیا صبر کا انداز جہاں کو نظر آیا\nیہ حوصلہ دنیا میں کسی نے نہیں پایا\nسرور کے سوا کون سا بندہ ہے خدایا\nبیٹے کے کلیجے سے جو برچھی کو نکالے\nتقدیر بدل جائے گی۔۔۔\n<<DIVIDER>>\nدو بھائی جو مارے گےء ایک حشر بپا ہے\nغم عون و محمد کا ہر ایک ماں کو ہوا ہے\nہر سمت فقط گریہ و ماتم کی صدا ہے\nلیکن لب زینب پہ فقط ایک دعا ہے\nسب قتل ہو پر تو میرے بھائی کو بچا لے\nتقدیر بدل جائے گی۔۔۔\n<<DIVIDER>>\nمیدان میں بے دست علمدار پڑا ہے\nاب شاہ کو تنہائی کا احساس ہوا ہے\nخیمے میں علم آیا ہے ایک حشر بپا ہے\nعمو جو نہیں آے بھتیجے کو گلہ ہے\nاے پیاس سکینہ کو کلیجے سے لگا لے\nتقدیر بدل جائے گی۔۔۔\n<<DIVIDER>>\nشبیر کے ہاتھوں پہ ہے معصوم کا لاشہ\nپھیلاے ہوے ہاتھ کھڑی ہے کوی دکھیا\nبے چین ہے ماں بچے کو دے دیجیےء مولا\nرہ جائے نہ گھٹ کر دل مادر میں تمنا\nاک بار وہ بے شیر کو جھولے میں جھلا لے\nتقدیر بدل جائے گی۔۔۔",
+  "styling": [
+    {
+      "insert": "تقدیر بدل جائے گی زہرا کی دعا لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر کے ماتم میں لہو اپنا بہا لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس درد سے احساس کی دنیا کو سجا لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زخم نہیں پھول ہے سینے سے لگا لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس راہ پہ چل دولتِ ایماں کو بچالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جینے کا سہارا غم سرور کو بنا لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تقدیر بدل جائے گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگرتے ہوئے قاسم نے چچا کو جو پکارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر نے دولہا کو عجب حال میں دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا جسم جو پامال عبا میں اسے رکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسند پہ رکھا شاہ نے نوشاہ کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کون ہے جو فاطمہ کبرا کو سنبھالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تقدیر بدل جائے گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب اکبر زیشان نے پھل برچھی کا کھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا صبر کا انداز جہاں کو نظر آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ حوصلہ دنیا میں کسی نے نہیں پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور کے سوا کون سا بندہ ہے خدایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹے کے کلیجے سے جو برچھی کو نکالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تقدیر بدل جائے گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدو بھائی جو مارے گےء ایک حشر بپا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم عون و محمد کا ہر ایک ماں کو ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سمت فقط گریہ و ماتم کی صدا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن لب زینب پہ فقط ایک دعا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب قتل ہو پر تو میرے بھائی کو بچا لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تقدیر بدل جائے گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیدان میں بے دست علمدار پڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب شاہ کو تنہائی کا احساس ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے میں علم آیا ہے ایک حشر بپا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمو جو نہیں آے بھتیجے کو گلہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے پیاس سکینہ کو کلیجے سے لگا لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تقدیر بدل جائے گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر کے ہاتھوں پہ ہے معصوم کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھیلاے ہوے ہاتھ کھڑی ہے کوی دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے چین ہے ماں بچے کو دے دیجیےء مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ جائے نہ گھٹ کر دل مادر میں تمنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بار وہ بے شیر کو جھولے میں جھلا لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تقدیر بدل جائے گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

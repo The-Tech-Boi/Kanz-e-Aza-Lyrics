@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u0996",
-  "title": "Bhai mar gaya zainab",
+  "title": "بھائی مر گیا زینب",
   "body": "رو کے شاہ کہتے تھے بھائی مر گیا زینب\nجھک گئی کمر میری چھن گیا عصا زینب\n<<DIVIDER>>\nہم کو بھی اجازت دو ہم بھی جائیں دنیا سے\nہم کو اب نہیں جینا بھائی کون ہے مرا زینب\nرو کے شاہ کہتے تھے۔۔۔\n<<DIVIDER>>\nچاند جیسے چہرے پر زخم لگ گیا اسکے\nجب وہ زیں سے گھوڑے کی منہ کے بل گرا زینب\nرو کے شاہ کہتے تھے۔۔۔\n<<DIVIDER>>\nلاشے کی طرح رکھ کر خیمے میں علم بولے\nاب یہ ہی جنازہ ہے میرے شیر کا زینب\nرو کے شاہ کہتے تھے۔۔۔\n<<DIVIDER>>\nجس نے میرے ہاتھوں پر اپنی آنکھیں کھولی تھی\nآج اسی کا گودی میں دم نکل گیا زینب\nرو کے شاہ کہتے تھے۔۔۔\n<<DIVIDER>>\nمیں نے اپنے ہاتھوں سے اسکے ہاتھ اٹھائے ہیں\nٹکڑے ٹکڑے اعدا نے اسکو کر دیا زینب\nرو کے شاہ کہتے تھے۔۔۔\n<<DIVIDER>>\n‎رات بھر جو پہرے پر میرے ہوتا تھا بی بی\n‎آج مجھ سے پہلے وہ رن میں سو گیا زینب\nرو کے شاہ کہتے تھے۔۔۔\n<<DIVIDER>>\nوہ جو سارے لاشوں کو رن سے لے کے آیا تھا\nاس کا لاشہ مقتل سے میں نہ لا سکا زینب\nرو کے شاہ کہتے تھے۔۔۔\n<<DIVIDER>>\nیاد ہے تمہیں بی بی اک صدا پہ آتا تھا\nآج ہم اٹھاتے تھے وہ نہیں اٹھا زینب\nرو کے شاہ کہتے تھے۔۔۔\n<<DIVIDER>>\nکیسے ہو بیاں سجاد شہ نے جب کہا روکر\nزخم ہو گیا تازہ آج بابا کا زینب\nرو کے شاہ کہتے تھے۔۔۔",
+  "styling": [
+    {
+      "insert": "رو کے شاہ کہتے تھے بھائی مر گیا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھک گئی کمر میری چھن گیا عصا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم کو بھی اجازت دو ہم بھی جائیں دنیا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کو اب نہیں جینا بھائی کون ہے مرا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے شاہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاند جیسے چہرے پر زخم لگ گیا اسکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب وہ زیں سے گھوڑے کی منہ کے بل گرا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے شاہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشے کی طرح رکھ کر خیمے میں علم بولے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب یہ ہی جنازہ ہے میرے شیر کا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے شاہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس نے میرے ہاتھوں پر اپنی آنکھیں کھولی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج اسی کا گودی میں دم نکل گیا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے شاہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں نے اپنے ہاتھوں سے اسکے ہاتھ اٹھائے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑے ٹکڑے اعدا نے اسکو کر دیا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے شاہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n‎رات بھر جو پہرے پر میرے ہوتا تھا بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎آج مجھ سے پہلے وہ رن میں سو گیا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے شاہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ جو سارے لاشوں کو رن سے لے کے آیا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کا لاشہ مقتل سے میں نہ لا سکا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے شاہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد ہے تمہیں بی بی اک صدا پہ آتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج ہم اٹھاتے تھے وہ نہیں اٹھا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے شاہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے ہو بیاں سجاد شہ نے جب کہا روکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم ہو گیا تازہ آج بابا کا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے شاہ کہتے تھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mir Sajjad Mir",
   "anjumans": [],
   "verified": false

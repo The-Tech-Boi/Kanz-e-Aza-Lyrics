@@ -1,12 +1,567 @@
 {
   "remoteId": "g2611_u3413",
-  "title": "Ya zahra",
+  "title": "یا زہرا",
   "body": "یا زہرا مظلومہ مظلومہ مظلومہ\nیا زہرا معصومہ معصومہ معصومہ\n<<DIVIDER>>\nاے بی بی تم جیسی دیکھی نہیں مظلومہ\nغم کوی ایسا ہو جو تم نے نہیں دیکھا\nامت کے طعنے بھی فاقے بھی سہے تم‌ نے\nبابا کی فرقت م دن رات کیا نوحہ\nصدموں سے بھرا ہر دن ہے تیرا\nدل کہنے لگا یا زہرا\nیا زہرا مظلومہ۔۔۔\n<<DIVIDER>>\nپہلے تو ظالم نے جاگیر تیری چھینی\nمانی نہ لوگوں نے تحریر محمد کی\nتجھکو بھی جھٹلایا بیٹوں کو بھی جھٹلایا\nمنہ ڈھانپے چادر سے تو روتی رہی بی بی\nپر کس نے سنا وہ نوحہ تیرا\nیہ بھی ہے جفا یا زہرا\nیا زہرا مظلومہ۔۔۔\n<<DIVIDER>>\nبعد اس کے لوگوں نے جب گھر کو تیرے گھیرا\nبچوں کو دھمکایا ایک شور ہوا برپا\nتلواریں نیزے تھے اور مشالیں ہاتھوں میں\nیوں ٹوٹے وہ ظالم گھر پھونک دیا سارا\nگھر تیرا لٹا دروازہ جلا\nیہ غم ہے بڑا یا زہرا\nیا زہرا مظلومہ۔۔۔\n<<DIVIDER>>\nجب جلتا دروازہ پہلو پہ گرا بی بی\nبازو بھی سر زخمی تھے پہلو بھی ہوا زخمی\nدروازے کے اوپر سے اہل ستم گزرے\nاس طرح اے بی بی ایک اور جفا دیکھی\nمحسن بھی تیرا دنیا سے گیا\nیہ غم بھی سوا یا زہرا\nیا زہرا مظلومہ۔۔۔\n<<DIVIDER>>\nتیری غربت کی قسم ہاے میری شہزادی\nتو بھی مظلوم ہے مظلوم علی مولا بھی\nایک طرف تیغ علی ایک طرف حکم نبی\nزخمی پہلو ہے تیرا ان کے گلے میں رسی\nجب رسن باندھی گئی تیری فریاد سنی\nالمدد شیر جلی ہاے کیا کرتے علی\n<<DIVIDER>>\nایسی تو دنیا میں غربت نہ کبھی دیکھی\nآیا نہ میت میں یثرب کا مکیں کوی\nبس دونوں شہزادے تھے نوحہ کناں پر\nدفنایا مولا نے جب تجھکو میری بی بی\nچالیس جگہ مرقد تھا تیرا\nکیوں ایسا کیا یا زہرا\nیا زہرا مظلومہ۔۔۔\n<<DIVIDER>>\nویسے تو پوشیدہ بی بی تیری تربت ہے\nلیکن‌ جو ظاہر میں مرقد کی علامت ہے\nتاریکی روتی ہے مرقد پہ تیرے اب تک\nرونے پر پابندی یہ کیسی محبت ہے\nیوں کر کے بکا یہ اہل عزا\nروینگے‌ صدا یا زہرا\nیا زہرا مظلومہ۔۔۔\n<<DIVIDER>>\nلفظوں میں لکھ پاے وہ زخم کوی کیسے\nامت سے جو تم نے ہیں بعد نبی کھاے\nرویینگے تا محشر یہ أہل عزا بی بی\nمیثم بھی مظہر بھی رویینگے یہی کہہ کے\nآنکھوں کی عزا ماتم کی فضا\nیہ حق ہے تیرا یا زہرا\nیا زہرا مظلومہ۔۔۔",
+  "styling": [
+    {
+      "insert": "یا زہرا مظلومہ مظلومہ مظلومہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا زہرا معصومہ معصومہ معصومہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے بی بی تم جیسی دیکھی نہیں مظلومہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم کوی ایسا ہو جو تم نے نہیں دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت کے طعنے بھی فاقے بھی سہے تم‌ نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کی فرقت م دن رات کیا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدموں سے بھرا ہر دن ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کہنے لگا یا زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا زہرا مظلومہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہلے تو ظالم نے جاگیر تیری چھینی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانی نہ لوگوں نے تحریر محمد کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھکو بھی جھٹلایا بیٹوں کو بھی جھٹلایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منہ ڈھانپے چادر سے تو روتی رہی بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پر کس نے سنا وہ نوحہ تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بھی ہے جفا یا زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا زہرا مظلومہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد اس کے لوگوں نے جب گھر کو تیرے گھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچوں کو دھمکایا ایک شور ہوا برپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تلواریں نیزے تھے اور مشالیں ہاتھوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں ٹوٹے وہ ظالم گھر پھونک دیا سارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر تیرا لٹا دروازہ جلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم ہے بڑا یا زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا زہرا مظلومہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب جلتا دروازہ پہلو پہ گرا بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازو بھی سر زخمی تھے پہلو بھی ہوا زخمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دروازے کے اوپر سے اہل ستم گزرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح اے بی بی ایک اور جفا دیکھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محسن بھی تیرا دنیا سے گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم بھی سوا یا زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا زہرا مظلومہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیری غربت کی قسم ہاے میری شہزادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بھی مظلوم ہے مظلوم علی مولا بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک طرف تیغ علی ایک طرف حکم نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی پہلو ہے تیرا ان کے گلے میں رسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب رسن باندھی گئی تیری فریاد سنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "المدد شیر جلی ہاے کیا کرتے علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایسی تو دنیا میں غربت نہ کبھی دیکھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آیا نہ میت میں یثرب کا مکیں کوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس دونوں شہزادے تھے نوحہ کناں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دفنایا مولا نے جب تجھکو میری بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چالیس جگہ مرقد تھا تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں ایسا کیا یا زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا زہرا مظلومہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nویسے تو پوشیدہ بی بی تیری تربت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن‌ جو ظاہر میں مرقد کی علامت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تاریکی روتی ہے مرقد پہ تیرے اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے پر پابندی یہ کیسی محبت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں کر کے بکا یہ اہل عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روینگے‌ صدا یا زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا زہرا مظلومہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلفظوں میں لکھ پاے وہ زخم کوی کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت سے جو تم نے ہیں بعد نبی کھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رویینگے تا محشر یہ أہل عزا بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میثم بھی مظہر بھی رویینگے یہی کہہ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں کی عزا ماتم کی فضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ حق ہے تیرا یا زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا زہرا مظلومہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

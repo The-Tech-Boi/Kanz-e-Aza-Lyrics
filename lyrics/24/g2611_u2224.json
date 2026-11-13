@@ -1,12 +1,473 @@
 {
   "remoteId": "g2611_u2224",
-  "title": "Mai pyasa tahe",
+  "title": "میں پیاسا تہہ",
   "body": "سرور کا گلا خشک تھا اور کند تھا خنجر\nرہ رہ کے پھراتا تھا لعیں سوکھے گلے پر\nتیروں پہ معلق رہا شبیر کا لاشہ\nماں کہتی رہی گود میں آجا میرے بیٹا\n<<DIVIDER>>\nمیں پیاسا تہہ تیغ تڑپتا رہا اماں\nاور سامنے بہتا ہوا دریا رہا اماں\n<<DIVIDER>>\nکٹتا تھا گلا میرا قیامت کی گھڑی تھی\nزینب در خیمہ سے کھڑی دیکھ رہی تھی\nخنجر میرے حلقوم پہ چلتا رہا اماں\nاور سامنے بہتا ہوا دریا رہا اماں\n---میں پیاسا تہہ تیغ\n<<DIVIDER>>\nگہوارہ جھلاتے تھے کبھی جسکا فرشتے\nاس طرح اسے قتل کیا شمر لعیں نے\nپیاسا دم آخر میں تڑپتا رہا اماں\nاور سامنے بہتا ہوا دریا رہا اماں\n---میں پیاسا تہہ تیغ\n<<DIVIDER>>\nوہ ہوتا جو زندہ تو مجھے کچھ نہیں ہوتا\nآجاتا مدد کو میرا عباس کہاں تھا\nلاشہ میرے بھیا کا لرزتا رہا اماں\nاور سامنے بہتا ہوا دریا رہا اماں\n---میں پیاسا تہہ تیغ\n<<DIVIDER>>\nتپتے ہوئے صحرا پہ عجب ظلم تھا مجھ پر\nاماں وہ ستمگر کا بہت کند تھا خنجر\nکٹتی تھی رگیں جسم اچھلتا رہا اماں\nاور سامنے بہتا ہوا دریا رہا اماں\n---میں پیاسا تہہ تیغ\n<<DIVIDER>>\nتھے زخم بہت ہی تن مظلوم پہ اماں\nخنجر تھا رواں شمر کا حلقوم پہ اماں\nپہلو میں جو نیزہ تھا وہ چبھتا رہا اماں\nاور سامنے بہتا ہوا دریا رہا اماں\n---میں پیاسا تہہ تیغ\n<<DIVIDER>>\nتنہا تھا میں ہر سمت سے گھیرے تھے ستمگر\nعباس نہ زندہ تھے نہ زندہ علی اکبر\nصدمہ مجھے ان سب کا رلاتا رہا اماں\nاور سامنے بہتا ہوا دریا رہا اماں\n---میں پیاسا تہہ تیغ\n<<DIVIDER>>\nایسا تہہ خنجر تھا گلوے شہ والا\nہاں زیر تن شاہ وہ تپتا ہوا صحرا\nہر سانس پہ تکلیف اٹھاتا رہا اماں\nاور سامنے بہتا ہوا دریا رہا اماں\n---میں پیاسا تہہ تیغ\n<<DIVIDER>>\nسرور کے مصایب پہ زمانہ ہے تڑپتا\nپر درد یہ نوحہ جو مبارک نے ہے لکھا\nاس بین پہ ریحان تڑپتا رہا اماں\nاور سامنے بہتا ہوا دریا رہا اماں\n---میں پیاسا تہہ تیغ",
+  "styling": [
+    {
+      "insert": "سرور کا گلا خشک تھا اور کند تھا خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ رہ کے پھراتا تھا لعیں سوکھے گلے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیروں پہ معلق رہا شبیر کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں کہتی رہی گود میں آجا میرے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں پیاسا تہہ تیغ تڑپتا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سامنے بہتا ہوا دریا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکٹتا تھا گلا میرا قیامت کی گھڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب در خیمہ سے کھڑی دیکھ رہی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خنجر میرے حلقوم پہ چلتا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سامنے بہتا ہوا دریا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میں پیاسا تہہ تیغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگہوارہ جھلاتے تھے کبھی جسکا فرشتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح اسے قتل کیا شمر لعیں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسا دم آخر میں تڑپتا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سامنے بہتا ہوا دریا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میں پیاسا تہہ تیغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ ہوتا جو زندہ تو مجھے کچھ نہیں ہوتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاتا مدد کو میرا عباس کہاں تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ میرے بھیا کا لرزتا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سامنے بہتا ہوا دریا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میں پیاسا تہہ تیغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتپتے ہوئے صحرا پہ عجب ظلم تھا مجھ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں وہ ستمگر کا بہت کند تھا خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کٹتی تھی رگیں جسم اچھلتا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سامنے بہتا ہوا دریا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میں پیاسا تہہ تیغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھے زخم بہت ہی تن مظلوم پہ اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خنجر تھا رواں شمر کا حلقوم پہ اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلو میں جو نیزہ تھا وہ چبھتا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سامنے بہتا ہوا دریا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میں پیاسا تہہ تیغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتنہا تھا میں ہر سمت سے گھیرے تھے ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نہ زندہ تھے نہ زندہ علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدمہ مجھے ان سب کا رلاتا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سامنے بہتا ہوا دریا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میں پیاسا تہہ تیغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایسا تہہ خنجر تھا گلوے شہ والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں زیر تن شاہ وہ تپتا ہوا صحرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سانس پہ تکلیف اٹھاتا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سامنے بہتا ہوا دریا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میں پیاسا تہہ تیغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسرور کے مصایب پہ زمانہ ہے تڑپتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پر درد یہ نوحہ جو مبارک نے ہے لکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس بین پہ ریحان تڑپتا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سامنے بہتا ہوا دریا رہا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---میں پیاسا تہہ تیغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mubarak Jalalpuri",
   "anjumans": [],
   "verified": false

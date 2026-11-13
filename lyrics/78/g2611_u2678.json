@@ -1,12 +1,355 @@
 {
   "remoteId": "g2611_u2678",
-  "title": "Qaide tanhaai may",
+  "title": "قیدِ تنہائ میں",
   "body": "قیدِ تنہائ میں دم گھٹنے لگا ہے میرا\nآکے سینے سے لگاو بابا\n<<DIVIDER>>\nمیں اندھیرے میں اکیلی ہی نہ مر جاوں کہیں\nمجھ کو مرنے سے بچاو بابا\n<<DIVIDER>>\nمیں تیری یاد میں دن رات یوں تڑثتی ہوں\nجیسے پنجرے میں کوئ گھایل پڑا ہو پنچھی\nموت کا خوف ہے سناٹا ہے ویرانی ہے\nمیری امداد کو آو بابا\nقیدِ تنہائ میں۔۔۔\n<<DIVIDER>>\nمجھ کو عادت ہے تیرے سینے ثے سر رکھنے کی\nچین کی نیند بھلا کیسے زمیں پر آۓ\nقید خانے میں تو پڑتی ہے بلا کی گرمی\nاپنی گودی میں سُلالو بابا\nقیدِ تنہائ میں۔۔۔\n<<DIVIDER>>\nمیرے دادا نے رہا کتنے کیۓ تھے قیدی\nاُس کی ثوتی ہوں مگر قید میں مجبور ہوں میں\nنام لےکر تیرا رونے نہیں دیتا ظالم\nاب میری قید چھڑاو بابا\nقیدِ تنہائ میں۔۔۔\n<<DIVIDER>>\nپھوپھیوں کے بھی بندھے ہاتھ پسِ گردن ہیں\nوہ بھلا کیسے میری آنکھوں سے آنسو پونچھیں\nبے سہارا ہوں یتیمی کا کڑا موسم ہے\nاپنی صورت تو دکھاو بابا\nقیدِ تنہائ میں۔۔۔\n<<DIVIDER>>\nیاد بےشیر کی آتی ہے مجھے شام و سحر\nاُس کا جلتا ہوا جھولا بھی نزر آتا ہے\nمجھے مل جاو میرے مرنے سے پھلے آ کر\nساتھ اکبر کو بھی لاو بابا\nقیدِ تنہائ میں۔۔۔\n<<DIVIDER>>\nنوکے نیزہ پہ جو کرتے تھے تلاوت مولا\nجانے کیا سوچ کے اختر یہ سکینہ نے کہا\nشام کے لوگ ہیں بہرے یہ سمجھ سکتے نہیں\nاِن کو قرآں نہ سناو بابا\nقیدِ تنہائ میں۔۔۔",
+  "styling": [
+    {
+      "insert": "قیدِ تنہائ میں دم گھٹنے لگا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آکے سینے سے لگاو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں اندھیرے میں اکیلی ہی نہ مر جاوں کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ کو مرنے سے بچاو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں تیری یاد میں دن رات یوں تڑثتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے پنجرے میں کوئ گھایل پڑا ہو پنچھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کا خوف ہے سناٹا ہے ویرانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری امداد کو آو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیدِ تنہائ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ کو عادت ہے تیرے سینے ثے سر رکھنے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چین کی نیند بھلا کیسے زمیں پر آۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں تو پڑتی ہے بلا کی گرمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی گودی میں سُلالو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیدِ تنہائ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے دادا نے رہا کتنے کیۓ تھے قیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس کی ثوتی ہوں مگر قید میں مجبور ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام لےکر تیرا رونے نہیں دیتا ظالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میری قید چھڑاو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیدِ تنہائ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھوپھیوں کے بھی بندھے ہاتھ پسِ گردن ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بھلا کیسے میری آنکھوں سے آنسو پونچھیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے سہارا ہوں یتیمی کا کڑا موسم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی صورت تو دکھاو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیدِ تنہائ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد بےشیر کی آتی ہے مجھے شام و سحر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس کا جلتا ہوا جھولا بھی نزر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے مل جاو میرے مرنے سے پھلے آ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ اکبر کو بھی لاو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیدِ تنہائ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوکے نیزہ پہ جو کرتے تھے تلاوت مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے کیا سوچ کے اختر یہ سکینہ نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کے لوگ ہیں بہرے یہ سمجھ سکتے نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اِن کو قرآں نہ سناو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیدِ تنہائ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Akhtar Hussain",
   "anjumans": [],
   "verified": false

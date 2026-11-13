@@ -1,12 +1,423 @@
 {
   "remoteId": "g2611_u0420",
-  "title": "Ali ali sultan ali",
+  "title": "علی علی سلطان علی",
   "body": "حیدر کے فضایل پڑھتی ہے یہ دنیا\nحیدر کے فضائل پڑھتا ہے خدا بھی\nعلی مولا علی علی سلطان علی\n<<DIVIDER>>\nہم مولا علی کے ہیں ماننے والے\nہاں شیر خدا کا ہے ماننے والے\nعلی علی سلطان علی شیر خدا رب کا ولی\n<<DIVIDER>>\nاللّٰہ کی حجت ہے حیدر ہے ولی اللّٰہ\nحیدر ہے صفی اللّٰہ حیدر ہے کلیم اللّٰہ\nحیدر ہے لسان‌ اللّٰہ حیدر ہے امین اللّٰہ\nحیدر کی اطاعت ہی خالق کی اطاعت ہے\nعلی علی سلطان علی۔۔۔\n<<DIVIDER>>\nلکھا ہے علی مولا جنت کے مکانوں پر\nلکھا ہے علی مولا رحمت کی گھٹاؤں پر\nلکھا ہے علی مولا سوروں کی زبانو پر\nلکھا ہے علی مولا ہر شےء کی ضرورت ہے\nعلی علی سلطان علی۔۔۔\n<<DIVIDER>>\nمسجد کی مناروں سے کیوں کر نہ صدا آے\nبس ایک وہی آے دل میں جو علی لاے\nجو دشمن حیدر ہے دوزخ میں چلا جاے\nیہ رب کا ارادہ ہے اور اس کی ہی چاہت ہے\nعلی علی سلطان علی۔۔۔\n<<DIVIDER>>\nتو قاتل مرحب ہے تو فاتح خیبر ہے\nتو خلق میں اے مولا اللہ کا لشکر ہے\nکونین میں کون ایسے لشکر کے برابر ہے\nاللہ کی نصرت بھی تیری ہی تو نصرت ہے\nعلی علی سلطان علی۔۔۔\n<<DIVIDER>>\nتوحید کی خاطر ہی سر تو نے کٹاے ہیں\nکعبے کو بچایا ہے اسلام بچایا ہے\nجو وعدہ خدا سے تھا تو نے وہ نبھایا ہے\nیوں شکر تیرا کرتی اللہ کی قدرت ہے\nعلی علی سلطان علی۔۔۔\n<<DIVIDER>>\nاکیسویں رمضاں کو آنکھیں ہیں سبھی پرنم\nحسنین تڑپتے ہیں زینب بھی ہوی بے دم\nدیکھا نہیں جاتا ہے یہ درد بھرا عالم\nبرپا یہ ہوی کیسی کوفے میں قیامت ہے\nعلی علی سلطان علی۔۔۔\n<<DIVIDER>>\nخوں کونی سے تیرے جو بہتا تھا میرے مولا\nکیا ضرب لگای تھی ظالم نے تجھے مولا\nجو درد ہے سینے میں دکھلاے کسے مولا\nسر پیٹو کہ اے ناصر مولا کی شہادت ہے\nعلی علی سلطان علی۔۔۔",
+  "styling": [
+    {
+      "insert": "حیدر کے فضایل پڑھتی ہے یہ دنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کے فضائل پڑھتا ہے خدا بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی مولا علی علی سلطان علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم مولا علی کے ہیں ماننے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں شیر خدا کا ہے ماننے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی علی سلطان علی شیر خدا رب کا ولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللّٰہ کی حجت ہے حیدر ہے ولی اللّٰہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر ہے صفی اللّٰہ حیدر ہے کلیم اللّٰہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر ہے لسان‌ اللّٰہ حیدر ہے امین اللّٰہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کی اطاعت ہی خالق کی اطاعت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی علی سلطان علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلکھا ہے علی مولا جنت کے مکانوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھا ہے علی مولا رحمت کی گھٹاؤں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھا ہے علی مولا سوروں کی زبانو پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھا ہے علی مولا ہر شےء کی ضرورت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی علی سلطان علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسجد کی مناروں سے کیوں کر نہ صدا آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس ایک وہی آے دل میں جو علی لاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو دشمن حیدر ہے دوزخ میں چلا جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ رب کا ارادہ ہے اور اس کی ہی چاہت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی علی سلطان علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو قاتل مرحب ہے تو فاتح خیبر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو خلق میں اے مولا اللہ کا لشکر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کونین میں کون ایسے لشکر کے برابر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ کی نصرت بھی تیری ہی تو نصرت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی علی سلطان علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتوحید کی خاطر ہی سر تو نے کٹاے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کعبے کو بچایا ہے اسلام بچایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو وعدہ خدا سے تھا تو نے وہ نبھایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں شکر تیرا کرتی اللہ کی قدرت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی علی سلطان علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکیسویں رمضاں کو آنکھیں ہیں سبھی پرنم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسنین تڑپتے ہیں زینب بھی ہوی بے دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا نہیں جاتا ہے یہ درد بھرا عالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برپا یہ ہوی کیسی کوفے میں قیامت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی علی سلطان علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوں کونی سے تیرے جو بہتا تھا میرے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ضرب لگای تھی ظالم نے تجھے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو درد ہے سینے میں دکھلاے کسے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹو کہ اے ناصر مولا کی شہادت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی علی سلطان علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Nasir Hussain",
   "anjumans": [],
   "verified": false

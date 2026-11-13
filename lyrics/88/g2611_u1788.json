@@ -1,12 +1,432 @@
 {
   "remoteId": "g2611_u1788",
-  "title": "Jhoola veeran hua",
+  "title": "جھولا ویران ہوا",
   "body": "جھولا ویران ہوا ہے میرا اصغر نہ رہا\nدل پہ صدمہ ہے بڑا میرا اصغر نہ رہا\n<<DIVIDER>>\nبعد تیرے مجھے اب نیند نہیں آتی ہے\nچین اب بالی سکینہ بھی نہیں پاتی ہے\nکیسی آئی یہ قضا ہائے ہائے\nمیرا اصغر نہ رہا\nجھولا ویران ہوا ۔۔۔\n<<DIVIDER>>\nبوند پانی کے ایوز تجھکو ملا تیرِ ستم\nظلم نے باندھے رسن کیسے کروں تیرا غم\nدوں میں اب کس کو صدا\nمیرا اصغر نہ رہا\nجھولا ویران ہوا ۔۔۔\n<<DIVIDER>>\nاب بھی خوابوں میں میرے ہنستا ہوا آتا ہے\nتب کہیں جا کے میرا دل بھی سکوں پاتا ہے\nمیری آنکھوں کی ضیائ\nمیرا اصغر نہ رہا\nجھولا ویران ہوا ۔۔۔\n<<DIVIDER>>\nآ جائو آغوش میں تجھ کو میں چھُپا لوں بیٹا\nاپنے بانہوں میں تجھے جھولا جھُلائوں بیٹا\nیہ ستم مجھ پہ ہوا\nمیرا اصغر نہ رہا\nجھولا ویران ہوا ۔۔۔\n<<DIVIDER>>\nجب میں جائوں گی مدینے تو کہوں کیا دلبر\nپوچھے گر صغریٰ کہاں ہے میرا بھیا اصغر\nکیا کہوں اُس سے بھلا\nمیرا اصغر نہ رہا\nجھولا ویران ہوا ۔۔۔\n<<DIVIDER>>\nکیسے منظر وہ بھُلا پائے گی مادر بیٹا\nتیرے سینے پہ جو مارا تھا لعیں نے نیزہ\nذبح تو لال ہوا\nمیرا اصغر نہ رہا\nجھولا ویران ہوا ۔۔۔\n<<DIVIDER>>\nوعدہ ہے تجھ سے میرا سائے میں نہ بیٹھوں گی\nغم میں اے لال تیرے ہر گھڑی میں روئوں گی\nمیری جان تجھ پہ فدا\nمیرا اصغر نہ رہا\nجھولا ویران ہوا ۔۔۔\n<<DIVIDER>>\nدردِ دل اُس کا بھلا کیسے ہو احمد سے رقم\nنہ بھُلا پائے گا محسن یہ جہاں اُس کا غم\nتھی یہ اک ماں کی صدا\nمیرا اصغر نہ رہا\nجھولا ویران ہوا ۔۔۔",
+  "styling": [
+    {
+      "insert": "جھولا ویران ہوا ہے میرا اصغر نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پہ صدمہ ہے بڑا میرا اصغر نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد تیرے مجھے اب نیند نہیں آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چین اب بالی سکینہ بھی نہیں پاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی آئی یہ قضا ہائے ہائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا اصغر نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ویران ہوا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبوند پانی کے ایوز تجھکو ملا تیرِ ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم نے باندھے رسن کیسے کروں تیرا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دوں میں اب کس کو صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا اصغر نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ویران ہوا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب بھی خوابوں میں میرے ہنستا ہوا آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تب کہیں جا کے میرا دل بھی سکوں پاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری آنکھوں کی ضیائ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا اصغر نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ویران ہوا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآ جائو آغوش میں تجھ کو میں چھُپا لوں بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بانہوں میں تجھے جھولا جھُلائوں بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ستم مجھ پہ ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا اصغر نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ویران ہوا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب میں جائوں گی مدینے تو کہوں کیا دلبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوچھے گر صغریٰ کہاں ہے میرا بھیا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کہوں اُس سے بھلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا اصغر نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ویران ہوا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے منظر وہ بھُلا پائے گی مادر بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے سینے پہ جو مارا تھا لعیں نے نیزہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذبح تو لال ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا اصغر نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ویران ہوا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوعدہ ہے تجھ سے میرا سائے میں نہ بیٹھوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم میں اے لال تیرے ہر گھڑی میں روئوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری جان تجھ پہ فدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا اصغر نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ویران ہوا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدردِ دل اُس کا بھلا کیسے ہو احمد سے رقم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ بھُلا پائے گا محسن یہ جہاں اُس کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی یہ اک ماں کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا اصغر نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا ویران ہوا ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Zulfiqar Ahmed",
   "anjumans": [],
   "verified": false

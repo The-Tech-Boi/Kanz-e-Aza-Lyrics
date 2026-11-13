@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u2078",
-  "title": "Kya likha fatema",
+  "title": "کیا لکھا فاطمہ",
   "body": "کیا لکھا فاطمہ صغریٰ نے بتایا نہ گیا\nشہ سے خط لاشہء اکبر پہ سنایا نہ گیا\n<<DIVIDER>>\nشہ نے چاہا تو بہت زخم مگر اتنے تھے\nلاشہ عباس کا دریا سے اٹھایا نہ گیا\nکیا لکھا فاطمہ صغریٰ...\n<<DIVIDER>>\nجب تلک آ نہ گےء سارے شرابی تب تک\nثانیء زہرا کو دربار میں لایا نہ گیا\nکیا لکھا فاطمہ صغریٰ...\n<<DIVIDER>>\nدیکھا سیراب ذبیحے کو تو بولے سجاد\nمیرے بابا کو تو پانی بھی پلایا نہ گیا\nکیا لکھا فاطمہ صغریٰ...\n<<DIVIDER>>\nایک شبیر کی بیٹی کے سوا دنیا میں\nکسی معصومہ کو ناقے سے گرایا نہ گیا\nکیا لکھا فاطمہ صغریٰ...\n<<DIVIDER>>\nبھیڑ اس درجہ تھی ہنستے ہوئے لوگوں کی وہاں\nسر بھی بازار میں عابد سے اٹھایا نہ گیا\nکیا لکھا فاطمہ صغریٰ...\n<<DIVIDER>>\nباپ کا سر جو ملا رویء لپٹ کر ایسے\nماں سے بھی بالی سکینہ کو جگایا نہ گیا\nکیا لکھا فاطمہ صغریٰ...\n<<DIVIDER>>\nمیر سجاد شہ دیں سے علی اصغر کا\nچہرہ جلتی ہوئی ریتی سے چھپایا نہ گیا\nکیا لکھا فاطمہ صغریٰ...",
+  "styling": [
+    {
+      "insert": "کیا لکھا فاطمہ صغریٰ نے بتایا نہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ سے خط لاشہء اکبر پہ سنایا نہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہ نے چاہا تو بہت زخم مگر اتنے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ عباس کا دریا سے اٹھایا نہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا لکھا فاطمہ صغریٰ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب تلک آ نہ گےء سارے شرابی تب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء زہرا کو دربار میں لایا نہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا لکھا فاطمہ صغریٰ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھا سیراب ذبیحے کو تو بولے سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کو تو پانی بھی پلایا نہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا لکھا فاطمہ صغریٰ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک شبیر کی بیٹی کے سوا دنیا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی معصومہ کو ناقے سے گرایا نہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا لکھا فاطمہ صغریٰ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھیڑ اس درجہ تھی ہنستے ہوئے لوگوں کی وہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر بھی بازار میں عابد سے اٹھایا نہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا لکھا فاطمہ صغریٰ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ کا سر جو ملا رویء لپٹ کر ایسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں سے بھی بالی سکینہ کو جگایا نہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا لکھا فاطمہ صغریٰ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیر سجاد شہ دیں سے علی اصغر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرہ جلتی ہوئی ریتی سے چھپایا نہ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا لکھا فاطمہ صغریٰ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Mir Sajjad Mir",
   "anjumans": [],
   "verified": false

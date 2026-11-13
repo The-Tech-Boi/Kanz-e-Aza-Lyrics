@@ -1,7 +1,552 @@
 {
   "remoteId": "g2611_u1816",
-  "title": "Kaabe pe alam",
+  "title": "کعبے پہ الم",
   "body": "اب وقت کے ظالم ہوش میں آ\nابھی آخری حیدر باقی ہے\nوہ ظلم و ستم باقی نہ رہے\nشبیر کا لشکر باقی ہے\nاٹھتا ہے الم بتلانے کو\nعباس دلاور باقی ہے\nپھر ثانیء حیدر ہی ٹوٹے\nنیزے سے قیامت لاے گا\nکعبے پہ الم لہراے گا\n<<DIVIDER>>\nاے آل پیمبر کے دشمن\nسن غور سے وہ دن دور نہیں\nپردے میں جو شہ کا وارث ہے\nمختار ہے وہ مجبور نہیں\nوہ حکم خدا کا تابع ہے\nلاچار نہیں بے نور نہیں\nجب شان وغا دکھلاے گا\nبن موت ہی تو مر جاۓ گا\n<<DIVIDER>>\nتم کرب و بلا کیسے لو گے\nوہ کربوبلا شبیر کی ہے\nداخل نہیں ہو سکتے ہر گز\nوہ جاے اماں بے شیر کی ہے\nاور جو بھی شہ مظلوم کی ہے\nوہ سرور کی ہمشیر کی ہے\nصحراے عطش تو کیا لے گا\nجب شام نہیں لے پاے گا\n<<DIVIDER>>\nہے شام میں زینب کا روضہ\nزنداں میں سکینہ کا روضہ\nروضوں پہ ابھی بھی رہتا ہے\nعباس اور اکبر کا پہرہ\nقبروں ہی حفاظت کو اک دن\nوہ ساکن غیبت آے گا\nپھر حشر تمہارا کیا ہو گا\nجب تیغ علی دکھلاے گا\n<<DIVIDER>>\nہر گھر میں بپا مجلس ہو گی\nہر گھر میں بچھیگی فرش عزا\nنوحوں کی صدایں گونجے گی\nہر سو شہ کا ماتم ہو گا\nتعمیر بقیہ میں ہوگا\nپھر آل پیمبر کا روضہ\nاجڑا ہے جو گلشن برسوں سے\nدوبارہ سجایا جاے گا\n<<DIVIDER>>\nگلشن گلشن صحرا صحرا\nکوچہ کوچہ پریا پریا\nہر زرہ پڑھے گا دنیا کا\nبس اس کی عدالت کا کلمہ\nکونین میں رائج ہوگا فقط\nمولا کے گھرانے کا سکہ\nاب جلد ہی کعبے کی چھت پر\nغازی کا الم لہراے گا\n<<DIVIDER>>\nعباس جری نے پرچم کو\nگاڑا بھی تو گاڑا پانی میں\nیہ مشک سکینہ ملنے کو\nآجاے نہ مولا پانی میں\nریحان و مبارک اس طرح\nٹہرارا پرسہ پانی میں\nجس طرح جری پیاسا پلٹا\nوہ مولا میرا بتلاے گا",
+  "styling": [
+    {
+      "insert": "اب وقت کے ظالم ہوش میں آ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی آخری حیدر باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ظلم و ستم باقی نہ رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کا لشکر باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھتا ہے الم بتلانے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس دلاور باقی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر ثانیء حیدر ہی ٹوٹے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے سے قیامت لاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کعبے پہ الم لہراے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے آل پیمبر کے دشمن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن غور سے وہ دن دور نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردے میں جو شہ کا وارث ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مختار ہے وہ مجبور نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ حکم خدا کا تابع ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاچار نہیں بے نور نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب شان وغا دکھلاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن موت ہی تو مر جاۓ گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم کرب و بلا کیسے لو گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ کربوبلا شبیر کی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داخل نہیں ہو سکتے ہر گز"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جاے اماں بے شیر کی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور جو بھی شہ مظلوم کی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ سرور کی ہمشیر کی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحراے عطش تو کیا لے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب شام نہیں لے پاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے شام میں زینب کا روضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں میں سکینہ کا روضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روضوں پہ ابھی بھی رہتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس اور اکبر کا پہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبروں ہی حفاظت کو اک دن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ ساکن غیبت آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر حشر تمہارا کیا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تیغ علی دکھلاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر گھر میں بپا مجلس ہو گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گھر میں بچھیگی فرش عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحوں کی صدایں گونجے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سو شہ کا ماتم ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تعمیر بقیہ میں ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر آل پیمبر کا روضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اجڑا ہے جو گلشن برسوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دوبارہ سجایا جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگلشن گلشن صحرا صحرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوچہ کوچہ پریا پریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر زرہ پڑھے گا دنیا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس اس کی عدالت کا کلمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کونین میں رائج ہوگا فقط"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا کے گھرانے کا سکہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب جلد ہی کعبے کی چھت پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کا الم لہراے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس جری نے پرچم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گاڑا بھی تو گاڑا پانی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ مشک سکینہ ملنے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاے نہ مولا پانی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ریحان و مبارک اس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹہرارا پرسہ پانی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس طرح جری پیاسا پلٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ مولا میرا بتلاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

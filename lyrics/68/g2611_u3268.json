@@ -1,12 +1,482 @@
 {
   "remoteId": "g2611_u3268",
-  "title": "Uthe kaise baali",
+  "title": "اٹھے کیسے بالی",
   "body": "اٹھے کیسے اٹھے کیسے بالی سکینہ کا لاشہ\nپریشاں ہے زنداں میں ثانی زہرا\n<<DIVIDER>>\nمصیبت کی منزل یہ کتنی کڑی ہے\nیتیمہ کی میت زمیں پر پڑی ہے\nبنے قبر کیوں کر اٹھے کیسے لاشہ\nپریشاں ہے زنداں میں ثانی زہرا\nاٹھے کیسے اٹھے کیسے۔۔۔\n<<DIVIDER>>\nیہ غربت یہ تنہائی یہ قید خانہ\nہے زنجیر میں جکڑا بیمار بھیا\nاٹھاے بہن کا وہ کیسے جنازہ\nپریشاں ہے زنداں میں ثانی زہرا\nاٹھے کیسے اٹھے کیسے۔۔۔\n<<DIVIDER>>\nسکینہ تجھے اب کہاں پاؤں بیٹی\nاکیلی کہاں چھوڑ کر جاؤں بیٹی\nبہت تنگ و تاریک ہے قید خانہ\nپریشاں ہے زنداں میں ثانی زہرا\nاٹھے کیسے اٹھے کیسے۔۔۔\n<<DIVIDER>>\nکہاں سے کفن لا کے پہناے زینب\nبھتیجی کو کس طرح دفناے زینب\nقیامت ہے ایک قید خانے میں برپا\nپریشاں ہے زنداں میں ثانی زہرا\nاٹھے کیسے اٹھے کیسے۔۔۔\n<<DIVIDER>>\nمدد کرنے آجاؤ میرے برادر\nکہاں سو گےء میرے عباس جا کر\nزرا آ کے دیدو جنازے کو کاندھا\nپریشاں ہے زنداں میں ثانی زہرا\nاٹھے کیسے اٹھے کیسے۔۔۔\n<<DIVIDER>>\nہے بیمار ہاتھوں میں ہتھکڑیاں پہنے\nگلے میں ہے طوق گریبان اس کے\nاتارے لحد میں بھلا کون لاشہ\nپریشاں ہے زنداں میں ثانی زہرا\nاٹھے کیسے اٹھے کیسے۔۔۔\n<<DIVIDER>>\nلحد میں تو اپنی بہن کو سلا کر\nکہا رو کے عابد نے شانہ ہلا کر\nخدا حافظ اے شاہ زادی سکینہ\nپریشاں ہے زنداں میں ثانی زہرا\nاٹھے کیسے اٹھے کیسے۔۔۔\n<<DIVIDER>>\nسکینہ کے لاشہ پہ زینب یہ بولی\nوطن روز جانے کو کہتی تھی بیٹی\nرہائی کے بدلے مقدر تھا مرنا\nپریشاں ہے زنداں میں ثانی زہرا\nاٹھے کیسے اٹھے کیسے۔۔۔\n<<DIVIDER>>\nہے زندان میں شمس کیسی مصیبت\nرسن بستہ ہے سب اٹھے کیسے میت\nخدا جانے کیسے ہوا دفن لاشہ\nپریشاں ہے زنداں میں ثانی زہرا\nاٹھے کیسے اٹھے کیسے۔۔۔",
+  "styling": [
+    {
+      "insert": "اٹھے کیسے اٹھے کیسے بالی سکینہ کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پریشاں ہے زنداں میں ثانی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمصیبت کی منزل یہ کتنی کڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یتیمہ کی میت زمیں پر پڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنے قبر کیوں کر اٹھے کیسے لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پریشاں ہے زنداں میں ثانی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھے کیسے اٹھے کیسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ غربت یہ تنہائی یہ قید خانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے زنجیر میں جکڑا بیمار بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھاے بہن کا وہ کیسے جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پریشاں ہے زنداں میں ثانی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھے کیسے اٹھے کیسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسکینہ تجھے اب کہاں پاؤں بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکیلی کہاں چھوڑ کر جاؤں بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت تنگ و تاریک ہے قید خانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پریشاں ہے زنداں میں ثانی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھے کیسے اٹھے کیسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہاں سے کفن لا کے پہناے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھتیجی کو کس طرح دفناے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہے ایک قید خانے میں برپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پریشاں ہے زنداں میں ثانی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھے کیسے اٹھے کیسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمدد کرنے آجاؤ میرے برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں سو گےء میرے عباس جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زرا آ کے دیدو جنازے کو کاندھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پریشاں ہے زنداں میں ثانی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھے کیسے اٹھے کیسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے بیمار ہاتھوں میں ہتھکڑیاں پہنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلے میں ہے طوق گریبان اس کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتارے لحد میں بھلا کون لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پریشاں ہے زنداں میں ثانی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھے کیسے اٹھے کیسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلحد میں تو اپنی بہن کو سلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا رو کے عابد نے شانہ ہلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا حافظ اے شاہ زادی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پریشاں ہے زنداں میں ثانی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھے کیسے اٹھے کیسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسکینہ کے لاشہ پہ زینب یہ بولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وطن روز جانے کو کہتی تھی بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہائی کے بدلے مقدر تھا مرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پریشاں ہے زنداں میں ثانی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھے کیسے اٹھے کیسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے زندان میں شمس کیسی مصیبت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسن بستہ ہے سب اٹھے کیسے میت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا جانے کیسے ہوا دفن لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پریشاں ہے زنداں میں ثانی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھے کیسے اٹھے کیسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Shams Jalalpuri",
   "anjumans": [],
   "verified": false

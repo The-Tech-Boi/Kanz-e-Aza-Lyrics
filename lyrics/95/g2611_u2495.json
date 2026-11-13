@@ -1,12 +1,505 @@
 {
   "remoteId": "g2611_u2495",
-  "title": "Muslim ka laasha",
+  "title": "مسلم کا لاشہ",
   "body": "کوفے میں پھرایا جاتا ہے\nمسلم کا لاشہ عید کے دِن\n<<DIVIDER>>\nکوئی بھی اٹھانے آتا نہیں\nبیکس کا جنازہ عید کے دِن\n<<DIVIDER>>\nبھای بھی نہیں بیٹے بھی نہیں\nکوئی بھی نہیں رونے والا\nمسلم کے جنازے پر بیٹھی\nروتی رہی زہرا عید کے دِن\nکوفے میں پھرایا۔۔۔\n<<DIVIDER>>\nاک آہ سنای دیتی ہے\nاک لاش دکھائی دیتی ہے\nبے ساختہ آنسوں آتے ہیں\nیاد آے جو کوفہ عید کے دِن\nکوفے میں پھرایا۔۔۔\n<<DIVIDER>>\nٹوٹی ہے قیامت یہ کیسی\nدونوں پہ نظر ہے مولا کی\nمسلم کی حمیدہ روتی ہے\nبیتاب ہے صغرا عید کے دِن\nکوفے میں پھرایا۔۔۔\n<<DIVIDER>>\nظالم سے بچنے کی خاطر\nزنداں سے چھڑانے کی خاطر\nامید یہی ہے بچوں کو\nآےنگے بابا عید کے دِن\nکوفے میں پھرایا۔۔۔\n<<DIVIDER>>\nمسلم کے یتیموں کو شہ نے\nسینے سے لگا کر پیار کیا\nیہ حال یتیمی کا لوگوں\nسمجھی تھی سکینہ عید کے دِن\nکوفے میں پھرایا۔۔۔\n<<DIVIDER>>\nاک وار علی کے سجدے سے\nمسلم کی شہادت تک پہنچا\nیوں آل نبی کو امت نے\nہر بار رلایا عید کے دِن\nکوفے میں پھرایا۔۔۔\n<<DIVIDER>>\nجس گھر میں کوئی مر جاتا ہے\nسب آ کر پرسہ دیتے ہیں\nہم کسکو دیں مولا مہدی\nمسلم کا پرسہ عید کے دِن\nکوفے میں پھرایا۔۔۔\n<<DIVIDER>>\nدستور زمانے سے ہے یہی\nہم‌ اہلِ عزا کا بعد نماز\nہم سن کے مصایب دیتے ہیں\nزہرا کو پرسہ عید کے دِن\nکوفے میں پھرایا۔۔۔\n<<DIVIDER>>\nدفنایا نہیں کفنایا نہیں\nکیسی یہ تکلم غربت ہے\nکوفے میں مسلماں سارے تھے\nمسلم تھا اکیلا عید کے دِن\nکوفے میں پھرایا۔۔۔",
+  "styling": [
+    {
+      "insert": "کوفے میں پھرایا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کا لاشہ عید کے دِن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی بھی اٹھانے آتا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکس کا جنازہ عید کے دِن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای بھی نہیں بیٹے بھی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی بھی نہیں رونے والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کے جنازے پر بیٹھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی رہی زہرا عید کے دِن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں پھرایا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک آہ سنای دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک لاش دکھائی دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ساختہ آنسوں آتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آے جو کوفہ عید کے دِن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں پھرایا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹوٹی ہے قیامت یہ کیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دونوں پہ نظر ہے مولا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کی حمیدہ روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیتاب ہے صغرا عید کے دِن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں پھرایا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظالم سے بچنے کی خاطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں سے چھڑانے کی خاطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امید یہی ہے بچوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آےنگے بابا عید کے دِن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں پھرایا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسلم کے یتیموں کو شہ نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے سے لگا کر پیار کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ حال یتیمی کا لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سمجھی تھی سکینہ عید کے دِن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں پھرایا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک وار علی کے سجدے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کی شہادت تک پہنچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں آل نبی کو امت نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر بار رلایا عید کے دِن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں پھرایا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس گھر میں کوئی مر جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب آ کر پرسہ دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کسکو دیں مولا مہدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کا پرسہ عید کے دِن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں پھرایا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدستور زمانے سے ہے یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم‌ اہلِ عزا کا بعد نماز"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سن کے مصایب دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کو پرسہ عید کے دِن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں پھرایا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدفنایا نہیں کفنایا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی یہ تکلم غربت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں مسلماں سارے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم تھا اکیلا عید کے دِن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے میں پھرایا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Hazrat Muslim (a.s)",
+  "subcategory": "حضرت مسلم (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

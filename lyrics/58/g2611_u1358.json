@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u1358",
-  "title": "Ghurbate batool",
+  "title": "غربتِ بتول",
   "body": "کہاں بتول کی غربت کو ہم سمجھ پاے\nہماری سانس رکی اور نہ ہم غش کھائے\n<<DIVIDER>>\nابھی بھی خاک بقیہ صداییں دیتی ہے\nخدا کرے کہ یہ پہلو سے خوں رک جائے\nکہاں بتول کی غربت۔۔۔\n<<DIVIDER>>\nوہ در کہ جس پہ جھکاتے تھے سر نبی اپنا\nاسی پہ آج مسلماں دیےء چلے آے\nکہاں بتول کی غربت۔۔۔\n<<DIVIDER>>\nضعیف ہو گیء دربار جب گیء بی بی\nسیاہ سر میں سفیدی اتر گیء ہاے\nکہاں بتول کی غربت۔۔۔\n<<DIVIDER>>\nاٹھا کے ہاتھ ستمگر نے قہقہہ مارا\nحسن کے سامنے زہرا پہ یہ ستم ڈھاے\nکہاں بتول کی غربت۔۔۔\n<<DIVIDER>>\nپھر ایک وقت وہ آیا کہ کند خنجر سے\nرگ حسین پہ بی بی نے ہاتھ کٹواے\nکہاں بتول کی غربت۔۔۔\n<<DIVIDER>>\nیہ غم بتول کا سجاد سے کوئی پوچھے\nرداے زینب مضطر پہ اشک برساے\nکہاں بتول کی غربت۔۔۔\n<<DIVIDER>>\nغم امام زمانہ کو کوئی کیا جانے\nکہ جس کی ماں کی لحد روز دھوپ جھل ساے\nکہاں بتول کی غربت۔۔۔\n<<DIVIDER>>\nبراے فاطمہ زہرا دعا کرو یاسر\nخدا کرے کہ ظہورِ امام ہو جائے\nکہاں بتول کی غربت۔۔۔",
+  "styling": [
+    {
+      "insert": "کہاں بتول کی غربت کو ہم سمجھ پاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہماری سانس رکی اور نہ ہم غش کھائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nابھی بھی خاک بقیہ صداییں دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کرے کہ یہ پہلو سے خوں رک جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں بتول کی غربت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ در کہ جس پہ جھکاتے تھے سر نبی اپنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی پہ آج مسلماں دیےء چلے آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں بتول کی غربت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nضعیف ہو گیء دربار جب گیء بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیاہ سر میں سفیدی اتر گیء ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں بتول کی غربت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھا کے ہاتھ ستمگر نے قہقہہ مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسن کے سامنے زہرا پہ یہ ستم ڈھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں بتول کی غربت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر ایک وقت وہ آیا کہ کند خنجر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رگ حسین پہ بی بی نے ہاتھ کٹواے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں بتول کی غربت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ غم بتول کا سجاد سے کوئی پوچھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رداے زینب مضطر پہ اشک برساے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں بتول کی غربت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم امام زمانہ کو کوئی کیا جانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ جس کی ماں کی لحد روز دھوپ جھل ساے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں بتول کی غربت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبراے فاطمہ زہرا دعا کرو یاسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کرے کہ ظہورِ امام ہو جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں بتول کی غربت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Yasir Abbas",
   "anjumans": [],
   "verified": false

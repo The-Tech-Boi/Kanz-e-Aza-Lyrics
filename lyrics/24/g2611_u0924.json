@@ -1,12 +1,424 @@
 {
   "remoteId": "g2611_u0924",
-  "title": "Bazaar aa raha hai",
+  "title": "بازار آ رہا ہے",
   "body": "ہاے سجاد ہاے سجاد\nہاے ہاے بازار\n<<DIVIDER>>\nبیمار مر نہ جاے بازار آ رہا ہے\nامت ہجاب میں ہے سیدانی بے ردا ہے\n<<DIVIDER>>\nسجاد کے بدن کا ہر زخم رو رہا ہے\nکوفے کی شاہزادی کوفے میں بے ردا ہے\nسادات فاطمہ پر کیا وقت آ گیا ہے\nبیمار مر نہ جاے۔۔۔\n<<DIVIDER>>\nزہرا کی بیٹیوں کے چھینے گےء ہے پردے\nاب چادروں کے بدلے کوئی کفن اڑھا دے\nعابد جنازے لے کر بازار میں کھڑا ہے\nبیمار مر نہ جاے۔۔۔\n<<DIVIDER>>\nہاتھوں میں شام والے پتھر لیےء ہوے ہے\nاک جشن کا سماں ہے روشن دیے ہوے ہیں\nدل بجھتے جا رہے ہیں یہ شام کی ہوا ہے\nبیمار مر نہ جاے۔۔۔\n<<DIVIDER>>\nبرداشت اس ستم کو کوئی کرے گا کیسے\nبیٹے کے آگے کھاے اک باپ تازیانے\nباقر کا امتحاں تو سجاد سے بڑا ہے\nبیمار مر نہ جاے۔۔۔\n<<DIVIDER>>\nجاری لہو ہے سر سے کیا وقتِ بیکسی ہے\nنیزے پہ شہ کے سر کو حسرت سے دیکھتی ہے\nزینب کو راستے میں پتھر جہاں لگا ہے\nبیمار مر نہ جاے۔۔۔\n<<DIVIDER>>\nمقتل میں تیرا ضربیں شبیر پر چلی ہے\nنہ محرموں کی نظریں زینب پہ پڑ رہی ہے\nچاروں طرف سے خنجر بی بی پہ چل رہا ہے\nبیمار مر نہ جاے۔۔۔\n<<DIVIDER>>\nیہ قافلہ حرم کا زنداں تک آ گیا ہے\nسورج کے بادلوں میں چھپ چھپ کے پوچھتا ہے\nبے جرم قیدیوں کو سایہ کہاں ملا ہے\nبیمار مر نہ جاے۔۔۔\n<<DIVIDER>>\nشبیر کی سکینہ بازار سے ہے گزری\nاتنے لگے ہے پتھر پہلو ہوا ہے زخمی\nپہچان نا ہے مشکل وہ حال ہو گیا ہے\nبیمار مر نہ جاے۔۔۔\n<<DIVIDER>>\nروے ہیں خوں تکلم چالیس سال مولا\nسانسیں بھی چل رہی تھی لیکن نہیں تھے زندہ\nسجاد کا تو مقتل دربار شام کا ہے\nبیمار مر نہ جاے۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے سجاد ہاے سجاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے ہاے بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیمار مر نہ جاے بازار آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت ہجاب میں ہے سیدانی بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد کے بدن کا ہر زخم رو رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے کی شاہزادی کوفے میں بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سادات فاطمہ پر کیا وقت آ گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار مر نہ جاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزہرا کی بیٹیوں کے چھینے گےء ہے پردے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب چادروں کے بدلے کوئی کفن اڑھا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد جنازے لے کر بازار میں کھڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار مر نہ جاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھوں میں شام والے پتھر لیےء ہوے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک جشن کا سماں ہے روشن دیے ہوے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل بجھتے جا رہے ہیں یہ شام کی ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار مر نہ جاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرداشت اس ستم کو کوئی کرے گا کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹے کے آگے کھاے اک باپ تازیانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باقر کا امتحاں تو سجاد سے بڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار مر نہ جاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاری لہو ہے سر سے کیا وقتِ بیکسی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ شہ کے سر کو حسرت سے دیکھتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کو راستے میں پتھر جہاں لگا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار مر نہ جاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل میں تیرا ضربیں شبیر پر چلی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ محرموں کی نظریں زینب پہ پڑ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاروں طرف سے خنجر بی بی پہ چل رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار مر نہ جاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ قافلہ حرم کا زنداں تک آ گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سورج کے بادلوں میں چھپ چھپ کے پوچھتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے جرم قیدیوں کو سایہ کہاں ملا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار مر نہ جاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر کی سکینہ بازار سے ہے گزری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنے لگے ہے پتھر پہلو ہوا ہے زخمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہچان نا ہے مشکل وہ حال ہو گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار مر نہ جاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروے ہیں خوں تکلم چالیس سال مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سانسیں بھی چل رہی تھی لیکن نہیں تھے زندہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کا تو مقتل دربار شام کا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار مر نہ جاے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

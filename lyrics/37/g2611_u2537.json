@@ -1,7 +1,219 @@
 {
   "remoteId": "g2611_u2537",
-  "title": "Nahi dekha",
+  "title": "نہیں دیکھا",
   "body": "آنکھوں سے رواں اشک کا دریا نہیں دیکھا\nہر بچے نے جلتا ہوا خیمہ نہیں دیکھا\n<<DIVIDER>>\nیوں جیت لی عباس نے دریا پہ لڑائی\nپانی پہ کہیں پھر کبھی پہرہ نہیں دیکھا\nآنکھوں سے رواں۔۔۔\n<<DIVIDER>>\nکیا نور کے پیکر شب عاشور جمع تھے\nشمع تو بجھی لیکن اندھیرا نہیں دیکھا\nآنکھوں سے رواں۔۔۔\n<<DIVIDER>>\nاسلام تو جاگا علی اکبر کی اذاں سے\nاور اس کی جوانی نے سویرا نہیں دیکھا\nآنکھوں سے رواں۔۔۔\n<<DIVIDER>>\nاکبر کے جنازے پہ قیامت کی گھڑی تھی\nشبیر کو ایسا کبھی روتا نہیں دیکھا\nآنکھوں سے رواں۔۔۔\n<<DIVIDER>>\nدیکھا تھا کڑی دھوپ میں بیٹے کا جنازہ\nلیلیٰ کو کبھی ساے میں بیٹھا نہیں دیکھا\nآنکھوں سے رواں۔۔۔\n<<DIVIDER>>\nکیوں دیکھ کے روے نہ تقی اپنا بھرا گھر\nزہرا کی طرح گھر کوی اجڑا نہیں دیکھا\nآنکھوں سے رواں۔۔۔",
+  "styling": [
+    {
+      "insert": "آنکھوں سے رواں اشک کا دریا نہیں دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر بچے نے جلتا ہوا خیمہ نہیں دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیوں جیت لی عباس نے دریا پہ لڑائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پہ کہیں پھر کبھی پہرہ نہیں دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے رواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا نور کے پیکر شب عاشور جمع تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمع تو بجھی لیکن اندھیرا نہیں دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے رواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسلام تو جاگا علی اکبر کی اذاں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اس کی جوانی نے سویرا نہیں دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے رواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر کے جنازے پہ قیامت کی گھڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کو ایسا کبھی روتا نہیں دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے رواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھا تھا کڑی دھوپ میں بیٹے کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ کو کبھی ساے میں بیٹھا نہیں دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے رواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں دیکھ کے روے نہ تقی اپنا بھرا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی طرح گھر کوی اجڑا نہیں دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے رواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

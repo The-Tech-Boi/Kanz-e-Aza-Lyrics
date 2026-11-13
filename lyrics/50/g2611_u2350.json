@@ -1,12 +1,282 @@
 {
   "remoteId": "g2611_u2350",
-  "title": "Mazloom meri bachi",
+  "title": "مظلوم میری بچی",
   "body": "مظلوم میری بچی کیسے ہو دفن تیرا\nکہتی تھی روکے بانو دل مضطرب ہے میرا\n<<DIVIDER>>\nکس بیکسی میں تیرا لاشہ پڑا ہوا ہے\nنیلے ہیں گال اب تک کرتہ لہو بھرا ہے\nعباس آ کے دیکھو کیا حال ہو گیا ہے\nتیری مصیبتوں پر ٹکڑے جگر ہے میرا\nمظلوم میری بچی۔۔۔\n<<DIVIDER>>\nپردیس میں یہ کیسی افتاد کی گھڑی ہے\nسینے پہ سونے والی اب خاک پر پڑی ہے\nخاموش ہے سکینہ ماں دیکھتی کھڑی ہے\nکچھ اور بڑھ گیا ہے زندان کا اندھیرا\nمظلوم میری بچی۔۔۔\n<<DIVIDER>>\nچاروں طرف اداسی اس غم کی چھا رہی ہے\nغربت تیری سکینہ سب کو رلا رہی ہے\nبیکس یتیم بچی دنیا سے جا رہی ہے\nاس شام غم کا یا رب ہو گا کبھی سویرا\nمظلوم میری بچی۔۔۔\n<<DIVIDER>>\nتیری مصیبتوں کا پر درد یہ سماں ہے\nزخمی ہے پشت تیری کانوں سے خوں رواں ہے\nگردن پہ ریسماں کا ابھرا ہوا نشاں ہے\nبیمار ہے برادر ہر سمت ہے اندھیرا\nمظلوم میری بچی۔۔۔\n<<DIVIDER>>\nعابد تڑپ رہے ہیں رخصت ہوی سکینہ\nاس غم سے اب مجاہد اک حشر سا ہے برپا\nماتم سے گونجتا ہے تاریک قید خانہ\nبانو یہ کہہ رہی ہے حافظ خدا ہے تیرا\nمظلوم میری بچی۔۔۔",
+  "styling": [
+    {
+      "insert": "مظلوم میری بچی کیسے ہو دفن تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی روکے بانو دل مضطرب ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس بیکسی میں تیرا لاشہ پڑا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیلے ہیں گال اب تک کرتہ لہو بھرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس آ کے دیکھو کیا حال ہو گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری مصیبتوں پر ٹکڑے جگر ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم میری بچی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپردیس میں یہ کیسی افتاد کی گھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے پہ سونے والی اب خاک پر پڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش ہے سکینہ ماں دیکھتی کھڑی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ اور بڑھ گیا ہے زندان کا اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم میری بچی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاروں طرف اداسی اس غم کی چھا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غربت تیری سکینہ سب کو رلا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکس یتیم بچی دنیا سے جا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس شام غم کا یا رب ہو گا کبھی سویرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم میری بچی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیری مصیبتوں کا پر درد یہ سماں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہے پشت تیری کانوں سے خوں رواں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گردن پہ ریسماں کا ابھرا ہوا نشاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار ہے برادر ہر سمت ہے اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم میری بچی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعابد تڑپ رہے ہیں رخصت ہوی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس غم سے اب مجاہد اک حشر سا ہے برپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم سے گونجتا ہے تاریک قید خانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بانو یہ کہہ رہی ہے حافظ خدا ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم میری بچی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mujahid Hussain",
   "anjumans": [],
   "verified": false

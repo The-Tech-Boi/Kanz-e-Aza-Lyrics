@@ -1,12 +1,364 @@
 {
   "remoteId": "g2611_u3322",
-  "title": "Wavaila sad wavaila",
+  "title": "واویلا صد واویلا",
   "body": "واویلا صد واویلا واویلا\n<<DIVIDER>>\nشیعوں کرو تم آہ و بکا واویلا\nقبر میں روتی ہے زہرا واویلا\nاہلِ وطن سے حال سفر\nکرتی ہے بیاں زینب دکھیا واویلا\n<<DIVIDER>>\nمیں نے سہے اندوہ الم واویلا\nمجھ پہ ہوے ہیں ظلم و ستم واویلا\nرو برو میرے شمر لعیں نے\nبھای کا میرے کاٹا گلا واویلا\nواویلا صد واویلا۔۔۔\n<<DIVIDER>>\nدھوپ میں تھے لاشے سارے واویلا\nجیسے فلک پہ ہو تارے واویلا\nجلتی زمیں پر تن تھے سبھوں کے\nنیزے پہ سر تھا ہاے سب کا واویلا\nواویلا صد واویلا۔۔۔\n<<DIVIDER>>\nقتل ہوے جب بھای حسین واویلا\nسخت تھے ہم سب ہیں بے چین واویلا\nکہتے تھے سب بچے رو رو کر\nہاے چچا ہے نہ بابا واویلا\nواویلا صد واویلا۔۔۔\n<<DIVIDER>>\nطوق پہنایا عابد کو واویلا\nاور ستایا زاہد کو واویلا\nجسم میں تپ اور پاؤں میں چھالے\nدل میں غم سب کنبے کا واویلا\nواویلا صد واویلا۔۔۔\n<<DIVIDER>>\nچل نہیں سکتا تھا بیمار واویلا\nاعدا سے تھا وہ لاچار واویلا\nرو کے وہ ہر دم کہتا تھا بابا\nکا اٹھا سر سے سایہ واویلا\nواویلا صد واویلا۔۔۔\n<<DIVIDER>>\nپشت تھی زخمی نیزوں پہ واویلا\nخون کے نالے تن سے بہے واویلا\nلکھنا رفی اب شام کی راہ میں\nظلم جو عابد سہتا تھا واویلا\nواویلا صد واویلا۔۔۔",
+  "styling": [
+    {
+      "insert": "واویلا صد واویلا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشیعوں کرو تم آہ و بکا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر میں روتی ہے زہرا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ وطن سے حال سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی ہے بیاں زینب دکھیا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں نے سہے اندوہ الم واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ ہوے ہیں ظلم و ستم واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو برو میرے شمر لعیں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کا میرے کاٹا گلا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واویلا صد واویلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدھوپ میں تھے لاشے سارے واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے فلک پہ ہو تارے واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتی زمیں پر تن تھے سبھوں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ سر تھا ہاے سب کا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واویلا صد واویلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقتل ہوے جب بھای حسین واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سخت تھے ہم سب ہیں بے چین واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے سب بچے رو رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے چچا ہے نہ بابا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واویلا صد واویلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطوق پہنایا عابد کو واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ستایا زاہد کو واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسم میں تپ اور پاؤں میں چھالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں غم سب کنبے کا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واویلا صد واویلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچل نہیں سکتا تھا بیمار واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اعدا سے تھا وہ لاچار واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے وہ ہر دم کہتا تھا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کا اٹھا سر سے سایہ واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واویلا صد واویلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپشت تھی زخمی نیزوں پہ واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون کے نالے تن سے بہے واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھنا رفی اب شام کی راہ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم جو عابد سہتا تھا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واویلا صد واویلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Rafi",
   "anjumans": [],
   "verified": false

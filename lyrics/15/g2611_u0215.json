@@ -1,12 +1,445 @@
 {
   "remoteId": "g2611_u0215",
-  "title": "Abbas ka parcham",
+  "title": "عباس کا پرچم",
   "body": "عباس کا پرچم ہے علمدار کا پرچم\nاونچا ہے میرے سید و سردار کا پرچم\n<<DIVIDER>>\nپرچم میرے مرشد کا جو گھر گھر پہ لگا ہے\nیہ سارے عزاداروں پہ زہرا کی عطا ہے\nاس پرچمِ عباس کو زینب کی دعا ہے\nکون اس کو جھکائے گا بھلا کس میں ہے یہ دم\nاونچا ہے میرے۔۔۔\nعباس کا پرچم ہے۔۔۔\n<<DIVIDER>>\nغازی کا سکینہ سے وفا کا ہے یہ عالم\nپرچم سے جدا مشک ہے نہ مشک سے پرچم\nجیسے کسی بازو پہ ہو تعویذ مقدمہ\nیہ بالی سکینہ کی دعا ساتھ ہے ہر دم\nاونچا ہے میرے۔۔۔\nعباس کا پرچم ہے۔۔۔\n<<DIVIDER>>\nماتم نہ رکا تھا نہ رکا ہے نہ رکے گا\nپرچم نہ جھکا تھا نہ جھکا ہے نہ جھکے گا\nہر لحظہ جلوسوں کی قیادت یہ کرے گا\nہو کوی فضا کوئی وبا کوئی بھی موسم\nاونچا ہے میرے۔۔۔\nعباس کا پرچم ہے۔۔۔\n<<DIVIDER>>\nپرچم یہ مریضوں کو شفا بانٹ رہا ہے\nدنیا کو محبت کی فضا بانٹ رہا ہے\nاولاد مکاں رزق و وفا بانٹ رہا ہے\nکیا فکر ہو دنیا کی ہمیں کیا ہو بھلا غم\nاونچا ہے میرے۔۔۔\nعباس کا پرچم ہے۔۔۔\n<<DIVIDER>>\nیہ بات ہے بچپن کی مجھے یاد ابھی بھی\nہر بات محرم کو جو بابا سے کہی تھی\nیہ پرچم عباس اٹھانا ہے مجھے بھی\nکچھ ساتھ میرا دیجییےء ہے عمر میری کم\nاونچا ہے میرے۔۔۔\nعباس کا پرچم ہے۔۔۔\n<<DIVIDER>>\nمنظر یہ جلوسوں میں نظر آتا ہے ہم کو\nتسلیم کیا سب نے اسی جوڑ و کرم کو\nسر جھکتا نہیں اس کا اٹھاے جو علم کو\nیہ نعرہ لگاتے ہیں کبھی آپ کبھی ہم\nاونچا ہے میرے۔۔۔\nعباس کا پرچم ہے۔۔۔\n<<DIVIDER>>\nہاں مظہر و فرحان نظر آے گا ایک دن\nمولا کا علم کعبے پہ لہراے گا ایک دن\nدل فاطمہ زہرا کا سکوں پاے گا ایک دن\nخوش ہونگے بہت دیکھ کے یہ وارث آدم\nاونچا ہے میرے۔۔۔\nعباس کا پرچم ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "عباس کا پرچم ہے علمدار کا پرچم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اونچا ہے میرے سید و سردار کا پرچم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپرچم میرے مرشد کا جو گھر گھر پہ لگا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سارے عزاداروں پہ زہرا کی عطا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس پرچمِ عباس کو زینب کی دعا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون اس کو جھکائے گا بھلا کس میں ہے یہ دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اونچا ہے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا پرچم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغازی کا سکینہ سے وفا کا ہے یہ عالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچم سے جدا مشک ہے نہ مشک سے پرچم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے کسی بازو پہ ہو تعویذ مقدمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بالی سکینہ کی دعا ساتھ ہے ہر دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اونچا ہے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا پرچم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماتم نہ رکا تھا نہ رکا ہے نہ رکے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچم نہ جھکا تھا نہ جھکا ہے نہ جھکے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر لحظہ جلوسوں کی قیادت یہ کرے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو کوی فضا کوئی وبا کوئی بھی موسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اونچا ہے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا پرچم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپرچم یہ مریضوں کو شفا بانٹ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا کو محبت کی فضا بانٹ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اولاد مکاں رزق و وفا بانٹ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا فکر ہو دنیا کی ہمیں کیا ہو بھلا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اونچا ہے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا پرچم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ بات ہے بچپن کی مجھے یاد ابھی بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر بات محرم کو جو بابا سے کہی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ پرچم عباس اٹھانا ہے مجھے بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ ساتھ میرا دیجییےء ہے عمر میری کم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اونچا ہے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا پرچم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنظر یہ جلوسوں میں نظر آتا ہے ہم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تسلیم کیا سب نے اسی جوڑ و کرم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جھکتا نہیں اس کا اٹھاے جو علم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ نعرہ لگاتے ہیں کبھی آپ کبھی ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اونچا ہے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا پرچم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاں مظہر و فرحان نظر آے گا ایک دن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا کا علم کعبے پہ لہراے گا ایک دن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل فاطمہ زہرا کا سکوں پاے گا ایک دن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوش ہونگے بہت دیکھ کے یہ وارث آدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اونچا ہے میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا پرچم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

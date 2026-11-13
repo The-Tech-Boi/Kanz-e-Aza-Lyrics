@@ -1,12 +1,454 @@
 {
   "remoteId": "g2611_u2793",
-  "title": "Roye hussain muslim",
+  "title": "روے حسین مسلم",
   "body": "ہاے تربت میں رو پڑی زہرا\nایسے روے حسین مسلم کو\n<<DIVIDER>>\nگر گیا ہاے سر سے عمامہ\nایسے روے حسین مسلم کو\n<<DIVIDER>>\nراہ کوفہ میں تھے حسین ابھی\nجب خبر آئی قتل مسلم کی\nجس جگہ تھے وہی پہ بیٹھ گےء\nاشک آنکھوں سے ہو گےء جاری\nقافلے میں صدا تھی واویلا\nایسے روے حسین مسلم کو\nہاے تربت میں۔۔۔\n<<DIVIDER>>\nپھر یہ زینب سے رو کے فاطمہ\nمیں تو برباد ہو گیا بہنا\nمیرے بھائی کو اہل کوفہ نے\nکس قدر بیکسی میں مار دیا\nسن کے بیہوش ہوگیء بہنا\nایسے روے حسین مسلم کو\nہاے تربت میں۔۔۔\n<<DIVIDER>>\nبے وطن پر زرا نہ رحم کیا\nایک مسافر پہ یہ جفا ڈھای\nکر کے پیاسا شہید مسلم کو\nلاش کوفے کے در پہ لٹکای\nبس یہ کہتے ہی سر کو پیٹ لیا\nایسے روے حسین مسلم کو\nہاے تربت میں۔۔۔\n<<DIVIDER>>\nزوجہ مسلم کی جب قریب آی\nاس کو مسلم کا یوں دیا پرسہ\nمثل عباس تھا وہ میرے لئے\nحال کیسے بتاؤں میں دل کا\nجیسے بیٹے کو باپ ہے روتا\nایسے روے حسین مسلم کو\nہاے تربت میں۔۔۔\n<<DIVIDER>>\nشدت غم سے قلب زخمی تھا\nاور آنکھوں سے علقمہ جاری\nہاے میرا سفیر مارا گیا\nبس یہی کہہ کے کی عزاداری\nایک پل بھی نہیں رکا گریہ\nایسے روے حسین مسلم کو\nہاے تربت میں۔۔۔\n<<DIVIDER>>\nفرش مجلس پہ صفدر و مظہر\nیوں مصائب بیان ہوتے ہیں\nماتمی سوگوار ہے سب ہی\nبین سنتے ہیں اور روتے ہیں\nمرثیہ بن گیا یہی جملہ\nایسے روے حسین مسلم کو",
+  "styling": [
+    {
+      "insert": "ہاے تربت میں رو پڑی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے روے حسین مسلم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگر گیا ہاے سر سے عمامہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے روے حسین مسلم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراہ کوفہ میں تھے حسین ابھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب خبر آئی قتل مسلم کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس جگہ تھے وہی پہ بیٹھ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشک آنکھوں سے ہو گےء جاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلے میں صدا تھی واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے روے حسین مسلم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تربت میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر یہ زینب سے رو کے فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تو برباد ہو گیا بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بھائی کو اہل کوفہ نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس قدر بیکسی میں مار دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کے بیہوش ہوگیء بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے روے حسین مسلم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تربت میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے وطن پر زرا نہ رحم کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک مسافر پہ یہ جفا ڈھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر کے پیاسا شہید مسلم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاش کوفے کے در پہ لٹکای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس یہ کہتے ہی سر کو پیٹ لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے روے حسین مسلم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تربت میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزوجہ مسلم کی جب قریب آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کو مسلم کا یوں دیا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مثل عباس تھا وہ میرے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حال کیسے بتاؤں میں دل کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے بیٹے کو باپ ہے روتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے روے حسین مسلم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تربت میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشدت غم سے قلب زخمی تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور آنکھوں سے علقمہ جاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے میرا سفیر مارا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس یہی کہہ کے کی عزاداری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک پل بھی نہیں رکا گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے روے حسین مسلم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تربت میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرش مجلس پہ صفدر و مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں مصائب بیان ہوتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتمی سوگوار ہے سب ہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین سنتے ہیں اور روتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرثیہ بن گیا یہی جملہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے روے حسین مسلم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Hazrat Muslim (a.s)",
+  "subcategory": "حضرت مسلم (ع)",
   "group": 2026,
   "author": "Mazhar Abidi",
   "anjumans": [],

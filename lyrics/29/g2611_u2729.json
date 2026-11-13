@@ -1,7 +1,283 @@
 {
   "remoteId": "g2611_u2729",
-  "title": "Raat hoti hai",
+  "title": "رات ہوتی ہے",
   "body": "رات ہوتی ہے تو رونے کی صدا آتی ہے\nکسی بی بی کے تڑپنے کی صدا آتی ہے\n<<DIVIDER>>\nکھلی گہوارہ ہلاتے ہوئے شاید ماں کو\nدلِ اصغر کے دھڑکنے کی صدا آتی ہے\nرات ہوتی ہے تو۔۔۔\n<<DIVIDER>>\nیوں تو برچھی علی اکبر کے کلیجے میں لگی\nقلب میں شِہ کے اُترنے کی صدا آتی ہے\nرات ہوتی ہے تو۔۔۔\n<<DIVIDER>>\nکان کے درد سے بچی کوئی جاگی ہو گی\nنیند سے چونک کے رونے کی صدا آتی ہے\nرات ہوتی ہے تو۔۔۔\n<<DIVIDER>>\nسو گئی قبر میں معصوم سہم کر لیکن\nشمر کے اب بھی گھُرکنے کی صدا آتی ہے\nرات ہوتی ہے تو۔۔۔\n<<DIVIDER>>\nاک بیمار پتہ پوچھتی نکلی گھر سے\nقافلہ شہر میں آنے کی صدا آتی ہے\nرات ہوتی ہے تو۔۔۔\n<<DIVIDER>>\nلاشے بے سر تیرے سینے سے لپٹ کر کس کی\nہچکیاں لے کے سسکنے کی صدا آتی ہے\nرات ہوتی ہے تو۔۔۔\n<<DIVIDER>>\nماں کی تُربت پہ اکیلی ہی گئی ہے زینب\nحالِ دربار سُنانے کی صدا آتی ہے\nرات ہوتی ہے تو۔۔۔\n<<DIVIDER>>\nشاہِ دیں جھوم کے گرتے ہیں زمیں پر شاہد\nآسماں توت کے گرنے کی صدا آتی ہے\nرات ہوتی ہے تو۔۔۔",
+  "styling": [
+    {
+      "insert": "رات ہوتی ہے تو رونے کی صدا آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی بی بی کے تڑپنے کی صدا آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھلی گہوارہ ہلاتے ہوئے شاید ماں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دلِ اصغر کے دھڑکنے کی صدا آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات ہوتی ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیوں تو برچھی علی اکبر کے کلیجے میں لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلب میں شِہ کے اُترنے کی صدا آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات ہوتی ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکان کے درد سے بچی کوئی جاگی ہو گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند سے چونک کے رونے کی صدا آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات ہوتی ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسو گئی قبر میں معصوم سہم کر لیکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر کے اب بھی گھُرکنے کی صدا آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات ہوتی ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک بیمار پتہ پوچھتی نکلی گھر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ شہر میں آنے کی صدا آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات ہوتی ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشے بے سر تیرے سینے سے لپٹ کر کس کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہچکیاں لے کے سسکنے کی صدا آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات ہوتی ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں کی تُربت پہ اکیلی ہی گئی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حالِ دربار سُنانے کی صدا آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات ہوتی ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاہِ دیں جھوم کے گرتے ہیں زمیں پر شاہد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آسماں توت کے گرنے کی صدا آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات ہوتی ہے تو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

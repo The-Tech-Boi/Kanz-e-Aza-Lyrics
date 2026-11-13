@@ -1,12 +1,585 @@
 {
   "remoteId": "g2611_u1088",
-  "title": "Chane lagi shame",
+  "title": "چھانے لگی شام",
   "body": "چھانے لگی شام غریباں\nہاے قیامت کا ہے سماں\nخیمہء سادات سے اٹھا دھواں\n<<DIVIDER>>\nڈھل گیا دن ختم لڑائی ہوئی\nموت کی خاموشی ہے چھای ہوی\nچاک گریبان خدای ہوی\nخاک بسر فاطمہ جای ہوی\nلرزی زمیں کانپ اٹھا آسماں\nہاے قیامت کا ہے سماں\n---چھانے لگی\n<<DIVIDER>>\nنور نظر راج دلارے گےء\nزینب دلگیر کے پیارے گےء\nشاہ کے انصار بھی مارے گئے\nآس تھی جن پر وہ سہارے گےء\nلوٹ لیا موت نے یہ کارواں\nہاے قیامت کا ہے سماں\n---چھانے لگی\n<<DIVIDER>>\nخوں میں ہے تر شیر جری کا الم\nہو گیا شبیر کا بھی سر قلم\nخوشیاں منانے لگی فوج ستم\nغم سے تباہ حال ہے أہل حرم\nلٹ گءیں کونین کی شہزادیاں\nہاے قیامت کا ہے سماں\n---چھانے لگی\n<<DIVIDER>>\nعون و محمد نہیں اکبر نہیں\nقاسم و عباس دلاور نہیں\nہاے کوی مونس و یاور نہیں\nخیمہ نہیں مقنہ و چادر نہیں\nدشت میں ہیں آل نبی بے عماں\nہاے قیامت کا ہے سماں\n---چھانے لگی\n<<DIVIDER>>\nمادر اکبر کا عجب حال ہے\nدیتا ہے جب کوئی تسلی اسے\nکہتی ہے دل تھام کے روتے ہوئے\nکھو گئے اس بن میں سہارے میرے\nمر گیا ہاے میرا کڑیل جواں\nہاے قیامت کا ہے سماں\n---چھانے لگی\n<<DIVIDER>>\nہاے یہ بے چارگی یہ بیکسی\nدیتا نہیں اسکو دلاسہ کوئی\nدرمیاں لاشوں کے اکیلے کھڑی\nکہتی ہے بچی کوی سہمی ہوئی\nڈھونڈنے جاؤں تمہیں بابا کہاں\nہاے قیامت کا ہے سماں\n---چھانے لگی\n<<DIVIDER>>\nماں ہوں ہر ایک رنج اٹھاونگی میں\nروتے ہوئے قد چلی آؤنگی میں\nڈھونڈ کے بے شیر کو لاؤں گی میں\nاسکے بنا جی نہیں پاؤنگی میں\nرہ گیا ہاے میرا بچہ کہاں\nہاے قیامت کا ہے سماں\n---چھانے لگی\n<<DIVIDER>>\nہے یہ گوہر عظمت بنت علی\nسب کو سنبھالا بھی حفاظت بھی کی\nغم میں شہ دیں کے بھی روتی رہی\nمامتا پہ آنچ بھی آنے نہ دی\nماں تو ہے بس عون و محمد کی ماں\nہاے قیامت کا ہے سماں\n---چھانے لگی",
+  "styling": [
+    {
+      "insert": "چھانے لگی شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قیامت کا ہے سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمہء سادات سے اٹھا دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈھل گیا دن ختم لڑائی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کی خاموشی ہے چھای ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاک گریبان خدای ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک بسر فاطمہ جای ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لرزی زمیں کانپ اٹھا آسماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قیامت کا ہے سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---چھانے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنور نظر راج دلارے گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب دلگیر کے پیارے گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ کے انصار بھی مارے گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آس تھی جن پر وہ سہارے گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ لیا موت نے یہ کارواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قیامت کا ہے سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---چھانے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوں میں ہے تر شیر جری کا الم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیا شبیر کا بھی سر قلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوشیاں منانے لگی فوج ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم سے تباہ حال ہے أہل حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ گءیں کونین کی شہزادیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قیامت کا ہے سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---چھانے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعون و محمد نہیں اکبر نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم و عباس دلاور نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے کوی مونس و یاور نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمہ نہیں مقنہ و چادر نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت میں ہیں آل نبی بے عماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قیامت کا ہے سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---چھانے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمادر اکبر کا عجب حال ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتا ہے جب کوئی تسلی اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی ہے دل تھام کے روتے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھو گئے اس بن میں سہارے میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیا ہاے میرا کڑیل جواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قیامت کا ہے سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---چھانے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے یہ بے چارگی یہ بیکسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتا نہیں اسکو دلاسہ کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درمیاں لاشوں کے اکیلے کھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی ہے بچی کوی سہمی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈنے جاؤں تمہیں بابا کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قیامت کا ہے سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---چھانے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں ہوں ہر ایک رنج اٹھاونگی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے ہوئے قد چلی آؤنگی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈ کے بے شیر کو لاؤں گی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسکے بنا جی نہیں پاؤنگی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ گیا ہاے میرا بچہ کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قیامت کا ہے سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---چھانے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے یہ گوہر عظمت بنت علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کو سنبھالا بھی حفاظت بھی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم میں شہ دیں کے بھی روتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مامتا پہ آنچ بھی آنے نہ دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں تو ہے بس عون و محمد کی ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے قیامت کا ہے سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---چھانے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Gohar Jarchvi",
   "anjumans": [],
   "verified": false

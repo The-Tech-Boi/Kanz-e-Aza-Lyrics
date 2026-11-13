@@ -1,7 +1,367 @@
 {
   "remoteId": "g2611_u1530",
-  "title": "Ho ali akbar kahan",
+  "title": "ہو علی اکبر کہاں",
   "body": "کہتی تھی رو کر یہ ماں سینے میں دل ہے تپاں\nایک ہے کڑیل جواں دوسرا ہے بے زباں\nدونوں سدھارے جناں دشت میں تنہا ہے ماں\nسونا ہے سارا جہاں اجڑا پڑا ہے مکاں\nآنکھوں سے خون ہے رواں\nہو علی اکبر کہاں\nہو علی اصغر کہاں\n<<DIVIDER>>\nکرتی ہوں کب سے بکا دیتے نہیں تم صدا\nکیوں ہوے مجھ سے خفا کیا ہویء مجھ سے خطا\nجس طرح چھوٹے ہو تم مجھ سے میں تم پر فدا\nاس طرح کوئی پسر ماں سے نہ ہوے جدا\nدشت میں تم میری جاں\n---ہو گےء کس جا نہاں\n<<DIVIDER>>\nمیری امیدیں گیء میرے سہارے گےء\nجن کو سمجھتی تھی جاں ہاےء وہ پیارے گےء\nپیاس سے تھے جاں بلب پیاسے ہی مارے گئے\nکرب و بلا میں وہ آج ظلم کے مارے گئے\nہاتھوں سے خوں ہے رواں تم کو میں پاؤں کہاں\n---ہو گےء کس جا نہاں\n<<DIVIDER>>\nمفت جوانی تیری رایگا اکبر ہویء\nخاک میں پوشیدہ آج صورت اصغر ہویء\nسر سے ردا چھن گئی قید بھی مادر ہویء\nرن میں نہ اب تک عماں مجھکو میسر ہویء\nتم ہو سدھارے جہاں مجھکو بلالو وہاں\n---ہو گےء کس جا نہاں\n<<DIVIDER>>\nخیمہ جلا گھر لٹا بعد شہ دو جہاں\nاب کوئی ممکن نہیں پوچھنے والا یہاں\nاے میرے روح رواں اے میرے تاب و تواں\nوادیء غربت میں آج چھٹ گیںء دونوں سے ماں\nاک کا گلا چھد گیا ایک نے کھایء سناں\n---ہو گےء کس جا نہاں\n<<DIVIDER>>\nبولی مسور یہ ماں غم کی گھٹا چھا گئی\nرن میں میرے شیر کو کس کی نظر کھا گئی\nہسلیوں والا جو تھا اس کو بھی موت آگئی\nگھر کو تو ویراں کیا کرب و بلا بھا گئی\nدل میں ہے اک کے سناں تیر نے لی ایک کی جاں\n---ہو گےء کس جا نہاں",
+  "styling": [
+    {
+      "insert": "کہتی تھی رو کر یہ ماں سینے میں دل ہے تپاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ہے کڑیل جواں دوسرا ہے بے زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دونوں سدھارے جناں دشت میں تنہا ہے ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سونا ہے سارا جہاں اجڑا پڑا ہے مکاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے خون ہے رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو علی اکبر کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو علی اصغر کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرتی ہوں کب سے بکا دیتے نہیں تم صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں ہوے مجھ سے خفا کیا ہویء مجھ سے خطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس طرح چھوٹے ہو تم مجھ سے میں تم پر فدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح کوئی پسر ماں سے نہ ہوے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت میں تم میری جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہو گےء کس جا نہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری امیدیں گیء میرے سہارے گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جن کو سمجھتی تھی جاں ہاےء وہ پیارے گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاس سے تھے جاں بلب پیاسے ہی مارے گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرب و بلا میں وہ آج ظلم کے مارے گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں سے خوں ہے رواں تم کو میں پاؤں کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہو گےء کس جا نہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمفت جوانی تیری رایگا اکبر ہویء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک میں پوشیدہ آج صورت اصغر ہویء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر سے ردا چھن گئی قید بھی مادر ہویء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رن میں نہ اب تک عماں مجھکو میسر ہویء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہو سدھارے جہاں مجھکو بلالو وہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہو گےء کس جا نہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمہ جلا گھر لٹا بعد شہ دو جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کوئی ممکن نہیں پوچھنے والا یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے روح رواں اے میرے تاب و تواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وادیء غربت میں آج چھٹ گیںء دونوں سے ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک کا گلا چھد گیا ایک نے کھایء سناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہو گےء کس جا نہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبولی مسور یہ ماں غم کی گھٹا چھا گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رن میں میرے شیر کو کس کی نظر کھا گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہسلیوں والا جو تھا اس کو بھی موت آگئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر کو تو ویراں کیا کرب و بلا بھا گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں ہے اک کے سناں تیر نے لی ایک کی جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہو گےء کس جا نہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

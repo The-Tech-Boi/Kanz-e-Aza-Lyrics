@@ -1,12 +1,454 @@
 {
   "remoteId": "g2611_u1965",
-  "title": "Kehti thi sakina ab",
+  "title": "کہتی تھی سکینہ اب",
   "body": "کہتی تھی سکینہ آ جائو بابا اب آ جائو\nلِللہ نہ اتنا تڑپائو\nکہتی تھی سکینہ۔۔۔\n<<DIVIDER>>\nاللہ یہ کیسا وقت پڑا\nکوئی بھی نہیں میری سُنتا\nہو جائوں گی میں تُم سے خفا\nدیکھو نہ مجھے یوں رُلوائو\nبابا اب آ جائو\nکہتی تھی سکینہ۔۔۔\n<<DIVIDER>>\nکس جُرم کی ہے آخر یہ سزا\nسُنتے ہی نہیں بیٹی کی صدا\nروٹھے ہیں چچا بھیا ہے خفا\nاب کس کو پُکاروں بتلائو\nبابا اب آ جائو\nکہتی تھی سکینہ۔۔۔\n<<DIVIDER>>\nنامُوسِ نبی کا پاس نہیں\nدر انہ چلے آ تے ہیں لعیں\nچھن جائے نہ چادر سر سے کہیں\nہے وقتِ مُصیبت جلد آئو\nبابا اب آ جائو\nکہتی تھی سکینہ۔۔۔\n<<DIVIDER>>\nجلتے ہیں خیام اُٹھتا ہے دُھواں\nہر سمت لگی ہے آگ یہاں\nاب جائوں تو میں جائوں کہاں\nاتنا تو مجھے بتلائو\nبابا اب آ جائو\nکہتی تھی سکینہ۔۔۔\n<<DIVIDER>>\nروتے روتے جھولے کے قریب\nڈر ہے کہ نہ دے دیں جان کہیں\nاماں کو بُلا لو پاس وہیں\nیا شکل اُنہیں دکھلا جائو\nبابا اب آ جائو\nکہتی تھی سکینہ۔۔۔\n<<DIVIDER>>\nکب سے رورو چلاتی ہوں\nآئو کہ تماچے کھاتی ہوں\nاچھا میں وہیں آ جاتی ہوں\nسوتے ہو کہاں پر بتلائو\nبابا اب آ جائو\nکہتی تھی سکینہ۔۔۔\n<<DIVIDER>>\nاکبر بھی نہیں اصغر بھی نہیں\nعموں بھی نہیں لشکر بھی نہیں\nاب تو سر پر چادر بھی نہیں\nآ جائو بابا آ جائو\nبابا اب آجائو\nکہتی تھی سکینہ۔۔۔",
+  "styling": [
+    {
+      "insert": "کہتی تھی سکینہ آ جائو بابا اب آ جائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لِللہ نہ اتنا تڑپائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللہ یہ کیسا وقت پڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی بھی نہیں میری سُنتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو جائوں گی میں تُم سے خفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو نہ مجھے یوں رُلوائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا اب آ جائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس جُرم کی ہے آخر یہ سزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُنتے ہی نہیں بیٹی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روٹھے ہیں چچا بھیا ہے خفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کس کو پُکاروں بتلائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا اب آ جائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنامُوسِ نبی کا پاس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در انہ چلے آ تے ہیں لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن جائے نہ چادر سر سے کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وقتِ مُصیبت جلد آئو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا اب آ جائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلتے ہیں خیام اُٹھتا ہے دُھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سمت لگی ہے آگ یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب جائوں تو میں جائوں کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا تو مجھے بتلائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا اب آ جائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتے روتے جھولے کے قریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈر ہے کہ نہ دے دیں جان کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں کو بُلا لو پاس وہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا شکل اُنہیں دکھلا جائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا اب آ جائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکب سے رورو چلاتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئو کہ تماچے کھاتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھا میں وہیں آ جاتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوتے ہو کہاں پر بتلائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا اب آ جائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر بھی نہیں اصغر بھی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عموں بھی نہیں لشکر بھی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو سر پر چادر بھی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ جائو بابا آ جائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا اب آجائو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "anjumans": [],
   "verified": false
 }

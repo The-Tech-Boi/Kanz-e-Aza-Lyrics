@@ -1,7 +1,228 @@
 {
   "remoteId": "g2611_u1155",
-  "title": "Dekhe to koi",
+  "title": "دیکھے تو کوئی",
   "body": "دیکھے تو کوئی رونق مقتل میں ذرا آکے\nشبیر کے آنے سے دن پھر گئے صحرا کے\n---دیکھے تو کوئی\n<<DIVIDER>>\nخیمے سے جنازے کی رخصت کا سا منظر ہے\nآئیں گے نہ پھر اکبر میدان میں اب جاکے\n---دیکھے تو کوئی\n<<DIVIDER>>\nپامال سومے اسپا ایسا نہ ہوا کوئی\nبکھرے ہوئے ٹکڑے ہیں ہر سمت میں دلہا کے\n---دیکھے تو کوئی\n<<DIVIDER>>\nاے عزم طلب غازی اب کوئی نہیں باقی\nعباس ذرا آنسوں رک جانے دو آپا کے\n---دیکھے تو کوئی\n<<DIVIDER>>\nاموں کے کبھی قصے بابا کی کبھی باتیں\nبچی کو سلاتی ہے زینب یہی بہلا کے\n---دیکھے تو کوئی\n<<DIVIDER>>\nزینب کی صدا سن کر خنجر تلے سجدے سے\nخیمے کی طرف دیکھا شبیر نے گھبراکے\n---دیکھے تو کوئی\n<<DIVIDER>>\nشہید یہ عزا خانے ویران نہیں ہوں گے\nتا حشر بھی گر دشمن مارے ہمیں آ آکے\n---دیکھے تو کوئی",
+  "styling": [
+    {
+      "insert": "دیکھے تو کوئی رونق مقتل میں ذرا آکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کے آنے سے دن پھر گئے صحرا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---دیکھے تو کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے سے جنازے کی رخصت کا سا منظر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئیں گے نہ پھر اکبر میدان میں اب جاکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---دیکھے تو کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپامال سومے اسپا ایسا نہ ہوا کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بکھرے ہوئے ٹکڑے ہیں ہر سمت میں دلہا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---دیکھے تو کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے عزم طلب غازی اب کوئی نہیں باقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس ذرا آنسوں رک جانے دو آپا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---دیکھے تو کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاموں کے کبھی قصے بابا کی کبھی باتیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچی کو سلاتی ہے زینب یہی بہلا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---دیکھے تو کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کی صدا سن کر خنجر تلے سجدے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے کی طرف دیکھا شبیر نے گھبراکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---دیکھے تو کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہید یہ عزا خانے ویران نہیں ہوں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تا حشر بھی گر دشمن مارے ہمیں آ آکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---دیکھے تو کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

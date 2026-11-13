@@ -1,12 +1,459 @@
 {
   "remoteId": "g2611_u1613",
-  "title": "Hussain maqtal mein",
+  "title": "حسین مقتل میں",
   "body": "حسین مقتل میں چھپ کھڑے ہے\n<<DIVIDER>>\nلہو لہو ہے لباس سارا میرے خدایا\nحسین مقتل میں چھپ کھڑے ہے\n<<DIVIDER>>\nعجیب منظر ہے کربلا کا\nزمیں پہ بکھرے پڑے ہے لاشے\nیہاں ہے سادات پہ مصیبت\nوہاں لعیں پیٹتے ہے تاشے\nاداسیاں پڑھ رہی ہے نوحہ میرے خدایا\nحسین مقتل میں۔۔۔\n<<DIVIDER>>\nغریب زہرا کے رخ پہ اصغر\nکا خون نہ حق لگا ہوا ہے\nعبا کا دامن جواں اکبر\nکہ خوں سے غلطاں ہو چکا ہے\nنظر جمی ہے سوے سکینہ میرے خدایا\nحسین مقتل میں۔۔۔\n<<DIVIDER>>\nحسین مل مل کے اپنی آنکھیں\nزمین پر دیکھے جا رہے ہے\nہر ایک گھٹڑی جو خوں میں تر ہے\nاسی پہ آنسوں بہا رہے ہیں\nیہ گھٹڑی قاسم کا ہے سراپا میرے خدایا\nحسین مقتل میں۔۔۔\n<<DIVIDER>>\nبہن کے بچے جوان بھای\nجواں بھتیجا گزر چکا ہے\nنہ اب ہے انصار کوئی باقی\nحبیب بھی اب تو مر چکا ہے\nکہ گھر کا گھر لٹ گیا ہے سارا میرے خدایا\nحسین مقتل میں۔۔۔\n<<DIVIDER>>\nہے مرتجس ساتھ ساتھ شہ کے\nامام کے گرد گھومتا ہے\nکبھی پکڑتا ہے شہ کا دامن\nکبھی وہ قدموں کو چومتا ہے\nہے شہ کا گھوڑا بھی محو گریہ میرے خدایا\nحسین مقتل میں۔۔۔\n<<DIVIDER>>\nحسین مڑ مڑ کے دیکھتے ہے\nخیال زینب کا آ رہا ہے\nکہ آنے والی ہے شام غربت\nجبھی تو دل ڈوبا جا رہا ہے\nبچے گا کیسے حرم کا پردہ میرے خدایا\nحسین مقتل میں۔۔۔\n<<DIVIDER>>\nہمیں ہے یاسر رضا یہ ڈھارس\nکہ مطمئن ہے امام مہدی\nیزیدیوں سے خدا کے لینگے\nحسین کا انتقام مہدی\nوہ سوچ کر کر رہے ہیں گریہ میرے خدایا\nحسین مقتل میں۔۔۔",
+  "styling": [
+    {
+      "insert": "حسین مقتل میں چھپ کھڑے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلہو لہو ہے لباس سارا میرے خدایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین مقتل میں چھپ کھڑے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعجیب منظر ہے کربلا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں پہ بکھرے پڑے ہے لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہاں ہے سادات پہ مصیبت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہاں لعیں پیٹتے ہے تاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اداسیاں پڑھ رہی ہے نوحہ میرے خدایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغریب زہرا کے رخ پہ اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کا خون نہ حق لگا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عبا کا دامن جواں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ خوں سے غلطاں ہو چکا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نظر جمی ہے سوے سکینہ میرے خدایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین مل مل کے اپنی آنکھیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین پر دیکھے جا رہے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک گھٹڑی جو خوں میں تر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی پہ آنسوں بہا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ گھٹڑی قاسم کا ہے سراپا میرے خدایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہن کے بچے جوان بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جواں بھتیجا گزر چکا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ اب ہے انصار کوئی باقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حبیب بھی اب تو مر چکا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ گھر کا گھر لٹ گیا ہے سارا میرے خدایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے مرتجس ساتھ ساتھ شہ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امام کے گرد گھومتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی پکڑتا ہے شہ کا دامن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی وہ قدموں کو چومتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے شہ کا گھوڑا بھی محو گریہ میرے خدایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین مڑ مڑ کے دیکھتے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیال زینب کا آ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ آنے والی ہے شام غربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جبھی تو دل ڈوبا جا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچے گا کیسے حرم کا پردہ میرے خدایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہمیں ہے یاسر رضا یہ ڈھارس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ مطمئن ہے امام مہدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یزیدیوں سے خدا کے لینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کا انتقام مہدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ سوچ کر کر رہے ہیں گریہ میرے خدایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین مقتل میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Yasir Raza",
   "anjumans": [],
   "verified": false

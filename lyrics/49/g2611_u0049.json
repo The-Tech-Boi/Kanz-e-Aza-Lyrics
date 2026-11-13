@@ -1,12 +1,515 @@
 {
   "remoteId": "g2611_u0049",
-  "title": "Aaj hai chehlum",
+  "title": "آج ہے چہلم",
   "body": "آج ہے چہلم پیاسوں کا\n<<DIVIDER>>\nکل تھا بھرا گھر اور خیمے\nآج وہاں ہیں سناٹے\nآی ہے زینب کربوبلا\n---آج ہے چہلم\n<<DIVIDER>>\nیاد آے عباس جری\nتڑپیں روی بنت علی\nکیسی حفاظت کیا پہرہ\n---آج ہے چہلم\n<<DIVIDER>>\nدھوپ میں لاشہ اکبر کا\nپیٹ رہی تھی سر لیلیٰ\nرہ گیء ہاے میں تنہا\n---آج ہے چہلم\n<<DIVIDER>>\nدلبر فروہ ابنِ حسن\nجس کا ہوا پامال بدن\nغربت کبرا واویلا\n---آج ہے چہلم\n<<DIVIDER>>\nشیش ماہ پیاسہ اصغر\nننھا گلا تیر اور خنجر\nماں کی نظر خالی جھولا\n---آج ہے چہلم\n<<DIVIDER>>\nماںیں تڑپتی ہیں بے چین\nکرتی ہیں رورو کر یہ بین\nرہ گےء ہاے ہم زندہ\n---آج ہے چہلم\n<<DIVIDER>>\nگود کے پالے کل تھے جہاں\nاب ہیں وہاں قبروں کے نشاں\nہر ماں کرتی ہے نوحہ\n---آج ہے چہلم\n<<DIVIDER>>\nبچوں کا غم بھول گیء\nبھائی کے غم میں بنت علی\nکرتی تھیں پیہم آہ و بکا\n---آج ہے چہلم\n<<DIVIDER>>\nکرتی تھی زینب روکے یہ بین\nاٹھو میرے مانجاے حسین\nاب لو سکینہ کا پرسہ\n---آج ہے چہلم\n<<DIVIDER>>\nدھوم سے ہوگا یہ ماتم\nواقف ہیں اس بات سے ہم\nارماں ہے یہ زینب کا\n---آج ہے چہلم\n<<DIVIDER>>\nغم خواروں ماتم داروں\nیونہی ماتم کرتے رہو\nزینب دیگی تم کو دعا\n---آج ہے چہلم\n<<DIVIDER>>\nکیجیے رشید اب دل سے دعا\nپہنچیں ہم سب کربوبلا\nپیش کریں واں یہ نوحہ\n---آج ہے چہلم",
+  "styling": [
+    {
+      "insert": "آج ہے چہلم پیاسوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکل تھا بھرا گھر اور خیمے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج وہاں ہیں سناٹے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی ہے زینب کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے چہلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد آے عباس جری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپیں روی بنت علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی حفاظت کیا پہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے چہلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدھوپ میں لاشہ اکبر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیٹ رہی تھی سر لیلیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ گیء ہاے میں تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے چہلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدلبر فروہ ابنِ حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کا ہوا پامال بدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غربت کبرا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے چہلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشیش ماہ پیاسہ اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھا گلا تیر اور خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں کی نظر خالی جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے چہلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماںیں تڑپتی ہیں بے چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی ہیں رورو کر یہ بین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ گےء ہاے ہم زندہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے چہلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگود کے پالے کل تھے جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ہیں وہاں قبروں کے نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ماں کرتی ہے نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے چہلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچوں کا غم بھول گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی کے غم میں بنت علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھیں پیہم آہ و بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے چہلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرتی تھی زینب روکے یہ بین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو میرے مانجاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب لو سکینہ کا پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے چہلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدھوم سے ہوگا یہ ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واقف ہیں اس بات سے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ارماں ہے یہ زینب کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے چہلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم خواروں ماتم داروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یونہی ماتم کرتے رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب دیگی تم کو دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے چہلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیجیے رشید اب دل سے دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہنچیں ہم سب کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیش کریں واں یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---آج ہے چہلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Arbayeen",
+  "subcategory": "اربعین",
   "author": "Rasheed Shaheedi",
   "anjumans": [],
   "verified": false

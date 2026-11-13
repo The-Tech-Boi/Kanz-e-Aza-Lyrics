@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u1439",
-  "title": "Haye abbas",
+  "title": "ہاے عباس",
   "body": "ومن تہرل لی یا علی قدمنا\nہاے عباس ہاے عباس\n<<DIVIDER>>\nآپ کے بعد نہ ہم راتوں کو سوےء بھیا\nکم ہویء آنکھوں کی بینائی جو روےء بھیا\n...ومن تہرل\n...ہاے عباس\n<<DIVIDER>>\nکتنا عباس تھا رعب و جلال اعدا پر\nراتوں کو سو نہیں سکتا تھا یزیدی لشکر\n...ومن تہرل\n...ہاے عباس\n<<DIVIDER>>\nچین سے سوتے تھے جو لوگ وہ ہیں اب بیدار\nختم سب ہوگےء انصار و عزیز اور غم خوار\n...ومن تہرل\n...ہاے عباس\n<<DIVIDER>>\nکوئی سیدانی نہیں سوتی تھی ایسا تھا حراس\nہوتا تھا ظلم جو بچوں پر تو کہتے عباس\n...ومن تہرل\n...ہاے عباس\n<<DIVIDER>>\nتم تو دریا پہ پڑے سوتے ہو اے شیر جری\nرات دن رہتے ہیں یہاں نالہ و شیون میں سبھی\n...ومن تہرل\n...ہاے عباس\n<<DIVIDER>>\nپھر نہ سویء کبھی سیدانیاں غم کی ماری\nہاے مقتل میں ہوئی اس طرح شب بیداری\n...ومن تہرل\n...ہاے عباس\n<<DIVIDER>>\nمر گیء قید میں رو رو کے سکینہ پر غم\nکرتی رہتی تھی شب و روز بکا اور ماتم\n...ومن تہرل\n...ہاے عباس\n<<DIVIDER>>\nپڑ گئی جبکہ مدینے پہ انیس انکی نظر\nمرثیہ پڑتی تھیں کلثوم یہی رو رو کر\n...ومن تہرل\n...ہاے عباس",
+  "styling": [
+    {
+      "insert": "ومن تہرل لی یا علی قدمنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے عباس ہاے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کے بعد نہ ہم راتوں کو سوےء بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کم ہویء آنکھوں کی بینائی جو روےء بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ومن تہرل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنا عباس تھا رعب و جلال اعدا پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راتوں کو سو نہیں سکتا تھا یزیدی لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ومن تہرل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچین سے سوتے تھے جو لوگ وہ ہیں اب بیدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ختم سب ہوگےء انصار و عزیز اور غم خوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ومن تہرل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی سیدانی نہیں سوتی تھی ایسا تھا حراس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتا تھا ظلم جو بچوں پر تو کہتے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ومن تہرل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم تو دریا پہ پڑے سوتے ہو اے شیر جری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات دن رہتے ہیں یہاں نالہ و شیون میں سبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ومن تہرل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر نہ سویء کبھی سیدانیاں غم کی ماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مقتل میں ہوئی اس طرح شب بیداری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ومن تہرل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمر گیء قید میں رو رو کے سکینہ پر غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی رہتی تھی شب و روز بکا اور ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ومن تہرل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپڑ گئی جبکہ مدینے پہ انیس انکی نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرثیہ پڑتی تھیں کلثوم یہی رو رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ومن تہرل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...ہاے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Anees Pehersari",
   "anjumans": [],
   "verified": false

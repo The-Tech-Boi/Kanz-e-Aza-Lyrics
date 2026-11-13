@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u3564",
-  "title": "Zainab pa yateemi",
+  "title": "زینب پہ یتیمی",
   "body": "زینب پہ یتیمی کی گھڑی آ گیء بابا\nبن باپ کی کہلاتی ہے بیٹی تیری بابا\n<<DIVIDER>>\nاماں نہیں نانا نہیں اور تم بھی سدھارے\nکس موڑ پہ لے آی ہمیں زندگی بابا\nزینب پہ یتیمی کی۔۔۔\n<<DIVIDER>>\nکتنے ہی یتیموں کو دیا تم نے دلاسہ\nاب ہم کو دلاسہ نہیں دیتا کوی بابا\nزینب پہ یتیمی کی۔۔۔\n<<DIVIDER>>\nاب کون ہمیں پیار سے پاس اپنے بٹھاے\nیاد آتی ہے شفقت یہ ہمیں آپ کی بابا\nزینب پہ یتیمی کی۔۔۔\n<<DIVIDER>>\nہر آن تیری یاد میں روتے ہیں برادر\nزینب انہیں کس طرح سے سمجھاے گی بابا\nزینب پہ یتیمی کی۔۔۔\n<<DIVIDER>>\nزخمی ہوا سر آپ کا اللہ کے گھر میں\nراس آپ کو آی نہ فضا کوفے کی بابا\nزینب پہ یتیمی کی۔۔۔\n<<DIVIDER>>\nایک آپ کے دم سے میرے جینے کا مزہ تھا\nاب مجھے زمانے نے خوشی چھین لی بابا\nزینب پہ یتیمی کی۔۔۔\n<<DIVIDER>>\nزینب یہی کہتی تھی رشید اشک بہا کر\nاب ہو گیء ویران فضا کوفے کی بابا\nزینب پہ یتیمی کی۔۔۔",
+  "styling": [
+    {
+      "insert": "زینب پہ یتیمی کی گھڑی آ گیء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن باپ کی کہلاتی ہے بیٹی تیری بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں نہیں نانا نہیں اور تم بھی سدھارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس موڑ پہ لے آی ہمیں زندگی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پہ یتیمی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنے ہی یتیموں کو دیا تم نے دلاسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ہم کو دلاسہ نہیں دیتا کوی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پہ یتیمی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب کون ہمیں پیار سے پاس اپنے بٹھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آتی ہے شفقت یہ ہمیں آپ کی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پہ یتیمی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر آن تیری یاد میں روتے ہیں برادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب انہیں کس طرح سے سمجھاے گی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پہ یتیمی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخمی ہوا سر آپ کا اللہ کے گھر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راس آپ کو آی نہ فضا کوفے کی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پہ یتیمی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک آپ کے دم سے میرے جینے کا مزہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب مجھے زمانے نے خوشی چھین لی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پہ یتیمی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب یہی کہتی تھی رشید اشک بہا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ہو گیء ویران فضا کوفے کی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پہ یتیمی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Rasheed Shaheedi",
   "anjumans": [],
   "verified": false

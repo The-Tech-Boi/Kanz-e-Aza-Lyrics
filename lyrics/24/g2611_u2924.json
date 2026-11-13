@@ -1,12 +1,464 @@
 {
   "remoteId": "g2611_u2924",
-  "title": "Salam ghazi",
+  "title": "سلام غازی",
   "body": "با وفا یا عباس\nباوفا غازی میرے\nبا وفا یا عباس\n<<DIVIDER>>\nسلام غازی سلام غازی\nوفا کا تو ہے امام غازی\n<<DIVIDER>>\nجگہ جگہ ہے علم گواہی\nدلوں پہ تیری ہے بادشاہی\nلبوں پہ تیرا ہی نام غازی\nوفا کا تو ہے امام غازی\nسلام غازی۔۔۔\n<<DIVIDER>>\nتیرے علم کا ہے ہم پہ سایہ\nعلم پہ سایہ ہے پنجتن کا\nبلند تیرا مقام غازی\nوفا کا تو ہے امام غازی\nسلام غازی۔۔۔\n<<DIVIDER>>\nعلم کا جب سے ہوا ہے سایہ\nزمین کربوبلا پہ مولا\nتیرا ہے چلتا نظام غازی\nوفا کا تو ہے امام غازی\nسلام غازی۔۔۔\n<<DIVIDER>>\nتو باوفا ہے تو لافتی ہے\nبے آسروں کا تو آسرا ہے\nجہاں میں چرچہ ہے عام غازی\nوفا کا تو ہے امام غازی\nسلام غازی۔۔۔\n<<DIVIDER>>\nحسین مولا سے پیار کرنا\nحسین پر جاں نثار کرنا\nیہی ہے تیرا پیام غازی\nوفا کا تو ہے امام غازی\nسلام غازی۔۔۔\n<<DIVIDER>>\nجو تیرے بازو قلم نہ ہوتے\nاسیر أہل حرم نہ ہوتے\nنہ جاتی زینب یوں شام غازی\nوفا کا تو ہے امام غازی\nسلام غازی۔۔۔\n<<DIVIDER>>\nغلام شرمندہ ہے یہ مولا\nنہ لاشہ خیموں میں لے کے جانا\nتھا لب پہ تیرے کلام غازی\nوفا کا تو ہے امام غازی\nسلام غازی۔۔۔\n<<DIVIDER>>\nجواد و سرور جب آے سرور\nبریدہ بازو تھا ابنِ حیدر\nتو کیسے کرتا سلام غازی\nوفا کا تو ہے امام غازی\nسلام غازی۔۔۔",
+  "styling": [
+    {
+      "insert": "با وفا یا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باوفا غازی میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "با وفا یا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلام غازی سلام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفا کا تو ہے امام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجگہ جگہ ہے علم گواہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دلوں پہ تیری ہے بادشاہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لبوں پہ تیرا ہی نام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفا کا تو ہے امام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے علم کا ہے ہم پہ سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علم پہ سایہ ہے پنجتن کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلند تیرا مقام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفا کا تو ہے امام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلم کا جب سے ہوا ہے سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین کربوبلا پہ مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا ہے چلتا نظام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفا کا تو ہے امام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو باوفا ہے تو لافتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے آسروں کا تو آسرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جہاں میں چرچہ ہے عام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفا کا تو ہے امام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین مولا سے پیار کرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین پر جاں نثار کرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی ہے تیرا پیام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفا کا تو ہے امام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو تیرے بازو قلم نہ ہوتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسیر أہل حرم نہ ہوتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جاتی زینب یوں شام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفا کا تو ہے امام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغلام شرمندہ ہے یہ مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ لاشہ خیموں میں لے کے جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا لب پہ تیرے کلام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفا کا تو ہے امام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجواد و سرور جب آے سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بریدہ بازو تھا ابنِ حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو کیسے کرتا سلام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وفا کا تو ہے امام غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام غازی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "N. Sarwar & J. Jaffri",
   "anjumans": [],
   "verified": false

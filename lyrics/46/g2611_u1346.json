@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u1346",
-  "title": "Ghazi e bawafa",
+  "title": "غازیِ باوفا",
   "body": "غازیِ باوفا چھن رہی ہے ردا\nنہر سے لوٹ آ چھن رہی ہے ردا\n<<DIVIDER>>\nمال و اسباب سب لوٹتے ہیں لعیں\nجلتے خیام میں گھس رہے ہیں لعیں\nحشر ہے اِک بپا چھن رہی ہے ردا\nغازیِ باوفا۔۔۔\n<<DIVIDER>>\nجاں سے سیدانیاں اب گزر جائیں گی\nموت سے پہلے ہی ساری مر جائیں گی\nہے یہ وقتِ قضا چھن رہی ہے ردا\nغازیِ باوفا۔۔۔\n<<DIVIDER>>\nاِس سے پہلے کے سر رن میں ہو بے ردا\nساری سیدانیاں کر رہی ہیں دعا\nموت دے اے خدا چھن رہی ہے ردا\nغازیِ باوفا۔۔۔\n<<DIVIDER>>\nتیرے بازو کٹے صبر میں نے کیا\nسب سہارے چھنے صبر میں نے کیا\nاب نہیں حوصلہ چھن رہی ہے ردا\nغازیِ باوفا۔۔۔\n<<DIVIDER>>\nہر طرف اب یہاں آگ ہی آگ ہے\nجائوں آخر کہاں آگ ہی آگ ہے\nظلم اِس پر سوا چھن رہی ہے ردا\nغازیِ باوفا۔۔۔\n<<DIVIDER>>\nبے ردائی کا غم بھائی کیسے سہوں\nتو ہی آ کر بتا میں صدا کس کو دوں\nسن بہن کی بکا چھن رہی ہے ردا\nغازیِ باوفا۔۔۔\n<<DIVIDER>>\nمجھ سے کہتے تھے یہ میرے بابا علی\nہو گی تو بے ردا اے مری لاڈلی\nوقت وہ آگیا چھن رہی ہے ردا\nغازیِ باوفا۔۔۔\n<<DIVIDER>>\nمیں تیری آس پر آئی تھی کربلا\nتیرے ہوتے ہوئے کیوں چھنے گی ردا\nقتل تو ہو گیا چھن رہی ہے ردا\nغازیِ باوفا۔۔۔\n<<DIVIDER>>\nنور ہر لاش سے خوں ابلنے لگا\nلاشہِ باوفا بھی تڑپنے لگا\nجب یہ گونجی صدا چھن رہی ہے ردا\nغازیِ باوفا۔۔۔",
+  "styling": [
+    {
+      "insert": "غازیِ باوفا چھن رہی ہے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہر سے لوٹ آ چھن رہی ہے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمال و اسباب سب لوٹتے ہیں لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے خیام میں گھس رہے ہیں لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حشر ہے اِک بپا چھن رہی ہے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازیِ باوفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاں سے سیدانیاں اب گزر جائیں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت سے پہلے ہی ساری مر جائیں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یہ وقتِ قضا چھن رہی ہے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازیِ باوفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاِس سے پہلے کے سر رن میں ہو بے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساری سیدانیاں کر رہی ہیں دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت دے اے خدا چھن رہی ہے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازیِ باوفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے بازو کٹے صبر میں نے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب سہارے چھنے صبر میں نے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہیں حوصلہ چھن رہی ہے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازیِ باوفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر طرف اب یہاں آگ ہی آگ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جائوں آخر کہاں آگ ہی آگ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم اِس پر سوا چھن رہی ہے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازیِ باوفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے ردائی کا غم بھائی کیسے سہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو ہی آ کر بتا میں صدا کس کو دوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن بہن کی بکا چھن رہی ہے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازیِ باوفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ سے کہتے تھے یہ میرے بابا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گی تو بے ردا اے مری لاڈلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقت وہ آگیا چھن رہی ہے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازیِ باوفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں تیری آس پر آئی تھی کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے ہوتے ہوئے کیوں چھنے گی ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل تو ہو گیا چھن رہی ہے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازیِ باوفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنور ہر لاش سے خوں ابلنے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہِ باوفا بھی تڑپنے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب یہ گونجی صدا چھن رہی ہے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازیِ باوفا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Noor Ali",
   "anjumans": [],
   "verified": false

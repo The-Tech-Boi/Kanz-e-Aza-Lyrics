@@ -1,12 +1,382 @@
 {
   "remoteId": "g2611_u0877",
-  "title": "Bain thay ye bano ke",
+  "title": "بین تھے یہ بانو کے",
   "body": "بین تھے یہ بانو کے میرے بے زباں اصغر\nشام ہو گیء بیٹا تم گےء کہاں اصغر\n<<DIVIDER>>\nبیکسی میں کیا میری آس ٹوٹ جائے گی\nاب تمہارے جھولے میں کس کو ماں جھلاے گی\nدشت کے اندھیرے میں کیسے نیند آے گی\nگھٹ رہی ہے سینے میں کب سے لوریاں اصغر\nبین تھے یہ بانو کے۔۔۔\n<<DIVIDER>>\nدیکھنے کو زندہ تھی ماں وہ کرب کا منظر\nکیا ستم ہوا بیٹا آہ تیری گردن پر\nتیر ظلم کیا کم تھا ہاے پھر چلا خنجر\nگر پڑا نہ دھرتی پر کیوں یہ آسماں اصغر\nبین تھے یہ بانو کے۔۔۔\n<<DIVIDER>>\nتیرے جسم نازک پر پیاس کا اثر دیکھا\nتیرا چاند سا چہرہ خوں میں تر بہ تر دیکھا\nمیں نے نوکِ نیزہ پر ہاے تیرا سر دیکھا\nمر گیء نہ کیوں تیری بد نصیب ماں اصغر\nبین تھے یہ بانو کے۔۔۔\n<<DIVIDER>>\nکیا بیاں کروں بیٹا میرے قلب کی حالت\nپھر رہی ہے آنکھوں میں تیری چاند سی صورت\nکر سکی نہ جی بھر کے ہاے ماں تیری خدمت\nشرم سار ہے تجھ سے آج تیری ماں اصغر\nبین تھے یہ بانو کے۔۔۔\n<<DIVIDER>>\nشاہ دیں نے دفنایا تیری لاش کو بیٹا\nأہل ظلم کو لیکن یہ بھی کب گوارا تھا\nقبر سے نکالا تھا تیرا خوں بھرا لاشہ\nپھول سا وہ سر تیرا اور وہ سناں اصغر\nبین تھے یہ بانو کے۔۔۔\n<<DIVIDER>>\nرہ گیا ہے نظروں میں تیری پیاس کا منظر\nایک بوندھ بھی پانی میں نہ دے سکی دلبر\nماں نثار ہو جاتی تیرے خشک ہونٹوں پر\nشدت عطش سے وہ تیری ہچکیاں اصغر\nبین تھے یہ بانو کے۔۔۔\n<<DIVIDER>>\nکیوں رہے نہ محشر تک دل فگار بانو کا\nہاں یہ ماتم اصغر ہے قرار بانو کا\nکیا بیاں کرے احساں حال زار بانو کا\nعمر بھر لبوں پر تھا ہاے میری جاں اصغر\nبین تھے یہ بانو کے۔۔۔",
+  "styling": [
+    {
+      "insert": "بین تھے یہ بانو کے میرے بے زباں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہو گیء بیٹا تم گےء کہاں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیکسی میں کیا میری آس ٹوٹ جائے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تمہارے جھولے میں کس کو ماں جھلاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت کے اندھیرے میں کیسے نیند آے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹ رہی ہے سینے میں کب سے لوریاں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین تھے یہ بانو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھنے کو زندہ تھی ماں وہ کرب کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ستم ہوا بیٹا آہ تیری گردن پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیر ظلم کیا کم تھا ہاے پھر چلا خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر پڑا نہ دھرتی پر کیوں یہ آسماں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین تھے یہ بانو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے جسم نازک پر پیاس کا اثر دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا چاند سا چہرہ خوں میں تر بہ تر دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے نوکِ نیزہ پر ہاے تیرا سر دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیء نہ کیوں تیری بد نصیب ماں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین تھے یہ بانو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا بیاں کروں بیٹا میرے قلب کی حالت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر رہی ہے آنکھوں میں تیری چاند سی صورت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر سکی نہ جی بھر کے ہاے ماں تیری خدمت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شرم سار ہے تجھ سے آج تیری ماں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین تھے یہ بانو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاہ دیں نے دفنایا تیری لاش کو بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "أہل ظلم کو لیکن یہ بھی کب گوارا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر سے نکالا تھا تیرا خوں بھرا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھول سا وہ سر تیرا اور وہ سناں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین تھے یہ بانو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرہ گیا ہے نظروں میں تیری پیاس کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بوندھ بھی پانی میں نہ دے سکی دلبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں نثار ہو جاتی تیرے خشک ہونٹوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شدت عطش سے وہ تیری ہچکیاں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین تھے یہ بانو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں رہے نہ محشر تک دل فگار بانو کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ ماتم اصغر ہے قرار بانو کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بیاں کرے احساں حال زار بانو کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمر بھر لبوں پر تھا ہاے میری جاں اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین تھے یہ بانو کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Hasan Abbas Ahsan",
   "anjumans": [],
   "verified": false

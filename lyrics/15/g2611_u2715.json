@@ -1,12 +1,311 @@
 {
   "remoteId": "g2611_u2715",
-  "title": "Qayamat hogayi baba",
+  "title": "قیامت ہو گیء بابا",
   "body": "سکینہ بین کرتی تھی سر سرور سے یہ رو کر\nنہیں اب آس جینے کی ہوے اتنے ستم ہم پر\n<<DIVIDER>>\nجب آیا شام کے زنداں میں فرق شہ والا\nسکینہ کے لبوں پر تھا یہی بس آخری نوحہ\nقیامت ہو گیء بابا قیامت ہو گیء بابا\n<<DIVIDER>>\nعزاداروں یہ نوحہ ہے سنو معصوم بچی کا\nقیامت ہو گیء بابا قیامت ہو گیء بابا\n<<DIVIDER>>\nسنو بابا میرے بابا ہوے ہم پر ستم کیا کیا\nہوی مقتل میں جب شام غریباں بعد عاشورہ\nقیامت ہو گیء بابا۔۔۔\n<<DIVIDER>>\nیتیمی بیکسی غربت اسیری تھی نگاہوں میں\nبیان منظر وہ کیسے ہو لگی جب آگ خیموں میں\nقیامت ہو گیء بابا۔۔۔\n<<DIVIDER>>\nہوے رخسار نیلے چھن گےء گوہر جلا کرتہ\nنہ تھے جب اکبر و قاسم نہ تھا جس دم چچا میرا\nقیامت ہو گیء بابا۔۔۔\n<<DIVIDER>>\nلہو روتی تھی آنکھیں دیکھ کر منظر یہ شام غم\nپنہای عابد بیمار کو طوق گرم جس دم\nقیامت ہو گیء بابا۔۔۔\n<<DIVIDER>>\nاسیری پر ہماری خود اسیری کرتی تھی ماتم\nرسن بستہ برہنہ سر گےء بازار میں جس دم\nقیامت ہو گیء بابا۔۔۔\n<<DIVIDER>>\nمیرے بابا سنو بابا حرم میں تھا بپا محشر\nگےء جب شام کے دربار میں بے مقنہ و چادر\nقیامت ہو گیء بابا۔۔۔\n<<DIVIDER>>\nسکینہ روتے روتے ہو گیء خاموش جب آخر\nفرید اس دم کہا یہ عابد بیمار نے رو کر\nقیامت ہو گیء بابا۔۔۔",
+  "styling": [
+    {
+      "insert": "سکینہ بین کرتی تھی سر سرور سے یہ رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہیں اب آس جینے کی ہوے اتنے ستم ہم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب آیا شام کے زنداں میں فرق شہ والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کے لبوں پر تھا یہی بس آخری نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہو گیء بابا قیامت ہو گیء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعزاداروں یہ نوحہ ہے سنو معصوم بچی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہو گیء بابا قیامت ہو گیء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنو بابا میرے بابا ہوے ہم پر ستم کیا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوی مقتل میں جب شام غریباں بعد عاشورہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہو گیء بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیتیمی بیکسی غربت اسیری تھی نگاہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیان منظر وہ کیسے ہو لگی جب آگ خیموں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہو گیء بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوے رخسار نیلے چھن گےء گوہر جلا کرتہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ تھے جب اکبر و قاسم نہ تھا جس دم چچا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہو گیء بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلہو روتی تھی آنکھیں دیکھ کر منظر یہ شام غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پنہای عابد بیمار کو طوق گرم جس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہو گیء بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسیری پر ہماری خود اسیری کرتی تھی ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسن بستہ برہنہ سر گےء بازار میں جس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہو گیء بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے بابا سنو بابا حرم میں تھا بپا محشر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گےء جب شام کے دربار میں بے مقنہ و چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہو گیء بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسکینہ روتے روتے ہو گیء خاموش جب آخر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرید اس دم کہا یہ عابد بیمار نے رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہو گیء بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Fareed Baig",
   "anjumans": [],
   "verified": false

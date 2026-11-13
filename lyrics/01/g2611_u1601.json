@@ -1,12 +1,238 @@
 {
   "remoteId": "g2611_u1601",
-  "title": "Hussain ka dame",
+  "title": "حسین کا دم",
   "body": "ہاے حسین ہاے غریب\n<<DIVIDER>>\nحسین کا دم رخصت یہ تھا سخن زینب\nچلا میں رن کو خدا حافظ اے بہن زینب\n<<DIVIDER>>\nہے اب تمہارے حوالے تمام اہلِ حرم\nیہ ہونگے بعد میرے قیدیء محن زینب\nحسین کا دم رخصت۔۔۔\n<<DIVIDER>>\nچلے گا اب میری گردن پہ شمر کا خنجر\nرہے گی لاش میری رن میں بیکفن زینب\nحسین کا دم رخصت۔۔۔\n<<DIVIDER>>\nبہت رلایینگے میری سکینہ کو\nگلے میں اس کے باندھی جائے گی رسن زینب\nحسین کا دم رخصت۔۔۔\n<<DIVIDER>>\nتڑپ تڑپ کے گزر جائے گی وہ زنداں میں\nکفن بنے گا سکینہ کا پیرہن زینب\nحسین کا دم رخصت۔۔۔\n<<DIVIDER>>\nلحد میں بھی نہ سکون پاے گا میرا اصغر\nرہے گا نیزے پہ سر خاک پر بدن زینب\nحسین کا دم رخصت۔۔۔\n<<DIVIDER>>\nعقیل خیموں میں ایک حشر تھا بپا اس دم\nکہا جو شہ نے خدا حافظ اے بہن زینب\nحسین کا دم رخصت۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے حسین ہاے غریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین کا دم رخصت یہ تھا سخن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلا میں رن کو خدا حافظ اے بہن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے اب تمہارے حوالے تمام اہلِ حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ہونگے بعد میرے قیدیء محن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کا دم رخصت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلے گا اب میری گردن پہ شمر کا خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہے گی لاش میری رن میں بیکفن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کا دم رخصت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہت رلایینگے میری سکینہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلے میں اس کے باندھی جائے گی رسن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کا دم رخصت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتڑپ تڑپ کے گزر جائے گی وہ زنداں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کفن بنے گا سکینہ کا پیرہن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کا دم رخصت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلحد میں بھی نہ سکون پاے گا میرا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہے گا نیزے پہ سر خاک پر بدن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کا دم رخصت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعقیل خیموں میں ایک حشر تھا بپا اس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا جو شہ نے خدا حافظ اے بہن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کا دم رخصت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Aqeel",
   "anjumans": [],
   "verified": false

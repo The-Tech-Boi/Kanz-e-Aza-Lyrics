@@ -1,12 +1,334 @@
 {
   "remoteId": "g2611_u3679",
-  "title": "Bano ne kaha jaan se",
+  "title": "بانو نے کہا جان سے",
   "body": "سونا جنگل گھور اندھیرا اصغر آجا پاس\n<<DIVIDER>>\nبانو نے کہا جان سے پیارے علی اصغر\nکیا سوگےء دریا کے کنارے علی اصغر\n<<DIVIDER>>\nتم پاس تھے میرے تو لگا رہتا تھا جی بھی\nتنہای میں ماں کس کو پکارے علی اصغر\nپیارے علی اصغر\n<<DIVIDER>>\nتم جس کی امانت تھے گےء پاس اسی کے\nکیوں چھٹتے اگر ہوتے ہمارے علی اصغر\nپیارے علی اصغر\n<<DIVIDER>>\nوہ دھوپ کی شدت سے دن کٹ گیا لیکن\nکس طرح سے ماں رات گزارے علی اصغر\nپیارے علی اصغر\n<<DIVIDER>>\nآجاؤ تو جی بھر کے تمہیں پانی پلا لاؤں\nیاں کیوں ہے چچا نہر کنارے علی اصغر\nپیارے علی اصغر\n<<DIVIDER>>\nاکبر ہیں نہ قاسم ہے نہ اب عون و محمد\nسب ٹوٹ چکے میرے سہارے علی اصغر\nپیارے علی اصغر\n<<DIVIDER>>\nدن ڈھل گیا رات آ گئ ڈر لگتا ہے بیٹا\nپھر کوئی شقی تیر نہ مارے علی اصغر\nپیارے علی اصغر\n<<DIVIDER>>\nاک لمحے کو پھر خیمے میں آجاؤ کہ مادر\nوہ خوں بھرا کرتہ تو اتارے علی اصغر\nپیارے علی اصغر\n<<DIVIDER>>\nآغوش میں تم ہوگے تو شاید یہ ستمگار\nباندھینگے نہ پھر ہاتھ ہمارے علی اصغر\nپیارے علی اصغر\n<<DIVIDER>>\nکہرام تھا عزت لب بانو پہ بکا تھی\nآجاؤ کہ ماں جان کو وارے علی اصغر\nپیارے علی اصغر",
+  "styling": [
+    {
+      "insert": "سونا جنگل گھور اندھیرا اصغر آجا پاس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبانو نے کہا جان سے پیارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا سوگےء دریا کے کنارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم پاس تھے میرے تو لگا رہتا تھا جی بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہای میں ماں کس کو پکارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم جس کی امانت تھے گےء پاس اسی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں چھٹتے اگر ہوتے ہمارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ دھوپ کی شدت سے دن کٹ گیا لیکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح سے ماں رات گزارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآجاؤ تو جی بھر کے تمہیں پانی پلا لاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاں کیوں ہے چچا نہر کنارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر ہیں نہ قاسم ہے نہ اب عون و محمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب ٹوٹ چکے میرے سہارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدن ڈھل گیا رات آ گئ ڈر لگتا ہے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر کوئی شقی تیر نہ مارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک لمحے کو پھر خیمے میں آجاؤ کہ مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ خوں بھرا کرتہ تو اتارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآغوش میں تم ہوگے تو شاید یہ ستمگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باندھینگے نہ پھر ہاتھ ہمارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہرام تھا عزت لب بانو پہ بکا تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ کہ ماں جان کو وارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیارے علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Salaams"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Izzat Lakhnavi",
   "anjumans": [],
   "verified": false

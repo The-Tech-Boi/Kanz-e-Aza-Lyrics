@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u0600",
-  "title": "Awaaz allamaa ki",
+  "title": "آواز الاماں کی",
   "body": "آواز الاماں کی خیموں سے آ رہی ہے\nگھر فاطمہ کا مل کر امت جلا رہی ہے\n<<DIVIDER>>\nبن بازوؤں کے کوئی دریا پہ لاش تڑپی\nزینب کے سر سے چادر ہاے چھینی گیء\nآواز الاماں کی۔۔۔\n<<DIVIDER>>\nسوے کہاں ہو اصغر میری گود کر کے ویراں\nماں کھینچ کے جھولے کی ڈوری ہلا رہی ہے\nآواز الاماں کی۔۔۔\n<<DIVIDER>>\nبرقے میں جس کو پالا زینب نے سال اٹھارہ\nاس کے لہو کی مہندی سر کو لگا رہی ہے\nآواز الاماں کی۔۔۔\n<<DIVIDER>>\nخاموش ام فروہ بیٹھی ہے کھولے گھٹری\nتصویر مصطفیٰ کو کیسے بنا رہی ہے\nآواز الاماں کی۔۔۔\n<<DIVIDER>>\nخیمے تو جل چکے ہیں پھر بھی نبی کی امت\nکبرا کا لوٹنے کو ساماں آ رہی ہے\nآواز الاماں کی۔۔۔\n<<DIVIDER>>\nجلتے ہوے خیموں سے بیٹی علی کی کیسے\nبیمار کربلا کو تنہا اٹھا رہی ہے\nآواز الاماں کی۔۔۔\n<<DIVIDER>>\nہاے شام غریباں میں مشکل کشاء کی بیٹی\nبن کر عباس یا رب پہرے پہ آ رہی ہے\nآواز الاماں کی۔۔۔\n<<DIVIDER>>\nجکڑے ہوے رسن میں ہے ہاتھ پھر بھی زینب\nشبیر کے لاشے سے پتھر ہٹا رہی ہے\nآواز الاماں کی۔۔۔\n<<DIVIDER>>\nچودہ سو برس گزرے سردار ہے حقیقت\nآل نبی پہ امت ہاے ظلم ڈھا رہی ہے\nآواز الاماں کی۔۔۔",
+  "styling": [
+    {
+      "insert": "آواز الاماں کی خیموں سے آ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر فاطمہ کا مل کر امت جلا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبن بازوؤں کے کوئی دریا پہ لاش تڑپی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کے سر سے چادر ہاے چھینی گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز الاماں کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوے کہاں ہو اصغر میری گود کر کے ویراں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں کھینچ کے جھولے کی ڈوری ہلا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز الاماں کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرقے میں جس کو پالا زینب نے سال اٹھارہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کے لہو کی مہندی سر کو لگا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز الاماں کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاموش ام فروہ بیٹھی ہے کھولے گھٹری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تصویر مصطفیٰ کو کیسے بنا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز الاماں کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے تو جل چکے ہیں پھر بھی نبی کی امت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبرا کا لوٹنے کو ساماں آ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز الاماں کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلتے ہوے خیموں سے بیٹی علی کی کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار کربلا کو تنہا اٹھا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز الاماں کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے شام غریباں میں مشکل کشاء کی بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن کر عباس یا رب پہرے پہ آ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز الاماں کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجکڑے ہوے رسن میں ہے ہاتھ پھر بھی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کے لاشے سے پتھر ہٹا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز الاماں کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچودہ سو برس گزرے سردار ہے حقیقت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل نبی پہ امت ہاے ظلم ڈھا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز الاماں کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Sardar",
   "anjumans": [],
   "verified": false

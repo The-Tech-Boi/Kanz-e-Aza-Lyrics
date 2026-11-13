@@ -1,12 +1,334 @@
 {
   "remoteId": "g2611_u2626",
-  "title": "Phir baqayya ko",
+  "title": "پھر بقیہ کو",
   "body": "العجل اے یوسف زہرا\n<<DIVIDER>>\nپھر بقیہ کو ہم بنائےنگے\nجب امام زمانہ آےنگے\n<<DIVIDER>>\nقبر زہرا کی ہوگی جب تعمیر\nانبیاء سب بلاے جاےنگے\nپھر بقیہ کو ہم۔۔۔\n<<DIVIDER>>\nصحن ام البنین کے اندر\nپانی پیاسوں کو ہم پلاےنگے\nپھر بقیہ کو ہم۔۔۔\n<<DIVIDER>>\nقبر بیمار کربلا کے قریب\nایک صحن شفا بنائےنگے\nپھر بقیہ کو ہم۔۔۔\n<<DIVIDER>>\nعشق باقر میں اور صادق میں\nایک دارالقلم بنائےنگے\nپھر بقیہ کو ہم۔۔۔\n<<DIVIDER>>\nیاد قاسم میں قبر شبر پر\nآنسوؤں کے دیے جلاےنگے\nپھر بقیہ کو ہم۔۔۔\n<<DIVIDER>>\nہم بقیہ میں مثل باب جواد\nبارہ باب کرم بنائےنگے\nپھر بقیہ کو ہم۔۔۔\n<<DIVIDER>>\nاپنے مولا حسن کا دسترخوان\nزایروں کے لئے بچھاےنگے\nپھر بقیہ کو ہم۔۔۔\n<<DIVIDER>>\nقبر زہرا پہ پرچم عباس\nقد امام زماں لگاےنگے\nپھر بقیہ کو ہم۔۔۔\n<<DIVIDER>>\nہاں بقیہ میں پھر تکلم و شمس\nکفش برداری کرنے جاےنگے\nپھر بقیہ کو ہم۔۔۔",
+  "styling": [
+    {
+      "insert": "العجل اے یوسف زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر بقیہ کو ہم بنائےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب امام زمانہ آےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر زہرا کی ہوگی جب تعمیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انبیاء سب بلاے جاےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بقیہ کو ہم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصحن ام البنین کے اندر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پیاسوں کو ہم پلاےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بقیہ کو ہم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر بیمار کربلا کے قریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک صحن شفا بنائےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بقیہ کو ہم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعشق باقر میں اور صادق میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک دارالقلم بنائےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بقیہ کو ہم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد قاسم میں قبر شبر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنسوؤں کے دیے جلاےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بقیہ کو ہم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم بقیہ میں مثل باب جواد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بارہ باب کرم بنائےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بقیہ کو ہم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے مولا حسن کا دسترخوان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زایروں کے لئے بچھاےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بقیہ کو ہم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر زہرا پہ پرچم عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قد امام زماں لگاےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بقیہ کو ہم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاں بقیہ میں پھر تکلم و شمس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کفش برداری کرنے جاےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بقیہ کو ہم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Inhedaam e Jannat ul Baqee",
+  "subcategory": "انہدام جنت البقیع",
   "author": "Takallum & Shams",
   "anjumans": [],
   "verified": false

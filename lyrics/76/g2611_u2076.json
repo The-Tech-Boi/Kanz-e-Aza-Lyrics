@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u2076",
-  "title": "Kya kare bemaar",
+  "title": "کیا کرے بیمار",
   "body": "کیا کرے بیمار صغرا دل جو گھبرایا کرے\nباپ ماں بھای بہن کی یاد تڑپایا کرے\n<<DIVIDER>>\nہے خوشی شادی میں اکبر کی بلاییں گے ضرور\nحسرتیں اللہ سب کے دل کی بر لایا کرے\nکیا کرے بیمار صغرا۔۔۔\n<<DIVIDER>>\nدیکھ لینے کی تمنا دل میں لب پر یہ دعا\nسر پہ بھای کے بندھے سہرا بہن سایہ کرے\nکیا کرے بیمار صغرا۔۔۔\n<<DIVIDER>>\nبڑھکے قسمت نے کہا پوری نہ ہونگی حسرتیں\nہے لکھا ہمشیر بن بھای کی کہلایا کرے\nکیا کرے بیمار صغرا۔۔۔\n<<DIVIDER>>\nہوگیء بیوہ دلہن اک رات کی وا حسرتا\nپھول امیدوں کا کھل کر یوں نہ مرجھایا کرے\nکیا کرے بیمار صغرا۔۔۔\n<<DIVIDER>>\nکہتے تھے سرور صدا دو اے علی اکبر مجھے\nٹھوکریں کب تک سر میداں پدر کھایا کرے\nکیا کرے بیمار صغرا۔۔۔\n<<DIVIDER>>\nخالی جھولا دیکھ کر اصغر کا کہتی ہے رباب\nموت گر آے تو پہلے ماں کو آ جایا کرے\nکیا کرے بیمار صغرا۔۔۔\n<<DIVIDER>>\nکوئی بھی ایسا نہیں عالم میں جز تیرے حسین\nشکر حق کرتے ہوے گردن کو کٹوایا کرے\nکیا کرے بیمار صغرا۔۔۔\n<<DIVIDER>>\nآنسوؤں سے اس گھڑی منہ اپنا دھولینا قمر\nجب مصیبت کربلا کی یاد آ جایا کرے\nکیا کرے بیمار صغرا۔۔۔",
+  "styling": [
+    {
+      "insert": "کیا کرے بیمار صغرا دل جو گھبرایا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ ماں بھای بہن کی یاد تڑپایا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے خوشی شادی میں اکبر کی بلاییں گے ضرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسرتیں اللہ سب کے دل کی بر لایا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کرے بیمار صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھ لینے کی تمنا دل میں لب پر یہ دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پہ بھای کے بندھے سہرا بہن سایہ کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کرے بیمار صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبڑھکے قسمت نے کہا پوری نہ ہونگی حسرتیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے لکھا ہمشیر بن بھای کی کہلایا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کرے بیمار صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوگیء بیوہ دلہن اک رات کی وا حسرتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھول امیدوں کا کھل کر یوں نہ مرجھایا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کرے بیمار صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتے تھے سرور صدا دو اے علی اکبر مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹھوکریں کب تک سر میداں پدر کھایا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کرے بیمار صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخالی جھولا دیکھ کر اصغر کا کہتی ہے رباب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت گر آے تو پہلے ماں کو آ جایا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کرے بیمار صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی بھی ایسا نہیں عالم میں جز تیرے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکر حق کرتے ہوے گردن کو کٹوایا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کرے بیمار صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنسوؤں سے اس گھڑی منہ اپنا دھولینا قمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب مصیبت کربلا کی یاد آ جایا کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کرے بیمار صغرا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Qamar Jalalvi",
   "anjumans": [],
   "verified": false

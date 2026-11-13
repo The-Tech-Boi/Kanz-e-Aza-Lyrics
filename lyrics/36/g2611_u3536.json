@@ -1,12 +1,455 @@
 {
   "remoteId": "g2611_u3536",
-  "title": "Zainab ka baba",
+  "title": "زینب کا بابا",
   "body": "آجا گھر گھر میں ماتم بپا ہے\nقتل زینب کا بابا ہوا ہے\n<<DIVIDER>>\nلب پہ جبریل کے یہ بکا ہے\nقتل زینب کا بابا ہوا ہے\n<<DIVIDER>>\nکالے کپڑوں میں ہے آج اہلِ عزا\nہے لبوں پر صدا یا علی اعلیاء\nنوحہ خوانی کہیں اور کہیں مرثیہ\nسارے عالم میں غم کی فضا ہے\nآجا گھر گھر میں۔۔۔\n<<DIVIDER>>\nمجلسوں اور جلوسوں میں ذکرِ علی\nروزہ داروں کے آنکھوں میں غم کی نمی\nبوڑھے بچے جواں ہے سبھی ماتمی\nروزہ داروں کے لب پر صدا ہے\nآجا گھر گھر میں۔۔۔\n<<DIVIDER>>\nکالے پرچم اٹھاتے ہوے سر بہ سر\nشاہ راہوں پہ نکلے سبھی نوحہ گر\nایک مجلس سے ہے دوسری کا سفر\nہاں یہ ماحول بتلا رہا ہے\nآجا گھر گھر میں۔۔۔\n<<DIVIDER>>\nروزہ داروں کے کاندھوں پہ تابوت ہے\nسر ہے خونی قبا اور روتے ہوے\nیا‌ علی یا علی کی جو آواز ہے\nہر عزادار یہ کہہ رہا ہے\nآجا گھر گھر میں۔۔۔\n<<DIVIDER>>\nرو کے کہتے ہیں حسنین سر پیٹ کر\nآی انیسویں کی یہ کیسی سحر\nدیکھا جاتا نہیں باپ کا زخمی سر\nقبر زہرا میں آہ و بُکا ہے\nآجا گھر گھر میں۔۔۔\n<<DIVIDER>>\nروز راتوں کو کھانا کھلاتا تھا جو\nسب یتیموں کے غم کو مٹاتا تھا جو\nاب نہیں آے گا روز آتا تھا جو\nیہ ستم بیکسوں پر کیا ہے\nآجا گھر گھر میں۔۔۔\n<<DIVIDER>>\nباپ کے غم میں روتی ہے سیدانیاں\nخاک اڑاتی ہیں کہتی ہیں سب بیٹیاں\nزندگی بھر کریں گے یوں آہ و فغاں\nیہ قیامت کا غم جو ملا ہے\nآجا گھر گھر میں۔۔۔\n<<DIVIDER>>\nفرش مجلس پہ میثم یہ نوحہ کرو\nجو مصایب ہے مظہر وہ لکھتے رہو\nبی بی زہرا کو اشکوں سے پرسہ بھی دو\nبس یہ آغاز کربوبلا ہے\nآجا گھر گھر میں۔۔۔",
+  "styling": [
+    {
+      "insert": "آجا گھر گھر میں ماتم بپا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل زینب کا بابا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلب پہ جبریل کے یہ بکا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل زینب کا بابا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکالے کپڑوں میں ہے آج اہلِ عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے لبوں پر صدا یا علی اعلیاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ خوانی کہیں اور کہیں مرثیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سارے عالم میں غم کی فضا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا گھر گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجلسوں اور جلوسوں میں ذکرِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روزہ داروں کے آنکھوں میں غم کی نمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بوڑھے بچے جواں ہے سبھی ماتمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روزہ داروں کے لب پر صدا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا گھر گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکالے پرچم اٹھاتے ہوے سر بہ سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ راہوں پہ نکلے سبھی نوحہ گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک مجلس سے ہے دوسری کا سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ ماحول بتلا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا گھر گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروزہ داروں کے کاندھوں پہ تابوت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر ہے خونی قبا اور روتے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا‌ علی یا علی کی جو آواز ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر عزادار یہ کہہ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا گھر گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو کے کہتے ہیں حسنین سر پیٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی انیسویں کی یہ کیسی سحر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا جاتا نہیں باپ کا زخمی سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر زہرا میں آہ و بُکا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا گھر گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروز راتوں کو کھانا کھلاتا تھا جو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب یتیموں کے غم کو مٹاتا تھا جو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہیں آے گا روز آتا تھا جو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ستم بیکسوں پر کیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا گھر گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ کے غم میں روتی ہے سیدانیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک اڑاتی ہیں کہتی ہیں سب بیٹیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندگی بھر کریں گے یوں آہ و فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ قیامت کا غم جو ملا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا گھر گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفرش مجلس پہ میثم یہ نوحہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مصایب ہے مظہر وہ لکھتے رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی زہرا کو اشکوں سے پرسہ بھی دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس یہ آغاز کربوبلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا گھر گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

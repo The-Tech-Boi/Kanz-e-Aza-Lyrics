@@ -1,12 +1,581 @@
 {
   "remoteId": "g2611_u0666",
-  "title": "Ay madina ghazab",
+  "title": "اے مدینہ غضب",
   "body": "قافلہ جب وطن لوٹ آیا\nآ کے بابِ مدینہ پہ ٹھہرا\nگرد اُجڑے ہوئے قافلے کے\nپُرسہ داروں نے حلقہ بنایا\nشورِ ماتم اُٹھا شورِ گریہ اُٹھا\nاے مدینہ غضب ہو گیا\nبی بی کلثوم کا تھا یہ نوحہ\nاے مدینہ غضب ہو گیا\n<<DIVIDER>>\nشہرِ نانا کے لا تقبَلینا\nاے مدینہ غضب۔۔۔\n<<DIVIDER>>\nشہر نانا کے ہم آئے اُجڑے ہوئے\nخیر مقدم کے قابل کہاں ہم رہے\nشہر نانا کے لا تقبَلین\nاے مدینہ غضب ہو گیا\nبی بی کلثوم کا تھا۔۔۔\nاے مدینہ غضب۔۔۔\n<<DIVIDER>>\nہائے نانا بھرا گھر کا گھر لُٹ گیا\nچادریں لُٹ گئیں مال و زر لُٹ گیا\nتھا محرم کا کیسا مہینہ\nاے مدینہ غضب ہو گیا\nبی بی کلثوم کا تھا۔۔۔\nاے مدینہ غضب۔۔۔\n<<DIVIDER>>\nچومتے تھے جسے آپ نانا صدا\nتیراں ضربوں سے کاٹا گیا وہ گلا\nشمر کے دل میں تھا کتنا کینہ\nاے مدینہ غضب ہو گیا\nبی بی کلثوم کا تھا۔۔۔\nاے مدینہ غضب۔۔۔\n<<DIVIDER>>\nبھائی اٹھارہ تھے کوئی بھی نہ رہا\nچھ مہینے کا اصغر بھی مارا گیا\nلُٹ گیا سب ہمارا خزینہ\nاے مدینہ غضب ہو گیا\nبی بی کلثوم کا تھا۔۔۔\nاے مدینہ غضب۔۔۔\n<<DIVIDER>>\nعصرِ عاشور نیزوں پہ سر آ گیا\nاے شامِ غریباں تو خیمے جلے\nسر پہ چادر کسی کی بچی نہ\nاے مدینہ غضب ہو گیا\nبی بی کلثوم کا تھا۔۔۔\nاے مدینہ غضب۔۔۔\n<<DIVIDER>>\nبے ردا ہم کو در در پھرایا گیا\nظلم ہے کوچہ کوچہ سجایا گیا\nبارشیں پتھروں کی رُکی نہ\nاے مدینہ غضب ہو گیا\nبی بی کلثوم کا تھا۔۔۔\nاے مدینہ غضب۔۔۔\n<<DIVIDER>>\nہائے اماں گلے سے لگا لو ہمیں\nاپنے مرقد میں لِلہّ چھُپا لو ہمیں\nاس قدر پہلے پیدل چلی نہ\nاے مدینہ غضب ہو گیا\nبی بی کلثوم کا تھا۔۔۔\nاے مدینہ غضب۔۔۔\n<<DIVIDER>>\nہو گیا حشر ریحان و سرور بپا\nروکے شہزادیوں نے یہ جس دم کہا\nساتھ آئی نہ بالی سکینہ\nاے مدینہ غضب ہو گیا\nبی بی کلثوم کا تھا۔۔۔\nاے مدینہ غضب۔۔۔",
+  "styling": [
+    {
+      "insert": "قافلہ جب وطن لوٹ آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ کے بابِ مدینہ پہ ٹھہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرد اُجڑے ہوئے قافلے کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پُرسہ داروں نے حلقہ بنایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شورِ ماتم اُٹھا شورِ گریہ اُٹھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی کلثوم کا تھا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہرِ نانا کے لا تقبَلینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہر نانا کے ہم آئے اُجڑے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیر مقدم کے قابل کہاں ہم رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہر نانا کے لا تقبَلین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی کلثوم کا تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہائے نانا بھرا گھر کا گھر لُٹ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادریں لُٹ گئیں مال و زر لُٹ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا محرم کا کیسا مہینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی کلثوم کا تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچومتے تھے جسے آپ نانا صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیراں ضربوں سے کاٹا گیا وہ گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر کے دل میں تھا کتنا کینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی کلثوم کا تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھائی اٹھارہ تھے کوئی بھی نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھ مہینے کا اصغر بھی مارا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹ گیا سب ہمارا خزینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی کلثوم کا تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعصرِ عاشور نیزوں پہ سر آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شامِ غریباں تو خیمے جلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پہ چادر کسی کی بچی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی کلثوم کا تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے ردا ہم کو در در پھرایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم ہے کوچہ کوچہ سجایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بارشیں پتھروں کی رُکی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی کلثوم کا تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہائے اماں گلے سے لگا لو ہمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے مرقد میں لِلہّ چھُپا لو ہمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس قدر پہلے پیدل چلی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی کلثوم کا تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہو گیا حشر ریحان و سرور بپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے شہزادیوں نے یہ جس دم کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ آئی نہ بالی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی کلثوم کا تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے مدینہ غضب۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Wapasi-e-Ahle Haram",
+  "subcategory": "واپسی اہل حرم",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

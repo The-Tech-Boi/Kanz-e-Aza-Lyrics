@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u2415",
-  "title": "Mere hussain ko rote",
+  "title": "میرے حسین کو روتے",
   "body": "میرے حسین کو روتے رہو دعا دونگی\nہر ایک چاہنے والے کو بخشوا دونگی\n<<DIVIDER>>\nشہید کشتۂ جور و جفا پہ روتے ہیں\nجو میرے لال کو فرش عزا پہ روتے ہیں\nمیں اک روز انہیں کربلا دکھا دونگی\nمیرے حسین کو۔۔۔\n<<DIVIDER>>\nدلوں کا درد لب التجاء پہ رکھ دینا\nتمام حاجتیں فرش عزا پہ رکھ دینا\nہر ایک دامن امید کو سجا دونگی\nمیرے حسین کو۔۔۔\n<<DIVIDER>>\nان آنسوؤں کے وسیلے سے تم کو چین ملے\nنہ کوئی رنج سواے غم حسین ملے\nبہ فضل رب تمہیں اس خیر کے جزا دونگی\nمیرے حسین کو۔۔۔\n<<DIVIDER>>\nنہ رو سکی جسے جی بھر کے زینب دلگیر\nصدا بلند رہے شور ماتم شبیر\nمیں ان صداؤں میں اپنی صدا ملا دونگی\nمیرے حسین کو۔۔۔\n<<DIVIDER>>\nتمہارے اشک بہت معتبر ہے میرے لیےء\nیہی تو مرحم زخم جگر ہے میرے لےء\nرسول کو انہیں اشکوں کا واسطہ دونگی\nمیرے حسین کو۔۔۔\n<<DIVIDER>>\nگلوے خشک پہ خنجر پہ میں نے دیکھا ہے\nوہی پہ لاشہء اے سر بھی میں نے دیکھا ہے\nبتاؤ کیسے میں کربوبلا بھلا دونگی\nمیرے حسین کو۔۔۔\n<<DIVIDER>>\nکلیم تحفہء غم حق کی پرسہ داری ہے\nجو قوم آج بھی مصروف آہ و زاری ہے\nاسے میں سایۂ رحمت میں آسرا دونگی\nمیرے حسین کو۔۔۔",
+  "styling": [
+    {
+      "insert": "میرے حسین کو روتے رہو دعا دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک چاہنے والے کو بخشوا دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہید کشتۂ جور و جفا پہ روتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو میرے لال کو فرش عزا پہ روتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں اک روز انہیں کربلا دکھا دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدلوں کا درد لب التجاء پہ رکھ دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمام حاجتیں فرش عزا پہ رکھ دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک دامن امید کو سجا دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nان آنسوؤں کے وسیلے سے تم کو چین ملے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ کوئی رنج سواے غم حسین ملے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہ فضل رب تمہیں اس خیر کے جزا دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ رو سکی جسے جی بھر کے زینب دلگیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدا بلند رہے شور ماتم شبیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ان صداؤں میں اپنی صدا ملا دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہارے اشک بہت معتبر ہے میرے لیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی تو مرحم زخم جگر ہے میرے لےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسول کو انہیں اشکوں کا واسطہ دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگلوے خشک پہ خنجر پہ میں نے دیکھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہی پہ لاشہء اے سر بھی میں نے دیکھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتاؤ کیسے میں کربوبلا بھلا دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکلیم تحفہء غم حق کی پرسہ داری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو قوم آج بھی مصروف آہ و زاری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسے میں سایۂ رحمت میں آسرا دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Kaleem",
   "anjumans": [],
   "verified": false

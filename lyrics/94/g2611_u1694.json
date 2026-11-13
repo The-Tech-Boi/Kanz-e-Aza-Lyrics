@@ -1,12 +1,423 @@
 {
   "remoteId": "g2611_u1694",
-  "title": "Jaate ho suye maqtal",
+  "title": "جاتے ہو سوے مقتل",
   "body": "جاتے ہو سوے مقتل عباس خدا حافظ\n<<DIVIDER>>\nبولے یہ شہ والا عباس خدا حافظ\nاب ہوگیا غربت کا احساس خدا حافظ\nہم ہوگےء جینے سے بے آس خدا حافظ\nفریاد کناں سب کی ہے پیاس خدا حافظ\nجاتے ہو سوے مقتل۔۔۔\n<<DIVIDER>>\nہر سمت سے آتی ہے رونے کی صدا بھای\nسب اہلِ حرم در پر کرتے ہیں بکا بھای\nپردے کا نہ چادر کا کچھ ہوش ربا بھای\nآتے ہیں انہیں کیا کیا وسواس خدا حافظ\nجاتے ہو سوے مقتل۔۔۔\n<<DIVIDER>>\nمظلوم ہے ہم کتنے کیا وقت مصیبت ہے\nدکھلاے کسے بھائی جو قلب کی حالت ہے\nہر سانس اک آفت ہے ہر لمحہ قیامت ہے\nخاموش ہے لب دل میں ہے یاس خدا حافظ\nجاتے ہو سوے مقتل۔۔۔\n<<DIVIDER>>\nپھرنے لگے آنکھوں میں اب درد کے سب منظر\nوہ لٹتے ہوے خیمے وہ جلتا ہوا بستر\nوہ نیل طمانچوں کے وہ چھنتے ہوے گوہر\nہے کون غریبوں کے اب پاس خدا حافظ\nجاتے ہو سوے مقتل۔۔۔\n<<DIVIDER>>\nہونے سے تیرے رخصت دل ٹوٹ گےء بھیا\nاب تو کوئی پیاسا بھی پانی نہیں مانگے گا\nمظلوم مصیبت میں اب کس کو صدا دے گا\nخاموش رہے گی اب ہر پیاس خدا حافظ\nجاتے ہو سوے مقتل۔۔۔\n<<DIVIDER>>\nاب شیر جری تم سے لشکر کی بھی زینت تھی\nہر رنج میں آفت میں غم سہنے کی طاقت تھی\nتم ساتھ رہے جب تک شبیر کو ہمت تھی\nاب جینے کا ارمان ہے نہ آس خدا حافظ\nجاتے ہو سوے مقتل۔۔۔\n<<DIVIDER>>\nکیا سخت مصیبت ہے عباس تیرا جانا\nغم ہوگیا پھر تازہ بابا کی مصیبت کا\nاب وقت اسیری کا زینب کو یقیں آیا\nسچ ہوتے ہیں بیوؤں کے وسواس خدا حافظ\nجاتے ہو سوے مقتل۔۔۔\n<<DIVIDER>>\nطاری تھا سکینہ پہ غربت کا عجب عالم\nمیدان کو جب جاتا ہے شبیر کا جب ضیغم\nآتی رہی خیموں سے بس اک صدا پیہم\nعباس خدا حافظ عباس خدا حافظ\nجاتے ہو سوے مقتل۔۔۔",
+  "styling": [
+    {
+      "insert": "جاتے ہو سوے مقتل عباس خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبولے یہ شہ والا عباس خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ہوگیا غربت کا احساس خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم ہوگےء جینے سے بے آس خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فریاد کناں سب کی ہے پیاس خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتے ہو سوے مقتل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر سمت سے آتی ہے رونے کی صدا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب اہلِ حرم در پر کرتے ہیں بکا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردے کا نہ چادر کا کچھ ہوش ربا بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتے ہیں انہیں کیا کیا وسواس خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتے ہو سوے مقتل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمظلوم ہے ہم کتنے کیا وقت مصیبت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھلاے کسے بھائی جو قلب کی حالت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سانس اک آفت ہے ہر لمحہ قیامت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش ہے لب دل میں ہے یاس خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتے ہو سوے مقتل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھرنے لگے آنکھوں میں اب درد کے سب منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ لٹتے ہوے خیمے وہ جلتا ہوا بستر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ نیل طمانچوں کے وہ چھنتے ہوے گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کون غریبوں کے اب پاس خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتے ہو سوے مقتل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہونے سے تیرے رخصت دل ٹوٹ گےء بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو کوئی پیاسا بھی پانی نہیں مانگے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم مصیبت میں اب کس کو صدا دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش رہے گی اب ہر پیاس خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتے ہو سوے مقتل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب شیر جری تم سے لشکر کی بھی زینت تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر رنج میں آفت میں غم سہنے کی طاقت تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ساتھ رہے جب تک شبیر کو ہمت تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب جینے کا ارمان ہے نہ آس خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتے ہو سوے مقتل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا سخت مصیبت ہے عباس تیرا جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم ہوگیا پھر تازہ بابا کی مصیبت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب وقت اسیری کا زینب کو یقیں آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سچ ہوتے ہیں بیوؤں کے وسواس خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتے ہو سوے مقتل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطاری تھا سکینہ پہ غربت کا عجب عالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان کو جب جاتا ہے شبیر کا جب ضیغم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتی رہی خیموں سے بس اک صدا پیہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس خدا حافظ عباس خدا حافظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتے ہو سوے مقتل۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Ali Jaweed Maqsood",
   "anjumans": [],
   "verified": false

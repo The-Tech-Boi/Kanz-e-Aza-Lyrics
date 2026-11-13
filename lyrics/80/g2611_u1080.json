@@ -1,7 +1,446 @@
 {
   "remoteId": "g2611_u1080",
-  "title": "Chalo shaam chale",
+  "title": "چلو شام چلیں",
   "body": "دن یہ قسمت نے تم کو دکھایا ہے آج\nآنسوؤں سے یہ دامن بھگونے چلو\nجن کے غربت پہ روتے رہے عمر بھر\nان کے روضے پہ اب ان کو رونے چلو\nچلو شام چلیں\n<<DIVIDER>>\nپرسہ داروں آؤ بی بی نے بلایا ہے\nچلو شام چلیں\n<<DIVIDER>>\nپرسہ ان کو آنسوؤں سے دیں گے ان کے بھائی کا\nشام غربت کے اندھیروں کا کبھی تنہائی کا\nچلو شام چلیں\nپرسہ داروں آؤ۔۔۔\n<<DIVIDER>>\nپرسہ دیں گے بے سروں کا ماتم زنجیر سے\nپرسہ داری کا یہ موقع مل گیا تقدیر سے\nچلو شام چلیں\nپرسہ داروں آؤ۔۔۔\n<<DIVIDER>>\nفیصلہ ہے اپنے حق میں کاتب تقدیر کا\nبی بی کے روضے پہ چہلم ہم کریں شبیر کا\nچلو شام چلیں\nپرسہ داروں آؤ۔۔۔\n<<DIVIDER>>\nجن کو وہ بی بی نہ روی گردش آلام میں\nماتم عون و محمد برپا کرنے شام میں\nچلو شام چلیں\nپرسہ داروں آؤ۔۔۔\n<<DIVIDER>>\nتیس گھنٹوں میں جہاں سے گزری آل مصطفیٰ\nپرسہ دینا دیکھ کر منظر اسی بازار کا\nچلو شام چلیں\nپرسہ داروں آؤ۔۔۔\n<<DIVIDER>>\nخطبہ زینب نے دیا تھا جس جگہ پر مومنوں\nدیکھنے اپنی نگاہوں سے اسی دربار کو\nچلو شام چلیں\nپرسہ داروں آؤ۔۔۔\n<<DIVIDER>>\nروتے روتے جان دے دی تھی سکینہ نے جہاں\nزخم‌ دل بھر جاے ماں کا ایسے رونا تم وہاں\nچلو شام چلیں\nپرسہ داروں آؤ۔۔۔\n<<DIVIDER>>\nاس طرح بے چادری کا بی بی سے باٹیں گی غم\nشام جا کر عورتوں کو چادریں بانٹیں گے ہم\nچلو شام چلیں\nپرسہ داروں آؤ۔۔۔\n<<DIVIDER>>\nجانے کب میرا بلاوا ہوگا مظہر عابدی\nجب میرے کانوں میں گونجے گی صدا فرحان کی\nچلو شام چلیں\nپرسہ داروں آؤ۔۔۔",
+  "styling": [
+    {
+      "insert": "دن یہ قسمت نے تم کو دکھایا ہے آج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنسوؤں سے یہ دامن بھگونے چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جن کے غربت پہ روتے رہے عمر بھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان کے روضے پہ اب ان کو رونے چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو شام چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپرسہ داروں آؤ بی بی نے بلایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو شام چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپرسہ ان کو آنسوؤں سے دیں گے ان کے بھائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غربت کے اندھیروں کا کبھی تنہائی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو شام چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ داروں آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپرسہ دیں گے بے سروں کا ماتم زنجیر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ داری کا یہ موقع مل گیا تقدیر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو شام چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ داروں آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفیصلہ ہے اپنے حق میں کاتب تقدیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی کے روضے پہ چہلم ہم کریں شبیر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو شام چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ داروں آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجن کو وہ بی بی نہ روی گردش آلام میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم عون و محمد برپا کرنے شام میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو شام چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ داروں آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیس گھنٹوں میں جہاں سے گزری آل مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ دینا دیکھ کر منظر اسی بازار کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو شام چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ داروں آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخطبہ زینب نے دیا تھا جس جگہ پر مومنوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھنے اپنی نگاہوں سے اسی دربار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو شام چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ داروں آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتے روتے جان دے دی تھی سکینہ نے جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم‌ دل بھر جاے ماں کا ایسے رونا تم وہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو شام چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ داروں آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس طرح بے چادری کا بی بی سے باٹیں گی غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام جا کر عورتوں کو چادریں بانٹیں گے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو شام چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ داروں آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانے کب میرا بلاوا ہوگا مظہر عابدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب میرے کانوں میں گونجے گی صدا فرحان کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو شام چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ داروں آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

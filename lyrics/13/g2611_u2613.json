@@ -1,7 +1,393 @@
 {
   "remoteId": "g2611_u2613",
-  "title": "Pardesi musafir",
+  "title": "پردیسی مسافر",
   "body": "ھل من ناصر ینصرنا\n<<DIVIDER>>\nپردیسی مسافر کی پردرد کہانی ہے\nکچھ سہمے ہوئے بچے بہتا ہوا پانی ہے\n<<DIVIDER>>\nاے کربوبلا تیرے دمن میں چھپا کیا کیا\nبچپن علی اصغر کا اکبر کی جوانی ہے\nپردیسی مسافر کی۔۔۔\n<<DIVIDER>>\nتابوت الم جھولا پانی کی سبیلیں بھی\nجس سمت نظر جاے پیاسوں کی نشانی ہے\nپردیسی مسافر کی۔۔۔\n<<DIVIDER>>\nمنصوب الم سے جو ایک مشک سکینہ ہے\nعمو سے بھتیجی کی الفت کی نشانی ہے\nپردیسی مسافر کی۔۔۔\n<<DIVIDER>>\nآنسوں نہ رکے لوگوں شبیر کی مجلس میں\nاس اجڑے ہوئے گھر کی یوں یاد منانی ہے\nپردیسی مسافر کی۔۔۔\n<<DIVIDER>>\nشبیر یہ کہتے تھے میں کیسے اجازت دوں\nاے قاسم تو میرے بھائی کی نشانی ہے\nپردیسی مسافر کی۔۔۔\n<<DIVIDER>>\nیہ لاشہء اکبر پر لیلیٰ نے کہاں رو کر\nکیوں خون میں تر تیری پوشاک شاہانی ہے\nپردیسی مسافر کی۔۔۔\n<<DIVIDER>>\nدیتے تھے صدا سرور عباس چلے آؤ\nمیت علی اکبر کی اب مجھکو اٹھانی ہے\nپردیسی مسافر کی۔۔۔\n<<DIVIDER>>\nروتا ہے فلک اب تک شبیر تیرے غم میں\nدنیا یہ سمجھتی ہے برسات کا پانی ہے\nپردیسی مسافر کی۔۔۔\n<<DIVIDER>>\nشہ بولے بہن زینب زنداں سے رہا ہو کر\nروداد ستم جا کر عمو کا سنانی ہے\nپردیسی مسافر کی۔۔۔\n<<DIVIDER>>\nاے میرے خدا تجھ سے ہر وقت دعا یہ ہے\nمولا کی صف ماتم ہر گھر میں بچھانی ہے\nپردیسی مسافر کی۔۔۔\n<<DIVIDER>>\nشبیر کے روضے پر مظہر کا پڑھوں نوحہ\nعرفان میری ماں نے مانت یہی مانی ہے\nپردیسی مسافر کی۔۔۔",
+  "styling": [
+    {
+      "insert": "ھل من ناصر ینصرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپردیسی مسافر کی پردرد کہانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ سہمے ہوئے بچے بہتا ہوا پانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے کربوبلا تیرے دمن میں چھپا کیا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچپن علی اصغر کا اکبر کی جوانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیسی مسافر کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتابوت الم جھولا پانی کی سبیلیں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس سمت نظر جاے پیاسوں کی نشانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیسی مسافر کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنصوب الم سے جو ایک مشک سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمو سے بھتیجی کی الفت کی نشانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیسی مسافر کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنسوں نہ رکے لوگوں شبیر کی مجلس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس اجڑے ہوئے گھر کی یوں یاد منانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیسی مسافر کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر یہ کہتے تھے میں کیسے اجازت دوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے قاسم تو میرے بھائی کی نشانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیسی مسافر کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ لاشہء اکبر پر لیلیٰ نے کہاں رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں خون میں تر تیری پوشاک شاہانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیسی مسافر کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیتے تھے صدا سرور عباس چلے آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میت علی اکبر کی اب مجھکو اٹھانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیسی مسافر کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتا ہے فلک اب تک شبیر تیرے غم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا یہ سمجھتی ہے برسات کا پانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیسی مسافر کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہ بولے بہن زینب زنداں سے رہا ہو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روداد ستم جا کر عمو کا سنانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیسی مسافر کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے میرے خدا تجھ سے ہر وقت دعا یہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا کی صف ماتم ہر گھر میں بچھانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیسی مسافر کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر کے روضے پر مظہر کا پڑھوں نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عرفان میری ماں نے مانت یہی مانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیسی مسافر کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

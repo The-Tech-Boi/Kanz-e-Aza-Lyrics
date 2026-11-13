@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u3037",
-  "title": "Shah kehte thay",
+  "title": "شاہ کہتے تھے",
   "body": "شاہ کہتے تھے بہت ظلم سکینہ ہوگا\nہر طرف شام غریباں کا اندھیرا ہوگا\n<<DIVIDER>>\nبعد قتل شہ ابرار قیامت ہو گی\nلوٹنے خیموں کو آجاییں گے خیموں میں شقی\nدشت خوں خار میں سادات کا پرسہ ہوگا\nہر طرف شام غریباں۔۔۔\n<<DIVIDER>>\nیہ صدا دیتے تھے مقتل میں حسین ابنِ علی\nآخری بار میرے سینے پہ سو لے بی بی\nآج کے بعد پدر ہونگے نہ سینہ ہوگا\nہر طرف شام غریباں۔۔۔\n<<DIVIDER>>\nکوئی کانوں سے گوہر چھینے گا اور کوئی ردا\nکوئی مارے گا طمانچہ کوئی گھڑکی دے گا\nظلم کیا کیا نہ میرے بعد سکینہ ہوگا\nہر طرف شام غریباں۔۔۔\n<<DIVIDER>>\nکوی ہمدرد نہ ہوگا میری بیٹی ناشاد\nفرقت شاہ میں اے جانِ جگر عصر کے بعد\nباپ کے ہجر میں ہر آن تڑپنا ہوگا\nہر طرف شام غریباں۔۔۔\n<<DIVIDER>>\nشعلہ سادات کے خیموں سے اٹھے گا بی بی\nمیرے بے شیر کا جھولا بھی جلے گا بی بی\nکیا بتاؤں میں ستم آل پہ کیا کیا ہو گا\nہر طرف شام غریباں۔۔۔\n<<DIVIDER>>\nغور سے دیکھ لو اے تشنہ دہن خاک ہے یہ\nاس کو پہچان لو اے بابا کی جاں خاک ہے یہ\nآج کے بعد یہی خاک بچھونا ہوگا\nہر طرف شام غریباں۔۔۔\n<<DIVIDER>>\nوقت راحت کا کہاں اب نہ سکوں پاؤ گی\nہر طمانچے پہ ستمگر کے تڑپ جاؤ گی\nبعد شبیر کے سانسوں پہ بھی پہرہ ہوگا\nہر طرف شام غریباں۔۔۔\n<<DIVIDER>>\nدایم و یزدان بیاں کیسے ہو وہ وقت قضا\nایک کہرام مچا جب شاہ نے رو کے کہا\nاپنے چہرے کو تمہیں اشکوں سے دھونا ہوگا\nہر طرف شام غریباں۔۔۔",
+  "styling": [
+    {
+      "insert": "شاہ کہتے تھے بہت ظلم سکینہ ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف شام غریباں کا اندھیرا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد قتل شہ ابرار قیامت ہو گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹنے خیموں کو آجاییں گے خیموں میں شقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت خوں خار میں سادات کا پرسہ ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ صدا دیتے تھے مقتل میں حسین ابنِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری بار میرے سینے پہ سو لے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج کے بعد پدر ہونگے نہ سینہ ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی کانوں سے گوہر چھینے گا اور کوئی ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مارے گا طمانچہ کوئی گھڑکی دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم کیا کیا نہ میرے بعد سکینہ ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوی ہمدرد نہ ہوگا میری بیٹی ناشاد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرقت شاہ میں اے جانِ جگر عصر کے بعد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کے ہجر میں ہر آن تڑپنا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشعلہ سادات کے خیموں سے اٹھے گا بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بے شیر کا جھولا بھی جلے گا بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بتاؤں میں ستم آل پہ کیا کیا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغور سے دیکھ لو اے تشنہ دہن خاک ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کو پہچان لو اے بابا کی جاں خاک ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج کے بعد یہی خاک بچھونا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوقت راحت کا کہاں اب نہ سکوں پاؤ گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طمانچے پہ ستمگر کے تڑپ جاؤ گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد شبیر کے سانسوں پہ بھی پہرہ ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدایم و یزدان بیاں کیسے ہو وہ وقت قضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک کہرام مچا جب شاہ نے رو کے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے چہرے کو تمہیں اشکوں سے دھونا ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر طرف شام غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "group": 2026,
   "author": "Dayam Najafi",
   "anjumans": [],

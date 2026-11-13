@@ -1,7 +1,251 @@
 {
   "remoteId": "g2611_u2186",
-  "title": "Maarfate karbobala",
+  "title": "معرفتِ کربوبلا",
   "body": "وہ جسے معرفتِ کربوبلا ہو جاے\nاسکو سلمان کی بینای عطا ہو جاے\n<<DIVIDER>>\nمجلسوں میں چلے آؤ غمِ شبیر کرو\nیہ تو وہ غم ہے کہ ہر غم کی دوا ہو جاے\nوہ جسے معرفتِ۔۔۔\n<<DIVIDER>>\nدل میں بوے غم شبیر بساے رکھنا\nدل کے کوزوں سے یہ خوشبو نہ جدا ہو جاے\nوہ جسے معرفتِ۔۔۔\n<<DIVIDER>>\nذکرِ عباس علمدار کیا کر ہر دم\nتا کے تو واقف آداب وفا ہو جاے\nوہ جسے معرفتِ۔۔۔\n<<DIVIDER>>\nسب مسیحا ہے محمد کے گھرانے والے\nنام بیمار جو لے لے تو شفا ہو جاے\nوہ جسے معرفتِ۔۔۔\n<<DIVIDER>>\nآگ خیموں میں لعیوں نے لگا دی دیکھو\nکسی ماں سے کوئی بچا نہ جدا ہو جاے\nوہ جسے معرفتِ۔۔۔\n<<DIVIDER>>\nحلق اصغر کو تو پانی کی ضرورت تھی مگر\nتیر سے زخمی نہ اصغر کا گلا ہو جاے\nوہ جسے معرفتِ۔۔۔\n<<DIVIDER>>\nمدحت آل محمد میں نہ چھوڑوں گا عروج\nمجھ سے ہوتا ہے اگر کوئی خفا ہو جاے\nوہ جسے معرفتِ۔۔۔",
+  "styling": [
+    {
+      "insert": "وہ جسے معرفتِ کربوبلا ہو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسکو سلمان کی بینای عطا ہو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجلسوں میں چلے آؤ غمِ شبیر کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو وہ غم ہے کہ ہر غم کی دوا ہو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جسے معرفتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل میں بوے غم شبیر بساے رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کے کوزوں سے یہ خوشبو نہ جدا ہو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جسے معرفتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nذکرِ عباس علمدار کیا کر ہر دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تا کے تو واقف آداب وفا ہو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جسے معرفتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب مسیحا ہے محمد کے گھرانے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام بیمار جو لے لے تو شفا ہو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جسے معرفتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآگ خیموں میں لعیوں نے لگا دی دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی ماں سے کوئی بچا نہ جدا ہو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جسے معرفتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحلق اصغر کو تو پانی کی ضرورت تھی مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیر سے زخمی نہ اصغر کا گلا ہو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جسے معرفتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمدحت آل محمد میں نہ چھوڑوں گا عروج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ سے ہوتا ہے اگر کوئی خفا ہو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جسے معرفتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

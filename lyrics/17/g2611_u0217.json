@@ -1,12 +1,499 @@
 {
   "remoteId": "g2611_u0217",
-  "title": "Abbas ka sar",
+  "title": "عباس کا سر",
   "body": "آل نبی کا قافلہ بازار جو پہنچا\nچہرے تھے زرد غم سے سروں پر نہ تھی ردا\nغازی کا سر جو نیزے سے آیا زمیں پر\nفضہ نے دل کو تھام کے نوحہ یہی کیا\n<<DIVIDER>>\nنہ دیکھ سکے گا زینب کو\nہاے بے چادر عباس کا سر\nرکتا ہی نہیں ہے نیزے پر\nدورانِ سفر عباس کا سر\n<<DIVIDER>>\nسجاد سے زینب کہتی تھی\nمنظر وہ دیکھ نہ پاؤں گی\nیہ ظلم ہوا تو میرے پسر\nرو رو کے یہی مر جاؤں گی\nناقے کے گلے میں ڈال دیا\nظالم نے اگر عباس کا سر\nرکتا ہی نہیں ہے۔۔۔\n<<DIVIDER>>\nگرتی ہے وہ پشت ناقہ سے\nیہ بار اٹھانا مشکل ہے\nعمو سے بھتیجی کی الفت\nکیا ہے یہ بتانا مشکل ہے\nناقے پہ سکینہ رکتی نہیں\nاور نیزے پر عباس کا سر\nرکتا ہی نہیں ہے۔۔۔\n<<DIVIDER>>\nیہ زخم کبھی بھر سکتا نہیں\nبھولے گا دل احساس نہیں\nبابا کی شہادت پر رویا\nپھر رویا کبھی عباس نہیں\nکربل سے یہاں تک روتا رہا\nہر منزل پر عباس کا سر\nرکتا ہی نہیں ہے۔۔۔\n<<DIVIDER>>\nزنداں سے وطن جا کر بھی ہم\nآرام سے کب سو پاےنگے\nجب بند کریں گے آنکھوں کو\nمنظر وہ ہمیں یاد تڑپاےنگے\nشبیر کا قاسم و اکبر کا\nبے شیر کا سر عباس کا سر\nرکتا ہی نہیں ہے۔۔۔\n<<DIVIDER>>\nسجاد بتانا چاہوں اگر\nتجھ سے بھی نہیں کہہ پاؤں گی\nکچھ زخم جگر تو ایسے ہی\nجو قبر تلک لے جاؤں گی\nشبیر کا سر بازو میں رسن\nاکبر کا جگر عباس کا سر\nرکتا ہی نہیں ہے۔۔۔\n<<DIVIDER>>\nصفدر وہ قیامت کا منظر\nلکھتے ہوے مظہر روتا تھا\nکہتی تھی بہن آجا غازی\nاور شمر یہ ہنس کر کہتا تھا\nکیا تیری مدد کو آے گا\nاے نوحہ گر عباس کا سر\nرکتا ہی نہیں ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "آل نبی کا قافلہ بازار جو پہنچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہرے تھے زرد غم سے سروں پر نہ تھی ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کا سر جو نیزے سے آیا زمیں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فضہ نے دل کو تھام کے نوحہ یہی کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ دیکھ سکے گا زینب کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے بے چادر عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکتا ہی نہیں ہے نیزے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دورانِ سفر عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد سے زینب کہتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منظر وہ دیکھ نہ پاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ظلم ہوا تو میرے پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے یہی مر جاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناقے کے گلے میں ڈال دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم نے اگر عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکتا ہی نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگرتی ہے وہ پشت ناقہ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بار اٹھانا مشکل ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمو سے بھتیجی کی الفت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ہے یہ بتانا مشکل ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناقے پہ سکینہ رکتی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور نیزے پر عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکتا ہی نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ زخم کبھی بھر سکتا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھولے گا دل احساس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کی شہادت پر رویا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر رویا کبھی عباس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربل سے یہاں تک روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر منزل پر عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکتا ہی نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنداں سے وطن جا کر بھی ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آرام سے کب سو پاےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب بند کریں گے آنکھوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منظر وہ ہمیں یاد تڑپاےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کا قاسم و اکبر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے شیر کا سر عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکتا ہی نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد بتانا چاہوں اگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھ سے بھی نہیں کہہ پاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ زخم جگر تو ایسے ہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو قبر تلک لے جاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کا سر بازو میں رسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کا جگر عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکتا ہی نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصفدر وہ قیامت کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھتے ہوے مظہر روتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی بہن آجا غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور شمر یہ ہنس کر کہتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تیری مدد کو آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے نوحہ گر عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکتا ہی نہیں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

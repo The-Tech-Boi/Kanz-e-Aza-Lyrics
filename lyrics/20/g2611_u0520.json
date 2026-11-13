@@ -1,12 +1,341 @@
 {
   "remoteId": "g2611_u0520",
-  "title": "Ana zawaar",
+  "title": "انا زوار",
   "body": "سلام کربوبلا یا حسین یا مولا\nسلام ہاے شہیدان کربلاے وفا\nہر ایک زرے سے ماتم کی آ رہی ہے صدا\n<<DIVIDER>>\nانا زوار حسین ابنِ علی\nارباب حسین ابنِ علی\n<<DIVIDER>>\nچلا ہوں کربوبلا ہے زباں پہ بسم اللّٰہ\nہے دل میں کلمۂ حق لا الٰہ الا اللّٰہ\nسفر قبول کرے یا حسین ثار اللّٰہ\n<<DIVIDER>>\nہم لوگ عزادار حسین ارواللہ\nہم لوگ وفادار حسین ارواللہ\nہم لوگ طرفدار حسین ارواللہ\nاے آقا میرے اے مولا میرے\nنوکر ہے صدا زوار تیرے\nانا زوار حسین ابنِ علی۔۔۔\n<<DIVIDER>>\nسلام اس کا کے ہم کو بلا لیا مولا\nسلام اس کا کے زایر بنا لیا مولا\nسلام اس گا کہ دل میں بسا لیا مولا\nہم اہلِ یقیں أہل عزا ارواللہ\nہم فاطمہ زہرا کی دوا ارواللہ\nہم سارے سفیران عزا ارواللہ\nاے آقا میرے اے مولا میرے\nنوکر ہے صدا زوار تیرے\nانا زوار حسین ابنِ علی۔۔۔\n<<DIVIDER>>\nخدا کا شکر دیار حسین دیکھ لیا\nان آنسوؤں نے مزار حسین دیکھ لیا\nنصیب میرا وقار حسین دیکھ لیا\nکیا شان تیری کربوبلا ارواللہ\nہے خاک تیری خاک شفا ارواللہ\nجاگیر علمدار وفا ارواللہ\nاے آقا میرے اے مولا میرے\nنوکر ہے صدا زوار تیرے\nانا زوار حسین ابنِ علی۔۔۔\n<<DIVIDER>>\nارباب حسین ابنِ علی",
+  "styling": [
+    {
+      "insert": "سلام کربوبلا یا حسین یا مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام ہاے شہیدان کربلاے وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک زرے سے ماتم کی آ رہی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانا زوار حسین ابنِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ارباب حسین ابنِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلا ہوں کربوبلا ہے زباں پہ بسم اللّٰہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے دل میں کلمۂ حق لا الٰہ الا اللّٰہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر قبول کرے یا حسین ثار اللّٰہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم لوگ عزادار حسین ارواللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم لوگ وفادار حسین ارواللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم لوگ طرفدار حسین ارواللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے آقا میرے اے مولا میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکر ہے صدا زوار تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انا زوار حسین ابنِ علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلام اس کا کے ہم کو بلا لیا مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام اس کا کے زایر بنا لیا مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام اس گا کہ دل میں بسا لیا مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم اہلِ یقیں أہل عزا ارواللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم فاطمہ زہرا کی دوا ارواللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سارے سفیران عزا ارواللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے آقا میرے اے مولا میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکر ہے صدا زوار تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انا زوار حسین ابنِ علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخدا کا شکر دیار حسین دیکھ لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان آنسوؤں نے مزار حسین دیکھ لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نصیب میرا وقار حسین دیکھ لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا شان تیری کربوبلا ارواللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خاک تیری خاک شفا ارواللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاگیر علمدار وفا ارواللہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے آقا میرے اے مولا میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکر ہے صدا زوار تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انا زوار حسین ابنِ علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nارباب حسین ابنِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Arbayeen",
+  "subcategory": "اربعین",
   "anjumans": [],
   "verified": false
 }

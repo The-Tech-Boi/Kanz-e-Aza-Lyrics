@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u1122",
-  "title": "Dardo ghamo alam",
+  "title": "درد وغم و الم",
   "body": "درد وغم و الم کی اذیت کی رات ہے\nضربت کی رات ہے یہ شہادت کی رات ہے\n<<DIVIDER>>\nمایوس زندگی ہے سرِ پاک دیکھ کر\nمولا کے دوستوں پہ مصیبت کی رات ہے\nضربت کی رات ہے ۔۔۔\n<<DIVIDER>>\nکیا دردناک درد یتیمی کی ہے قضا\nاولاد رو رہی ہے کے فرقت کی رات ہے\nضربت کی رات ہے ۔۔۔\n<<DIVIDER>>\nکہتی ہے سر کے زخم سے رو رو کے یہ نماز\nڈوبی ہوئی لہو میں یہ عبادت کی رات ہے\nضربت کی رات ہے ۔۔۔\n<<DIVIDER>>\nقرآن کے حرف حرف سے بہنے لگا ہے خون\nشاریعِ محمدی پہ مصیبت کی رات ہے\nضربت کی رات ہے ۔۔۔\n<<DIVIDER>>\nرونے دو مجھ کو میں ہوں عزادارِ مرتضیٰ\nاسلام کہہ رہا ہے یہ وحشت کی رات ہے\nضربت کی رات ہے ۔۔۔\n<<DIVIDER>>\nجاتے ہوئے جنازے پہ زینب کا تھا بیان\nدُنیا سے چین اُٹھ گیا آفت کی رات ہے\nضربت کی رات ہے ۔۔۔\n<<DIVIDER>>\nآلِ نبی کا تھا علی فطرت یہی بیان\nکیسے کٹے گی رات قیامت کی رات ہے\nضربت کی رات ہے ۔۔۔",
+  "styling": [
+    {
+      "insert": "درد وغم و الم کی اذیت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضربت کی رات ہے یہ شہادت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمایوس زندگی ہے سرِ پاک دیکھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا کے دوستوں پہ مصیبت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضربت کی رات ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا دردناک درد یتیمی کی ہے قضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اولاد رو رہی ہے کے فرقت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضربت کی رات ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی ہے سر کے زخم سے رو رو کے یہ نماز"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈوبی ہوئی لہو میں یہ عبادت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضربت کی رات ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقرآن کے حرف حرف سے بہنے لگا ہے خون"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاریعِ محمدی پہ مصیبت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضربت کی رات ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرونے دو مجھ کو میں ہوں عزادارِ مرتضیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسلام کہہ رہا ہے یہ وحشت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضربت کی رات ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاتے ہوئے جنازے پہ زینب کا تھا بیان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُنیا سے چین اُٹھ گیا آفت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضربت کی رات ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآلِ نبی کا تھا علی فطرت یہی بیان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے کٹے گی رات قیامت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضربت کی رات ہے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Ali Fitrat",
   "anjumans": [],
   "verified": false

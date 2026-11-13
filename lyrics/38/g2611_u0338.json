@@ -1,12 +1,415 @@
 {
   "remoteId": "g2611_u0338",
-  "title": "Akbar chupa rahe hai",
+  "title": "اکبر چھپا رہے ہیں",
   "body": "شبیر آ رہے ہے مقتل میں\n<<DIVIDER>>\nجس دم سنا کے بابا مقتل میں آ رہے ہیں\nزخم جگر کو اپنے اکبر چھپا رہے ہیں\n<<DIVIDER>>\nبولے ہوا سے اکبر کچھ خاک ہی اڑا دے\nسینہ بماے سناں کے لللہ تو چھپا دے\nہم زخم کھا چکے ہے وہ زخم کھا رہے ہے\nجس دم سنا کے بابا۔۔۔\n<<DIVIDER>>\nکچھ دیر نیند کر لو جا گے ہو رات بھر کے\nکچھ کام ہے پھپھی کے کچھ شام کے سفر کے\nہم راستوں کے کانٹے بابا ہٹا رہے ہے\nجس دم سنا کے بابا۔۔۔\n<<DIVIDER>>\nآنا ہے گر ضروری اس دشتِ بے امان میں\nاس ابر تیر و خنجر اس بارش سناں میں\nعابد کو بھیج دیجیےء کیوں آپ آ رہے ہیں\nجس دم سنا کے بابا۔۔۔\n<<DIVIDER>>\nبرچھی کا پھل ہمارے سینے میں کب ہے اترا\nیاد آ گیء تھی صغرا سینے میں درد اٹھا\nسینے پہ ہاتھ رکھ کے یادیں بھلا رہے ہیں\nجس دم سنا کے بابا۔۔۔\n<<DIVIDER>>\nشہ نے پاے تسلی اکبر کو یہ صدا دی\nاے میرے لال تم کو اب تک خبر نہ پہنچی\nصغرا کا خط ہے آیا ہم دینے آ رہے ہیں\nجس دم سنا کے بابا۔۔۔\n<<DIVIDER>>\nآخر وہ وقت آیا شبیر لڑ کھڑاے\nگھٹنوں کے بل وہ چل کے لاشے پسر پہ آے\nبولے اے لال اٹھ جا ہم خط سنا رہے ہیں\nجس دم سنا کے بابا۔۔۔\n<<DIVIDER>>\nخط کیا سناتے مولا آنسوں بہا کے بولے\nوہ کیسے خط سنے گا جو آنکھ تک نہ کھولے\nہم آنسوؤں سے صغرا خط کو مٹا رہے ہیں\nجس دم سنا کے بابا۔۔۔\n<<DIVIDER>>\nبرچھی جگر سے کھینچی ابلا لہو کا دھارا\nاکبر تڑپ کے بولے رک جایےء خدارا\nصغرا سے کیا ہے کہنا ہم وہ بتا رہے ہیں\nجس دم سنا کے بابا۔۔۔\n<<DIVIDER>>\nلاشے پسر پہ مولا غش کھا کے گر چکے تھے\nمقتل میں گونجتے تھے سیدانیوں کے نوحے\nریحان اور رضا جو دہراے جا رہے ہیں\nجس دم سنا کے بابا۔۔۔",
+  "styling": [
+    {
+      "insert": "شبیر آ رہے ہے مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس دم سنا کے بابا مقتل میں آ رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم جگر کو اپنے اکبر چھپا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبولے ہوا سے اکبر کچھ خاک ہی اڑا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینہ بماے سناں کے لللہ تو چھپا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم زخم کھا چکے ہے وہ زخم کھا رہے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس دم سنا کے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ دیر نیند کر لو جا گے ہو رات بھر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ کام ہے پھپھی کے کچھ شام کے سفر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم راستوں کے کانٹے بابا ہٹا رہے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس دم سنا کے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنا ہے گر ضروری اس دشتِ بے امان میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس ابر تیر و خنجر اس بارش سناں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کو بھیج دیجیےء کیوں آپ آ رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس دم سنا کے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرچھی کا پھل ہمارے سینے میں کب ہے اترا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آ گیء تھی صغرا سینے میں درد اٹھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے پہ ہاتھ رکھ کے یادیں بھلا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس دم سنا کے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہ نے پاے تسلی اکبر کو یہ صدا دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے لال تم کو اب تک خبر نہ پہنچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا کا خط ہے آیا ہم دینے آ رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس دم سنا کے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآخر وہ وقت آیا شبیر لڑ کھڑاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹنوں کے بل وہ چل کے لاشے پسر پہ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اے لال اٹھ جا ہم خط سنا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس دم سنا کے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخط کیا سناتے مولا آنسوں بہا کے بولے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ کیسے خط سنے گا جو آنکھ تک نہ کھولے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم آنسوؤں سے صغرا خط کو مٹا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس دم سنا کے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرچھی جگر سے کھینچی ابلا لہو کا دھارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر تڑپ کے بولے رک جایےء خدارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا سے کیا ہے کہنا ہم وہ بتا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس دم سنا کے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشے پسر پہ مولا غش کھا کے گر چکے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں گونجتے تھے سیدانیوں کے نوحے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ریحان اور رضا جو دہراے جا رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس دم سنا کے بابا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

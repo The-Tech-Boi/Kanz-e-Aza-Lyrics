@@ -1,12 +1,342 @@
 {
   "remoteId": "g2611_u1079",
-  "title": "Chalo karbala",
+  "title": "چلو کربلا",
   "body": "چلو رونے والوں چلو پرسہ داروں\nحسین یا حسین یا حسین\n<<DIVIDER>>\nسرور کے سوگواروں چلو کربلا چلیں\nپیاسوں کے سوگواروں چلو کربلا چلیں\n<<DIVIDER>>\nمقتل میں جس جگہ پہ کٹا بازوے جری\nروے جہاں پہ تیر سے اک مشک تھی چھدی\nہونے کو اشکبار چلو کربلا چلیں\nسرور کے سوگواروں۔۔۔\n<<DIVIDER>>\nدیکھے جہاں غریب کا کنبہ ہوا تباہ\nگونجی تھی جس جگہ پہ کسی تشنہ لب کی آہ\nرونے کو بے شمار چلو کربلا چلیں\nسرور کے سوگواروں۔۔۔\n<<DIVIDER>>\nاصغر کے واسطے کوئی جھولا بھی لے چلو\nہاتھوں سے اپنے سی کے شلوکا بھی لے چلو\nغم خوار شیر خوار چلو کربلا چلیں\nسرور کے سوگواروں۔۔۔\n<<DIVIDER>>\nبے دست با وفا کی غریبی پہ روےنگے\nچوکھٹ حرم کی اشکوں سے رو رو کے دھوےنگے\nروےنگے جان زار چلو کربلا چلیں\nسرور کے سوگواروں۔۔۔\n<<DIVIDER>>\nمقتل سجا ہوا ہے شہادت کے واسطے\nجزبہ برائے نصرت سرور لیےء ہوے\nمطلوب کارزار چلو کربلا چلیں\nسرور کے سوگواروں۔۔۔\n<<DIVIDER>>\nجاے وہاں جہاں پہ چھدا حلق بے زباں\nرویا تھا جس جگہ پہ لہو آ کے آسماں\nاصغر کے سوگواروں چلو کربلا چلیں\nسرور کے سوگواروں۔۔۔\n<<DIVIDER>>\nدایم معاف شاہ کریں گے ہے یہ یقیں\nاک اک سے کہہ رہے ہیں یہی ناصر حزیں\nمحبوب کردگار چلو کربلا چلیں\nسرور کے سوگواروں۔۔۔",
+  "styling": [
+    {
+      "insert": "چلو رونے والوں چلو پرسہ داروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین یا حسین یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسرور کے سوگواروں چلو کربلا چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسوں کے سوگواروں چلو کربلا چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل میں جس جگہ پہ کٹا بازوے جری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روے جہاں پہ تیر سے اک مشک تھی چھدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونے کو اشکبار چلو کربلا چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور کے سوگواروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھے جہاں غریب کا کنبہ ہوا تباہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی تھی جس جگہ پہ کسی تشنہ لب کی آہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے کو بے شمار چلو کربلا چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور کے سوگواروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر کے واسطے کوئی جھولا بھی لے چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں سے اپنے سی کے شلوکا بھی لے چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم خوار شیر خوار چلو کربلا چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور کے سوگواروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے دست با وفا کی غریبی پہ روےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چوکھٹ حرم کی اشکوں سے رو رو کے دھوےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روےنگے جان زار چلو کربلا چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور کے سوگواروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل سجا ہوا ہے شہادت کے واسطے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جزبہ برائے نصرت سرور لیےء ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مطلوب کارزار چلو کربلا چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور کے سوگواروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاے وہاں جہاں پہ چھدا حلق بے زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رویا تھا جس جگہ پہ لہو آ کے آسماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کے سوگواروں چلو کربلا چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور کے سوگواروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدایم معاف شاہ کریں گے ہے یہ یقیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک اک سے کہہ رہے ہیں یہی ناصر حزیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محبوب کردگار چلو کربلا چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور کے سوگواروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Arbayeen",
+  "subcategory": "اربعین",
   "author": "Dayim",
   "anjumans": [],
   "verified": false

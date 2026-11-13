@@ -1,12 +1,433 @@
 {
   "remoteId": "g2611_u3226",
-  "title": "Tu bekafan hai",
+  "title": "تو بے کفن ہے",
   "body": "رہ گیء دشت میں تنہا تو وطن یاد آیا\nپانی پایا تو ہر ایک تشنہ دہن یاد آیا\nلے کے ہر چیز مدینے سے چلی تھی زینب\nبھائی کی لاش پہ پہنچا تو کفن یاد آیا\n<<DIVIDER>>\nتو بے کفن ہے حسین بہن بے ردا ہے\n<<DIVIDER>>\nآی تھی مدینے سے لے کر میں اپنا بھرا گھر بھائی\nلوگوں نے میرا گھر لوٹ لیا بس پاس رہی تنہائی\nیہاں تشنہ لب تو رہا ہے بہن بے ردا ہے\nتو بے کفن ہے حسین۔۔۔\n<<DIVIDER>>\nپانی سے تجھے محروم رکھا اور مجھکو تیرے ماتم سے\nٹکڑے ہے کلیجہ زینب کا اے بھائی فقط اس غم سے\nسناں پر تیرا سر رکھا ہے بہن بے ردا ہے\nتو بے کفن ہے حسین۔۔۔\n<<DIVIDER>>\nتو میرے لئے فریاد کرے میں تیرے لئے اے بھائی\nمظلوم مسافر تیری بہن باغی کی بہن کہلای\nیہ غم اس ستم سے بڑا ہے بہن بے ردا ہے\nتو بے کفن ہے حسین۔۔۔\n<<DIVIDER>>\nلاشے سے تیرے آتی ہے صدا سنتی ہے بہن مانجاے\nاے کاش کوئی تدبیر بنے اور زینب شام نہ جائے\nاسیر رسن قافلہ ہے بہن بے ردا ہے\nتو بے کفن ہے حسین۔۔۔\n<<DIVIDER>>\nمیں قیدی بنی اور شام چلی محمل نہ عماری آی\nزینب کے لئے ہے سب سے بڑا غم تجھ سے بچھڑنا بھائی\nتجھے یہ ہی غم کھا گیا ہے بہن بے ردا ہے\nتو بے کفن ہے حسین۔۔۔\n<<DIVIDER>>\nاماں کی صدا یہ آتی ہے کیوں لوٹ لیا پیاسے کو\nسر تیرا بدن سے کاٹ لیا پامال کیا لاشے کو\nقتیل جفا تو ہے بہن بے ردا ہے\nتو بے کفن ہے حسین۔۔۔\n<<DIVIDER>>\nہے کاں سکینہ کے زخمی عابد کا مقدر بیڑی\nنیزوں پہ شہیدوں کے سر ہے سادات بنے ہیں قیدی\nابھی شام کا مرحلہ ہے بہن بے ردا ہے\nتو بے کفن ہے حسین۔۔۔\n<<DIVIDER>>\nگھر تیرا قریب عصر لٹا میں شام الم میں اجڑی\nخون تیرا بہا بے جرم و خطا ہمشیر اس غم میں اجڑی\nتیرے خون سے یہ وفا ہے بہن بے ردا ہے\nتو بے کفن ہے حسین۔۔۔\n<<DIVIDER>>\nتا عمر پڑھیں گے یہ نوحہ فرحان اور مظہر روکر\nزینب کے برادر کے مرقد پر ہم نے سنا ہے اکثر\nشہ دیں کا یہ مرثیہ ہے بہن بے ردا ہے\nتو بے کفن ہے حسین۔۔۔",
+  "styling": [
+    {
+      "insert": "رہ گیء دشت میں تنہا تو وطن یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پایا تو ہر ایک تشنہ دہن یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے کے ہر چیز مدینے سے چلی تھی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی کی لاش پہ پہنچا تو کفن یاد آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو بے کفن ہے حسین بہن بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآی تھی مدینے سے لے کر میں اپنا بھرا گھر بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگوں نے میرا گھر لوٹ لیا بس پاس رہی تنہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہاں تشنہ لب تو رہا ہے بہن بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپانی سے تجھے محروم رکھا اور مجھکو تیرے ماتم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑے ہے کلیجہ زینب کا اے بھائی فقط اس غم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سناں پر تیرا سر رکھا ہے بہن بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو میرے لئے فریاد کرے میں تیرے لئے اے بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم مسافر تیری بہن باغی کی بہن کہلای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ غم اس ستم سے بڑا ہے بہن بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشے سے تیرے آتی ہے صدا سنتی ہے بہن مانجاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے کاش کوئی تدبیر بنے اور زینب شام نہ جائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسیر رسن قافلہ ہے بہن بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں قیدی بنی اور شام چلی محمل نہ عماری آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کے لئے ہے سب سے بڑا غم تجھ سے بچھڑنا بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھے یہ ہی غم کھا گیا ہے بہن بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں کی صدا یہ آتی ہے کیوں لوٹ لیا پیاسے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر تیرا بدن سے کاٹ لیا پامال کیا لاشے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتیل جفا تو ہے بہن بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے کاں سکینہ کے زخمی عابد کا مقدر بیڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزوں پہ شہیدوں کے سر ہے سادات بنے ہیں قیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی شام کا مرحلہ ہے بہن بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر تیرا قریب عصر لٹا میں شام الم میں اجڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون تیرا بہا بے جرم و خطا ہمشیر اس غم میں اجڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے خون سے یہ وفا ہے بہن بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتا عمر پڑھیں گے یہ نوحہ فرحان اور مظہر روکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کے برادر کے مرقد پر ہم نے سنا ہے اکثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ دیں کا یہ مرثیہ ہے بہن بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بے کفن ہے حسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

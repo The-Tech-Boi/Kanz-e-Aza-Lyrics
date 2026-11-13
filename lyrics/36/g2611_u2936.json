@@ -1,12 +1,496 @@
 {
   "remoteId": "g2611_u2936",
-  "title": "Saqqa e sakina",
+  "title": "سقائے سکینہ",
   "body": "عباس عباس عباس عباس\n<<DIVIDER>>\nسقائے سکینہ عباس عباس\nدو مجھکو سہارا عباس عباس\n<<DIVIDER>>\nٹہری ہوئی نظریں مری تیرے علم پر\nشک مجھکو نہیں کوئی ترے لطف و کرم پر\nتو بابِ حائج ہے نظر رکھتا ہے ہم پر\nمشکل سے بچانا عباس عباس\nسقائے سکینہ۔۔۔\n<<DIVIDER>>\nبن ہاتھوں کے تم جھولیاں بھر دیتے ہو مولا\nاحسان کرو مجھ پے میں بندہ ہوں تمہارا\nمفلس ہوں بہت کربوبلا آ نہیں سکتا\nکیا تم سے چھپانا عباس عباس\nسقائے سکینہ۔۔۔\n<<DIVIDER>>\nسب رنج و الم میں نے زمانے سے چھپائے\nآیا ہوں ترے سامنے ہاتھوں کو اُٹھائے\nمنہ موڑ گئے مجھ سے سبھی اپنے پرائے\nدل زخمی ہے میرا عباس عباس\nسقائے سکینہ۔۔۔\n<<DIVIDER>>\nدنیا کی مصیبت نے مجھے گھیر لیا ہے\nآقا تیرا خادم یہ پریشان ہوا ہے\nتم مجھکو بچا لو گے مجھے یہ بھی پتا ہے\nبس دیر نا کرنا عباس عباس\nسقائے سکینہ۔۔۔\n<<DIVIDER>>\nعباس حبیب ابنِ مظاہر سے یہ کہنا\nذواروں کی فہرست میں اب نام ہو میرا\nسامانِ سفر بھی میرا تیار ہے مولا\nتم مجھکو بلانا عباس عباس\nسقائے سکینہ۔۔۔\n<<DIVIDER>>\nزہرا کی قسم ہے میری الجھن کو مٹا دو\nایک پھول علم سے میرے دامن میں گرا دو\nہمت مجھے مل جائے اشارے سے بتا دو\nتم ساتھ ہو مولا عباس عباس\nسقائے سکینہ۔۔۔\n<<DIVIDER>>\nتو بھائی ہے شبیر کا حیدر کا ہے بیٹا\nدنیا میں نہیں اتنا سخی کوئی گھرانہ\nتیری ہی سخاوت کا زمانے میں ہے چرچہ\nتو در ہے عطا کا عباس عباس\nسقائے سکینہ۔۔۔\n<<DIVIDER>>\nسر پر نہیں جن لوگوں کے ماں باپ کا سایہ\nان سب کے نگہبان تم ہی ہو میرے مولا\nمادر کا ہی آنچل ہے یہ پرچم کا پھریرا\nکرتے رہو سایہ عباس عباس\nسقائے سکینہ۔۔۔\n<<DIVIDER>>\nدیتے ہیں سکینہ کی قسم اس لئیے مولا\nہے میثم و ازلانؔ کا مولا یہ عقیدہ\nتم رد نہیں کر سکتے کبھی بھی یہ وسیلہ\nہے پورا بھروسہ عباس عباس\nسقائے سکینہ۔۔۔",
+  "styling": [
+    {
+      "insert": "عباس عباس عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسقائے سکینہ عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو مجھکو سہارا عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹہری ہوئی نظریں مری تیرے علم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شک مجھکو نہیں کوئی ترے لطف و کرم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بابِ حائج ہے نظر رکھتا ہے ہم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشکل سے بچانا عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبن ہاتھوں کے تم جھولیاں بھر دیتے ہو مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "احسان کرو مجھ پے میں بندہ ہوں تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مفلس ہوں بہت کربوبلا آ نہیں سکتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تم سے چھپانا عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب رنج و الم میں نے زمانے سے چھپائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آیا ہوں ترے سامنے ہاتھوں کو اُٹھائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منہ موڑ گئے مجھ سے سبھی اپنے پرائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل زخمی ہے میرا عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدنیا کی مصیبت نے مجھے گھیر لیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آقا تیرا خادم یہ پریشان ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم مجھکو بچا لو گے مجھے یہ بھی پتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس دیر نا کرنا عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس حبیب ابنِ مظاہر سے یہ کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذواروں کی فہرست میں اب نام ہو میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سامانِ سفر بھی میرا تیار ہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم مجھکو بلانا عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزہرا کی قسم ہے میری الجھن کو مٹا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک پھول علم سے میرے دامن میں گرا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمت مجھے مل جائے اشارے سے بتا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ساتھ ہو مولا عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو بھائی ہے شبیر کا حیدر کا ہے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میں نہیں اتنا سخی کوئی گھرانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری ہی سخاوت کا زمانے میں ہے چرچہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو در ہے عطا کا عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر پر نہیں جن لوگوں کے ماں باپ کا سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان سب کے نگہبان تم ہی ہو میرے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مادر کا ہی آنچل ہے یہ پرچم کا پھریرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتے رہو سایہ عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیتے ہیں سکینہ کی قسم اس لئیے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے میثم و ازلانؔ کا مولا یہ عقیدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم رد نہیں کر سکتے کبھی بھی یہ وسیلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے پورا بھروسہ عباس عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقائے سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Arsalan Azmi",
   "anjumans": [],
   "verified": false

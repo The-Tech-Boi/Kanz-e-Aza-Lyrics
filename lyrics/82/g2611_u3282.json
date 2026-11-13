@@ -1,12 +1,270 @@
 {
   "remoteId": "g2611_u3282",
-  "title": "Veeran gharon mein",
+  "title": "ویراں گھروں میں",
   "body": "شام سے لوٹ آے ہے مدینے والے\n<<DIVIDER>>\nویراں گھروں میں قید سے یوں واپسی ہوئی\nکوئی دیا جلا نہ کہیں روشنی ہوئی\n<<DIVIDER>>\nیہ حال ہے کہ بیٹیاں پہچانتیں نہیں\nزینب خود اپنے گھر میں بھی اب اجنبی ہوئی\nویراں گھروں میں قید سے۔۔۔\n<<DIVIDER>>\nزینب کے بازوؤں پہ یہ نیلے نشان ہیں\nیا پھر رسن ہے ہاتھوں میں اب تک بسٍی ہوئی\nویراں گھروں میں قید سے۔۔۔\n<<DIVIDER>>\nاکبر شہید ہو گئے لیکن وہ انتظار\nصغریٰ ہے ایک وعدے سے اب تک بندھی ہوئی\nویراں گھروں میں قید سے۔۔۔\n<<DIVIDER>>\nمہمل تو جا کے لوٹ بھی آئے ہیں شام سے\nاک ماں کی زندگی ہے وہیں پر رکی ہوئی\nویراں گھروں میں قید سے۔۔۔\n<<DIVIDER>>\nنیزے سے جو اتاری تھی شمرِ لعین نے\nزینب کے خون سے ہے وہ چادر بھری ہوئی\nویراں گھروں میں قید سے۔۔۔\n<<DIVIDER>>\nننھی سی بالیوں پہ لہو سے لکھی ہے وہ\nجو بات تھی سکینہ کے رخ پر لکھی ہوئی\nویراں گھروں میں قید سے۔۔۔\n<<DIVIDER>>\nاکبر سروں پے کرب و بلا کی جو خاک تھی\nاُس پر ہے قید خانے کی مٹی جمی ہوئ\nویراں گھروں میں قید سے۔۔۔",
+  "styling": [
+    {
+      "insert": "شام سے لوٹ آے ہے مدینے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nویراں گھروں میں قید سے یوں واپسی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی دیا جلا نہ کہیں روشنی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ حال ہے کہ بیٹیاں پہچانتیں نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب خود اپنے گھر میں بھی اب اجنبی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویراں گھروں میں قید سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کے بازوؤں پہ یہ نیلے نشان ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا پھر رسن ہے ہاتھوں میں اب تک بسٍی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویراں گھروں میں قید سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر شہید ہو گئے لیکن وہ انتظار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغریٰ ہے ایک وعدے سے اب تک بندھی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویراں گھروں میں قید سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمہمل تو جا کے لوٹ بھی آئے ہیں شام سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ماں کی زندگی ہے وہیں پر رکی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویراں گھروں میں قید سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزے سے جو اتاری تھی شمرِ لعین نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کے خون سے ہے وہ چادر بھری ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویراں گھروں میں قید سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nننھی سی بالیوں پہ لہو سے لکھی ہے وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو بات تھی سکینہ کے رخ پر لکھی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویراں گھروں میں قید سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر سروں پے کرب و بلا کی جو خاک تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس پر ہے قید خانے کی مٹی جمی ہوئ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویراں گھروں میں قید سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Wapasi-e-Ahle Haram",
+  "subcategory": "واپسی اہل حرم",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

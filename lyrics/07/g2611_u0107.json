@@ -1,7 +1,381 @@
 {
   "remoteId": "g2611_u0107",
-  "title": "Aao chale karbala",
+  "title": "آؤ چلے کربلا",
   "body": "ہے ہماری درس گاہ کربلا کربلا\nحق کا سیدھا راستہ کربلا کربلا\nچلو چلو ہمیں تمہیں پکارتی ہے کربلا\n<<DIVIDER>>\nچلتے رہو ساتھ لیےء سارا زمانہ\nآؤ چلے کربوبلا بن کے سفیران عزا\nتم بھی چلو ہم بھی چلیں\nساتھ ہو زہرا کی دعا\nآؤ چلے کربوبلا بن کے سفیران عزا\n<<DIVIDER>>\nکربوبلا میں تمہیں قرآن ملے گا\nفاطمتہ الزہرا کا فیضان ملے گا\nتم کو ہر اک ملک کا انسان ملے گا\nپرچم عباس نگہبان ملے گا\nچلتے رہو ساتھ لیےء سارا زمانہ\nآؤ چلے کربوبلا۔۔۔\n<<DIVIDER>>\nآؤ چلیں پرچم عباس اٹھا کر\nشہر نجف سے چلے کربوبلا مل کر\nشہ کے عزاداروں کا ہو ساتھ سمندر\nپل میں بدل جاے گا ہم سب کا مقدّر\nچلتے رہو ساتھ لیےء سارا زمانہ\nآؤ چلے کربوبلا۔۔۔\n<<DIVIDER>>\nدینے چلیں پرسہ حسین ابنِ علی کا\nنوحہ پڑھے چل کے علمدار جری کا\nمومنوں ماتم کرے ہمشکل نبی کا\nقاسم و بے شیر کا پرسہ دے سبھی کا\nچلتے رہو ساتھ لیےء سارا زمانہ\nآؤ چلے کربوبلا۔۔۔\n<<DIVIDER>>\nشکر خدا مولا کے زوار بنے ہم\nآل محمد کے طرفدار بنے ہم\nحیدر کرار کے حب دار بنے ہم\nزہرا کے بچوں کے عزادار بنے ہم\nچلتے رہو ساتھ لیےء سارا زمانہ\nآؤ چلے کربوبلا۔۔۔\n<<DIVIDER>>\nمانگو دعا انکی بھی پوری ہو دعائیں\nدیتے ہیں مولا کو جو جو رو رو کے صداییں\nمولا میرے جلد انہیں در پہ بلاییں\nکرتے ہوۓ ماتم شبیر وہ آییں\nچلتے رہو ساتھ لیےء سارا زمانہ\nآؤ چلے کربوبلا۔۔۔",
+  "styling": [
+    {
+      "insert": "ہے ہماری درس گاہ کربلا کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق کا سیدھا راستہ کربلا کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلو چلو ہمیں تمہیں پکارتی ہے کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلتے رہو ساتھ لیےء سارا زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ چلے کربوبلا بن کے سفیران عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم بھی چلو ہم بھی چلیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ ہو زہرا کی دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ چلے کربوبلا بن کے سفیران عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربوبلا میں تمہیں قرآن ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمتہ الزہرا کا فیضان ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو ہر اک ملک کا انسان ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرچم عباس نگہبان ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتے رہو ساتھ لیےء سارا زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ چلے کربوبلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآؤ چلیں پرچم عباس اٹھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہر نجف سے چلے کربوبلا مل کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کے عزاداروں کا ہو ساتھ سمندر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پل میں بدل جاے گا ہم سب کا مقدّر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتے رہو ساتھ لیےء سارا زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ چلے کربوبلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدینے چلیں پرسہ حسین ابنِ علی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ پڑھے چل کے علمدار جری کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مومنوں ماتم کرے ہمشکل نبی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم و بے شیر کا پرسہ دے سبھی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتے رہو ساتھ لیےء سارا زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ چلے کربوبلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشکر خدا مولا کے زوار بنے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل محمد کے طرفدار بنے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کرار کے حب دار بنے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کے بچوں کے عزادار بنے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتے رہو ساتھ لیےء سارا زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ چلے کربوبلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمانگو دعا انکی بھی پوری ہو دعائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتے ہیں مولا کو جو جو رو رو کے صداییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا میرے جلد انہیں در پہ بلاییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتے ہوۓ ماتم شبیر وہ آییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتے رہو ساتھ لیےء سارا زمانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ چلے کربوبلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

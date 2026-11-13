@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u2593",
-  "title": "Pamaal laasha dekh",
+  "title": "پامال لاشہ دیکھ",
   "body": "پامال لاشہ دیکھ کے کہتی ہیں بیبیاں\nزہرا کی طرح ٹوٹی ہیں قاسم کی پسلیاں\n<<DIVIDER>>\nٹکڑے پکارے دشت میں لبیک یا حسین\nآکر کہا جو مولا نے قاسم ہو تم کہاں\n---پامال لاشہ دیکھ کے\n<<DIVIDER>>\nپامال جیتے جی جو ہوا ہے اُسے سلام\nرو کر لہو یہ کہتے ہیں خود صاحب الزماں\n---پامال لاشہ دیکھ کے\n<<DIVIDER>>\nآجاؤ میرے بھائی تلک بولے یہ حسن\nقاسم نہ لو حسین کی غربت کا امتحاں\n---پامال لاشہ دیکھ کے\n<<DIVIDER>>\nیہ کہ کے کچھ نشانوں کو شہ چومنے لگنے\nعباس دیکھو رگڑی ہیں قاسم نے ایڑہیاں\n---پامال لاشہ دیکھ کے\n<<DIVIDER>>\nٹکڑے اُٹھانے لاش کے سرور کے ساتھ ساتھ\nزہرا گئیں ہیں دشت میں جانے کہاں کہاں\n---پامال لاشہ دیکھ کے\n<<DIVIDER>>\nپامال ہونہ لاش چچا کی یہ سوچ کر\nلپٹا ہوا سموں سے ہے فروہ کا نوجواں\n---پامال لاشہ دیکھ کے\n<<DIVIDER>>\nمادر کرے گی کس طرح دیدار آخری\nہائے سموں کے چاند سے چہرے پہ ہیں نشاں\n---پامال لاشہ دیکھ کے\n<<DIVIDER>>\nلگتا ہے مجھ کو میر تکلم خیام سے\nاب بھی سنائی دیتی ہیں فروہ کی ہچکیاں\n---پامال لاشہ دیکھ کے",
+  "styling": [
+    {
+      "insert": "پامال لاشہ دیکھ کے کہتی ہیں بیبیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا کی طرح ٹوٹی ہیں قاسم کی پسلیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹکڑے پکارے دشت میں لبیک یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آکر کہا جو مولا نے قاسم ہو تم کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پامال لاشہ دیکھ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپامال جیتے جی جو ہوا ہے اُسے سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کر لہو یہ کہتے ہیں خود صاحب الزماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پامال لاشہ دیکھ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآجاؤ میرے بھائی تلک بولے یہ حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم نہ لو حسین کی غربت کا امتحاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پامال لاشہ دیکھ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کہ کے کچھ نشانوں کو شہ چومنے لگنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس دیکھو رگڑی ہیں قاسم نے ایڑہیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پامال لاشہ دیکھ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹکڑے اُٹھانے لاش کے سرور کے ساتھ ساتھ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا گئیں ہیں دشت میں جانے کہاں کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پامال لاشہ دیکھ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپامال ہونہ لاش چچا کی یہ سوچ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لپٹا ہوا سموں سے ہے فروہ کا نوجواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پامال لاشہ دیکھ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمادر کرے گی کس طرح دیدار آخری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے سموں کے چاند سے چہرے پہ ہیں نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پامال لاشہ دیکھ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلگتا ہے مجھ کو میر تکلم خیام سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب بھی سنائی دیتی ہیں فروہ کی ہچکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---پامال لاشہ دیکھ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shahzade Qasim (a.s)",
+  "subcategory": "شہزادے قاسم (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,536 @@
 {
   "remoteId": "g2611_u3358",
-  "title": "Ya ali maula",
+  "title": "یا علی مولا",
   "body": "یا علی مولا\n<<DIVIDER>>\nسنا ہر ایک نے جبریل نے پکارا ہے\nخدا کے گھر میں علی کو عدو نے مارا ہے\nہر ایک علی کا عزادار بے سہارا ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nسر علی پہ لگی زہر میں بجھی شمشیر\nشقی نے دین کے رہبر کی کی نہ کچھ توقیر\nیتیم ہوگئے عباس و شبر و شبیر\nیتیم ہوگئ کلثوم زینب دلگیر\nلہو سے سرخ ہوا کیسا یہ مصلہ ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nنجف کے سمت چلے جاےنگے علی اب تو\nپلٹ کے آے نگے اب تو کبھی نہ کوفے کو\nستمگروں کی صدا آے گی کہ آگے بڑھو\nنبی علی نہیں اب اہلبیت کو لوٹو\nہر ایک قلب نے مولا تمہیں پکارا ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nمدی کے در پہ جو پیشانیاں رگڑتے تھے\nوہ اور اکڑینگے پہلے سے جو اکڑتے تھے\nحسن سے بھی وہ لڑینگے جو تم سے لڑتے تھے\nحسن سے جھگڑینگے جو تم سے بھی جھگڑتے تھے\nہے آگے طوفان بہت دور اب کنارہ ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nحسین کو بھی شقی گھیر کر لے آےنگے\nوہ بھوکے پیاسوں پہ تیر ستم چلائیں گے\nبڑے گی بانیء شر خیمے بھی جلاےنگے\nحرم کو یا علی بے انتہا ستاےنگے\nصدا اٹھے گی شہ کربلا کو مارا ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nنشان تیر ستم کا بنے گا اصغر بھی\nکلیجہ دین پہ دے گا جوان اکبر بھی\nنبی کے دیں پہ فدا ہوےنگے بہتر بھی\nتو دیگی اپنی ردا مرتظی کی دختر بھی\nعلی رہے نہ جہاں میں تو یہ نظارہ ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nکٹا کے شانے ترای پہ سوے گا عباس\nبجھای جا نہ سکے گی سکینہ بی بی کی پیاس\nجو بی بیوں سے بندھے گی وہ ٹوٹ جاے گی آس\nستمگروں سے بچانے کو کوئی ہوگا نہ پاس\nستمگروں کا ستم کب انہیں گوارا ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nلہو کے اشکوں سے منہ دھو گیا علی مولا\nجو جاگتا تھا بشر سو گیا علی مولا\nتمہارے بعد غضب ہوگیا علی مولا\nنہ جانے دین کہاں کھو گیا علی مولا\nجو تم سے بغض تھا کربل میں آشکارا ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nپدر نہیں تو ملے ان کے دل کو کیسے چین\nتڑپنا بیٹوں کا اور ہاے بیٹیوں کا بین\nجنازہ ساقیء کوثر کا لے چلے حسنین\nحسن کہو کہ چھٹے ہم سے شاہ بدر و حنین\nہر ایک چاہنے والے نے یہ پکارا ہے\nخدا کے گھر میں۔۔۔",
+  "styling": [
+    {
+      "insert": "یا علی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنا ہر ایک نے جبریل نے پکارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں علی کو عدو نے مارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک علی کا عزادار بے سہارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر علی پہ لگی زہر میں بجھی شمشیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شقی نے دین کے رہبر کی کی نہ کچھ توقیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یتیم ہوگئے عباس و شبر و شبیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یتیم ہوگئ کلثوم زینب دلگیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو سے سرخ ہوا کیسا یہ مصلہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنجف کے سمت چلے جاےنگے علی اب تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پلٹ کے آے نگے اب تو کبھی نہ کوفے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستمگروں کی صدا آے گی کہ آگے بڑھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی علی نہیں اب اہلبیت کو لوٹو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک قلب نے مولا تمہیں پکارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمدی کے در پہ جو پیشانیاں رگڑتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ اور اکڑینگے پہلے سے جو اکڑتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسن سے بھی وہ لڑینگے جو تم سے لڑتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسن سے جھگڑینگے جو تم سے بھی جھگڑتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آگے طوفان بہت دور اب کنارہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین کو بھی شقی گھیر کر لے آےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بھوکے پیاسوں پہ تیر ستم چلائیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑے گی بانیء شر خیمے بھی جلاےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم کو یا علی بے انتہا ستاےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدا اٹھے گی شہ کربلا کو مارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنشان تیر ستم کا بنے گا اصغر بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلیجہ دین پہ دے گا جوان اکبر بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی کے دیں پہ فدا ہوےنگے بہتر بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو دیگی اپنی ردا مرتظی کی دختر بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی رہے نہ جہاں میں تو یہ نظارہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکٹا کے شانے ترای پہ سوے گا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بجھای جا نہ سکے گی سکینہ بی بی کی پیاس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو بی بیوں سے بندھے گی وہ ٹوٹ جاے گی آس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستمگروں سے بچانے کو کوئی ہوگا نہ پاس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستمگروں کا ستم کب انہیں گوارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلہو کے اشکوں سے منہ دھو گیا علی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو جاگتا تھا بشر سو گیا علی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے بعد غضب ہوگیا علی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ جانے دین کہاں کھو گیا علی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو تم سے بغض تھا کربل میں آشکارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپدر نہیں تو ملے ان کے دل کو کیسے چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپنا بیٹوں کا اور ہاے بیٹیوں کا بین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنازہ ساقیء کوثر کا لے چلے حسنین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسن کہو کہ چھٹے ہم سے شاہ بدر و حنین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک چاہنے والے نے یہ پکارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Hassan Fayazi",
   "anjumans": [],
   "verified": false

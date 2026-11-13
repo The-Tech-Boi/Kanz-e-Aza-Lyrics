@@ -1,12 +1,445 @@
 {
   "remoteId": "g2611_u2707",
-  "title": "Qatl huwe bhai",
+  "title": "قتل ہوے بھای",
   "body": "قتل ہوے بھای اجڑ گیء زینب\nرہ گیء تنہائی اجڑ گیء زینب\n<<DIVIDER>>\nنیزہ اکبر کے کلیجے پہ لگا واویلا\nلاشہ قاسم کا بھی پامال ہوا واویلا\nہاے عباس سا بھائی نہ رہا واویلا\nکٹ گیا رن میں برادر کا گلا واویلا\nسب کو قضا آی اجڑ گیء زینب\nقتل ہوے بھای۔۔۔\n<<DIVIDER>>\nحیدر و فاطمہ زہرا کی دلاری زینب\nجس کے اٹھارہ برادر تھے وہ پیاری زینب\nآج پردیس میں لگتی ہے بچاری زینب\nکس کو گھٹا چھائی اجڑ گیء زینب\nغم کی گھٹا چھائی اجڑ گیء زینب\nقتل ہوے بھای۔۔۔\n<<DIVIDER>>\nمجھکو پیارا تھا بہت اکبر زیشاں میرا\nشادی اکبر کی رچاؤں گی تھا ارماں میرا\nپارہ پارہ ہوا ارمانوں کا قرآں میرا\nایک ہی دن میں ہے اجڑا یہ گلستاں میرا\nکیسے خزاں آی اجڑ گیء زینب\nقتل ہوے بھای۔۔۔\n<<DIVIDER>>\nایک دن دھوپ میں تھا جب میرا چہرہ بھیا\nتو نے دامن سے عبا کے کیا سایہ بھیا\nجلتی ریتی پہ تیرا آج ہے لاشہ بھیا\nکر نہ پائی میں تیری لاش پہ سایہ بھیا\nکیا کرے مانجای اجڑ گیء زینب\nقتل ہوے بھای۔۔۔\n<<DIVIDER>>\nہاے عباس علمدار کی پیاری خواہر\nجو نکلتی تھے جو جھک جاتی تھی ہر ایک نظر\nاس پہ بازار میں برساینگے ظالم پتھر\nننگے سر جاے گی دربار میں قیدی بن کر\nہاے رے دکھ پای اجڑ گیء زینب\nقتل ہوے بھای۔۔۔\n<<DIVIDER>>\nآ کے ہاتھوں میں لعینوں نے جو باندھی رسی\nسر جھکا کر کے بہت روی علی کی بیٹی\nدیکھ کر سوے نہر کہنے لگی اے غازی\nدیکھ لے آ کے زرا جاتی ہوں بن کر قیدی\nاے میرے شیدائی اجڑ گیء زینب\nقتل ہوے بھای۔۔۔\n<<DIVIDER>>\nلٹ گیا فاطمہ زہرا کا چمن اے وائض\nسو گےء دشت میں سب تشنہ دہن اے وائض\nہاے مل پایا نہ پیاسوں کو کفن اے وائض\nرہ گیء خاک اڑانے کو بہن اے وائض\nبس یہ صدا آئی اجڑ گیء زینب\nقتل ہوے بھای۔۔۔",
+  "styling": [
+    {
+      "insert": "قتل ہوے بھای اجڑ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ گیء تنہائی اجڑ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزہ اکبر کے کلیجے پہ لگا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ قاسم کا بھی پامال ہوا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے عباس سا بھائی نہ رہا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کٹ گیا رن میں برادر کا گلا واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب کو قضا آی اجڑ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوے بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحیدر و فاطمہ زہرا کی دلاری زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے اٹھارہ برادر تھے وہ پیاری زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج پردیس میں لگتی ہے بچاری زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کو گھٹا چھائی اجڑ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم کی گھٹا چھائی اجڑ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوے بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھکو پیارا تھا بہت اکبر زیشاں میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شادی اکبر کی رچاؤں گی تھا ارماں میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پارہ پارہ ہوا ارمانوں کا قرآں میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ہی دن میں ہے اجڑا یہ گلستاں میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے خزاں آی اجڑ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوے بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک دن دھوپ میں تھا جب میرا چہرہ بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو نے دامن سے عبا کے کیا سایہ بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتی ریتی پہ تیرا آج ہے لاشہ بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر نہ پائی میں تیری لاش پہ سایہ بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کرے مانجای اجڑ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوے بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے عباس علمدار کی پیاری خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو نکلتی تھے جو جھک جاتی تھی ہر ایک نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس پہ بازار میں برساینگے ظالم پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننگے سر جاے گی دربار میں قیدی بن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے رے دکھ پای اجڑ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوے بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآ کے ہاتھوں میں لعینوں نے جو باندھی رسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جھکا کر کے بہت روی علی کی بیٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر سوے نہر کہنے لگی اے غازی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ لے آ کے زرا جاتی ہوں بن کر قیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے شیدائی اجڑ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوے بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلٹ گیا فاطمہ زہرا کا چمن اے وائض"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سو گےء دشت میں سب تشنہ دہن اے وائض"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مل پایا نہ پیاسوں کو کفن اے وائض"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ گیء خاک اڑانے کو بہن اے وائض"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس یہ صدا آئی اجڑ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ہوے بھای۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Waiz Sultanpuri",
   "anjumans": [],
   "verified": false

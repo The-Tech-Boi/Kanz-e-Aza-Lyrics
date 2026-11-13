@@ -1,12 +1,278 @@
 {
   "remoteId": "g2611_u3542",
-  "title": "Zainab ka tha ye noha",
+  "title": "زینب کا تھا یہ نوحہ",
   "body": "زینب کا تھا یہ نوحہ بھائی ہے بھوکا پیاسا\nاے شمر تُو ٹھہر جا بھائی ہے بھوکا پیاسا\n<<DIVIDER>>\nسوکھے گلے پہ خنجر مت پھیر اے ستمگر\nپانی پلا دے تھوڑا بھائی ہے بھوکا پیاسا\n---اے شمر تُو ٹھہر جا\n---زینب کا تھا یہ نوحہ\n<<DIVIDER>>\nسینے سے تُو اُتر جا زخموں میں درد ہو گا\nمظلوم پر ترس کھابھائی ہے بھوکا پیاسا\n---اے شمر تُو ٹھہر جا\n---زینب کا تھا یہ نوحہ\n<<DIVIDER>>\nکھویا ہے نوجواں کو گاڑھا ہے بے زباں کو\nکوئی نہیں ہے اُس کابھائی ہے بھوکا پیاسا\n---اے شمر تُو ٹھہر جا\n---زینب کا تھا یہ نوحہ\n<<DIVIDER>>\nچادر کو چھین لے تُو خیموں کو لُوٹ لے تُو\nاُس کی نہیں ہے پروابھائی ہے بھوکا پیاسا\n---اے شمر تُو ٹھہر جا\n---زینب کا تھا یہ نوحہ\n<<DIVIDER>>\nارض و سما کے والی دینا ہے تُو گواہی\nپہلو میں بہ کے دریا بھائی ہے بھوکا پیاسا\n---اے شمر تُو ٹھہر جا\n---زینب کا تھا یہ نوحہ\n<<DIVIDER>>\nیا فاطمہ اب آئو یا مرتضیٰ اب آئو\nدم توڑتا ہے بیٹابھائی ہے بھوکا پیاسا\n---اے شمر تُو ٹھہر جا\n---زینب کا تھا یہ نوحہ",
+  "styling": [
+    {
+      "insert": "زینب کا تھا یہ نوحہ بھائی ہے بھوکا پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شمر تُو ٹھہر جا بھائی ہے بھوکا پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوکھے گلے پہ خنجر مت پھیر اے ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی پلا دے تھوڑا بھائی ہے بھوکا پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے شمر تُو ٹھہر جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---زینب کا تھا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسینے سے تُو اُتر جا زخموں میں درد ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظلوم پر ترس کھابھائی ہے بھوکا پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے شمر تُو ٹھہر جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---زینب کا تھا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھویا ہے نوجواں کو گاڑھا ہے بے زباں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہیں ہے اُس کابھائی ہے بھوکا پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے شمر تُو ٹھہر جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---زینب کا تھا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچادر کو چھین لے تُو خیموں کو لُوٹ لے تُو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس کی نہیں ہے پروابھائی ہے بھوکا پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے شمر تُو ٹھہر جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---زینب کا تھا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nارض و سما کے والی دینا ہے تُو گواہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلو میں بہ کے دریا بھائی ہے بھوکا پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے شمر تُو ٹھہر جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---زینب کا تھا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا فاطمہ اب آئو یا مرتضیٰ اب آئو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم توڑتا ہے بیٹابھائی ہے بھوکا پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اے شمر تُو ٹھہر جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---زینب کا تھا یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "anjumans": [],
   "verified": false
 }

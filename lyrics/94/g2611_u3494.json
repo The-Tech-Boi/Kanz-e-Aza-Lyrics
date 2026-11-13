@@ -1,12 +1,352 @@
 {
   "remoteId": "g2611_u3494",
-  "title": "Ye sughra ne likha",
+  "title": "یہ صغریٰ نے لکھا",
   "body": "یہ صغریٰ نے لکھا چلے آییےء گا\nملے خط جو بھیا چلے آییےء گا\n<<DIVIDER>>\nاداسی کے جنگل میں بیٹھی ہوی ہوں\nمدینہ ہے سونا چلے آییےء گا\nیہ صغریٰ نے لکھا۔۔۔\n<<DIVIDER>>\nمزار محمد پہ کرنے چراغاں\nمیں جاتی ہوں تنہا چلے آییےء گا\nیہ صغریٰ نے لکھا۔۔۔\n<<DIVIDER>>\nمیں بیماریوں میں بسر کر رہی ہوں\nاجل کا ہے خطرہ چلے آییےء گا\nیہ صغریٰ نے لکھا۔۔۔\n<<DIVIDER>>\nاکیلے میرا دم گھٹا جا رہا ہے\nگھٹانے کو صدمہ چلے آییےء گا\nیہ صغریٰ نے لکھا۔۔۔\n<<DIVIDER>>\nمصایب کے لمحے اٹھاتے اٹھاتے\nہے دل پارہ پارہ چلے آییےء گا\nیہ صغریٰ نے لکھا۔۔۔\n<<DIVIDER>>\nمجھے چھوڑ کر کربلا کیوں گےء تھے\nکروں گی نہ شکوہ چلے آییےء گا\nیہ صغریٰ نے لکھا۔۔۔\n<<DIVIDER>>\nمیری یاد جب بھی ستاے گی بھیا\nہے مجھکو بھروسہ چلے آییےء گا\nیہ صغریٰ نے لکھا۔۔۔\n<<DIVIDER>>\nاگر مجھ سے تھوڑی بہت ہے محبت\nچچا سے بھی کہنا چلے آییےء گا\nیہ صغریٰ نے لکھا۔۔۔\n<<DIVIDER>>\nکیا سب نے آباد کربوبلا کو\nنہیں کوئی اپنا چلے آییےء گا\nیہ صغریٰ نے لکھا۔۔۔\n<<DIVIDER>>\nہزاروں دعائیں ملی تم کو عشرت\nسنا جس نے نوحہ چلے آییےء گا\nیہ صغریٰ نے لکھا۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ صغریٰ نے لکھا چلے آییےء گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملے خط جو بھیا چلے آییےء گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاداسی کے جنگل میں بیٹھی ہوی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدینہ ہے سونا چلے آییےء گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صغریٰ نے لکھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمزار محمد پہ کرنے چراغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جاتی ہوں تنہا چلے آییےء گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صغریٰ نے لکھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں بیماریوں میں بسر کر رہی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اجل کا ہے خطرہ چلے آییےء گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صغریٰ نے لکھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکیلے میرا دم گھٹا جا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹانے کو صدمہ چلے آییےء گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صغریٰ نے لکھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمصایب کے لمحے اٹھاتے اٹھاتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے دل پارہ پارہ چلے آییےء گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صغریٰ نے لکھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھے چھوڑ کر کربلا کیوں گےء تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کروں گی نہ شکوہ چلے آییےء گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صغریٰ نے لکھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری یاد جب بھی ستاے گی بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے مجھکو بھروسہ چلے آییےء گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صغریٰ نے لکھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاگر مجھ سے تھوڑی بہت ہے محبت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چچا سے بھی کہنا چلے آییےء گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صغریٰ نے لکھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا سب نے آباد کربوبلا کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہیں کوئی اپنا چلے آییےء گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صغریٰ نے لکھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہزاروں دعائیں ملی تم کو عشرت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنا جس نے نوحہ چلے آییےء گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صغریٰ نے لکھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Ishrat Lakhnavi",
   "anjumans": [],
   "verified": false

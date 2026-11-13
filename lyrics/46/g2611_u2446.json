@@ -1,7 +1,572 @@
 {
   "remoteId": "g2611_u2446",
-  "title": "Meri zainab gham se",
+  "title": "میری زینب غم سے",
   "body": "میرے بابا جلدی آ جاؤ\n<<DIVIDER>>\nمیری زینب غم سے مت گھبرا\nتیرا بابا تیرے ساتھ میں ہے\n<<DIVIDER>>\nشبیر نے وعدہ پورا کیا\nخنجر کے نیچے سجدہ کیا\nمقتل کی جانب دیکھ زرا\nہر سمت ہے خون شہیدوں کا\nاب آگے ہے تیری کربوبلا\nتیرا بابا تیرے ساتھ۔۔۔\n<<DIVIDER>>\nہم کم تو نہیں تھے یتیمی کے\nاور اس پر زخمی اسیری کے\nرخسار ہے نیلے بچی کے\nشانوں پہ نشاں ہے رسی کے\nرکھنا بڑا دھیان سکینہ کا\nتیرا بابا تیرے ساتھ۔۔۔\n<<DIVIDER>>\nآباد کیا شبیر نے بن\nتو آگے بڑھی بندھوا کے رسن\nبھائی ہے وہاں بے گور و کفن\nبے چادر ہے کوفے میں بہن\nغم دونوں کا ہے ملتا جھلتا\nتیرا بابا تیرے ساتھ۔۔۔\n<<DIVIDER>>\nڈھارس ہے تو ہی یتیموں کی\nتو ہی ان کی پھپھی تو ہی ماں بھی\nعباس بھی تو شبیر بھی تو\nتو ہی فاطمہ زہرا تو ہی علی\nہے بار تیرے کاندھوں پہ بڑا\nتیرا بابا تیرے ساتھ۔۔۔\n<<DIVIDER>>\nاف دہشت شام غریباں کی\nوہ سناٹا وہ تاریکی\nایک ہاتھ میں تیغ تھی ٹوٹی ہوئی\nایک ہاتھ میں کچھ جھل سی لکڑی\nمجھے یاد ہے وہ تیرا پہرہ\nتیرا بابا تیرے ساتھ۔۔۔\n<<DIVIDER>>\nمانا کہ بہت دکھ پای ہے\nشبیر کی تو مانجای ہے\nقرآں کہ یوں کام آئی ہے\nشعلوں سے بچا کر لای ہے\nعابد کے لئے ان جانا عصا\nتیرا بابا تیرے ساتھ۔۔۔\n<<DIVIDER>>\nمیری بیٹی تجھ سا کوئی نہیں\nتو سرور کے مقصد کی امیں\nمت ہارنا ہمت غم سے کہیں\nڈھاے کتنے بھی ظلم لعیں\nہے دیں کے سر پر تیری ردا\nتیرا بابا تیرے ساتھ۔۔۔\n<<DIVIDER>>\nمقتل میں بھی ہم تیرے ساتھ رہے\nبازاروں میں بھی تیرے ساتھ چلے\nدربار میں بھی جانا ہے تجھے\nاس وقت بھی ہے ہم ساتھ تیرے\nمجھے یاد ہے اپنا ہر وعدہ\nتیرا بابا تیرے ساتھ۔۔۔\n<<DIVIDER>>\nاے عامر و نیر جب جب ہم\nرکھتے ہیں شام میں اپنے قدم\nپھر جاتل ہیں آنکھوں میں سارے غم\nوہ جور و جفا وہ ظلم و ستم\nکانوں میں یہی آتی ہے صدا\nتیرا بابا تیرے ساتھ۔۔۔",
+  "styling": [
+    {
+      "insert": "میرے بابا جلدی آ جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری زینب غم سے مت گھبرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا بابا تیرے ساتھ میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر نے وعدہ پورا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خنجر کے نیچے سجدہ کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل کی جانب دیکھ زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سمت ہے خون شہیدوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب آگے ہے تیری کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا بابا تیرے ساتھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم کم تو نہیں تھے یتیمی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اس پر زخمی اسیری کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخسار ہے نیلے بچی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شانوں پہ نشاں ہے رسی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھنا بڑا دھیان سکینہ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا بابا تیرے ساتھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآباد کیا شبیر نے بن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو آگے بڑھی بندھوا کے رسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی ہے وہاں بے گور و کفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے چادر ہے کوفے میں بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم دونوں کا ہے ملتا جھلتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا بابا تیرے ساتھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈھارس ہے تو ہی یتیموں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو ہی ان کی پھپھی تو ہی ماں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس بھی تو شبیر بھی تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو ہی فاطمہ زہرا تو ہی علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بار تیرے کاندھوں پہ بڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا بابا تیرے ساتھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاف دہشت شام غریباں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ سناٹا وہ تاریکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ہاتھ میں تیغ تھی ٹوٹی ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ہاتھ میں کچھ جھل سی لکڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے یاد ہے وہ تیرا پہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا بابا تیرے ساتھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمانا کہ بہت دکھ پای ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کی تو مانجای ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآں کہ یوں کام آئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شعلوں سے بچا کر لای ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کے لئے ان جانا عصا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا بابا تیرے ساتھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری بیٹی تجھ سا کوئی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو سرور کے مقصد کی امیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مت ہارنا ہمت غم سے کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھاے کتنے بھی ظلم لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے دیں کے سر پر تیری ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا بابا تیرے ساتھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمقتل میں بھی ہم تیرے ساتھ رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں بھی تیرے ساتھ چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دربار میں بھی جانا ہے تجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس وقت بھی ہے ہم ساتھ تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے یاد ہے اپنا ہر وعدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا بابا تیرے ساتھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے عامر و نیر جب جب ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھتے ہیں شام میں اپنے قدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر جاتل ہیں آنکھوں میں سارے غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جور و جفا وہ ظلم و ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کانوں میں یہی آتی ہے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا بابا تیرے ساتھ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

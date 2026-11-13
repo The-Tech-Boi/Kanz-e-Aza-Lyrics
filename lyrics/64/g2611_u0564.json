@@ -1,12 +1,533 @@
 {
   "remoteId": "g2611_u0564",
-  "title": "Asghar na milega",
+  "title": "اصغر نہ ملے گا",
   "body": "ماں کہتی تھی کیا کیا ملال جھیلے ہونگے\nبہنا نہیں پاس کس سے کھیلے ہونگے\nرات اندھیری ڈرونا جنگل\nاصغر میرے قبر میں اکیلے ہونگے\n<<DIVIDER>>\nنہ ملے گا نہ ملے گا\nجھولا تو نظر آے گا اصغر نہ ملے گا\nاب ساری خدائی میں اصغر نہ ملے گا\n<<DIVIDER>>\nاب جھولا جھلانے سو ترس جاییں گے باہیں\nخیمے میں کبھی دشت میں ڈھونڈیں گی نگاہیں\nتھک جایینگی یہ آنکھیں اصغر نہ ملے گا\nجھولا تو نظر آے گا۔۔۔\n<<DIVIDER>>\nساے میں نہ جاؤں گی تو گھر لوٹ کے آجا\nہر وقت میرے ہونٹوں پر ہوگا یہی نوحہ\nبن تیرے سکوں ماں کو اصغر نہ ملے گا\nجھولا تو نظر آے گا۔۔۔\n<<DIVIDER>>\nڈھاییں گے لعیں ہم پر ابھی اور قیامت\nڈھونڈیں گے شقی دشت میں بے شیر کی تربت\nشہداء کے سروں میں جب اصغر نہ ملے گا\nجھولا تو نظر آے گا۔۔۔\n<<DIVIDER>>\nزنداں سے رہا ہو کر جب جاؤ گی تم گھر\nہر گود میں ڈھونڈیں گی بہت روے گی مضطر\nجب فاطمہ صغریٰ کو اصغر نہ ملے گا\nجھولا تو نظر آے گا۔۔۔\n<<DIVIDER>>\nہاتھوں میں اٹھاؤں گی جب پانی کا کوزہ\nپانی میں نظر آے گا بے شیر کا چہرہ\nبس عکس نظر آے گا اصغر نہ ملے گا\nجھولا تو نظر آے گا۔۔۔\n<<DIVIDER>>\nاصغر کے شلوکے جب نظر آیینگے گھر میں\nاک درد سا اس وقت بھی اٹھے گا جگر میں\nسب ہونگے وہاں لیکن اصغر نہ ملے گا\nجھولا تو نظر آے گا۔۔۔\n<<DIVIDER>>\nیہ سوچ کے روتا ہے میرا دل بھی تڑپ کر\nاس وقت تیرے قلب پہ کیا گزرے گی مضطر\nجب راتوں کو پہلو میں اصغر نہ ملے گا\nجھولا تو نظر آے گا۔۔۔\n<<DIVIDER>>\nکیا وقتِ مصیبت ہے زرا دیکھ اے دکھیا\nکل جھولے میں بے شیر تھا اور پانی نہیں تھا\nمل جاے گا جب پانی اصغر نہ ملے گا\nجھولا تو نظر آے گا۔۔۔\n<<DIVIDER>>\nبن پانی کے دنیا سے سدھارا میرا اصغر\nجب آے گا پانی تو میری پیاری سی دختر\nڈھونڈے گی اسے بن‌ میں اصغر نہ ملے گا\nجھولا تو نظر آے گا۔۔۔\n<<DIVIDER>>\nیاد آے گا رہ رہ کر جو اصغر کا ہمکنا\nاور شوق شہادت میں وہ جھولے میں مچلنا\nتم دل کو منا لینا اصغر نہ ملے گا\nجھولا تو نظر آے گا۔۔۔\n<<DIVIDER>>\nکیا بیت گیء ہو گی اس ماں کے جگر پر\nسوچو تو زرا کہتا ہے عرفان سے مظہر\nجب شہ نے کہا ہو گا اصغر نہ ملے گا\nجھولا تو نظر آے گا۔۔۔",
+  "styling": [
+    {
+      "insert": "ماں کہتی تھی کیا کیا ملال جھیلے ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہنا نہیں پاس کس سے کھیلے ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات اندھیری ڈرونا جنگل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر میرے قبر میں اکیلے ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ ملے گا نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا تو نظر آے گا اصغر نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ساری خدائی میں اصغر نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب جھولا جھلانے سو ترس جاییں گے باہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے میں کبھی دشت میں ڈھونڈیں گی نگاہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھک جایینگی یہ آنکھیں اصغر نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا تو نظر آے گا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nساے میں نہ جاؤں گی تو گھر لوٹ کے آجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر وقت میرے ہونٹوں پر ہوگا یہی نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن تیرے سکوں ماں کو اصغر نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا تو نظر آے گا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈھاییں گے لعیں ہم پر ابھی اور قیامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈیں گے شقی دشت میں بے شیر کی تربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہداء کے سروں میں جب اصغر نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا تو نظر آے گا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنداں سے رہا ہو کر جب جاؤ گی تم گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گود میں ڈھونڈیں گی بہت روے گی مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب فاطمہ صغریٰ کو اصغر نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا تو نظر آے گا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھوں میں اٹھاؤں گی جب پانی کا کوزہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی میں نظر آے گا بے شیر کا چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس عکس نظر آے گا اصغر نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا تو نظر آے گا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر کے شلوکے جب نظر آیینگے گھر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک درد سا اس وقت بھی اٹھے گا جگر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب ہونگے وہاں لیکن اصغر نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا تو نظر آے گا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سوچ کے روتا ہے میرا دل بھی تڑپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس وقت تیرے قلب پہ کیا گزرے گی مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب راتوں کو پہلو میں اصغر نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا تو نظر آے گا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا وقتِ مصیبت ہے زرا دیکھ اے دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کل جھولے میں بے شیر تھا اور پانی نہیں تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل جاے گا جب پانی اصغر نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا تو نظر آے گا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبن پانی کے دنیا سے سدھارا میرا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب آے گا پانی تو میری پیاری سی دختر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈے گی اسے بن‌ میں اصغر نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا تو نظر آے گا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد آے گا رہ رہ کر جو اصغر کا ہمکنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور شوق شہادت میں وہ جھولے میں مچلنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم دل کو منا لینا اصغر نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا تو نظر آے گا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا بیت گیء ہو گی اس ماں کے جگر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوچو تو زرا کہتا ہے عرفان سے مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب شہ نے کہا ہو گا اصغر نہ ملے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولا تو نظر آے گا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

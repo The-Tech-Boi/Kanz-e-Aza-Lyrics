@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u3166",
-  "title": "Tanhai e zainab hai",
+  "title": "تنہائیء زینب ہے",
   "body": "تنہائیء زینب ہے اور شام غریباں ہے\nجلتے ہوے خیمے ہیں کنبہ سر میداں ہے\n<<DIVIDER>>\nامداد کو بیٹی کی آ جاؤ میرے بابا\nبے دینوں کا نرغہ ہے اور دشتِ بیاباں ہے\nتنہائیء زینب ہے۔۔۔\n<<DIVIDER>>\nبچے تو ابھی تھک کر سب خاک پہ سوے ہیں\nمقتل میں اندھیرا ہے دل خوف سے لرزا ہے\nتنہائیء زینب ہے۔۔۔\n<<DIVIDER>>\nبن پانی کے اعدا نے گردن پہ چھری پھیری\nیہ کوی نہیں جانا بھای میرا مہماں ہے\nتنہائیء زینب ہے۔۔۔\n<<DIVIDER>>\nبابا وہ زرا دیکھو شبیر کے لاشے کو\nاعضائے بدن زخمی سر خوں میں غلطاں ہے\nتنہائیء زینب ہے۔۔۔\n<<DIVIDER>>\nپردیس میں زینب کی اللّٰہ رے مجبوری\nدوں کیسے کفن شہ کو سر میرا بھی عریاں ہے\nتنہائیء زینب ہے۔۔۔\n<<DIVIDER>>\nپامال شدہ رن میں لاشے ہیں شہیدوں کے\nبکھری ہوی مقتل میں ہر آیت قرآں ہے\nتنہائیء زینب ہے۔۔۔\n<<DIVIDER>>\nہم تشنہ دہانوں پر وہ ظلم و ستم ٹوٹے\nپانی تو ہے شرمندہ خود ظلم بھی حیراں ہے\nتنہائیء زینب ہے۔۔۔\n<<DIVIDER>>\nآنکھوں میں مجیب اپنی ہے کربوبلا رشن\nمحسن کی نگاہوں میں قبر شہ زیشاں ہے\nتنہائیء زینب ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "تنہائیء زینب ہے اور شام غریباں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتے ہوے خیمے ہیں کنبہ سر میداں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامداد کو بیٹی کی آ جاؤ میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے دینوں کا نرغہ ہے اور دشتِ بیاباں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہائیء زینب ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچے تو ابھی تھک کر سب خاک پہ سوے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں اندھیرا ہے دل خوف سے لرزا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہائیء زینب ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبن پانی کے اعدا نے گردن پہ چھری پھیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کوی نہیں جانا بھای میرا مہماں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہائیء زینب ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا وہ زرا دیکھو شبیر کے لاشے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اعضائے بدن زخمی سر خوں میں غلطاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہائیء زینب ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپردیس میں زینب کی اللّٰہ رے مجبوری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دوں کیسے کفن شہ کو سر میرا بھی عریاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہائیء زینب ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپامال شدہ رن میں لاشے ہیں شہیدوں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بکھری ہوی مقتل میں ہر آیت قرآں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہائیء زینب ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم تشنہ دہانوں پر وہ ظلم و ستم ٹوٹے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی تو ہے شرمندہ خود ظلم بھی حیراں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہائیء زینب ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھوں میں مجیب اپنی ہے کربوبلا رشن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محسن کی نگاہوں میں قبر شہ زیشاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہائیء زینب ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Mujeeb Alipuri",
   "anjumans": [],
   "verified": false

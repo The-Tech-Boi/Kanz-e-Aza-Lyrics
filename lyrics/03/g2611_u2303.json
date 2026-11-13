@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u2303",
-  "title": "Matam hai saamara",
+  "title": "ماتم ہے سامرہ",
   "body": "ماتم ہے سامرہ میں امام حسن کا آج\nسایہ سروں سے اٹھ گیا شاہ زمن کا آج\n<<DIVIDER>>\nروتی ہے سر کو پیٹ کے نرجس با حال زار\nبیوہ ہوی میں اٹھ گیا والی جہاں سے آج\nماتم ہے سامرہ۔۔۔\n<<DIVIDER>>\nخیرالنسا کو ہاے رلایا مزار میں\nتازہ کیا ہے ماتم کربوبلا کو آج\nماتم ہے سامرہ۔۔۔\n<<DIVIDER>>\nچھوڑا نجف کو سامرہ پہنچے ہے مرتضیٰ\nماتم کناں حبیب خدا خلد میں ہے آج\nماتم ہے سامرہ۔۔۔\n<<DIVIDER>>\nہے چاک گریباں اور سر ہے کھلا ہوا\nہاے خاک سر پہ ڈالے امام زماں ہے آج\nماتم ہے سامرہ۔۔۔\n<<DIVIDER>>\nغربت میں ہم کو چھوڑ چلے ہاے بابا جاں\nبیکس یتیم جہاں میں تنہا ہوا ہے آج\nماتم ہے سامرہ۔۔۔\n<<DIVIDER>>\nغسل و کفن دیا اور لحد میں لٹا دیا\nلو خاک سامرہ بنی خاک شفا ہے آج\nماتم ہے سامرہ۔۔۔\n<<DIVIDER>>\nقدسی وہ چاند چھپ گیا بادل کے درمیاں\nغیبت شروع ہوی ہے امام زماں کی آج\nماتم ہے سامرہ۔۔۔",
+  "styling": [
+    {
+      "insert": "ماتم ہے سامرہ میں امام حسن کا آج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سایہ سروں سے اٹھ گیا شاہ زمن کا آج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتی ہے سر کو پیٹ کے نرجس با حال زار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیوہ ہوی میں اٹھ گیا والی جہاں سے آج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے سامرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیرالنسا کو ہاے رلایا مزار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تازہ کیا ہے ماتم کربوبلا کو آج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے سامرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھوڑا نجف کو سامرہ پہنچے ہے مرتضیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کناں حبیب خدا خلد میں ہے آج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے سامرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے چاک گریباں اور سر ہے کھلا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے خاک سر پہ ڈالے امام زماں ہے آج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے سامرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغربت میں ہم کو چھوڑ چلے ہاے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکس یتیم جہاں میں تنہا ہوا ہے آج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے سامرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغسل و کفن دیا اور لحد میں لٹا دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو خاک سامرہ بنی خاک شفا ہے آج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے سامرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقدسی وہ چاند چھپ گیا بادل کے درمیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غیبت شروع ہوی ہے امام زماں کی آج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے سامرہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hassan Askari (a.s)",
+  "subcategory": "امام حسن عسکری (ع)",
   "author": "Qudsi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,233 @@
 {
   "remoteId": "g2611_u1483",
-  "title": "Haye kis tarha kati",
+  "title": "ہائے کس طرح کاٹی",
   "body": "ہائے کس طرح کاٹی شام غریباں زینب\nکتنا پر حول تھا کربلا کا بیاباں زینب\n---ہائے کس طرح\n<<DIVIDER>>\nآگ خیموں میں لگائی بھائی بھتیجے نہ پسر\nکتنی اس وقت ہوئی آپ پریشان زینب\n---ہائے کس طرح\n<<DIVIDER>>\nایک برچھی نے جگر کر دیا چھلنی ورنہ\nکتنے تھے دل میں تیرے حسرت و ارماں زینب\n---ہائے کس طرح\n<<DIVIDER>>\nآگ کے شعلوں سے سجاد کو لائے کیونکر\nآج تک قلب ہے اس حال پر گریاں زینب\n---ہائے کس طرح\n<<DIVIDER>>\nقلب مجروح پہ کیا گذری شب غربت میں\nآیا جس وقت نظر گنج شہیداں زینب\n---ہائے کس طرح\n<<DIVIDER>>\nٹوٹا سا نیزہ لئے آپ اندھیری شب میں\nمثل عباس رہی سب کی نگہباں زینب\n---ہائے کس طرح\n<<DIVIDER>>\nپشت پر ہاتھ باندھے سر کھلے اعدائ کے ستم\nکیسے دفنائی بھلا لاشے شہیداں زینب\n---ہائے کس طرح",
+  "styling": [
+    {
+      "insert": "ہائے کس طرح کاٹی شام غریباں زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنا پر حول تھا کربلا کا بیاباں زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہائے کس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآگ خیموں میں لگائی بھائی بھتیجے نہ پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنی اس وقت ہوئی آپ پریشان زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہائے کس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک برچھی نے جگر کر دیا چھلنی ورنہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنے تھے دل میں تیرے حسرت و ارماں زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہائے کس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآگ کے شعلوں سے سجاد کو لائے کیونکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج تک قلب ہے اس حال پر گریاں زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہائے کس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقلب مجروح پہ کیا گذری شب غربت میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آیا جس وقت نظر گنج شہیداں زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہائے کس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹوٹا سا نیزہ لئے آپ اندھیری شب میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مثل عباس رہی سب کی نگہباں زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہائے کس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپشت پر ہاتھ باندھے سر کھلے اعدائ کے ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے دفنائی بھلا لاشے شہیداں زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہائے کس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "anjumans": [],
   "verified": false
 }

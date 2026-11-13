@@ -1,7 +1,396 @@
 {
   "remoteId": "g2611_u2417",
-  "title": "Mere hussain mujhe",
+  "title": "میرے حسین مجھے",
   "body": "میرے حسین مجھے کربلا دکھا دیجیئے\nمیں مضطرب ہوں میرے دل کا غم مٹا دیجیےء\n<<DIVIDER>>\nبس اپنے دل میں زیارت کی التجاء لے کر\nمیں بیٹھا رہتا ہوں تصویر کربلا لے کر\nفنا میں بیٹھا ہوں مجھکو بقا بنا دیجئے\nمیرے حسین مجھے۔۔۔\n<<DIVIDER>>\nمیں جانتا ہوں بہت کم نصیب ہوں مولا\nمجھے ہے علم بہت ہی غریب ہوں مولا\nیہ کم نصیبی و غربت میری مٹا دیجیےء\nمیرے حسین مجھے۔۔۔\n<<DIVIDER>>\nجہاں پہ برچھیاں کھا کر گرے علی اکبر\nجہاں پہ رکھا ہے گہوارہء علی اصغر\nمقام اکبر و اصغر مجھے دکھا دیجئے\nمیرے حسین مجھے۔۔۔\n<<DIVIDER>>\nمیں کاظمین و نجف دیکھوں سامرہ دیکھو\nجہاں جہاں میرے مولا ہے وہ جگہ دیکھوں\nیہ التجاء ہے کہ زایر مجھے بنا دیجئے\nمیرے حسین مجھے۔۔۔\n<<DIVIDER>>\nجو ہو سکے مجھے عاشور پر بلا لیجیےء\nاے میرے مولا مجھے یہ شرف عطا کیجیئے\nکہ کربلائی میرے نام میں لگا دیجئے\nمیرے حسین مجھے۔۔۔\n<<DIVIDER>>\nیہ چاہتا ہوں وہاں اشک سے وضو میں کروں\nکروں میں سینہ زنی خوں کا پرسہ دوں\nوہاں کی خاک میں میرا لہو ملا دیجئے\nمیرے حسین مجھے۔۔۔\n<<DIVIDER>>\nکسی برس یہ میرا انتظام ہو مولا\nچلوں میں شوق سے پیدل نجف سے کربوبلا\nمیرے قدم بھی رہے عرش پر لگا دیجئے\nمیرے حسین مجھے۔۔۔\n<<DIVIDER>>\nضریح حضرت عباس کو بھی چوموں میں\nدر حضور پہ مشکیزے کو بھی دیکھوں میں\nتو رستہءکف عباس بھی دکھا دیجئے\nمیرے حسین مجھے۔۔۔\n<<DIVIDER>>\nدعا ہے ماجد و مختار کی میرے مولا\nجو مومنین نہ اذیت پہ جا سکے آقا\nسب ہی کو زایر کربوبلا بنا دیجئے\nمیرے حسین مجھے۔۔۔",
+  "styling": [
+    {
+      "insert": "میرے حسین مجھے کربلا دکھا دیجیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں مضطرب ہوں میرے دل کا غم مٹا دیجیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبس اپنے دل میں زیارت کی التجاء لے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بیٹھا رہتا ہوں تصویر کربلا لے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فنا میں بیٹھا ہوں مجھکو بقا بنا دیجئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں جانتا ہوں بہت کم نصیب ہوں مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے ہے علم بہت ہی غریب ہوں مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کم نصیبی و غربت میری مٹا دیجیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجہاں پہ برچھیاں کھا کر گرے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جہاں پہ رکھا ہے گہوارہء علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقام اکبر و اصغر مجھے دکھا دیجئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کاظمین و نجف دیکھوں سامرہ دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جہاں جہاں میرے مولا ہے وہ جگہ دیکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ التجاء ہے کہ زایر مجھے بنا دیجئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو ہو سکے مجھے عاشور پر بلا لیجیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے مولا مجھے یہ شرف عطا کیجیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ کربلائی میرے نام میں لگا دیجئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ چاہتا ہوں وہاں اشک سے وضو میں کروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کروں میں سینہ زنی خوں کا پرسہ دوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہاں کی خاک میں میرا لہو ملا دیجئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکسی برس یہ میرا انتظام ہو مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلوں میں شوق سے پیدل نجف سے کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے قدم بھی رہے عرش پر لگا دیجئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nضریح حضرت عباس کو بھی چوموں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "در حضور پہ مشکیزے کو بھی دیکھوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو رستہءکف عباس بھی دکھا دیجئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدعا ہے ماجد و مختار کی میرے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مومنین نہ اذیت پہ جا سکے آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب ہی کو زایر کربوبلا بنا دیجئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے حسین مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

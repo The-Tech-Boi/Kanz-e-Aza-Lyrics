@@ -1,7 +1,313 @@
 {
   "remoteId": "g2611_u1553",
-  "title": "Hum azadaar hai",
+  "title": "ہم عزادار ہیں",
   "body": "لبیک یا حسین لبیک یا حسین\n<<DIVIDER>>\nہم عزادار ہیں ہم عزادار ہیں\nشاہ مظلوم کے ہم عزادار ہیں\n<<DIVIDER>>\nکی ہمارے لئے آپ زہرا دعا\nہم‌ ہیں سب سے الگ ہم ہیں سب سے جدا\nہاتھوں میں اپنے ہے علمِ شاہِ وفا\nدرس گاہ ہے ہماری تو بس کربلا\nجس نے کلمۂ قرآن ہم کو دیا\nاس نبی کے نواسے کے غم خوار ہیں\nہم عزادار ہیں۔۔۔\n<<DIVIDER>>\nیہ خدا کی خدائی کے ہیں رازداں\nبنے پنجتن کے صدقے میں دونوں جہاں\nہے نبی کی زباں ہی خدا کی زباں\nتابے ان کے امر کے ہیں کون و مکاں\nدسترس میں انہیں کے ہیں لوح و قلم\nبا خدا یہ ہی جنت کے سردار ہے\nہم عزادار ہیں۔۔۔\n<<DIVIDER>>\nآؤ حق مودت ادا ہم کرے\nعلی اصغر کا اکبر کا ماتم کرے\nمل کے قاسم کا عباس کا غم کرے\nیاد میں اپنی آنکھوں کو پرنم کرے\nثانیء زہرا کے تھے جو پالے ہوئے\nسر کیےء جن کے نیزوں پہ اخوار ہے\nہم عزادار ہیں۔۔۔\n<<DIVIDER>>\nاللہ جانے وہ کیسے مسلمان تھے\nکلمہ گو تھے مگر نہ پشیمان تھے\nقتل ان کو کیا ہے جو مہمان تھے\nبن گےء جان کر بھی جو انجان تھے\nرونا خورشید ہے صرف اس بات کا\nلاے آل نبی کو وہ بازار ہے\nہم عزادار ہیں۔۔۔",
+  "styling": [
+    {
+      "insert": "لبیک یا حسین لبیک یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم عزادار ہیں ہم عزادار ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ مظلوم کے ہم عزادار ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکی ہمارے لئے آپ زہرا دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم‌ ہیں سب سے الگ ہم ہیں سب سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں میں اپنے ہے علمِ شاہِ وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درس گاہ ہے ہماری تو بس کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس نے کلمۂ قرآن ہم کو دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس نبی کے نواسے کے غم خوار ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم عزادار ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ خدا کی خدائی کے ہیں رازداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنے پنجتن کے صدقے میں دونوں جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے نبی کی زباں ہی خدا کی زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تابے ان کے امر کے ہیں کون و مکاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دسترس میں انہیں کے ہیں لوح و قلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "با خدا یہ ہی جنت کے سردار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم عزادار ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآؤ حق مودت ادا ہم کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی اصغر کا اکبر کا ماتم کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل کے قاسم کا عباس کا غم کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد میں اپنی آنکھوں کو پرنم کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ثانیء زہرا کے تھے جو پالے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کیےء جن کے نیزوں پہ اخوار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم عزادار ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللہ جانے وہ کیسے مسلمان تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلمہ گو تھے مگر نہ پشیمان تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل ان کو کیا ہے جو مہمان تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن گےء جان کر بھی جو انجان تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونا خورشید ہے صرف اس بات کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاے آل نبی کو وہ بازار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم عزادار ہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

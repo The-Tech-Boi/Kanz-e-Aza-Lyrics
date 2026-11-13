@@ -1,12 +1,350 @@
 {
   "remoteId": "g2611_u2241",
-  "title": "Maidan ki jalti reti",
+  "title": "میدان کی جلتی ریتی",
   "body": "میدان کی جلتی ریتی پر\nایک پیاسے کی پیشانی ہے\nاس سجدۂ آخر پر شہ کے\nعالم کو بڑی حیرانی ہے\n<<DIVIDER>>\nہر آنے والے کو بچے\nتکتے ہیں نگاہ تشنہ سے\nاس درد میں ڈوبے منظر سے\nدریا بھی پانی پانی ہے\nمیدان کی جلتی۔۔۔\n<<DIVIDER>>\nہاتھوں پہ پدر کے میداں میں\nاسلام بچانے جاؤں گا\nحیدر کے یہ ننھے پوتے نے\nکیا بات یہ دل میں ٹھانی ہے\nمیدان کی جلتی۔۔۔\n<<DIVIDER>>\nمعصوم اشاروں کے حملے\nباطل کی کمر کو توڑ گےء\nیہ فتح قلوب اعدا پر\nبے شیر تیری لا ثانی ہے\nمیدان کی جلتی۔۔۔\n<<DIVIDER>>\nایک لاشہء بے سر سے لپٹی\nمعصوم سکینہ روتی ہے\nخوشبوے پدر سے مقتل میں\nاس لاش کو وہ پہچانی ہے\nمیدان کی جلتی۔۔۔\n<<DIVIDER>>\nجس روز سے کنبہ قتل ہوا\nاس روز سے اہل بیت کے گھر\nہر وقت ہے یا تو سینہ زنی\nیا لب پہ نوحہ خوانی ہے\nمیدان کی جلتی۔۔۔\n<<DIVIDER>>\nاسرار نہ اتنا غم ہوتا\nزینب کی اسیری کا دل پر\nایک فرد بھی کہہ دیتا اس دم\nلوٹا نہ اسے سیدانی ہے\nمیدان کی جلتی۔۔۔",
+  "styling": [
+    {
+      "insert": "میدان کی جلتی ریتی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک پیاسے کی پیشانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس سجدۂ آخر پر شہ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عالم کو بڑی حیرانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر آنے والے کو بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تکتے ہیں نگاہ تشنہ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس درد میں ڈوبے منظر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا بھی پانی پانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان کی جلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھوں پہ پدر کے میداں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسلام بچانے جاؤں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کے یہ ننھے پوتے نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بات یہ دل میں ٹھانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان کی جلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمعصوم اشاروں کے حملے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باطل کی کمر کو توڑ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ فتح قلوب اعدا پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے شیر تیری لا ثانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان کی جلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک لاشہء بے سر سے لپٹی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوشبوے پدر سے مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس لاش کو وہ پہچانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان کی جلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس روز سے کنبہ قتل ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس روز سے اہل بیت کے گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر وقت ہے یا تو سینہ زنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا لب پہ نوحہ خوانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان کی جلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسرار نہ اتنا غم ہوتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی اسیری کا دل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک فرد بھی کہہ دیتا اس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹا نہ اسے سیدانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میدان کی جلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Israar",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,468 @@
 {
   "remoteId": "g2611_u3562",
-  "title": "Zainab ne kaha ye",
+  "title": "زینب نے کہا یہ",
   "body": "زینب نے کہا یہ رو رو کر میں قیدی ہوں\nبابا آئو دیکھو آ کر میں قیدی ہوں\n<<DIVIDER>>\nدربار میں بے پردہ ہوں کھڑی\nبازو میں رسن ہے میرے بندھی\nنئے رنگِ زمانہ دیکھے کوئی\nظالم ہے تختِ محمد پر\nمیں قیدی ہوں\nزینب نے کہا یہ ۔۔۔\n<<DIVIDER>>\nنانا کا اُٹھا جب سے سایہ\nاک پل بھی نہ چین ہم نے پایا\nہوتے ہوتے یہ دن آیا\nشبیر کا سر ہے نیزے پر\nمیں قیدی ہوں\nزینب نے کہا یہ ۔۔۔\n<<DIVIDER>>\nبرباد ہوا زہرا کا چمن\nبھائی ہے میرا بے گورو کفن\nمیں دُکھیاری لاچار بہن\nرو بھی نہیں سکتی میت پر\nمیں قیدی ہوں\nزینب نے کہا یہ ۔۔۔\n<<DIVIDER>>\nآئو آئو عباسِ علی\nخیموں میں ہے سب آگ لگی\nبے پردہ ہوئی اولادِ نبی\nکیا ہو گا ستم اس سے بڑھ کر\nمیں قیدی ہوں\nزینب نے کہا یہ ۔۔۔\n<<DIVIDER>>\nوہ دیکھو سکینہ پھر روئی\nپھر مار رہا ہے کوئی شقی\nبازو میں رسن ہے میرے بندھی\nمیں روکوں تو روکوں کیونکر\nمیں قیدی ہوں\nزینب نے کہا یہ ۔۔۔\n<<DIVIDER>>\nمیں کہنے خُدا حافظ آئی\nمجبور ہے بھیا ماں جائی\nکیسے دوں کفن تم کو بھائی\nچادر بھی نہیں میرے سر پر\nمیں قیدی ہوں\nزینب نے کہا یہ ۔۔۔\n<<DIVIDER>>\nقاسم ہو کہاں اکبر ہو کہاں\nاے عون و محمد جاتی ہے ماں\nعباس میرے اے شیرِ جواں\nدیکھو تو ذرا بھیا اُٹھ کر\nمیں قیدی ہوں\nزینب نے کہا یہ ۔۔۔\n<<DIVIDER>>\nبابا آئو دیکھو آکر میں قیدی ہوں\nزینب نے کہا یہ ۔۔۔",
+  "styling": [
+    {
+      "insert": "زینب نے کہا یہ رو رو کر میں قیدی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا آئو دیکھو آ کر میں قیدی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدربار میں بے پردہ ہوں کھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازو میں رسن ہے میرے بندھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نئے رنگِ زمانہ دیکھے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم ہے تختِ محمد پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں قیدی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے کہا یہ ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنانا کا اُٹھا جب سے سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک پل بھی نہ چین ہم نے پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتے ہوتے یہ دن آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کا سر ہے نیزے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں قیدی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے کہا یہ ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرباد ہوا زہرا کا چمن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی ہے میرا بے گورو کفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں دُکھیاری لاچار بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو بھی نہیں سکتی میت پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں قیدی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے کہا یہ ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآئو آئو عباسِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں میں ہے سب آگ لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے پردہ ہوئی اولادِ نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ہو گا ستم اس سے بڑھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں قیدی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے کہا یہ ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ دیکھو سکینہ پھر روئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر مار رہا ہے کوئی شقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازو میں رسن ہے میرے بندھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں روکوں تو روکوں کیونکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں قیدی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے کہا یہ ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کہنے خُدا حافظ آئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجبور ہے بھیا ماں جائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے دوں کفن تم کو بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر بھی نہیں میرے سر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں قیدی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے کہا یہ ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاسم ہو کہاں اکبر ہو کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے عون و محمد جاتی ہے ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرے اے شیرِ جواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو تو ذرا بھیا اُٹھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں قیدی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے کہا یہ ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا آئو دیکھو آکر میں قیدی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب نے کہا یہ ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Sachey Bhai",
   "anjumans": [],
   "verified": false

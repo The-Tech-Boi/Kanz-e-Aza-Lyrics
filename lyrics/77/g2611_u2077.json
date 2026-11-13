@@ -1,12 +1,447 @@
 {
   "remoteId": "g2611_u2077",
-  "title": "Kya kare zainab",
+  "title": "کیا کرے زینب",
   "body": "شام غریباں شام غریباں\n<<DIVIDER>>\nجل گئے خیمے سوگیا لشکر\nلٹ گیا سارا گھر زینب کا اب ہے تنہا\nنا سرور ہے نا اکبر ہے نا غازی ہے\n<<DIVIDER>>\nلعیں نیزے سے چادر چھینتا ہے کیا کرے زینب\nتھی جس بھائی سے ڈھارس مرگیا ہے کیا کرے زینب\n<<DIVIDER>>\nمناتا ہے خوشی ظالم دکھاتا ہے مجھے خنجر\nبلا عباس کو اپنے یہ کہتا ہے وہ ہنس ہنس کر\nلہو چادر سے میری پونچھتا ہے کیا کرے زینب\nلعیں نیزے سے چادر۔۔۔\n<<DIVIDER>>\nتری ہر ضرب کا غازی بہن سے لے گا وہ بدلہ\nلعیں خیمے میں آیا ہے اُٹھاکر ہاتھ میں دُرہ\nتمہی بنتِ علی ہو پوچھتا ہے کیا کرے زینب\nلعیں نیزے سے چادر۔۔۔\n<<DIVIDER>>\nبڑی غربت کا عالم ہے بندھے ہیں ہاتھ گردن سے\nبجھائے آگ وہ کیسے سکینہ تیرے دامن سے\nاور اب ظالم طمانچہ مارتا ہے کیا کرے زینب\nلعیں نیزے سے چادر۔۔۔\n<<DIVIDER>>\nکہا زینب نے عابد سے امامِ وقت بتلائیں\nیہیں خیموں میں جل جائیں یا ہم باہر نکل جائیں\nاُٹھو سجاد مشکل مرحلہ ہے کیا کرے زینب\nلعیں نیزے سے چادر۔۔۔\n<<DIVIDER>>\nکہا یہ سعد کے بیٹے نے آکر ابنِ نوفل سے\nسفر میں چاہے سب سوئیں مگر زینب نہیں سوئے\nابھی سے ورم رُخ پر آگیا ہے کیا کرے زینب\nلعیں نیزے سے چادر۔۔۔\n<<DIVIDER>>\nاُسے اک ماں کی طرح اپنے سینے سے لگا لیتی\nرسن ہاتھوں میں نا ہوتی تو گرنے سے بچا لیتی\nسرِ غازی سناں سے گر رہا ہے کیا کرے زینب\nلعیں نیزے سے چادر۔۔۔\n<<DIVIDER>>\nکوئی اپنا نہیں تنہا کھڑی ہے دشت میں دیکھو\nکفن کیسے دے اٹھارا بنی ہاشم کے لاشوں کو\nمدینہ تو نہیں یہ کربلا ہے کیا کرے زینب\nلعیں نیزے سے چادر۔۔۔\n<<DIVIDER>>\nکہاں ہو لعل آجاؤ تمہیں ماں یاد کرتی ہے\nاُٹھاکر راکھ ہاتھوں میں رباب اک سمت بیٹھی ہے\nعلی اصغر کا جھولا جل چکا ہے کیا کرے زینب\nلعیں نیزے سے چادر۔۔۔\n<<DIVIDER>>\nہے پہلی شب یتیمی کی اُسے نیند آئیگی کیسے\nاے ذیشان و رضا بالی سکینہ سوتی تھی جس پے\nوہ سینہ رن میں تیروں سے بھرا ہے کیا کرے زینب\nلعیں نیزے سے چادر۔۔۔",
+  "styling": [
+    {
+      "insert": "شام غریباں شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجل گئے خیمے سوگیا لشکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ گیا سارا گھر زینب کا اب ہے تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نا سرور ہے نا اکبر ہے نا غازی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلعیں نیزے سے چادر چھینتا ہے کیا کرے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی جس بھائی سے ڈھارس مرگیا ہے کیا کرے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمناتا ہے خوشی ظالم دکھاتا ہے مجھے خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلا عباس کو اپنے یہ کہتا ہے وہ ہنس ہنس کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو چادر سے میری پونچھتا ہے کیا کرے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعیں نیزے سے چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتری ہر ضرب کا غازی بہن سے لے گا وہ بدلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعیں خیمے میں آیا ہے اُٹھاکر ہاتھ میں دُرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہی بنتِ علی ہو پوچھتا ہے کیا کرے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعیں نیزے سے چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبڑی غربت کا عالم ہے بندھے ہیں ہاتھ گردن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بجھائے آگ وہ کیسے سکینہ تیرے دامن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اب ظالم طمانچہ مارتا ہے کیا کرے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعیں نیزے سے چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا زینب نے عابد سے امامِ وقت بتلائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہیں خیموں میں جل جائیں یا ہم باہر نکل جائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھو سجاد مشکل مرحلہ ہے کیا کرے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعیں نیزے سے چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا یہ سعد کے بیٹے نے آکر ابنِ نوفل سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر میں چاہے سب سوئیں مگر زینب نہیں سوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی سے ورم رُخ پر آگیا ہے کیا کرے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعیں نیزے سے چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاُسے اک ماں کی طرح اپنے سینے سے لگا لیتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسن ہاتھوں میں نا ہوتی تو گرنے سے بچا لیتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرِ غازی سناں سے گر رہا ہے کیا کرے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعیں نیزے سے چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی اپنا نہیں تنہا کھڑی ہے دشت میں دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کفن کیسے دے اٹھارا بنی ہاشم کے لاشوں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدینہ تو نہیں یہ کربلا ہے کیا کرے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعیں نیزے سے چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہاں ہو لعل آجاؤ تمہیں ماں یاد کرتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھاکر راکھ ہاتھوں میں رباب اک سمت بیٹھی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی اصغر کا جھولا جل چکا ہے کیا کرے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعیں نیزے سے چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے پہلی شب یتیمی کی اُسے نیند آئیگی کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذیشان و رضا بالی سکینہ سوتی تھی جس پے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ سینہ رن میں تیروں سے بھرا ہے کیا کرے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لعیں نیزے سے چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Zeeshan Abidi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,505 @@
 {
   "remoteId": "g2611_u2969",
-  "title": "Sehra ke andhere",
+  "title": "صحرا کے اندھیرے",
   "body": "صحرا کے اندھیرے میں اٹھا شور بکا کا\nبابا بابا بابا بابا\n<<DIVIDER>>\nکس جا پہ ہو آواز مجھے دیجیےء خدارا\nبابا بابا بابا بابا\n<<DIVIDER>>\nخیمہ جلا گھر‌ لٹ گیا\nبھیا میرا قیدی بنا\nپھرتی ہوں بھٹکتی ہوئی ملتا نہیں لاشہ\nبابا بابا بابا بابا\nصحرا کے اندھیرے۔۔۔\n<<DIVIDER>>\nچادر چھنی درے لگے\nبلوے میں ہے سب سر کھلے\nکانوں سے میرے چھینے گوہر مارا طمانچہ\nبابا بابا بابا بابا\nصحرا کے اندھیرے۔۔۔\n<<DIVIDER>>\nپھیلا ہے مقتل میں دھواں\nپر حول ہے یاں کا سماں\nٹکراتی ہوں لاشوں سے دکھای نہیں دیتا\nبابا بابا بابا بابا\nصحرا کے اندھیرے۔۔۔\n<<DIVIDER>>\nاک لاش نے آواز دی\nپھٹ جاتی ہے چھاتی میری\nآواز سر دشت جو تو دیتی ہے دکھیا\nبابا بابا بابا بابا\nصحرا کے اندھیرے۔۔۔\n<<DIVIDER>>\nسینے سے آ لگ جا میرے\nبے سر ہے ہم رن میں پڑے\nدریا پہ نہ جانا کرتی ہوئی نالہ\nبابا بابا بابا بابا\nصحرا کے اندھیرے۔۔۔\n<<DIVIDER>>\nکیوں آ گیء تو خیمے سے\nعمو تڑپتے ہیں تیرے\nسن کر تیری فریاد کو اس دشت میں بیٹا\nبابا بابا بابا بابا\nصحرا کے اندھیرے۔۔۔\n<<DIVIDER>>\nناگاہ مقتل کی فضا\nلای یہ زینب کی صدا\nکیا آی ہے لاشے پہ دکھانے جلا کرتہ\nبھیا بھیا بھیا بھیا\nصحرا کے اندھیرے۔۔۔\n<<DIVIDER>>\nمانجای کی آواز پر\nدی شہ کے لاشے نے خبر\nآہستہ بہن زور سے آواز نہ دینا\nبھیا بھیا بھیا بھیا\nصحرا کے اندھیرے۔۔۔\n<<DIVIDER>>\nکیوں کر انیس غم لکھے\nمقتل میں ہے جو واقعے\nزنداں کی فضاؤں میں ابھی تک ہے یہ نوحہ\nبابا بابا بابا بابا\nصحرا کے اندھیرے۔۔۔",
+  "styling": [
+    {
+      "insert": "صحرا کے اندھیرے میں اٹھا شور بکا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس جا پہ ہو آواز مجھے دیجیےء خدارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمہ جلا گھر‌ لٹ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا میرا قیدی بنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھرتی ہوں بھٹکتی ہوئی ملتا نہیں لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحرا کے اندھیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچادر چھنی درے لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلوے میں ہے سب سر کھلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کانوں سے میرے چھینے گوہر مارا طمانچہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحرا کے اندھیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھیلا ہے مقتل میں دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پر حول ہے یاں کا سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکراتی ہوں لاشوں سے دکھای نہیں دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحرا کے اندھیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک لاش نے آواز دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھٹ جاتی ہے چھاتی میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز سر دشت جو تو دیتی ہے دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحرا کے اندھیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسینے سے آ لگ جا میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے سر ہے ہم رن میں پڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا پہ نہ جانا کرتی ہوئی نالہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحرا کے اندھیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں آ گیء تو خیمے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمو تڑپتے ہیں تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کر تیری فریاد کو اس دشت میں بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحرا کے اندھیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nناگاہ مقتل کی فضا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لای یہ زینب کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا آی ہے لاشے پہ دکھانے جلا کرتہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا بھیا بھیا بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحرا کے اندھیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمانجای کی آواز پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دی شہ کے لاشے نے خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہستہ بہن زور سے آواز نہ دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا بھیا بھیا بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحرا کے اندھیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں کر انیس غم لکھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں ہے جو واقعے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کی فضاؤں میں ابھی تک ہے یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صحرا کے اندھیرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Anees",
   "anjumans": [],
   "verified": false

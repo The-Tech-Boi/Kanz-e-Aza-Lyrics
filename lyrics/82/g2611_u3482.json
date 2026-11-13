@@ -1,12 +1,504 @@
 {
   "remoteId": "g2611_u3482",
-  "title": "Ye meri laadli",
+  "title": "یہ میری لاڈلی",
   "body": "یہ میری لاڈلی ہائے سکینہ\n<<DIVIDER>>\nچلے جب آخری رُخصت کو سرور\nکہا زینب سے اے مظلوم خواہر\nذرا لے آئو تم باقر کو جا کر\nجب آیا ابنِ عابد حکم پا کر\nکہا باقر سے شہہ نے غم نہ کرنا\nکے تیرے ساتھ ہے میری سکینہ\nیہ میری لاڈلی۔۔۔\n<<DIVIDER>>\nیہ خود پیاسی رہے گی دُکھ سہے گی\nمگر پیاسا تمہیں رہنے نہ دے گی\nیہ خود رو کر تجھے رونے نہ دے گی\nیہ راہِ شام میں سایہ کرے گی\nتجھے اک پل نہ چھوڑے گی اکیلا\nیہ میری لاڈلی۔۔۔\n<<DIVIDER>>\nکہا زینب سے پھر اے میری خواہر\nچھِنے گی جب تمہارے سر سے چادر\nتماچے کھا کے بھی یہ میری دُختر\nکبھی ہونے نہ دے گی تم کو مضطر\nیہ بالوں سے کرے گی تم پہ سایہ\nیہ میری لاڈلی۔۔۔\n<<DIVIDER>>\nجگا کر غش سے یہ عابد کو بولے\nحسین ابنِ علی اے لال میرے\nجب ہونگی بیڑیاں پیروں میں تیرے\nستمگار جب تجھے سونے نہ دینگے\nکرے گی طوق کو اشکوں سے ٹھنڈا\nیہ میری لاڈلی۔۔۔\n<<DIVIDER>>\nاگرچہ کان ہونگے اُس کے زخمی\nبندھی ہو گی گلے میں اُس کے رسی\nکئی دن اور کئی شب کی یہ جاگی\nکسی پہ دُکھ نہ یہ ظاہر کرے گی\nہر اک پل دھیان رکھے گی تمہارا\nیہ میری لاڈلی۔۔۔\n<<DIVIDER>>\nاسے سینے پہ تم اپنے سُلانا\nسرِ نیزہ میرا سر نہ دیکھانا\nہماری لاش پہ اس کو نہ لانا\nنہ دل اسکا کبھی زینب دُکھانا\nنہ دیکھے زخمی اکبر کا کلیجہ\nیہ میری لاڈلی۔۔۔\n<<DIVIDER>>\nعلی اصغر جو تھا چھوٹا سا بھیا\nہے سر اُس کا سِناں پر یہ نہ کہنا\nملا ہے خاک کا اس کو بچھونا\nتڑپ کر جان دے دے گی سکینہ\nبھلا دیکھے گی کیوں اصغر کا لاشہ\nیہ میری لاڈلی۔۔۔\n<<DIVIDER>>\nیہ کہہ کر رو دیئے خود شاہِ والا\nلکھو ریحان اُس منظر پہ نوحہ\nرضا جس کو پڑھے کریہ با کریہ\nہر اک اہلِ عزا ہو محوِ گریہ\nکہے مولا دعا دے گی ہمیشہ\nیہ میری لاڈلی۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ میری لاڈلی ہائے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلے جب آخری رُخصت کو سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا زینب سے اے مظلوم خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذرا لے آئو تم باقر کو جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب آیا ابنِ عابد حکم پا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہا باقر سے شہہ نے غم نہ کرنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کے تیرے ساتھ ہے میری سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میری لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ خود پیاسی رہے گی دُکھ سہے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر پیاسا تمہیں رہنے نہ دے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ خود رو کر تجھے رونے نہ دے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ راہِ شام میں سایہ کرے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھے اک پل نہ چھوڑے گی اکیلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میری لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہا زینب سے پھر اے میری خواہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھِنے گی جب تمہارے سر سے چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تماچے کھا کے بھی یہ میری دُختر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی ہونے نہ دے گی تم کو مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بالوں سے کرے گی تم پہ سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میری لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجگا کر غش سے یہ عابد کو بولے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین ابنِ علی اے لال میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہونگی بیڑیاں پیروں میں تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستمگار جب تجھے سونے نہ دینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرے گی طوق کو اشکوں سے ٹھنڈا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میری لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاگرچہ کان ہونگے اُس کے زخمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بندھی ہو گی گلے میں اُس کے رسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کئی دن اور کئی شب کی یہ جاگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی پہ دُکھ نہ یہ ظاہر کرے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر اک پل دھیان رکھے گی تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میری لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسے سینے پہ تم اپنے سُلانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرِ نیزہ میرا سر نہ دیکھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہماری لاش پہ اس کو نہ لانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ دل اسکا کبھی زینب دُکھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ دیکھے زخمی اکبر کا کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میری لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی اصغر جو تھا چھوٹا سا بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے سر اُس کا سِناں پر یہ نہ کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ملا ہے خاک کا اس کو بچھونا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپ کر جان دے دے گی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھلا دیکھے گی کیوں اصغر کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میری لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کہہ کر رو دیئے خود شاہِ والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھو ریحان اُس منظر پہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رضا جس کو پڑھے کریہ با کریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر اک اہلِ عزا ہو محوِ گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہے مولا دعا دے گی ہمیشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میری لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

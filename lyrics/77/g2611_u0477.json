@@ -1,12 +1,441 @@
 {
   "remoteId": "g2611_u0477",
-  "title": "Ameer bhi hai ghareeb",
+  "title": "امیر بھی ہے غریب",
   "body": "امیر حسین غریب حسین\nامیر بھی ہے غریب بھی ہے\nحسین محبوبِ کبریا ہے\nحسین غربت کی انتہا ہے\nامیر بھی ہے۔۔۔\n<<DIVIDER>>\nحسین مقصودِ کربلا ہے\nحسین مظلومِ کربلا ہے\nامیر بھی ہے۔۔۔\n<<DIVIDER>>\nامیر ایسا کفن کی سوغات\nجس کہ روضے سے بٹ رہی ہے\nغریب ایسا کہ خودکو اب تک\nکفن میسر نہیں ہوا ہے\nامیر بھی ہے۔۔۔\n<<DIVIDER>>\nامیر ایسا کہ جسکا جھولا\nنبی جھولائیں علی جھولائیں\nغریب ایسا کہ جس کے بچے\nکا بن میں جھولا بھی جل گیا ہے\nامیر بھی ہے۔۔۔\n<<DIVIDER>>\nامیر ایسا کہ رسمِ پرداداری\nچلی ہے اُسی کے گھر سے\nغریب ایسا کہ شام و کوفہ\nمیں اُس کی ہمشیر بے ردا ہے\nامیر بھی ہے۔۔۔\n<<DIVIDER>>\nامیر ایسا سکینہ جیسی\nخدا نے بیٹی جسے عطا کی\nغریب ایسا اُسی کے منہ پر\nکوئی تماچے لگا رہا ہے\nامیر بھی ہے۔۔۔\n<<DIVIDER>>\nامیر ایسا کہ جسکے بابا\nکی ملکیت میں ہے حوضِ کوثر\nغریب ایسا کہ تین دن سے\nاُسی کو پانی نہیںملاہے\nامیر بھی ہے۔۔۔\n<<DIVIDER>>\nامیر ایسا خدا کا دیں\nجسکے دم سے ہے آج تک سلامت\nغریب ایسا کہ رن میں جسکا\nبدن سلامت نہیں رہا ہے\nامیر بھی ہے۔۔۔\n<<DIVIDER>>\nامیر ایسا کہ پتھروں کو\nبنادے گوہر وہی تکلم\nغریب ایسا کہ پتھروں میں\nاُسی کا لاشہ چھپا ہوا ہے\nامیر بھی ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "امیر حسین غریب حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امیر بھی ہے غریب بھی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین محبوبِ کبریا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین غربت کی انتہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امیر بھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین مقصودِ کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین مظلومِ کربلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امیر بھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامیر ایسا کفن کی سوغات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کہ روضے سے بٹ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب ایسا کہ خودکو اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کفن میسر نہیں ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امیر بھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامیر ایسا کہ جسکا جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی جھولائیں علی جھولائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب ایسا کہ جس کے بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کا بن میں جھولا بھی جل گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امیر بھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامیر ایسا کہ رسمِ پرداداری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلی ہے اُسی کے گھر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب ایسا کہ شام و کوفہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں اُس کی ہمشیر بے ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امیر بھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامیر ایسا سکینہ جیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا نے بیٹی جسے عطا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب ایسا اُسی کے منہ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی تماچے لگا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امیر بھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامیر ایسا کہ جسکے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کی ملکیت میں ہے حوضِ کوثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب ایسا کہ تین دن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُسی کو پانی نہیںملاہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امیر بھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامیر ایسا خدا کا دیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسکے دم سے ہے آج تک سلامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب ایسا کہ رن میں جسکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بدن سلامت نہیں رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امیر بھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامیر ایسا کہ پتھروں کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنادے گوہر وہی تکلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب ایسا کہ پتھروں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُسی کا لاشہ چھپا ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امیر بھی ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

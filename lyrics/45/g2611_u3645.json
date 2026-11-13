@@ -1,12 +1,450 @@
 {
   "remoteId": "g2611_u3645",
-  "title": "Zindan ka andhera",
+  "title": "زنداں کا اندھیرا",
   "body": "دن رات سکینہ بی بی پر\nزنداں کا اندھیرا روتا ہے\nفریاد یتیمہ کی سن کر\nزنداں کا اندھیرا روتا ہے\n<<DIVIDER>>\nہے قید میں دکھیا خاک نشیں\nعمو بھی نہیں بابا بھی نہیں\nشہزادی کی اس غربت پر\nزنداں کا اندھیرا روتا ہے\nدن رات سکینہ بی بی پر۔۔۔\n<<DIVIDER>>\nجو ناز اٹھانے والے تھے\nاب کربوبلا میں مارے گۓ\nکرتی ہے فغاں وہ شام و سحر\nزنداں کا اندھیرا روتا ہے\nدن رات سکینہ بی بی پر۔۔۔\n<<DIVIDER>>\nکانوں سے لہو بہتا ہی رہا\nتھی اس پہ طمانچوں کی ایذا\nہے تشنہ لبی سے زخمی جگر\nزنداں کا اندھیرا روتا ہے\nدن رات سکینہ بی بی پر۔۔۔\n<<DIVIDER>>\nکمسن خواہر ہے نوحہ کناں\nگردن میں پڑا ہے طوق گراں\nسجاد کی غربت پر اکثر\nزنداں کا اندھیرا روتا ہے\nدن رات سکینہ بی بی پر۔۔۔\n<<DIVIDER>>\nعباس کی آنکھوں کا تارا\nآی تھی جو بن کر شہ کی دعا\nوہ کرتی رہی کانٹوں پہ سفر\nزنداں کا اندھیرا روتا ہے\nدن رات سکینہ بی بی پر۔۔۔\n<<DIVIDER>>\nیاد آتا ہے سینۂ شاہ زمن\nآنکھوں میں بھلا اب نیند کہاں\nغش کھاتی ہے بیکس مضطر\nزنداں کا اندھیرا روتا ہے\nدن رات سکینہ بی بی پر۔۔۔\n<<DIVIDER>>\nرو رو کے وہ سب سے کہتی تھی\nگھبراتا ہے دل لگتا ہے یہی\nجاؤں گی نہ واپس اپنے گھر\nزنداں کا اندھیرا روتا ہے\nدن رات سکینہ بی بی پر۔۔۔\n<<DIVIDER>>\nاس شہزادی کی خدمت میں\nاشک کے دیےء ہم پیش کریں\nصدیوں سے نجف اس بی بی پر\nزنداں کا اندھیرا روتا ہے\nدن رات سکینہ بی بی پر۔۔۔",
+  "styling": [
+    {
+      "insert": "دن رات سکینہ بی بی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کا اندھیرا روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فریاد یتیمہ کی سن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کا اندھیرا روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے قید میں دکھیا خاک نشیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمو بھی نہیں بابا بھی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہزادی کی اس غربت پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کا اندھیرا روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن رات سکینہ بی بی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو ناز اٹھانے والے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کربوبلا میں مارے گۓ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی ہے فغاں وہ شام و سحر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کا اندھیرا روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن رات سکینہ بی بی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکانوں سے لہو بہتا ہی رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی اس پہ طمانچوں کی ایذا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے تشنہ لبی سے زخمی جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کا اندھیرا روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن رات سکینہ بی بی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکمسن خواہر ہے نوحہ کناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گردن میں پڑا ہے طوق گراں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کی غربت پر اکثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کا اندھیرا روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن رات سکینہ بی بی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس کی آنکھوں کا تارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی تھی جو بن کر شہ کی دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ کرتی رہی کانٹوں پہ سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کا اندھیرا روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن رات سکینہ بی بی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد آتا ہے سینۂ شاہ زمن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں میں بھلا اب نیند کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غش کھاتی ہے بیکس مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کا اندھیرا روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن رات سکینہ بی بی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو رو کے وہ سب سے کہتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھبراتا ہے دل لگتا ہے یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاؤں گی نہ واپس اپنے گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کا اندھیرا روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن رات سکینہ بی بی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس شہزادی کی خدمت میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشک کے دیےء ہم پیش کریں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدیوں سے نجف اس بی بی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنداں کا اندھیرا روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن رات سکینہ بی بی پر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Ali Naqvi Najaf",
   "anjumans": [],
   "verified": false

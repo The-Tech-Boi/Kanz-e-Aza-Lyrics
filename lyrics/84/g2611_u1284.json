@@ -1,12 +1,323 @@
 {
   "remoteId": "g2611_u1284",
-  "title": "Garm reti pa mai",
+  "title": "گرم ریتی پہ میں",
   "body": "گرم ریتی پہ میں گرتا ہوں سنبھالو اماں\n<<DIVIDER>>\nعصرِ عاشورتھا شبیر تھے تنہائی تھی\nماہِ زہرا پہ گھٹا ظلم کی جب چھائی تھی\nشاہ پہ جب نوکِ سناں سُوئے زمیں لائی تھی\nگرتے گرتے لبِ زخمی پہ صدا آئی تھی\nگرم ریتی پہ میں۔۔۔\n<<DIVIDER>>\nلاش قاسم کی اُٹھائی ہے نظر زخمی ہے\nزخم اکبر کا جو دیکھا ہے جگر زخمی ہے\nقلب زخمی ہے بدن زخمی ہے سر زخمی ہے\nدے سہارا مجھے بابا کو بُلا لو اماں\nگرم ریتی پہ میں۔۔۔\n<<DIVIDER>>\nمیں جو گھوڑے سے گروں تم مجھے تسکیں دینا\nپیار کرنا میری ہمت کو دُعائیں دینا\nڈال کر باہیں گلے میں مجھے لپٹا لینا\nہا دمِ ذبح مگر ہاتھ ہٹالو اماں\nگرم ریتی پہ میں۔۔۔\n<<DIVIDER>>\nگر گیا ہوں میں کسی کی بھی مجھے آس نہیں\nقتل سب ہو گئے اب کوئی بھی میرے پاس نہیں\nمیرا قاسم نہیں اکبر نہیں عباس نہیں\nتم مجھے آ کے کلیجے سے لگا لو اماں\nگرم ریتی پہ میں۔۔۔\n<<DIVIDER>>\nاب کوئی بن میں میرے حلق پہ خنجر ہو گا\nاور سینے پہ میرے شمرِ ستمگار ہو گا\nخون کا ہوگا کفن خاک کا بستر ہو گا\nآخری ناز یہ بیٹے کا اُٹھا لو اماں\nگرم ریتی پہ میں۔۔۔\n<<DIVIDER>>\nاپنے وعدے کے لیے میں نے ہر ایذا سہہ لی\nایک ارمان میرا نکلے تو عنایت ہو گی\nذبح کے وقت میری تم سے تمنا ہے یہی\nسر میرا خاک سے زانو پہ اُٹھا لو اماں\nگرم ریتی پہ میں۔۔۔",
+  "styling": [
+    {
+      "insert": "گرم ریتی پہ میں گرتا ہوں سنبھالو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعصرِ عاشورتھا شبیر تھے تنہائی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماہِ زہرا پہ گھٹا ظلم کی جب چھائی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ پہ جب نوکِ سناں سُوئے زمیں لائی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرتے گرتے لبِ زخمی پہ صدا آئی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرم ریتی پہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاش قاسم کی اُٹھائی ہے نظر زخمی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم اکبر کا جو دیکھا ہے جگر زخمی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلب زخمی ہے بدن زخمی ہے سر زخمی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے سہارا مجھے بابا کو بُلا لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرم ریتی پہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں جو گھوڑے سے گروں تم مجھے تسکیں دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیار کرنا میری ہمت کو دُعائیں دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈال کر باہیں گلے میں مجھے لپٹا لینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہا دمِ ذبح مگر ہاتھ ہٹالو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرم ریتی پہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگر گیا ہوں میں کسی کی بھی مجھے آس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قتل سب ہو گئے اب کوئی بھی میرے پاس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا قاسم نہیں اکبر نہیں عباس نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم مجھے آ کے کلیجے سے لگا لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرم ریتی پہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب کوئی بن میں میرے حلق پہ خنجر ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سینے پہ میرے شمرِ ستمگار ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون کا ہوگا کفن خاک کا بستر ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری ناز یہ بیٹے کا اُٹھا لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرم ریتی پہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے وعدے کے لیے میں نے ہر ایذا سہہ لی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ارمان میرا نکلے تو عنایت ہو گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذبح کے وقت میری تم سے تمنا ہے یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر میرا خاک سے زانو پہ اُٹھا لو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرم ریتی پہ میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Ali Jaweed Maqsood",
   "anjumans": [],
   "verified": false

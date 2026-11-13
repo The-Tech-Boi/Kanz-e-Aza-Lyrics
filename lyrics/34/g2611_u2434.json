@@ -1,12 +1,491 @@
 {
   "remoteId": "g2611_u2434",
-  "title": "Meri behna",
+  "title": "میری بہنا",
   "body": "ہوتے ہی رہا فرش عزا میرا بچھانا\nمیری بہنا میری بہنا\nبھای کا جو پیغام ہے دنیا کو سنانا\nمیری بہنا میری بہنا\n<<DIVIDER>>\nمیں ہوں میری تنہائی ہے اور دشت بلا ہے\nمیں نے ابھی اصغر کا لہو رخ پہ ملا ہے\nمرنے کے لئے جاتا ہوں اور خشک گلا ہے\nزینب مل جاے جو پانی تو میری نظر دلانا\nمیری بہنا میری بہنا\n<<DIVIDER>>\nسب میرے اثاثے میں ابھی آگ لگے گی\nبے شیر کے جھولے میں ابھی آگ لگے گی\nسجاد کے خیمے میں ابھی آگ لگے گی\nزینب بیمار کو جلتے ہوے شعلوں سے بچانا\nمیری بہنا میری بہنا\n<<DIVIDER>>\nاب چین سکینہ بھی میری پا نہ سکے گی\nغیرت سے کوئی زخم بھی دکھلانا سکے گی\nمقتل کی زمیں پر اسے نیند آ نہ سکے گی\nزینب تم اس کو کہانی میرے مرنے کی سنانا\nمیری بہنا میری بہنا\n<<DIVIDER>>\nجب شام کے بازار میں جاؤ گی کھلے سر\nبرساے گا آنسوں سر عباس دلاور\nکوئی بھی نہیں ہوگا جو دیدے تمہیں چادر\nزینب اس خاک بھرے چہرے کو بالوں سے چھپانا\nمیری بہنا میری بہنا\n<<DIVIDER>>\nآے گی بہت نرغہء کفار میں غیرت\nخاموشی سے سہہ لینا مگر ساری مصیبت\nگر روی تو آجاے گی دنیا میں قیامت\nزینب دل تھام کے اپنا بھرے دربار میں جانا\nمیری بہنا میری بہنا\n<<DIVIDER>>\nیاد آے گا زنداں میں سکینہ کو مدینہ\nہوجائے گا دشوار اسے قید میں جینا\nجب آنے لگے موت کا ماتھے پہ پسینہ\nزینب تب میری طرح تم اسے سینے سے لگانا\nمیری بہنا میری بہنا\n<<DIVIDER>>\nیثرب کے طرف جانا اگر قید سے چھٹ کر\nنانا کو دکھانا ہے میرے قتل کا منظر\nرکھ دینا میرا خوں بھرا عمامہ لحد پر\nزینب اور پوچھنا کیا وعدہ وفا ہوگیا نانا\nمیری بہنا میری بہنا\n<<DIVIDER>>\nاماں سے یہ کہنا کہ ہو جب وقت شفاعت\nآے جو سوا نیزے پہ خرشید قیامت\nعباس کے شانوں کو بنادے وہ ضمانت\nزینب ہوجاے عزاداروں کی بخشش کا بہانا\nمیری بہنا میری بہنا\n<<DIVIDER>>\nاک اجڑے ہوے گھر کے عزادار ہے دونوں\nسجاد سے بیمار کے بیمار ہیں دونوں\nہاں تیری دعاؤں کے طلبگار ہیں دونوں\nزینب مشکل سے سدا نیر و عامر کو بچانا",
+  "styling": [
+    {
+      "insert": "ہوتے ہی رہا فرش عزا میرا بچھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بہنا میری بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کا جو پیغام ہے دنیا کو سنانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بہنا میری بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں ہوں میری تنہائی ہے اور دشت بلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے ابھی اصغر کا لہو رخ پہ ملا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرنے کے لئے جاتا ہوں اور خشک گلا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب مل جاے جو پانی تو میری نظر دلانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بہنا میری بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب میرے اثاثے میں ابھی آگ لگے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے شیر کے جھولے میں ابھی آگ لگے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کے خیمے میں ابھی آگ لگے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب بیمار کو جلتے ہوے شعلوں سے بچانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بہنا میری بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب چین سکینہ بھی میری پا نہ سکے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غیرت سے کوئی زخم بھی دکھلانا سکے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل کی زمیں پر اسے نیند آ نہ سکے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب تم اس کو کہانی میرے مرنے کی سنانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بہنا میری بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب شام کے بازار میں جاؤ گی کھلے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برساے گا آنسوں سر عباس دلاور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی بھی نہیں ہوگا جو دیدے تمہیں چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب اس خاک بھرے چہرے کو بالوں سے چھپانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بہنا میری بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآے گی بہت نرغہء کفار میں غیرت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموشی سے سہہ لینا مگر ساری مصیبت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر روی تو آجاے گی دنیا میں قیامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب دل تھام کے اپنا بھرے دربار میں جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بہنا میری بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد آے گا زنداں میں سکینہ کو مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوجائے گا دشوار اسے قید میں جینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب آنے لگے موت کا ماتھے پہ پسینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب تب میری طرح تم اسے سینے سے لگانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بہنا میری بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیثرب کے طرف جانا اگر قید سے چھٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا کو دکھانا ہے میرے قتل کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھ دینا میرا خوں بھرا عمامہ لحد پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب اور پوچھنا کیا وعدہ وفا ہوگیا نانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بہنا میری بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں سے یہ کہنا کہ ہو جب وقت شفاعت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے جو سوا نیزے پہ خرشید قیامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کے شانوں کو بنادے وہ ضمانت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب ہوجاے عزاداروں کی بخشش کا بہانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بہنا میری بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک اجڑے ہوے گھر کے عزادار ہے دونوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد سے بیمار کے بیمار ہیں دونوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں تیری دعاؤں کے طلبگار ہیں دونوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب مشکل سے سدا نیر و عامر کو بچانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Nayyar Jalalpuri",
   "anjumans": [],
   "verified": false

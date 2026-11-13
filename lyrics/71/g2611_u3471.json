@@ -1,12 +1,384 @@
 {
   "remoteId": "g2611_u3471",
-  "title": "Ye kis shaheed ki",
+  "title": "یہ کس شہید کی",
   "body": "یہ کس شہید کی میت حسین لاتے ہیں\nزمیں لرزتی ہے افلاک تھر تھراتے ہیں\n<<DIVIDER>>\nپڑی ہے بکھری ہوی تن پہ سہرے کی لڑیاں\nیہ پھول زخموں کے تن پہ سجاے آتے ہیں\nیہ کس شہید کی میت۔۔۔\n<<DIVIDER>>\nکھڑی ہے در پہ جو ماں پیٹتی ہوی سر کو\nدکھاے لاشے کو کیسے یہ سونچے جاتے ہیں\nیہ کس شہید کی میت۔۔۔\n<<DIVIDER>>\nلپٹ کے لاتے ہیں چادر کے گوشے میں رکھ کر\nسروں پہ خاک براتی سبھی اڑاتے ہیں\nیہ کس شہید کی میت۔۔۔\n<<DIVIDER>>\nدلہن نہ آے کہیں شور گریہ کو سن کر\nجو بار بار عبا میں اسے چھپاتے ہیں\nیہ کس شہید کی میت۔۔۔\n<<DIVIDER>>\nیہ کیسی لاش ہے باندھی ہوی ہے گھٹڑی میں\nبتا رہے ہیں کسی کو کبھی چھپاتے ہیں\nیہ کس شہید کی میت۔۔۔\n<<DIVIDER>>\nاٹھا کے لاتے ہیں شبیر لاش دولہا کی\nلرز رہا ہے بدن پاؤں تھر تھراتے ہیں\nیہ کس شہید کی میت۔۔۔\n<<DIVIDER>>\nکھڑے ہیں خیمے کے در پر جو آکے أہل حرم\nبارات دیکھ کے دولہا کی روتے جاتے ہیں\nیہ کس شہید کی میت۔۔۔\n<<DIVIDER>>\nمچا ہے خیموں میں کہرام ہاے قاسم کا\nحسین لاش سے چادر کو اب بہاتے ہیں\nیہ کس شہید کی میت۔۔۔\n<<DIVIDER>>\nلے آئی لاش پہ بازو کو تھام کر مادر\nدلہن کو دولہا کا دیدار اب کراتے ہیں\nیہ کس شہید کی میت۔۔۔\n<<DIVIDER>>\nسجاے تھے ابھی صندل سے مانگ ہاے غضب\nاسی کو بیوہ کا اب پیرہن پہناتے ہیں\nیہ کس شہید کی میت۔۔۔\n<<DIVIDER>>\nسروں پہ خاک اڑاؤ مجاب پیٹو سر\nیہ ایسا غم ہے کہ اس غم میں خوں بہاتے ہیں\nیہ کس شہید کی میت۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ کس شہید کی میت حسین لاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمیں لرزتی ہے افلاک تھر تھراتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپڑی ہے بکھری ہوی تن پہ سہرے کی لڑیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ پھول زخموں کے تن پہ سجاے آتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس شہید کی میت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھڑی ہے در پہ جو ماں پیٹتی ہوی سر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھاے لاشے کو کیسے یہ سونچے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس شہید کی میت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلپٹ کے لاتے ہیں چادر کے گوشے میں رکھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سروں پہ خاک براتی سبھی اڑاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس شہید کی میت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدلہن نہ آے کہیں شور گریہ کو سن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو بار بار عبا میں اسے چھپاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس شہید کی میت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کیسی لاش ہے باندھی ہوی ہے گھٹڑی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتا رہے ہیں کسی کو کبھی چھپاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس شہید کی میت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھا کے لاتے ہیں شبیر لاش دولہا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لرز رہا ہے بدن پاؤں تھر تھراتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس شہید کی میت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھڑے ہیں خیمے کے در پر جو آکے أہل حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بارات دیکھ کے دولہا کی روتے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس شہید کی میت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمچا ہے خیموں میں کہرام ہاے قاسم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین لاش سے چادر کو اب بہاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس شہید کی میت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلے آئی لاش پہ بازو کو تھام کر مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دلہن کو دولہا کا دیدار اب کراتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس شہید کی میت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاے تھے ابھی صندل سے مانگ ہاے غضب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی کو بیوہ کا اب پیرہن پہناتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس شہید کی میت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسروں پہ خاک اڑاؤ مجاب پیٹو سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ایسا غم ہے کہ اس غم میں خوں بہاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کس شہید کی میت۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shahzade Qasim (a.s)",
+  "subcategory": "شہزادے قاسم (ع)",
   "anjumans": [],
   "verified": false
 }

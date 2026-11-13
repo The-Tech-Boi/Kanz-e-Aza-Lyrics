@@ -1,12 +1,513 @@
 {
   "remoteId": "g2611_u2436",
-  "title": "Meri kahani suno",
+  "title": "میری کہانی سنو",
   "body": "بابا جاں بابا جاں\nمیری کہانی سنو\nبابا تمہاری سکینہ ہوں میں\n<<DIVIDER>>\nبابا قسم کھا کے کہتی رہی\nکرتا نہیں تھا یقیں یہ کوئی\nاب تم ہی دے دو گواہی میری\nان شامیوں سے کہو\nبابا تمہاری سکینہ ہوں میں\nمیری کہانی سنو۔۔۔\n<<DIVIDER>>\nعاشور تک یہ ضعیفی نہ تھی\nبالوں میں میرے سفیدی نہ تھی\nتم جب گےء تھے میں ایسی نہ تھی\nلہجے سے پہچان لو\nبابا تمہاری سکینہ ہوں میں\nمیری کہانی سنو۔۔۔\n<<DIVIDER>>\nکہتا تھا ظالم ستاؤ اسے\nدرے طمانچے لگاؤ اسے\nنیزے دکھا کر ڈراؤ اسے\nمعلوم تھا شمر کو\nبابا تمہاری سکینہ ہوں میں\nمیری کہانی سنو۔۔۔\n<<DIVIDER>>\nباغی کی بیٹی سمجھ کر مجھے\nبچوں نے مارے ہے پتھر مجھے\nرہنا نہیں اب یہاں پر مجھے\nبس کربلا لے چلو\nبابا تمہاری سکینہ ہوں میں\nمیری کہانی سنو۔۔۔\n<<DIVIDER>>\nضد کی تھی بچپن میں جب آپ نے\nآے تھے ملبوس فردوس سے\nآج اپنی مادر سے میرے لئے\nمیرا کفن مانگ لو\nبابا تمہاری سکینہ ہوں میں\nمیری کہانی سنو۔۔۔\n<<DIVIDER>>\nزنداں کا نقشہ بدل جائے گا\nکچھ دیر میں دم نکل جائے گا\nدل جاتے جاتے بہل جائے گا\nصغرا کی باتیں کرو\nبابا تمہاری سکینہ ہوں میں\nمیری کہانی سنو۔۔۔\n<<DIVIDER>>\nمجھ کو طمانچہ ہی ایسا لگا\nنظروں میں میری اندھیرا ہوا\nمیری کمر میں بھی خم آ گیا\nداغ رسن دیکھ لو\nبابا تمہاری سکینہ ہوں میں\nمیری کہانی سنو۔۔۔\n<<DIVIDER>>\nسر اپنے بابا کے سر پر رکھے\nبولی تکلم وہ روتے ہوئے\nسب مارنے پر تلے ہیں مجھے\nتم کہہ دو جیتی رہو\nبابا تمہاری سکینہ ہوں میں\nمیری کہانی سنو۔۔۔",
+  "styling": [
+    {
+      "insert": "بابا جاں بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری کہانی سنو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تمہاری سکینہ ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا قسم کھا کے کہتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتا نہیں تھا یقیں یہ کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تم ہی دے دو گواہی میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان شامیوں سے کہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تمہاری سکینہ ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری کہانی سنو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشور تک یہ ضعیفی نہ تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالوں میں میرے سفیدی نہ تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم جب گےء تھے میں ایسی نہ تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہجے سے پہچان لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تمہاری سکینہ ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری کہانی سنو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتا تھا ظالم ستاؤ اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درے طمانچے لگاؤ اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے دکھا کر ڈراؤ اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معلوم تھا شمر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تمہاری سکینہ ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری کہانی سنو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباغی کی بیٹی سمجھ کر مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچوں نے مارے ہے پتھر مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہنا نہیں اب یہاں پر مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس کربلا لے چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تمہاری سکینہ ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری کہانی سنو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nضد کی تھی بچپن میں جب آپ نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے تھے ملبوس فردوس سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج اپنی مادر سے میرے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا کفن مانگ لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تمہاری سکینہ ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری کہانی سنو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنداں کا نقشہ بدل جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ دیر میں دم نکل جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل جاتے جاتے بہل جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا کی باتیں کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تمہاری سکینہ ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری کہانی سنو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ کو طمانچہ ہی ایسا لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نظروں میں میری اندھیرا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری کمر میں بھی خم آ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داغ رسن دیکھ لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تمہاری سکینہ ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری کہانی سنو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر اپنے بابا کے سر پر رکھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولی تکلم وہ روتے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب مارنے پر تلے ہیں مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کہہ دو جیتی رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تمہاری سکینہ ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری کہانی سنو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

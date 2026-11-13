@@ -1,12 +1,678 @@
 {
   "remoteId": "g2611_u1417",
-  "title": "Har durood aur har",
+  "title": "ہر درود اور ہر",
   "body": "ہر درود اور ہر سلام\nمادرِ حُسین تیرے نام\n<<DIVIDER>>\nزوجہِ علیِ سر بلند\nفاطمہ عظیم ارجُمند\nجس کے آستانِ پاک کے\nقُدسیانِ عرش ہیں غلام\nہر درود اور ۔۔۔\n<<DIVIDER>>\nہے وہ فاطمہ وہ فاطمہ\nآرزوئے قلبِ مُصطفٰی\nجس کے لاڈلے حسن حُسین\nجس کی بیٹیاں فلک مقام\nہر درود اور ۔۔۔\n<<DIVIDER>>\nکٹ رہا تھا فرطِ شاہِ دیں\nچل رہا تھا خنجرِ لعیں\nبی بی آپ دیکھتی رہیں\nلوٹ گئے حرم جلے خیام\nہر درود اور ۔۔۔\n<<DIVIDER>>\nہر درود اور سلام\nخواہرِ حُسین تیرے نام\n<<DIVIDER>>\nثانیِ جنابِ سیدہ\nاللہ اللہ تیرا حوصلہ\nخوب کی حفاظتِ حرم\nبعدِ قتلِ سیدِ انعام\nہر درود اور ۔۔۔\n<<DIVIDER>>\nبی بی غم اُٹھائے ہیں بہت\nدل پہ داغ کھائے ہیں بہت\nتُجھ پہ اے حُسین کی بہن\nہو گئیں مصیبتیں تمام\nہر درود اور ۔۔۔\n<<DIVIDER>>\nکربلا میں اپنے دلرُبا\nکر دیئے حُسین پر فدا\nعون اور محمدِ جری\nہو گئے شہیدِ تشنہ کام\nہر درود اور ۔۔۔\n<<DIVIDER>>\nدولتِ بتول لُٹ گئی\nدُخترِ رسول لُٹ گئی\nچھن گئی سروں سے چادریں\nجل گئے حُسین کے خیام\nہر درود اور ۔۔۔\n<<DIVIDER>>\nمَیتیں پڑی ہیں بے کفن\nکیا کرے حُسین کی بہن\nبے کسی اور ایسی بے کسی\nشام اور کربلا کی شام\nہر درود اور ۔۔۔\n<<DIVIDER>>\nانقلابِ وقت دیکھیے\nامتحانِ سخت دیکھیے\nسر کُھلے رسول زادیاں\nاور اہلِ شر کا اجتماع\nہر درود اور ۔۔۔\n<<DIVIDER>>\nہر درود اور سلام\nدُخترِ حُسین تیرے نام\n<<DIVIDER>>\nشمر کبریائ کا واسطہ\nتُجھ کو مُصطفٰی کا واسطہ\nبنتِ شاہ کے گوہر نہ چھین\nمبتلائے غم ہے تشنہ کام\nہر درود اور ۔۔۔\n<<DIVIDER>>\nشمر کے تماچے کھائے ہیں\nبی بی کتنے غم اُٹھائے ہیں\nباپ کی جُدائی کم نہ تھی\nتُجھ پہ قید کے ستم ختم\nہر درود اور ۔۔۔\n<<DIVIDER>>\nبی بی آپ پر ستم ہوئے\nمر گئیں پدر کا غم لیئے\nہائے جیتے جی نہ چُھٹ سکا\nقید خانہِ امیرِ شام\nہر درود اور ۔۔۔",
+  "styling": [
+    {
+      "insert": "ہر درود اور ہر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مادرِ حُسین تیرے نام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزوجہِ علیِ سر بلند"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ عظیم ارجُمند"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے آستانِ پاک کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قُدسیانِ عرش ہیں غلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درود اور ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے وہ فاطمہ وہ فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آرزوئے قلبِ مُصطفٰی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کے لاڈلے حسن حُسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کی بیٹیاں فلک مقام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درود اور ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکٹ رہا تھا فرطِ شاہِ دیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل رہا تھا خنجرِ لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی آپ دیکھتی رہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ گئے حرم جلے خیام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درود اور ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر درود اور سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خواہرِ حُسین تیرے نام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nثانیِ جنابِ سیدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ اللہ تیرا حوصلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوب کی حفاظتِ حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعدِ قتلِ سیدِ انعام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درود اور ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبی بی غم اُٹھائے ہیں بہت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پہ داغ کھائے ہیں بہت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تُجھ پہ اے حُسین کی بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گئیں مصیبتیں تمام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درود اور ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا میں اپنے دلرُبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر دیئے حُسین پر فدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عون اور محمدِ جری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گئے شہیدِ تشنہ کام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درود اور ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدولتِ بتول لُٹ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُخترِ رسول لُٹ گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن گئی سروں سے چادریں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل گئے حُسین کے خیام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درود اور ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمَیتیں پڑی ہیں بے کفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کرے حُسین کی بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے کسی اور ایسی بے کسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام اور کربلا کی شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درود اور ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانقلابِ وقت دیکھیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امتحانِ سخت دیکھیے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کُھلے رسول زادیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اہلِ شر کا اجتماع"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درود اور ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر درود اور سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُخترِ حُسین تیرے نام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشمر کبریائ کا واسطہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تُجھ کو مُصطفٰی کا واسطہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنتِ شاہ کے گوہر نہ چھین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مبتلائے غم ہے تشنہ کام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درود اور ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشمر کے تماچے کھائے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی کتنے غم اُٹھائے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کی جُدائی کم نہ تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تُجھ پہ قید کے ستم ختم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درود اور ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبی بی آپ پر ستم ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گئیں پدر کا غم لیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے جیتے جی نہ چُھٹ سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانہِ امیرِ شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر درود اور ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "anjumans": [],
   "verified": false
 }

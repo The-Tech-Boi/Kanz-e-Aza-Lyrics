@@ -1,12 +1,343 @@
 {
   "remoteId": "g2611_u1085",
-  "title": "Chand ko dekh ke",
+  "title": "چاند کو دیکھ کے",
   "body": "صغرا کو محرم کا جب چاند نظر آیا\nیاد شہ والا نے دل اور بھی تڑپایا\n<<DIVIDER>>\nچاند کو دیکھ کے صغرا ہاے حسین\nآ گیا ماہ محرم کا نہیں آے حسین\n<<DIVIDER>>\nیاد پردیس میں آتی ہے لحد اماں کی\nدل کا احوال سنانے کو کہاں جاے حسین\nچاند کو دیکھ کے۔۔۔\n<<DIVIDER>>\nآپ آے نہ خبر آی نہ اکبر آے\nکیسے اس حال میں صغرا سے جیا جاے حسین\nچاند کو دیکھ کے۔۔۔\n<<DIVIDER>>\nجب سے یہ چاند محرم کا نظر آیا ہے\nاماں روتی ہے تجھے میرے مانجاے حسین\nچاند کو دیکھ کے۔۔۔\n<<DIVIDER>>\nکوئی تصویر تو زہرا کی رہی پردے میں\nیہ تو اچھا ہوا صغرا کو نہیں لاے حسین\nچاند کو دیکھ کے۔۔۔\n<<DIVIDER>>\nنام پر شاہ نے اکبر کے خریدی ہے زمیں\nکیسے جاگیر تجھے بھای کی دکھلاے حسین\nچاند کو دیکھ کے۔۔۔\n<<DIVIDER>>\nعید بھی سوگ کے عالم میں گزاری اس نے\nہاے اکبر کبھی کہتی تھی کبھی ہاے حسین\nچاند کو دیکھ کے۔۔۔\n<<DIVIDER>>\nمستقل شاہ کی آنکھوں سے تھے آنسوں جاری\nخط صغرا کو مکمل نہیں پڑھ پاے حسین\nچاند کو دیکھ کے۔۔۔\n<<DIVIDER>>\nاک اک بیٹی سے رخصت ہوے خیمے میں مگر\nہاے آفسوس کے صغرا سے نہ مل پاے حسین\nچاند کو دیکھ کے۔۔۔\n<<DIVIDER>>\nلکھ کے نوحہ یہ تکلم نے دعا مانگی ہے\nہر عزادار کو عاشور پہ بلواے حسین\nچاند کو دیکھ کے۔۔۔",
+  "styling": [
+    {
+      "insert": "صغرا کو محرم کا جب چاند نظر آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد شہ والا نے دل اور بھی تڑپایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاند کو دیکھ کے صغرا ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا ماہ محرم کا نہیں آے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد پردیس میں آتی ہے لحد اماں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کا احوال سنانے کو کہاں جاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند کو دیکھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ آے نہ خبر آی نہ اکبر آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے اس حال میں صغرا سے جیا جاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند کو دیکھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے یہ چاند محرم کا نظر آیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں روتی ہے تجھے میرے مانجاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند کو دیکھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی تصویر تو زہرا کی رہی پردے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو اچھا ہوا صغرا کو نہیں لاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند کو دیکھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنام پر شاہ نے اکبر کے خریدی ہے زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے جاگیر تجھے بھای کی دکھلاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند کو دیکھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعید بھی سوگ کے عالم میں گزاری اس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اکبر کبھی کہتی تھی کبھی ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند کو دیکھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمستقل شاہ کی آنکھوں سے تھے آنسوں جاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خط صغرا کو مکمل نہیں پڑھ پاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند کو دیکھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک اک بیٹی سے رخصت ہوے خیمے میں مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے آفسوس کے صغرا سے نہ مل پاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند کو دیکھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلکھ کے نوحہ یہ تکلم نے دعا مانگی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر عزادار کو عاشور پہ بلواے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند کو دیکھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ibtedaye Ayyam e Aza",
+  "subcategory": "ابتدائے ایام عزا",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

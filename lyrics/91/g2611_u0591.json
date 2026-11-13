@@ -1,12 +1,503 @@
 {
   "remoteId": "g2611_u0591",
-  "title": "Athara baras ke",
+  "title": "اٹھارہ برس کے",
   "body": "اٹھارہ برس کے علی اکبر کا جنازہ\nاکبر کا جنازہ\n<<DIVIDER>>\nشہ لاتے ہیں ہمشکل پیمبر کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nخیمے میں الم آیا ہے کہرام ہے برپا\nدریا پر ہے عباس دلاور کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nاس درجہ سکینہ سے تھا شرمندہ علمدار\nشہ لا نہ سکے اپنے برادر کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nاے کل کے مددگار مدد کرنے کو آؤ\nشبیر سے اٹھتا نہیں اکبر کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nاصغر کی طرف دیکھ کے یہ کہتی تھی بانو\nکن آنکھوں سے دیکھوں میں گل تر کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nپامال ہوا دشت میں گھوڑوں کے سموں سے\nکس طرح اٹھے قاسم مضطر کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nپڑ جائے نہ یا رب کہیں زینب کے نگاہیں\nتیروں پہ ہے رکھا ہوا سرور کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nکیا ظلم ہے تپتی ہوی ریتی پہ پڑا ہے\nبے گور و کفن سبط پیمبر کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nجب دفن ہوا فاطمہ سر پیٹ رہی تھی\nشبیر بن ثاقیء کوثر کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nبانو نے کہا تیر ہے پیوست بدن میں\nدھیرے سا اٹھانا میرے شوہر کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nزینب نے کہا سر سے میرے چھن گےء چادر\nتاریخ شب میں اٹھا مادر کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nزینب زرا بانو کے کلیجے کو سنبھالو\nشبیر کے ہاتھوں پہ ہے اصغر کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nاس بھای سے زنداں کی مصیبت کوی پوچھے\nجس بھای کے ہاتھوں پہ ہو خواہر کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nسرور کی صدا آتی ہے چھوٹی سی لحد سے\nلاؤ مجھے دے دو میری دختر کا جنازہ\nاٹھارہ برس کے۔۔۔\n<<DIVIDER>>\nعشرت میں بیاں کیسے کروں کیسے اٹھا تھا\nمقتل کی زمیں سے شہ بے سر کا جنازہ\nاٹھارہ برس کے۔۔۔",
+  "styling": [
+    {
+      "insert": "اٹھارہ برس کے علی اکبر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہ لاتے ہیں ہمشکل پیمبر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے میں الم آیا ہے کہرام ہے برپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا پر ہے عباس دلاور کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس درجہ سکینہ سے تھا شرمندہ علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ لا نہ سکے اپنے برادر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے کل کے مددگار مدد کرنے کو آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر سے اٹھتا نہیں اکبر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر کی طرف دیکھ کے یہ کہتی تھی بانو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کن آنکھوں سے دیکھوں میں گل تر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپامال ہوا دشت میں گھوڑوں کے سموں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح اٹھے قاسم مضطر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپڑ جائے نہ یا رب کہیں زینب کے نگاہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیروں پہ ہے رکھا ہوا سرور کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا ظلم ہے تپتی ہوی ریتی پہ پڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے گور و کفن سبط پیمبر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب دفن ہوا فاطمہ سر پیٹ رہی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر بن ثاقیء کوثر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبانو نے کہا تیر ہے پیوست بدن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دھیرے سا اٹھانا میرے شوہر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب نے کہا سر سے میرے چھن گےء چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تاریخ شب میں اٹھا مادر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب زرا بانو کے کلیجے کو سنبھالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کے ہاتھوں پہ ہے اصغر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس بھای سے زنداں کی مصیبت کوی پوچھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس بھای کے ہاتھوں پہ ہو خواہر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسرور کی صدا آتی ہے چھوٹی سی لحد سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاؤ مجھے دے دو میری دختر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعشرت میں بیاں کیسے کروں کیسے اٹھا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل کی زمیں سے شہ بے سر کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ برس کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Ishrat Lakhnavi",
   "anjumans": [],
   "verified": false

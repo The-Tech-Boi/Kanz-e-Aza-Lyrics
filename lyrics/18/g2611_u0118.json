@@ -1,12 +1,407 @@
 {
   "remoteId": "g2611_u0118",
-  "title": "Aap jab se huwe",
+  "title": "آپ جب سے ہوے",
   "body": "یا رسول اللّٰہ\nاپنی تنہائی میں زہرا یاد کرتی ہے تمہیں\n<<DIVIDER>>\nآپ جب سے ہوے جدا بابا\nفاطمہ کا ہے بس خدا بابا\n<<DIVIDER>>\nپہلے اماں کو کھویا اب تم کو\nپاس زہرا کے کیا بچا بابا\nآپ جب سے ہوے جدا۔۔۔\n<<DIVIDER>>\nآپ کے بعد گزرے دن ایسے\nفاطمہ اور نیء جفا بابا\nآپ جب سے ہوے جدا۔۔۔\n<<DIVIDER>>\nلکڑیاں آگ لے کے آیا کوئی\nاور جلایا تھا در میرا بابا\nآپ جب سے ہوے جدا۔۔۔\n<<DIVIDER>>\nواسطہ آپ کا دیا میں نے\nپھر بھی ظالم نہیں رکا بابا\nآپ جب سے ہوے جدا۔۔۔\n<<DIVIDER>>\nآپ کے غم میں رونا چاہا اگر\nمجھکو رونے نہیں دیا بابا\nآپ جب سے ہوے جدا۔۔۔\n<<DIVIDER>>\nہر مصائب کی انتہا ہے یہی\nمیرا محسن نہیں رہا بابا\nآپ جب سے ہوے جدا۔۔۔\n<<DIVIDER>>\nبعد محسن سمجھ گیء ہوں میں\nکربلا کی ہے ابتداء بابا\nآپ جب سے ہوے جدا۔۔۔\n<<DIVIDER>>\nنفس اپنا کہا جسے تم‌ نے\nاسکی خاطر کرے دعا بابا\nآپ جب سے ہوے جدا۔۔۔\n<<DIVIDER>>\nاب تو ملتا نہیں جواب سلام\nحال حیدر ہے اس طرح بابا\nآپ جب سے ہوے جدا۔۔۔\n<<DIVIDER>>\nنام لیوا صحابیوں نے تیرے\nحق بھی چھینا یتیم کا بابا\nآپ جب سے ہوے جدا۔۔۔\n<<DIVIDER>>\nنجم و ریحان پر بھی کر دو کرم\nہے یہ زہرا کی التجاء بابا\nآپ جب سے ہوے جدا۔۔۔",
+  "styling": [
+    {
+      "insert": "یا رسول اللّٰہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی تنہائی میں زہرا یاد کرتی ہے تمہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ جب سے ہوے جدا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کا ہے بس خدا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہلے اماں کو کھویا اب تم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاس زہرا کے کیا بچا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جب سے ہوے جدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کے بعد گزرے دن ایسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ اور نیء جفا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جب سے ہوے جدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلکڑیاں آگ لے کے آیا کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور جلایا تھا در میرا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جب سے ہوے جدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nواسطہ آپ کا دیا میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی ظالم نہیں رکا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جب سے ہوے جدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کے غم میں رونا چاہا اگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو رونے نہیں دیا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جب سے ہوے جدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر مصائب کی انتہا ہے یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا محسن نہیں رہا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جب سے ہوے جدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد محسن سمجھ گیء ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کی ہے ابتداء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جب سے ہوے جدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنفس اپنا کہا جسے تم‌ نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسکی خاطر کرے دعا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جب سے ہوے جدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب تو ملتا نہیں جواب سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حال حیدر ہے اس طرح بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جب سے ہوے جدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنام لیوا صحابیوں نے تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق بھی چھینا یتیم کا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جب سے ہوے جدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنجم و ریحان پر بھی کر دو کرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یہ زہرا کی التجاء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ جب سے ہوے جدا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Najam Azmi",
   "anjumans": [],
   "verified": false

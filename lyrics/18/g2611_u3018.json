@@ -1,12 +1,309 @@
 {
   "remoteId": "g2611_u3018",
-  "title": "Shabbir ne deene",
+  "title": "شبیر نے دین",
   "body": "شبیر نے دین حق کے لئے\nگھر بھر کو لٹا کر چھوڑ دیا\nبانو کے مقدر کا تارا\nتربت میں چھپا کر چھوڑ دیا\nشبیر نے دین حق۔۔۔\n<<DIVIDER>>\nاصغر کے لئے بےتاب ہوی\nاور خیمے کے در تک جب آی\nکیا جانیے ماں نے کیا دیکھا\nپردے کو اٹھا کر چھوڑ دیا\nشبیر نے دین حق۔۔۔\n<<DIVIDER>>\nپہلے تو اٹھا کر اکبر کو\nشبیر نے زخم دل دیکھا\nجب نانا کی امت یاد آی\nسینے سے لگا کر چھوڑ دیا\nشبیر نے دین حق۔۔۔\n<<DIVIDER>>\nمشکیزہ چھدا مایوس ہوی\nمجبور تھے آخر کیا کرتے\nعباس نے اپنے دل کا لہو\nپانی میں ملا کر چھوڑ دیا\nشبیر نے دین حق۔۔۔\n<<DIVIDER>>\nپیڑی میں جواں کے لاشے کو\nشبیر کہاں تک لے جایں\nسورج کی طرح جب دل ڈوبا\nمقتل میں لٹا کر چھوڑ دیا\nشبیر نے دین حق۔۔۔\n<<DIVIDER>>\nتیروں سے چمکتے بالوں نے\nاکبر کا کلیجہ چیر دیا\nتصویر نبی کو امت نے\nرنگین بنا کر چھوڑ دیا\nشبیر نے دین حق۔۔۔",
+  "styling": [
+    {
+      "insert": "شبیر نے دین حق کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر بھر کو لٹا کر چھوڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بانو کے مقدر کا تارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تربت میں چھپا کر چھوڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر نے دین حق۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر کے لئے بےتاب ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور خیمے کے در تک جب آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا جانیے ماں نے کیا دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردے کو اٹھا کر چھوڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر نے دین حق۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہلے تو اٹھا کر اکبر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر نے زخم دل دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب نانا کی امت یاد آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے سے لگا کر چھوڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر نے دین حق۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشکیزہ چھدا مایوس ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجبور تھے آخر کیا کرتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نے اپنے دل کا لہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی میں ملا کر چھوڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر نے دین حق۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیڑی میں جواں کے لاشے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کہاں تک لے جایں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سورج کی طرح جب دل ڈوبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں لٹا کر چھوڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر نے دین حق۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیروں سے چمکتے بالوں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کا کلیجہ چیر دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تصویر نبی کو امت نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رنگین بنا کر چھوڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر نے دین حق۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "anjumans": [],
   "verified": false
 }

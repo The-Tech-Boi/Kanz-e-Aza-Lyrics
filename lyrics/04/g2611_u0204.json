@@ -1,12 +1,595 @@
 {
   "remoteId": "g2611_u0204",
-  "title": "Abbas ka alam hai",
+  "title": "عباس کا علم ہے",
   "body": "اونچا رہے اونچا رہے غازی علم تیرا\nہر دور میں اونچا رہا غازی علم تیرا\n<<DIVIDER>>\nچودہ سو برس سے جھک نہ سکا\nیہ رب کا کرم ہے\nعباس کا علم ہے عباس کا علم ہے\n<<DIVIDER>>\nپنجا ہے جلال دست خدا\nپٹکا اس کا زینب کی ردا\nتعویذ وفا ہے مشکیزہ\nیہ مشک و علم ہونگے نہ جدا\nپٹکے پر رقم ہے\nعباس کا علم ہے۔۔۔\n<<DIVIDER>>\nصدیوں پہ محیط اس کا سایہ\nیہ شان وفا کی کہہ لایا\nحیدر نے محمد سے پایا\nزینب کی دعا زہرا کی عطا\nپیاسوں کا بھرم ہے\nعباس کا علم ہے۔۔۔\n<<DIVIDER>>\nگھر گھر سے جلوس غم نکلے\nتابوت کے ساتھ علم نکلے\nہم کرتے ہوئے ماتم نکلے\nروکے جو جلوسوں کا رستہ\nاب کس میں یہ دم ہے\nعباس کا علم ہے۔۔۔\n<<DIVIDER>>\nگو لاکھ مٹانا چاہا مگر\nجاری ہے عزاداری کا سفر\nہر سمت علم آتے ہے نظر\nمر پایا نہیں جھک پایا نہیں\nدنیا کو یہ غم ہے\nعباس کا علم ہے۔۔۔\n<<DIVIDER>>\nآ دیکھ زمانے دیکھ زرا\nیہ پاک علم کی علم ہوا\nکرتی ہے عطا دیتی ہے شفا\nگھبرانا نہیں کہیں جانا نہیں\nجو مانگو وہ کم ہے\nعباس کا علم ہے۔۔۔\n<<DIVIDER>>\nحمزہ کو ملا جعفر کو ملا\nپھر خیبر میں حیدر کو ملا\nحیدر سے دل سرور کو ملا\nنسبت کا شرف یا شاہ نجف\nکیا جاہ و ہشم ہے\nعباس کا علم ہے۔۔۔\n<<DIVIDER>>\nتاریخ علمداری ہے علم\nزینب کی عزاداری ہے علم\nزہرا سے وفاداری ہے علم\nدیتی ہے صدا یہ شہ کی عزا\nرہبر جو علم ہے\nعباس کا علم ہے۔۔۔\n<<DIVIDER>>\nجب بارہواں حیدر آے گا\nحق کیا ہے پتہ چل جائے گا\nکعبے پہ علم لہراے گا\nیہ منظر ہاں دیکھے گا جہاں\nاونچا جو علم ہے\nعباس کا علم ہے۔۔۔\n<<DIVIDER>>\nجب حشر کی دھوپ میں پہنچیں گے\nغازی کا علم جب دیکھیں گے\nفرحان اور مظہر کہہ دیں گے\nاب روز قیامت کا ہم کو\nنہ ڈر ہے نہ غم ہے\nعباس کا علم ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "اونچا رہے اونچا رہے غازی علم تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر دور میں اونچا رہا غازی علم تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچودہ سو برس سے جھک نہ سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ رب کا کرم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا علم ہے عباس کا علم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپنجا ہے جلال دست خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پٹکا اس کا زینب کی ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تعویذ وفا ہے مشکیزہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ مشک و علم ہونگے نہ جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پٹکے پر رقم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا علم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصدیوں پہ محیط اس کا سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شان وفا کی کہہ لایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر نے محمد سے پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی دعا زہرا کی عطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسوں کا بھرم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا علم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر گھر سے جلوس غم نکلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تابوت کے ساتھ علم نکلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کرتے ہوئے ماتم نکلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے جو جلوسوں کا رستہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کس میں یہ دم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا علم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگو لاکھ مٹانا چاہا مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاری ہے عزاداری کا سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سمت علم آتے ہے نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر پایا نہیں جھک پایا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا کو یہ غم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا علم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآ دیکھ زمانے دیکھ زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ پاک علم کی علم ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی ہے عطا دیتی ہے شفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھبرانا نہیں کہیں جانا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مانگو وہ کم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا علم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحمزہ کو ملا جعفر کو ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر خیبر میں حیدر کو ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر سے دل سرور کو ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نسبت کا شرف یا شاہ نجف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا جاہ و ہشم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا علم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتاریخ علمداری ہے علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی عزاداری ہے علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا سے وفاداری ہے علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتی ہے صدا یہ شہ کی عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہبر جو علم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا علم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب بارہواں حیدر آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق کیا ہے پتہ چل جائے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کعبے پہ علم لہراے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ منظر ہاں دیکھے گا جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اونچا جو علم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا علم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب حشر کی دھوپ میں پہنچیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کا علم جب دیکھیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرحان اور مظہر کہہ دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب روز قیامت کا ہم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ڈر ہے نہ غم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا علم ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

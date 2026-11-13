@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u0364",
-  "title": "Akbar naujawan",
+  "title": "اکبر نوجواں",
   "body": "اکبر نوجواں تجھکو ڈھونڈوں کہاں\nنوحہ لیلیٰ کا تھا اکبر نوجواں\n<<DIVIDER>>\nتیرے برچھی لگی ماں کا دل چھد گیا\nاب جیےء طرح تیری دکھیاری ماں\nاکبر نوجواں۔۔۔\n<<DIVIDER>>\nروے انصار و اہلِ کہکے یہ\nآخری ہے یہ عکس نبی کی اذاں\nاکبر نوجواں۔۔۔\n<<DIVIDER>>\nتیری طرح لگے ہر جواں کی صدا\nدیکھتی ہوں جہاں تو دکھے ہے وہاں\nاکبر نوجواں۔۔۔\n<<DIVIDER>>\nخط ملا آ کے لے جاؤ بیمار کو\nکیوں ہو ناراض صغرا سے اے بھای جاں\nاکبر نوجواں۔۔۔\n<<DIVIDER>>\nجب پسر نے بلایا مدد کے لئے\nشاہ کرتے تھے گرتے سنبھلتے فغاں\nاکبر نوجواں۔۔۔\n<<DIVIDER>>\nشہ نے کھینچی سناں کہکے جب یا علی\nپسلیاں سے تھا باہر دل بیقرار\nاکبر نوجواں۔۔۔\n<<DIVIDER>>\nگیسوؤں والے تجھ پر پھپھی ہو فدا\nتھی یوں زینب بھی لاشے پہ نوحہ کناں\nاکبر نوجواں۔۔۔\n<<DIVIDER>>\nغش میں پیاسی سکینہ یہ کہتی رہی\nمجھکو دلوادو بھیا میری بالیاں\nاکبر نوجواں۔۔۔\n<<DIVIDER>>\nجب اے مرزا یہ ناصر نے نوحہ پڑھا\nاشک آنکھوں میں تھے لب پہ تھا یہ بیاں\nاکبر نوجواں۔۔۔",
+  "styling": [
+    {
+      "insert": "اکبر نوجواں تجھکو ڈھونڈوں کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ لیلیٰ کا تھا اکبر نوجواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے برچھی لگی ماں کا دل چھد گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب جیےء طرح تیری دکھیاری ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نوجواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروے انصار و اہلِ کہکے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری ہے یہ عکس نبی کی اذاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نوجواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیری طرح لگے ہر جواں کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھتی ہوں جہاں تو دکھے ہے وہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نوجواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخط ملا آ کے لے جاؤ بیمار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں ہو ناراض صغرا سے اے بھای جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نوجواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب پسر نے بلایا مدد کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ کرتے تھے گرتے سنبھلتے فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نوجواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہ نے کھینچی سناں کہکے جب یا علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پسلیاں سے تھا باہر دل بیقرار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نوجواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگیسوؤں والے تجھ پر پھپھی ہو فدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی یوں زینب بھی لاشے پہ نوحہ کناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نوجواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغش میں پیاسی سکینہ یہ کہتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو دلوادو بھیا میری بالیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نوجواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب اے مرزا یہ ناصر نے نوحہ پڑھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشک آنکھوں میں تھے لب پہ تھا یہ بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نوجواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Javaid Mirza",
   "anjumans": [],
   "verified": false

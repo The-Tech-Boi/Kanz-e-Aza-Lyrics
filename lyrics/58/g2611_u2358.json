@@ -1,12 +1,518 @@
 {
   "remoteId": "g2611_u2358",
-  "title": "Mehman hoo karbala",
+  "title": "مہمان ہوں کربلا",
   "body": "رقم ہے واقعہ تاریخ میں لوگوں ایسے\nدے چکے غسل و کفن فاطمہ زہرا کو علی\nرو کے پھر آپ نے حسنین سے زینب سے کہا\nآخری وقت ہے دیدار کرو ماں کا سبھی\n<<DIVIDER>>\nسن کے بابا کی صدا آے حسن اور زینب\nاور نہ میت کے قریب آے حسین ابنِ علی\nکربلا کا ہوں میں مہمان صدا دو اماں\nروکے شبیر یہ بولے کہ میں آؤں گا تبھی\n<<DIVIDER>>\nاماں اماں مہمان ہوں میں کربوبلا کا\n<<DIVIDER>>\nاک بار صدا دے کہ کلیجے سے لگالوں\nدل کو میں سنبھالوں گا مجھے تم تو سنبھالو\nجو آگ ہے سینے میں زرا اسکو بجھالو\nہے آخری دیدار صدا دیکے بلالو\nیہی ہوگا جینے کے لئے میرا سہارا\nاماں اماں مہمان ہوں۔۔۔\n<<DIVIDER>>\nپہلے ہی مقدر میں بہت رنج و الم تھے\nاب تم بھی مجھے چھوڑ کے جاتی ہو جہاں سے\nقابو نہ رہا قلب پہ غم ٹوٹے ہیں ایسے\nسب جانتا ہوں آپ نے صدمہ جو اٹھاے\nکیسے بھولوں میں آپ کے صدموں کو خدارا\nاماں اماں مہمان ہوں۔۔۔\n<<DIVIDER>>\nاک دن میں بہتر کے اٹھاؤں گا میں لاشے\nشکوہ نہ مگر لب پہ میرے ہوگا خدا سے\nکھو جاے نگے اس دشت میں سب گود کے پالے\nاصغر ہوکے یا قاسم ہوکے یا زینب کے دلارے\nدنیا میری اس طرح اجاڑیں گے یہ ادا\nاماں اماں مہمان ہوں۔۔۔\n<<DIVIDER>>\nچھن جاے گی ہر چیز میری دشت بلا میں\nخون ہوگا جواں لال کا زینب کی ردا میں\nہو جاؤں گا بے آس جو میں دشت بلا میں\nھل من کی صدا گونجے گی اس وقت فضا میں\nاس دم کوئی نہ آکے مجھے دیگا سہارا\nاماں اماں مہمان ہوں۔۔۔\n<<DIVIDER>>\nکھو جاےنگے سب کربوبلا میں میرے اطفال\nعباس سا بھای ہوکے اکبر سا جواں لال\nہو جاےنگے اس وقت بہن کا بھی برا حال\nہو جاؤں گا جس وقت سر دشت میں پامال\nہوگا ضامن زینب کے لےء نام خدا کا\nاماں اماں مہمان ہوں۔۔۔\n<<DIVIDER>>\nبازار میں زینب کو پھراےنگے ستمگر\nہر موڑ پہ اولاد علی کھاے گی پتھر\nکانٹوں پہ چلے گا وہ میرا عابد مضطر\nگر جاے گی ناقے سے سکینہ میری دختر\nتم ہی تو پھر بچی کو وہاں دوگی دلاسہ\nاماں اماں مہمان ہوں۔۔۔\n<<DIVIDER>>\nمظہر میں لکھوں لفظ وہ قرطاس پہ کیسے\nجب بند کفن کھلنے لگے بنت نبی کے\nصفدر یہ کہا بی بی نے ہاے میرے بچے\nلگ جا میرے سینے سے میرے نازوں کے پالے\nکیسے ہوگا کربل میں میرا لال اکیلا\nاماں اماں مہمان ہوں۔۔۔",
+  "styling": [
+    {
+      "insert": "رقم ہے واقعہ تاریخ میں لوگوں ایسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے چکے غسل و کفن فاطمہ زہرا کو علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے پھر آپ نے حسنین سے زینب سے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری وقت ہے دیدار کرو ماں کا سبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسن کے بابا کی صدا آے حسن اور زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور نہ میت کے قریب آے حسین ابنِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کا ہوں میں مہمان صدا دو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے شبیر یہ بولے کہ میں آؤں گا تبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں اماں مہمان ہوں میں کربوبلا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک بار صدا دے کہ کلیجے سے لگالوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کو میں سنبھالوں گا مجھے تم تو سنبھالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو آگ ہے سینے میں زرا اسکو بجھالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آخری دیدار صدا دیکے بلالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی ہوگا جینے کے لئے میرا سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں اماں مہمان ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہلے ہی مقدر میں بہت رنج و الم تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تم بھی مجھے چھوڑ کے جاتی ہو جہاں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قابو نہ رہا قلب پہ غم ٹوٹے ہیں ایسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب جانتا ہوں آپ نے صدمہ جو اٹھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے بھولوں میں آپ کے صدموں کو خدارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں اماں مہمان ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک دن میں بہتر کے اٹھاؤں گا میں لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شکوہ نہ مگر لب پہ میرے ہوگا خدا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھو جاے نگے اس دشت میں سب گود کے پالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر ہوکے یا قاسم ہوکے یا زینب کے دلارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میری اس طرح اجاڑیں گے یہ ادا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں اماں مہمان ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھن جاے گی ہر چیز میری دشت بلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون ہوگا جواں لال کا زینب کی ردا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو جاؤں گا بے آس جو میں دشت بلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ھل من کی صدا گونجے گی اس وقت فضا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس دم کوئی نہ آکے مجھے دیگا سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں اماں مہمان ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھو جاےنگے سب کربوبلا میں میرے اطفال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس سا بھای ہوکے اکبر سا جواں لال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو جاےنگے اس وقت بہن کا بھی برا حال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو جاؤں گا جس وقت سر دشت میں پامال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگا ضامن زینب کے لےء نام خدا کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں اماں مہمان ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازار میں زینب کو پھراےنگے ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر موڑ پہ اولاد علی کھاے گی پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کانٹوں پہ چلے گا وہ میرا عابد مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر جاے گی ناقے سے سکینہ میری دختر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہی تو پھر بچی کو وہاں دوگی دلاسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں اماں مہمان ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمظہر میں لکھوں لفظ وہ قرطاس پہ کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب بند کفن کھلنے لگے بنت نبی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صفدر یہ کہا بی بی نے ہاے میرے بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگ جا میرے سینے سے میرے نازوں کے پالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے ہوگا کربل میں میرا لال اکیلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں اماں مہمان ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

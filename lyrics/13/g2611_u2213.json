@@ -1,12 +1,442 @@
 {
   "remoteId": "g2611_u2213",
-  "title": "Mai kaise doongi",
+  "title": "میں کیسے دونگی",
   "body": "میں کیسے دونگی یتیموں کو حوصلہ بابا\nبجھا رہی ہے دیےء شام کی ہوا بابا\n<<DIVIDER>>\nتمہارا سامنا کیسے کرے حیا میری\nعدو نے چھین لی بابا ابھی ردا میری\nہماری مشکلیں تم ہی کرو کشاء بابا\nمیں کیسے دونگی۔۔۔\n<<DIVIDER>>\nجلتے خیموں کا دھواں دیکھ رہے ہو بابا\nاشک آنکھوں سے رواں دیکھ رہے ہو بابا\nگزر گیا میرے کنبے پہ سانحہ بابا\nمیں کیسے دونگی۔۔۔\n<<DIVIDER>>\nتمام دن‌ وہ مناظر نظر نے دیکھے ہیں\nوہ دیکھو گنج شہیداں میں کتنے لاشے ہیں\nاٹھا کے لاشے میرا بھای تھک گیا بابا\nمیں کیسے دونگی۔۔۔\n<<DIVIDER>>\nمیرے غریب کو لاکھوں نے مل کے مارا ہے\nہر ایک زخم پہ اس نے تمہیں پکارا ہے\nبغیر دھار کا خنجر تھا اور گلا بابا\nمیں کیسے دونگی۔۔۔\n<<DIVIDER>>\nمیں ہاتھ ملتی رہی شہ پہ چل گیا خنجر\nہے میرے بھائی کا لاشہ بھی جلتی ریتی پر\nکفن بھی بھای کو میرے نہیں ملا بابا\nمیں کیسے دونگی۔۔۔\n<<DIVIDER>>\nاذاں جو دی علی اکبر نے پڑھ کے بسم اللّٰہ\nتڑپ تڑپ کے میں روی ہوں صبحِ عاشورہ\nمیں جانتی تھی بچھڑتا ہے مہ لقا بابا\nمیں کیسے دونگی۔۔۔\n<<DIVIDER>>\nجنازہ اماں کا شب میں اٹھایا تھا تم نے\nمیں روی تھی تو گلے سے لگایا تھا تم نے\nتمہاری بیٹی ہے مقتل میں بے ردا بابا\nمیں کیسے دونگی۔۔۔\n<<DIVIDER>>\nچھپالو اپنی عبا میں کہ تھک گیء ہوں میں\nاسیر ہو کے سوے شام جا رہی ہوں میں\nسفر طویل ہے دشوار راستہ بابا\nمیں کیسے دونگی۔۔۔\n<<DIVIDER>>\nبچا کے شعلوں سے عابد کو لای ہوں بابا\nمیں غمزدہ ہوں فلک کی ستائی ہوں بابا\nکلیجہ درد سے زینب کا پھٹ گیا بابا\nمیں کیسے دونگی۔۔۔\n<<DIVIDER>>\nسنا ہے شام غریباں میں جب علی آے\nاڑا کے خاک وہ فرحان کرتے تھے ہاے\nریحان اعظمی ہر سوں تھی اک صدا بابا\nمیں کیسے دونگی۔۔۔",
+  "styling": [
+    {
+      "insert": "میں کیسے دونگی یتیموں کو حوصلہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بجھا رہی ہے دیےء شام کی ہوا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہارا سامنا کیسے کرے حیا میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عدو نے چھین لی بابا ابھی ردا میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہماری مشکلیں تم ہی کرو کشاء بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے دونگی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلتے خیموں کا دھواں دیکھ رہے ہو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشک آنکھوں سے رواں دیکھ رہے ہو بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گزر گیا میرے کنبے پہ سانحہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے دونگی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمام دن‌ وہ مناظر نظر نے دیکھے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ دیکھو گنج شہیداں میں کتنے لاشے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھا کے لاشے میرا بھای تھک گیا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے دونگی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے غریب کو لاکھوں نے مل کے مارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک زخم پہ اس نے تمہیں پکارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بغیر دھار کا خنجر تھا اور گلا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے دونگی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں ہاتھ ملتی رہی شہ پہ چل گیا خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے میرے بھائی کا لاشہ بھی جلتی ریتی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کفن بھی بھای کو میرے نہیں ملا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے دونگی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاذاں جو دی علی اکبر نے پڑھ کے بسم اللّٰہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپ تڑپ کے میں روی ہوں صبحِ عاشورہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جانتی تھی بچھڑتا ہے مہ لقا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے دونگی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنازہ اماں کا شب میں اٹھایا تھا تم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں روی تھی تو گلے سے لگایا تھا تم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہاری بیٹی ہے مقتل میں بے ردا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے دونگی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھپالو اپنی عبا میں کہ تھک گیء ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسیر ہو کے سوے شام جا رہی ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر طویل ہے دشوار راستہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے دونگی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچا کے شعلوں سے عابد کو لای ہوں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں غمزدہ ہوں فلک کی ستائی ہوں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلیجہ درد سے زینب کا پھٹ گیا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے دونگی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنا ہے شام غریباں میں جب علی آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اڑا کے خاک وہ فرحان کرتے تھے ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ریحان اعظمی ہر سوں تھی اک صدا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے دونگی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

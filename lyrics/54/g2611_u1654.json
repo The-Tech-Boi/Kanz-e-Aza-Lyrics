@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u1654",
-  "title": "Hyder ka pisar",
+  "title": "حیدر کا پسر",
   "body": "عباس جری فاتح خیبر کی طرح ہے\nحیدر کا پسر شان میں حیدر کی طرح ہے\n<<DIVIDER>>\nخود شام کی فوجوں میں ہے آتا ہے علمدار\nاس شیر کے حملے سے خبر دار خبر دار\nتنہا بھی ہزاروں میں یہ لشکر کی طرح ہے\nحیدر کا پسر۔۔۔\n<<DIVIDER>>\nیہ دم ہے بھلا کس میں جو اس شیر کو رو کے\nایک مشک میں لے جاے گا دریا کو سموں سے\nاعدا کے لئے حلق پہ خنجر کی طرح ہے\nحیدر کا پسر۔۔۔\n<<DIVIDER>>\nبے تیغ بھی دریا کو کیا فوج سے خالی\nاس شیر کا ہر وار ہے حیدر سا مثالی\nیہ بعد نبی دین کے رہبر کی طرح ہے\nحیدر کا پسر۔۔۔\n<<DIVIDER>>\nدادا کی جگہ ساتھ ہے اس آس کا ہونا\nکہتی ہے سکینہ چچا عباس کا ہونا\nپیاسوں کے لئے ثاقیء کوثر کی طرح ہے\nحیدر کا پسر۔۔۔\n<<DIVIDER>>\nرو رو کے یہ عابد سے کہا بنت علی نے\nدریا پہ جسے مار دیا فوج شقی نے\nوہ شیر وفاؤں کے پیمبر کی طرح ہے\nحیدر کا پسر۔۔۔\n<<DIVIDER>>\nمل جاتا گر سکینہ کو جو ایک بوندھ بھی پانی\nشرمندہ نہ ہوتی کبھی دریا کی روانی\nدریا بھی سکینہ کے مقدر کی طرح ہے\nحیدر کا پسر۔۔۔\n<<DIVIDER>>\nکہتی ہے محمد کے گھرانے کی فضا بھی\nعباس نہیں ہے تو زمانے کی فضا بھی\nایک خون میں ڈوبے ہوئے منظر کی طرح ہے\nحیدر کا پسر۔۔۔\n<<DIVIDER>>\nاس ظلم سے جو میثم و محبوب بچاے\nاعدا سے ردا زینب مضطر کے دلاے\nاب کون شہ دین کے دلبر کی طرح ہے\nحیدر کا پسر۔۔۔",
+  "styling": [
+    {
+      "insert": "عباس جری فاتح خیبر کی طرح ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کا پسر شان میں حیدر کی طرح ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخود شام کی فوجوں میں ہے آتا ہے علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس شیر کے حملے سے خبر دار خبر دار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا بھی ہزاروں میں یہ لشکر کی طرح ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کا پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ دم ہے بھلا کس میں جو اس شیر کو رو کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک مشک میں لے جاے گا دریا کو سموں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اعدا کے لئے حلق پہ خنجر کی طرح ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کا پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے تیغ بھی دریا کو کیا فوج سے خالی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس شیر کا ہر وار ہے حیدر سا مثالی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بعد نبی دین کے رہبر کی طرح ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کا پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدادا کی جگہ ساتھ ہے اس آس کا ہونا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی ہے سکینہ چچا عباس کا ہونا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسوں کے لئے ثاقیء کوثر کی طرح ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کا پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو رو کے یہ عابد سے کہا بنت علی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا پہ جسے مار دیا فوج شقی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ شیر وفاؤں کے پیمبر کی طرح ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کا پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمل جاتا گر سکینہ کو جو ایک بوندھ بھی پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شرمندہ نہ ہوتی کبھی دریا کی روانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا بھی سکینہ کے مقدر کی طرح ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کا پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی ہے محمد کے گھرانے کی فضا بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس نہیں ہے تو زمانے کی فضا بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک خون میں ڈوبے ہوئے منظر کی طرح ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کا پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس ظلم سے جو میثم و محبوب بچاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اعدا سے ردا زینب مضطر کے دلاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کون شہ دین کے دلبر کی طرح ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیدر کا پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mehboob",
   "anjumans": [],
   "verified": false

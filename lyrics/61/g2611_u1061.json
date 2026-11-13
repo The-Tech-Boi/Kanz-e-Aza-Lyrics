@@ -1,12 +1,459 @@
 {
   "remoteId": "g2611_u1061",
-  "title": "Chadare fatema",
+  "title": "چادر فاطمہ",
   "body": "رزق ہے جنبش چادر فاطمہ\nروزی عالمیں چادر سیدہ\n<<DIVIDER>>\nا ے مادر بے کس مادر مظلوم مادر\n<<DIVIDER>>\nتری خاکِ پا سے نہ ہم سر اٹھائیں\nوہیں پر اجل کو گلے سے لگائیں\nرہے تری چادر کا سایہ سروں پر\nشفاعت کے سائے میں ہم سر چھپائیں\nا ے مادر بے کس مادر۔۔۔\nرزق ہے جنبش۔۔۔\n<<DIVIDER>>\nفلک پر دلوں کے تجھی سے اجالا\nجہانوں کو تیری دعا نے سنبھالا\nہوں کیسے ہی طوفاں ہوں کیسی قیامت\nمصیبت سے تو نے ہمیشہ نکالا\nا ے مادر بے کس مادر۔۔۔\nرزق ہے جنبش۔۔۔\n<<DIVIDER>>\nیہ پلکیں اطاعت کی دائم بچھائیں\nہمیشہ اسی در پہ یہ سر جھکائیں\nغلاموں کی خواہش دعا ا ور تمنّا\nگھرانے پہ زہرا کے جانیں لٹائیں\nا ے مادر بے کس مادر۔۔۔\nرزق ہے جنبش۔۔۔\n<<DIVIDER>>\nغضب ہے ترے گھر کا و ہ در جلا تھا\nجو بابِ شفا تھا جو بابِ عطا تھا\nپیمبر بھی اُس در پہ آتے تھے پیہم\nخدا کی رضا تھا جو بابِ خدا تھا\nا ے مادر بے کس مادر۔۔۔\nرزق ہے جنبش۔۔۔\n<<DIVIDER>>\nعدو سے لڑِیں بھی علی کو بچایا\nسہا تازیانہ طمانچہ بھی کھایا\nولایت کی خاطر ہی محسن گنوایا\nامامت کے منصب کو پھر بھی بچایا\nا ے مادر بے کس مادر۔۔۔\nرزق ہے جنبش۔۔۔\n<<DIVIDER>>\nعلی کے گلے میں جو رسّی پڑی تھی\nمصیبت یہ زہرا کے دل پر بڑی تھی\nنہ تھا کوئی یاور غضب کی گھڑی تھی\nعلی کے دامن کو پکڑے کھڑی تھی\nا ے مادر بے کس مادر۔۔۔\nرزق ہے جنبش۔۔۔\n<<DIVIDER>>\nیہ مخلص پہ ا ور شادماں پہ کرم ہیں\nغمِ سیّدہ میں جو آنکھیں یہ نم ہیں\nمودت کی راہوں کے یہ ہمسفر ہیں\nولایت کے رستے پہ یہ ہم قدم ہیں\nا ے مادر بے کس مادر۔۔۔\nرزق ہے جنبش۔۔۔",
+  "styling": [
+    {
+      "insert": "رزق ہے جنبش چادر فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روزی عالمیں چادر سیدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nا ے مادر بے کس مادر مظلوم مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتری خاکِ پا سے نہ ہم سر اٹھائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہیں پر اجل کو گلے سے لگائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہے تری چادر کا سایہ سروں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شفاعت کے سائے میں ہم سر چھپائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ا ے مادر بے کس مادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رزق ہے جنبش۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفلک پر دلوں کے تجھی سے اجالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جہانوں کو تیری دعا نے سنبھالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوں کیسے ہی طوفاں ہوں کیسی قیامت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مصیبت سے تو نے ہمیشہ نکالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ا ے مادر بے کس مادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رزق ہے جنبش۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ پلکیں اطاعت کی دائم بچھائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمیشہ اسی در پہ یہ سر جھکائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غلاموں کی خواہش دعا ا ور تمنّا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھرانے پہ زہرا کے جانیں لٹائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ا ے مادر بے کس مادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رزق ہے جنبش۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغضب ہے ترے گھر کا و ہ در جلا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو بابِ شفا تھا جو بابِ عطا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیمبر بھی اُس در پہ آتے تھے پیہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کی رضا تھا جو بابِ خدا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ا ے مادر بے کس مادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رزق ہے جنبش۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعدو سے لڑِیں بھی علی کو بچایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہا تازیانہ طمانچہ بھی کھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ولایت کی خاطر ہی محسن گنوایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امامت کے منصب کو پھر بھی بچایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ا ے مادر بے کس مادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رزق ہے جنبش۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی کے گلے میں جو رسّی پڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مصیبت یہ زہرا کے دل پر بڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ تھا کوئی یاور غضب کی گھڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کے دامن کو پکڑے کھڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ا ے مادر بے کس مادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رزق ہے جنبش۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ مخلص پہ ا ور شادماں پہ کرم ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمِ سیّدہ میں جو آنکھیں یہ نم ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مودت کی راہوں کے یہ ہمسفر ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ولایت کے رستے پہ یہ ہم قدم ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ا ے مادر بے کس مادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رزق ہے جنبش۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Imon Rizvi",
   "anjumans": [],
   "verified": false

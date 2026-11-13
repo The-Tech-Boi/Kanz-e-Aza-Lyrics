@@ -1,12 +1,451 @@
 {
   "remoteId": "g2611_u0102",
-  "title": "Aao alamdar",
+  "title": "آؤ علمدار",
   "body": "بنت علی کے لئے حشر کا ہے سامنا\nنرغہء اعدا میں ہے آل نبی بے ردا\nآگیا بازار آؤ علمدار\n<<DIVIDER>>\nناقوں پہ محمل نہیں سر پہ بھی چادر نہیں\nکون دلاے ردا کوئی برادر نہیں\nشانے کٹاے ہوے شیر جری سو گیا\nآگیا بازار آؤ علمدار۔۔۔\n<<DIVIDER>>\nہاے کہاں آ گیء فاطمہ کی بیٹیاں\nآیینہ بندی کہاں اور کہاں سیدانیاں\nختم بھلا ہو گا کب ظلم کا یہ سلسلہ\nآگیا بازار آؤ علمدار۔۔۔\n<<DIVIDER>>\nشور قیامت کا ہے شام کے بازار میں\nکافروں کی کرسیاں سجتی ہے دربار میں\nسر کو اٹھاتے نہیں حضرت زین العباء\nآگیا بازار آؤ علمدار۔۔۔\n<<DIVIDER>>\nفکر ہے بیمار کو کیسے بتاؤں گا میں\nدل پہ گزرتی ہے جو کیسے سناؤں گا میں\nچاہنے والا کوئی ایسے میں گر مل گیا\nآگیا بازار آؤ علمدار۔۔۔\n<<DIVIDER>>\nآل پیمبر ہے وہ قید جو رسی میں ہے\nوارث کوثر ہے وہ قید جو رسی میں ہے\nاور سکینہ ہے وہ کستا ہے جس کا گلا\nآگیا بازار آؤ علمدار۔۔۔\n<<DIVIDER>>\nبی بیاں جو قید ہے وارث تطہیر ہے\nدختر خیرالوریٰ خواہر شبیر ہے\nبین سنے تو کوئی روتی ہے خود فاطمہ\nآگیا بازار آؤ علمدار۔۔۔\n<<DIVIDER>>\nآنکھوں میں لیلیٰ کی ہے خوں بھری اکبر کی لاش\nدشت میں چھوڑ آی ہے بانو بھی اصغر کی لاش\nلاڈلوں کی صورتیں ڈھونڈتی ہے مامتا\nآگیا بازار آؤ علمدار۔۔۔\n<<DIVIDER>>\nنیزوں پہ اکبر بھی ہے اصغر بے شیر بھی\nعون و محمد بھی ہے قاسم دلگیر بھی\nوہ سر عباس ہے نیزے سے جو گر پڑا\nآگیا بازار آؤ علمدار۔۔۔\n<<DIVIDER>>\nضبط کہاں تک کرے بنت علی کا جگر\nکب سے یہ سیدانیاں ہے در ساعات پر\nاٹھ کے نجف سے زرا دیکھ لو مشکل کشاء\nآگیا بازار آؤ علمدار۔۔۔\n<<DIVIDER>>\nنیر و عامر یہ دل غم وہ بھلاتا نہیں\nصاحبِ غیرت وہاں سر کو اٹھاتا نہیں\nآج بھی ہم شام میں پہنچے تو نوحہ پڑھا\nآگیا بازار آؤ علمدار۔۔۔",
+  "styling": [
+    {
+      "insert": "بنت علی کے لئے حشر کا ہے سامنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نرغہء اعدا میں ہے آل نبی بے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا بازار آؤ علمدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nناقوں پہ محمل نہیں سر پہ بھی چادر نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون دلاے ردا کوئی برادر نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شانے کٹاے ہوے شیر جری سو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا بازار آؤ علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے کہاں آ گیء فاطمہ کی بیٹیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آیینہ بندی کہاں اور کہاں سیدانیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ختم بھلا ہو گا کب ظلم کا یہ سلسلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا بازار آؤ علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشور قیامت کا ہے شام کے بازار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کافروں کی کرسیاں سجتی ہے دربار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کو اٹھاتے نہیں حضرت زین العباء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا بازار آؤ علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفکر ہے بیمار کو کیسے بتاؤں گا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پہ گزرتی ہے جو کیسے سناؤں گا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاہنے والا کوئی ایسے میں گر مل گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا بازار آؤ علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآل پیمبر ہے وہ قید جو رسی میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وارث کوثر ہے وہ قید جو رسی میں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور سکینہ ہے وہ کستا ہے جس کا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا بازار آؤ علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبی بیاں جو قید ہے وارث تطہیر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دختر خیرالوریٰ خواہر شبیر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین سنے تو کوئی روتی ہے خود فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا بازار آؤ علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھوں میں لیلیٰ کی ہے خوں بھری اکبر کی لاش"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت میں چھوڑ آی ہے بانو بھی اصغر کی لاش"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاڈلوں کی صورتیں ڈھونڈتی ہے مامتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا بازار آؤ علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزوں پہ اکبر بھی ہے اصغر بے شیر بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عون و محمد بھی ہے قاسم دلگیر بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ سر عباس ہے نیزے سے جو گر پڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا بازار آؤ علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nضبط کہاں تک کرے بنت علی کا جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب سے یہ سیدانیاں ہے در ساعات پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھ کے نجف سے زرا دیکھ لو مشکل کشاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا بازار آؤ علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیر و عامر یہ دل غم وہ بھلاتا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صاحبِ غیرت وہاں سر کو اٹھاتا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج بھی ہم شام میں پہنچے تو نوحہ پڑھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا بازار آؤ علمدار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Nayyar Jalalpuri",
   "anjumans": [],
   "verified": false

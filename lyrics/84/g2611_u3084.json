@@ -1,12 +1,278 @@
 {
   "remoteId": "g2611_u3084",
-  "title": "Sina toot gayi hai",
+  "title": "سِناں ٹوٹ گئی ہے",
   "body": "اماں کی نگاہوں سے میرا زخم چھُپانا\nبابا میرے سینے میں سِناں ٹوٹ گئی ہے\n<<DIVIDER>>\nاس طرح کلیجے میں اُتر آئی ہے برچھی\nسینہ نہیں ارمان بھی ماں کے ہوئے زخمی\nچاہا تھا میری ماں نے مجھے دولہا بنانا\n...کے بابا میرے سینے\n<<DIVIDER>>\nجی چاہتا ہے آپ کی تسلیم کو اُٹھوں\nرُتبے کا تقاضا ہے کے تعظیم کو اُٹھوں\nمشکل ہے مگر ہاتھ کلیجے سے ہٹانا\n...کے بابا میرے سینے\n<<DIVIDER>>\nمیں جانتا ہوں ضد وہ بہت تم سے کرے گی\nتنہا تمہیں زینب کبھی آنے نہیں دے گی\nمقتل میں میری پالنے والی کو نہ لانا\n...کے بابا میرے سینے\n<<DIVIDER>>\nیہ سوچ کے اکبر کا پھٹا جاتا ہے سینہ\nآواز نہ سُن لے کہیں معصوم سکینہ\nسجاد کو آہستہ ذرا جا کے بتانا\n...کے بابا میرے سینے\n<<DIVIDER>>\nاللہ کرے لوٹ کے تم جائو وطن کو\nمجبوریاںبھائی کی بتا دینا بہن کو\nتم میری طرف سے اُسے سینے سے لگانا\n...کے بابا میرے سینے\n<<DIVIDER>>\nقاتل نے سِناں توڑی تکلم یہی کہہ کر\nسُنتا ہوں کے صابر ہے بہت سبطِ پیعمبر\nاکبر نے کہا صبر کی معراج دیکھانا\n...کے بابا میرے سینے",
+  "styling": [
+    {
+      "insert": "اماں کی نگاہوں سے میرا زخم چھُپانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا میرے سینے میں سِناں ٹوٹ گئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس طرح کلیجے میں اُتر آئی ہے برچھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینہ نہیں ارمان بھی ماں کے ہوئے زخمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاہا تھا میری ماں نے مجھے دولہا بنانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...کے بابا میرے سینے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجی چاہتا ہے آپ کی تسلیم کو اُٹھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رُتبے کا تقاضا ہے کے تعظیم کو اُٹھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشکل ہے مگر ہاتھ کلیجے سے ہٹانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...کے بابا میرے سینے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں جانتا ہوں ضد وہ بہت تم سے کرے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا تمہیں زینب کبھی آنے نہیں دے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں میری پالنے والی کو نہ لانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...کے بابا میرے سینے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سوچ کے اکبر کا پھٹا جاتا ہے سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز نہ سُن لے کہیں معصوم سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد کو آہستہ ذرا جا کے بتانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...کے بابا میرے سینے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللہ کرے لوٹ کے تم جائو وطن کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجبوریاںبھائی کی بتا دینا بہن کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم میری طرف سے اُسے سینے سے لگانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...کے بابا میرے سینے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاتل نے سِناں توڑی تکلم یہی کہہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُنتا ہوں کے صابر ہے بہت سبطِ پیعمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نے کہا صبر کی معراج دیکھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...کے بابا میرے سینے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

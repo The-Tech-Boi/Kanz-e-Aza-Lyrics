@@ -1,12 +1,514 @@
 {
   "remoteId": "g2611_u2367",
-  "title": "Mera bhai abbas",
+  "title": "میرا بھائی عباس",
   "body": "ہو کے بتیس برس والے برادر سے جدا\nلوٹے مقتل سے کمر تھامے ہوئے شاہ ہدا\nدی صدا لٹ گیا پردیس میں بھای زینب\nبھا گیء شیر کو دریا کی ترای زینب\n<<DIVIDER>>\nشہ نے روتے ہوئے زینب سے کہا\nہاے غربت میں ہوا ہم سے جدا\nعباس میرا بھائی عباس\n<<DIVIDER>>\nیہ غم ہماری کمر توڑ گیا\nہاے غربت میں ہوا ہم سے جدا\nعباس میرا بھائی عباس۔۔۔\n<<DIVIDER>>\nمیری قوت پہ ہوا وار زینب\nنہ رہا میرا علمدار زینب\nتنہا مجھکو میرے دشمن نے کیا\nہاے غربت میں ہوا ہم سے جدا\nعباس میرا بھائی عباس۔۔۔\n<<DIVIDER>>\nوقت ہے ہم پہ قیامت کا بہن\nآؤ ماتم کرے غربت کا بہن\nداغ پردیس میں بھای کا ملا\nہاے غربت میں ہوا ہم سے جدا\nعباس میرا بھائی عباس۔۔۔\n<<DIVIDER>>\nہو گیا فوج کا سردار غریب\nاب کہاں فوج کو سالار نصیب\nلو بڑھا دو یہ علم خوں سے بھرا\nہاے غربت میں ہوا ہم سے جدا\nعباس میرا بھائی عباس۔۔۔\n<<DIVIDER>>\nمٹ گیء دشت میں تصویر علی\nخون میں ڈوب گیا شیر جری\nمل گیء خاک میں بابا کی دعا\nہاے غربت میں ہوا ہم سے جدا\nعباس میرا بھائی عباس۔۔۔\n<<DIVIDER>>\nٹوٹا دریا پہ سکینہ کا بھرم\nموت نے چھین کے سقاے حرم\nپیاسے معصوموں کا دل توڑ دیا\nہاے غربت میں ہوا ہم سے جدا\nعباس میرا بھائی عباس۔۔۔\n<<DIVIDER>>\nخون میں ڈوبا علم لایا ہوں میں\nاس کو دریا پہ ہی کھو آیا ہوں میں\nجس پہ ہم سب کو بھروسہ تھا بڑا\nہاے غربت میں ہوا ہم سے جدا\nعباس میرا بھائی عباس۔۔۔\n<<DIVIDER>>\nاس مر جانے کے احساس کا غم\nمار دے‌ گا ہمیں عباس کا غم\nہم نہ جی پاییں گے بھای کے بنا\nہاے غربت میں ہوا ہم سے جدا\nعباس میرا بھائی عباس۔۔۔\n<<DIVIDER>>\nتھامی زینب نے ندیم اپنی ردا\nروکے جس وقت یہ سرور نے کہا\nاے بہن لے گیء بھائی کو قضاء\nہاے غربت میں ہوا ہم سے جدا\nعباس میرا بھائی عباس۔۔۔",
+  "styling": [
+    {
+      "insert": "ہو کے بتیس برس والے برادر سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹے مقتل سے کمر تھامے ہوئے شاہ ہدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دی صدا لٹ گیا پردیس میں بھای زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھا گیء شیر کو دریا کی ترای زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہ نے روتے ہوئے زینب سے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے غربت میں ہوا ہم سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرا بھائی عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ غم ہماری کمر توڑ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے غربت میں ہوا ہم سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرا بھائی عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری قوت پہ ہوا وار زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ رہا میرا علمدار زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا مجھکو میرے دشمن نے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے غربت میں ہوا ہم سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرا بھائی عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوقت ہے ہم پہ قیامت کا بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ ماتم کرے غربت کا بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داغ پردیس میں بھای کا ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے غربت میں ہوا ہم سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرا بھائی عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہو گیا فوج کا سردار غریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کہاں فوج کو سالار نصیب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو بڑھا دو یہ علم خوں سے بھرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے غربت میں ہوا ہم سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرا بھائی عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمٹ گیء دشت میں تصویر علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوب گیا شیر جری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل گیء خاک میں بابا کی دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے غربت میں ہوا ہم سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرا بھائی عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹوٹا دریا پہ سکینہ کا بھرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت نے چھین کے سقاے حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسے معصوموں کا دل توڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے غربت میں ہوا ہم سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرا بھائی عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون میں ڈوبا علم لایا ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کو دریا پہ ہی کھو آیا ہوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس پہ ہم سب کو بھروسہ تھا بڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے غربت میں ہوا ہم سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرا بھائی عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس مر جانے کے احساس کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مار دے‌ گا ہمیں عباس کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم نہ جی پاییں گے بھای کے بنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے غربت میں ہوا ہم سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرا بھائی عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھامی زینب نے ندیم اپنی ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے جس وقت یہ سرور نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بہن لے گیء بھائی کو قضاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے غربت میں ہوا ہم سے جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس میرا بھائی عباس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Nadeem Sultanpuri",
   "anjumans": [],
   "verified": false

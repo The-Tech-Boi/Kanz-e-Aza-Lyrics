@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u1000",
-  "title": "Bhai shabbir ka",
+  "title": "بھای شبیر کا",
   "body": "بھای شبیر کا حیدر کا پسر آتا ہے\nجنگ کرنے بنی ہاشم کا قمر آتا ہے\n<<DIVIDER>>\nایسا تنہا تو بہادر کوی دیکھا نہ سنا\nذات میں اپنی جو لشکر سا نظر آتا ہے\nجنگ کرنے بنی ہاشم کا قمر آتا ہے\nبھای شبیر کا۔۔۔\n<<DIVIDER>>\nیاد آتی ہے سکینہ کی بڑے قلب کے ساتھ\nنام عباس کا ہونٹوں پہ اگر آتا ہے\nجنگ کرنے بنی ہاشم کا قمر آتا ہے\nبھای شبیر کا۔۔۔\n<<DIVIDER>>\nخوں بھرا آیا علم رو کے یہ زینب نے کہا\nبھای تم آے نہیں منہ کو جگر آتا ہے\nجنگ کرنے بنی ہاشم کا قمر آتا ہے\nبھای شبیر کا۔۔۔\n<<DIVIDER>>\nدور سے آپ کا علم دیکھ کے بچی بولی\nدیکھو دریا سے چچا لوٹ کے گھر آتا ہے\nجنگ کرنے بنی ہاشم کا قمر آتا ہے\nبھای شبیر کا۔۔۔\n<<DIVIDER>>\nشرم سے رکتا نہیں نیزے پہ عباس کا سر\nبے ردا کنبہ جو غازی نظر آتا ہے\nجنگ کرنے بنی ہاشم کا قمر آتا ہے\nبھای شبیر کا۔۔۔\n<<DIVIDER>>\nبولی زینب کے مدد آ کے کرو اے بھای\nآؤ عباس کے زندان کا در آتا ہے\nجنگ کرنے بنی ہاشم کا قمر آتا ہے\nبھای شبیر کا۔۔۔\n<<DIVIDER>>\nنوحہ پڑھتا ہے حسن صادق پر غم ریحان\nہے دعا غازی کی جس کو یہ ہنر آتا ہے\nجنگ کرنے بنی ہاشم کا قمر آتا ہے\nبھای شبیر کا۔۔۔",
+  "styling": [
+    {
+      "insert": "بھای شبیر کا حیدر کا پسر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگ کرنے بنی ہاشم کا قمر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایسا تنہا تو بہادر کوی دیکھا نہ سنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذات میں اپنی جو لشکر سا نظر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگ کرنے بنی ہاشم کا قمر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای شبیر کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد آتی ہے سکینہ کی بڑے قلب کے ساتھ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام عباس کا ہونٹوں پہ اگر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگ کرنے بنی ہاشم کا قمر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای شبیر کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوں بھرا آیا علم رو کے یہ زینب نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای تم آے نہیں منہ کو جگر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگ کرنے بنی ہاشم کا قمر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای شبیر کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدور سے آپ کا علم دیکھ کے بچی بولی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو دریا سے چچا لوٹ کے گھر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگ کرنے بنی ہاشم کا قمر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای شبیر کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشرم سے رکتا نہیں نیزے پہ عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا کنبہ جو غازی نظر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگ کرنے بنی ہاشم کا قمر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای شبیر کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبولی زینب کے مدد آ کے کرو اے بھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ عباس کے زندان کا در آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگ کرنے بنی ہاشم کا قمر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای شبیر کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوحہ پڑھتا ہے حسن صادق پر غم ریحان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے دعا غازی کی جس کو یہ ہنر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگ کرنے بنی ہاشم کا قمر آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای شبیر کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

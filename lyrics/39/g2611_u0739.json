@@ -1,12 +1,491 @@
 {
   "remoteId": "g2611_u0739",
-  "title": "Ay shehre madina",
+  "title": "اے شہر مدینہ",
   "body": "جنگل میں بھرے گھر کو لٹا آی ہے زینب\nاے شہر مدینہ\nعابد کو کسی طرح بچا لای ہے زینب\n<<DIVIDER>>\nنہ قاسم و اکبر رہے بھائی بھی سدھارے\nسب ہی گےء مارے\nبے گور انہیں دشت میں چھوڑ آی ہے زینب\nاے شہر مدینہ\nجنگل میں بھرے گھر۔۔۔\n<<DIVIDER>>\nوہ شام غریباں ہو یا وہ شام کا بازار\nعابد رہے لاچار\nسب زخم اسی قلب میں بھر آی ہے زینب\nاے شہر مدینہ\nجنگل میں بھرے گھر۔۔۔\n<<DIVIDER>>\nکیا کیا نہ ستم راہ میں سادات نے جھیلا\nمیں تجھ سے کہوں کیا\nباغی کی بہن شام میں کہلای ہے زینب\nاے شہر مدینہ\nجنگل میں بھرے گھر۔۔۔\n<<DIVIDER>>\nپردہ جو سکھاتی رہی وہ بی بی کھلے سر\nپھرتی رہی در در\nبازاروں میں درباروں میں ہو آی ہے زینب\nاے شہر مدینہ\nجنگل میں بھرے گھر۔۔۔\n<<DIVIDER>>\nآجا تو کنیزی میں میری بولا ستمگر\nاے شاہ کی دختر\nیہ لمحہ وہی تھا جہاں گھبرای ہے زینب\nاے شہر مدینہ\nجنگل میں بھرے گھر۔۔۔\n<<DIVIDER>>\nزنداں میں کہیں کھو گیا بھائی کا نگینہ\nمعصوم سکینہ\nدو بالیاں زندان سے لے آی ہے زینب\nاے شہر مدینہ\nجنگل میں بھرے گھر۔۔۔\n<<DIVIDER>>\nزنداں سے رہا ہوکے بھی باقی ہے اسیری\nماتم کر تو بھی\nرسی کے نشاں اس لئے لے آی ہے زینب\nاے شہر مدینہ\nجنگل میں بھرے گھر۔۔۔\n<<DIVIDER>>\nیہ زخم میرے قلب کا جینے نہیں دیگا\nہے ظلم ہی ایسا\nشبیر سر دشت ہے گھر آی ہے زینب\nاے شہر مدینہ\nجنگل میں بھرے گھر۔۔۔\n<<DIVIDER>>\nپوچھے گی یہی فاطمہ صغرا ابھی مجھ سے\nاکبر نہیں آے\nدکھیا کے سوالوں سے ہی گھبرای ہے زینب\nاے شہر مدینہ\nجنگل میں بھرے گھر۔۔۔",
+  "styling": [
+    {
+      "insert": "جنگل میں بھرے گھر کو لٹا آی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کو کسی طرح بچا لای ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ قاسم و اکبر رہے بھائی بھی سدھارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب ہی گےء مارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے گور انہیں دشت میں چھوڑ آی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگل میں بھرے گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ شام غریباں ہو یا وہ شام کا بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد رہے لاچار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب زخم اسی قلب میں بھر آی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگل میں بھرے گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا کیا نہ ستم راہ میں سادات نے جھیلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں تجھ سے کہوں کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باغی کی بہن شام میں کہلای ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگل میں بھرے گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپردہ جو سکھاتی رہی وہ بی بی کھلے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھرتی رہی در در"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازاروں میں درباروں میں ہو آی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگل میں بھرے گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآجا تو کنیزی میں میری بولا ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شاہ کی دختر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ لمحہ وہی تھا جہاں گھبرای ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگل میں بھرے گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنداں میں کہیں کھو گیا بھائی کا نگینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو بالیاں زندان سے لے آی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگل میں بھرے گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنداں سے رہا ہوکے بھی باقی ہے اسیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم کر تو بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسی کے نشاں اس لئے لے آی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگل میں بھرے گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ زخم میرے قلب کا جینے نہیں دیگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے ظلم ہی ایسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر سر دشت ہے گھر آی ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگل میں بھرے گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپوچھے گی یہی فاطمہ صغرا ابھی مجھ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر نہیں آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھیا کے سوالوں سے ہی گھبرای ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہر مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنگل میں بھرے گھر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Wapasi-e-Ahle Haram",
+  "subcategory": "واپسی اہل حرم",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

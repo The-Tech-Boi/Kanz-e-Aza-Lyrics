@@ -1,12 +1,463 @@
 {
   "remoteId": "g2611_u2586",
-  "title": "Paani",
+  "title": "پانی",
   "body": "ہاے سکینہ ہاے سکینہ\nہاے یتیمہ ہاے یتیمہ\n<<DIVIDER>>\nشمر نے خاک پہ دکھلا کے جو پھینکا پانی\nدیکھتی رہ گئی معصوم سکینہ پانی\n<<DIVIDER>>\nخون آنکھوں میں اتر آیا یتیمہ روی\nاپنی غربت پہ تڑپ کر کے وہ دکھیا روی\nکر کے رخ دیر تلک جانب دیر روی\nیاد سقہ کی بہت آی سکینہ روی\nروکے دیتی تھی صدا دیکھ لو آ کر عمو\nایک خطرہ کے لئے کھاتی ہوں ٹھوکر عمو\nشمر نے خاک پہ۔۔۔\n<<DIVIDER>>\nکیفیت پیاس کی کیسی تھی کوئی کیا جانے\nکتنی شدت سے وہ پیاسی تھی یہ اللہ جانے\nپیاس کی کونسی منزل پہ تھی دکھیا جانے\nیہ تو بس بالی سکینہ کا کلیجہ جانے\nمشک پانی کی جدھر تھی وہ ادھر جاتی تھی\nکھڑکیاں شمر جو دیتا تھا تو ڈر جاتی تھی\nشمر نے خاک پہ۔۔۔\n<<DIVIDER>>\nجس نے بالوں کو پکڑ کر کے طمانچے مارے\nدونوں کانوں کی لویں چیر کے چھینے بندیں\nجس نے برسایا یتیمہ پہ مسلسل درے\nخالی کوزے کو لیےء آی جب اس کے آگے\nڈر یہ کہتا تھا سکینہ سے نہ مانگو پانی\nپیاس کہتی تھی بس اب جلد پلا دو پانی\nشمر نے خاک پہ۔۔۔\n<<DIVIDER>>\nسامنے شمر کے لے کر کے گیء جب کوزہ\nڈانت کر بالی سکینہ کو یہ ظالم بولا\nپہلے سیراب سنو شام کا لشکر ہوگا\nپھر یہ امید دلائی کی تمہیں بھی دونگا\nاپنے حیوانوں کو ظالم نے پلایا پانی\nاور یتیمہ کو دکھا کر کے بہایا پانی\nشمر نے خاک پہ۔۔۔\n<<DIVIDER>>\nآس جب توڑ دی بچی کی ستمگروں نے\nاور ایک ظلم کیا بڑھ کے جفا کاروں نے\nکھینچ کر بالوں سے بیکس کو گنہگاروں نے\nخاک پر پھینک دیا زور سے بد کاروں نے\nاور یہ کہنے لگے آواز لگاؤ اس کو\nجس دلاور کی دلاری ہو بلاؤ اس کو\nشمر نے خاک پہ۔۔۔\n<<DIVIDER>>\nوہ مصائب وہ قیامت وہ مصیبت وایض\nکون لکھے گا یتیمہ کی وہ غربت وایض\nتھی عجب دختر شبیر کی حالت وایض\nلے گیء قبر تلک پیاس کی شدت وایض\nآج تک مجھکو روایت میں کہیں یہ نہ ملا\nپانی کب اور کہاں بالی سکینہ نے پیا\nشمر نے خاک پہ۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے سکینہ ہاے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے یتیمہ ہاے یتیمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشمر نے خاک پہ دکھلا کے جو پھینکا پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھتی رہ گئی معصوم سکینہ پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون آنکھوں میں اتر آیا یتیمہ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی غربت پہ تڑپ کر کے وہ دکھیا روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر کے رخ دیر تلک جانب دیر روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد سقہ کی بہت آی سکینہ روی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے دیتی تھی صدا دیکھ لو آ کر عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک خطرہ کے لئے کھاتی ہوں ٹھوکر عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر نے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیفیت پیاس کی کیسی تھی کوئی کیا جانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنی شدت سے وہ پیاسی تھی یہ اللہ جانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاس کی کونسی منزل پہ تھی دکھیا جانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو بس بالی سکینہ کا کلیجہ جانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشک پانی کی جدھر تھی وہ ادھر جاتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھڑکیاں شمر جو دیتا تھا تو ڈر جاتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر نے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس نے بالوں کو پکڑ کر کے طمانچے مارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دونوں کانوں کی لویں چیر کے چھینے بندیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس نے برسایا یتیمہ پہ مسلسل درے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خالی کوزے کو لیےء آی جب اس کے آگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈر یہ کہتا تھا سکینہ سے نہ مانگو پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاس کہتی تھی بس اب جلد پلا دو پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر نے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسامنے شمر کے لے کر کے گیء جب کوزہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈانت کر بالی سکینہ کو یہ ظالم بولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہلے سیراب سنو شام کا لشکر ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر یہ امید دلائی کی تمہیں بھی دونگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے حیوانوں کو ظالم نے پلایا پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور یتیمہ کو دکھا کر کے بہایا پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر نے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآس جب توڑ دی بچی کی ستمگروں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ایک ظلم کیا بڑھ کے جفا کاروں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھینچ کر بالوں سے بیکس کو گنہگاروں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر پھینک دیا زور سے بد کاروں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور یہ کہنے لگے آواز لگاؤ اس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس دلاور کی دلاری ہو بلاؤ اس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر نے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ مصائب وہ قیامت وہ مصیبت وایض"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون لکھے گا یتیمہ کی وہ غربت وایض"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھی عجب دختر شبیر کی حالت وایض"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے گیء قبر تلک پیاس کی شدت وایض"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج تک مجھکو روایت میں کہیں یہ نہ ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی کب اور کہاں بالی سکینہ نے پیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر نے خاک پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Waiz Sultanpuri",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u2812",
-  "title": "Rula rula ke tujhe",
+  "title": "رلا رلا کے تجھے",
   "body": "رلا رلا کے تجھے قتل کر دیا بابا\nتیری سکینہ کو یہ درد کھا گیا بابا\n<<DIVIDER>>\nتمہاری بیٹی کو آتا نہیں کچھ اور نظر\nمیرے نگاہ میں پھرتا ہے اب یہی منظر\nتمہاری زلفوں میں ظالم کا ہاتھ تھا بابا\nرلا رلا کے تجھے۔۔۔\n<<DIVIDER>>\nمیں کس طرح سے بتاؤں وہ وقت کیسا تھا\nستم یہ باپ پہ بیٹی پہ ایک جیسا تھا\nتیری طرح سے طمانچہ مجھے لگا بابا\nرلا رلا کے تجھے۔۔۔\n<<DIVIDER>>\nجسے پہن کے کہا تھا یہ آپ نے مجھ سے\nسکینہ یہ میری ماں نے سیا تھا میرے لیےء\nتیرے بدن پہ وہ کرتہ نہیں ملا بابا\nرلا رلا کے تجھے۔۔۔\n<<DIVIDER>>\nاکیلی میں نہیں دادی بھی ساتھ ہے میرے\nیہ زخم تیری محبّت میں ہاتھ ہے میرے\nمیں روکتی رہی خنجر نہیں رکا بابا\nرلا رلا کے تجھے۔۔۔\n<<DIVIDER>>\nجگہ نشیب میں دیدو میری یتیمی کو\nچھپا لو دیر میں ان پتھروں کے بیٹی کو\nسکینہ بھول گیء گھر کا راستہ بابا\nرلا رلا کے تجھے۔۔۔\n<<DIVIDER>>\nمیری غریبی پہ کرتا نہیں ہے کوئی نظر\nتمہیں تو مارا ہے بابا رلا رلا کے مگر\nمجھے تو رونے پہ بھی ملتی ہے سزا بابا\nرلا رلا کے تجھے۔۔۔\n<<DIVIDER>>\nہے قتل گاہ سکینہ کی شام تک کا سفر\nتمہیں لگے گا چلایا ہے شمر نے خنجر\nگلے پہ دیکھو نشان رسن زرا بابا\nرلا رلا کے تجھے۔۔۔\n<<DIVIDER>>\nکمر جھکی ہوی آنکھوں میں کم بسارت تھی\nجواں کے لاش پہ جیسی تمہاری حالت تھی\nتمہارے لاشے پہ وہ میرا حال تھا بابا\nرلا رلا کے تجھے۔۔۔\n<<DIVIDER>>\nوہ قبر میں تو تکلم ہے اک زمانے سے\nمگر صداییں یہ آتی ہے قید خانے سے\nمیرا رسن میں گلا ہے بندھا ہوا بابا\nرلا رلا کے تجھے۔۔۔",
+  "styling": [
+    {
+      "insert": "رلا رلا کے تجھے قتل کر دیا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری سکینہ کو یہ درد کھا گیا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہاری بیٹی کو آتا نہیں کچھ اور نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے نگاہ میں پھرتا ہے اب یہی منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہاری زلفوں میں ظالم کا ہاتھ تھا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلا رلا کے تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کس طرح سے بتاؤں وہ وقت کیسا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم یہ باپ پہ بیٹی پہ ایک جیسا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری طرح سے طمانچہ مجھے لگا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلا رلا کے تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجسے پہن کے کہا تھا یہ آپ نے مجھ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ یہ میری ماں نے سیا تھا میرے لیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے بدن پہ وہ کرتہ نہیں ملا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلا رلا کے تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکیلی میں نہیں دادی بھی ساتھ ہے میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زخم تیری محبّت میں ہاتھ ہے میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں روکتی رہی خنجر نہیں رکا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلا رلا کے تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجگہ نشیب میں دیدو میری یتیمی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھپا لو دیر میں ان پتھروں کے بیٹی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ بھول گیء گھر کا راستہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلا رلا کے تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری غریبی پہ کرتا نہیں ہے کوئی نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں تو مارا ہے بابا رلا رلا کے مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھے تو رونے پہ بھی ملتی ہے سزا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلا رلا کے تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے قتل گاہ سکینہ کی شام تک کا سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہیں لگے گا چلایا ہے شمر نے خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلے پہ دیکھو نشان رسن زرا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلا رلا کے تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکمر جھکی ہوی آنکھوں میں کم بسارت تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جواں کے لاش پہ جیسی تمہاری حالت تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے لاشے پہ وہ میرا حال تھا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلا رلا کے تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ قبر میں تو تکلم ہے اک زمانے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مگر صداییں یہ آتی ہے قید خانے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا رسن میں گلا ہے بندھا ہوا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رلا رلا کے تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

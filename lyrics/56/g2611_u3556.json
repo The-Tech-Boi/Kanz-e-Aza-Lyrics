@@ -1,12 +1,373 @@
 {
   "remoteId": "g2611_u3556",
-  "title": "Zainab madine jati",
+  "title": "زینب مدینے جاتی",
   "body": "زینب مدینے جاتی ہے کیا کیا لیے ہوئے\n<<DIVIDER>>\nآنکھوں میں کربلا کا نظارا لیے ہوئے\nاحساس میں حسین کا لاشہ لیے ہوئے\nآنکھوں میں خونِ زخمِ تمنا لیے ہوئے\nعباس کے علم کا پھریرا لیے ہوئے\nزینب مدینے جاتی۔۔۔\n<<DIVIDER>>\nتیروں سے چاک چاک ہے سرور کا پیراہن\nعباس کا لباس وہ اکبر کا پیراہن\nڈوبا ہوا ہے خون میں اصغر کا پیراہن\nبانو یہ شیر خوار کا جھولا لیے ہوئے\nزینب مدینے جاتی۔۔۔\n<<DIVIDER>>\nگردن کا طوق عابدِ مضطر کی بیڑیاں\nکچھ بیڑیوں کے داغ تو دُرّوں کے کچھ نشاں\nچھینی ہوئی سکینہ کے کانوں کی بالیاں\nننھی سی اک بچی کا صدمہ لیے ہوئے\nزینب مدینے جاتی۔۔۔\n<<DIVIDER>>\nکرب و بلا میں لُٹ گیا گلزارِ پنجتن\nپامال دشتِ کی میں ہوا دلبرِ حسن\nپہنے ہوئے ہے بیوہ کی پوشاک اک دولہن\nقاسم بنے کے ماتھے کا سہرا لیے ہوئے\nزینب مدینے جاتی۔۔۔\n<<DIVIDER>>\nعباس جان حیدر صفدر کی یاد ہے\nقاسم کی یاد ہے علی اکبر کی یاد ہے\nسینے میں ایک دل ہے بہتر کی یاد ہے\nاجڑا ہوا حسین کا کنبہ لئے ہوئے\nزینب مدینے جاتی۔۔۔\n<<DIVIDER>>\nداغوں میں آگ آگ میں گھٹتا ہے دھواں\nمانند موج آنکھ سے آنسوں رواں رواں\nبازو پہ ریسماں کے ابھرے ہوی نشاں\nسینے میں زخم مرگ سکینہ لیےء ہوے\nزینب مدینے جاتی۔۔۔\n<<DIVIDER>>\nزنداں سے چھٹ کر بھی نہیں رنج سے فراغ\nروشن ہے داغ قلب جگر صورت چراغ\nکربوبلا میں لٹ گیا سبط نبی کا باغ\nقلب فگار چاک کلیجہ لےء ہوے\nزینب مدینے جاتی۔۔۔",
+  "styling": [
+    {
+      "insert": "زینب مدینے جاتی ہے کیا کیا لیے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھوں میں کربلا کا نظارا لیے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "احساس میں حسین کا لاشہ لیے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں میں خونِ زخمِ تمنا لیے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کے علم کا پھریرا لیے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب مدینے جاتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیروں سے چاک چاک ہے سرور کا پیراہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا لباس وہ اکبر کا پیراہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈوبا ہوا ہے خون میں اصغر کا پیراہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بانو یہ شیر خوار کا جھولا لیے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب مدینے جاتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگردن کا طوق عابدِ مضطر کی بیڑیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ بیڑیوں کے داغ تو دُرّوں کے کچھ نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھینی ہوئی سکینہ کے کانوں کی بالیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھی سی اک بچی کا صدمہ لیے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب مدینے جاتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرب و بلا میں لُٹ گیا گلزارِ پنجتن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پامال دشتِ کی میں ہوا دلبرِ حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہنے ہوئے ہے بیوہ کی پوشاک اک دولہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم بنے کے ماتھے کا سہرا لیے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب مدینے جاتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس جان حیدر صفدر کی یاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کی یاد ہے علی اکبر کی یاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے میں ایک دل ہے بہتر کی یاد ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اجڑا ہوا حسین کا کنبہ لئے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب مدینے جاتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nداغوں میں آگ آگ میں گھٹتا ہے دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانند موج آنکھ سے آنسوں رواں رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازو پہ ریسماں کے ابھرے ہوی نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے میں زخم مرگ سکینہ لیےء ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب مدینے جاتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنداں سے چھٹ کر بھی نہیں رنج سے فراغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روشن ہے داغ قلب جگر صورت چراغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا میں لٹ گیا سبط نبی کا باغ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلب فگار چاک کلیجہ لےء ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب مدینے جاتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Wapasi-e-Ahle Haram",
+  "subcategory": "واپسی اہل حرم",
   "author": "Mehdi Nazmi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,415 @@
 {
   "remoteId": "g2611_u2276",
-  "title": "Mar na jaye kahin",
+  "title": "مر نہ جائے کہیں",
   "body": "زانو پہ رکھ کے سر کو مظلوم کربلا\nکہتے تھے تڑپ کر\n<<DIVIDER>>\n‎مر نہ جائے کہیں وہ ماں اکبر\nاس طرح لو نہ ہچکیاں اکبر\n<<DIVIDER>>\n‎خوں جو سینے سے ہے رواں اکبر\n‎کر کے تنہا چلے کہاں اکبر\nمر نہ جائے کہیں۔۔۔\n<<DIVIDER>>\n‎لاشہ خیموں میں لے کے جانا ہے\n‎زخم ماوں سے یہ چھپانا ہے\n‎ایسے رگڑو نہ ایڑیاں اکبر\nمر نہ جائے کہیں۔۔۔\n<<DIVIDER>>\n‎حال غربت تمہیں سنانا تھا\n‎ماں نے سینے تمہیں لگانا تھا\n‎آگئی درمیاں سناں اکبر\nمر نہ جائے کہیں۔۔۔\n<<DIVIDER>>\n‎دل کی دھڑکن کو آسرا دے دو\n‎ہم کو آواز مصطفیٰ دے دو\n‎اب نہیں دو گے کیا آذاں اکبر\nمر نہ جائے کہیں۔۔۔\n<<DIVIDER>>\n‎سُن کے تیری صدائے ادرکنی\n‎دوڑے کہتے ہوئے یہ ابنِ علی\n‎آ رہا ہوں میں میری جاں اکبر\nمر نہ جائے کہیں۔۔۔\n<<DIVIDER>>\n‎میری بینائی کھو گئی ہے پسر\n‎مجھ کو آتا نہیں ہے کچھ بھی نظر\n‎دو نا آواز ہو کہاں اکبر\nمر نہ جائے کہیں۔۔۔\n<<DIVIDER>>\n‎ہاتھ سینے پے دھر لیا بیٹا\n‎میں نے محسوس کر لیا بیٹا\n‎زخم گہرا ہے میری جاں اکبر\nمر نہ جائے کہیں۔۔۔\n<<DIVIDER>>\n‎میرے یوسف تم ہی تھے اے پیارے\n‎میری آنکھوں کے تم ہی تھے تارے\n‎کھو گیا میرا کل جہاں اکبر\nمر نہ جائے کہیں۔۔۔\n<<DIVIDER>>\n‎لکھ ضحا دل میرا بھی پھٹتا ہے\n‎ساتھ برچھی کے دل بھی کھچتا ہے\n‎کھینچتے ہیں وہ جب سناں اکبر\nمر نہ جائے کہیں۔۔۔",
+  "styling": [
+    {
+      "insert": "زانو پہ رکھ کے سر کو مظلوم کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے تڑپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n‎مر نہ جائے کہیں وہ ماں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طرح لو نہ ہچکیاں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n‎خوں جو سینے سے ہے رواں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎کر کے تنہا چلے کہاں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر نہ جائے کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n‎لاشہ خیموں میں لے کے جانا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎زخم ماوں سے یہ چھپانا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎ایسے رگڑو نہ ایڑیاں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر نہ جائے کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n‎حال غربت تمہیں سنانا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎ماں نے سینے تمہیں لگانا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎آگئی درمیاں سناں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر نہ جائے کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n‎دل کی دھڑکن کو آسرا دے دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎ہم کو آواز مصطفیٰ دے دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎اب نہیں دو گے کیا آذاں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر نہ جائے کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n‎سُن کے تیری صدائے ادرکنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎دوڑے کہتے ہوئے یہ ابنِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎آ رہا ہوں میں میری جاں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر نہ جائے کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n‎میری بینائی کھو گئی ہے پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎مجھ کو آتا نہیں ہے کچھ بھی نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎دو نا آواز ہو کہاں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر نہ جائے کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n‎ہاتھ سینے پے دھر لیا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎میں نے محسوس کر لیا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎زخم گہرا ہے میری جاں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر نہ جائے کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n‎میرے یوسف تم ہی تھے اے پیارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎میری آنکھوں کے تم ہی تھے تارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎کھو گیا میرا کل جہاں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر نہ جائے کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\n‎لکھ ضحا دل میرا بھی پھٹتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎ساتھ برچھی کے دل بھی کھچتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "‎کھینچتے ہیں وہ جب سناں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر نہ جائے کہیں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Zoha Yusuf",
   "anjumans": [],
   "verified": false

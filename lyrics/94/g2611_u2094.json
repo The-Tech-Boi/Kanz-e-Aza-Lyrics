@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u2094",
-  "title": "Laadli zahra",
+  "title": "لاڈلی زہرا",
   "body": "اپنے بابا کی لاڈلی زہرا\nچور زخموں سے ہو گیء زہرا\n<<DIVIDER>>\nکوئی آیا نہیں بجھانے کو\nجلتا در دیکھتی رہی زہرا\nاپنے بابا کی لاڈلی۔۔۔\n<<DIVIDER>>\nجانے کس طرح مارا ظالم نے\nمنہ کے بل خاک پر گری زہرا\nاپنے بابا کی لاڈلی۔۔۔\n<<DIVIDER>>\nتیرے رخ پر نشاں طمانچے کا\nکاش زینب نہ دیکھتی زہرا\nاپنے بابا کی لاڈلی۔۔۔\n<<DIVIDER>>\nکربلا شام سامرہ مشہد\nکتنے حصوں میں بٹ گئی زہرا\nاپنے بابا کی لاڈلی۔۔۔\n<<DIVIDER>>\nآگ سے جن کے جل گےء دامن\nاک سکینہ ہے دوسری زہرا\nاپنے بابا کی لاڈلی۔۔۔\n<<DIVIDER>>\nہے تصور میں غربت حیدر\nسانس لیتی ہے آخری زہرا\nاپنے بابا کی لاڈلی۔۔۔\n<<DIVIDER>>\nمنہ کے بل گر پڑے علی سن کر\nاب جہاں میں نہیں رہی زہرا\nاپنے بابا کی لاڈلی۔۔۔\n<<DIVIDER>>\nرکھ کے میت لحد میں بولے علی\nاب وہ زہرا نہیں رہی زہرا\nاپنے بابا کی لاڈلی۔۔۔\n<<DIVIDER>>\nاے تکلم ہے جانے قبر کہاں\nاتنی بے کس ہے آج بھی زہرا\nاپنے بابا کی لاڈلی۔۔۔",
+  "styling": [
+    {
+      "insert": "اپنے بابا کی لاڈلی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چور زخموں سے ہو گیء زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی آیا نہیں بجھانے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتا در دیکھتی رہی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا کی لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانے کس طرح مارا ظالم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منہ کے بل خاک پر گری زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا کی لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے رخ پر نشاں طمانچے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاش زینب نہ دیکھتی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا کی لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا شام سامرہ مشہد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنے حصوں میں بٹ گئی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا کی لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآگ سے جن کے جل گےء دامن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک سکینہ ہے دوسری زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا کی لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے تصور میں غربت حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سانس لیتی ہے آخری زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا کی لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنہ کے بل گر پڑے علی سن کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب جہاں میں نہیں رہی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا کی لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرکھ کے میت لحد میں بولے علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب وہ زہرا نہیں رہی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا کی لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے تکلم ہے جانے قبر کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنی بے کس ہے آج بھی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا کی لاڈلی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

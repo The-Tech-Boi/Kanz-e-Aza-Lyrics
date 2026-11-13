@@ -1,12 +1,237 @@
 {
   "remoteId": "g2611_u0060",
-  "title": "Aaja abbas tujhe",
+  "title": "آجا عباس تجھے",
   "body": "آجا عباس تجھے رو رو بلاے زینب\nکیسے پابند رسن شام میں جاے زینب\n<<DIVIDER>>\nکیا کروں یہ بتا بھائی نہیں سر پہ ردا\nسر پہ بابا بھی نہیں کون سنے میری صدا\nحکم ظالم کا ہے دربار میں آے زینب\nآجا عباس تجھے۔۔۔\n<<DIVIDER>>\nمیرا بابا ہے علی اور میرا نانا نبی\nدرد و غم سہہ کے بھی میں دیں بچا کر ہوں چلی\nشام میں گونج رہی تھی یہ صداے زینب\nآجا عباس تجھے۔۔۔\n<<DIVIDER>>\nبعد شبیر کے ساے میں نہیں آی رباب\nغمزدہ بہن کو اس بات کا دے بھای جواب\nدھوپ سے اس کو بتا کیسے اٹھاے زینب\nآجا عباس تجھے۔۔۔\n<<DIVIDER>>\nشام منزل ہے میری بھای ہے بے گور و کفن\nنہ ہی ماتم ہے کیا نہ ہی کیا اس کو دفن\nبات یہ تو ہی بتا کیسے بھلاے زینب\nآجا عباس تجھے۔۔۔\n<<DIVIDER>>\nکیا ہے‌ آسان یہ خورشید بھلا نوحہ گری\nجانتے ہے یہ سخنور کے یہ منزل ہے کڑی\nبات بنتی ہے جو ہو جائے عطاے زینب\nآجا عباس تجھے۔۔۔",
+  "styling": [
+    {
+      "insert": "آجا عباس تجھے رو رو بلاے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے پابند رسن شام میں جاے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا کروں یہ بتا بھائی نہیں سر پہ ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پہ بابا بھی نہیں کون سنے میری صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حکم ظالم کا ہے دربار میں آے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا عباس تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا بابا ہے علی اور میرا نانا نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد و غم سہہ کے بھی میں دیں بچا کر ہوں چلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام میں گونج رہی تھی یہ صداے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا عباس تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد شبیر کے ساے میں نہیں آی رباب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمزدہ بہن کو اس بات کا دے بھای جواب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دھوپ سے اس کو بتا کیسے اٹھاے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا عباس تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام منزل ہے میری بھای ہے بے گور و کفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ہی ماتم ہے کیا نہ ہی کیا اس کو دفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بات یہ تو ہی بتا کیسے بھلاے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا عباس تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا ہے‌ آسان یہ خورشید بھلا نوحہ گری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانتے ہے یہ سخنور کے یہ منزل ہے کڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بات بنتی ہے جو ہو جائے عطاے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا عباس تجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Khursheed Haider",
   "anjumans": [],
   "verified": false

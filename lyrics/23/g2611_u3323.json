@@ -1,7 +1,385 @@
 {
   "remoteId": "g2611_u3323",
-  "title": "Wavaila wavaila",
+  "title": "واویلا واویلا",
   "body": "زہرا کی صدا ہے مقتل میں\nلُٹتا ہے بھرا گھر واویلا\nعباسِ علی کے بازو کو\nکاٹے ہے ستمگر واویلا\n<<DIVIDER>>\nدُنیا کے ستم ٹُوٹے اُس پر\nقاسم نہ رہے اور نہ اکبر\nعباسِ دلاور نہ اصغر\nشبیر اکیلے ہیں حیدر\nسرور کے گلے پر ہے خنجر\nاے ساقئی کوثر واویلا\nواویلا واویلا۔۔۔\n<<DIVIDER>>\nمشکیزہ چھِدا اور پانی بہا\nاک آنکھ میں تیرِ ظلم لگا\nبہتا ہے کٹے شانوں سے لہو\nسر گُرزِ ستم سے چاک ہوا\nآتا ہے فرض سے جانِ علی\nکیوں رکھ کے زمیں پر واویلا\nواویلا واویلا۔۔۔\n<<DIVIDER>>\nساحل کے کنارے جو پہنچے\nٹُوٹا ہے فلک شہہ کے سر پر\nتھے ہاتھ کہیں مشکیزہ کہیں\nلاشہ تھا جری کا خون میں تر\nلاشے پہ گِرے ہیں بھائی کے\nشبیر تڑپ کر واویلا\nواویلا واویلا۔۔۔\n<<DIVIDER>>\nڈُوبے ہیں لہو میں مشک و علم\nآئے ہیں نہر سے شاہِ اُمم\nمسند پہ رکھے جب مشک و علم\nسر پیٹتے ہیں اب اہلِ حرم\nبرپا ہے خیامِ سرور میں\nاک شورشِ محشر واویلا\nواویلا واویلا۔۔۔\n<<DIVIDER>>\nمومن یہ قیامت ہے برپا\nہے صرفے بُکا سب آلِ عبا\nسرور نے کلیجہ تھام لیا\nجب آ کے سکینہ نے پُوچھا\nبابا میرے عموں دریا سے\nآئے نہ پلٹ کر واویلا\nواویلا واویلا۔۔۔",
+  "styling": [
+    {
+      "insert": "زہرا کی صدا ہے مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹتا ہے بھرا گھر واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباسِ علی کے بازو کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاٹے ہے ستمگر واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدُنیا کے ستم ٹُوٹے اُس پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم نہ رہے اور نہ اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباسِ دلاور نہ اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر اکیلے ہیں حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور کے گلے پر ہے خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ساقئی کوثر واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واویلا واویلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشکیزہ چھِدا اور پانی بہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک آنکھ میں تیرِ ظلم لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتا ہے کٹے شانوں سے لہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر گُرزِ ستم سے چاک ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتا ہے فرض سے جانِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں رکھ کے زمیں پر واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واویلا واویلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nساحل کے کنارے جو پہنچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹُوٹا ہے فلک شہہ کے سر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھے ہاتھ کہیں مشکیزہ کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ تھا جری کا خون میں تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے پہ گِرے ہیں بھائی کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر تڑپ کر واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واویلا واویلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈُوبے ہیں لہو میں مشک و علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئے ہیں نہر سے شاہِ اُمم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسند پہ رکھے جب مشک و علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹتے ہیں اب اہلِ حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برپا ہے خیامِ سرور میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک شورشِ محشر واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واویلا واویلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمومن یہ قیامت ہے برپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے صرفے بُکا سب آلِ عبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور نے کلیجہ تھام لیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب آ کے سکینہ نے پُوچھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا میرے عموں دریا سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئے نہ پلٹ کر واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واویلا واویلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

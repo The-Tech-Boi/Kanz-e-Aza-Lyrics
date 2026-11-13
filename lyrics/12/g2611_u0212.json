@@ -1,12 +1,279 @@
 {
   "remoteId": "g2611_u0212",
-  "title": "Abbas Ka Matam Wafadar Ka Matam",
+  "title": "عباسؑ کا ماتم ہے وفادار کا ماتم",
   "body": "بھائی کی اطاعت سے کبھی سر نہ اٹھایا\nاُس عاشق شبیرؑ دل افگار کا ماتم\nعباسؑ کا ماتم ہے وفادار کا ماتم\n<<DIVIDER>>\nپانی نہ پیا نہر پہ شانے بھی کاتایی\nہر رخ سے ہوا جعفرِ طیارؑ کا ماتم\n<<DIVIDER>>\nسینے پہ سِنا کھا كے ہوا اکبرِؑ مہرو\nکرنا نہ ملا بانو کو دلدار کا ماتم\nعباسؑ کا ماتم ہے وفادار کا ماتم\n<<DIVIDER>>\nجب لاشائے حُر آیا تو زینبؑ یہ پُکاری\nلو آ كے کرو شہہ كے طرفدار کا ماتم\nعباسؑ کا ماتم ہے وفادار کا ماتم\n<<DIVIDER>>\nآئے تھے مدینے سے رہے کرب بلا میں\nشبیرؑ غریب الوطن بے یار کا ماتم\nعباسؑ کا ماتم ہے وفادار کا ماتم\n<<DIVIDER>>\nوعدہ کیا اِک سر کا بہتر دیئے فدیہ\nسردار جناں صادق و دلدار کا ماتم\nعباسؑ کا ماتم ہے وفادار کا ماتم\n<<DIVIDER>>\nخیمہ جلا زیور لٹا دَر دَر پھری ماری\nقطرہ نہ ملا بانو كے دلدار کا ماتم\nعباسؑ کا ماتم ہے وفادار کا ماتم\n<<DIVIDER>>\nبازو پہ رسن بال کُھلے شام کا دربار\nزینبؑ نے کیا یوں رقم دلدار کا ماتم\n<<DIVIDER>>\nخیمے سے نکل آئی بہن بھائی كے غم میں\nکرتی ہوئی عباسِؑ علمدار کا ماتم\nعباسؑ کا ماتم ہے وفادار کا ماتم",
+  "styling": [
+    {
+      "insert": "بھائی کی اطاعت سے کبھی سر نہ اٹھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس عاشق شبیرؑ دل افگار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباسؑ کا ماتم ہے وفادار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپانی نہ پیا نہر پہ شانے بھی کاتایی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر رخ سے ہوا جعفرِ طیارؑ کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسینے پہ سِنا کھا كے ہوا اکبرِؑ مہرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرنا نہ ملا بانو کو دلدار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباسؑ کا ماتم ہے وفادار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب لاشائے حُر آیا تو زینبؑ یہ پُکاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو آ كے کرو شہہ كے طرفدار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباسؑ کا ماتم ہے وفادار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآئے تھے مدینے سے رہے کرب بلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیرؑ غریب الوطن بے یار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباسؑ کا ماتم ہے وفادار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوعدہ کیا اِک سر کا بہتر دیئے فدیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سردار جناں صادق و دلدار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباسؑ کا ماتم ہے وفادار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمہ جلا زیور لٹا دَر دَر پھری ماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قطرہ نہ ملا بانو كے دلدار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباسؑ کا ماتم ہے وفادار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازو پہ رسن بال کُھلے شام کا دربار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینبؑ نے کیا یوں رقم دلدار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے سے نکل آئی بہن بھائی كے غم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی ہوئی عباسِؑ علمدار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباسؑ کا ماتم ہے وفادار کا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "anjumans": [],
   "verified": false
 }

@@ -1,12 +1,523 @@
 {
   "remoteId": "g2611_u0692",
-  "title": "Ay meri behan",
+  "title": "اے میری بہن",
   "body": "اے میری بہن دکھیا زینب\n<<DIVIDER>>\nاکبر نہ رہا اصغر نہ رہا\nعباس سا بھائی قتل ہوا\nاب تیرے حوالے ہے کنبہ\nہے صبر تجھے کرنا زینب\nاے میری بہن۔۔۔\n<<DIVIDER>>\nوہ زخمی کلیجہ اکبر کا\nحلقوم چھدا وہ اصغر کا\nہر لمحہ تجھے یاد آے گا\nہے صبر تجھے کرنا زینب\nاے میری بہن۔۔۔\n<<DIVIDER>>\nفروہ کو سہارا دینا ہے\nکبرا کو دلاسہ دینا ہے\nہر گام پہ اک مقتل ہوگا\nہے صبر تجھے کرنا زینب\nاے میری بہن۔۔۔\n<<DIVIDER>>\nکٹ جائے گا اب میرا بھی گلا\nہوگا لاشہ پامال میرا\nنیزے کی انی پر سر ہوگا\nہے صبر تجھے کرنا زینب\nاے میری بہن۔۔۔\n<<DIVIDER>>\nچھن جائے گی تیرے سر سے ردا\nجل جائے گا بستر عابد کا\nتو ہوگی رسن بستہ بہنا\nہے صبر تجھے کرنا زینب\nاے میری بہن۔۔۔\n<<DIVIDER>>\nبیمار پسر سجاد میرا\nزنجیر میں جکڑا جاے گا\nاور طوق میں ہوگا اس کا گلا\nہے صبر تجھے کرنا زینب\nاے میری بہن۔۔۔\n<<DIVIDER>>\nمظلوم میری پیاسی بچی\nظالم کے طمانچے کھاے گی\nرسی میں بندھے گا اس کا گلا\nہے صبر تجھے کرنا زینب\nاے میری بہن۔۔۔\n<<DIVIDER>>\nگر جائیں گے اونٹوں سے بچے\nاور گونجیں گے انکے نالے\nکوئی نہ سنے گا انکی صدا\nہے صبر تجھے کرنا زینب\nاے میری بہن۔۔۔\n<<DIVIDER>>\nسب زخم لےء جانا ہے وطن\nاللہ تیرا حافظ ہے بہن\nاب جاتا ہے رن کو بھای تیرا\nہے صبر تجھے کرنا زینب\nاے میری بہن۔۔۔\n<<DIVIDER>>\nبے چین تھی زینب سن کے رشید\nہو جائے گا پیاسہ بھائی شہید\nتھا شہ کے لبوں پر یہ نوحہ\nہے صبر تجھے کرنا زینب\nاے میری بہن۔۔۔",
+  "styling": [
+    {
+      "insert": "اے میری بہن دکھیا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر نہ رہا اصغر نہ رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس سا بھائی قتل ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تیرے حوالے ہے کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے صبر تجھے کرنا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میری بہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ زخمی کلیجہ اکبر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حلقوم چھدا وہ اصغر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر لمحہ تجھے یاد آے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے صبر تجھے کرنا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میری بہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفروہ کو سہارا دینا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبرا کو دلاسہ دینا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گام پہ اک مقتل ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے صبر تجھے کرنا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میری بہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکٹ جائے گا اب میرا بھی گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگا لاشہ پامال میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے کی انی پر سر ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے صبر تجھے کرنا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میری بہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھن جائے گی تیرے سر سے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل جائے گا بستر عابد کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو ہوگی رسن بستہ بہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے صبر تجھے کرنا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میری بہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیمار پسر سجاد میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنجیر میں جکڑا جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور طوق میں ہوگا اس کا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے صبر تجھے کرنا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میری بہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمظلوم میری پیاسی بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم کے طمانچے کھاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسی میں بندھے گا اس کا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے صبر تجھے کرنا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میری بہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگر جائیں گے اونٹوں سے بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور گونجیں گے انکے نالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہ سنے گا انکی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے صبر تجھے کرنا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میری بہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب زخم لےء جانا ہے وطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللہ تیرا حافظ ہے بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب جاتا ہے رن کو بھای تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے صبر تجھے کرنا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میری بہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے چین تھی زینب سن کے رشید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو جائے گا پیاسہ بھائی شہید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا شہ کے لبوں پر یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے صبر تجھے کرنا زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میری بہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Rasheed Shaheedi",
   "anjumans": [],
   "verified": false

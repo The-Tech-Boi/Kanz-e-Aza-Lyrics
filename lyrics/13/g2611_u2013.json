@@ -1,12 +1,405 @@
 {
   "remoteId": "g2611_u2013",
-  "title": "Khuda ka chehra",
+  "title": "خدا کا چہرہ",
   "body": "خدا کے گھر میں سر مصلہ\nخدا کا چہرہ لہو لہو ہے\n<<DIVIDER>>\nلعیں کی ضربت سے آج دیکھو\nحسن کا بابا لہو لہو ہے\n<<DIVIDER>>\nاٹھایا بیٹوں نے زخمی بابا\nعمامہ شبر نے پھر بندھایا\nکیا علی نے خدا کو سجدہ\nعلی کا سجدہ لہو لہو ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nپکارے غازی تڑپ تڑپ کے\nستم یہ بابا ہوا ہے کیسے\nیہ ظلم ڈھایا ہے کس لعیں نے\nکہ گھر خدا کا لہو لہو ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nرسول مرقد میں رو رہے ہیں\nہے آج یثرب پہ سوگ جاری\nلحد میں روتی ہے خون زہرا\nبقیہ سارا لہو لہو ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nیتیمی زہرا کی بیٹیوں پہ\nلو آج کوفے میں آ گیء ہے\nہے چاک حسنین کا گریباں\nغلافِ کعبہ لہو لہو ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nہے عید کیسی یہ ہم پہ آی\nتڑپ کے بولی علی کی جای\nمناتے خوشیاں ہیں اہلِ کوفہ\nشہید کوفہ لہو لہو ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nہے لب پہ بچوں کے آہ و زاری\nخبر نہ مولا نے لی ہماری\nیتیم کوفے کے رو رہے ہیں\nسہارا ان کا لہو لہو ہے\nخدا کے گھر میں۔۔۔\n<<DIVIDER>>\nجواد ہر لفظ ہے گواہی\nاداسی تحریر پر ہے چھای\nقلم بھی رویا ہے خوں کے آنسوں\nعلی کا نوحہ لہو لہو ہے\nخدا کے گھر میں۔۔۔",
+  "styling": [
+    {
+      "insert": "خدا کے گھر میں سر مصلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کا چہرہ لہو لہو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلعیں کی ضربت سے آج دیکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسن کا بابا لہو لہو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھایا بیٹوں نے زخمی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمامہ شبر نے پھر بندھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا علی نے خدا کو سجدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا سجدہ لہو لہو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپکارے غازی تڑپ تڑپ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم یہ بابا ہوا ہے کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ظلم ڈھایا ہے کس لعیں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ گھر خدا کا لہو لہو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرسول مرقد میں رو رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آج یثرب پہ سوگ جاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لحد میں روتی ہے خون زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بقیہ سارا لہو لہو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیتیمی زہرا کی بیٹیوں پہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو آج کوفے میں آ گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے چاک حسنین کا گریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غلافِ کعبہ لہو لہو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے عید کیسی یہ ہم پہ آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپ کے بولی علی کی جای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مناتے خوشیاں ہیں اہلِ کوفہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہید کوفہ لہو لہو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے لب پہ بچوں کے آہ و زاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خبر نہ مولا نے لی ہماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یتیم کوفے کے رو رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہارا ان کا لہو لہو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجواد ہر لفظ ہے گواہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اداسی تحریر پر ہے چھای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلم بھی رویا ہے خوں کے آنسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کا نوحہ لہو لہو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے گھر میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Jawad Jaffri",
   "anjumans": [],
   "verified": false

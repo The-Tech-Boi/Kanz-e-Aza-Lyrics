@@ -1,12 +1,446 @@
 {
   "remoteId": "g2611_u0759",
-  "title": "Ayyame ali",
+  "title": "ایام علی",
   "body": "شیعوں میں آج کل یہ قیامت کے روز ہیں\nدنیا سے بو تراب کے رخصت کے روز ہیں\nیاروں سروں کو پیٹو یہ ضربت کے روز ہیں\nرو لو کہ یہ علی کی شہادت کے روز ہیں\n<<DIVIDER>>\nآ گےء ایام علی آگےء\nمومنوں ماتم کرو سر پیٹ کے\n<<DIVIDER>>\nچاند بھی رمضان کا نوحہ کرے\nآ گےء ایام علی آگےء\n<<DIVIDER>>\nکالے لباسوں میں ہے اہلِ عزا کی فغاں\nیومِ شہادت کی سب کرتے ہیں تیاریاں\nیاد کرے ماتمی آپ کی تنہائیاں\nفرش عزا گھر میں بچھانے لگے\nآ گےء ایام علی۔۔۔\n<<DIVIDER>>\nطاری ابھی سے ہوا ہے شب ضربت کا غم\nکوی پڑھے مرثیہ کوئی سجاے علم\nطفل و جواں پیر سب سنتے ہیں نوحے بہم\nنوحہ سنا آنکھ سے آنسوں گرے\nآ گےء ایام علی۔۔۔\n<<DIVIDER>>\nمجلسیں گھر گھر بپا ہو گیء یا سیدی\nنکلے جلوس عزاء آج گلی در گلی\nآپ کے غم میں ہوا سارا جہاں ماتمی\nآی صدا یہ در و دیوار سے\nآ گےء ایام علی۔۔۔\n<<DIVIDER>>\nہاے وہ انیسویں آی جو غم کی سحر\nکی بن ملجم نے جب ظلم کی حد آپ پر\nتیغ ستم چل گیء ہو گیا دو پارہ سر\nکہتے تھے جبریل بھی روتے ہوے\nآ گےء ایام علی۔۔۔\n<<DIVIDER>>\nشبر و شبیر جب آپ کو لے آے گھر\nبی بیاں رونے لگی سینہ و سر پیٹ کر\nکوہ علم گر پڑا آج تو سادات پر\nزینب و کلثوم کے یہ بین تھے\nآ گےء ایام علی۔۔۔\n<<DIVIDER>>\nسامنے تابوت کا آ گیا سامان جب\nبڑھنے لگا اور بھی سینے میں رنج و تعب\nدل کہے بے ساختہ ہاے امیر عرب\nبات یہی خون رلاے مجھے\nآ گےء ایام علی۔۔۔\n<<DIVIDER>>\nمیثم و مظہر بھی ہے بر سر فرش عزا\nآپ کے گھر والوں کو دونوں نے پرسہ دیا\nآپ کے تابوت پر ہم‌ نے یہ نوحہ پڑھا\nدرد میں ڈوبے ہوے اشعار سے\nآ گےء ایام علی۔۔۔",
+  "styling": [
+    {
+      "insert": "شیعوں میں آج کل یہ قیامت کے روز ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا سے بو تراب کے رخصت کے روز ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاروں سروں کو پیٹو یہ ضربت کے روز ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو لو کہ یہ علی کی شہادت کے روز ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآ گےء ایام علی آگےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مومنوں ماتم کرو سر پیٹ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاند بھی رمضان کا نوحہ کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گےء ایام علی آگےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکالے لباسوں میں ہے اہلِ عزا کی فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یومِ شہادت کی سب کرتے ہیں تیاریاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد کرے ماتمی آپ کی تنہائیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش عزا گھر میں بچھانے لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گےء ایام علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطاری ابھی سے ہوا ہے شب ضربت کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوی پڑھے مرثیہ کوئی سجاے علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طفل و جواں پیر سب سنتے ہیں نوحے بہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ سنا آنکھ سے آنسوں گرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گےء ایام علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجلسیں گھر گھر بپا ہو گیء یا سیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکلے جلوس عزاء آج گلی در گلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے غم میں ہوا سارا جہاں ماتمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آی صدا یہ در و دیوار سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گےء ایام علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے وہ انیسویں آی جو غم کی سحر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کی بن ملجم نے جب ظلم کی حد آپ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیغ ستم چل گیء ہو گیا دو پارہ سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے جبریل بھی روتے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گےء ایام علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبر و شبیر جب آپ کو لے آے گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بیاں رونے لگی سینہ و سر پیٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوہ علم گر پڑا آج تو سادات پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب و کلثوم کے یہ بین تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گےء ایام علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسامنے تابوت کا آ گیا سامان جب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑھنے لگا اور بھی سینے میں رنج و تعب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کہے بے ساختہ ہاے امیر عرب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بات یہی خون رلاے مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گےء ایام علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیثم و مظہر بھی ہے بر سر فرش عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے گھر والوں کو دونوں نے پرسہ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے تابوت پر ہم‌ نے یہ نوحہ پڑھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد میں ڈوبے ہوے اشعار سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گےء ایام علی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

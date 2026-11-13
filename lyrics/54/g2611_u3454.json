@@ -1,12 +1,473 @@
 {
   "remoteId": "g2611_u3454",
-  "title": "Ye choti zehra hai",
+  "title": "یہ چھوٹی زہرا ہے",
   "body": "اے شمر زرا کچھ رحم تو کھا یہ چھوٹی زہرا ہے\nمعصوم سکینہ ہے معصوم سکینہ ہے\nاے شمر زرا کچھ رحم تو کھا یہ چھوٹی زہرا ہے\nنادان حزینہ ہے معصوم سکینہ ہے\n<<DIVIDER>>\nنہ مار اسے نازوں سے اسے شبیر نے پالا ہے\nمعصوم سکینہ ہے معصوم سکینہ ہے\n<<DIVIDER>>\nسجاد کی بہنا کو غازی کی بھتیجی کو\nمانگا ہے کنیزی میں اس پھول سی بچی کو\nشہ نے اپنے سجدوں میں جسے اللّٰہ سے مانگا ہے\nمعصوم سکینہ ہے معصوم سکینہ ہے\nاے شمر زرا کچھ رحم۔۔۔\n<<DIVIDER>>\nدوڑیں گے اگر ناقے کس طرح سے سنبھلے گی\nگر راہ میں گر جاے آواز کسے دیگی\nپشت ناقے پر کیوں تنہا رسی سے باندھا ہے\nمعصوم سکینہ ہے معصوم سکینہ ہے\nاے شمر زرا کچھ رحم۔۔۔\n<<DIVIDER>>\nکیا جرم کیا اس نے کیوں اس کو رلاتا ہے\nدکھلا کے اسے پانی مٹی پہ بہاتا ہے\nکیا تیری کوئی اولاد نہیں کیوں ظلم یہ ڈھاتا ہے\nمعصوم سکینہ ہے معصوم سکینہ ہے\nاے شمر زرا کچھ رحم۔۔۔\n<<DIVIDER>>\nرونے نہ دیا اسکو بابا کے لاشہ پر\nہے نیل طمانچوں کے معصوم سے چہرے پر\nاللّٰہ جانے یہ اس پہ ستم کس بات کا بدلہ ہے\nمعصوم سکینہ ہے معصوم سکینہ ہے\nاے شمر زرا کچھ رحم۔۔۔\n<<DIVIDER>>\nہاں اک رات سر زنداں شبیر کا سر آیا\nسر لے کر گودی میں بچی نے کیا نوحہ\nآنکھیں کھولو بابا دیکھو یہ کون ضعیفہ ہے\nمعصوم سکینہ ہے معصوم سکینہ ہے\nاے شمر زرا کچھ رحم۔۔۔\n<<DIVIDER>>\nمعصوم کی گردن میں باندھی ہے رسن ایسے\nگھٹ جاے گا دم اس کا میں تیز چلوں کیسے\nیہ کہتا ہوا بیمار میرا خم ہو کر چلتا ہے\nمعصوم سکینہ ہے معصوم سکینہ ہے\nاے شمر زرا کچھ رحم۔۔۔\n<<DIVIDER>>\nتربت پہ سکینہ کی عابد نے کہا ہو گا\nیہ میری امانت ہے رکھنا تو خیال اس کا\nبابا بھی نہیں عمو بھی نہیں بے آس یتیمہ ہے\nمعصوم سکینہ ہے معصوم سکینہ ہے\nاے شمر زرا کچھ رحم۔۔۔\n<<DIVIDER>>\nروضے پہ نظر جب بھی اے شادماں جاتی ہے\nپھر قلب تکلم کو یہ بات رلاتی ہے\nصدیاں گزری چھوٹی بی بی زندان میں تنہا ہے\nمعصوم سکینہ ہے معصوم سکینہ ہے\nاے شمر زرا کچھ رحم۔۔۔",
+  "styling": [
+    {
+      "insert": "اے شمر زرا کچھ رحم تو کھا یہ چھوٹی زہرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ ہے معصوم سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شمر زرا کچھ رحم تو کھا یہ چھوٹی زہرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نادان حزینہ ہے معصوم سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ مار اسے نازوں سے اسے شبیر نے پالا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ ہے معصوم سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد کی بہنا کو غازی کی بھتیجی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانگا ہے کنیزی میں اس پھول سی بچی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ نے اپنے سجدوں میں جسے اللّٰہ سے مانگا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ ہے معصوم سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شمر زرا کچھ رحم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدوڑیں گے اگر ناقے کس طرح سے سنبھلے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر راہ میں گر جاے آواز کسے دیگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پشت ناقے پر کیوں تنہا رسی سے باندھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ ہے معصوم سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شمر زرا کچھ رحم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا جرم کیا اس نے کیوں اس کو رلاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھلا کے اسے پانی مٹی پہ بہاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تیری کوئی اولاد نہیں کیوں ظلم یہ ڈھاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ ہے معصوم سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شمر زرا کچھ رحم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرونے نہ دیا اسکو بابا کے لاشہ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے نیل طمانچوں کے معصوم سے چہرے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اللّٰہ جانے یہ اس پہ ستم کس بات کا بدلہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ ہے معصوم سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شمر زرا کچھ رحم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاں اک رات سر زنداں شبیر کا سر آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر لے کر گودی میں بچی نے کیا نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھیں کھولو بابا دیکھو یہ کون ضعیفہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ ہے معصوم سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شمر زرا کچھ رحم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمعصوم کی گردن میں باندھی ہے رسن ایسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹ جاے گا دم اس کا میں تیز چلوں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہتا ہوا بیمار میرا خم ہو کر چلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ ہے معصوم سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شمر زرا کچھ رحم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتربت پہ سکینہ کی عابد نے کہا ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میری امانت ہے رکھنا تو خیال اس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بھی نہیں عمو بھی نہیں بے آس یتیمہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ ہے معصوم سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شمر زرا کچھ رحم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروضے پہ نظر جب بھی اے شادماں جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر قلب تکلم کو یہ بات رلاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدیاں گزری چھوٹی بی بی زندان میں تنہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ ہے معصوم سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شمر زرا کچھ رحم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,419 @@
 {
   "remoteId": "g2611_u2394",
-  "title": "Mere baba ke zuljana",
+  "title": "میرے بابا کے ذوالجناح",
   "body": "جب کربوبلا میں سر شبیر کٹا\nذوالجناح شہ والا بھی بکا کرتا رہا\nاسکے بھی تیر لگے باہ کٹی زین ڈھلا\nایسے عالم میں سوۓ خیمہء شبیر چلا\nدیکھ کر اس کو سکینہ بھی فغاں کرنے لگی\nہائے باگ گھوڑے کی پکڑ کر یہ بیاں کرنے لگی\n<<DIVIDER>>\nمیرے بابا کے ذوالجناح\nکیا میری یتیمی کی تو لایا ہے خبر\n<<DIVIDER>>\nکر یاد کہ سمجھایا تھا تجھکو دم رخصت\nکھا جاۓ گی اس دل کو میرے باپ کی فرقت\nمیں روتی رہی اور کیا تونے سفر\nمیرے بابا کے ذوالجناح ۔۔۔\n<<DIVIDER>>\nکہتے تھے تجھے بابا میرے اسماء وفادار\nیہ کیسی وفا تونے دکھائی میرے غم خوار\nچھوڑ آیا انہیں دشت بلا میں کیوں کر\nمیرے بابا کے ذوالجناح ۔۔۔\n<<DIVIDER>>\nیہ دیکھ میرے بالوں میں ہے خاک یتیمی\nاب سینے پہ ہر سانس بھی دشوار ہے میری\nآنکھوں میں میری دیکھ زرا غم کا اثر\nمیرے بابا کے ذوالجناح ۔۔۔\n<<DIVIDER>>\nمیں روتی رہی اور تجھے ترس نہ آیا\nلے دیکھ میرے سر سے اٹھا باپ کا سایہ\nسینے پہ مجھے کون سلاۓ گا مگر\nمیرے بابا کے ذوالجناح ۔۔۔\n<<DIVIDER>>\nیہ خاک بیابان بنی میرا مقدر\nاب چھین کے لے جائیں گے بندے یہ ستمگر\nہے داغ یتیمی ہی اسیری کی خبر\nمیرے بابا کے ذوالجناح ۔۔۔\n<<DIVIDER>>\nاس خاک کے بستر پہ مجھے سونا پڑے گا\nکیا نیند مجھے آۓ گی تونے نہیں سونچا\nجاگوں گی شب و روز یہی کہہ کہہ کر\nمیرے بابا کے ذوالجناح ۔۔۔\n<<DIVIDER>>\nچادر چھینیں گے لعیں خیمے جلا کر\nعمو کو بلاؤں گی کبھی بابا کو روکر\nچھینیں گے عدو جب میرے کانوں سے گوہر\nمیرے بابا کے ذوالجناح ۔۔۔\n<<DIVIDER>>\nاے شادماں مظہر بھی لکھے کیسے وہ منظر\nدم توڑا قلم نے بھی اسی بات کو لکھ کر\nبابا جو نہیں ہے تو جیوں میں کیونکر\nمیرے بابا کے ذوالجناح ۔۔۔",
+  "styling": [
+    {
+      "insert": "جب کربوبلا میں سر شبیر کٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذوالجناح شہ والا بھی بکا کرتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسکے بھی تیر لگے باہ کٹی زین ڈھلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے عالم میں سوۓ خیمہء شبیر چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر اس کو سکینہ بھی فغاں کرنے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے باگ گھوڑے کی پکڑ کر یہ بیاں کرنے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے بابا کے ذوالجناح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا میری یتیمی کی تو لایا ہے خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکر یاد کہ سمجھایا تھا تجھکو دم رخصت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا جاۓ گی اس دل کو میرے باپ کی فرقت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں روتی رہی اور کیا تونے سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتے تھے تجھے بابا میرے اسماء وفادار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کیسی وفا تونے دکھائی میرے غم خوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ آیا انہیں دشت بلا میں کیوں کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ دیکھ میرے بالوں میں ہے خاک یتیمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب سینے پہ ہر سانس بھی دشوار ہے میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں میں میری دیکھ زرا غم کا اثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں روتی رہی اور تجھے ترس نہ آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے دیکھ میرے سر سے اٹھا باپ کا سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے پہ مجھے کون سلاۓ گا مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ خاک بیابان بنی میرا مقدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب چھین کے لے جائیں گے بندے یہ ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے داغ یتیمی ہی اسیری کی خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس خاک کے بستر پہ مجھے سونا پڑے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نیند مجھے آۓ گی تونے نہیں سونچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاگوں گی شب و روز یہی کہہ کہہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچادر چھینیں گے لعیں خیمے جلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمو کو بلاؤں گی کبھی بابا کو روکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھینیں گے عدو جب میرے کانوں سے گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے شادماں مظہر بھی لکھے کیسے وہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم توڑا قلم نے بھی اسی بات کو لکھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا جو نہیں ہے تو جیوں میں کیونکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کے ذوالجناح ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

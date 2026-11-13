@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u2302",
-  "title": "Matam hai madine",
+  "title": "ماتم ہے مدینے",
   "body": "ماتم ہے مدینے میں شبر کی شہادت کا\nشبیر پہ آیا ہے کیا وقت یہ غربت کا\n<<DIVIDER>>\nٹکڑے دل شبر کے دیکھے گا زمانہ نہ پھر\nعاشور کے دامن میں منظر ہے قیامت کا\nماتم ہے مدینے میں۔۔۔\n<<DIVIDER>>\nتابوت پہ شبر کے جب تیر ستم آے\nعباس پہ تھا کیسا یہ وقت مصیبت کا\nماتم ہے مدینے میں۔۔۔\n<<DIVIDER>>\nکمسن ہے یہ شہزادہ بیٹھا ہوا سکتے میں\nقاسم کو بھی پرسہ دو شبر کی شہادت کا\nماتم ہے مدینے میں۔۔۔\n<<DIVIDER>>\nشبر کی شہادت ہے شبیر کے پروانوں\nشبیر کو پرسہ دو شبر کی شہادت کا\nماتم ہے مدینے میں۔۔۔\n<<DIVIDER>>\nپکنے لگی شق ہو کر اس وقت زمیں پیہم\nکیا ہوگا اثر سوچو اس زہر کی شدت کا\nماتم ہے مدینے میں۔۔۔\n<<DIVIDER>>\nوہ زہر ستم پہنچا شبر کے کلیجے تک\nسر پیٹو عزاداروں منظر ہے قیامت کا\nماتم ہے مدینے میں۔۔۔\n<<DIVIDER>>\nشبیر کا صدقہ ہو اب ہم کو عطا شبر\nہم واسطہ دیتے ہیں قاسم کی مصیبت کا\nماتم ہے مدینے میں۔۔۔\n<<DIVIDER>>\nکہتی تھی یہی زینب شبر کے جنازے پر\nغم کیسے سہے زینب بھیا تیری فرقت کا\nماتم ہے مدینے میں۔۔۔\n<<DIVIDER>>\nہے خدمت شبر میں معروضہ رشید اتنا\nہم سبکو شرف دے دے روضے کی زیارت کا\nماتم ہے مدینے میں۔۔۔",
+  "styling": [
+    {
+      "insert": "ماتم ہے مدینے میں شبر کی شہادت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر پہ آیا ہے کیا وقت یہ غربت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹکڑے دل شبر کے دیکھے گا زمانہ نہ پھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کے دامن میں منظر ہے قیامت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے مدینے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتابوت پہ شبر کے جب تیر ستم آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس پہ تھا کیسا یہ وقت مصیبت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے مدینے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکمسن ہے یہ شہزادہ بیٹھا ہوا سکتے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کو بھی پرسہ دو شبر کی شہادت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے مدینے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبر کی شہادت ہے شبیر کے پروانوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کو پرسہ دو شبر کی شہادت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے مدینے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپکنے لگی شق ہو کر اس وقت زمیں پیہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ہوگا اثر سوچو اس زہر کی شدت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے مدینے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ زہر ستم پہنچا شبر کے کلیجے تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹو عزاداروں منظر ہے قیامت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے مدینے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر کا صدقہ ہو اب ہم کو عطا شبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم واسطہ دیتے ہیں قاسم کی مصیبت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے مدینے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی تھی یہی زینب شبر کے جنازے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم کیسے سہے زینب بھیا تیری فرقت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے مدینے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے خدمت شبر میں معروضہ رشید اتنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سبکو شرف دے دے روضے کی زیارت کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتم ہے مدینے میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hassan (a.s)",
+  "subcategory": "امام حسن (ع)",
   "author": "Rasheed Shaheedi",
   "anjumans": [],
   "verified": false

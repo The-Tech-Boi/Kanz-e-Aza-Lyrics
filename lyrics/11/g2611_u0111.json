@@ -1,7 +1,499 @@
 {
   "remoteId": "g2611_u0111",
-  "title": "Aao matam kare",
+  "title": "آؤ ماتم کریں",
   "body": "آؤ ماتم کریں آؤ ماتم کریں\nزیب فرش عزا ہوگیء سیدہ\n<<DIVIDER>>\nآنسوؤں کی ردا رخ پہ ڈالے ہوئے\nآخری ہچکی یہ دل سنبھالے ہوئے\nغم کی تہذیب میں قد کو ڈھالے ہوئے\nتم ہو صدیوں سے یہ درد پالے ہوئے\nزینت لب رہے ذکر کربوبلا\nآؤ ماتم کریں...\n<<DIVIDER>>\nروک سکتی نہیں جبر دینا تمہیں\nہے پیمبر کا حاصل وسیلہ تمہیں\nداد دیتی ہیں جنت سے زہرہ تمہیں\nحق نے بخشا ہے غم کا سلیقہ تمہیں\nروح کا فیصلہ زہن و دل کی صدا\nآؤ ماتم کریں...\n<<DIVIDER>>\nشامیوں کے ستم بھول سکتے نہیں\nصبر شاہ امم بھول سکتے نہیں\nداستان علم بھول سکتے نہیں\nآل احمد کا غم بھول سکتے نہیں\nدامنِ روح پر نقش ہے کربلا\nآؤ ماتم کریں...\n<<DIVIDER>>\nلاش قاسم کی ٹکڑے ہویء دشت میں\nقلب اکبر پہ برچی لگی دشت میں\nننھے اصغر کی گردن چھدی دشت میں\nہوگےء قتل عباس بھی دشت میں\nلٹ گیا دشت میں گلشن فاطمہ\nآؤ ماتم کریں...\n<<DIVIDER>>\nچور زخموں سے ہے فاطمہ کا پسر\nہے جبیں سجدہء حق میں خم فرش پر\nکند خنجر سے کٹتا ہے پیاسے کا سر\nخون چہرے پہ ملتے ہیں خیرالبشر\nاز زمیں تا فلک اب ہے شور بکا\nآؤ ماتم کریں...\n<<DIVIDER>>\nاب پدر کو سکینہ کہاں پاےء گی\nکس کے سینے پہ بچی کو نیند آےء گی\nیاد بابا جب آےءنگے گھبراے گی\nنرغہء اہل شر ہے کہاں جاےء گی\nڈھیر لاشوں کے ہے خون بکھرا ہوا\nآؤ ماتم کریں...\n<<DIVIDER>>\nغم نصیبوں کے خیمے جلاے گےء\nفرش پر عرش والے بٹھاے گےء\nایک بچی کو درے لگاے گےء\nجتنے ممکن تھے سب ظلم ڈھاے گےء\nایک بیمار آہن میں جکڑا گیا\nآؤ ماتم کریں...\n<<DIVIDER>>\nآل کا غم مگر جزوِ ایمان ہے\nآشک آیات ہیں درد قرآن ہے\nحشر کا مرحلہ کتنا آسان ہے\nداغ ماتم ہی بخشش کا سامان ہے\nجزب کرلو اسی آشک میں کربلا\nآؤ ماتم کریں...",
+  "styling": [
+    {
+      "insert": "آؤ ماتم کریں آؤ ماتم کریں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زیب فرش عزا ہوگیء سیدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنسوؤں کی ردا رخ پہ ڈالے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری ہچکی یہ دل سنبھالے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم کی تہذیب میں قد کو ڈھالے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہو صدیوں سے یہ درد پالے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینت لب رہے ذکر کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ ماتم کریں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروک سکتی نہیں جبر دینا تمہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے پیمبر کا حاصل وسیلہ تمہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داد دیتی ہیں جنت سے زہرہ تمہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حق نے بخشا ہے غم کا سلیقہ تمہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روح کا فیصلہ زہن و دل کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ ماتم کریں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشامیوں کے ستم بھول سکتے نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبر شاہ امم بھول سکتے نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داستان علم بھول سکتے نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل احمد کا غم بھول سکتے نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دامنِ روح پر نقش ہے کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ ماتم کریں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاش قاسم کی ٹکڑے ہویء دشت میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلب اکبر پہ برچی لگی دشت میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھے اصغر کی گردن چھدی دشت میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگےء قتل عباس بھی دشت میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ گیا دشت میں گلشن فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ ماتم کریں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچور زخموں سے ہے فاطمہ کا پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے جبیں سجدہء حق میں خم فرش پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کند خنجر سے کٹتا ہے پیاسے کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون چہرے پہ ملتے ہیں خیرالبشر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "از زمیں تا فلک اب ہے شور بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ ماتم کریں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب پدر کو سکینہ کہاں پاےء گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کے سینے پہ بچی کو نیند آےء گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد بابا جب آےءنگے گھبراے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نرغہء اہل شر ہے کہاں جاےء گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھیر لاشوں کے ہے خون بکھرا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ ماتم کریں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم نصیبوں کے خیمے جلاے گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش پر عرش والے بٹھاے گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بچی کو درے لگاے گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جتنے ممکن تھے سب ظلم ڈھاے گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بیمار آہن میں جکڑا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ ماتم کریں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآل کا غم مگر جزوِ ایمان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آشک آیات ہیں درد قرآن ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حشر کا مرحلہ کتنا آسان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داغ ماتم ہی بخشش کا سامان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جزب کرلو اسی آشک میں کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ ماتم کریں..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

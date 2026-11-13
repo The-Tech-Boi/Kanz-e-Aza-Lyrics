@@ -1,12 +1,448 @@
 {
   "remoteId": "g2611_u3565",
-  "title": "Zainab pukari ay",
+  "title": "زینب پکاری اے",
   "body": "زینب پکاری اے میرے اکبر کہاں ہو تم\nدشمن میں گھر گیا ہے برادر کہاں ہو تم\n<<DIVIDER>>\nاعدا کا ایک ہجوم ہے میداں میں ہر طرف\nنکلے تو کیسے خیمے سے باہر کہاں ہو تم\nزینب پکاری اے میرے اکبر۔۔۔\n<<DIVIDER>>\nخود کو گرا کے جھولے سے سوکھی زباں لیےء\nجلتی زمیں پہ تڑپا ہے اصغر کہاں ہو تم\nزینب پکاری اے میرے اکبر۔۔۔\n<<DIVIDER>>\nبچوں کی چیخ سن کے دہلتا ہے کلیجہ\nپر حول کربلا کا ہے منظر کہاں ہو تم\nزینب پکاری اے میرے اکبر۔۔۔\n<<DIVIDER>>\nبے مقنہ و چادر ہےاندھیروں کی ردا ہے\nشمر لعیں نے چھین لی چادر کہاں ہو تم\nزینب پکاری اے میرے اکبر۔۔۔\n<<DIVIDER>>\nجن و ملک میں چار سو کہرام بپا ہے\nچلتا ہے شاہ والا پہ خنجر کہاں ہو تم\nزینب پکاری اے میرے اکبر۔۔۔\n<<DIVIDER>>\nکیسے ہے امتی میرے نانا رسول کے\nہنستے ہیں مجھکو مار کے پتھر کہاں ہو تم\nزینب پکاری اے میرے اکبر۔۔۔\n<<DIVIDER>>\nاونٹوں پہ بے کجاوا بٹھاتے ہیں اشقیاء\nکر کے اسیر ہم کو ستمگر کہاں ہو تم\nزینب پکاری اے میرے اکبر۔۔۔\n<<DIVIDER>>\nبھیا پہنا گےء تھے جو دختر کو پیار سے\nچھنتے ہیں سکینہ کے وہ گوہر کہاں ہو تم\nزینب پکاری اے میرے اکبر۔۔۔\n<<DIVIDER>>\nسن لو خدا کے واسطے فریاد پھپھی کی\nآواز دے رہی ہوں برادر کہاں ہو تم\nزینب پکاری اے میرے اکبر۔۔۔\n<<DIVIDER>>\nغازی بھی جا کے سو گےء نہر فرات پر\nباقی بچا نہ کوئی بھی رہبر کہاں ہو تم\nزینب پکاری اے میرے اکبر۔۔۔\n<<DIVIDER>>\nہوتی ہے ہر ایک سمت سے بس خوں کی بارش\nکربوبلا کا سرخ ہے منظر کہاں ہو تم\nزینب پکاری اے میرے اکبر۔۔۔\n<<DIVIDER>>\nنیزوں سے جھڑکیوں سے طمانچوں سے ہر گھڑی\nہم کو ستا رہے ہیں ستمگر کہاں ہو تم\nزینب پکاری اے میرے اکبر۔۔۔\n<<DIVIDER>>\nزینب کے بین سن کے رضا اشک رواں ہے\nدل رو رہا ہے نوحہ یہ لکھ کر کہاں ہو تم\nزینب پکاری اے میرے اکبر۔۔۔",
+  "styling": [
+    {
+      "insert": "زینب پکاری اے میرے اکبر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشمن میں گھر گیا ہے برادر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاعدا کا ایک ہجوم ہے میداں میں ہر طرف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نکلے تو کیسے خیمے سے باہر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری اے میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخود کو گرا کے جھولے سے سوکھی زباں لیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتی زمیں پہ تڑپا ہے اصغر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری اے میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچوں کی چیخ سن کے دہلتا ہے کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پر حول کربلا کا ہے منظر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری اے میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے مقنہ و چادر ہےاندھیروں کی ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر لعیں نے چھین لی چادر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری اے میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجن و ملک میں چار سو کہرام بپا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتا ہے شاہ والا پہ خنجر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری اے میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے ہے امتی میرے نانا رسول کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہنستے ہیں مجھکو مار کے پتھر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری اے میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاونٹوں پہ بے کجاوا بٹھاتے ہیں اشقیاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر کے اسیر ہم کو ستمگر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری اے میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھیا پہنا گےء تھے جو دختر کو پیار سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھنتے ہیں سکینہ کے وہ گوہر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری اے میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسن لو خدا کے واسطے فریاد پھپھی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آواز دے رہی ہوں برادر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری اے میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغازی بھی جا کے سو گےء نہر فرات پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باقی بچا نہ کوئی بھی رہبر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری اے میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوتی ہے ہر ایک سمت سے بس خوں کی بارش"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربوبلا کا سرخ ہے منظر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری اے میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزوں سے جھڑکیوں سے طمانچوں سے ہر گھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم کو ستا رہے ہیں ستمگر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری اے میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کے بین سن کے رضا اشک رواں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل رو رہا ہے نوحہ یہ لکھ کر کہاں ہو تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب پکاری اے میرے اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Raza Ali Khan Lakhnavi",
   "anjumans": [],
   "verified": false

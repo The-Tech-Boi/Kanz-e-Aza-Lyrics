@@ -1,12 +1,528 @@
 {
   "remoteId": "g2611_u2221",
-  "title": "Mai panjo pe chalti",
+  "title": "میں پنجوں پہ چلتی",
   "body": "زندان کی تاریکیوں میں\nاپنے سینے سے لگائے ہوئے\nشبیر کا سر سکینہ کہتی تھی\nبابا بابا سنو میرا سفر\nارے سب کے تھی شانے بندھے\nمیرا بندھا تھا گلا\nمیں پنجوں پہ چلتی رہی بابا\n<<DIVIDER>>\nآپ سے کیسے کہوں کیسے کٹا یہ سفر\nآل پیمبر چلی روتے ہوئے ننگے سر\nآپ چلے نیزے پر کانٹوں پہ بھای چلا\nمیں پنجوں پہ چلتی۔۔۔\n<<DIVIDER>>\nمیرے پھپھی راہ میں آشک بہاتی رہی\nظلم رلاتے رہے دھوپ جلاتی رہی\nزخم میرے پاؤں کا دھوپ سے جلتا رہا\nمیں پنجوں پہ چلتی۔۔۔\n<<DIVIDER>>\nماضی کے کچھ واقعہ یاد جو آے مجھے\nسینے پہ کیسے مجھے آپ سلاتے رہے\nیادوں میں یوں کھو گیء بھول گیء ہر جفا\nمیں پنجوں پہ چلتی۔۔۔\n<<DIVIDER>>\nصبر کا دامن میرے ہاتھ سے چھوٹا نہیں\nنیزے سے کیا آپ نے بابا یہ دیکھا نہیں\nکھنچتی رہی ریسماں چلتا رہا قافلہ\nمیں پنجوں پہ چلتی۔۔۔\n<<DIVIDER>>\nآنکھ برسنے لگی قلب ہوا نوحہ گر\nآیا نظر جب مجھے نیزے پہ اصغر کا سر\nروتی رہی میں اسے وہ جھے روتا رہا\nمیں پنجوں پہ چلتی۔۔۔\n<<DIVIDER>>\nتم کو کفن دے دیا ریت کے طوفان نے\nبالوں سے پردہ کیا میری پھپھی جان نے\nاور میرے درد کا کوئی مداوا نہ تھا\nمیں پنجوں پہ چلتی۔۔۔\n<<DIVIDER>>\nراہ میں عمو کو جب دیکھا تو میں نے کہا\nکھول دو میری رسن گود میں لے لو چچا\nدیکھ کے روتے رہے میری اسیری چچا\nمیں پنجوں پہ چلتی۔۔۔\n<<DIVIDER>>\nچین میسر مجھے آیا نہیں ایک پل\nزخمی گلا ہو گیا اور میرے پاؤں شل\nرات سفر میں کٹی دن بھی سفر میں کٹا\nمیں پنجوں پہ چلتی۔۔۔\n<<DIVIDER>>\nبابا مدینے کے وہ دن بھی مجھے یاد ہیں\nسبز عمارتی میں جب بیٹھ کے جاتی تھی میں\nآج زرا دیکھیےء کیسے سفر طےء کیا\nمیں پنجوں پہ چلتی۔۔۔\n<<DIVIDER>>\nایک رسن‌ میں بندھے چھوٹے بڑوں کے گلے\nلاشوں پہ روتے ہوئے کربوبلا سے چلے\nحال میرا دیکھ کے رونے لگی کربلا\nمیں پنجوں پہ چلتی۔۔۔\n<<DIVIDER>>\nمظہر و عرفان تم نوحہ پڑھو اس طرح\nشام کے زندان میں بی بی میری جس طرح\nدیکھ کے بابا کا سر کرتی تھی آہ و بکا\nمیں پنجوں پہ چلتی۔۔۔",
+  "styling": [
+    {
+      "insert": "زندان کی تاریکیوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے سینے سے لگائے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کا سر سکینہ کہتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا سنو میرا سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ارے سب کے تھی شانے بندھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بندھا تھا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پنجوں پہ چلتی رہی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ سے کیسے کہوں کیسے کٹا یہ سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل پیمبر چلی روتے ہوئے ننگے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ چلے نیزے پر کانٹوں پہ بھای چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پنجوں پہ چلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے پھپھی راہ میں آشک بہاتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم رلاتے رہے دھوپ جلاتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم میرے پاؤں کا دھوپ سے جلتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پنجوں پہ چلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماضی کے کچھ واقعہ یاد جو آے مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے پہ کیسے مجھے آپ سلاتے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یادوں میں یوں کھو گیء بھول گیء ہر جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پنجوں پہ چلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصبر کا دامن میرے ہاتھ سے چھوٹا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے سے کیا آپ نے بابا یہ دیکھا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھنچتی رہی ریسماں چلتا رہا قافلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پنجوں پہ چلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھ برسنے لگی قلب ہوا نوحہ گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آیا نظر جب مجھے نیزے پہ اصغر کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی رہی میں اسے وہ جھے روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پنجوں پہ چلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم کو کفن دے دیا ریت کے طوفان نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالوں سے پردہ کیا میری پھپھی جان نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور میرے درد کا کوئی مداوا نہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پنجوں پہ چلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراہ میں عمو کو جب دیکھا تو میں نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھول دو میری رسن گود میں لے لو چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کے روتے رہے میری اسیری چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پنجوں پہ چلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچین میسر مجھے آیا نہیں ایک پل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی گلا ہو گیا اور میرے پاؤں شل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات سفر میں کٹی دن بھی سفر میں کٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پنجوں پہ چلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا مدینے کے وہ دن بھی مجھے یاد ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سبز عمارتی میں جب بیٹھ کے جاتی تھی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج زرا دیکھیےء کیسے سفر طےء کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پنجوں پہ چلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک رسن‌ میں بندھے چھوٹے بڑوں کے گلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشوں پہ روتے ہوئے کربوبلا سے چلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حال میرا دیکھ کے رونے لگی کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پنجوں پہ چلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمظہر و عرفان تم نوحہ پڑھو اس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کے زندان میں بی بی میری جس طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کے بابا کا سر کرتی تھی آہ و بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پنجوں پہ چلتی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

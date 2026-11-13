@@ -1,12 +1,442 @@
 {
   "remoteId": "g2611_u2549",
-  "title": "Nana suno",
+  "title": "نانا سنو",
   "body": "آی جو چھٹ کے قید سے زہرا کی لاڈلی\nآ کر مزار احمد مختار پر گری\nبالوں کے رنگ سے ہی ضعیفی تھی آشکار\nکہتی رہی غموں کی ستای یہ بار بار\n<<DIVIDER>>\nنانا سنو سناؤں گی مقتل کی داستاں\nقبر نبی پہ زینب مضطر کا تھا بیاں\n<<DIVIDER>>\nنانا میں کچھ ہی دور کھڑی دیکھتی رہی\nسوکھے گلے پہ بھای کے چلتی رہی چھری\nنیزہ لعیں دکھا کے ڈراتے تھے نانا جاں\nنانا سنو سناؤں گی۔۔۔\n<<DIVIDER>>\nجیتے جی لے نہ پای وہ ایک سانس چین کی\nنانا یتیم ہو گیء بیٹی حسین کی\nحد تو یہ ہے کہ چھینی گیء اس کی بالیاں\nنانا سنو سناؤں گی۔۔۔\n<<DIVIDER>>\nنانا سنو وہ چھوٹا سا بچہ حسین کا\nگھٹنوں کے بل بھی چلنے کے قابل نہیں رہا\nپیاسا ہی ہاے مر گیا لے لے کے سسکیاں\nنانا سنو سناؤں گی۔۔۔\n<<DIVIDER>>\nنانا ہمارے عون و محمد نہیں رہے\nنصرت میں شاہ والا کی دونوں ہی مر گےء\nٹوٹا ہوا ہے دل پہ مصائب کا آسماں\nنانا سنو سناؤں گی۔۔۔\n<<DIVIDER>>\nپالا تھا جس کو نازوں سے اٹھارہ سال تک\nنانا لہو میں ڈوب گےء اس کے بال تک\nسینے میں ایسے ماری تھی ظالم نے برچھیاں\nنانا سنو سناؤں گی۔۔۔\n<<DIVIDER>>\nسجاد کے سوا کوئی مردوں میں تھا نہیں\nبہر مدد بلاتی کسے خواہر حزیں\nعباس با وفا بھی نگاہوں سے تھا نہاں\nنانا سنو سناؤں گی۔۔۔\n<<DIVIDER>>\nنانا سنو وہ شام غریباں کی داستاں\nہر سمت دکھ رہا تھا نگاہوں کو بس دھواں\nبکھراے بال خاک پہ بیٹھی تھی بی بیاں\nنانا سنو سناؤں گی۔۔۔\n<<DIVIDER>>\nایک ایک کر کے سارے جلاے گےء قیام\nاس میں پڑا ہوا تھا میرا وقت کا امام\nبیکس یتیم عابد بیمار ناتواں\nنانا سنو سناؤں گی۔۔۔\n<<DIVIDER>>\nقبر نبی لرز گیء زینب کے سن کے بین\nکیسے ملے گا عامر و فرحان دل کو چین\nلگتا ہے دل میں ٹوٹ گیء درد کی سناں\nنانا سنو سناؤں گی۔۔۔",
+  "styling": [
+    {
+      "insert": "آی جو چھٹ کے قید سے زہرا کی لاڈلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ کر مزار احمد مختار پر گری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالوں کے رنگ سے ہی ضعیفی تھی آشکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی رہی غموں کی ستای یہ بار بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنانا سنو سناؤں گی مقتل کی داستاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر نبی پہ زینب مضطر کا تھا بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنانا میں کچھ ہی دور کھڑی دیکھتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوکھے گلے پہ بھای کے چلتی رہی چھری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزہ لعیں دکھا کے ڈراتے تھے نانا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا سنو سناؤں گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجیتے جی لے نہ پای وہ ایک سانس چین کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا یتیم ہو گیء بیٹی حسین کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حد تو یہ ہے کہ چھینی گیء اس کی بالیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا سنو سناؤں گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنانا سنو وہ چھوٹا سا بچہ حسین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹنوں کے بل بھی چلنے کے قابل نہیں رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسا ہی ہاے مر گیا لے لے کے سسکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا سنو سناؤں گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنانا ہمارے عون و محمد نہیں رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نصرت میں شاہ والا کی دونوں ہی مر گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹوٹا ہوا ہے دل پہ مصائب کا آسماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا سنو سناؤں گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپالا تھا جس کو نازوں سے اٹھارہ سال تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا لہو میں ڈوب گےء اس کے بال تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے میں ایسے ماری تھی ظالم نے برچھیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا سنو سناؤں گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد کے سوا کوئی مردوں میں تھا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہر مدد بلاتی کسے خواہر حزیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس با وفا بھی نگاہوں سے تھا نہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا سنو سناؤں گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنانا سنو وہ شام غریباں کی داستاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سمت دکھ رہا تھا نگاہوں کو بس دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بکھراے بال خاک پہ بیٹھی تھی بی بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا سنو سناؤں گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک ایک کر کے سارے جلاے گےء قیام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس میں پڑا ہوا تھا میرا وقت کا امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیکس یتیم عابد بیمار ناتواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا سنو سناؤں گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر نبی لرز گیء زینب کے سن کے بین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے ملے گا عامر و فرحان دل کو چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگتا ہے دل میں ٹوٹ گیء درد کی سناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا سنو سناؤں گی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Wapasi-e-Ahle Haram",
+  "subcategory": "واپسی اہل حرم",
   "author": "Farhan Banarasi",
   "anjumans": [],
   "verified": false

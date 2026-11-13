@@ -1,12 +1,419 @@
 {
   "remoteId": "g2611_u0579",
-  "title": "Ashoor ka suraj keh",
+  "title": "عاشور کا سورج کہہ",
   "body": "عاشور کا سورج کہہ دے گا\nخاموش کنارا کہہ دیگا\nجو بات کے اصغر کہہ نہ سکے\nبہتا ہوا دریا کہہ دیگا\n<<DIVIDER>>\nکس طرح جوانی خاک ہوئی\nلیلیٰ کا کلیجہ کہہ دے گا\nبہتے ہوئے آنسوں کہہ دیں گے\nاترا ہوا چہرہ دیگا\n<<DIVIDER>>\nاحمد کی نواسی کا عالم\nاٹھتا ہوا پردہ کہہ دیگا\nکس طرح چھنی سر سے چادر\nجلتا ہوا خیمہ کہہ دے گا\n<<DIVIDER>>\nکس طرح گےء اصغر رن میں\nآباد ہوی کیوں کر تربت\nبانو کی اداسی کہہ دے گی\nاجڑا ہوا جھولا کہہ دے گا\n<<DIVIDER>>\nاکبر کی اجل آی پہلے\nیا برچھی کا پھل نکلا پہلے\nشبیر کی قسمت کہہ دے گی\nاکبر کا کلیجہ کہہ دے گا\n<<DIVIDER>>\nامت کے لئے اصغر آے\nپانی نہ ملا پیاسے ہیں گےء\nچھپ ہو گی اگر ننھی سی لحد\nاجڑا ہوا جھولا کہہ دے گا\n<<DIVIDER>>\nناؤک کی کھٹک دل کی ہمت\nامت پہ نظر بابا کا خیال\nکیا راز خدا سمجھے اصغر\nہنستا ہوا چہرہ کہہ دے گا\n<<DIVIDER>>\nہر گام پہ ٹھوکر کھا کھا کر\nجب باپ پسر کو ڈھونڈے گا\nکس سمت ہے اکبر کی میت\nالجھا ہوا رستہ کہہ دے گا\n<<DIVIDER>>\nمشکیزہ چھدا پانی تو بہا\nمیت نہ ہٹی تربت ہی بنی\nدریا کی ترای کس کی ہے\nعباس کا روضہ کہہ دے گا\n<<DIVIDER>>\nشادی سے غرض شادی کب تھی\nیہ درس علم تھا دنیا کو\nکچھ دیر کا دولہا کہہ دے گا\nاجڑا ہوا سہرا کہہ دے گا",
+  "styling": [
+    {
+      "insert": "عاشور کا سورج کہہ دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاموش کنارا کہہ دیگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو بات کے اصغر کہہ نہ سکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتا ہوا دریا کہہ دیگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح جوانی خاک ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ کا کلیجہ کہہ دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتے ہوئے آنسوں کہہ دیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اترا ہوا چہرہ دیگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاحمد کی نواسی کا عالم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھتا ہوا پردہ کہہ دیگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح چھنی سر سے چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتا ہوا خیمہ کہہ دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح گےء اصغر رن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آباد ہوی کیوں کر تربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بانو کی اداسی کہہ دے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اجڑا ہوا جھولا کہہ دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر کی اجل آی پہلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا برچھی کا پھل نکلا پہلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کی قسمت کہہ دے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کا کلیجہ کہہ دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nامت کے لئے اصغر آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی نہ ملا پیاسے ہیں گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھپ ہو گی اگر ننھی سی لحد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اجڑا ہوا جھولا کہہ دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nناؤک کی کھٹک دل کی ہمت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امت پہ نظر بابا کا خیال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا راز خدا سمجھے اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہنستا ہوا چہرہ کہہ دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر گام پہ ٹھوکر کھا کھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب باپ پسر کو ڈھونڈے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس سمت ہے اکبر کی میت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الجھا ہوا رستہ کہہ دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشکیزہ چھدا پانی تو بہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میت نہ ہٹی تربت ہی بنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کی ترای کس کی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کا روضہ کہہ دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشادی سے غرض شادی کب تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ درس علم تھا دنیا کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ دیر کا دولہا کہہ دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اجڑا ہوا سہرا کہہ دے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "anjumans": [],
   "verified": false
 }

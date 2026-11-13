@@ -1,7 +1,315 @@
 {
   "remoteId": "g2611_u2731",
-  "title": "Raat to khair kisi",
+  "title": "رات تو خیر کسی",
   "body": "رات تو خیر کسی طور گزر جاے گی\nصبحِ عاشور قیامت کی خبر آے گی\n<<DIVIDER>>\nآج ہر خیمہ ہے آباد بڑی رونق ہے\nہاے کل شام کو بستی یہ اجڑ جاے گی\nرات تو خیر کسی طور۔۔۔\n<<DIVIDER>>\nرن میں گونجے گی جو شہزادہء اکبر کی اذاں\nماں صدا سنتے ہی دل تھام کے رہ جائے گی\nرات تو خیر کسی طور۔۔۔\n<<DIVIDER>>\nکوچ کر جاےنگے سب اکبر و عباس و حسین\nخیمہء شاہ میں ویرانی سی چھا جاے گی\nرات تو خیر کسی طور۔۔۔\n<<DIVIDER>>\nہاے چھد جاے گی بے شیر کی گردن رن میں\nاور در خیمہ سے ماں دیکھتی رہ جائے گی\nرات تو خیر کسی طور۔۔۔\n<<DIVIDER>>\nٹکڑے ہو جاے گا قاسم کا بدن مقتل میں\nایک دولہن کی بھری مانگ اجڑ جاے گی\nرات تو خیر کسی طور۔۔۔\n<<DIVIDER>>\nاس قدر چھای دو عالم پہ ضعیفی ہو گی\nلاش اکبر کی نہ شبیر سے اٹھ پاے گی\nرات تو خیر کسی طور۔۔۔\n<<DIVIDER>>\nباپ کے سینے پہ سونے کی جسے عادت ہے\nخاک پر کیسے بھلا نیند اسے آے گی\nرات تو خیر کسی طور۔۔۔\n<<DIVIDER>>\nخیمے جل جائنگے لٹ جاے گی اولاد نبی\nہاے زینب کی ردا دشت میں چھن جاے گی\nرات تو خیر کسی طور۔۔۔\n<<DIVIDER>>\nایک دن آے گا ایسا بھی جہاں میں گوہر\nہر گلی کوچے سے ماتم کی صدا آے گی\nرات تو خیر کسی طور۔۔۔",
+  "styling": [
+    {
+      "insert": "رات تو خیر کسی طور گزر جاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبحِ عاشور قیامت کی خبر آے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآج ہر خیمہ ہے آباد بڑی رونق ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے کل شام کو بستی یہ اجڑ جاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات تو خیر کسی طور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرن میں گونجے گی جو شہزادہء اکبر کی اذاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں صدا سنتے ہی دل تھام کے رہ جائے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات تو خیر کسی طور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوچ کر جاےنگے سب اکبر و عباس و حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمہء شاہ میں ویرانی سی چھا جاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات تو خیر کسی طور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے چھد جاے گی بے شیر کی گردن رن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور در خیمہ سے ماں دیکھتی رہ جائے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات تو خیر کسی طور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹکڑے ہو جاے گا قاسم کا بدن مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک دولہن کی بھری مانگ اجڑ جاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات تو خیر کسی طور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس قدر چھای دو عالم پہ ضعیفی ہو گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاش اکبر کی نہ شبیر سے اٹھ پاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات تو خیر کسی طور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ کے سینے پہ سونے کی جسے عادت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر کیسے بھلا نیند اسے آے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات تو خیر کسی طور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے جل جائنگے لٹ جاے گی اولاد نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے زینب کی ردا دشت میں چھن جاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات تو خیر کسی طور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک دن آے گا ایسا بھی جہاں میں گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر گلی کوچے سے ماتم کی صدا آے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات تو خیر کسی طور۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

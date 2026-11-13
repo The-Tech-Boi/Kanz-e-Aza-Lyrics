@@ -1,12 +1,508 @@
 {
   "remoteId": "g2611_u2390",
-  "title": "Mere baba",
+  "title": "میرے بابا",
   "body": "میرے بابا میں کروں کیا\nخاک پر نیند نہیں آتی ہے\n<<DIVIDER>>\nیاد آتا ہے مجھے رہ رہ کر\nآپ کا سینا تھا میرا بستر\nآج یہ وقت پڑا ہے بابا\nخاک بستر ہے اندھیرا چادر\nدن تڑپ کر میں گزاروں\nرات ماتم میں گزر جاتی ہے\nمیرے بابا میں کروں۔۔۔\n<<DIVIDER>>\nکون فریاد سنے گا میری\nساتھ ہے میرے میری تنہائی\nکان زخمی ہیں جگر زخمی ہے\nخون کانوں سے ابھی جاری ہے\nکوئی مرہم نہ دوا ہے\nموت نزدیک ہوئی جاتی ہے\nمیرے بابا میں کروں۔۔۔\n<<DIVIDER>>\nشام کو جا کے در زنداں پر\nروز میں دیکھتی ہوں یہ منظر\nلوٹ کے جائیں پرندے جب گھر\nدل میرا روتا ہے بس یہ کہہ کر\nجانے کب میں جاؤں گی گھر\nکب رہائی کی خبر آتی ہے\nمیرے بابا میں کروں۔۔۔\n<<DIVIDER>>\nہائے وہ شامِ غریباں بابا\nبھول سکتی ہی نہیں یہ دکھیہ\nآگ خیموں میں لگی جب بابا\nجل گیا آگ سے دامن میرا\nکہہ رہی تھی میں یہ خود سے\nتو یتیمی کی سزا پاتی ہے\nمیرے بابا میں کروں۔۔۔\n<<DIVIDER>>\nنیل دیکھو میرے رخساروں کے\nیہ تماچوں کے نشاں ہیں گہرے\nمیں جو روتی ہوں تمہارے غم میں\nمار۔۔ مارتا ہے مجھے ظالم آکے\nجسم قیدی روح قیدی\nیہ اسیری مجھے تڑپاتی ہے\nمیرے بابا میں کروں۔۔۔\n<<DIVIDER>>\nجان دے دوں گی یہی رو رو کر\nموت جینے سے یہاں ہے بہتر\nآپ تلقین پڑھانا میری\nایک احسان یہ کرنا مجھ پر\nچین سے میں مر سکوں گی\nایک یہی آس نظر آتی ہے\nمیرے بابا میں کروں۔۔۔\n<<DIVIDER>>\nبین جو مظہرؔ و میثم نے پڑھے\nتھے یہی بالی سکینہ نے کہے\nساتھ گر آپ ہمارے ہوتے\nہے یقیں تھام کے دل رو دیتے\nکیا جہاں میں کوئی اُمّت\nیوں یتیموں پہ ستم ڈھاتی ہے\nمیرے بابا میں کروں۔۔۔",
+  "styling": [
+    {
+      "insert": "میرے بابا میں کروں کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر نیند نہیں آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد آتا ہے مجھے رہ رہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کا سینا تھا میرا بستر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج یہ وقت پڑا ہے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک بستر ہے اندھیرا چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن تڑپ کر میں گزاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رات ماتم میں گزر جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا میں کروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکون فریاد سنے گا میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ ہے میرے میری تنہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کان زخمی ہیں جگر زخمی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون کانوں سے ابھی جاری ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی مرہم نہ دوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت نزدیک ہوئی جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا میں کروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام کو جا کے در زنداں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز میں دیکھتی ہوں یہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے جائیں پرندے جب گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میرا روتا ہے بس یہ کہہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے کب میں جاؤں گی گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب رہائی کی خبر آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا میں کروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہائے وہ شامِ غریباں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھول سکتی ہی نہیں یہ دکھیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگ خیموں میں لگی جب بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل گیا آگ سے دامن میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ رہی تھی میں یہ خود سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو یتیمی کی سزا پاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا میں کروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیل دیکھو میرے رخساروں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تماچوں کے نشاں ہیں گہرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جو روتی ہوں تمہارے غم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مار۔۔ مارتا ہے مجھے ظالم آکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسم قیدی روح قیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ اسیری مجھے تڑپاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا میں کروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجان دے دوں گی یہی رو رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت جینے سے یہاں ہے بہتر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ تلقین پڑھانا میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک احسان یہ کرنا مجھ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چین سے میں مر سکوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک یہی آس نظر آتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا میں کروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبین جو مظہرؔ و میثم نے پڑھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھے یہی بالی سکینہ نے کہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ گر آپ ہمارے ہوتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یقیں تھام کے دل رو دیتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا جہاں میں کوئی اُمّت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں یتیموں پہ ستم ڈھاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا میں کروں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

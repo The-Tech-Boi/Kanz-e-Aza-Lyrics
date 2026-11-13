@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u0139",
-  "title": "Aaye shabbir bayaban",
+  "title": "آے شبیر بیاباں",
   "body": "آے شبیر بیاباں کو بسانے کے لئے\nدیں کی راہ میں بھرے گھر کو لٹانے کے لئے\n<<DIVIDER>>\nاپنے گلشن سے چنے پھول بہتر شہ دیں\nکربلا دیکھ تیری گود سجانے کے لئے\nآے شبیر بیاباں کو۔۔۔\n<<DIVIDER>>\nلال زہرا کا چلا بخشش امت کے لئے\nکند خنجر کے تلے سر وہ کٹانے کے لئے\nآے شبیر بیاباں کو۔۔۔\n<<DIVIDER>>\nعلی اصغر نے مسلمانوں سے پانی مانگا\nہاے اک تیر ملا پیاس بجھانے کے لئے\nآے شبیر بیاباں کو۔۔۔\n<<DIVIDER>>\nحاکم شام کو للکار کے بولے عباس\nمیرے بازو ہے تیرا نقش مٹانے کے لئے\nآے شبیر بیاباں کو۔۔۔\n<<DIVIDER>>\nبنت زہرا تیرے پردے کی خدا خیر کرے\nکلمہ گو آے ہیں قیام جلانے کے لئے\nآے شبیر بیاباں کو۔۔۔\n<<DIVIDER>>\nشہ دیں قاسم و اصغر کو نچھاور کر کے\nعلی اکبر کی چلے لاش اٹھانے کے لئے\nآے شبیر بیاباں کو۔۔۔\n<<DIVIDER>>\nڈالی گلزار نے جب حال سقیفہ پہ نظر\nسارا منظر تھا یہ زہرا کو رلانے کے لئے\nآے شبیر بیاباں کو۔۔۔",
+  "styling": [
+    {
+      "insert": "آے شبیر بیاباں کو بسانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیں کی راہ میں بھرے گھر کو لٹانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے گلشن سے چنے پھول بہتر شہ دیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا دیکھ تیری گود سجانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے شبیر بیاباں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلال زہرا کا چلا بخشش امت کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کند خنجر کے تلے سر وہ کٹانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے شبیر بیاباں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی اصغر نے مسلمانوں سے پانی مانگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اک تیر ملا پیاس بجھانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے شبیر بیاباں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحاکم شام کو للکار کے بولے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بازو ہے تیرا نقش مٹانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے شبیر بیاباں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبنت زہرا تیرے پردے کی خدا خیر کرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلمہ گو آے ہیں قیام جلانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے شبیر بیاباں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہ دیں قاسم و اصغر کو نچھاور کر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی اکبر کی چلے لاش اٹھانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے شبیر بیاباں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈالی گلزار نے جب حال سقیفہ پہ نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سارا منظر تھا یہ زہرا کو رلانے کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آے شبیر بیاباں کو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Gulzaar Jafri",
   "anjumans": [],
   "verified": false

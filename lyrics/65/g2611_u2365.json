@@ -1,12 +1,671 @@
 {
   "remoteId": "g2611_u2365",
-  "title": "Mera bacha hai kahan",
+  "title": "میرا بچہ ہے کہاں",
   "body": "بولی خاتونِ جناں یعنی شبیر کی ماں\nمیرا بچہ ہے کہاں\n<<DIVIDER>>\nذوالجناح اے ذوالجناح میرا بچہ ہے کہاں\nمیرا بچہ ہے کہاں\n<<DIVIDER>>\nلے گیا گھر سے ایک پیاسے کو\nرب کے محبوب کے نواسے کو\nچھوڑ کر آ گیا لعینوں میں\nغمزدہ ماں کے تو عصاصے کو\nڈھونڈنے جاؤں اسے اس\nاندھیرے میں کہاں\nمیرا بچہ ہے کہاں\nذوالجناح اے ذوالجناح۔۔۔\n<<DIVIDER>>\nجس نے لاشے اٹھاے تھے دن بھر\nخون اصغر تھا جس کے چہرے پر\nزخم اکبر کی تھی انی دل میں\nبھای کے غم میں جھک گیء تھی کمر\nخاک اڑاتے ہیں نبی\nہے علی محو فغاں\nمیرا بچہ ہے کہاں\nذوالجناح اے ذوالجناح۔۔۔\n<<DIVIDER>>\nراکب دوش مصطفیٰ تھا وہ\nتجھکو بچپن سے چاہتا تھا وہ\nساتھ کیوں آج اس کا چھوڑ دیا\nجب کہ مشکل میں آ گیا تھا وہ\nبے وفائی کا سبب\nکیا ہے کر کچھ تو بیاں\nمیرا بچہ ہے کہاں\nذوالجناح اے ذوالجناح۔۔۔\n<<DIVIDER>>\nتیرے ماتھے پہ خون ہے کس کا\nرنگ خوں یہ تیرے سوار کا تھا\nہے میرے شیر کی مہک اس میں\nکانپتا ہے الم سے دل میرا\nبول خاموش ہے کیوں\nتیرے آنسوں ہے رواں\nمیرا بچہ ہے کہاں\nذوالجناح اے ذوالجناح۔۔۔\n<<DIVIDER>>\nجو تیری پیاس پر اداس رہا\nجو کہ پانی کے آس پاس رہا\nپھر بھی پانی پیا نہیں اس نے\nتیری خاطر وہ محو یاس رہا\nخشک تھا اس کا گلا\nخشک تھی اس کی زباں\nمیرا بچہ ہے کہاں\nذوالجناح اے ذوالجناح۔۔۔\n<<DIVIDER>>\nکیسے سوے کی لاڈلی اس کی\nجس کو سینے پہ نیند آتی تھی\nجس نے روکا تھا تجھکو جاتے ہوے\nکیا کہے گا اگر وہ پوچھے گی\nسامنا اس کا نہ کر\nروکے دے دیگی وہ جاں\nمیرا بچہ ہے کہاں\nذوالجناح اے ذوالجناح۔۔۔\n<<DIVIDER>>\nقلب زینب کہیں فگار نہ ہو\nدل پہ اہل حرم کے وار نہ ہو\nتو جو خیمے میں جاے گا خالی\nکون ہے جو کہ سوگوار نہ ہو\nتو جو جاے گا وہاں\nحشر کا ہوگا سماں\nمیرا بچہ ہے کہاں\nذوالجناح اے ذوالجناح۔۔۔\n<<DIVIDER>>\nناگاہ سر سناں پہ آیا نظر\nذکر خالق تھا جس کے ہونٹوں پر\nتھام کر دل لرزتے ہاتھوں سے\nبولی ریحان مادر سرور\nتجھ سے اے اسپ جری\nاب نہ پوچھے گی یہ ماں\nمیرا بچہ ہے کہاں\nذوالجناح اے ذوالجناح۔۔۔",
+  "styling": [
+    {
+      "insert": "بولی خاتونِ جناں یعنی شبیر کی ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بچہ ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nذوالجناح اے ذوالجناح میرا بچہ ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بچہ ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلے گیا گھر سے ایک پیاسے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رب کے محبوب کے نواسے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ کر آ گیا لعینوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمزدہ ماں کے تو عصاصے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈنے جاؤں اسے اس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اندھیرے میں کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بچہ ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذوالجناح اے ذوالجناح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس نے لاشے اٹھاے تھے دن بھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون اصغر تھا جس کے چہرے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم اکبر کی تھی انی دل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای کے غم میں جھک گیء تھی کمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک اڑاتے ہیں نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے علی محو فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بچہ ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذوالجناح اے ذوالجناح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراکب دوش مصطفیٰ تھا وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھکو بچپن سے چاہتا تھا وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ کیوں آج اس کا چھوڑ دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کہ مشکل میں آ گیا تھا وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے وفائی کا سبب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ہے کر کچھ تو بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بچہ ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذوالجناح اے ذوالجناح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے ماتھے پہ خون ہے کس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رنگ خوں یہ تیرے سوار کا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے میرے شیر کی مہک اس میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کانپتا ہے الم سے دل میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بول خاموش ہے کیوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے آنسوں ہے رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بچہ ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذوالجناح اے ذوالجناح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو تیری پیاس پر اداس رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو کہ پانی کے آس پاس رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی پانی پیا نہیں اس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری خاطر وہ محو یاس رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خشک تھا اس کا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خشک تھی اس کی زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بچہ ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذوالجناح اے ذوالجناح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے سوے کی لاڈلی اس کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو سینے پہ نیند آتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس نے روکا تھا تجھکو جاتے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کہے گا اگر وہ پوچھے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سامنا اس کا نہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے دے دیگی وہ جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بچہ ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذوالجناح اے ذوالجناح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقلب زینب کہیں فگار نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پہ اہل حرم کے وار نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو جو خیمے میں جاے گا خالی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون ہے جو کہ سوگوار نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو جو جاے گا وہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حشر کا ہوگا سماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بچہ ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذوالجناح اے ذوالجناح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nناگاہ سر سناں پہ آیا نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذکر خالق تھا جس کے ہونٹوں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھام کر دل لرزتے ہاتھوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولی ریحان مادر سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھ سے اے اسپ جری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہ پوچھے گی یہ ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا بچہ ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ذوالجناح اے ذوالجناح۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

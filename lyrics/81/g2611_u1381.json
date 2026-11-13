@@ -1,12 +1,350 @@
 {
   "remoteId": "g2611_u1381",
-  "title": "Hai mere ammu kahan",
+  "title": "ہیں میرے عمو کہاں",
   "body": "بالی سکینہ یہی کرتی تھی رورو فغاں\nہیں میرے عمو کہاں بابا کہاں\n<<DIVIDER>>\nہونے لگی ہے دشت میں شام غریباں عیاں\n---ہیں میرے عمو\n<<DIVIDER>>\nجانے کدھر آج سب ناصر و یاور گےء\nکیسی قیامت ہوئی قاسم و اکبر گےء\nجستجو آب میں ثانیء حیدر گےء\nننھے مجاہد کے ساتھ سبط پیمبر گےء\nڈھونڈ رہی ہوں مگر ملتا نہیں کچھ نشاں\n---ہیں میرے عمو\n<<DIVIDER>>\nلشکر کفار میں دھوم ہے کیوں اس قدر\nسوچ رہی ہوں یہی آی ہے کیسی خبر\nچاک گریبان کےء روتا ہے سب گھر کا گھر\nہوش کسی کو نہیں کیا کروں جاؤں کدھر\nکویء بتاےء مجھے کیوں ہے یہ آہ و فغاں\n---ہیں میرے عمو\n<<DIVIDER>>\nخیموں میں بے اذن ہی آگےء سب اہل شر\nظلم کی حد توڑدی عابد بیمار پر\nلوٹ لی سر سے ردا لوٹ کے سب مال و زر\nشمر لعیں لے گیا چھین کے میرے گوہر\nجاکے دکھاؤنگی میں کانوں سے خوں ہے رواں\n---ہیں میرے عمو\n<<DIVIDER>>\nپیاسی ہوں یہ لفظ ہی لب پہ نہ لاؤ نگی میں\nانکی جدائی کا غم کیسے اٹھاؤنگی میں\nموت سے پہلے انہیں دیکھ بھی پاؤنگی میں\nجب بھی ملیں گے مجھے انکو بتاؤں گی میں\nمارے طمانچے مجھے شمر نے دی گھرکیاں\n---ہیں میرے عمو\n<<DIVIDER>>\nاور انیس حزیں حال کرے کیا رقم\nظلم کی جب سیلیاں کھا چکے اہل حرم\nآل محمد پہ پھر ٹوٹا نیا اک ستم\nدیکھو کہ بچوں میں ہے بالی سکینہ بھی تو\nکرتی تھی جو دم بہ دم روکے یہی اک فغاں\n---ہیں میرے عمو",
+  "styling": [
+    {
+      "insert": "بالی سکینہ یہی کرتی تھی رورو فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہیں میرے عمو کہاں بابا کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہونے لگی ہے دشت میں شام غریباں عیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہیں میرے عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانے کدھر آج سب ناصر و یاور گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی قیامت ہوئی قاسم و اکبر گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جستجو آب میں ثانیء حیدر گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ننھے مجاہد کے ساتھ سبط پیمبر گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈ رہی ہوں مگر ملتا نہیں کچھ نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہیں میرے عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلشکر کفار میں دھوم ہے کیوں اس قدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوچ رہی ہوں یہی آی ہے کیسی خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاک گریبان کےء روتا ہے سب گھر کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوش کسی کو نہیں کیا کروں جاؤں کدھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کویء بتاےء مجھے کیوں ہے یہ آہ و فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہیں میرے عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیموں میں بے اذن ہی آگےء سب اہل شر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم کی حد توڑدی عابد بیمار پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ لی سر سے ردا لوٹ کے سب مال و زر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر لعیں لے گیا چھین کے میرے گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاکے دکھاؤنگی میں کانوں سے خوں ہے رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہیں میرے عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاسی ہوں یہ لفظ ہی لب پہ نہ لاؤ نگی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انکی جدائی کا غم کیسے اٹھاؤنگی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت سے پہلے انہیں دیکھ بھی پاؤنگی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب بھی ملیں گے مجھے انکو بتاؤں گی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارے طمانچے مجھے شمر نے دی گھرکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہیں میرے عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاور انیس حزیں حال کرے کیا رقم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم کی جب سیلیاں کھا چکے اہل حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل محمد پہ پھر ٹوٹا نیا اک ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو کہ بچوں میں ہے بالی سکینہ بھی تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی جو دم بہ دم روکے یہی اک فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہیں میرے عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Anees Pehersari",
   "anjumans": [],
   "verified": false

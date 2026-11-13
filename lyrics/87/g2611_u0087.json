@@ -1,12 +1,501 @@
 {
   "remoteId": "g2611_u0087",
-  "title": "Aalam e arwah",
+  "title": "عالم ارواح",
   "body": "عالم ارواح میں\nاپنے رب سے محمد نے کہا\nمیرا وعدہ ہے\nمیرے اللّٰہ تجھ سے وعدہ ہے\n<<DIVIDER>>\nمیرا بیٹا تین دن کا بھوکا پیاسا\nقلب زخمی پشت زخمی اور تنہا\nگھر اپنا تجھ پر لٹاےگا\nمیرا وعدہ ہے۔۔۔\n<<DIVIDER>>\nانبیاء بھی دیکھتے ہی روےنگے سب\nسر کٹانے اس کے بیٹے جاےنگے جب\nہر ایک لاشہ اٹھاے گا\nمیرا وعدہ ہے۔۔۔\n<<DIVIDER>>\nلاشہء قاسم کی طرح دل ہوگا ٹکڑے\nلاے گا جب دشت سے وہ ٹکڑے دل کے\nلہو فلک بھی بہاے گا\nمیرا وعدہ ہے۔۔۔\n<<DIVIDER>>\nلاشہء عباس غازی علقمہ پر\nجب چھنے گی بیبیوں کے سر سے چادر\nوہ صبر کو آزماے گا\nمیرا وعدہ ہے۔۔۔\n<<DIVIDER>>\nموج دریا میں بھی ہوگا اک تلاطم\nتشنگی سے صبر کا ہوگا تصدم\nوہ صبر ہی فتح پاے گا\nمیرا وعدہ ہے۔۔۔\n<<DIVIDER>>\nکربلا کی سر زمیں کو خون دے کر\nسوے گا جلتی زمیں پر گل تر\nلہو میں اپنے نہاے گا\nمیرا وعدہ ہے۔۔۔\n<<DIVIDER>>\nیہ زمانہ ایسا صابر تو دکھاے\nوہ جو دریا سے بھی پیاسا لوٹ آے\nیہ صبر بھی وہ دکھاے گا\nمیرا وعدہ ہے۔۔۔\n<<DIVIDER>>\nقبر اصغر کی بناے گا اکیلا\nسینۂ اکبر سے برچھی کھینچ لے گا\nجنازے سب کے اٹھاے گا\nمیرا وعدہ ہے۔۔۔\n<<DIVIDER>>\nکربلا کی دھوپ ہوگی اور لاشے\nاور خیموں میں حرم ہونگے تڑپتے\nتسلی انکو دلاے گا\nمیرا وعدہ ہے۔۔۔\n<<DIVIDER>>\nجیسا زاہد اور عابد میرا بیٹا\nایسا قاری اور غازی کون ہوگا\nسناں پہ قرآن سناے گا\nمیرا وعدہ ہے۔۔۔\n<<DIVIDER>>\nاپنی شہزادی سے مظہر کا ہے وعدہ\nجب تلک ایک سانس باقی تن میں ہو گا\nقلم یہ رکنے نہ پاے گا\nمیرا وعدہ ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "عالم ارواح میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے رب سے محمد نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا وعدہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے اللّٰہ تجھ سے وعدہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرا بیٹا تین دن کا بھوکا پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلب زخمی پشت زخمی اور تنہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر اپنا تجھ پر لٹاےگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا وعدہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانبیاء بھی دیکھتے ہی روےنگے سب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کٹانے اس کے بیٹے جاےنگے جب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک لاشہ اٹھاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا وعدہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشہء قاسم کی طرح دل ہوگا ٹکڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاے گا جب دشت سے وہ ٹکڑے دل کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو فلک بھی بہاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا وعدہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشہء عباس غازی علقمہ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب چھنے گی بیبیوں کے سر سے چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ صبر کو آزماے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا وعدہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nموج دریا میں بھی ہوگا اک تلاطم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تشنگی سے صبر کا ہوگا تصدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ صبر ہی فتح پاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا وعدہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا کی سر زمیں کو خون دے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوے گا جلتی زمیں پر گل تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو میں اپنے نہاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا وعدہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ زمانہ ایسا صابر تو دکھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جو دریا سے بھی پیاسا لوٹ آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صبر بھی وہ دکھاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا وعدہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقبر اصغر کی بناے گا اکیلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینۂ اکبر سے برچھی کھینچ لے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنازے سب کے اٹھاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا وعدہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا کی دھوپ ہوگی اور لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور خیموں میں حرم ہونگے تڑپتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تسلی انکو دلاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا وعدہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجیسا زاہد اور عابد میرا بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا قاری اور غازی کون ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سناں پہ قرآن سناے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا وعدہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنی شہزادی سے مظہر کا ہے وعدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب تلک ایک سانس باقی تن میں ہو گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلم یہ رکنے نہ پاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا وعدہ ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

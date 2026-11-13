@@ -1,12 +1,581 @@
 {
   "remoteId": "g2611_u2145",
-  "title": "Lelo zainab salaam",
+  "title": "لے لو زینب سلام",
   "body": "الوداع الوداع اے بہن الوداع\n<<DIVIDER>>\nتھا یہ شہ کا کلام آخری\nلے لو زینب سلام آخری\n<<DIVIDER>>\nختم ہے زندگی کا سفر\nاب تو سانسیں بھی ہے مختصر\nجا رہے ہیں شہادت کو ہم\nاب نہ آیینگے ہم لوٹ کر\nہے یہ پیاسے کی شام آخری\nلے لو زینب سلام۔۔۔\nتھا یہ شہ کا کلام۔۔۔\n<<DIVIDER>>\nعصر کا وقت جانے کو ہے\nتیرگی رن میں چھانے کو ہے\nڈھلنے والا ہے سورج بہن\nشام عالم آنے کو ہے\nشاہ کا ہے دوام آخری\nلے لو زینب سلام۔۔۔\nتھا یہ شہ کا کلام۔۔۔\n<<DIVIDER>>\nعون و اکبر کو میں کھو چکا\nچھد چکا بے زباں کا گلا\nاب ہے فوج ستم اور میں\nاور زخمی ہے سینہ میرا\nبر زباں ہے کلام آخری\nلے لو زینب سلام۔۔۔\nتھا یہ شہ کا کلام۔۔۔\n<<DIVIDER>>\nسن کے قول شہ پر محن\nصبر درکار ہے خستہ تن\nاب تو شہداء کے محور میں ہاں\nمیری مانجای میری بہن\nبس ہمارا ہے نام آخری\nلے لو زینب سلام۔۔۔\nتھا یہ شہ کا کلام۔۔۔\n<<DIVIDER>>\nبعد میرے تیرا معرکہ\nکوفہ اور شام میں ہے سجا\nشیر دل خواہر شاہ دیں\nتجھکو کرنا ہے سر بہ خدا\nاب ہے میرا قیام آخری\nلے لو زینب سلام۔۔۔\nتھا یہ شہ کا کلام۔۔۔\n<<DIVIDER>>\nاے سکینہ علیک سلام\nدے رہا ہے صدا تشنہ کام\nپھر نہ پاؤ گی لہجہ میرا\nسن لو آ کر بصد اہتمام\nگفتگوے امام آخری\nلے لو زینب سلام۔۔۔\nتھا یہ شہ کا کلام۔۔۔\n<<DIVIDER>>\nجب ہو عابد وطن واپسی\nمیرے شیعوں سے کہنا یہی\nیاد کر لے میری پیاس کو\nجب پیےء ٹھنڈا پانی کبھی\nدینا میرا پیام آخری\nلے لو زینب سلام۔۔۔\nتھا یہ شہ کا کلام۔۔۔\n<<DIVIDER>>\nدایم و یزداں شہ کے سخن\nسن کے روے زمین و زمن\nبازوؤں میں رسن جب بندھے\nصبر کرنا اے میری بہن\nکام یہ تشنہ کام آخری\nلے لو زینب سلام۔۔۔",
+  "styling": [
+    {
+      "insert": "الوداع الوداع اے بہن الوداع"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھا یہ شہ کا کلام آخری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لو زینب سلام آخری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nختم ہے زندگی کا سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو سانسیں بھی ہے مختصر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا رہے ہیں شہادت کو ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہ آیینگے ہم لوٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یہ پیاسے کی شام آخری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لو زینب سلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا یہ شہ کا کلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعصر کا وقت جانے کو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرگی رن میں چھانے کو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھلنے والا ہے سورج بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام عالم آنے کو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ کا ہے دوام آخری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لو زینب سلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا یہ شہ کا کلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعون و اکبر کو میں کھو چکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھد چکا بے زباں کا گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ہے فوج ستم اور میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور زخمی ہے سینہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بر زباں ہے کلام آخری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لو زینب سلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا یہ شہ کا کلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسن کے قول شہ پر محن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبر درکار ہے خستہ تن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو شہداء کے محور میں ہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری مانجای میری بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس ہمارا ہے نام آخری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لو زینب سلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا یہ شہ کا کلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد میرے تیرا معرکہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفہ اور شام میں ہے سجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شیر دل خواہر شاہ دیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھکو کرنا ہے سر بہ خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ہے میرا قیام آخری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لو زینب سلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا یہ شہ کا کلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے سکینہ علیک سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے رہا ہے صدا تشنہ کام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر نہ پاؤ گی لہجہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن لو آ کر بصد اہتمام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گفتگوے امام آخری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لو زینب سلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا یہ شہ کا کلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب ہو عابد وطن واپسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے شیعوں سے کہنا یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد کر لے میری پیاس کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب پیےء ٹھنڈا پانی کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دینا میرا پیام آخری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لو زینب سلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا یہ شہ کا کلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدایم و یزداں شہ کے سخن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کے روے زمین و زمن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازوؤں میں رسن جب بندھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبر کرنا اے میری بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کام یہ تشنہ کام آخری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لو زینب سلام۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Dayam Najafi",
   "anjumans": [],
   "verified": false

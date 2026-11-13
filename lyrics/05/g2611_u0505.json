@@ -1,7 +1,396 @@
 {
   "remoteId": "g2611_u0505",
-  "title": "Amma teri kamayi",
+  "title": "اماں تیری کمائی",
   "body": "مرقد پہ ماں کی زینب فریاد کر رہی ہے\nاماں تیری کمائی جنگل میں لُٹ گئی ہے\n<<DIVIDER>>\nاُمت نے مصطفیٰ کی لُوٹا ہے چین تیرا\nمارا گیا ہے پیاسا اماں حسین تیرا\nدل بیٹھ سا گیا ہے آنکھوں میں تیرگی ہے\n---اماں تیری کمائی\n<<DIVIDER>>\nتیروں سے ہو گیا ہے قاسم کا جسم چھلنی\nمقتل کی ظلمتوں میں دولہن کی مانگ اُجڑی\nسہرے کی ہر لڑی سے حسرت برس رہی ہے\n---اماں تیری کمائی\n<<DIVIDER>>\nبرچھی جگر پہ کھا کر اکبر کی نوجوانی\nمٹی میں مل گئی ہے لیلیٰ کی زندگانی\nبیٹے کو یاد کر کے مادر تڑپ رہی ہے\n---اماں تیری کمائی\n<<DIVIDER>>\nیادوں سے کھیلتی ہے بے شیر کی ادائیں\nرِہ رِہ کے دے رہی اصغر کو ماں صدائیں\nجھولے کی خاموشی پر خود موت رو رہی ہے\n---اماں تیری کمائی\n<<DIVIDER>>\nآنکھوں میں بس گئے ہیں زندان کے اندھیرے\nیادِ سکینہ اماں رہتی ہے مجھ کو گھیرے\nبابا کو روتے روتے معصوم چل بسی ہے\n---اماں تیری کمائی\n<<DIVIDER>>\nعابد کی پُشت پر ہیں دُرّوں کے نیل اب بھی\nاماں رُلا گئی ہے مظلوم کی اسیری\nچلے ہیں دشت و پا میں بیمار پر غشی ہے\n---اماں تیری کمائی\n<<DIVIDER>>\nمارے گےء ہیں پیاسے اماں میرے پسر بھی\nدست لعیں نے کردی آغوش میری سونی\nدنیا میری نظر میں تاریک ہو گیء ہے\n---اماں تیری کمائی\n<<DIVIDER>>\nزینب کو راس اماں کر بو بلا نہ آیا\nچھینا ہے میرے سر سے دو بھائیوں کا سایہ\nاب تو دعائیں زینب مرنے کی مانگتی ہے\n---اماں تیری کمائی\n<<DIVIDER>>\nان بازوئوں کے کچھ تو داغ ورسن دیکھانے\nآئی ہے تیری بیٹی رودادِ غم سُنانے\nکُرتا کہیں جلا ہے چادر کہیں جلی ہے\n---اماں تیری کمائی",
+  "styling": [
+    {
+      "insert": "مرقد پہ ماں کی زینب فریاد کر رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں تیری کمائی جنگل میں لُٹ گئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاُمت نے مصطفیٰ کی لُوٹا ہے چین تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارا گیا ہے پیاسا اماں حسین تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل بیٹھ سا گیا ہے آنکھوں میں تیرگی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اماں تیری کمائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیروں سے ہو گیا ہے قاسم کا جسم چھلنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل کی ظلمتوں میں دولہن کی مانگ اُجڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہرے کی ہر لڑی سے حسرت برس رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اماں تیری کمائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرچھی جگر پہ کھا کر اکبر کی نوجوانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مٹی میں مل گئی ہے لیلیٰ کی زندگانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹے کو یاد کر کے مادر تڑپ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اماں تیری کمائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیادوں سے کھیلتی ہے بے شیر کی ادائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رِہ رِہ کے دے رہی اصغر کو ماں صدائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھولے کی خاموشی پر خود موت رو رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اماں تیری کمائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھوں میں بس گئے ہیں زندان کے اندھیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یادِ سکینہ اماں رہتی ہے مجھ کو گھیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو روتے روتے معصوم چل بسی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اماں تیری کمائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعابد کی پُشت پر ہیں دُرّوں کے نیل اب بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں رُلا گئی ہے مظلوم کی اسیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے ہیں دشت و پا میں بیمار پر غشی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اماں تیری کمائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمارے گےء ہیں پیاسے اماں میرے پسر بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دست لعیں نے کردی آغوش میری سونی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دنیا میری نظر میں تاریک ہو گیء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اماں تیری کمائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزینب کو راس اماں کر بو بلا نہ آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھینا ہے میرے سر سے دو بھائیوں کا سایہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو دعائیں زینب مرنے کی مانگتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اماں تیری کمائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nان بازوئوں کے کچھ تو داغ ورسن دیکھانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی ہے تیری بیٹی رودادِ غم سُنانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کُرتا کہیں جلا ہے چادر کہیں جلی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---اماں تیری کمائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

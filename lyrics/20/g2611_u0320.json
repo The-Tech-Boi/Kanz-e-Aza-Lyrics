@@ -1,12 +1,671 @@
 {
   "remoteId": "g2611_u0320",
-  "title": "Aina aina ay ali akbar",
+  "title": "اینا اینا اے علی اکبر",
   "body": "یوسف لیلیٰ شبیہ پیمبر\nکہتے تھے یہ رن میں سرور\nاے علی اکبر اے علی اکبر\nاے جانِ دل سرور اے علی اکبر\nاینا اینا اے علی اکبر\n<<DIVIDER>>\nبکا یہ سن لو ضرور بیٹا\nہوے ہو تم جب سے دور بیٹا\nگیا ان آنکھوں سے نور بیٹا\nہوے ہیں تاریک دو جہاں\nڈھونڈوں میں کہاں جا کر\nاے علی اکبر\nاینا اینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nاٹھاے میں نے تمام لاشے\nنہ ہاتھ لرزے نہ پاؤں کانپے\nصدا تمہاری سنی ہے جب سے\nلرز رہا ہے بدن میرا\nیہ کہتا چلا رو کر\nاے علی اکبر\nاینا اینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nکوئی تسلی نہ کچھ دلاسہ\nمیں کیسے ڈھونڈوں تمہارا لاشہ\nلبوں پہ نالے بدن میں راشا\nبھٹک رہا ہوں میں جا بجا\nہے ناد علی لب پر\nاے علی اکبر\nاینا اینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nمدد کو آے گا کون بیٹا\nحبیب و حر ہیں نہ جون بیٹا\nنہ میرا قاسم نہ عون بیٹا\nہر ایک مقتل میں سو چکا\nتنہا ہے پدر دلبر\nاے علی اکبر\nاینا اینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nیہ بھوک اور پیاس کی نقاہت\nاور اس پہ بیٹا تمہاری فرقت\nقدم قدم پر نیء ہے زحمت\nلگی جو ٹھوکر تو یہ کہا\nدے مجھکو صدا اکبر\nاے علی اکبر\nاینا اینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nمیں کیسے عباس کو بلاؤں\nستم رسیدہ کو کیوں ستاوں\nبتادے تو ہی کہاں میں آؤں\nکہاں پہ گھوڑے سے تو گرا\nآ جاؤں گا نوحہ گر\nاے علی اکبر\nاینا اینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nتمام وعدے نبھا چکا ہوں\nلہو میں اپنے نہا چکا ہوں\nجو دل پہ گزری بتا چکا ہوں\nبس ایک باقی ہے مرحلہ\nتکمیل پہ ہے محزر\nاے علی اکبر\nاینا اینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nپھپھی کی آواز آ رہی ہے\nوہ بیٹا تجھکو بلا رہی ہے\nغم اپنے تجھکو سنا رہی ہے\nدے اسکو آواز تو زرا\nکہتی ہے یہی مضطر\nاے علی اکبر\nاینا اینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nیہی تھا شہ کا بیان مظہر\nتھا جس پہ اب نوحہ خوان صفدر\nقلم بھی روتا ہے لکھ کے منظر\nحسین پڑھتے تھے مرثیہ\nتھا ہاتھ کلیجے پر\nاے علی اکبر\nاینا اینا اے علی اکبر۔۔۔",
+  "styling": [
+    {
+      "insert": "یوسف لیلیٰ شبیہ پیمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے تھے یہ رن میں سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی اکبر اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے جانِ دل سرور اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اینا اینا اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبکا یہ سن لو ضرور بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوے ہو تم جب سے دور بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گیا ان آنکھوں سے نور بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوے ہیں تاریک دو جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈوں میں کہاں جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اینا اینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھاے میں نے تمام لاشے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ہاتھ لرزے نہ پاؤں کانپے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صدا تمہاری سنی ہے جب سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لرز رہا ہے بدن میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہتا چلا رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اینا اینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی تسلی نہ کچھ دلاسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسے ڈھونڈوں تمہارا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لبوں پہ نالے بدن میں راشا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھٹک رہا ہوں میں جا بجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے ناد علی لب پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اینا اینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمدد کو آے گا کون بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حبیب و حر ہیں نہ جون بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ میرا قاسم نہ عون بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ایک مقتل میں سو چکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا ہے پدر دلبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اینا اینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ بھوک اور پیاس کی نقاہت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اس پہ بیٹا تمہاری فرقت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قدم قدم پر نیء ہے زحمت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگی جو ٹھوکر تو یہ کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے مجھکو صدا اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اینا اینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کیسے عباس کو بلاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم رسیدہ کو کیوں ستاوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتادے تو ہی کہاں میں آؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں پہ گھوڑے سے تو گرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ جاؤں گا نوحہ گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اینا اینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمام وعدے نبھا چکا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو میں اپنے نہا چکا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو دل پہ گزری بتا چکا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس ایک باقی ہے مرحلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تکمیل پہ ہے محزر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اینا اینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھپھی کی آواز آ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بیٹا تجھکو بلا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم اپنے تجھکو سنا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے اسکو آواز تو زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی ہے یہی مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اینا اینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہی تھا شہ کا بیان مظہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا جس پہ اب نوحہ خوان صفدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قلم بھی روتا ہے لکھ کے منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین پڑھتے تھے مرثیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا ہاتھ کلیجے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اینا اینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

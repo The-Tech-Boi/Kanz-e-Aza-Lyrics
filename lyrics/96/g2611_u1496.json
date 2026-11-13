@@ -1,12 +1,311 @@
 {
   "remoteId": "g2611_u1496",
-  "title": "Haye muslim ke pisar",
+  "title": "ہاے مسلم کے پسر",
   "body": "ہاے مسلم کے پسر\n<<DIVIDER>>\nنیم جاں روتے رہے اپنی جاں کھوتے رہے\nکچھ نہ فریاد سنی اس ستمگر نے مگر\nہاے مسلم کے پسر۔۔۔\n<<DIVIDER>>\nکہیں دیکھی نہ سنی یہ غریب الوطنی\nتیغ حارث کی چلی کٹ گےء دونوں کے سر\nہاے مسلم کے پسر۔۔۔\n<<DIVIDER>>\nبہر شاہ شہداء دونوں بچے با خدا\nاپنے بابا کی طرح ہو گےء خون میں تر\nہاے مسلم کے پسر۔۔۔\n<<DIVIDER>>\nکون کوفے میں بھلا آ کے مسلم سے کہے\nنہر پر مارے گۓ آپ کے لختِ جگر\nہاے مسلم کے پسر۔۔۔\n<<DIVIDER>>\nپپڑیاں پہ تھی تھے غضب کے پیاسے\nچل پڑے شہزادے سوے حوض کوثر\nہاے مسلم کے پسر۔۔۔\n<<DIVIDER>>\nروکے زوجہ نے کہا یہ ہے بے جرم و خطا\nکچھ ترس کھا حارث ان پہ یہ ظلم نہ کر\nہاے مسلم کے پسر۔۔۔\n<<DIVIDER>>\nدونوں لاشے بہ خدا یوں بغلگیر ہوے\nجیسے ملتا ہو گلے آکے سورج سے قمر\nہاے مسلم کے پسر۔۔۔\n<<DIVIDER>>\nاس طرح قتل ہوے میرے دونوں بچے\nہوگا اک حشر بپا جب سنے گی مادر\nہاے مسلم کے پسر۔۔۔\n<<DIVIDER>>\nآی یثرب میں بلال جب لہو کی خوشبو\nآ گےء لال میرے کہکے دوڑی مادر\nہاے مسلم کے پسر۔۔۔",
+  "styling": [
+    {
+      "insert": "ہاے مسلم کے پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیم جاں روتے رہے اپنی جاں کھوتے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ نہ فریاد سنی اس ستمگر نے مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مسلم کے پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہیں دیکھی نہ سنی یہ غریب الوطنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیغ حارث کی چلی کٹ گےء دونوں کے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مسلم کے پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہر شاہ شہداء دونوں بچے با خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا کی طرح ہو گےء خون میں تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مسلم کے پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکون کوفے میں بھلا آ کے مسلم سے کہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہر پر مارے گۓ آپ کے لختِ جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مسلم کے پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپپڑیاں پہ تھی تھے غضب کے پیاسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چل پڑے شہزادے سوے حوض کوثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مسلم کے پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروکے زوجہ نے کہا یہ ہے بے جرم و خطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ ترس کھا حارث ان پہ یہ ظلم نہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مسلم کے پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدونوں لاشے بہ خدا یوں بغلگیر ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے ملتا ہو گلے آکے سورج سے قمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مسلم کے پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس طرح قتل ہوے میرے دونوں بچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگا اک حشر بپا جب سنے گی مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مسلم کے پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآی یثرب میں بلال جب لہو کی خوشبو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گےء لال میرے کہکے دوڑی مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے مسلم کے پسر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Pisaraan-e-Muslim (a.s)",
+  "subcategory": "پسران مسلم (ع)",
   "author": "Bilal Kazmi",
   "anjumans": [],
   "verified": false

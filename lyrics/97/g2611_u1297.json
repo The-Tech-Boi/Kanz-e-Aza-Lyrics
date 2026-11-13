@@ -1,12 +1,432 @@
 {
   "remoteId": "g2611_u1297",
-  "title": "Gham pe gham",
+  "title": "غم پہ غم",
   "body": "غم پہ غم صغرا کو تڑپتی رہے\nغش پہ غش بیمار کو آتے رہے\n<<DIVIDER>>\nکربلا کا حال زینب کا بیاں\nاشک صغرا کے ہوے اس دم رواں\nلٹ چکا بی بی ہمارا کارواں\nغم پہ غم صغرا کو تڑپتی رہے\nغم پہ غم۔۔۔\n<<DIVIDER>>\nرن میں گودی کے پالے بھی رہ گےء\nہر کوئی راہ خدا میں جا چکے\nساتھ اب عون و محمد نہ رہے\nغم پہ غم صغرا کو تڑپتی رہے\nغم پہ غم۔۔۔\n<<DIVIDER>>\nباندھ کر سہرا گےء ابنِ حسن\nہو گےء پامال رن میں گل بدن\nاشقیاء گھوڑوں کو دوڑاتے رہے\nغم پہ غم صغرا کو تڑپتی رہے\nغم پہ غم۔۔۔\n<<DIVIDER>>\nکھو گےء بے شیر ایک تشنہ دہن\nساتھ آ نہ پائے وہ شیریں سخن\nجل چکا زہرا کا گھر جان چمن\nغم پہ غم صغرا کو تڑپتی رہے\nغم پہ غم۔۔۔\n<<DIVIDER>>\nنہر پر پہنچے جو سقاے حرم\nہو گےء عباس کے بازو قلم\nہو گےء جب بے ردا صغرا بھی ہم\nغم پہ غم صغرا کو تڑپتی رہے\nغم پہ غم۔۔۔\n<<DIVIDER>>\nٹھوکریں شبیر وہ کھاتے رہے\nکیا کہوں خیمے سب جب اکبر گےء\nلاشہء اکبر پہ سرور گر پڑے\nغم پہ غم صغرا کو تڑپتی رہے\nغم پہ غم۔۔۔\n<<DIVIDER>>\nشاہ دیں کے واسطے مقتل سجا\nسجدۂ آخر میں ان کا سر کٹا\nآ گیء مقتل میں روتی فاطمہ\nغم پہ غم صغرا کو تڑپتی رہے\nغم پہ غم۔۔۔\n<<DIVIDER>>\nبیکسوں پر چھای‌ تھی شام الم\nپڑھتے ہے صابر جو نوحہ دم بہ دم\nآج ہے اقبال پہ شہ کا کرم\nغم پہ غم صغرا کو تڑپتی رہے\nغم پہ غم۔۔۔",
+  "styling": [
+    {
+      "insert": "غم پہ غم صغرا کو تڑپتی رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غش پہ غش بیمار کو آتے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا کا حال زینب کا بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشک صغرا کے ہوے اس دم رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹ چکا بی بی ہمارا کارواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم صغرا کو تڑپتی رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرن میں گودی کے پالے بھی رہ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر کوئی راہ خدا میں جا چکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ اب عون و محمد نہ رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم صغرا کو تڑپتی رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباندھ کر سہرا گےء ابنِ حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گےء پامال رن میں گل بدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشقیاء گھوڑوں کو دوڑاتے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم صغرا کو تڑپتی رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھو گےء بے شیر ایک تشنہ دہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ آ نہ پائے وہ شیریں سخن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل چکا زہرا کا گھر جان چمن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم صغرا کو تڑپتی رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہر پر پہنچے جو سقاے حرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گےء عباس کے بازو قلم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گےء جب بے ردا صغرا بھی ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم صغرا کو تڑپتی رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹھوکریں شبیر وہ کھاتے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کہوں خیمے سب جب اکبر گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہء اکبر پہ سرور گر پڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم صغرا کو تڑپتی رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاہ دیں کے واسطے مقتل سجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجدۂ آخر میں ان کا سر کٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیء مقتل میں روتی فاطمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم صغرا کو تڑپتی رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیکسوں پر چھای‌ تھی شام الم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پڑھتے ہے صابر جو نوحہ دم بہ دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج ہے اقبال پہ شہ کا کرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم صغرا کو تڑپتی رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم پہ غم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Iqbal Abedi",
   "anjumans": [],
   "verified": false

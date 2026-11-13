@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u3000",
-  "title": "Shaame ghariban",
+  "title": "شامِ غریباں",
   "body": "بعدِ حسین دشت میں محشر بپا ہوا\nچھانے لگا ہر سمت سے جہاں گور اندھیرا\nخیمے جلے ردائیں چھِنی ہائے کیا ہوا\nپردیس میں لُوٹا گیا زہرا کا گھرانہ\nآئی شامِ غریباں\n<<DIVIDER>>\nکیا غم کا ہے سماں آئی شامِ غریباں\n<<DIVIDER>>\nلاشے پہ جواں لال کے کہتی رہی بانو\nسہرا بھی تیرا دیکھ نہ پائی تُو چل بسا\nکیا غم کا ہے سماں۔۔۔\nآئی شامِ غریباں۔۔۔\n<<DIVIDER>>\nجلتے ہوئے خیموں سے اُٹھتا رہا دھواں\nحیران و پریشان تھا شبیر کا کنبہ\nکیا غم کا ہے سماں۔۔۔\nآئی شامِ غریباں۔۔۔\n<<DIVIDER>>\nلاشِ کے ٹکڑے بکھرے پڑے تھے زمیں پر\nپامال اس طرح ہوا دولہے کا سراپا\nکیا غم کا ہے سماں۔۔۔\nآئی شامِ غریباں۔۔۔\n<<DIVIDER>>\nبھائی کو اپنے ڈھونڈتی تھی دشتِ بھلا میں\nہاتھوں میں لیے پانی کے کوزے کا سکینہ\nکیا غم کا ہے سماں۔۔۔\nآئی شامِ غریباں۔۔۔\n<<DIVIDER>>\nبرسا رہے تھے جسم پہ بیمار کے کوڑے\nاس عالمِ غربت میں کیا شکر کا سجدہ\nکیا غم کا ہے سماں۔۔۔\nآئی شامِ غریباں۔۔۔\n<<DIVIDER>>\nیہ کہہ رہی تھی شاہ کی خواہر لبِ فرات\nعباس دیکھو سر سے میری چھِن گئی چادر\nکیا غم کا ہے سماں۔۔۔\nآئی شامِ غریباں۔۔۔\n<<DIVIDER>>\nنیزے چُبھوتے جاتے تھے دُرّے لگاتے جاتے تھے\nآلِ نبی پہ ہوتی رہی رات بھر جفا\nکیا غم کا ہے سماں۔۔۔\nآئی شامِ غریباں۔۔۔\n<<DIVIDER>>\nاحمد یہ شام روزِ قیامت سے کم نہیں\nمحسن جو قید ہو گیا احمد کا گھرانہ\nکیا غم کا ہے سماں۔۔۔\nآئی شامِ غریباں۔۔۔",
+  "styling": [
+    {
+      "insert": "بعدِ حسین دشت میں محشر بپا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھانے لگا ہر سمت سے جہاں گور اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے جلے ردائیں چھِنی ہائے کیا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردیس میں لُوٹا گیا زہرا کا گھرانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی شامِ غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیا غم کا ہے سماں آئی شامِ غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشے پہ جواں لال کے کہتی رہی بانو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سہرا بھی تیرا دیکھ نہ پائی تُو چل بسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا غم کا ہے سماں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی شامِ غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلتے ہوئے خیموں سے اُٹھتا رہا دھواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حیران و پریشان تھا شبیر کا کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا غم کا ہے سماں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی شامِ غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشِ کے ٹکڑے بکھرے پڑے تھے زمیں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پامال اس طرح ہوا دولہے کا سراپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا غم کا ہے سماں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی شامِ غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھائی کو اپنے ڈھونڈتی تھی دشتِ بھلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں میں لیے پانی کے کوزے کا سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا غم کا ہے سماں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی شامِ غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبرسا رہے تھے جسم پہ بیمار کے کوڑے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس عالمِ غربت میں کیا شکر کا سجدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا غم کا ہے سماں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی شامِ غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ کہہ رہی تھی شاہ کی خواہر لبِ فرات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس دیکھو سر سے میری چھِن گئی چادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا غم کا ہے سماں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی شامِ غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزے چُبھوتے جاتے تھے دُرّے لگاتے جاتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آلِ نبی پہ ہوتی رہی رات بھر جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا غم کا ہے سماں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی شامِ غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاحمد یہ شام روزِ قیامت سے کم نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محسن جو قید ہو گیا احمد کا گھرانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا غم کا ہے سماں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آئی شامِ غریباں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Zulfiqar Ahmed",
   "anjumans": [],
   "verified": false

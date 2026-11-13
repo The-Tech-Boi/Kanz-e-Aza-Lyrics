@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u0032",
-  "title": "Aagaya maahe aza",
+  "title": "آگیا ماہ عزا",
   "body": "غم کی چھای ہے گھٹا آنسوں بہالو مومنوں\nآگیا ماہ عزا آنسوں بہالو مومنوں\n<<DIVIDER>>\nہاے دریا کی ترای پر جری عباس کا\nظلم سے بازو کٹا آنسوں بہالو مومنوں\nآگیا ماہ عزا۔۔۔\n<<DIVIDER>>\nچاند دکھتے ہی فلک پر سج گےء ہر گھر علم\nاور بچھا فرش عزا آنسوں بہالو مومنوں\nآگیا ماہ عزا۔۔۔\n<<DIVIDER>>\nاکبر و عون ومحمد قاسم نوشاہ کو\nیاد کرتے تم زرا آنسوں بہالو مومنوں\nآگیا ماہ عزا۔۔۔\n<<DIVIDER>>\nشاہ کے ہاتھوں پہ تیر حرملہ کی نوک سے\nحلق اصغر بھی چھدا آنسوں بہالو مومنوں\nآگیا ماہ عزا۔۔۔\n<<DIVIDER>>\nبعد عاشورا سبھی سیدانیوں کے ہاے ہاے\nچھن گئی سر سے ردا آنسوں بہالو مومنوں\nآگیا ماہ عزا۔۔۔\n<<DIVIDER>>\nاپنے آنسوں مرحم زخم شہ مظلوم ہے\nکچھ نہیں اس کے سوا آنسوں بہالو مومنوں\nآگیا ماہ عزا۔۔۔\n<<DIVIDER>>\nجب بھی آجائے محرم زندگی میں اے ببر\nکہتے رہنا تم صدا آنسوں بہالو مومنوں\nآگیا ماہ عزا۔۔۔",
+  "styling": [
+    {
+      "insert": "غم کی چھای ہے گھٹا آنسوں بہالو مومنوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا ماہ عزا آنسوں بہالو مومنوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے دریا کی ترای پر جری عباس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم سے بازو کٹا آنسوں بہالو مومنوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا ماہ عزا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاند دکھتے ہی فلک پر سج گےء ہر گھر علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور بچھا فرش عزا آنسوں بہالو مومنوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا ماہ عزا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاکبر و عون ومحمد قاسم نوشاہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد کرتے تم زرا آنسوں بہالو مومنوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا ماہ عزا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاہ کے ہاتھوں پہ تیر حرملہ کی نوک سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حلق اصغر بھی چھدا آنسوں بہالو مومنوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا ماہ عزا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعد عاشورا سبھی سیدانیوں کے ہاے ہاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھن گئی سر سے ردا آنسوں بہالو مومنوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا ماہ عزا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے آنسوں مرحم زخم شہ مظلوم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ نہیں اس کے سوا آنسوں بہالو مومنوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا ماہ عزا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب بھی آجائے محرم زندگی میں اے ببر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے رہنا تم صدا آنسوں بہالو مومنوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آگیا ماہ عزا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ibtedaye Ayyam e Aza",
+  "subcategory": "ابتدائے ایام عزا",
   "author": "Mir Bober Ali",
   "anjumans": [],
   "verified": false

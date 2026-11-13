@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u2041",
-  "title": "Kiya tha maa se jo",
+  "title": "کیا تھا ماں سے جو",
   "body": "کیا تھا ماں سے جو وعدہ نبھایا زینب نے\nزمانے بھر کو حسینی بنایا زینب نے\n<<DIVIDER>>\nبہا کے اشک عزا اور کہہ کے ہاے حسین\nبچھا کے فرش عزا خاک پر براے حسین\nاک آسمان زمیں پر بچھایا زینب نے\nکیا تھا ماں سے جو۔۔۔\n<<DIVIDER>>\nالٹ کے شام کا دربار کر کے فتح مبین\nجہاں حسین کا قاتل تھا حکمران وہی\nحسینی فوج کا پرچم لگایا زینب نے\nکیا تھا ماں سے جو۔۔۔\n<<DIVIDER>>\nچراغ خانۂ کعبہ بجھانے آے تھے\nجہاں پہ شامی اندھیرے بسانے آے تھے\nاسی زمین کو سورج بنایا زینب نے\nکیا تھا ماں سے جو۔۔۔\n<<DIVIDER>>\nیزید خود بھی یہ کہتے ہیں ہاں نہیں ملتا\nکہیں یزید کا نام و نشاں نہیں ملتا\nاسے تو خاک میں ایسا ملایا زینب نے\nکیا تھا ماں سے جو۔۔۔\n<<DIVIDER>>\nجہاں پہ کاٹا گیا تھا حسین کے سر کو\nجہاں پہ لوٹا گیا تھا حسین کے گھر کو\nوہی حسین کا روضہ بنایا زینب نے\nکیا تھا ماں سے جو۔۔۔\n<<DIVIDER>>\nہواے ظلم بنا خیض و خوں کے دریا میں\nسنا ہے عون و محمد کی طرح دنیا میں\nخدا کے دین کو چلنا سکھایا زینب نے\nکیا تھا ماں سے جو۔۔۔\n<<DIVIDER>>\nہر ایک سچے معرق کا حلفیہ ہے بیاں\nنبی رسول ولی دین کربلا قرآں\nاسیر ہو کے بھی سب کو بچایا زینب نے\nکیا تھا ماں سے جو۔۔۔\n<<DIVIDER>>\nجو چھالے دیکھ کے خود شام جا کے یہ منظر\nہوائیں کانپتی ہیں جس کو دیکھ کر گوہر\nچراغ شام میں ایسا جلایا زینب نے\nکیا تھا ماں سے جو۔۔۔",
+  "styling": [
+    {
+      "insert": "کیا تھا ماں سے جو وعدہ نبھایا زینب نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمانے بھر کو حسینی بنایا زینب نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبہا کے اشک عزا اور کہہ کے ہاے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچھا کے فرش عزا خاک پر براے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک آسمان زمیں پر بچھایا زینب نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تھا ماں سے جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nالٹ کے شام کا دربار کر کے فتح مبین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جہاں حسین کا قاتل تھا حکمران وہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسینی فوج کا پرچم لگایا زینب نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تھا ماں سے جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچراغ خانۂ کعبہ بجھانے آے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جہاں پہ شامی اندھیرے بسانے آے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی زمین کو سورج بنایا زینب نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تھا ماں سے جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیزید خود بھی یہ کہتے ہیں ہاں نہیں ملتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہیں یزید کا نام و نشاں نہیں ملتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسے تو خاک میں ایسا ملایا زینب نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تھا ماں سے جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجہاں پہ کاٹا گیا تھا حسین کے سر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جہاں پہ لوٹا گیا تھا حسین کے گھر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہی حسین کا روضہ بنایا زینب نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تھا ماں سے جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہواے ظلم بنا خیض و خوں کے دریا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنا ہے عون و محمد کی طرح دنیا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کے دین کو چلنا سکھایا زینب نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تھا ماں سے جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر ایک سچے معرق کا حلفیہ ہے بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نبی رسول ولی دین کربلا قرآں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسیر ہو کے بھی سب کو بچایا زینب نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تھا ماں سے جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو چھالے دیکھ کے خود شام جا کے یہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوائیں کانپتی ہیں جس کو دیکھ کر گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چراغ شام میں ایسا جلایا زینب نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تھا ماں سے جو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Gohar Jarchvi",
   "anjumans": [],
   "verified": false

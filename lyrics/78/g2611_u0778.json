@@ -1,12 +1,336 @@
 {
   "remoteId": "g2611_u0778",
-  "title": "Azane akbar bula",
+  "title": "اذانِ اکبر بلا",
   "body": "اللہ اکبر\n<<DIVIDER>>\nآؤ نمازِ فجر ہے\nاذانِ اکبر بلا رہی ہے\nخدا کی وحدانیت کا ہم کو\nپیغام حق یہ سنا رہی ہے\n<<DIVIDER>>\nاسی اذان کے لئے سید\nجوان اکبر فدا کیےء ہیں\nراہ خدا میں شاہ شہیداں\nمعصوم اصغر بھی دے دیا ہے\nحسین لیکر چلے جو مقصد\nکیوں آج دنیا بھلا رہی ہے\nآؤ نمازِ فجر ہے۔۔۔\n<<DIVIDER>>\nچلے اذان فجر جو دے کر\nتو بولے شہ یہ بتاؤ اکبر\nجدائی ہے سانسیں وہ جس کی تم سے\nوہ بن تمہارے جیےء گی کیوں کر\nمزارِ نانا پر روز جا کر\nدیےء جو صغرا جلا رہی ہے\nآؤ نمازِ فجر ہے۔۔۔\n<<DIVIDER>>\nقرآن کافی ہے جو تھے کہتے\nیہی ہے قرآن کے وہ قاری\nہے وہ جو ناطق قرآن لوگوں\nاسے کرینگے یہ قتل قاری\nکریں گے پامال اس کا لاشہ\nگھڑی عصر کی وہ آ رہی ہے\nآؤ نمازِ فجر ہے۔۔۔\n<<DIVIDER>>\nقرآن کے ٹکڑے ہوے ہیں بن میں\nغلافِ کعبہ اتار ڈالا\nحسین کو کربلا میں امت\nہے پیاسا خورشید مار ڈالا\nاسی کی مظلومیت پہ دنیا\nیہ آج آنسوں بہا رہی ہے\nآؤ نمازِ فجر ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "اللہ اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآؤ نمازِ فجر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اذانِ اکبر بلا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خدا کی وحدانیت کا ہم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیغام حق یہ سنا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسی اذان کے لئے سید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جوان اکبر فدا کیےء ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راہ خدا میں شاہ شہیداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم اصغر بھی دے دیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین لیکر چلے جو مقصد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں آج دنیا بھلا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ نمازِ فجر ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلے اذان فجر جو دے کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بولے شہ یہ بتاؤ اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جدائی ہے سانسیں وہ جس کی تم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بن تمہارے جیےء گی کیوں کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مزارِ نانا پر روز جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیےء جو صغرا جلا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ نمازِ فجر ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقرآن کافی ہے جو تھے کہتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی ہے قرآن کے وہ قاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وہ جو ناطق قرآن لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسے کرینگے یہ قتل قاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کریں گے پامال اس کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھڑی عصر کی وہ آ رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ نمازِ فجر ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقرآن کے ٹکڑے ہوے ہیں بن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غلافِ کعبہ اتار ڈالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین کو کربلا میں امت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے پیاسا خورشید مار ڈالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسی کی مظلومیت پہ دنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ آج آنسوں بہا رہی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ نمازِ فجر ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Haider Khursheed",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,483 @@
 {
   "remoteId": "g2611_u1463",
-  "title": "Haye gareebul watan",
+  "title": "ہاے غریب الوطن",
   "body": "ہاے غریب الوطن اے اسیر محن\nالوداع الوداع الوداع اے حسین الوداع\n<<DIVIDER>>\nنیزوں پہ سر کاٹ کے ہاے چڑھاے گیا\nگھوڑوں سے پامال تن تیرا کرایا گیا\nلوٹ کے سب مال و زر خیمہ جلایا گیا\n---ہاے غریب الوطن\n<<DIVIDER>>\nبیبیوں پہ جس قدر کرتے تھے اعدا جفا\nاتنا ہی سیدانیاں کرتی ہیں آہ و بکا\nدشت جفا میں یہی گونج رہی تھی صدا\n---ہاے غریب الوطن\n<<DIVIDER>>\nباندھی جفا کاروں نے شانوں میں کس کر رسن\nکس طرح ہمشیر دے بھائی کو اپنے کفن\nچھین لی سر سے ردا ہوگیء بےبس بہن\n---ہاے غریب الوطن\n<<DIVIDER>>\nبالی سکینہ کے جب شمر نے چھینے گوہر\nخون بہا اس قدر ہوگیا سب کرتہ تر\nکہتی تھی آؤ چچا وقت مدد ہے پدر\n---ہاے غریب الوطن\n<<DIVIDER>>\nہتھکڑی اور بیڑیاں طوق گراں بار ہے\nکتنا اسیر محن عابد بیمار ہے\nلشکر جور و ستم جانے کو تیار ہے\n---ہاے غریب الوطن\n<<DIVIDER>>\nگود سے بچے سبھی راہوں میں گرتے رہے\nدبکے سدھارے جناں ناقوں کے پاؤں تلے\nماؤں نے یہ داغ بھی اپنے جگر پر سہے\n---ہاے غریب الوطن\n<<DIVIDER>>\nکرگیء زندان میں جب سے سکینہ قضاء\nرنج و الم ہوگیا آل نبی کا سوا\nلاشے سے لپٹی ہوئی کرتی تھی بانو بکا\n---ہاے غریب الوطن\n<<DIVIDER>>\nتم کو رہائی کا لال کس قدر ارمان تھا\nاٹھو سکینہ چلو حکم رہای ملا\nجاتے ہیں زندان سے پہلے سوے کربلا\n---ہاے غریب الوطن\n<<DIVIDER>>\nمرقد شبیر پر جب کہ نظر جا پڑی\nبنت علی پشت سے ناقے سے رن میں گری\nکرتی ہوئی بین یہ گھٹنیوں کے بل چلی\n---ہاے غریب الوطن\n<<DIVIDER>>\nساتھ امامت کو میں لا نہ سکی پر محن\nبھائی بہت شرمندہ ہے یہ تمہاری بہن\nبالی سکینہ کو بھی دے نہ سکی میں کفن\n---ہاے غریب الوطن\n<<DIVIDER>>\nتم پہ انیس امام بنت علی کا سلام\nبھائی بھتیجے سپر جان شہ تشنہ کام\nناصر دین خدا حامد عالی مقام\n---ہاے غریب الوطن",
+  "styling": [
+    {
+      "insert": "ہاے غریب الوطن اے اسیر محن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الوداع الوداع الوداع اے حسین الوداع"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزوں پہ سر کاٹ کے ہاے چڑھاے گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھوڑوں سے پامال تن تیرا کرایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ کے سب مال و زر خیمہ جلایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے غریب الوطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیبیوں پہ جس قدر کرتے تھے اعدا جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا ہی سیدانیاں کرتی ہیں آہ و بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت جفا میں یہی گونج رہی تھی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے غریب الوطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباندھی جفا کاروں نے شانوں میں کس کر رسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح ہمشیر دے بھائی کو اپنے کفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھین لی سر سے ردا ہوگیء بےبس بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے غریب الوطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبالی سکینہ کے جب شمر نے چھینے گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون بہا اس قدر ہوگیا سب کرتہ تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی آؤ چچا وقت مدد ہے پدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے غریب الوطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہتھکڑی اور بیڑیاں طوق گراں بار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنا اسیر محن عابد بیمار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لشکر جور و ستم جانے کو تیار ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے غریب الوطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگود سے بچے سبھی راہوں میں گرتے رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دبکے سدھارے جناں ناقوں کے پاؤں تلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماؤں نے یہ داغ بھی اپنے جگر پر سہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے غریب الوطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرگیء زندان میں جب سے سکینہ قضاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رنج و الم ہوگیا آل نبی کا سوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے سے لپٹی ہوئی کرتی تھی بانو بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے غریب الوطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم کو رہائی کا لال کس قدر ارمان تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھو سکینہ چلو حکم رہای ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاتے ہیں زندان سے پہلے سوے کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے غریب الوطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمرقد شبیر پر جب کہ نظر جا پڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنت علی پشت سے ناقے سے رن میں گری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی ہوئی بین یہ گھٹنیوں کے بل چلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے غریب الوطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nساتھ امامت کو میں لا نہ سکی پر محن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی بہت شرمندہ ہے یہ تمہاری بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالی سکینہ کو بھی دے نہ سکی میں کفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے غریب الوطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم پہ انیس امام بنت علی کا سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی بھتیجے سپر جان شہ تشنہ کام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناصر دین خدا حامد عالی مقام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہاے غریب الوطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Anees",
   "anjumans": [],
   "verified": false

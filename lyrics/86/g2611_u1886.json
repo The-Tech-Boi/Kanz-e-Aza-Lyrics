@@ -1,7 +1,693 @@
 {
   "remoteId": "g2611_u1886",
-  "title": "Karbala jaane walon",
+  "title": "کربلا جانے والوں",
   "body": "آفت سے ہم سب دور رہے\nزہرا یہ دعایں کرتی ہیں\nشبیر کو روتی رہتی ہیں\nاور پسلیاں پکڑے چلتی ہیں\nجا تیرا سفر آباد رہے\nہمراہ تیرا سجاد رہے\nمولا میرے سبکو بلوا لو\nلب پر یہ تیرے فریاد رہے\nجا کربوبلا جانے والے\nشبیر کا روضہ چوم کے آ\nاور شام میں ایک تو بھائی\nہمشیر کا روضہ چوم کے آ\n<<DIVIDER>>\nکربلا جانے والوں\nمیری عارضی یہ شہ کو سنانا\nکربلا جانے والوں\n<<DIVIDER>>\nشہ کی دہلیز پر سر جو رکھنا\nکہنا ایسا بھی عاشق ہے تیرا\nتجھ سے ملنے کو تڑپے ہے لیکن\nاسکو مجبوریوں نے ہے گھیرا\nابنِ مشکل کشا دو بلاوا\nکردو ممکن وہاں اسکا آنا\n---کربلا جانے والوں\n<<DIVIDER>>\nجس جگہ تیر اصغر نے کھایا\nواں یہ کہنا کہ اے شاہ زادے\nنام پر تیرے اپنے وطن میں\nہیں بھکاری سبیلیں لگاتے\nروز و شب ہمکو تڑپاے رکھے\nتیرا تشنہ ہی دنیا سے جانا\n---کربلا جانے والوں\n<<DIVIDER>>\nدرپہ غازی کے یہ جاکے کہنا\nدور اپنے وطن میں دلاور\nغم مناتے ہیں عباس تیرا\nتیرے شیدا علم کو سجا کر\nہم فقیروں کو باب حوایج\nجلدی دربار اپنے بلانا\n---کربلا جانے والوں\n<<DIVIDER>>\nجس جگہ کھای اکبر نے برچھی\nکہنا کچھ ایسے غمخوار ہے جو\nمانگے سہرا اٹھا کر دعائیں\nتجھ پہ ہی یہ جوانی فدا ہو\nمنتظر ہے گدا وہ تمہارے\nانکو مہمان جلدی بنانا\n---کربلا جانے والوں\n<<DIVIDER>>\nتلہء زینبی پہ یہ کہنا\nہے تمہارے برادر کی نگری\nکون روکے گا اسکو بھلا پھر\nجس کو تم نے اجازت ہو دیدی\nاے شہیدوں کے وارث خدایا\nجلد ہم کو بلاوا دلانا\n---کربلا جانے والوں\n<<DIVIDER>>\nجاے قیام میں بی بیوں کے\nجاکے دینا ہماری سلامی\nبی بیوں تم نے دے کر رداءیں\nدین کی آبرو ہے بحالی\nمضطرب ہے جو اپنے وطن میں\nان سے پرسہ یہاں بھی کرانا\n---کربلا جانے والوں\n<<DIVIDER>>\nجاکے شہدا کے مرقد پہ کہنا\nاے میرے شاہ کے جانثاروں\nرد نہ ہوگی تمہاری سفارش\nتم جو کہہ دو گے اے شہ کے پیاروں\nجو نہیں آ سکے میرے مولا\nان کو جلدی ہی نگری دکھانا\n---کربلا جانے والوں\n<<DIVIDER>>\nمحسن دیں کے در سے تو آصف\nلوٹ سکتا نہیں کوئی خالی\nکیسے ممکن ہو کہ اپنی حسرت\nشہ کے دربار میں نہ ہو پوری\nگر دعا یہ سنا دے گا زایر\nپھر یقینی ہے اپنا بھی جانا\n---کربلا جانے والوں",
+  "styling": [
+    {
+      "insert": "آفت سے ہم سب دور رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زہرا یہ دعایں کرتی ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کو روتی رہتی ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پسلیاں پکڑے چلتی ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا تیرا سفر آباد رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمراہ تیرا سجاد رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا میرے سبکو بلوا لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لب پر یہ تیرے فریاد رہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا کربوبلا جانے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کا روضہ چوم کے آ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور شام میں ایک تو بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہمشیر کا روضہ چوم کے آ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا جانے والوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری عارضی یہ شہ کو سنانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا جانے والوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہ کی دہلیز پر سر جو رکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنا ایسا بھی عاشق ہے تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھ سے ملنے کو تڑپے ہے لیکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسکو مجبوریوں نے ہے گھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابنِ مشکل کشا دو بلاوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کردو ممکن وہاں اسکا آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کربلا جانے والوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس جگہ تیر اصغر نے کھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واں یہ کہنا کہ اے شاہ زادے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام پر تیرے اپنے وطن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہیں بھکاری سبیلیں لگاتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز و شب ہمکو تڑپاے رکھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرا تشنہ ہی دنیا سے جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کربلا جانے والوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدرپہ غازی کے یہ جاکے کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دور اپنے وطن میں دلاور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم مناتے ہیں عباس تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے شیدا علم کو سجا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم فقیروں کو باب حوایج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلدی دربار اپنے بلانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کربلا جانے والوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس جگہ کھای اکبر نے برچھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہنا کچھ ایسے غمخوار ہے جو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانگے سہرا اٹھا کر دعائیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھ پہ ہی یہ جوانی فدا ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منتظر ہے گدا وہ تمہارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انکو مہمان جلدی بنانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کربلا جانے والوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتلہء زینبی پہ یہ کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے تمہارے برادر کی نگری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون روکے گا اسکو بھلا پھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو تم نے اجازت ہو دیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہیدوں کے وارث خدایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلد ہم کو بلاوا دلانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کربلا جانے والوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاے قیام میں بی بیوں کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاکے دینا ہماری سلامی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بیوں تم نے دے کر رداءیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دین کی آبرو ہے بحالی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مضطرب ہے جو اپنے وطن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان سے پرسہ یہاں بھی کرانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کربلا جانے والوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاکے شہدا کے مرقد پہ کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے شاہ کے جانثاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رد نہ ہوگی تمہاری سفارش"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم جو کہہ دو گے اے شہ کے پیاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو نہیں آ سکے میرے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان کو جلدی ہی نگری دکھانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کربلا جانے والوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمحسن دیں کے در سے تو آصف"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ سکتا نہیں کوئی خالی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے ممکن ہو کہ اپنی حسرت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کے دربار میں نہ ہو پوری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر دعا یہ سنا دے گا زایر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر یقینی ہے اپنا بھی جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---کربلا جانے والوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

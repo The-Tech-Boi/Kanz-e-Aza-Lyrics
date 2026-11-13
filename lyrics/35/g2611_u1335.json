@@ -1,12 +1,450 @@
 {
   "remoteId": "g2611_u1335",
-  "title": "Ghareebe karbala",
+  "title": "یا غریب کربلا",
   "body": "یا غریب کربلا\nیا غریب نینوا\nہاں قتیل بے خطا\nیا زبیح نینوا\n<<DIVIDER>>\nدشت بلا میں آ کے گھیرا\nمہمان بلا کر رخ اپنا پھیرا\nبے آب کر کی تم کو ستایا\nعلقمہ رو کر کرتی تھی گریہ\nیا غریب کربلا۔۔۔\n<<DIVIDER>>\nاعدا نے تجھ پہ ہے ظلم ڈھایا\nدریا کنارے پہرہ لگایا\nرو رو کے کہتی تھی یہ سکینہ\nمیں بھی ہوں پیاسی تم بھی ہو پیاسا\nیا غریب کربلا۔۔۔\n<<DIVIDER>>\nقاسم و اکبر بھی گےء مارا\nتنہا کھڑا ہے اب شاہ والا\nمارا گیا سب گود کا پالا\nکیسی مصیبت کا ہے یہ لمحہ\nیا غریب کربلا۔۔۔\n<<DIVIDER>>\nپانی کے بدلے مارا ہے پیکاں\nنہر ہوا ہے معصوم بچہ\nپھٹ گیا شہ کا اس دم کلیجہ\nدریا کی موجوں نے یہ پکارا\nیا غریب کربلا۔۔۔\n<<DIVIDER>>\nتیر و تبر اور خنجر و نیزہ\nمیں چھپ گیا ہاے وہ پیاسا\nپشت فرش پہ مشکل ہے رہنا\nعصر کا محشر اور شہ کا سجدہ\nیا غریب کربلا۔۔۔\n<<DIVIDER>>\nہاے ہاے وہ اصغر چھ ماہ والا\nگھٹنوں کے بل بھی جو چل نہ پایا\nاس کا بدن جو نیزے پہ دیکھا\nبابا کے سر سے بولی سکینہ\nیا غریب کربلا۔۔۔\n<<DIVIDER>>\nستر قدم پہ زینب کبریٰ\nروتی تھی ہاے کرتی تھی گریہ\nکوئی بچا لو آکے خدارا\nجلتی زمیں پہ ہوتا ہے ذبح\nیا غریب کربلا۔۔۔\n<<DIVIDER>>\nعاکف و اعظم منظر عجب تھا\nکاٹا گلا جب ہلتا تھا صحرا\nنیزے پہ سر جو باپ کا دیکھا\nسجاد رو کر اس دم پکارا\nیا غریب کربلا۔۔۔",
+  "styling": [
+    {
+      "insert": "یا غریب کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا غریب نینوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں قتیل بے خطا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا زبیح نینوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدشت بلا میں آ کے گھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مہمان بلا کر رخ اپنا پھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے آب کر کی تم کو ستایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علقمہ رو کر کرتی تھی گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا غریب کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاعدا نے تجھ پہ ہے ظلم ڈھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کنارے پہرہ لگایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے کہتی تھی یہ سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بھی ہوں پیاسی تم بھی ہو پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا غریب کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقاسم و اکبر بھی گےء مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنہا کھڑا ہے اب شاہ والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارا گیا سب گود کا پالا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی مصیبت کا ہے یہ لمحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا غریب کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپانی کے بدلے مارا ہے پیکاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہر ہوا ہے معصوم بچہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھٹ گیا شہ کا اس دم کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کی موجوں نے یہ پکارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا غریب کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیر و تبر اور خنجر و نیزہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں چھپ گیا ہاے وہ پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پشت فرش پہ مشکل ہے رہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عصر کا محشر اور شہ کا سجدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا غریب کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے ہاے وہ اصغر چھ ماہ والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹنوں کے بل بھی جو چل نہ پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کا بدن جو نیزے پہ دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کے سر سے بولی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا غریب کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nستر قدم پہ زینب کبریٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی تھی ہاے کرتی تھی گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی بچا لو آکے خدارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتی زمیں پہ ہوتا ہے ذبح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا غریب کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاکف و اعظم منظر عجب تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کاٹا گلا جب ہلتا تھا صحرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیزے پہ سر جو باپ کا دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سجاد رو کر اس دم پکارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا غریب کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Azam Hussain",
   "anjumans": [],
   "verified": false

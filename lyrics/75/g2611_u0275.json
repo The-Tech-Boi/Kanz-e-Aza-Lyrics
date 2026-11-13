@@ -1,12 +1,369 @@
 {
   "remoteId": "g2611_u0275",
-  "title": "Abbase alamdar hoo",
+  "title": "عباس علمدار ہوں",
   "body": "ہاے غربت عباس\nرخسار میرے خون سے غلطاں بھی پڑے ہیں\nتپتی ہوئی ریتی سے منہ غازی کے آٹے ہیں\nتقدیر سے لاچار ہوں بے دست ہوں آقا\n<<DIVIDER>>\nعباس علمدار ہوں بے دست ہوں آقا\nمیں بے کس و لاچار ہوں بے دست ہوں آقا\n---عباس علمدار ہوں\n<<DIVIDER>>\nمیں کس طرح آقا تیری تعظیم کو اٹھوں\nزخمی ہیں میرے ہونٹ بھی لب کسطرح کھولوں\nمیں کیسا مددگار ہوں بے دست ہوں آقا\n---عباس علمدار ہوں\n<<DIVIDER>>\nجن پہ تھا بڑا ناز وہی ساتھ نہیں ہے\nیہ وقت عجب ہے کہ میرے ہاتھ نہیں ہیں\nمیں ہوکے بھی لاچار ہوں بے دست ہوں آقا\n---عباس علمدار ہوں\n<<DIVIDER>>\nسنتا ہوں سکینہ کا گلا ہوگا رسن میں\nہے تاب کہاں اتنی بھلا غنچہ دہن میں\nاس غم سے میں دوچار ہوں بے دست ہوں آقا\n---عباس علمدار ہوں\n<<DIVIDER>>\nمیں کیسے کہوں کسطرح گھوڑے سے گرا ہوں\nکروٹ بھی نہیں بدلی میں ویسے ہی پڑا ہوں\nکتنا میں لب آر ہوں بے دست ہوں آقا\n---عباس علمدار ہوں\n<<DIVIDER>>\nشبیر نے عباس کا سر زانوں پہ رکھا\nپھر بولے علمدار سے بھائی کہو بھیا\nسن کر تیرا غمخوار ہوں بے دست ہوں آقا\n---عباس علمدار ہوں\n<<DIVIDER>>\nجب سر پہ لگا گرز تو پھر گر پڑے عباس\nآقا میرے جب مشک چھدی مر گئے عباس\nہر غم سے گرفتار ہوں بے دست ہوں آقا\n---عباس علمدار ہوں\n<<DIVIDER>>\nریحان و مبارک پہ عیاں کیسے یہ غم ہو\nجب خون میں ڈوبا ہوا غازی کا الم ہو\nغمخوار ہوں لاچار ہوں بے دست ہوں آقا\n---عباس علمدار ہوں",
+  "styling": [
+    {
+      "insert": "ہاے غربت عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخسار میرے خون سے غلطاں بھی پڑے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تپتی ہوئی ریتی سے منہ غازی کے آٹے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تقدیر سے لاچار ہوں بے دست ہوں آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس علمدار ہوں بے دست ہوں آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بے کس و لاچار ہوں بے دست ہوں آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس علمدار ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کس طرح آقا تیری تعظیم کو اٹھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخمی ہیں میرے ہونٹ بھی لب کسطرح کھولوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کیسا مددگار ہوں بے دست ہوں آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس علمدار ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجن پہ تھا بڑا ناز وہی ساتھ نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وقت عجب ہے کہ میرے ہاتھ نہیں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ہوکے بھی لاچار ہوں بے دست ہوں آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس علمدار ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنتا ہوں سکینہ کا گلا ہوگا رسن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے تاب کہاں اتنی بھلا غنچہ دہن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس غم سے میں دوچار ہوں بے دست ہوں آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس علمدار ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں کیسے کہوں کسطرح گھوڑے سے گرا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کروٹ بھی نہیں بدلی میں ویسے ہی پڑا ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنا میں لب آر ہوں بے دست ہوں آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس علمدار ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشبیر نے عباس کا سر زانوں پہ رکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بولے علمدار سے بھائی کہو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کر تیرا غمخوار ہوں بے دست ہوں آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس علمدار ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سر پہ لگا گرز تو پھر گر پڑے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آقا میرے جب مشک چھدی مر گئے عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر غم سے گرفتار ہوں بے دست ہوں آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس علمدار ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان و مبارک پہ عیاں کیسے یہ غم ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب خون میں ڈوبا ہوا غازی کا الم ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غمخوار ہوں لاچار ہوں بے دست ہوں آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---عباس علمدار ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mubarak Jalalpuri",
   "anjumans": [],
   "verified": false

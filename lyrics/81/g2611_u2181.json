@@ -1,12 +1,549 @@
 {
   "remoteId": "g2611_u2181",
-  "title": "Maa ummul baneen",
+  "title": "ماں ام البنین",
   "body": "پہنچے سرہانے بھائی کے جب شاہِ کربلا\nغازی نے اپنی آخری سانسوں میں دی صدا\nمولا ماں ام البنین سے مت کہنا\n<<DIVIDER>>\nشرمندہ سکینہ سے ہوں بہت\nمیں پانی لیکر آنہ سکا\nمولا ماں ام البنین۔۔۔\n<<DIVIDER>>\nماں نے جو سکھائے بچپن میں\nوہ یاد ہیں سب اداب مجھے\nنزدیک کھڑے رہنا اُس جا\nشبیر جہاںبیٹھے جاکے\nاِس وقت مگر خادم تیرا\nتعظیم کوتیری اُٹھ نہ سکا\nمولا ماں ام البنین۔۔۔\n<<DIVIDER>>\nہر لاش پہ گر کے کہتے تھے\nکیا تم ہی علی کے بیٹے ہو\nمعلوم ہے کتنی مشکل میں\nخیموں سے یہاں تک پہنچے ہو\nعباس سے ملنے کی خاطر\nزحمت جو اُٹھائی ہے مولا\nمولا ماں ام البنین۔۔۔\n<<DIVIDER>>\nکس طرح کٹے بازو میرے\nمقتل میں بتادینا بے شک\nمیں زیں سے زمیں پر کیسے گرا\nاماں کو سنا دینا بے شک\nعباس کے گرنے سے لیکن\nزینب کے گری تھی سر سے ردا\nمولا ماں ام البنین۔۔۔\n<<DIVIDER>>\nتھا چاروں جانب بکھرا ہوا\nقرآن حسن کا جنگل میں\nپامال بدن قاسم کا ہوا\nگزری وہ قیامت مقتل میں\nعباس کی زوجہ سے پہلے\nافسو س ہوئی بیوا کبریٰ\nمولا ماں ام البنین۔۔۔\n<<DIVIDER>>\nبابا سے کیا بچوں کو جدا\nکیا ظلم یہ ڈھایالوگوں نے\nمسلم کی لاش کو فے کی\nگلیوںمیںپھرایا لوگوں نے\nعباس کی نظروں کے آگے\nاُجڑی تھی رُقیہ کی دنیا\nمولا ماں ام البنین۔۔۔\n<<DIVIDER>>\nیہ سوچ کے رن میں روتی ہے\nبازو سے لپٹ کر میری وفا\nیہ بات گراں گزرے گی بہت\nاماں کی طبیعت پر آقا\nگر ہاتھ ہوئے پانی سے میرے\nاور آپ کا اصغر پیاسا رہا\nمولا ماں ام البنین۔۔۔\n<<DIVIDER>>\nدو بھائی بچھڑتے تھے رن میں\nکیسا تھا قیامت کا منظر\nعباس مجھے بھائی کہہ دو\nسرور نے کہا جب یہ رو کر\nشبیر کو بھائی کہہ تو دیا\nلیکن تھی تکلم لب پہ صدا\nمولا ماں ام البنین۔۔۔",
+  "styling": [
+    {
+      "insert": "پہنچے سرہانے بھائی کے جب شاہِ کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی نے اپنی آخری سانسوں میں دی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا ماں ام البنین سے مت کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشرمندہ سکینہ سے ہوں بہت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں پانی لیکر آنہ سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا ماں ام البنین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں نے جو سکھائے بچپن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ یاد ہیں سب اداب مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نزدیک کھڑے رہنا اُس جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر جہاںبیٹھے جاکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اِس وقت مگر خادم تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تعظیم کوتیری اُٹھ نہ سکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا ماں ام البنین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر لاش پہ گر کے کہتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا تم ہی علی کے بیٹے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معلوم ہے کتنی مشکل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیموں سے یہاں تک پہنچے ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس سے ملنے کی خاطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زحمت جو اُٹھائی ہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا ماں ام البنین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح کٹے بازو میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل میں بتادینا بے شک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں زیں سے زمیں پر کیسے گرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں کو سنا دینا بے شک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کے گرنے سے لیکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کے گری تھی سر سے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا ماں ام البنین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھا چاروں جانب بکھرا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن حسن کا جنگل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پامال بدن قاسم کا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گزری وہ قیامت مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کی زوجہ سے پہلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "افسو س ہوئی بیوا کبریٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا ماں ام البنین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا سے کیا بچوں کو جدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا ظلم یہ ڈھایالوگوں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کی لاش کو فے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلیوںمیںپھرایا لوگوں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کی نظروں کے آگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُجڑی تھی رُقیہ کی دنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا ماں ام البنین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سوچ کے رن میں روتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازو سے لپٹ کر میری وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بات گراں گزرے گی بہت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں کی طبیعت پر آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر ہاتھ ہوئے پانی سے میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور آپ کا اصغر پیاسا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا ماں ام البنین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدو بھائی بچھڑتے تھے رن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا تھا قیامت کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس مجھے بھائی کہہ دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سرور نے کہا جب یہ رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کو بھائی کہہ تو دیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن تھی تکلم لب پہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مولا ماں ام البنین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

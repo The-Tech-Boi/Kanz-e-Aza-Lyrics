@@ -1,12 +1,450 @@
 {
   "remoteId": "g2611_u0643",
-  "title": "Ay ghuncha dahan",
+  "title": "اے غنچہ دہن",
   "body": "اے غنچہ دہن بیکس دولہا\nاے سیم بدن بیکس دولہا\nمجرے کے لئے آی ہے اٹھو\nناشاد دلہن بیکس دولہا\n<<DIVIDER>>\nدنیا سے نیء یہ شادی ہے\nدونوں ہی طرف بربادی ہے\nشبیر کی بیٹی بیوہ دلہن\nاور ابنِ حسن بیکس دولہا\nاے غنچہ دہن۔۔۔\n<<DIVIDER>>\nہے خوف مجھے ناراض نہ ہو\nمرضی ہے تمہاری کیا بولو\nمیں ہاتھ میں اب کنگنا رکھوں\nیا رکھوں رسن بیکس دولہا\nاے غنچہ دہن۔۔۔\n<<DIVIDER>>\nہمنام ہوں میں بھی دادی کی\nہے تم کو قسم اس شادی کی\nبندھوادو مجھے بھی رونے کو\nایک بیت الحزن بیکس دولہا\nاے غنچہ دہن۔۔۔\n<<DIVIDER>>\nتھا مجھکو تمہارے گھر چلنے\nلازم تھا تمہیں مل کر چلنا\nرستے ہی میں مجھکو چھوڑ گےء\nہے دور وطن بیکس دولہا\nاے غنچہ دہن۔۔۔\n<<DIVIDER>>\nیہ بے خبری مجھ سے قاسم\nچھلتے ہیں میرے پہنچے قاسم\nکھلوادو کہ الجھی جاتی ہے\nکنگنے میں رسن بیکس دولہا\nاے غنچہ دہن۔۔۔\n<<DIVIDER>>\nجاؤ شہ دیں کے پاس اٹھو\nآتے ہیں مجھے وسواس اٹھو\nسب روتے ہیں تم کو کہہ کہہ کر\nبے گور و کفن بیکس دولہا\nاے غنچہ دہن۔۔۔\n<<DIVIDER>>\nسب کہتے ہیں اب مجھکو بیوہ\nبتلاؤ مجھے یہ بات ہے کیا\nیہ لوگ مجھ ہی کو کہتے تھے\nاک شب کی دلہن بیکس دولہا\nاے غنچہ دہن۔۔۔\n<<DIVIDER>>\nدنیا میں غیور ایسا اصلہ\nانسان نے نہیں ماتم دیکھا\nلاشے پہ بنے کے کہتی تھی\nرو رو کے دلہن بیکس دولہا\nاے غنچہ دہن۔۔۔",
+  "styling": [
+    {
+      "insert": "اے غنچہ دہن بیکس دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے سیم بدن بیکس دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجرے کے لئے آی ہے اٹھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناشاد دلہن بیکس دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدنیا سے نیء یہ شادی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دونوں ہی طرف بربادی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کی بیٹی بیوہ دلہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ابنِ حسن بیکس دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے خوف مجھے ناراض نہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرضی ہے تمہاری کیا بولو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں ہاتھ میں اب کنگنا رکھوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا رکھوں رسن بیکس دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہمنام ہوں میں بھی دادی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے تم کو قسم اس شادی کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بندھوادو مجھے بھی رونے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بیت الحزن بیکس دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھا مجھکو تمہارے گھر چلنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لازم تھا تمہیں مل کر چلنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رستے ہی میں مجھکو چھوڑ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے دور وطن بیکس دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ بے خبری مجھ سے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھلتے ہیں میرے پہنچے قاسم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھلوادو کہ الجھی جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کنگنے میں رسن بیکس دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاؤ شہ دیں کے پاس اٹھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتے ہیں مجھے وسواس اٹھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب روتے ہیں تم کو کہہ کہہ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے گور و کفن بیکس دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب کہتے ہیں اب مجھکو بیوہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتلاؤ مجھے یہ بات ہے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ لوگ مجھ ہی کو کہتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک شب کی دلہن بیکس دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدنیا میں غیور ایسا اصلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انسان نے نہیں ماتم دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشے پہ بنے کے کہتی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے دلہن بیکس دولہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غنچہ دہن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shahzade Qasim (a.s)",
+  "subcategory": "شہزادے قاسم (ع)",
   "author": "Ghayour",
   "anjumans": [],
   "verified": false

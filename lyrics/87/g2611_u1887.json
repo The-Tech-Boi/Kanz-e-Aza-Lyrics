@@ -1,12 +1,456 @@
 {
   "remoteId": "g2611_u1887",
-  "title": "Karbala jaane walon",
+  "title": "کربلا جانے والوں",
   "body": "کربلا جانے والوں\n<<DIVIDER>>\nجانے والوں در عباس پہ جب تم جانا\nیہ عریضہ میرے مولا کو سنا کر آنا\n<<DIVIDER>>\nسب سے پہلے انہیں کہنا میری جانب سے سلام\nپھر یہ کہنا کہ تڑپتا ہے وطن میں وہ غلام\nکچھ نہیں لانا فقط اذن زیارت لانا\nیہ عریضہ میرے مولا۔۔۔\n<<DIVIDER>>\nکہنا ہاشم کے قمر سے یہ کرے اور کرم\nدیکھنا ہے مجھے روضوں کے بدلتے پرچم\nاس برس ماہ عزا مجھکو وہی دکھلانا\nیہ عریضہ میرے مولا۔۔۔\n<<DIVIDER>>\nکہنا حضرت سے وسائل کو کشادہ کر دے\nمیرا اس سال زرا رزق ذیادہ کر دے\nبیٹیوں بیٹوں کو ہمراہ مجھے ہے لانا\nیہ عریضہ میرے مولا۔۔۔\n<<DIVIDER>>\nکربلا پیسوں سے جاتے نہیں مجھکو ہے خبر\nتم بلاتے ہو تو مل جاتا ہے خود زادے سفر\nلکھا ہو آنا تو لگتا نہیں ایک بھی آنا\nیہ عریضہ میرے مولا۔۔۔\n<<DIVIDER>>\nچھوٹے حضرت سے یہ کہنا کہ ہے عاشور قریب\nیہ بھی کہنا کہ کیا اس سال بھی تڑپے گا غریب\nخوں کا دینا ہے واں آ کے مجھے نظرانہ\nیہ عریضہ میرے مولا۔۔۔\n<<DIVIDER>>\nان سے کہنا نہیں مانگوں گا میں آزایش و چین\nنیند جب آے گی سو جاؤں گا بین الحرمین\nکفس کو تکیہ بنا کر ہے مجھے سو جانا\nیہ عریضہ میرے مولا۔۔۔\n<<DIVIDER>>\nاربعیں کی جو بنانے لگے فہرست آقا\nنام میرا بھی سکینہ کی تصدق لکھنا\nمجھکو بھی کربلا پیدل ہے نجف سے جانا\nیہ عریضہ میرے مولا۔۔۔\n<<DIVIDER>>\nمیں اگر شام گیا پہلے تو بولوں گا یہی\nآپ کے عمو نے بھیجا ہے سکینہ پانی\nتم ابا الفضل کے سرداب کا پانی لانا\nیہ عریضہ میرے مولا۔۔۔\n<<DIVIDER>>\nکیسے زندہ رہی بن آپ کے اصغر کی بہن\nمر گیء پر نہ کھلی بچی کی گردن سے رسن\nپرسہ معصوم سکینہ کا ہے دینے آنا\nیہ عریضہ میرے مولا۔۔۔\n<<DIVIDER>>\nمیر سجاد کو نوحے کا صلہ یہ دینا\nاس برس کربوبلا آے گا جب وہ مولا\nآپ نزرانے کے بدلے میں نظر آجانا\nیہ عریضہ میرے مولا۔۔۔",
+  "styling": [
+    {
+      "insert": "کربلا جانے والوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجانے والوں در عباس پہ جب تم جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عریضہ میرے مولا کو سنا کر آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب سے پہلے انہیں کہنا میری جانب سے سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر یہ کہنا کہ تڑپتا ہے وطن میں وہ غلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ نہیں لانا فقط اذن زیارت لانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عریضہ میرے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہنا ہاشم کے قمر سے یہ کرے اور کرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھنا ہے مجھے روضوں کے بدلتے پرچم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس برس ماہ عزا مجھکو وہی دکھلانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عریضہ میرے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہنا حضرت سے وسائل کو کشادہ کر دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا اس سال زرا رزق ذیادہ کر دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیوں بیٹوں کو ہمراہ مجھے ہے لانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عریضہ میرے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا پیسوں سے جاتے نہیں مجھکو ہے خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم بلاتے ہو تو مل جاتا ہے خود زادے سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لکھا ہو آنا تو لگتا نہیں ایک بھی آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عریضہ میرے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھوٹے حضرت سے یہ کہنا کہ ہے عاشور قریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بھی کہنا کہ کیا اس سال بھی تڑپے گا غریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں کا دینا ہے واں آ کے مجھے نظرانہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عریضہ میرے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nان سے کہنا نہیں مانگوں گا میں آزایش و چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند جب آے گی سو جاؤں گا بین الحرمین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کفس کو تکیہ بنا کر ہے مجھے سو جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عریضہ میرے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاربعیں کی جو بنانے لگے فہرست آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام میرا بھی سکینہ کی تصدق لکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو بھی کربلا پیدل ہے نجف سے جانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عریضہ میرے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں اگر شام گیا پہلے تو بولوں گا یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کے عمو نے بھیجا ہے سکینہ پانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ابا الفضل کے سرداب کا پانی لانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عریضہ میرے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے زندہ رہی بن آپ کے اصغر کی بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیء پر نہ کھلی بچی کی گردن سے رسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پرسہ معصوم سکینہ کا ہے دینے آنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عریضہ میرے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیر سجاد کو نوحے کا صلہ یہ دینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس برس کربوبلا آے گا جب وہ مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ نزرانے کے بدلے میں نظر آجانا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ عریضہ میرے مولا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Mir Sajjad Mir",
   "anjumans": [],
   "verified": false

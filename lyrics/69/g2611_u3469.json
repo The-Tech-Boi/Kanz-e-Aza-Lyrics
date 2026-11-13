@@ -1,12 +1,530 @@
 {
   "remoteId": "g2611_u3469",
-  "title": "Ye kaunsi basti hai",
+  "title": "یہ کونسی بستی ہے",
   "body": "شام ہاے شام\nہے سب کی جھولیوں میں پتھر\nیہ کونسی بستی ہے فضہ\nہوتا ہے چراغاں کیوں گھر گھر\nیہ کونسی بستی ہے فضہ\nشام ہاے شام\n<<DIVIDER>>\nپوچھو تو زرا اماں ان سے\nکیوں دیکھنے ہم کو آتے ہیں\nہر سمت خوشی کا عالم ہے\nبازار سجاے جاتے ہیں\nکیوں عید کے جیسا ہے منظر\nیہ کونسی بستی ہے فضہ\nشام ہاے شام\n---ہے سب کی جھولیوں\n<<DIVIDER>>\nسجاد کی آنکھوں سے اب تک\nآنسوں ہی برستے دیکھے تھے\nاب دیکھ رہی ہوں میں اسکی\nآنکھوں سے مسلسل خوں بہتا\nپوچھو تو کسی سے یہ جا کر\nیہ کونسی بستی ہے فضہ\nشام ہاے شام\n---ہے سب کی جھولیوں\n<<DIVIDER>>\nباغی آے باغی آے\nیہ کیسی منادی ہوتی ہے\nلگتا ہے زمانے بعد کوئی\nاس شہر میں شادی ہوتی ہے\nکچھ ایسے سجاے ہیں بام و در\nیہ کونسی بستی ہے فضہ\nشام ہاے شام\n---ہے سب کی جھولیوں\n<<DIVIDER>>\nہم سب کے سروں سے بہتے ہیں\nکس واسطے یہ خوں کے دھارے\nکوئی کھولتا پانی پھینکتا ہے\nکوئی پھینک رہا ہے انگارے\nسب ملکر مارتے ہیں پتھر\nیہ کونسی بستی ہے فضہ\nشام ہاے شام\n---ہے سب کی جھولیوں\n<<DIVIDER>>\nوعدہ جو کیا تھا یثرب میں\nآتا ہے یاد وہی وعدہ\nمحسوس مجھے یہ ہوتا ہے\nتکتا ہے کوی میرا رستہ\nکیا شیریں کا ہے پاس میں گھر\nیہ کونسی بستی ہے فضہ\nشام ہاے شام\n---ہے سب کی جھولیوں\n<<DIVIDER>>\nقرآن سناتے جاتے تھے\nشبیر سر نوکِ نیزہ\nروتا تھا تکلم ابن علی\nجب پوچھتی تھی بنت زہرا\nکیوں گرتا ہے عباس کا سر\nیہ کونسی بستی ہے فضہ\nشام ہاے شام\n---ہے سب کی جھولیوں",
+  "styling": [
+    {
+      "insert": "شام ہاے شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے سب کی جھولیوں میں پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کونسی بستی ہے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتا ہے چراغاں کیوں گھر گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کونسی بستی ہے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہاے شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپوچھو تو زرا اماں ان سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں دیکھنے ہم کو آتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر سمت خوشی کا عالم ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار سجاے جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں عید کے جیسا ہے منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کونسی بستی ہے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہاے شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے سب کی جھولیوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد کی آنکھوں سے اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنسوں ہی برستے دیکھے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب دیکھ رہی ہوں میں اسکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے مسلسل خوں بہتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوچھو تو کسی سے یہ جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کونسی بستی ہے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہاے شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے سب کی جھولیوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباغی آے باغی آے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کیسی منادی ہوتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگتا ہے زمانے بعد کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس شہر میں شادی ہوتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ ایسے سجاے ہیں بام و در"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کونسی بستی ہے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہاے شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے سب کی جھولیوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم سب کے سروں سے بہتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس واسطے یہ خوں کے دھارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی کھولتا پانی پھینکتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی پھینک رہا ہے انگارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب ملکر مارتے ہیں پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کونسی بستی ہے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہاے شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے سب کی جھولیوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوعدہ جو کیا تھا یثرب میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آتا ہے یاد وہی وعدہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محسوس مجھے یہ ہوتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تکتا ہے کوی میرا رستہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا شیریں کا ہے پاس میں گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کونسی بستی ہے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہاے شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے سب کی جھولیوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقرآن سناتے جاتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر سر نوکِ نیزہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتا تھا تکلم ابن علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب پوچھتی تھی بنت زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں گرتا ہے عباس کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کونسی بستی ہے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام ہاے شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---ہے سب کی جھولیوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u3598",
-  "title": "Zameen o aasman",
+  "title": "زمین و آسمان",
   "body": "زمین و آسمان دونوں ہے لرزاں ظلم پیکاں سے\nبجھے جا رہی ہے پیاس اصغر کی رگ جاں سے\n<<DIVIDER>>\nتذبذب میں کھڑی ہے درمیان خیمہ و مقتل\nشاہ دین سوچ میں ہیں کہ کیا کہیں بشیر کی مادر\nزمین و آسمان دونوں ہے۔۔۔\n<<DIVIDER>>\nمدار کربلا تم پہ اے اصغر چلے آئو\nاجل آواز دیتی ہے مسلسل آج میداں سے\nزمین و آسمان دونوں ہے۔۔۔\n<<DIVIDER>>\nکوئی بچہ ہمک کر باپ پہ ہاتھوں پر مرتا ہے\nبگولے اٹھ رہے ہیں ہر طرف خاک و بیاباں سے\nزمین و آسمان دونوں ہے۔۔۔\n<<DIVIDER>>\nاسی کے خون سے چہرہ ہوا ہے سرخ سرور کا\nالٹ کر آستین جس کی لے آئے تھے ارماں سے\nزمین و آسمان دونوں ہے۔۔۔\n<<DIVIDER>>\nرہے گی تاقیامت القامہ شرمندہ شرمندہ\nلپٹ کر تشنگی روتی رہے گی اس کے داماں سے\nزمین و آسمان دونوں ہے۔۔۔\n<<DIVIDER>>\nرباب خستہ تن کو داغ بچوں کا بھی سہنا ہے\nکوئی چھڑائے گا کربلا میں کوئی بچھائے گا زنداں سے\nزمین و آسمان دونوں ہے۔۔۔\n<<DIVIDER>>\nعلی اصغر ہے مہ خواب شہید سینہ شہہ پر\nبدل کر نینوا کو کربلا جیسے گلستاں سے\nزمین و آسمان دونوں ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "زمین و آسمان دونوں ہے لرزاں ظلم پیکاں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بجھے جا رہی ہے پیاس اصغر کی رگ جاں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتذبذب میں کھڑی ہے درمیان خیمہ و مقتل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ دین سوچ میں ہیں کہ کیا کہیں بشیر کی مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین و آسمان دونوں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمدار کربلا تم پہ اے اصغر چلے آئو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اجل آواز دیتی ہے مسلسل آج میداں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین و آسمان دونوں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی بچہ ہمک کر باپ پہ ہاتھوں پر مرتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بگولے اٹھ رہے ہیں ہر طرف خاک و بیاباں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین و آسمان دونوں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسی کے خون سے چہرہ ہوا ہے سرخ سرور کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "الٹ کر آستین جس کی لے آئے تھے ارماں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین و آسمان دونوں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرہے گی تاقیامت القامہ شرمندہ شرمندہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لپٹ کر تشنگی روتی رہے گی اس کے داماں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین و آسمان دونوں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرباب خستہ تن کو داغ بچوں کا بھی سہنا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی چھڑائے گا کربلا میں کوئی بچھائے گا زنداں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین و آسمان دونوں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی اصغر ہے مہ خواب شہید سینہ شہہ پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بدل کر نینوا کو کربلا جیسے گلستاں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زمین و آسمان دونوں ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Shahid Jafer",
   "anjumans": [],
   "verified": false

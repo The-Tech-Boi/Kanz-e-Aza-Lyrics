@@ -1,12 +1,278 @@
 {
   "remoteId": "g2611_u1181",
-  "title": "Din dhal raha hai",
+  "title": "دن ڈھل رہا ہے",
   "body": "دن ڈھل رہا ہے پیاسی سکینہ اداس ہے\nمشک و علم کی اب بھی یتیموں کو آس ہے\n<<DIVIDER>>\nدم گھٹ رہا ہے لوٹ کے آجاؤ اب چچا\nاصغر کو تین روز سے پانی نہیں ملا\nبچے سسک رہے ہیں کیء دن کی پیاس ہے\nدن ڈھل رہا ہے۔۔۔\n<<DIVIDER>>\nرہوار سے سکینہ نے رو روکے یہ کہا\nرکھنا خیال دشت میں بابا حسین کا\nاس دشت کربلا میں یہی میری آس ہے\nدن ڈھل رہا ہے۔۔۔\n<<DIVIDER>>\nیہ رات یہ اندھیرا یہ زہرا کی بیٹیاں\nمقتل سے ایک یتیمہ کی آتی ہے سسکیاں\nکانوں سے خون بہتا ہے چہرے پہ یاس ہے\nدن ڈھل رہا ہے۔۔۔\n<<DIVIDER>>\nیہ وارث رسول ہے تجھکو خبر نہیں\nخنجر سے قتل جس کو تو کرتا ہے اے لعیں\nدلبند فاطمہ ہے یہ حق کی اساس ہے\nدن ڈھل رہا ہے۔۔۔\n<<DIVIDER>>\nخوں خوار بن میں شام غریباں بھی آ گیء\nدن میں تمام شب یہ صدا گونجتی رہی\nبابا تمہاری لاڈلی بیٹی اداس ہے\nدن ڈھل رہا ہے۔۔۔\n<<DIVIDER>>\nآؤ محب نماز مودت کریں ادا\nایمان کی دلیل ہے یہ غم حسین کا\nروتا ہے جو حسین پہ وہ حق شناس ہے\nدن ڈھل رہا ہے۔۔۔",
+  "styling": [
+    {
+      "insert": "دن ڈھل رہا ہے پیاسی سکینہ اداس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشک و علم کی اب بھی یتیموں کو آس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدم گھٹ رہا ہے لوٹ کے آجاؤ اب چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کو تین روز سے پانی نہیں ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچے سسک رہے ہیں کیء دن کی پیاس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن ڈھل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرہوار سے سکینہ نے رو روکے یہ کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھنا خیال دشت میں بابا حسین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس دشت کربلا میں یہی میری آس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن ڈھل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ رات یہ اندھیرا یہ زہرا کی بیٹیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل سے ایک یتیمہ کی آتی ہے سسکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کانوں سے خون بہتا ہے چہرے پہ یاس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن ڈھل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ وارث رسول ہے تجھکو خبر نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خنجر سے قتل جس کو تو کرتا ہے اے لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دلبند فاطمہ ہے یہ حق کی اساس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن ڈھل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوں خوار بن میں شام غریباں بھی آ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن میں تمام شب یہ صدا گونجتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا تمہاری لاڈلی بیٹی اداس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن ڈھل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآؤ محب نماز مودت کریں ادا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایمان کی دلیل ہے یہ غم حسین کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتا ہے جو حسین پہ وہ حق شناس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دن ڈھل رہا ہے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mohib Fazli",
   "anjumans": [],
   "verified": false

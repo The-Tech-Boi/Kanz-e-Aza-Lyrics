@@ -1,12 +1,604 @@
 {
   "remoteId": "g2611_u2400",
-  "title": "Mere bachon meri",
+  "title": "میرے بچوں میری",
   "body": "وہ زخمی علی اور وہ اکیسویں کی شب\nبچوں سے علی بولے قریب آؤ میرے سب\nسر باپ کا چوما تو یہ کہنے لگی زینب\nسایہ میرے بابا کا سلامت رہے یا رب\n<<DIVIDER>>\nیہ سنتے ہی منہ پھیر کے رونے لگے حیدر\nکیوں روتے ہیں جب بچوں نے یہ پوچھا لپٹ کر\nمیرے بچوں میری آخری رات ہے\n<<DIVIDER>>\nگھر میں کہرام تھا جب علی نے کہا\nمیرے بچوں میری آخری رات ہے\n<<DIVIDER>>\nکل یہی سے اٹھے گا جنازہ میرا\nمیرے بچوں میری آخری رات ہے\n<<DIVIDER>>\nجب کفن اوڑھ کر گھر سے جاؤں گا میں\nجانتا ہوں بہت یاد آؤں گا میں\nمجھکو ڈھونڈو گے حجرے میں جا کر مگر\nچاہ کر بھی تمہیں مل نہ پاؤں گا میں\nدیکھلو چہرہ جی بھر کے تم باپ کا\nمیرے بچوں میری آخری رات ہے\nگھر میں کہرام تھا۔۔۔\n<<DIVIDER>>\nحال بازار کا آیا جب رو برو\nرو کے حیدر نے بیٹوں سے کی گفتگو\nمیرے سر سے جو آیا ہے بہہ کر ابھی\nصاف کر دو میری آنکھ سے وہ لہو\nدیکھلوں میں زرا بیٹیوں کی ردا\nمیرے بچوں میری آخری رات ہے\nگھر میں کہرام تھا۔۔۔\n<<DIVIDER>>\nدیکھو عباس جب قید ہوگی بہن\nنہ ہی تم ہونگے اور نہ حسین و حسن\nمیرے سجاد کو پاس لاؤ میرے\nاس نے چلنا ہے کانٹوں پہ سہہ کر چھبھن\nبوسہ لے لوں سجاد کے پاؤں کا\nمیرے بچوں میری آخری رات ہے\nگھر میں کہرام تھا۔۔۔\n<<DIVIDER>>\nمیرے ہوتے ہوے در گرایا گیا\nفاطمہ کو طمانچہ لگایا گیا\nمر چکا تھا وہی جب میرے سامنے\nہاتھ پر تعزیہ لگایا گیا\nدفن ہو جاے اب بدن بھی میرا\nمیرے بچوں میری آخری رات ہے\nگھر میں کہرام تھا۔۔۔\n<<DIVIDER>>\nمیری ایک ضرب پر دیکھو رونا نہیں\nیاد کرنا وہ خنجر وہ جلتی زمیں\nہو گا جب ماں کی گودی میں بیٹے کا سر\nتیرہ ضربیں چلاے گا جس پر لعیں\nآخری بار میں چوم لوں وہ گلا\nمیرے بچوں میری آخری رات ہے\nگھر میں کہرام تھا۔۔۔\n<<DIVIDER>>\nجن کو کھانا کھلاتا تھا جا کر علی\nان‌ کا میرے علاوہ نہیں ہے کوئی\nتم خیال ان یتیموں کا رکھنا حسن\nبیٹھنا ساتھ جب یاد آے میری\nکل سے دوں گا انہیں کیسے میں حوصلہ\nمیرے بچوں میری آخری رات ہے\nگھر میں کہرام تھا۔۔۔\n<<DIVIDER>>\nاے رضا اور زیشان کیا وقتِ تھا\nہاتھ زینب کا شبر کو سونپا گیا\nسر جھکا کر بہت روی ام البنین\nآخری سانس میں جب علی نے کہا\nسونپ دوں غازی کو شبیر کو\nمیرے بچوں میری آخری رات ہے\nگھر میں کہرام تھا۔۔۔",
+  "styling": [
+    {
+      "insert": "وہ زخمی علی اور وہ اکیسویں کی شب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچوں سے علی بولے قریب آؤ میرے سب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر باپ کا چوما تو یہ کہنے لگی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سایہ میرے بابا کا سلامت رہے یا رب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سنتے ہی منہ پھیر کے رونے لگے حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں روتے ہیں جب بچوں نے یہ پوچھا لپٹ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بچوں میری آخری رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر میں کہرام تھا جب علی نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بچوں میری آخری رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکل یہی سے اٹھے گا جنازہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بچوں میری آخری رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب کفن اوڑھ کر گھر سے جاؤں گا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانتا ہوں بہت یاد آؤں گا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو ڈھونڈو گے حجرے میں جا کر مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاہ کر بھی تمہیں مل نہ پاؤں گا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھلو چہرہ جی بھر کے تم باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بچوں میری آخری رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں کہرام تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحال بازار کا آیا جب رو برو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو کے حیدر نے بیٹوں سے کی گفتگو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سر سے جو آیا ہے بہہ کر ابھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صاف کر دو میری آنکھ سے وہ لہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھلوں میں زرا بیٹیوں کی ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بچوں میری آخری رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں کہرام تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھو عباس جب قید ہوگی بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ ہی تم ہونگے اور نہ حسین و حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سجاد کو پاس لاؤ میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس نے چلنا ہے کانٹوں پہ سہہ کر چھبھن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بوسہ لے لوں سجاد کے پاؤں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بچوں میری آخری رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں کہرام تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے ہوتے ہوے در گرایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کو طمانچہ لگایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر چکا تھا وہی جب میرے سامنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ پر تعزیہ لگایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دفن ہو جاے اب بدن بھی میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بچوں میری آخری رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں کہرام تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری ایک ضرب پر دیکھو رونا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد کرنا وہ خنجر وہ جلتی زمیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گا جب ماں کی گودی میں بیٹے کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرہ ضربیں چلاے گا جس پر لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری بار میں چوم لوں وہ گلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بچوں میری آخری رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں کہرام تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجن کو کھانا کھلاتا تھا جا کر علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان‌ کا میرے علاوہ نہیں ہے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم خیال ان یتیموں کا رکھنا حسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹھنا ساتھ جب یاد آے میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کل سے دوں گا انہیں کیسے میں حوصلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بچوں میری آخری رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں کہرام تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے رضا اور زیشان کیا وقتِ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ زینب کا شبر کو سونپا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر جھکا کر بہت روی ام البنین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری سانس میں جب علی نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سونپ دوں غازی کو شبیر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بچوں میری آخری رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں کہرام تھا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "group": 2025,
   "author": "Zeeshan Abidi",
   "anjumans": [],

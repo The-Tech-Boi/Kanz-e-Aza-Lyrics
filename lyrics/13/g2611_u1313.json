@@ -1,12 +1,463 @@
 {
   "remoteId": "g2611_u1313",
-  "title": "Ghar chalo ay",
+  "title": "گھر چلو اے",
   "body": "گھر چلو گھر چلو اے سکینہ\nقبرِ زنداں پہ زینب پُکاری\nہو گئی ہے رہائی ہماری\nگھر چلو ۔۔۔\n<<DIVIDER>>\nپوچھتی تھی یہ ہر بار مجھ سے\nدیکھ کر آسماں کے پرندے\nپھوپھی اماں یہ مجھ کو بتا دو\nکب تلک جائیں گے ہم مدینے\nاُٹھو اُٹھو سرور کی پیاری\nگھر چلو ۔۔۔\n<<DIVIDER>>\nکان زخمی ہیں اب تک ہمارے\nاُٹھو مرہم اُنہیں میں لگادوں\nگر تم نہ ساتھ آئو ہمارے\nکیسے غازی کو چہرہ دیکھائوں\nاپنے عموں کی تم ہو دُلاری\nگھر چلو ۔۔۔\n<<DIVIDER>>\nہے غضب کا اندھیرا یہاں پر\nاور کسی سمت اُجالا نہیں ہے\nہے پرائی یہ بستی یہاں کی\nکوئی غمخوار اپنا نہیں ہے\nہو گئی یہ پھوپھی تم پہ واری\nگھر چلو ۔۔۔\n<<DIVIDER>>\nاب تو پیدل بھی تم نہ چلو گی\nاور نہ ظلم و ستم کو سہو گی\nنہ رسن کوئی باندھے گا تم کو\nاور نہ ہاتھوں سے پردہ کرو گی\nمل گئی ہے جو چادر تمہاری\nگھر چلو ۔۔۔\n<<DIVIDER>>\nجب میں جائوں گی اپنے وطن کو\nاُجڑے گھر کو میں سہہ نہ سکوں گی\nمیری معصومع میری سکینہ\nیہ بتائو اُسے کیا کہوں گی\nتم کو پوچھے جو بہنا تمہاری\nگھر چلو ۔۔۔\n<<DIVIDER>>\nکربلا کی زمیں پہ ہے ا صغر\nاور ساتھ اُس کے سوئے ہیں سرور\nکون دلاسا اُسے دے گا دلبر\nجو یہاں سو گئی ہو زمیں پر\nمر نہ جائے یہ مادر تمہاری\nگھر چلو ۔۔۔\n<<DIVIDER>>\nقید ِ زنداں سے ہائے احمد\nاب تلک بھی رہا ہو نہ پائی\nشہ کی اس لادلی کو اے محسن\nیہ زمین کس طرح راس آئی\nکہہ رہی تھی پھوپھی غم کی ماری\nگھر چلو ۔۔۔",
+  "styling": [
+    {
+      "insert": "گھر چلو گھر چلو اے سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبرِ زنداں پہ زینب پُکاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گئی ہے رہائی ہماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپوچھتی تھی یہ ہر بار مجھ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر آسماں کے پرندے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھوپھی اماں یہ مجھ کو بتا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب تلک جائیں گے ہم مدینے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھو اُٹھو سرور کی پیاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکان زخمی ہیں اب تک ہمارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھو مرہم اُنہیں میں لگادوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر تم نہ ساتھ آئو ہمارے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے غازی کو چہرہ دیکھائوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے عموں کی تم ہو دُلاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے غضب کا اندھیرا یہاں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور کسی سمت اُجالا نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے پرائی یہ بستی یہاں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی غمخوار اپنا نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گئی یہ پھوپھی تم پہ واری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب تو پیدل بھی تم نہ چلو گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور نہ ظلم و ستم کو سہو گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ رسن کوئی باندھے گا تم کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور نہ ہاتھوں سے پردہ کرو گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مل گئی ہے جو چادر تمہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب میں جائوں گی اپنے وطن کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُجڑے گھر کو میں سہہ نہ سکوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری معصومع میری سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ بتائو اُسے کیا کہوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو پوچھے جو بہنا تمہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا کی زمیں پہ ہے ا صغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ساتھ اُس کے سوئے ہیں سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کون دلاسا اُسے دے گا دلبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو یہاں سو گئی ہو زمیں پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر نہ جائے یہ مادر تمہاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقید ِ زنداں سے ہائے احمد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تلک بھی رہا ہو نہ پائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کی اس لادلی کو اے محسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ زمین کس طرح راس آئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہہ رہی تھی پھوپھی غم کی ماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر چلو ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Zulfiqar Ahmed",
   "anjumans": [],
   "verified": false

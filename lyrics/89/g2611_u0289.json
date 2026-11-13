@@ -1,12 +1,334 @@
 {
   "remoteId": "g2611_u0289",
-  "title": "Abid ki zanjeer",
+  "title": "عابد کی زنجیر",
   "body": "یہ کیسی رہائی ہے\n<<DIVIDER>>\nعابد کی زنجیر اتاری جاتی ہے\nروح سکینہ صدقے واری جاتی ہے\n<<DIVIDER>>\nبھای کی تربت پر گرتی ہے ناقے سے\nقبر پہ جب زینب کی سواری جاتی ہے\nعابد کی زنجیر۔۔۔\n<<DIVIDER>>\nزنداں کی تکلیف سکینہ سے پوچھو\nکیسے یہاں پر رات گزاری جاتی ہے\nعابد کی زنجیر۔۔۔\n<<DIVIDER>>\nڈھونڈنے تربت مقتل میں ششماہے کی\nگھٹنیوں چل کر ماں بیچاری جاتی ہے\nعابد کی زنجیر۔۔۔\n<<DIVIDER>>\nعابد کے پیروں کا ورم جاتا ہی نہیں\nساتھ لحد تک یہ بیماری جاتی ہے\nعابد کی زنجیر۔۔۔\n<<DIVIDER>>\nاصغر کی میت ایک ایسی میت ہے\nقبر میں جو دو بار اتاری جاتی ہے\nعابد کی زنجیر۔۔۔\n<<DIVIDER>>\nروتی ہے دربار میں غازی کی غیرت\nزینب لے کر نام پکاری جاتی ہے\nعابد کی زنجیر۔۔۔\n<<DIVIDER>>\nتڑپتی ہے عون و محمد کی یادیں\nجب ہجروں میں ماں دکھیاری جاتی ہے\nعابد کی زنجیر۔۔۔\n<<DIVIDER>>\nپشت پہ عابد کی دروں سے شام تلک\nظلم کی ایک تصویر ابھاری جاتی ہے\nعابد کی زنجیر۔۔۔\n<<DIVIDER>>\nآمیر و اختر اشک نہ روکو نوحے میں\nجنت تک آواز تمہاری جاتی ہے\nعابد کی زنجیر۔۔۔",
+  "styling": [
+    {
+      "insert": "یہ کیسی رہائی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعابد کی زنجیر اتاری جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روح سکینہ صدقے واری جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای کی تربت پر گرتی ہے ناقے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر پہ جب زینب کی سواری جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنداں کی تکلیف سکینہ سے پوچھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے یہاں پر رات گزاری جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈھونڈنے تربت مقتل میں ششماہے کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹنیوں چل کر ماں بیچاری جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعابد کے پیروں کا ورم جاتا ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ لحد تک یہ بیماری جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر کی میت ایک ایسی میت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر میں جو دو بار اتاری جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتی ہے دربار میں غازی کی غیرت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب لے کر نام پکاری جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتڑپتی ہے عون و محمد کی یادیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ہجروں میں ماں دکھیاری جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپشت پہ عابد کی دروں سے شام تلک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظلم کی ایک تصویر ابھاری جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآمیر و اختر اشک نہ روکو نوحے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنت تک آواز تمہاری جاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کی زنجیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Zain-ul-Abedeen (a.s)",
+  "subcategory": "مولا سجّاد (ع)",
   "author": "Akhtar Sirsvi",
   "anjumans": [],
   "verified": false

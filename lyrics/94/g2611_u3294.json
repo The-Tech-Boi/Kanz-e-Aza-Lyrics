@@ -1,12 +1,558 @@
 {
   "remoteId": "g2611_u3294",
-  "title": "Waada karo ay",
+  "title": "وعدہ کرو اے",
   "body": "اے بہن زینب\nوعدہ کرو وعدہ کرو\nاے بہن زینب\n<<DIVIDER>>\nأہل حرم کو کل سے بہن\nعباس بن کر سنبھالو گی نہ\nوعدہ کرو وعدہ کرو\nاے بہن زینب\n<<DIVIDER>>\nاحسان مجھ پر اتنا کرو\nمیرے سرہانے بیٹھی رہو\nکیا سوچتی ہو مجھ سے کہو\nمیری وصیت بھی سنتی رہو\nتم مجھ کو رو لو میرے سامنے\nکل سے یہ آنسوں چھپاؤ گی نہ\nوعدہ کرو۔۔۔\n<<DIVIDER>>\nجب بیکسی کے ماحول پر\nشام غریباں چھانے لگے\nنانا کی امت جب اے بہن\nخیمے ہمارے جلانے لگے\nجل جائے مسند میری مگر\nعابد کو میرے بچاؤ گی نہ\nوعدہ کرو۔۔۔\n<<DIVIDER>>\nنزدیک میرے آؤ زرا\nدیکھو نہ سن‌ لے سکینہ کہیں\nجاؤ گی جب قید خانے میں تم\nبچھڑے گی تم سے یہ بچی وہی\nزندان میں تم بندھے ہاتھ سے\nقبر سکینہ بناؤ گی نہ\nوعدہ کرو۔۔۔\n<<DIVIDER>>\nبے گور ہوگا میرا بدن\nخاک شفا ہو گی میرا کفن\nدیکھو رونا نہیں چین کھونا نہیں\nتم کو مل جائے چادر یہ ہونا نہیں\nتم اپنی چادر پیاری بہن\nخاک شفا کو بناؤ گی نہ\nوعدہ کرو۔۔۔\n<<DIVIDER>>\nاپنے ہی ہاتھوں پہ لایا تھا میں\nلاشہ حسن کا تیروں بھرا\nمیت کی بھای سے روتے ہوئے\nتم نے نکالے تھے تیر جفا\nویسے ہی میرے لاشے سے تم\nتیروں کو آ کر نکالو گی نہ\nوعدہ کرو۔۔۔\n<<DIVIDER>>\nآنکھوں میں اس کے کیء خواب ہے\nتم جانتی ہو وہ حساس ہے\nجو منتظر ہے دہلیز پر\nاس کو جدای کے احساس ہے\nزینب ہماری مجبوریاں\nصغرا کو جا کر بتاؤ گی نہ\nوعدہ کرو۔۔۔\n<<DIVIDER>>\nسن کر وصیت شبیر کی\nہاے تکلم وہ روتی رہی\nارمان آواز ابنِ علی\nیہ کہتے کہتے تھم سے گیء\nپیاسوں کو پانی پلاؤ گی نہ\nفرش عزا تم بچھاؤ گی نہ\nوعدہ کرو۔۔۔",
+  "styling": [
+    {
+      "insert": "اے بہن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ کرو وعدہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بہن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nأہل حرم کو کل سے بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس بن کر سنبھالو گی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ کرو وعدہ کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے بہن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاحسان مجھ پر اتنا کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سرہانے بیٹھی رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا سوچتی ہو مجھ سے کہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری وصیت بھی سنتی رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم مجھ کو رو لو میرے سامنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کل سے یہ آنسوں چھپاؤ گی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب بیکسی کے ماحول پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں چھانے لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا کی امت جب اے بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے ہمارے جلانے لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جل جائے مسند میری مگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد کو میرے بچاؤ گی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنزدیک میرے آؤ زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو نہ سن‌ لے سکینہ کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاؤ گی جب قید خانے میں تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچھڑے گی تم سے یہ بچی وہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندان میں تم بندھے ہاتھ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر سکینہ بناؤ گی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے گور ہوگا میرا بدن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک شفا ہو گی میرا کفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو رونا نہیں چین کھونا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم کو مل جائے چادر یہ ہونا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم اپنی چادر پیاری بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک شفا کو بناؤ گی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے ہی ہاتھوں پہ لایا تھا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشہ حسن کا تیروں بھرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میت کی بھای سے روتے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم نے نکالے تھے تیر جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویسے ہی میرے لاشے سے تم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیروں کو آ کر نکالو گی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھوں میں اس کے کیء خواب ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم جانتی ہو وہ حساس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو منتظر ہے دہلیز پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کو جدای کے احساس ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب ہماری مجبوریاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا کو جا کر بتاؤ گی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسن کر وصیت شبیر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے تکلم وہ روتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ارمان آواز ابنِ علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کہتے کہتے تھم سے گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسوں کو پانی پلاؤ گی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش عزا تم بچھاؤ گی نہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وعدہ کرو۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u2292",
-  "title": "Masjid e kufa",
+  "title": "مسجد کوفہ",
   "body": "مسجد کوفہ سے لوگوں آ رہی ہے یہ صدا\nجو نبی کا جانشیں تھا وہ علی مارا گیا\n<<DIVIDER>>\nجس کی آمد کے لئے دیوار کعبہ شق ہوئی\nحالتِ سجدہ میں اس کا خون مسجد میں بہا\nمسجد کوفہ سے لوگوں۔۔۔\n<<DIVIDER>>\nسازش اہل سقیفہ کام اپنا کر گیء\nآج سجدے میں علی پر چل گیء جفا\nمسجد کوفہ سے لوگوں۔۔۔\n<<DIVIDER>>\nکوفیوں خوشیاں مناؤ قتل حیدر ہو گیا\nخانۂ زہرا میں لیکن آج ہے ماتم بپا\nمسجد کوفہ سے لوگوں۔۔۔\n<<DIVIDER>>\nکس طرح زینب نے سن لی یہ قیامت کی خبر\nحوصلہ بی بی کو کوئی دینے والا بھی نہ تھا\nمسجد کوفہ سے لوگوں۔۔۔\n<<DIVIDER>>\nانبیاء نوحہ کناں ہے روتے ہیں جن و بشر\nجا رہا ہے آج دنیا سے علی شیر خدا\nمسجد کوفہ سے لوگوں۔۔۔\n<<DIVIDER>>\nمومنوں تم آج مل کر پرسہ دو حسنین کو\nاٹھ گیا ہے ان کے سر سے آج سایہ باپ کا\nمسجد کوفہ سے لوگوں۔۔۔\n<<DIVIDER>>\nجعفری مشکل کشا کے قتل کا نوحہ ہے یہ\nجو مصلے پر اسی کے خون سے لکھا گیا\nمسجد کوفہ سے لوگوں۔۔۔",
+  "styling": [
+    {
+      "insert": "مسجد کوفہ سے لوگوں آ رہی ہے یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو نبی کا جانشیں تھا وہ علی مارا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس کی آمد کے لئے دیوار کعبہ شق ہوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حالتِ سجدہ میں اس کا خون مسجد میں بہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کوفہ سے لوگوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسازش اہل سقیفہ کام اپنا کر گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج سجدے میں علی پر چل گیء جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کوفہ سے لوگوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوفیوں خوشیاں مناؤ قتل حیدر ہو گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خانۂ زہرا میں لیکن آج ہے ماتم بپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کوفہ سے لوگوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح زینب نے سن لی یہ قیامت کی خبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حوصلہ بی بی کو کوئی دینے والا بھی نہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کوفہ سے لوگوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانبیاء نوحہ کناں ہے روتے ہیں جن و بشر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا رہا ہے آج دنیا سے علی شیر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کوفہ سے لوگوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمومنوں تم آج مل کر پرسہ دو حسنین کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھ گیا ہے ان کے سر سے آج سایہ باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کوفہ سے لوگوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجعفری مشکل کشا کے قتل کا نوحہ ہے یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو مصلے پر اسی کے خون سے لکھا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسجد کوفہ سے لوگوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "anjumans": [],
   "verified": false
 }

@@ -1,12 +1,635 @@
 {
   "remoteId": "g2611_u1096",
-  "title": "Chehlum karo",
+  "title": "چہلم کرو",
   "body": "غریب زہرا کے نوکر یہ عاشقانِ عزا\nراہ وفا پہ چلے ہیں مسافران عزا\nدعائے فاطمہ زہرا کے سایباں کی طرح\nچلا ہے جانب منزل یہ کاروانِ عزا\n<<DIVIDER>>\nسلام زایران حسین\nسلام عاشقانِ حسین\nسفر عشقِ حسین\n<<DIVIDER>>\nحسینیوں تمہیں کربوبلا بلاتی ہے\nسفر عشق پر چلو ساتھ میرے حسینیوں\nسنت بی بی زینب کو پورا کرو\nھل من کی صدا پر لبیک کہو\nلبیک یا حسین\nرسم سجاد پوری کرو\nکربلا کے شہیدوں کا\nچہلم کرو کربلا میں\n<<DIVIDER>>\nزایران حسین کربلا کا یہ غم\nدل میں زندہ رہے ایک پل نہ ہو کم\nسال بھر مجلس ہو اور رہے آنکھ نم\nبعد عاشور ہاتھوں میں لے کر الم\nقافلہ اک ترتیب دو\nکربلا کے شہیدوں کا\nچہلم کرو کربلا میں\n<<DIVIDER>>\nجس کی چادر کو تم روے ہو عمر بھر\nجس کا اک روز میں لٹ گیا سارا گھر\nاپنی مرقد میں کہتی ہے وہ نوحہ گر\nمیں بھی جاتی ہوں تم بھی کرو یہ سفر\nحکم زینب کی تکمیل ہو\nکربلا کے شہیدوں کا\nچہلم کرو کربلا میں\n<<DIVIDER>>\nصبر کا وہ خدا یعنی زین العبا\nپہن کر بیڑیاں خون روتا رہا\nکربلا سے سوے شام پیدل گیا\nچھٹ کے زنداں سے پھر سوے کربلا\nجس طرح وہ چلا تم چلو\nکربلا کے شہیدوں کا\nچہلم کرو کربلا میں\n<<DIVIDER>>\nباپ کی یاد میں دل جلاتی ہے وہ\nقید خانے میں غم یوں مناتی ہے وہ\nاپنے بابا کو اب بھی بلاتی ہے وہ\nکرنے چہلم سوے دشت جاتی ہے وہ\nگر سکینہ کے غم خوار ہو\nکربلا کے شہیدوں کا\nچہلم کرو کربلا میں\n<<DIVIDER>>\nہے سفر عشق کا ایک مسلسل سفر\nقریہ قریہ سفر صحرا جنگل سفر\nسخت گرمی ہو دن رات پیدل سفر\nکربلا تک نجف سے وہ پیدل سفر\nمیرے ہمراہ تم بھی کرو\nکربلا کے شہیدوں کا\nچہلم کرو کربلا میں\n<<DIVIDER>>\nدور ہوگی تھکن اس گھڑی اہل غم\nکربلا میں رکھوگے جو پہلا قدم\nہوگی پیش نظر قبر شاہ امم\nاک ماں کی فغاں سن کے روےنگے ہم\nمیرے زخموں کا مرحم بنو\nکربلا کے شہیدوں کا\nچہلم کرو کربلا میں\n<<DIVIDER>>\nعاشقانِ حسین عشق ایمان ہے\nعشق کا یہ سفر دل ہے اور جان ہے\nہاں یہ عرفان و مظہر کا علان ہے\nبنت زہرا کا زہرا کا ارمان ہے\nان کا ارمان پورا کرو\nکربلا کے شہیدوں کا\nچہلم کرو کربلا میں",
+  "styling": [
+    {
+      "insert": "غریب زہرا کے نوکر یہ عاشقانِ عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راہ وفا پہ چلے ہیں مسافران عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعائے فاطمہ زہرا کے سایباں کی طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلا ہے جانب منزل یہ کاروانِ عزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسلام زایران حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلام عاشقانِ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر عشقِ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسینیوں تمہیں کربوبلا بلاتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سفر عشق پر چلو ساتھ میرے حسینیوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنت بی بی زینب کو پورا کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ھل من کی صدا پر لبیک کہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لبیک یا حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسم سجاد پوری کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کے شہیدوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرو کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزایران حسین کربلا کا یہ غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں زندہ رہے ایک پل نہ ہو کم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سال بھر مجلس ہو اور رہے آنکھ نم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد عاشور ہاتھوں میں لے کر الم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ اک ترتیب دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کے شہیدوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرو کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس کی چادر کو تم روے ہو عمر بھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کا اک روز میں لٹ گیا سارا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی مرقد میں کہتی ہے وہ نوحہ گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں بھی جاتی ہوں تم بھی کرو یہ سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حکم زینب کی تکمیل ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کے شہیدوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرو کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصبر کا وہ خدا یعنی زین العبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہن کر بیڑیاں خون روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا سے سوے شام پیدل گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھٹ کے زنداں سے پھر سوے کربلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس طرح وہ چلا تم چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کے شہیدوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرو کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ کی یاد میں دل جلاتی ہے وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں غم یوں مناتی ہے وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا کو اب بھی بلاتی ہے وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرنے چہلم سوے دشت جاتی ہے وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گر سکینہ کے غم خوار ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کے شہیدوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرو کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے سفر عشق کا ایک مسلسل سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قریہ قریہ سفر صحرا جنگل سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سخت گرمی ہو دن رات پیدل سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا تک نجف سے وہ پیدل سفر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے ہمراہ تم بھی کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کے شہیدوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرو کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدور ہوگی تھکن اس گھڑی اہل غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا میں رکھوگے جو پہلا قدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی پیش نظر قبر شاہ امم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک ماں کی فغاں سن کے روےنگے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے زخموں کا مرحم بنو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کے شہیدوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرو کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعاشقانِ حسین عشق ایمان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عشق کا یہ سفر دل ہے اور جان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں یہ عرفان و مظہر کا علان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بنت زہرا کا زہرا کا ارمان ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان کا ارمان پورا کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کے شہیدوں کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چہلم کرو کربلا میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Arbayeen",
+  "subcategory": "اربعین",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

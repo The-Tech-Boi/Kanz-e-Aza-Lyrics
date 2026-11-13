@@ -1,12 +1,450 @@
 {
   "remoteId": "g2611_u1363",
-  "title": "Goonj rahi hai ya",
+  "title": "گونج رہی ہے یا",
   "body": "میرے لہو کے ہر قطرے میں\nگونج رہا ہے یاحسین\nاب تو سب کا ورد زباں بھی\nرہنے لگا ہے یاحسین\n<<DIVIDER>>\nآپ کی کیا شان ہے مولا\nبولتا قرآن ہے مولا\nفاطمہ کی جان ہے مولا\nمرضیئِ سبحان ہے مولا\nمیرے لہو کے ہر۔۔۔\n<<DIVIDER>>\nکربلا کا فاتحِ اعظم\nباخدا ہے وارثِ آدم\nجا بجا پھیلے تیرے پرچم\nتاابد ہوگا تیرا ماتم\nمیرے لہو کے ہر۔۔۔\n<<DIVIDER>>\nتین دن کی تشنگی مولا\nہائے تیری بے کسی مولا\nخشک گردن پر چھری مولا\nکربلا کہتی رہی مولا\nمیرے لہو کے ہر۔۔۔\n<<DIVIDER>>\nکس طرح بھولینگے وہ منظر\nجب چلا تھا حلق پہ خنجر\nجب سنا کی نوک پہ تھا سر\nبول اُٹھا قرآں تیرے لب پر\nمیرے لہو کے ہر۔۔۔\n<<DIVIDER>>\nیہ سبیلیں یہ عزاخانے\nآنکھ میں اشکوں کے پیمانے\nماتمی لائے ہیں نزرانے\nاب جنابِ سیدہ جانے\nمیرے لہو کے ہر۔۔۔\n<<DIVIDER>>\nیہ تیری مولا عزاداری\nزندگی سے بھی ہمیں پیاری\nہے یہی تجھ سے وفاداری\nاشک آنکھوںسے رہیں جاری\nمیرے لہو کے ہر۔۔۔\n<<DIVIDER>>\nوارثِ قرآن زندہ باد\nرہبرِ انسان زندہ باد\nمظہرِ ایمان زندہ باد\nفاطمہ کی جان زندہ باد\nمیرے لہو کے ہر۔۔۔\n<<DIVIDER>>\nاسّلام اے کشتہئ خنجر\nاسّلام اے مالکِ کوثر\nاسّلام اے جانِ پیغمبر\nکہتے ہیں ریحان اور سرور\nمیرے لہو کے ہر۔۔۔",
+  "styling": [
+    {
+      "insert": "میرے لہو کے ہر قطرے میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونج رہا ہے یاحسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو سب کا ورد زباں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہنے لگا ہے یاحسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآپ کی کیا شان ہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولتا قرآن ہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کی جان ہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مرضیئِ سبحان ہے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے لہو کے ہر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا کا فاتحِ اعظم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باخدا ہے وارثِ آدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا بجا پھیلے تیرے پرچم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تاابد ہوگا تیرا ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے لہو کے ہر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتین دن کی تشنگی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے تیری بے کسی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خشک گردن پر چھری مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کہتی رہی مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے لہو کے ہر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح بھولینگے وہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب چلا تھا حلق پہ خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب سنا کی نوک پہ تھا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بول اُٹھا قرآں تیرے لب پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے لہو کے ہر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ سبیلیں یہ عزاخانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھ میں اشکوں کے پیمانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماتمی لائے ہیں نزرانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب جنابِ سیدہ جانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے لہو کے ہر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ تیری مولا عزاداری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندگی سے بھی ہمیں پیاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے یہی تجھ سے وفاداری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشک آنکھوںسے رہیں جاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے لہو کے ہر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوارثِ قرآن زندہ باد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہبرِ انسان زندہ باد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مظہرِ ایمان زندہ باد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاطمہ کی جان زندہ باد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے لہو کے ہر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسّلام اے کشتہئ خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسّلام اے مالکِ کوثر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسّلام اے جانِ پیغمبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتے ہیں ریحان اور سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے لہو کے ہر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

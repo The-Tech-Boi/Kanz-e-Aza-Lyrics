@@ -1,12 +1,405 @@
 {
   "remoteId": "g2611_u0561",
-  "title": "Asghar mai teri maa",
+  "title": "اصغر میں تیری ماں",
   "body": "آجا اصغر آجا اصغر\nاصغر میں تیری ماں ہوں\n<<DIVIDER>>\nآجاؤ چاند میرے تیرے پیاس میں بجھاؤں\nاصغر میں تیری ماں ہوں\nمیرے لاڈلے کہاں ہوسینے تمہیں لگاؤں\nاصغر میں تیری ماں ہوں\n<<DIVIDER>>\nبیٹا تمہارا قاتل میرے سامنے کھڑا ہے\nجانے کیوں ہنس رہا ہے\nچادر بھی لٹ چکی ہے\nمنہ کس طرح چھپاؤں\nاصغر میں تیری ماں ہوں\n…آجاؤ چاند میرے\n<<DIVIDER>>\nتیرے جھولےکو سکینہ رورو کے چومتی ہے\nتجھے گھر میں ڈھونڈتی ہے\nتیری موت کی خبر میں کیسے اسے سناؤں\nاصغر میں تیری ماں ہوں\n…آجاؤ چاند میرے\n<<DIVIDER>>\nمیری جان جا رہی ہے یہ سوچ سوچ اصغر\nاس پھول سے گلے پر یہ تیر کیسے جھیلا\nبہنوں کو کیا بتاؤں\nاصغر میں تیری ماں ہوں\n…آجاؤ چاند میرے\n<<DIVIDER>>\nنیزے سے گر رہا ہے ننھا سا سر تمہارا\nدل روتا ہے ہمارا میرے ہاتھ تو بندھے ہیں\nسر کس طرح اٹھاؤں\nاصغر میں تیری ماں ہوں\n…آجاؤ چاند میرے\n<<DIVIDER>>\nجھولےکےساتھ بیٹا میرے ہاتھ جل گئے ہیں\nظالم بھی ہنس رہے ہیں تیری آخری نشانی\nکسطرح سے بچاؤں اصغر میں تیری ماں ہوں\n…آجاؤ چاند میرے\n<<DIVIDER>>\nجب رات ہوگی رن میں ہو جائے گا اندھیرا\nڈر نا نہیں اے بیٹا دادی کہیں گی تم سے\nآ میں تجھے سلاؤں اصغر میں تیری ماں ہوں\n…آجاؤ چاند میرے\n<<DIVIDER>>\nتم رات کو ہمیشہ سنتے تھے ماں سے لوری\nاب نیند آتی ہوگی پھر گود میں لٹا کر\nناد علی سناؤں اصغر میں تیری ماں ہوں\n…آجاؤ چاند میرے>",
+  "styling": [
+    {
+      "insert": "آجا اصغر آجا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر میں تیری ماں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآجاؤ چاند میرے تیرے پیاس میں بجھاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر میں تیری ماں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے لاڈلے کہاں ہوسینے تمہیں لگاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر میں تیری ماں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹا تمہارا قاتل میرے سامنے کھڑا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے کیوں ہنس رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چادر بھی لٹ چکی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "منہ کس طرح چھپاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر میں تیری ماں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…آجاؤ چاند میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے جھولےکو سکینہ رورو کے چومتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تجھے گھر میں ڈھونڈتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری موت کی خبر میں کیسے اسے سناؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر میں تیری ماں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…آجاؤ چاند میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری جان جا رہی ہے یہ سوچ سوچ اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس پھول سے گلے پر یہ تیر کیسے جھیلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہنوں کو کیا بتاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر میں تیری ماں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…آجاؤ چاند میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزے سے گر رہا ہے ننھا سا سر تمہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل روتا ہے ہمارا میرے ہاتھ تو بندھے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کس طرح اٹھاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر میں تیری ماں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…آجاؤ چاند میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجھولےکےساتھ بیٹا میرے ہاتھ جل گئے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالم بھی ہنس رہے ہیں تیری آخری نشانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسطرح سے بچاؤں اصغر میں تیری ماں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…آجاؤ چاند میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب رات ہوگی رن میں ہو جائے گا اندھیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈر نا نہیں اے بیٹا دادی کہیں گی تم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ میں تجھے سلاؤں اصغر میں تیری ماں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…آجاؤ چاند میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتم رات کو ہمیشہ سنتے تھے ماں سے لوری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نیند آتی ہوگی پھر گود میں لٹا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ناد علی سناؤں اصغر میں تیری ماں ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "…آجاؤ چاند میرے>"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Akhtar Hussain",
   "anjumans": [],
   "verified": false

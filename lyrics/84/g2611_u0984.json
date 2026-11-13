@@ -1,12 +1,424 @@
 {
   "remoteId": "g2611_u0984",
-  "title": "Betiyon ke saamne",
+  "title": "بیٹیوں کے سامنے",
   "body": "گھر ہوا ویران ہوگےء ہم یتیم\nبابا بابا بابا\n<<DIVIDER>>\nبیٹیوں کے سامنے اٹھا جنازہ باپ کا\nپارہ پارہ کر گیا دل ہاے صدمہ باپ کا\n<<DIVIDER>>\nآنسوؤں میں درد و غم کا بھی سفر دیکھے کوئی\nجا کے ان بچوں کے دل کی کیفیت پوچھے کوئی\nجن کے سر سے ہاے اٹھ جاتا ہے سایہ باپ کا\nبیٹیوں کے سامنے۔۔۔\n<<DIVIDER>>\nاوڑھ کے چادر کفن کی زیر تربت سوےنگے\nباپ کو دے کر صدا غربت میں بچے روےنگے\nفرش ماتم گھر میں اب بچھتا رہے گا باپ کا\nبیٹیوں کے سامنے۔۔۔\n<<DIVIDER>>\nخون سے پوشاک تر تھی اور چہرہ زرد تھا\nسر پہ گہرا زخم تھا بے چین تھے شیر خدا\nبیٹیوں نے کس طرح دیکھا تڑپنا باپ کا\nبیٹیوں کے سامنے۔۔۔\n<<DIVIDER>>\nماں کی ٹوٹی پسلیوں کا غم ابھی بھولے نہ تھے\nباپ کے ساے سے بھی مہروم بچے ہو گےء\nاب نہ مل پاے گا کوفے میں سہارا باپ کا\nبیٹیوں کے سامنے۔۔۔\n<<DIVIDER>>\nاب جدائی کی چھری چلتی رہے گی قلب پر\nیاد میں روےنگے بچے سونا حجرہ دیکھ کر\nگھر میں اب ممکن نہیں پھر سے پلٹنا باپ کا\nبیٹیوں کے سامنے۔۔۔\n<<DIVIDER>>\nآنکھوں سے آنسوں رواں ہے دل پہ صدمہ ہے بڑا\nصاف کرتی ہے لہو چادر سے زینب زخم کا\nخون میں ڈوبا ہوا ہے آج چہرہ باپ کا\nبیٹیوں کے سامنے۔۔۔\n<<DIVIDER>>\nزخم یہ ایسا ہے ممکن جس کا مرہم ہی نہیں\nباپ کی فرقت کے غم جیسا کوئی غم ہی نہیں\nعمر بھر کانوں میں اب گونجے گا لہجہ باپ کا\nبیٹیوں کے سامنے۔۔۔\n<<DIVIDER>>\nخاک اڑا کر آنکھوں سے خونِ جگر برساے گی\nہاے بابا کہہ کے زینب خاک پر گر جاے گی\nخوں بھرا جب جب بھی دیکھے گی عمامہ باپ کا\nبیٹیوں کے سامنے۔۔۔\n<<DIVIDER>>\nکم‌ نہیں ہوتا ہے اے ریحان کچھ رنج و ملال\nزندگی بھر درد رہتا ہے بچھڑنے کا ہلال\nہوتا ہے بچوں کے دل پر ایسا صدمہ باپ کا\nبیٹیوں کے سامنے۔۔۔",
+  "styling": [
+    {
+      "insert": "گھر ہوا ویران ہوگےء ہم یتیم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا بابا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹیوں کے سامنے اٹھا جنازہ باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پارہ پارہ کر گیا دل ہاے صدمہ باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنسوؤں میں درد و غم کا بھی سفر دیکھے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جا کے ان بچوں کے دل کی کیفیت پوچھے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جن کے سر سے ہاے اٹھ جاتا ہے سایہ باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیوں کے سامنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاوڑھ کے چادر کفن کی زیر تربت سوےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کو دے کر صدا غربت میں بچے روےنگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش ماتم گھر میں اب بچھتا رہے گا باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیوں کے سامنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون سے پوشاک تر تھی اور چہرہ زرد تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پہ گہرا زخم تھا بے چین تھے شیر خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیوں نے کس طرح دیکھا تڑپنا باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیوں کے سامنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں کی ٹوٹی پسلیوں کا غم ابھی بھولے نہ تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کے ساے سے بھی مہروم بچے ہو گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہ مل پاے گا کوفے میں سہارا باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیوں کے سامنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب جدائی کی چھری چلتی رہے گی قلب پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد میں روےنگے بچے سونا حجرہ دیکھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر میں اب ممکن نہیں پھر سے پلٹنا باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیوں کے سامنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھوں سے آنسوں رواں ہے دل پہ صدمہ ہے بڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صاف کرتی ہے لہو چادر سے زینب زخم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون میں ڈوبا ہوا ہے آج چہرہ باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیوں کے سامنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخم یہ ایسا ہے ممکن جس کا مرہم ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کی فرقت کے غم جیسا کوئی غم ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمر بھر کانوں میں اب گونجے گا لہجہ باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیوں کے سامنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاک اڑا کر آنکھوں سے خونِ جگر برساے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے بابا کہہ کے زینب خاک پر گر جاے گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں بھرا جب جب بھی دیکھے گی عمامہ باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیوں کے سامنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکم‌ نہیں ہوتا ہے اے ریحان کچھ رنج و ملال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندگی بھر درد رہتا ہے بچھڑنے کا ہلال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتا ہے بچوں کے دل پر ایسا صدمہ باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیوں کے سامنے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Hilal Rizvi",
   "anjumans": [],
   "verified": false

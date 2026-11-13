@@ -1,12 +1,455 @@
 {
   "remoteId": "g2611_u1872",
-  "title": "Kar rahi hai lehad se",
+  "title": "کر رہی ہے لحد سے",
   "body": "ظلم جب بھی تھا اب بھی ہے مجھ پر یہاں\nبابا جاں بابا جاں\n<<DIVIDER>>\nکر رہی ہے لحد سے سکینہ فغاں\nبابا جاں بابا جاں\n<<DIVIDER>>\nجلد بھجوایےء اب علمدار کو\nبدلہ لینا ہے کربل کے غم خوار کو\nروکے یہ کہہ رہی ہے میری دادی جاں\nبابا جاں بابا جاں\nکر رہی ہے لحد سے۔۔۔\n<<DIVIDER>>\nیہ وہی نسل ہے جس نے بے شیر کی\nکھودی ننھی لحد میرے دلگیر کی\nاب مزاروں کو توڑے نگے ظالم یہاں\nبابا جاں بابا جاں\nکر رہی ہے لحد سے۔۔۔\n<<DIVIDER>>\nتوڑ ڈالی لحد تیرے غم خوار کی\nہجر کی بھی لحد اور عمار کی\nکس قدر ظلم ہوتا ہے ہم پر یہاں\nبابا جاں بابا جاں\nکر رہی ہے لحد سے۔۔۔\n<<DIVIDER>>\nتوڑنے روضے آے ہیں اغیار اب\nآپ کی ہے مدد ہم کو درکار اب\nآکے ہم کو بچا لو میرے بابا جاں\nبابا جاں بابا جاں\nکر رہی ہے لحد سے۔۔۔\n<<DIVIDER>>\nظلم جو ڈھا رہے ہیں یہ سلفی ہے سب\nکربلا کے منافق یزیدی ہیں سب\nظالموں سے بچا لو ہمیں عمو جاں\nبابا جاں بابا جاں\nکر رہی ہے لحد سے۔۔۔\n<<DIVIDER>>\nخوں نکلتا تھا کانوں سے جب بھی میرے\nدرد ہوتا ہے کانوں میں اب بھی میرے\nمجھ پہ روتی رہی خوں بھری بالیاں\nبابا جاں بابا جاں\nکر رہی ہے لحد سے۔۔۔\n<<DIVIDER>>\nشمر نے تب بھی مارے طمانچے مجھے\nتازیانے لگاے تھے درے مجھے\nبالیاں کھینچی کانوں سے خوں تھا رواں\nبابا جاں بابا جاں\nکر رہی ہے لحد سے۔۔۔\n<<DIVIDER>>\nہاشمی نے یہ رو روکے نوحہ کہا\nپڑھکے عرفان بھی نوحہ رونے لگا\nرونے والوں کو دینگی دعا دادی جاں\nبابا جاں بابا جاں\nکر رہی ہے لحد سے۔۔۔",
+  "styling": [
+    {
+      "insert": "ظلم جب بھی تھا اب بھی ہے مجھ پر یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا جاں بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکر رہی ہے لحد سے سکینہ فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا جاں بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجلد بھجوایےء اب علمدار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بدلہ لینا ہے کربل کے غم خوار کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے یہ کہہ رہی ہے میری دادی جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا جاں بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر رہی ہے لحد سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ وہی نسل ہے جس نے بے شیر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھودی ننھی لحد میرے دلگیر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب مزاروں کو توڑے نگے ظالم یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا جاں بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر رہی ہے لحد سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتوڑ ڈالی لحد تیرے غم خوار کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہجر کی بھی لحد اور عمار کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس قدر ظلم ہوتا ہے ہم پر یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا جاں بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر رہی ہے لحد سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتوڑنے روضے آے ہیں اغیار اب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ کی ہے مدد ہم کو درکار اب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آکے ہم کو بچا لو میرے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا جاں بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر رہی ہے لحد سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nظلم جو ڈھا رہے ہیں یہ سلفی ہے سب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا کے منافق یزیدی ہیں سب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالموں سے بچا لو ہمیں عمو جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا جاں بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر رہی ہے لحد سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخوں نکلتا تھا کانوں سے جب بھی میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد ہوتا ہے کانوں میں اب بھی میرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ پہ روتی رہی خوں بھری بالیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا جاں بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر رہی ہے لحد سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشمر نے تب بھی مارے طمانچے مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تازیانے لگاے تھے درے مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالیاں کھینچی کانوں سے خوں تھا رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا جاں بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر رہی ہے لحد سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاشمی نے یہ رو روکے نوحہ کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پڑھکے عرفان بھی نوحہ رونے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رونے والوں کو دینگی دعا دادی جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا جاں بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر رہی ہے لحد سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Alamdar Hashmi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,260 @@
 {
   "remoteId": "g2611_u1537",
-  "title": "Hogaya khamosh",
+  "title": "ہو گیا خاموش",
   "body": "شام کے زنداں میں بالی سکینہ کھو گیء\nقبر میں ہاے ہاے بابا کہتے کہتے سو گیء\n<<DIVIDER>>\nہو گیا خاموش زنداں ہے اداسی چھا گیء\nہے خزاں میں باغ عصمت کی کلی مرجھا گیء\n<<DIVIDER>>\nشام کے زنداں میں بس گونجتی تھی سسکیاں\nتھے اندھیرے چار سو نہ پاس بابا تھا نہ ماں\nہاے معصومہ کو ہے زنداں کی گرمی کھا گیء\nہو گیا خاموش زنداں۔۔۔\n<<DIVIDER>>\nبابا کے سینے بنا اب نیند آتی ہے کہاں\nنہ مٹے تا مرگ ظلمی طمانچوں کے نشاں\nدیکھ کر جور و ستم ہاے موت بھی گھبرا گیء\nہو گیا خاموش زنداں۔۔۔\n<<DIVIDER>>\nمنتظر جس کی مدینے میں رہی صغرا بہن\nرہ گیء ہاے شام میں جا سکینہ ہے وطن\nکر کے وہ اسلام زندہ وہ ریگ غریباں پا گیء\nہو گیا خاموش زنداں۔۔۔\n<<DIVIDER>>\nچھینے در ہے ظالموں نے پر اتارے نہ رسن\nہاے جو کرتہ تھا جلا وہی بنا اس کا کفن\nچھوڑ اس کو شام میں ہے ماں وطن تنہا گیء\nہو گیا خاموش زنداں۔۔۔\n<<DIVIDER>>\nمجلس و ماتم میں ہے خورشید شامل انبیاء\nاے عزاداروں زرا دو مل کے ماتم کی صدا\nلاڈلی شبیر کی دینے دعا آ گیء\nہو گیا خاموش زنداں۔۔۔",
+  "styling": [
+    {
+      "insert": "شام کے زنداں میں بالی سکینہ کھو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قبر میں ہاے ہاے بابا کہتے کہتے سو گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہو گیا خاموش زنداں ہے اداسی چھا گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے خزاں میں باغ عصمت کی کلی مرجھا گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام کے زنداں میں بس گونجتی تھی سسکیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھے اندھیرے چار سو نہ پاس بابا تھا نہ ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے معصومہ کو ہے زنداں کی گرمی کھا گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیا خاموش زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبابا کے سینے بنا اب نیند آتی ہے کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ مٹے تا مرگ ظلمی طمانچوں کے نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر جور و ستم ہاے موت بھی گھبرا گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیا خاموش زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنتظر جس کی مدینے میں رہی صغرا بہن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہ گیء ہاے شام میں جا سکینہ ہے وطن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر کے وہ اسلام زندہ وہ ریگ غریباں پا گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیا خاموش زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھینے در ہے ظالموں نے پر اتارے نہ رسن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے جو کرتہ تھا جلا وہی بنا اس کا کفن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوڑ اس کو شام میں ہے ماں وطن تنہا گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیا خاموش زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجلس و ماتم میں ہے خورشید شامل انبیاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے عزاداروں زرا دو مل کے ماتم کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاڈلی شبیر کی دینے دعا آ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گیا خاموش زنداں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Haider Khursheed",
   "anjumans": [],
   "verified": false

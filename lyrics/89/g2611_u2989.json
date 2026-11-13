@@ -1,12 +1,492 @@
 {
   "remoteId": "g2611_u2989",
-  "title": "Shaam ka bazaar",
+  "title": "شام کا بازار",
   "body": "شام کا بازار عابدِ بیمار\nپائوں میں بیڑی طوقِ گراں بار\nشام کا بازار۔۔۔\n<<DIVIDER>>\nبھولے گا نہ وہ منظر نیزے پہ سرِ سرور\nبے مقنہو بے چادر بلوے میں پھُوپھی ماد\nاور مجمعِ کفار\nشام کا بازار۔۔۔\n<<DIVIDER>>\nبازار کی زیبائی کوٹھوں پہ تماشائی\nاعدا کی صف آرائی اور عالمِ تنہائی\nوہ بے کس و لاچار\nشام کا بازار ۔۔۔\n<<DIVIDER>>\nدربار میں سر عُریاں آتے ہیں گریاں\nاُٹھنے لگا اک طوفاں محشر کا سا ہے ساماں\nجنبش میں ہے دربار\nشام کا بازار ۔۔۔\n<<DIVIDER>>\nبو پائی تو گھبرا کر بچی نے کہا رو کر\nاس طشت میں ہے جو سر وہ تو ہے سرِ سرور\nکیسے کروں دیدار\nشام کا بازار ۔۔۔\n<<DIVIDER>>\nحاکم نے یہ سُن پایا تو اور ستم ڈھایا\nسر پوش کو سرکایااور بچی کو دکھلایا\nچلائی وہ اک بار\nشام کا بازار ۔۔۔\n<<DIVIDER>>\nکچھ شمر سے فرما دو گردن میری کھُلوا دو\nسر بابا کا دلوا دو یو اُس کو یہ سمجھا دو\nمارے نہ ستم گار\nشام کا بازار ۔۔۔\n<<DIVIDER>>\nسر جا کے اُٹھائوں میں یا پاس بلائوں میں\nروداد سُنائوں میں سینے سے لگائوں میں\nدیکھے بھرا دربار\nشام کا بازار ۔۔۔\n<<DIVIDER>>\nکہنے لگی پھر رو کر پیاری ہے اگر دُختر\nآ جائو یہ ہاتھوں پر سب دیکھ لیں یہ منظر\nاُلفت کا ہو اظہار\nشام کا بازار ۔۔۔\n<<DIVIDER>>\nدُختر کی صدا سُن کر پھر طشتِ طلا سے سر\nگودی میں گیا اُٹھ کر نادان نے لپٹا کر\nسر پر رکھے رُخسار\nشام کا بازار ۔۔۔\n<<DIVIDER>>\nجب بابا کا سر پایا دل بچی کا بھر آیا\nہر ظلم کو دوہرایا لوگوں نے جو سُن پایا\nآنکھیں ہوئیں خوںبار\nشام کا بازار ۔۔۔\n<<DIVIDER>>\nزنداں میں انیسِ غم کرتے ہیں حرم ماتم\nماں پوچھتی ہے پیہم کیوں آنکھ ہے یہ پُر نم\nکیا مر گئی دلدار\nشام کا بازار ۔۔۔",
+  "styling": [
+    {
+      "insert": "شام کا بازار عابدِ بیمار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پائوں میں بیڑی طوقِ گراں بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کا بازار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھولے گا نہ وہ منظر نیزے پہ سرِ سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے مقنہو بے چادر بلوے میں پھُوپھی ماد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور مجمعِ کفار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کا بازار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازار کی زیبائی کوٹھوں پہ تماشائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اعدا کی صف آرائی اور عالمِ تنہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ بے کس و لاچار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کا بازار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدربار میں سر عُریاں آتے ہیں گریاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُٹھنے لگا اک طوفاں محشر کا سا ہے ساماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنبش میں ہے دربار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کا بازار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبو پائی تو گھبرا کر بچی نے کہا رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس طشت میں ہے جو سر وہ تو ہے سرِ سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے کروں دیدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کا بازار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحاکم نے یہ سُن پایا تو اور ستم ڈھایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پوش کو سرکایااور بچی کو دکھلایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلائی وہ اک بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کا بازار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ شمر سے فرما دو گردن میری کھُلوا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر بابا کا دلوا دو یو اُس کو یہ سمجھا دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارے نہ ستم گار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کا بازار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر جا کے اُٹھائوں میں یا پاس بلائوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روداد سُنائوں میں سینے سے لگائوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھے بھرا دربار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کا بازار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہنے لگی پھر رو کر پیاری ہے اگر دُختر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ جائو یہ ہاتھوں پر سب دیکھ لیں یہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُلفت کا ہو اظہار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کا بازار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدُختر کی صدا سُن کر پھر طشتِ طلا سے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گودی میں گیا اُٹھ کر نادان نے لپٹا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پر رکھے رُخسار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کا بازار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب بابا کا سر پایا دل بچی کا بھر آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ظلم کو دوہرایا لوگوں نے جو سُن پایا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھیں ہوئیں خوںبار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کا بازار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنداں میں انیسِ غم کرتے ہیں حرم ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں پوچھتی ہے پیہم کیوں آنکھ ہے یہ پُر نم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا مر گئی دلدار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کا بازار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Anees Pehersari",
   "anjumans": [],
   "verified": false

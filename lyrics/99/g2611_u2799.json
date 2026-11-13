@@ -1,12 +1,373 @@
 {
   "remoteId": "g2611_u2799",
-  "title": "Roz turbat pe meri",
+  "title": "روز تربت پہ میری",
   "body": "وصیت ہے یتیموں کی زنداں سے سکینہ کی\n<<DIVIDER>>\nکون زنداں میں سنے یہ میرے نالے اماں\nکر دیا مجھکو اندھیروں کے حوالے اماں\nایک مدت سے نہیں دیکھے اجالے اماں\nمجھکو زنداں کی اندھیروں سے بچانا اماں\nروز تربت پہ میری شمع جلانا اماں\n<<DIVIDER>>\nاپنے ان زخموں کی میں تاب نہ لا پاؤں گی\nمجھکو لگتا ہے میں کچھ روز میں مر جاؤں گی\nاماں میں لوٹ کے نہ اپنے وطن جاؤں گی\nمیری حالت میری صغرا کو بتانا اماں\nروز تربت پہ میری۔۔۔\n<<DIVIDER>>\nجب بھی روی مجھے مارتا تھا شمر لعیں\nنیند اس ڈر سے مجھے قید میں آتی ہی نہیں\nپھر میری قبر پہ وہ شمر نہ آ جائے کہیں\nمجھکو تنہا نہ یہاں چھوڑ کے جانا اماں\nروز تربت پہ میری۔۔۔\n<<DIVIDER>>\nپیاس کی آخری منزل ہے یہ ہے وقت کڑا\nجسم کا پانی میرا سوکھ گیا ہے سارا\nاب تو ہڈی سے میرا گوشت جدا ہونے لگا\nمیرا یہ حال چچا جاں کو سنانا اماں\nروز تربت پہ میری۔۔۔\n<<DIVIDER>>\nغسل جب دینے لگو مجھکو تو ہو دھیان زرا\nزخم تازہ ہے ابھی خون بہت میرا بہا\nجسم کے زخموں سے چپکا ہے یہ کرتہ میرا\nجسم سے کرتے کو آہستہ چھڑانا اماں\nروز تربت پہ میری۔۔۔\n<<DIVIDER>>\nہو گیا مجھکو یقیں میں نہ کبھی جاؤں گی گھر\nدفن ہو جاؤں گی اس قید جفا میں مر کر\nایک وصیت ہے میری پوری کرو گی مادر\nفاتحہ کے لئے بابا کو بلانا اماں\nروز تربت پہ میری۔۔۔\n<<DIVIDER>>\nکیسی پر درد وصیت تھی بیاں ہو کیسے\nبین یہ مظہر و فرحان سکینہ نے کیےء\nظالموں سے نہ کفن لینا سکینہ کے لئے\nمجھکو کرتے میں ہی مرقد میں سلانا اماں\nروز تربت پہ میری۔۔۔",
+  "styling": [
+    {
+      "insert": "وصیت ہے یتیموں کی زنداں سے سکینہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکون زنداں میں سنے یہ میرے نالے اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر دیا مجھکو اندھیروں کے حوالے اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک مدت سے نہیں دیکھے اجالے اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو زنداں کی اندھیروں سے بچانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز تربت پہ میری شمع جلانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنے ان زخموں کی میں تاب نہ لا پاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو لگتا ہے میں کچھ روز میں مر جاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں میں لوٹ کے نہ اپنے وطن جاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری حالت میری صغرا کو بتانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز تربت پہ میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب بھی روی مجھے مارتا تھا شمر لعیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند اس ڈر سے مجھے قید میں آتی ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر میری قبر پہ وہ شمر نہ آ جائے کہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو تنہا نہ یہاں چھوڑ کے جانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز تربت پہ میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاس کی آخری منزل ہے یہ ہے وقت کڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسم کا پانی میرا سوکھ گیا ہے سارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو ہڈی سے میرا گوشت جدا ہونے لگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا یہ حال چچا جاں کو سنانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز تربت پہ میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغسل جب دینے لگو مجھکو تو ہو دھیان زرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم تازہ ہے ابھی خون بہت میرا بہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسم کے زخموں سے چپکا ہے یہ کرتہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسم سے کرتے کو آہستہ چھڑانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز تربت پہ میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہو گیا مجھکو یقیں میں نہ کبھی جاؤں گی گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دفن ہو جاؤں گی اس قید جفا میں مر کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک وصیت ہے میری پوری کرو گی مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فاتحہ کے لئے بابا کو بلانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز تربت پہ میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسی پر درد وصیت تھی بیاں ہو کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بین یہ مظہر و فرحان سکینہ نے کیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ظالموں سے نہ کفن لینا سکینہ کے لئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو کرتے میں ہی مرقد میں سلانا اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روز تربت پہ میری۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

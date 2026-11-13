@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u2234",
-  "title": "Mai sakina hoo",
+  "title": "میں سکینہ ہوں",
   "body": "میں سکینہ ہوں میرا درد ہے اتنا بڑا\nمجھکو ظالم نے کنیزی میں ہے مانگا بابا\n<<DIVIDER>>\nمیں نے دادی کی طرح اتنے مصائب دیکھے\nچار برسوں میں ہی لگتی ہوں ضعیفہ بابا\nمیں سکینہ ہوں۔۔۔\n<<DIVIDER>>\nجو تیری لاش پہ دوڑاتے تھے گھوڑے رن میں\nوہ طمانچوں سے مجھے دیتے ہیں پرسہ بابا\nمیں سکینہ ہوں۔۔۔\n<<DIVIDER>>\nکاش مر جاؤں میں اصغر کو ہی روتے روتے\nمیں کہاں کرتی ہوں پانی کا تقاضا بابا\nمیں سکینہ ہوں۔۔۔\n<<DIVIDER>>\nپوری شدت سے مجھے مارا تمانچہ جس نے\nاس کے ہاتھوں سے میرا چہرہ ہے چھوٹا بابا\nمیں سکینہ ہوں۔۔۔\n<<DIVIDER>>\nانگلیوں کے تو کہیں پر ہے انگوٹھے کے نشاں\nکیسے پہچانو گے تم بیٹی کا چہرہ بابا\nمیں سکینہ ہوں۔۔۔\n<<DIVIDER>>\nاس قدر شام کے زندان میں تاریکی ہے\nہاتھ اپنا بھی نہیں مجھکو ہے دکھتا بابا\nمیں سکینہ ہوں۔۔۔\n<<DIVIDER>>\nبھیا سجاد سے نظریں نہ ملای میں نے\nمیں نے بازار میں جب کھایا طمانچہ بابا\nمیں سکینہ ہوں۔۔۔\n<<DIVIDER>>\nشام والوں سے نہ پانی نہ کفن مانگوں گی\nمیں نہ احسان یہاں لونگی کسی کا بابا\nمیں سکینہ ہوں۔۔۔\n<<DIVIDER>>\nرکھ کے منہ باپ کے سر پر وہ پکاری درویش\nاب نہ جاگے گی کبھی تیری سکینہ بابا\nمیں سکینہ ہوں۔۔۔",
+  "styling": [
+    {
+      "insert": "میں سکینہ ہوں میرا درد ہے اتنا بڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو ظالم نے کنیزی میں ہے مانگا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں نے دادی کی طرح اتنے مصائب دیکھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چار برسوں میں ہی لگتی ہوں ضعیفہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں سکینہ ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو تیری لاش پہ دوڑاتے تھے گھوڑے رن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ طمانچوں سے مجھے دیتے ہیں پرسہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں سکینہ ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکاش مر جاؤں میں اصغر کو ہی روتے روتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں کہاں کرتی ہوں پانی کا تقاضا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں سکینہ ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپوری شدت سے مجھے مارا تمانچہ جس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کے ہاتھوں سے میرا چہرہ ہے چھوٹا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں سکینہ ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانگلیوں کے تو کہیں پر ہے انگوٹھے کے نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے پہچانو گے تم بیٹی کا چہرہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں سکینہ ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس قدر شام کے زندان میں تاریکی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ اپنا بھی نہیں مجھکو ہے دکھتا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں سکینہ ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھیا سجاد سے نظریں نہ ملای میں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نے بازار میں جب کھایا طمانچہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں سکینہ ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام والوں سے نہ پانی نہ کفن مانگوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں نہ احسان یہاں لونگی کسی کا بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں سکینہ ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرکھ کے منہ باپ کے سر پر وہ پکاری درویش"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب نہ جاگے گی کبھی تیری سکینہ بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں سکینہ ہوں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Shahid Baltistani",
   "anjumans": [],
   "verified": false

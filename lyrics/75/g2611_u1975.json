@@ -1,12 +1,224 @@
 {
   "remoteId": "g2611_u1975",
-  "title": "Khaak par laashe",
+  "title": "خاک پر لاشے",
   "body": "خاک پر لاشے پڑیں ہیں کربلا خاموش ہے\nایک سکتہ ہے بیاباں کی فضا خاموش ہے\n<<DIVIDER>>\nصبح کو أہل حرم کی یاد آتی ہے اذاں\nوقتِ مغرب ہے شبیہء مصطفی خاموش ہے\nخاک پر لاشے۔۔۔\n<<DIVIDER>>\nہمکنا مسکرانا اور لپٹنا شاہ سے\nاصغرِ معصوم کی ہر ایک ادا خاموش ہے\nخاک پر لاشے۔۔۔\n<<DIVIDER>>\nہے سکینہ گود میں زینب کے آنسوں ہے رواں\nسوتی ہے معصوم اور ماں بے حوا خاموش ہے\nخاک پر لاشے۔۔۔\n<<DIVIDER>>\nہے شہیدوں کے بھی لاشے لاشہء شہ کے قریب\nقافلہ سالار چپ ہے قافلہ خاموش ہے\nخاک پر لاشے۔۔۔\n<<DIVIDER>>\nکچھ دھواں باقی ابھی ہے دھیر میں راخ کے\nشہ کے خیمے جل چکے ہیں اور فضا خاموش ہے\nخاک پر لاشے۔۔۔\n<<DIVIDER>>\nبیڑیاں ہے پایہء عابد میں تو گردن میں ہے طوق\nروتی ہے زنجیر لیکن نقش پا خاموش ہے\nخاک پر لاشے۔۔۔",
+  "styling": [
+    {
+      "insert": "خاک پر لاشے پڑیں ہیں کربلا خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک سکتہ ہے بیاباں کی فضا خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصبح کو أہل حرم کی یاد آتی ہے اذاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وقتِ مغرب ہے شبیہء مصطفی خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر لاشے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہمکنا مسکرانا اور لپٹنا شاہ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغرِ معصوم کی ہر ایک ادا خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر لاشے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے سکینہ گود میں زینب کے آنسوں ہے رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوتی ہے معصوم اور ماں بے حوا خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر لاشے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے شہیدوں کے بھی لاشے لاشہء شہ کے قریب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قافلہ سالار چپ ہے قافلہ خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر لاشے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ دھواں باقی ابھی ہے دھیر میں راخ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کے خیمے جل چکے ہیں اور فضا خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر لاشے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیڑیاں ہے پایہء عابد میں تو گردن میں ہے طوق"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہے زنجیر لیکن نقش پا خاموش ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک پر لاشے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shaam e Ghareeba",
+  "subcategory": "شام غریباں",
   "author": "Baqer Amanatkhani",
   "anjumans": [],
   "verified": false

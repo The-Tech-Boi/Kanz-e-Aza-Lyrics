@@ -1,12 +1,527 @@
 {
   "remoteId": "g2611_u1015",
-  "title": "Bhool paayi sakina",
+  "title": "بھول پایء سکینہ",
   "body": "تنہائییاں سرغوشیاں\nہاں سکینہ کی ہے یہ فغاں\nمیری گردن میں باندھی گئی رسیاں\nمیرے کانوں سے نوچی گیء بالیاں\nخون بہتا رہا درد بڑھتا رہا\nتازیانے لعینوں کے اور وہ جفا\nبھول پایء سکینہ کہاں\n<<DIVIDER>>\nمجھ کو کانٹوں پہ پیدل چلایا گیا\nباپ کا سر دکھا کر رلایا گیا\nتھا وہ کیسا سفر بیبیاں ننگے سر\nایک اک زخم سے خون بہتا رہا\n...بھول پایء\n<<DIVIDER>>\nمیں جو رویء تو مجھ کو طمانچے لگے\nتھک کے سویء تو عابد کو درے لگے\nبیچ بازار میں شہر اغیار میں\nہاے سادات کا جو تماشہ بنا\n...بھول پایء\n<<DIVIDER>>\nبولا دربار میں آکے یوں اک شقی\nتو کنیزی میں جا حاکم وقت کی\nکیسا لمحہ تھا وہ کیسا صدمہ تھا وہ\nروکے اس دم پکاری میں ہاے چچا\n...بھول پایء\n<<DIVIDER>>\nمیرے بابا کا سر طشت میں تھا رکھا\nاس سے گستاخیاں کرتے تھے اشقیاء\nکوئی حامی نہ تھا کس کو دیتی صدا\nایک غیور بیٹی کو غیض آگیا\n...بھول پایء\n<<DIVIDER>>\nراہ میں پانی آتا میسر اگر\nڈال دیتی تھی عابد کی زنجیر پر\nہر قدم اک جفا رونا بھی جرم تھا\nدرمیاں شامیوں کے تھی آل عبا\n...بھول پایء\n<<DIVIDER>>\nپوچھا حاکم نے دربار میں شمر سے\nان اسیروں میں بنت علی کون ہے\nرو رہی تھی پھپھی تھی وہ کییسی گھڑی\nنام پھپیوں کا لیتا تھا وہ بے حیا\n...بھول پایء\n<<DIVIDER>>\nدل پہ پتھر رکھا اور جیتی رہی\nتازیانے لعینوں کے سہتی رہی\nدشمنوں کا وطن میں اسیری محن\nجس جگہ ایک لمحہ تھا اک سال سا\n...بھول پایء\n<<DIVIDER>>\nکم سنی اور اسیری وہ زندان کی\nجس جگہ موت بھی آکے رونے لگی\nیاد نشتر بنی خاک بستر بنی\nپھر یہ زندان میری لحد بن گیا\n...بھول پایء\n<<DIVIDER>>\nایک پیغام ہے زاءیروں کو یہیں\nشب کو بی بی کے روضے پہ جاوء کبھی\nرورہی ہے وہاں اب بھی تنہائیاں\nسن کے آے ہیں فرحان و مظہر صدا\n...بھول پایء",
+  "styling": [
+    {
+      "insert": "تنہائییاں سرغوشیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاں سکینہ کی ہے یہ فغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری گردن میں باندھی گئی رسیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے کانوں سے نوچی گیء بالیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون بہتا رہا درد بڑھتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تازیانے لعینوں کے اور وہ جفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھول پایء سکینہ کہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ کو کانٹوں پہ پیدل چلایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کا سر دکھا کر رلایا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا وہ کیسا سفر بیبیاں ننگے سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک اک زخم سے خون بہتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بھول پایء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں جو رویء تو مجھ کو طمانچے لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھک کے سویء تو عابد کو درے لگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیچ بازار میں شہر اغیار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے سادات کا جو تماشہ بنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بھول پایء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبولا دربار میں آکے یوں اک شقی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو کنیزی میں جا حاکم وقت کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا لمحہ تھا وہ کیسا صدمہ تھا وہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روکے اس دم پکاری میں ہاے چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بھول پایء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیرے بابا کا سر طشت میں تھا رکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس سے گستاخیاں کرتے تھے اشقیاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی حامی نہ تھا کس کو دیتی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک غیور بیٹی کو غیض آگیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بھول پایء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nراہ میں پانی آتا میسر اگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈال دیتی تھی عابد کی زنجیر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر قدم اک جفا رونا بھی جرم تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درمیاں شامیوں کے تھی آل عبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بھول پایء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپوچھا حاکم نے دربار میں شمر سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان اسیروں میں بنت علی کون ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رہی تھی پھپھی تھی وہ کییسی گھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام پھپیوں کا لیتا تھا وہ بے حیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بھول پایء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل پہ پتھر رکھا اور جیتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تازیانے لعینوں کے سہتی رہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشمنوں کا وطن میں اسیری محن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس جگہ ایک لمحہ تھا اک سال سا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بھول پایء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکم سنی اور اسیری وہ زندان کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس جگہ موت بھی آکے رونے لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد نشتر بنی خاک بستر بنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر یہ زندان میری لحد بن گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بھول پایء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک پیغام ہے زاءیروں کو یہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شب کو بی بی کے روضے پہ جاوء کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رورہی ہے وہاں اب بھی تنہائیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کے آے ہیں فرحان و مظہر صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "...بھول پایء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

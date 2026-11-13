@@ -1,7 +1,315 @@
 {
   "remoteId": "g2611_u1223",
-  "title": "Ek karwan rota raha",
+  "title": "اک کارواں روتا رہا",
   "body": "بے ردا بے آسرا اک کارواں روتا رہا\nکارواں کیا کارواں کا سارباں روتا رہا\n<<DIVIDER>>\nجب گری بالی سکینہ بے کجاوہ اونٹ سے\nدیر تک اک سر سر نوکِ سِناں روتا رہا\nبے ردا بے آسرا اک کارواں۔۔۔\n<<DIVIDER>>\nاک پہر میں لٹ گیا پردیس میں زہرا کا چین\nیہ سنا جس نے جہاں بس وہ وہاں روتا رہا\nبے ردا بے آسرا اک کارواں۔۔۔\n<<DIVIDER>>\nمسکرا کر جانے کیا رن میں کہا بے شیر نے\nحرملہ تھامے ہوے تیر و کماں روتا رہا\nبے ردا بے آسرا اک کارواں۔۔۔\n<<DIVIDER>>\nدیکھ کر بے حال غم سے باپ کو وقت سحر\nام لیلیٰ کا پسر دے کر اذاں روتا رہا\nبے ردا بے آسرا اک کارواں۔۔۔\n<<DIVIDER>>\nخالی کوزے تشنہ لب بچوں کو تکتے دیکھ کر\nدشت میں مشک و الم کا پاسباں روتا رہا\nبے ردا بے آسرا اک کارواں۔۔۔\n<<DIVIDER>>\nصبحِ عاشورہ سے لے کر عصر عاشورہ تلک\nدیکھ کر رن کی زمیں کو آسماں روتا رہا\nبے ردا بے آسرا اک کارواں۔۔۔\n<<DIVIDER>>\nکشتیء دین خدا کا نہ خدا دل تھام کر\nدیکھ کر اکبر کے سینے میں سناں روتا رہا\nبے ردا بے آسرا اک کارواں۔۔۔\n<<DIVIDER>>\nسر بریدہ بے کفن تیروں سے چھلنی لاش پر\nعابد بیمار مضطر ناتواں روتا رہا\nبے ردا بے آسرا اک کارواں۔۔۔\n<<DIVIDER>>\nمجلسِ شبیر میں نوحہ سناتا ہے احسان\nارتضیٰ سن کر یہ غم کی داستاں روتا رہا\nبے ردا بے آسرا اک کارواں۔۔۔",
+  "styling": [
+    {
+      "insert": "بے ردا بے آسرا اک کارواں روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کارواں کیا کارواں کا سارباں روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب گری بالی سکینہ بے کجاوہ اونٹ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیر تک اک سر سر نوکِ سِناں روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا بے آسرا اک کارواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک پہر میں لٹ گیا پردیس میں زہرا کا چین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سنا جس نے جہاں بس وہ وہاں روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا بے آسرا اک کارواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسکرا کر جانے کیا رن میں کہا بے شیر نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرملہ تھامے ہوے تیر و کماں روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا بے آسرا اک کارواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھ کر بے حال غم سے باپ کو وقت سحر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ کا پسر دے کر اذاں روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا بے آسرا اک کارواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخالی کوزے تشنہ لب بچوں کو تکتے دیکھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت میں مشک و الم کا پاسباں روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا بے آسرا اک کارواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصبحِ عاشورہ سے لے کر عصر عاشورہ تلک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر رن کی زمیں کو آسماں روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا بے آسرا اک کارواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکشتیء دین خدا کا نہ خدا دل تھام کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر اکبر کے سینے میں سناں روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا بے آسرا اک کارواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر بریدہ بے کفن تیروں سے چھلنی لاش پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عابد بیمار مضطر ناتواں روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا بے آسرا اک کارواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجلسِ شبیر میں نوحہ سناتا ہے احسان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ارتضیٰ سن کر یہ غم کی داستاں روتا رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے ردا بے آسرا اک کارواں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

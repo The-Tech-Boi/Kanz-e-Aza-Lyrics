@@ -1,12 +1,302 @@
 {
   "remoteId": "g2611_u0910",
-  "title": "Basar ho maahe",
+  "title": "بسر ہو ماہ",
   "body": "اۓ خدا آگیا ماہِ عذا\n<<DIVIDER>>\nبسر ہو ماہِ عذا اس طرح خداۓ حسین\nہو ہاتھ سینے پہ لب پر رہیں سداۓ حسین\n<<DIVIDER>>\nنمازِ عشق ہے پڑھنی کے باوزو ہو کر\nمیں انتظار مے ہوں کب مجھے بلاۓ حسین\nبسر ہو ماہِ عذا۔۔۔\n<<DIVIDER>>\nلرزتے گزرے نبی نینوا کی دھرتی سے\nنہ کر سکا کوئ آباد ماں سواۓ حسین\nبسر ہو ماہِ عذا۔۔۔\n<<DIVIDER>>\nوہ رکھنا دھار گلے پر تھی انتیھاۓ خلیل\nیہاں پہ لاشہ اکبر ہے ابتدای حسین\nبسر ہو ماہِ عذا۔۔۔\n<<DIVIDER>>\nسنا تو شکر کے سجدے میں گر گئیں فروا\nجب ایک لاشے کو گیٹیری میں لے کے آئے حسین\nبسر ہو ماہِ عذا۔۔۔\n<<DIVIDER>>\nجواب کیوں نہی دیتے مجھے علی اکبر\nبہین کے قط کو اب آخر کسے سنائے حسین\nبسر ہو ماہِ عذا۔۔۔\n<<DIVIDER>>\nجُھکی ہے شہ کی کمر جبسے تم عباس گئیں\nکسے آوز دے بھائی کسے بلاۓ حسین\nبسر ہو ماہِ عذا۔۔۔\n<<DIVIDER>>\nقدم کو آگے بڈھایا کبھی گۓ پیچھے\nچلے جو میّتیں بیشیر کو اٹھاۓ حسین\nبسر ہو ماہِ عذا۔۔۔\n<<DIVIDER>>\nکلیجہ پھٹتا ہے ریحان اور خادم کا\nبتول کہتی ہیں جس وقت روکے ہاۓ حسین\nبسر ہو ماہِ عذا۔۔۔",
+  "styling": [
+    {
+      "insert": "اۓ خدا آگیا ماہِ عذا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبسر ہو ماہِ عذا اس طرح خداۓ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو ہاتھ سینے پہ لب پر رہیں سداۓ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنمازِ عشق ہے پڑھنی کے باوزو ہو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں انتظار مے ہوں کب مجھے بلاۓ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بسر ہو ماہِ عذا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلرزتے گزرے نبی نینوا کی دھرتی سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ کر سکا کوئ آباد ماں سواۓ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بسر ہو ماہِ عذا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ رکھنا دھار گلے پر تھی انتیھاۓ خلیل"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہاں پہ لاشہ اکبر ہے ابتدای حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بسر ہو ماہِ عذا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنا تو شکر کے سجدے میں گر گئیں فروا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب ایک لاشے کو گیٹیری میں لے کے آئے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بسر ہو ماہِ عذا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجواب کیوں نہی دیتے مجھے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہین کے قط کو اب آخر کسے سنائے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بسر ہو ماہِ عذا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجُھکی ہے شہ کی کمر جبسے تم عباس گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسے آوز دے بھائی کسے بلاۓ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بسر ہو ماہِ عذا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقدم کو آگے بڈھایا کبھی گۓ پیچھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلے جو میّتیں بیشیر کو اٹھاۓ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بسر ہو ماہِ عذا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکلیجہ پھٹتا ہے ریحان اور خادم کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتول کہتی ہیں جس وقت روکے ہاۓ حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بسر ہو ماہِ عذا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ibtedaye Ayyam e Aza",
+  "subcategory": "ابتدائے ایام عزا",
   "author": "Hassan & Najam Abbas",
   "anjumans": [],
   "verified": false

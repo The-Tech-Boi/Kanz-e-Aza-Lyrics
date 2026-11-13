@@ -1,12 +1,292 @@
 {
   "remoteId": "g2611_u0063",
-  "title": "Aaja ay laal asghar",
+  "title": "آجا اے لال اصغر",
   "body": "اصغر آجا اصغر آجا\nویراں آجا ویراں آجا\n<<DIVIDER>>\nآجا اے لال اصغر جھولا جھلاوں آجا\n<<DIVIDER>>\nپایا نہ تین دن سے پانی کا تو نے خطرہ\nگل کی طرح سے بیٹا نازک ہے جسم تیرا\nشعلے اگل رہی ہے رن کی زمیں آجا\nآجا اے لال اصغر۔۔۔\n<<DIVIDER>>\nسوچا نہیں تھا ایسے لٹ جاے گی کمای\nاس کمسنی میں تیری ہو جاے گی جدائی\nتیرے بغیر بیٹا کس کام ہے دنیا\nآجا اے لال اصغر۔۔۔\n<<DIVIDER>>\nذوالفیں تیری سواروں چہرہ تیرا سجاؤں\nتیری بلاییں لے لوں صدقہ تیرا اتاروں\nمانگو دعائیں رب سے جینے کی تیرے بیٹا\nآجا اے لال اصغر۔۔۔\n<<DIVIDER>>\nطوفاں اٹھا رہا ہے ہر سمت زلزلیں ہیں\nآندھی بھی چل رہی ہے خیمے بھی جل رہے ہیں\nآجا کہ جلد بیٹا اب جل نہ جاے جھولا\nآجا اے لال اصغر۔۔۔\n<<DIVIDER>>\nتیرے بغیر کیسے اب چین سے رہوں گی\nاصغر میں تجھکو کھو کر پل بھر نہ جی سکوں گی\nمادر کو بھی بلالے تو جس جگہ ہے بیٹا\nآجا اے لال اصغر۔۔۔\n<<DIVIDER>>\nزاہد وہ تیرا نوحہ محسن سنا رہا ہے\nہر ماں کے دل کا ارماں اس میں رقم ہوا ہے\nطوفان غم ہے اس میں ہے حسرتوں کا دریا\nآجا اے لال اصغر۔۔۔",
+  "styling": [
+    {
+      "insert": "اصغر آجا اصغر آجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویراں آجا ویراں آجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآجا اے لال اصغر جھولا جھلاوں آجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپایا نہ تین دن سے پانی کا تو نے خطرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گل کی طرح سے بیٹا نازک ہے جسم تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شعلے اگل رہی ہے رن کی زمیں آجا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے لال اصغر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوچا نہیں تھا ایسے لٹ جاے گی کمای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کمسنی میں تیری ہو جاے گی جدائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے بغیر بیٹا کس کام ہے دنیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے لال اصغر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nذوالفیں تیری سواروں چہرہ تیرا سجاؤں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیری بلاییں لے لوں صدقہ تیرا اتاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانگو دعائیں رب سے جینے کی تیرے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے لال اصغر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطوفاں اٹھا رہا ہے ہر سمت زلزلیں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آندھی بھی چل رہی ہے خیمے بھی جل رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا کہ جلد بیٹا اب جل نہ جاے جھولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے لال اصغر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے بغیر کیسے اب چین سے رہوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر میں تجھکو کھو کر پل بھر نہ جی سکوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مادر کو بھی بلالے تو جس جگہ ہے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے لال اصغر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزاہد وہ تیرا نوحہ محسن سنا رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر ماں کے دل کا ارماں اس میں رقم ہوا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طوفان غم ہے اس میں ہے حسرتوں کا دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے لال اصغر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Zahid Ali",
   "anjumans": [],
   "verified": false

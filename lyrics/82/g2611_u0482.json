@@ -1,12 +1,433 @@
 {
   "remoteId": "g2611_u0482",
-  "title": "Amma bas ek raat",
+  "title": "اماں بس اک رات",
   "body": "اماں بس اک رات کا میہمان ہے حسین\n<<DIVIDER>>\nاندھیری رات ہے اماں غموں کا ڈیرا ہے\nاب اس کے بعد میرا آخری سویرا ہے\nوطن سے دور مجھے کوفیوں نے گھیرا ہے\nاماں بس اک رات کا میہمان۔۔۔\n<<DIVIDER>>\nہر ایک شیر دلاور بچھڑنے والا ہے\nمیرے سفینے کا لنگر بچھڑنے والا ہے\nکہ مجھ سے میرا برادر بچھڑنے والا ہے\nاماں بس اک رات کا میہمان۔۔۔\n<<DIVIDER>>\nجواں پسر کا جنازہ میں کل اٹھاؤں گا\nغم و الم سے ضعیفی میں لڑکھڑاوں گا\nضرور آنا میں اماں تمہیں بلاؤں گا\nاماں بس اک رات کا میہمان۔۔۔\n<<DIVIDER>>\nدہم کی صبح کو رن ایسا پڑنے والا ہے\nکہ مجھ غریب سے کنبہ بچھڑنے والا ہے\nبھرا ہوا یہ میرا گھر اجڑنے والا ہے\nاماں بس اک رات کا میہمان۔۔۔\n<<DIVIDER>>\nمیری سکینہ کو سینے سے تم لگا لینا\nگرے جو ناقے سے اماں اسے اٹھا لینا\nستمگروں کے طمانچوں سے تم بچا لینا\nاماں بس اک رات کا میہمان۔۔۔\n<<DIVIDER>>\nتمہارے چاند کو گھیریں گے شام کے حالے\nمیرے بدن پہ لگاےنگے ظلم‌ کے بھالے\nکہ مجھ پہ ٹوٹ پڑیں گے یہ برچیوں والے\nاماں بس اک رات کا میہمان۔۔۔\n<<DIVIDER>>\nابھی تو جھولے سے اصغر بھی رن کو جاے گا\nاپنے باپ کے ہاتھوں پہ تیر کھاۓگا\nلہو میں ڈوب کے بے شیر مسکراے گا\nاماں بس اک رات کا میہمان۔۔۔\n<<DIVIDER>>\nہر ایک سمت سے برسیں گے مجھ پہ تیر و سناں\nگلوے خشک سے ہوگا یہی پہ خون رواں\nمیرا مزار بنے گا اسی جگہ اماں\nاماں بس اک رات کا میہمان۔۔۔\n<<DIVIDER>>\nابھی تو قوت دل مجھکو آزمانی ہے\nابھی تو میت اکبر مجھے اٹھانی ہے\nابھی تو تربت بے شیر بھی بنانی ہے\nاماں بس اک رات کا میہمان۔۔۔\n<<DIVIDER>>\nفضا میں گونج رہی تھی صداے واویلا\nحرم میں شور تھا ہلتی تھی أرض کربوبلا\nبلال رو کے یہ کہتے تھے سید والا\nاماں بس اک رات کا میہمان۔۔۔",
+  "styling": [
+    {
+      "insert": "اماں بس اک رات کا میہمان ہے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاندھیری رات ہے اماں غموں کا ڈیرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب اس کے بعد میرا آخری سویرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وطن سے دور مجھے کوفیوں نے گھیرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں بس اک رات کا میہمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر ایک شیر دلاور بچھڑنے والا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سفینے کا لنگر بچھڑنے والا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ مجھ سے میرا برادر بچھڑنے والا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں بس اک رات کا میہمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجواں پسر کا جنازہ میں کل اٹھاؤں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم و الم سے ضعیفی میں لڑکھڑاوں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضرور آنا میں اماں تمہیں بلاؤں گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں بس اک رات کا میہمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدہم کی صبح کو رن ایسا پڑنے والا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ مجھ غریب سے کنبہ بچھڑنے والا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھرا ہوا یہ میرا گھر اجڑنے والا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں بس اک رات کا میہمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیری سکینہ کو سینے سے تم لگا لینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گرے جو ناقے سے اماں اسے اٹھا لینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستمگروں کے طمانچوں سے تم بچا لینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں بس اک رات کا میہمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہارے چاند کو گھیریں گے شام کے حالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بدن پہ لگاےنگے ظلم‌ کے بھالے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ مجھ پہ ٹوٹ پڑیں گے یہ برچیوں والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں بس اک رات کا میہمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nابھی تو جھولے سے اصغر بھی رن کو جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے باپ کے ہاتھوں پہ تیر کھاۓگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لہو میں ڈوب کے بے شیر مسکراے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں بس اک رات کا میہمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہر ایک سمت سے برسیں گے مجھ پہ تیر و سناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گلوے خشک سے ہوگا یہی پہ خون رواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا مزار بنے گا اسی جگہ اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں بس اک رات کا میہمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nابھی تو قوت دل مجھکو آزمانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی تو میت اکبر مجھے اٹھانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی تو تربت بے شیر بھی بنانی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں بس اک رات کا میہمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفضا میں گونج رہی تھی صداے واویلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم میں شور تھا ہلتی تھی أرض کربوبلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بلال رو کے یہ کہتے تھے سید والا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں بس اک رات کا میہمان۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Bilal Kazmi",
   "anjumans": [],
   "verified": false

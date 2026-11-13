@@ -1,12 +1,396 @@
 {
   "remoteId": "g2611_u0812",
-  "title": "Baba idhar na",
+  "title": "بابا ادھر نہ",
   "body": "ہوا یہ شور کے گھوڑے سے گر گےء اکبر\nحسین آے ہیں مقتل میں گھٹنیوں چل کر\nسر اپنے لال کا زانو پہ شاہ نے رکھا\nضعیف باپ یہ کڑیل جواں سے بولا\nرکھا ہے ہاتھ کلیجے پہ کیوں میرے بیٹا\nہٹا لے ہاتھ کے اب پھٹ رہا ہے دل میرا\nہٹا کے ہاتھوں کو کہنے لگا پسر بابا\nجو ہو سکے گا تو نہ دیکھنا ادھر بابا\n<<DIVIDER>>\nبولے اکبر اپنے بابا سے ادھر نہ دیکھنا\nاے میرے بابا میرا زخمی جگر نہ دیکھنا\n<<DIVIDER>>\nباپ کی خاطر بڑا ہی سخت ہے بیٹے کا غم\nنوجواں ہوں جس گھڑی بابا میرا نکلے گا دم\nمیرا چہرہ اس گھڑی میرے پدر نہ دیکھنا\nبولے اکبر اپنے بابا سے۔۔۔\n<<DIVIDER>>\nدور ہٹ جانا میرے سینے سے برچھی کھینچ کر\nخون نکلے گا اچھل کرمیرے سینے سے اگر\nدل تو تڑپے گا بہت بابا مگر نہ دیکھنا\nبولے اکبر اپنے بابا سے۔۔۔\n<<DIVIDER>>\nروک کر اکبر کو سرور نے کہا میرے ہلال\nامتحان صبر ہے یہ باپ کا اے میرے لال\nاب مجھے کچھ دیر اے میرے پسر نہ دیکھنا\nبولے اکبر اپنے بابا سے۔۔۔\n<<DIVIDER>>\nآستیں اپنی چڑھا کر جب میں کھینچوں گا سناں\nواسطہ تجھکو تیرے بابا کا اے کڑیل جواں\nمیری جانب اے میرے نورِ نظر نہ دیکھنا\nبولے اکبر اپنے بابا سے۔۔۔\n<<DIVIDER>>\nپھر کیا خیمے کا رخ اکبر نے رو کر یہ کہا\nڈوبتا ہے کربلا میں چاند اے اماں تیرا\nچاند کی جانب کبھی اب عمر بھر نہ دیکھنا\nبولے اکبر اپنے بابا سے۔۔۔\n<<DIVIDER>>\nہچکیاں جب موت کی آی تو بولا نوجواں\nآپ پر قربان ہو اکبر اے میرے بابا جاں\nگود کے پالے کا یہ مشکل سفر نہ دیکھنا\nبولے اکبر اپنے بابا سے۔۔۔\n<<DIVIDER>>\nاے سرانی رو پڑا دل میں نے جس دم یہ لکھا\nآخری سانسوں میں دی صغرا کو اکبر نے صدا\nاب میرا رستہ بہن شام و سحر نہ دیکھنا\nبولے اکبر اپنے بابا سے۔۔۔",
+  "styling": [
+    {
+      "insert": "ہوا یہ شور کے گھوڑے سے گر گےء اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسین آے ہیں مقتل میں گھٹنیوں چل کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر اپنے لال کا زانو پہ شاہ نے رکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضعیف باپ یہ کڑیل جواں سے بولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکھا ہے ہاتھ کلیجے پہ کیوں میرے بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہٹا لے ہاتھ کے اب پھٹ رہا ہے دل میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہٹا کے ہاتھوں کو کہنے لگا پسر بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو ہو سکے گا تو نہ دیکھنا ادھر بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبولے اکبر اپنے بابا سے ادھر نہ دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بابا میرا زخمی جگر نہ دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ کی خاطر بڑا ہی سخت ہے بیٹے کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوجواں ہوں جس گھڑی بابا میرا نکلے گا دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا چہرہ اس گھڑی میرے پدر نہ دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر اپنے بابا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدور ہٹ جانا میرے سینے سے برچھی کھینچ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون نکلے گا اچھل کرمیرے سینے سے اگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل تو تڑپے گا بہت بابا مگر نہ دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر اپنے بابا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروک کر اکبر کو سرور نے کہا میرے ہلال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "امتحان صبر ہے یہ باپ کا اے میرے لال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب مجھے کچھ دیر اے میرے پسر نہ دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر اپنے بابا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآستیں اپنی چڑھا کر جب میں کھینچوں گا سناں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واسطہ تجھکو تیرے بابا کا اے کڑیل جواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری جانب اے میرے نورِ نظر نہ دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر اپنے بابا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپھر کیا خیمے کا رخ اکبر نے رو کر یہ کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈوبتا ہے کربلا میں چاند اے اماں تیرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چاند کی جانب کبھی اب عمر بھر نہ دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر اپنے بابا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہچکیاں جب موت کی آی تو بولا نوجواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آپ پر قربان ہو اکبر اے میرے بابا جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گود کے پالے کا یہ مشکل سفر نہ دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر اپنے بابا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے سرانی رو پڑا دل میں نے جس دم یہ لکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری سانسوں میں دی صغرا کو اکبر نے صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میرا رستہ بہن شام و سحر نہ دیکھنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے اکبر اپنے بابا سے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Ali Raza Surani",
   "anjumans": [],
   "verified": false

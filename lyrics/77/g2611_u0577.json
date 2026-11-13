@@ -1,7 +1,595 @@
 {
   "remoteId": "g2611_u0577",
-  "title": "Ashoor ka suraj",
+  "title": "عاشور کا سورج",
   "body": "عاشور کا سورج جلتا ہے\nہر خاک کا ذرا جلتا ہے\nجلتی ہے زمینِ کرب و بلا\nیا عرشِ معلیٰ جلتا ہے\n<<DIVIDER>>\nانصار کے خیمے جلتے ہیں\nشبیر کا خیمہ جلتا ہے\nاسلام کی دنیا جلتی ہے\nکعبے کا مسلےٰ جلتا ہے\nعاشور کا سورج ۔۔۔\n<<DIVIDER>>\nنیزے کو جگہ دی ہے دل میں\nایسے کہ جگر کا کیا کہنا\nاکبر کو سکونِ قلب ملا\nلیلیٰ کا کلیجہ جلتا ہے\nعاشور کا سورج ۔۔۔\n<<DIVIDER>>\nقرآن کے پڑھنے والوں نے\nقرآں کو جلا کر خاک کیا\nیٰس کا سورہ جلتا ہے\nقرآن کا پارہ جلتا ہے\nعاشور کا سورج ۔۔۔\n<<DIVIDER>>\nگھر بار جلایا اُمت نے\nکیا خوب یہ اجرِ رسالت ہے\nجلتی ہے محمدکی مسند\nبے شیر کا جھولا جلتا ہے\nعاشور کا سورج ۔۔۔\n<<DIVIDER>>\nعطرت پہ نبی کے جور و ستم\nکیا خوب مسلمانوں نے کیا\nزینب کی ردا کیا جلتی ہے\nاسلام کا پردہ جلتا ہے\nعاشور کا سورج ۔۔۔\n<<DIVIDER>>\nرکھی جو فدک میں چنگاری\nیہ شعلے اُسی کے نکلتے ہیں\nکیا آگ بغاوت کی پھیلی\nرن کر ب و بلا کا جلتا ہے\nعاشور کا سورج ۔۔۔\n<<DIVIDER>>\nبے شیر کی تشنہ دہانی نے\nاک آگ لگا دی پانی میں\nاصغر کے تبسم پر اب تک\nدریا کا کنارا جلتا ہے\nعاشور کا سورج ۔۔۔\n<<DIVIDER>>\nخیمے میں سکینہ دیکھتی ہے\nجب یاس سے خالی ساغر کو\nساحل پہ تڑپتا ہے لاشہ\nسقّہ کا کلیجہ جلتا ہے\nعاشور کا سورج ۔۔۔\n<<DIVIDER>>\nتھی کفر کو ایمان سے ٹکر\nگھر بار نبی کا جل کے رہا\nجلتی ہے جدھارے کعبہء دیں\nایمان کا قبلہ جلتا ہے\nعاشور کا سورج ۔۔۔\n<<DIVIDER>>\nزنجیر زنی یہ سینہ زنی\nتم ہم کو نہ سمجھو دیوانے\nشبیر تمہارے ماتم سے\nدل اور کسی کا جلتا ہے\nعاشور کا سورج ۔۔۔\n<<DIVIDER>>\nصد ہیف کے مثلِ رنگِ حنا\nکبریٰ کا سہاگ اب جل ہی گیا\nاس دشتِ بلا میں اے مرزا\nکیا کیا میں کہوں کیا جلتا ہے\nعاشور کا سورج ۔۔۔",
+  "styling": [
+    {
+      "insert": "عاشور کا سورج جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر خاک کا ذرا جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتی ہے زمینِ کرب و بلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا عرشِ معلیٰ جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nانصار کے خیمے جلتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر کا خیمہ جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسلام کی دنیا جلتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کعبے کا مسلےٰ جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کا سورج ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزے کو جگہ دی ہے دل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے کہ جگر کا کیا کہنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اکبر کو سکونِ قلب ملا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیلیٰ کا کلیجہ جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کا سورج ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقرآن کے پڑھنے والوں نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآں کو جلا کر خاک کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یٰس کا سورہ جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن کا پارہ جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کا سورج ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر بار جلایا اُمت نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا خوب یہ اجرِ رسالت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتی ہے محمدکی مسند"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے شیر کا جھولا جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کا سورج ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعطرت پہ نبی کے جور و ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا خوب مسلمانوں نے کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کی ردا کیا جلتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسلام کا پردہ جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کا سورج ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرکھی جو فدک میں چنگاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ شعلے اُسی کے نکلتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا آگ بغاوت کی پھیلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رن کر ب و بلا کا جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کا سورج ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے شیر کی تشنہ دہانی نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک آگ لگا دی پانی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اصغر کے تبسم پر اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا کا کنارا جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کا سورج ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخیمے میں سکینہ دیکھتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب یاس سے خالی ساغر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساحل پہ تڑپتا ہے لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقّہ کا کلیجہ جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کا سورج ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھی کفر کو ایمان سے ٹکر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھر بار نبی کا جل کے رہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلتی ہے جدھارے کعبہء دیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایمان کا قبلہ جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کا سورج ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزنجیر زنی یہ سینہ زنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم ہم کو نہ سمجھو دیوانے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر تمہارے ماتم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل اور کسی کا جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کا سورج ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصد ہیف کے مثلِ رنگِ حنا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبریٰ کا سہاگ اب جل ہی گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس دشتِ بلا میں اے مرزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا کیا میں کہوں کیا جلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عاشور کا سورج ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -1,12 +1,432 @@
 {
   "remoteId": "g2611_u3497",
-  "title": "Ye waqt bhi guzar",
+  "title": "یہ وقت بھی گزر",
   "body": "خود کو دلاسہ یہ دیتی ہے صغرا\nیہ وقت بھی گزر جاے گا\n<<DIVIDER>>\nیہ خالی ہجرے یہ خاموش راتیں\nکیسے بھلا دوں سکینہ کی باتیں\nسمجھا دے تو اپنے دل کو یہ دکھیا\nیہ وقت بھی گزر جاے گا\nخود کو دلاسہ یہ۔۔۔\n<<DIVIDER>>\nدی تھی تسلی یہ اکبر نے مجھکو\nخط بھیج کر میں بلا لونگا تجھکو\nیہ سوچتے تکتی رہتی ہوں راستہ\nیہ وقت بھی گزر جاے گا\nخود کو دلاسہ یہ۔۔۔\n<<DIVIDER>>\nجی بھر کے اصغر سے کھیلی کہاں میں\nاس کا ہمکنا بھی بھولی کہاں میں\nخوابوں میں آ کر یہ کہتا ہے بھیا\nیہ وقت بھی گزر جاے گا\nخود کو دلاسہ یہ۔۔۔\n<<DIVIDER>>\nرو رو کے تین عیدیں میں نے گزاری\nاشکوں کی برسات عیدی میں پای\nکہتا رہتا مجھ سے غم کا یہ دریا\nیہ وقت بھی گزر جاے گا\nخود کو دلاسہ یہ۔۔۔\n<<DIVIDER>>\nگن گن کے دن زندگی کے گزاروں\nقاسم کو عمو کو سب کو پکاروں\nیادوں نے ہر دم دیا یہ دلاسہ\nیہ وقت بھی گزر جاے گا\nخود کو دلاسہ یہ۔۔۔\n<<DIVIDER>>\nدادی کے مرقد پہ ہر روز جا کر\nمانگوں دعائیں دیوں کو جلا کر\nسمجھاتی رہتی ہے بس دادی زہرا\nیہ وقت بھی گزر جاے گا\nخود کو دلاسہ یہ۔۔۔\n<<DIVIDER>>\nمیثم سے مظہر یہ کہتا ہے رو کر\nویران گھر میں تھی سرور کی دختر\nنوحہ تھا یا مرثیہ تھا یہ جملہ\nیہ وقت بھی گزر جاے گا\nخود کو دلاسہ یہ۔۔۔\n<<DIVIDER>>\nعون و محمد کے ویران ہجرے\nرب جانے پھر کب یہ آباد ہونگے\nلوٹ آے گا ایک دن تیرا کنبہ\nیہ وقت بھی گزر جاے گا\nخود کو دلاسہ یہ۔۔۔",
+  "styling": [
+    {
+      "insert": "خود کو دلاسہ یہ دیتی ہے صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وقت بھی گزر جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ خالی ہجرے یہ خاموش راتیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے بھلا دوں سکینہ کی باتیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سمجھا دے تو اپنے دل کو یہ دکھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وقت بھی گزر جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود کو دلاسہ یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدی تھی تسلی یہ اکبر نے مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خط بھیج کر میں بلا لونگا تجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ سوچتے تکتی رہتی ہوں راستہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وقت بھی گزر جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود کو دلاسہ یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجی بھر کے اصغر سے کھیلی کہاں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کا ہمکنا بھی بھولی کہاں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوابوں میں آ کر یہ کہتا ہے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وقت بھی گزر جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود کو دلاسہ یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو رو کے تین عیدیں میں نے گزاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اشکوں کی برسات عیدی میں پای"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتا رہتا مجھ سے غم کا یہ دریا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وقت بھی گزر جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود کو دلاسہ یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگن گن کے دن زندگی کے گزاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کو عمو کو سب کو پکاروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یادوں نے ہر دم دیا یہ دلاسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وقت بھی گزر جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود کو دلاسہ یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدادی کے مرقد پہ ہر روز جا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مانگوں دعائیں دیوں کو جلا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سمجھاتی رہتی ہے بس دادی زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وقت بھی گزر جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود کو دلاسہ یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیثم سے مظہر یہ کہتا ہے رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویران گھر میں تھی سرور کی دختر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ تھا یا مرثیہ تھا یہ جملہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وقت بھی گزر جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود کو دلاسہ یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعون و محمد کے ویران ہجرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رب جانے پھر کب یہ آباد ہونگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوٹ آے گا ایک دن تیرا کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ وقت بھی گزر جاے گا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خود کو دلاسہ یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sugra (s.a)",
+  "subcategory": "شہزادی فاطمہ صغریٰ (س)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

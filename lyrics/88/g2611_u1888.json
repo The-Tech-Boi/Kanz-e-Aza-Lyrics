@@ -1,12 +1,355 @@
 {
   "remoteId": "g2611_u1888",
-  "title": "Karbala jaisi aalam",
+  "title": "کربلا جیسی عالم",
   "body": "کربلا جیسی عالم کی تاریخ میں\nدکھ بھری داستاں کوی ہے ہی نہیں\n<<DIVIDER>>\nدین پر جو مٹے ان شہیدوں میں بھی\nمثل اکبر جواں کوی نہیں ہی نہیں\n<<DIVIDER>>\nماہ رمضان میں دادا نے دی تھی اذاں\nصبحِ عاشور پوتے نے بھی دی اذاں\nگونجی کوفے میں وہ گونجی کربلا میں یہ\nدونوں جیسی اذاں کوی کوی ہے ہی نہیں\nکربلا جیسی عالم۔۔۔\n<<DIVIDER>>\nچاند لیلیٰ کا جس وقت رن کو چلا\nحکمِ سرور سے مُڑ مُڑ کے دیکھا کیا\nحکم سرور سے آتی تھی اس دم صدا\nمثل اکبر جواں کوی ہے ہی نہیں\nکربلا جیسی عالم۔۔۔\n<<DIVIDER>>\nمانگا اکبر نے پانی تو شبیر نے\nلے لی سوکھی زبان منہ میں فرزند کی\nاس نے واپس زبان کھینچی کہتے ہوئے\nایسی سوکھی زبان کوئی ہے ہی نہیں\nکربلا جیسی عالم۔۔۔\n<<DIVIDER>>\nان کو ہمشکل احمد تھے سب مانتے\nپھر بھی برسای تیغیں یہ کہتے ہوئے\nدیکھو سارے گھرانے میں شبیر کے\nایسا کڑیل جواں کوی ہے ہی نہیں\nکربلا جیسی عالم۔۔۔\n<<DIVIDER>>\nپہنچے شبیر فرزند کی لاش پر\nکھینچی سینے سے برچھی تو نکلا جگر\nمر گیا ایڑیوں کو رگڑ کے پسر\nایسا سخت امتحاں کوئی ہے ہی نہیں\nکربلا جیسی عالم۔۔۔\n<<DIVIDER>>\nآی خیمے میں لاش شبیہ نبی\nدل پہ لیلیٰ کے آفت کی برچھی لگی\nپھر بھی سجدے میں اللہ کی جھگ گیء\nام لیلیٰ سی ماں کوی ہے ہی نہیں\nکربلا جیسی عالم۔۔۔",
+  "styling": [
+    {
+      "insert": "کربلا جیسی عالم کی تاریخ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھ بھری داستاں کوی ہے ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدین پر جو مٹے ان شہیدوں میں بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مثل اکبر جواں کوی نہیں ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماہ رمضان میں دادا نے دی تھی اذاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبحِ عاشور پوتے نے بھی دی اذاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجی کوفے میں وہ گونجی کربلا میں یہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دونوں جیسی اذاں کوی کوی ہے ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا جیسی عالم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاند لیلیٰ کا جس وقت رن کو چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حکمِ سرور سے مُڑ مُڑ کے دیکھا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حکم سرور سے آتی تھی اس دم صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مثل اکبر جواں کوی ہے ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا جیسی عالم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمانگا اکبر نے پانی تو شبیر نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لی سوکھی زبان منہ میں فرزند کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس نے واپس زبان کھینچی کہتے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسی سوکھی زبان کوئی ہے ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا جیسی عالم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nان کو ہمشکل احمد تھے سب مانتے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی برسای تیغیں یہ کہتے ہوئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو سارے گھرانے میں شبیر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا کڑیل جواں کوی ہے ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا جیسی عالم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہنچے شبیر فرزند کی لاش پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھینچی سینے سے برچھی تو نکلا جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گیا ایڑیوں کو رگڑ کے پسر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا سخت امتحاں کوئی ہے ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا جیسی عالم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآی خیمے میں لاش شبیہ نبی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل پہ لیلیٰ کے آفت کی برچھی لگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر بھی سجدے میں اللہ کی جھگ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ سی ماں کوی ہے ہی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا جیسی عالم۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "anjumans": [],
   "verified": false
 }

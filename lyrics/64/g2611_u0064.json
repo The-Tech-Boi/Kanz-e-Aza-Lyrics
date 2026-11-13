@@ -1,12 +1,441 @@
 {
   "remoteId": "g2611_u0064",
-  "title": "Aaja ay mere baba",
+  "title": "آجا اے میرے بابا",
   "body": "آجا اے میرے بابا جان\nہاے معصوم سکینہ نے تڑپ کر یہ کہا\nآجا اے میرے بابا جان\n<<DIVIDER>>\nرات دن روتی ہوں کرتی ہوں فقط یاد تجھے\nایک پل چین نہیں آتی ہے زنداں میں مجھے\nاے میرے بابا جدائی نہ میں سہہ پاؤنگی\nآجا اے میرے بابا جان\nہاے معصوم سکینہ۔۔۔\n<<DIVIDER>>\nاب تیرے بعد میں سمجھے ہوں یتیمی کیا ہے\nدور جو گھر سے ہوئی سمجھی اسیری کیا ہے\nدرد و غم اور ستم سہتی ہے دکھیا تیری\nآجا اے میرے بابا جان\nہاے معصوم سکینہ۔۔۔\n<<DIVIDER>>\nدیکھو رخسار پہ ہیں کتنے طمانچوں کے نشاں\nجسم میں دیکھو زرا کتنے ہیں دروں کے نشاں\nدرد اتنے ہیں کہ لگتا ہے میں مر جاؤں گی\nآجا اے میرے بابا جان\nہاے معصوم سکینہ۔۔۔\n<<DIVIDER>>\nتیرے سینے پہ ہی سوتی تھی لپٹ کر میں تجھے\nاب بھلا خاک پہ نیند آے تو آے کیسے\nہاے دیکھو تو سکینہ کی زرا بے چینی\nآجا اے میرے بابا جان\nہاے معصوم سکینہ۔۔۔\n<<DIVIDER>>\nہاے کانوں سے لہو اب بھی ٹپکتا ہے میرا\nاور گردن میں بھی رسی کے نشاں ہیں گہرا\nکتنی زخمی ہوں میں آجاؤ یہ دکھلاؤں گی\nآجا اے میرے بابا جان\nہاے معصوم سکینہ۔۔۔\n<<DIVIDER>>\nآج بھی کتنی ہوں پیاسی میں بتاؤں کیسے\nہونٹ سوکھے ہیں زبان خشک دکھاؤں کیسے\nسانس لیتی ہوں تو تھراتا ہے یہ جسم میرا\nآجا اے میرے بابا جان\nہاے معصوم سکینہ۔۔۔\n<<DIVIDER>>\nہاے بابا تیرے زخموں کو نہیں بھولی میں\nبے کفن لاشہ تیرا اب بھی نہیں بھولی میں\nیاد میں تیرے تڑپتی ہوں جگر ہے چھلنی\nآجا اے میرے بابا جان\nہاے معصوم سکینہ۔۔۔\n<<DIVIDER>>\nباپ کے غم میں وہ اعظم ہاے دم توڑ گیء\nقید خانے میں ہر ایک دل کو روتا چھوڑ گیء\nپھر عاکف آے گی زنداں سے نہ آواز کوی\nآجا اے میرے بابا جان\nہاے معصوم سکینہ۔۔۔",
+  "styling": [
+    {
+      "insert": "آجا اے میرے بابا جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے معصوم سکینہ نے تڑپ کر یہ کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے میرے بابا جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرات دن روتی ہوں کرتی ہوں فقط یاد تجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک پل چین نہیں آتی ہے زنداں میں مجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بابا جدائی نہ میں سہہ پاؤنگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے میرے بابا جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے معصوم سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب تیرے بعد میں سمجھے ہوں یتیمی کیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دور جو گھر سے ہوئی سمجھی اسیری کیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد و غم اور ستم سہتی ہے دکھیا تیری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے میرے بابا جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے معصوم سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھو رخسار پہ ہیں کتنے طمانچوں کے نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسم میں دیکھو زرا کتنے ہیں دروں کے نشاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درد اتنے ہیں کہ لگتا ہے میں مر جاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے میرے بابا جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے معصوم سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیرے سینے پہ ہی سوتی تھی لپٹ کر میں تجھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب بھلا خاک پہ نیند آے تو آے کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے دیکھو تو سکینہ کی زرا بے چینی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے میرے بابا جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے معصوم سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے کانوں سے لہو اب بھی ٹپکتا ہے میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور گردن میں بھی رسی کے نشاں ہیں گہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کتنی زخمی ہوں میں آجاؤ یہ دکھلاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے میرے بابا جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے معصوم سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآج بھی کتنی ہوں پیاسی میں بتاؤں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہونٹ سوکھے ہیں زبان خشک دکھاؤں کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سانس لیتی ہوں تو تھراتا ہے یہ جسم میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے میرے بابا جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے معصوم سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے بابا تیرے زخموں کو نہیں بھولی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے کفن لاشہ تیرا اب بھی نہیں بھولی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد میں تیرے تڑپتی ہوں جگر ہے چھلنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے میرے بابا جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے معصوم سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ کے غم میں وہ اعظم ہاے دم توڑ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید خانے میں ہر ایک دل کو روتا چھوڑ گیء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر عاکف آے گی زنداں سے نہ آواز کوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجا اے میرے بابا جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے معصوم سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Azam Hussain",
   "anjumans": [],
   "verified": false

@@ -1,7 +1,283 @@
 {
   "remoteId": "g2611_u2714",
-  "title": "Qayamat hai ke laashe",
+  "title": "قیامت ہے کے لاش",
   "body": "قیامت ہے کے لاشِ شاہِ دین کروٹ بدلتی ہے\nکھُلے سر رن میں بنتِ فاطمہ زہرا نکلتی ہے\n<<DIVIDER>>\nحرم لُٹتے ہے اور ویران ہوتا ہے نبی کا گھر\nمسلمانوں کے ہاتھوں چادرِ تطہیر جلتی ہے\nقیامت ہے کے ۔۔۔\n<<DIVIDER>>\nذرا آہستہ کھینچو ناوقِ اب تیر اصغر کا\nپدر کی گود میں اب گردنِ بے شیر ڈھلتی ہے\nقیامت ہے کے ۔۔۔\n<<DIVIDER>>\nبھڑک اُٹھتے ہیں شعلے آگ لگ جاتی ہے پانی میں\nدوہائی ہے کے خیمے میں سکینہ جب مچلتی ہے\nقیامت ہے کے ۔۔۔\n<<DIVIDER>>\nکہاں ہے حضرتِ قاسم ذرا دولہن کو دیکھو تو\nکہ شب کی بیاہی اپنی مانگ میں اب خاک ملتی ہے\nقیامت ہے کے ۔۔۔\n<<DIVIDER>>\nعلی اصغر نے شاید کہہ دیا یہ زیرِ لب ہنس کر\nمیری تشنہ لبی پر تشنگی بھی ہاتھ ملتی ہے\nقیامت ہے کے ۔۔۔\n<<DIVIDER>>\nگواہی تا قیامت دے گا یہ عاشور کا سورج\nقیامت کی تپش زنجیر لوہے کی پگھلتی ہے\nقیامت ہے کے ۔۔۔\n<<DIVIDER>>\nنمازیں دونوں عالم کی تصدق تیرے سجدے پر\nگُلوئے اشھدُان لا الہ پر تیغ چلتی ہے\nقیامت ہے کے ۔۔۔\n<<DIVIDER>>\nکہاں ہیں حضرتِ ایوب وابراہیم اے مرزا\nپدر کے سامنے کڑیل جواں کی جاں نکلتی ہے\nقیامت ہے کے ۔۔۔",
+  "styling": [
+    {
+      "insert": "قیامت ہے کے لاشِ شاہِ دین کروٹ بدلتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھُلے سر رن میں بنتِ فاطمہ زہرا نکلتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحرم لُٹتے ہے اور ویران ہوتا ہے نبی کا گھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلمانوں کے ہاتھوں چادرِ تطہیر جلتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہے کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nذرا آہستہ کھینچو ناوقِ اب تیر اصغر کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پدر کی گود میں اب گردنِ بے شیر ڈھلتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہے کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھڑک اُٹھتے ہیں شعلے آگ لگ جاتی ہے پانی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دوہائی ہے کے خیمے میں سکینہ جب مچلتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہے کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہاں ہے حضرتِ قاسم ذرا دولہن کو دیکھو تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ شب کی بیاہی اپنی مانگ میں اب خاک ملتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہے کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی اصغر نے شاید کہہ دیا یہ زیرِ لب ہنس کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری تشنہ لبی پر تشنگی بھی ہاتھ ملتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہے کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگواہی تا قیامت دے گا یہ عاشور کا سورج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت کی تپش زنجیر لوہے کی پگھلتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہے کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنمازیں دونوں عالم کی تصدق تیرے سجدے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گُلوئے اشھدُان لا الہ پر تیغ چلتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہے کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہاں ہیں حضرتِ ایوب وابراہیم اے مرزا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پدر کے سامنے کڑیل جواں کی جاں نکلتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قیامت ہے کے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

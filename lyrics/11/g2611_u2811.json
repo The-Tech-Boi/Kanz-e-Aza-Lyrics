@@ -1,12 +1,473 @@
 {
   "remoteId": "g2611_u2811",
-  "title": "Rukh se ek baar",
+  "title": "رخ سے اک بار",
   "body": "ھائے حیدر کے جنازے پہ عجب منظر تھا\nبیٹیاں قدموں سے لپٹی تھیں بصد آہ و بکا\nبڑھ کے شبر نے جو چہرے سے کفن بند کیا\nدیکھکر بھائی کے چہرے کو یہ زینب نے کہا\n<<DIVIDER>>\nرخ سے اک بار کفن اور ھٹادو بھیا\nمیرے بابا کا مجھے چہرا دکھادو بھیا\n<<DIVIDER>>\nآج بابا جو میرے گھر سے چلے جائینگے\nپھر مجھے شامِ غریباں میں نظر آنئیگے\nاتنے دن کیسے گزارونگی بتادو بھیا\nمیرے بابا کا مجھے۔۔۔\nرخ سے اک بار کفن۔۔۔\n<<DIVIDER>>\nجیسے اماں کی ردا میں تھی شفا نانا کی\nکیا یہ ممکن ھے کے اُٹھ جائیں میرے بابا بھی\nمیری چادر میرے بابا کو اُڑھا دو بھیا\nمیرے بابا کا مجھے۔۔۔\nرخ سے اک بار کفن۔۔۔\n<<DIVIDER>>\nھائے شبیر سے زینب نے کہا رو رو کر\nسُونا لگتا ھے عمامے کے بنا بابا کا سر\nسر پہ بابا کے عمامہ تو سجادو بھیا\nمیرے بابا کا مجھے۔۔۔\nرخ سے اک بار کفن۔۔۔\n<<DIVIDER>>\nکیسے بتلاؤں یہ دل غم سے پھٹا جاتا ہے\nکیا جدا باپ سے ھوکر بھی جیا جاتا ہے\nاپنی بہنوں کو فقط اتنا بتادو بھیا\nمیرے بابا کا مجھے۔۔۔\nرخ سے اک بار کفن۔۔۔\n<<DIVIDER>>\nآ رہی ھونگی بقیعہ سے صدا سن کے میری\nسر پہ بابا کے نا پڑ جائے نظر اماں کی\nزخم اماں کی نگاھوں سے چھپادو بھیا\nمیرے بابا کا مجھے۔۔۔\nرخ سے اک بار کفن۔۔۔\n<<DIVIDER>>\nغم میں بابا کے تڑپتا ہے زرا دیکھو تو\nدور بیٹھا ہے بُلا لاؤ میرے غازی کو\nپاس کچھ دیر تو بابا کے بٹھادو بھیا\nمیرے بابا کا مجھے۔۔۔\nرخ سے اک بار کفن۔۔۔\n<<DIVIDER>>\nخون بابا کی جبیں سے وہ گرا تھا جس پہ\nاپنے بابا کی نشانی میں بنالونگی اُسے\nمیرے بابا کا مصلٰی مجھے لادو بھیا\nمیرے بابا کا مجھے۔۔۔\nرخ سے اک بار کفن۔۔۔\n<<DIVIDER>>\nگھر سے جاتا تھا جنازہ جو علی کا باھر\nبیٹیاں کہتی تھیں زیشان و رضا رو رو کر\nآخری بار تو بابا سے ملادو بھیا\nمیرے بابا کا مجھے۔۔۔\nرخ سے اک بار کفن۔۔۔",
+  "styling": [
+    {
+      "insert": "ھائے حیدر کے جنازے پہ عجب منظر تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیاں قدموں سے لپٹی تھیں بصد آہ و بکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بڑھ کے شبر نے جو چہرے سے کفن بند کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھکر بھائی کے چہرے کو یہ زینب نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرخ سے اک بار کفن اور ھٹادو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کا مجھے چہرا دکھادو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآج بابا جو میرے گھر سے چلے جائینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر مجھے شامِ غریباں میں نظر آنئیگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنے دن کیسے گزارونگی بتادو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کا مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخ سے اک بار کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجیسے اماں کی ردا میں تھی شفا نانا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا یہ ممکن ھے کے اُٹھ جائیں میرے بابا بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری چادر میرے بابا کو اُڑھا دو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کا مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخ سے اک بار کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nھائے شبیر سے زینب نے کہا رو رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُونا لگتا ھے عمامے کے بنا بابا کا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پہ بابا کے عمامہ تو سجادو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کا مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخ سے اک بار کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے بتلاؤں یہ دل غم سے پھٹا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا جدا باپ سے ھوکر بھی جیا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی بہنوں کو فقط اتنا بتادو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کا مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخ سے اک بار کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآ رہی ھونگی بقیعہ سے صدا سن کے میری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پہ بابا کے نا پڑ جائے نظر اماں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم اماں کی نگاھوں سے چھپادو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کا مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخ سے اک بار کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nغم میں بابا کے تڑپتا ہے زرا دیکھو تو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دور بیٹھا ہے بُلا لاؤ میرے غازی کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاس کچھ دیر تو بابا کے بٹھادو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کا مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخ سے اک بار کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخون بابا کی جبیں سے وہ گرا تھا جس پہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے بابا کی نشانی میں بنالونگی اُسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کا مصلٰی مجھے لادو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کا مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخ سے اک بار کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر سے جاتا تھا جنازہ جو علی کا باھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیاں کہتی تھیں زیشان و رضا رو رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آخری بار تو بابا سے ملادو بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے بابا کا مجھے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رخ سے اک بار کفن۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Zeeshan Abidi",
   "anjumans": [],
   "verified": false

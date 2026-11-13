@@ -1,12 +1,364 @@
 {
   "remoteId": "g2611_u1667",
-  "title": "Innalillah pad ke",
+  "title": "انا للّٰہ پڑھ کے",
   "body": "انا للّٰہ پڑھ کے اکبر کو\nہاے شہ نے عمامہ باندھا ہے\n<<DIVIDER>>\nگھر سے نکلے تھے اس طرح اکبر\nجیسے کوئی جنازہ جاتا ہے\nانا للّٰہ پڑھ کے۔۔۔\n<<DIVIDER>>\nموت جینے کی کر رہی ہے دعا\nاور اکبر چلے ہیں مرنے کو\nام لیلیٰ کا مصطفیٰ بیٹا\nزخم سینے پہ کھانے جاتا ہے\nانا للّٰہ پڑھ کے۔۔۔\n<<DIVIDER>>\nجیسے دل جا رہا ہو مقتل میں\nجیسے جاتی ہو جان سینے سے\nایسے اپنے جواں کے پیچھے\nاک مظلوم باپ چلتا ہے\nانا للّٰہ پڑھ کے۔۔۔\n<<DIVIDER>>\nکتنا پیارا ہے شاہ کو اکبر\nسارے ظالم یہ بات جانتے ہیں\nتیغ اکبر پہ چل رہی ہے یہاں\nابنِ زہرا وہاں تڑپتا ہے\nانا للّٰہ پڑھ کے۔۔۔\n<<DIVIDER>>\nقوت مرتضیٰ یہ پوچھتی ہے\nصبر شبیر اتنا بتلا دے\nوہ تو خیبر کے در سے وزنی تھا\nکیسے لاشہ جواں اٹھایا ہے\nانا للّٰہ پڑھ کے۔۔۔\n<<DIVIDER>>\nرن میں رہوار سے گرے اکبر\nشاہ خیمے کے در سے اٹھ نہ سکے\nایسے دل تھام کے گرے مولا\nعرش جیسے زمیں پہ گرتا ہے\nانا للّٰہ پڑھ کے۔۔۔\n<<DIVIDER>>\nاے رضا اس جوان کے سینے سے\nخون رکتا نہیں ہے روکے سے\nشہ کا دامن لہو میں ڈوبا گیا\nزخم نہ جانے کتنا گہرا ہے\nانا للّٰہ پڑھ کے۔۔۔",
+  "styling": [
+    {
+      "insert": "انا للّٰہ پڑھ کے اکبر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے شہ نے عمامہ باندھا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر سے نکلے تھے اس طرح اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے کوئی جنازہ جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انا للّٰہ پڑھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nموت جینے کی کر رہی ہے دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اکبر چلے ہیں مرنے کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ کا مصطفیٰ بیٹا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم سینے پہ کھانے جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انا للّٰہ پڑھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجیسے دل جا رہا ہو مقتل میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیسے جاتی ہو جان سینے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے اپنے جواں کے پیچھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک مظلوم باپ چلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انا للّٰہ پڑھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنا پیارا ہے شاہ کو اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سارے ظالم یہ بات جانتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیغ اکبر پہ چل رہی ہے یہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابنِ زہرا وہاں تڑپتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انا للّٰہ پڑھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقوت مرتضیٰ یہ پوچھتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صبر شبیر اتنا بتلا دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ تو خیبر کے در سے وزنی تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسے لاشہ جواں اٹھایا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انا للّٰہ پڑھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرن میں رہوار سے گرے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ خیمے کے در سے اٹھ نہ سکے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسے دل تھام کے گرے مولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عرش جیسے زمیں پہ گرتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انا للّٰہ پڑھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے رضا اس جوان کے سینے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون رکتا نہیں ہے روکے سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ کا دامن لہو میں ڈوبا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زخم نہ جانے کتنا گہرا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انا للّٰہ پڑھ کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Raza Shah",
   "anjumans": [],
   "verified": false

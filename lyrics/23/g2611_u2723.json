@@ -1,7 +1,396 @@
 {
   "remoteId": "g2611_u2723",
-  "title": "Quran lahoo mein",
+  "title": "قرآن لہو میں",
   "body": "قرآن لہو میں ڈوب گیا\nآل نبی ہے بن چادر ہاے نوحہ کناں ہے کعبہ\n<<DIVIDER>>\nرویا تڑپ کے ساحل کو دریا گلے لگا کے\nپتھر کے دل ہوے پانی خون برسا آسماں سے\nروندھا گیا ہے گردن‌ سے سبط نبی کا لاشہ\nقرآن لہو میں۔۔۔\n<<DIVIDER>>\nایک تیر آ کے اصغر کی گردن میں گڑھ گیا ہے\nویران‌ ماں کی گودی ہے جھولا اجڑ گیا ہے\nچھ ماہ کا مجاہد بھی مارا گیا ہے پیاسا\nقرآن لہو میں۔۔۔\n<<DIVIDER>>\nچن چن کے پھول مادر نے رو رو کے یہ صدا دی\nاے میرے لال یہ تیری کیسی ہوئی ہے شادی\nپامال ہو گیا لاشہ بکھرا ہوا ہے سہرا\nقرآن لہو میں۔۔۔\n<<DIVIDER>>\nشرم و حیا کی شہزادی بے مقنہ و ردا ہے\nغیرت سے رن میں غازی کا لاشہ تڑپ رہا ہے\nاٹھ اٹھ کے گرتا ہے رن میں عباس کا جنازہ\nقرآن لہو میں۔۔۔\n<<DIVIDER>>\nاسباب لٹ گیا سارا خیمے اجڑ گےء ہے\nآل روتی ہے کفار ہنس رہے ہیں\nکوئی نہیں ہے اب یاور اولاد مصطفیٰ کا\nقرآن لہو میں۔۔۔\n<<DIVIDER>>\nکرتے ہیں ظلم بچوں پر ظلم و ستم کے بانی\nفریاد کر رہی ہے یہ مقتول نوجوانی\nکڑیل جوان اکبر کا ٹکڑے ہوا کلیجہ\nقرآن لہو میں۔۔۔\n<<DIVIDER>>\nہے کون اب غریبوں کا پوچھے جو ان سے آ کے\nکیوں مارتے ہیں یہ ظالم منہ پر میرے طمانچے\nسنتا نہیں ہے کوئی بھی کس سے کہوں میں بابا\nقرآن لہو میں۔۔۔\n<<DIVIDER>>\nدل چاک ہو گیا غم سے صدموں سے ناتواں ہے\nغربت کی خاک ہے سر پر آنکھوں سے خوں رواں ہے\nسوتا ہے خاک پر بیٹھا دونوں جہاں کا آقا\nقرآن لہو میں۔۔۔\n<<DIVIDER>>\nآیت کربلا کی یہ کہتی ہے سر اٹھا کے\nدین خدا بچانے کو صورت میں شہ کی آ کے\nشام غریباں میں سورج گوہر یہ کہہ کے ڈوبا\nقرآن لہو میں۔۔۔",
+  "styling": [
+    {
+      "insert": "قرآن لہو میں ڈوب گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل نبی ہے بن چادر ہاے نوحہ کناں ہے کعبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرویا تڑپ کے ساحل کو دریا گلے لگا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پتھر کے دل ہوے پانی خون برسا آسماں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روندھا گیا ہے گردن‌ سے سبط نبی کا لاشہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن لہو میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک تیر آ کے اصغر کی گردن میں گڑھ گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ویران‌ ماں کی گودی ہے جھولا اجڑ گیا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھ ماہ کا مجاہد بھی مارا گیا ہے پیاسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن لہو میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچن چن کے پھول مادر نے رو رو کے یہ صدا دی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے لال یہ تیری کیسی ہوئی ہے شادی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پامال ہو گیا لاشہ بکھرا ہوا ہے سہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن لہو میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشرم و حیا کی شہزادی بے مقنہ و ردا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غیرت سے رن میں غازی کا لاشہ تڑپ رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھ اٹھ کے گرتا ہے رن میں عباس کا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن لہو میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسباب لٹ گیا سارا خیمے اجڑ گےء ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آل روتی ہے کفار ہنس رہے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی نہیں ہے اب یاور اولاد مصطفیٰ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن لہو میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکرتے ہیں ظلم بچوں پر ظلم و ستم کے بانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فریاد کر رہی ہے یہ مقتول نوجوانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کڑیل جوان اکبر کا ٹکڑے ہوا کلیجہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن لہو میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے کون اب غریبوں کا پوچھے جو ان سے آ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں مارتے ہیں یہ ظالم منہ پر میرے طمانچے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سنتا نہیں ہے کوئی بھی کس سے کہوں میں بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن لہو میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل چاک ہو گیا غم سے صدموں سے ناتواں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غربت کی خاک ہے سر پر آنکھوں سے خوں رواں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوتا ہے خاک پر بیٹھا دونوں جہاں کا آقا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن لہو میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآیت کربلا کی یہ کہتی ہے سر اٹھا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دین خدا بچانے کو صورت میں شہ کی آ کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام غریباں میں سورج گوہر یہ کہہ کے ڈوبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قرآن لہو میں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

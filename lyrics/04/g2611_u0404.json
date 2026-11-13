@@ -1,12 +1,505 @@
 {
   "remoteId": "g2611_u0404",
-  "title": "Alamdar kahan ho",
+  "title": "علمدار کہاں ہو",
   "body": "کرتی تھی بکا زینبِ غم خوار\nعلمدار کہاں ہو\n<<DIVIDER>>\nبے پردہ حرم ہے سر بازار\nعلمدار کہاں ہو\n<<DIVIDER>>\nجب سے مجھے درپیش ہوی تیری جدائی\nتاریک نظر آنے لگی ساری خدائی\nزینب ہے مصائب میں گرفتار\nعلمدار کہاں ہو\nکرتی تھی بکا۔۔۔\n<<DIVIDER>>\nمارا جو کبھی شمر ستمگر نے طمانچہ\nمعصوم سکینہ نے تیرا نام پکارا\nبچی کو مدد ہے تیری درکار\nعلمدار کہاں ہو\nکرتی تھی بکا۔۔۔\n<<DIVIDER>>\nیثرب میں کبھی میرا قدم گھر سے نہ نکلا\nبس تھی میری دنیا بنی ہاشم کا محلہ\nاب میرا سفر ہے سر بازار\nعلمدار کہاں ہو\nکرتی تھی بکا۔۔۔\n<<DIVIDER>>\nبے پردہ سر شامحرم ہوتے ہیں تشہیر\nروتا ہے لہو نوکِ سِناں پر سر شبیر\nاے لال محمد کے مددگار\nعلمدار کہاں ہو\nکرتی تھی بکا۔۔۔\n<<DIVIDER>>\nہوتے ہیں بڑے ظلم و ستم اہلِ حرم پر\nدرے کبھی کھاتے ہیں کبھی کھاتے ہیں پتھر\nسادات پہ ہنستے ہیں ستمگر\nعلمدار کہاں ہو\nکرتی تھی بکا۔۔۔\n<<DIVIDER>>\nیہ آ گیء تقدیر کہاں آل عبا کی\nیہ فوج جفا کار ہمیں کہتی ہے باغی\nاس تنز کو سن کر ہوں دلافگار\nعلمدار کہاں ہو\nکرتی تھی بکا۔۔۔\n<<DIVIDER>>\nہے ہاتھ رسن بستہ نہیں سر پہ رداییں\nسادات بھلا بہر مدد کس کو بلاییں\nہے شام کا رستہ بڑا دشوار\nعلمدار کہاں ہو\nکرتی تھی بکا۔۔۔\n<<DIVIDER>>\nدیکھی نہیں جاتی میرے سجاد کی حالت\nچلنے بھی نہیں دیتی اسے اسکی نقاہت\nمر جاۓ نہ غم سے کہیں بیمار\nعلمدار کہاں ہو\nکرتی تھی بکا۔۔۔\n<<DIVIDER>>\nسبطین میں بھلا کیسے لکھوں شام کا منظر\nجب شام کے بازار میں سیدانیاں صفدر\nکہتی تھی یہ ہر بار\nعلمدار کہاں ہو\nکرتی تھی بکا۔۔۔",
+  "styling": [
+    {
+      "insert": "کرتی تھی بکا زینبِ غم خوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے پردہ حرم ہے سر بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے مجھے درپیش ہوی تیری جدائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تاریک نظر آنے لگی ساری خدائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب ہے مصائب میں گرفتار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی بکا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمارا جو کبھی شمر ستمگر نے طمانچہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "معصوم سکینہ نے تیرا نام پکارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بچی کو مدد ہے تیری درکار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی بکا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیثرب میں کبھی میرا قدم گھر سے نہ نکلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس تھی میری دنیا بنی ہاشم کا محلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب میرا سفر ہے سر بازار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی بکا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے پردہ سر شامحرم ہوتے ہیں تشہیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتا ہے لہو نوکِ سِناں پر سر شبیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے لال محمد کے مددگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی بکا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوتے ہیں بڑے ظلم و ستم اہلِ حرم پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "درے کبھی کھاتے ہیں کبھی کھاتے ہیں پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سادات پہ ہنستے ہیں ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی بکا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ آ گیء تقدیر کہاں آل عبا کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ فوج جفا کار ہمیں کہتی ہے باغی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس تنز کو سن کر ہوں دلافگار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی بکا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے ہاتھ رسن بستہ نہیں سر پہ رداییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سادات بھلا بہر مدد کس کو بلاییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے شام کا رستہ بڑا دشوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی بکا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھی نہیں جاتی میرے سجاد کی حالت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلنے بھی نہیں دیتی اسے اسکی نقاہت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جاۓ نہ غم سے کہیں بیمار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی بکا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسبطین میں بھلا کیسے لکھوں شام کا منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب شام کے بازار میں سیدانیاں صفدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہتی تھی یہ ہر بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علمدار کہاں ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کرتی تھی بکا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Sibtain Kazmi",
   "anjumans": [],
   "verified": false

@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u0729",
-  "title": "Ay shaheede karbala",
+  "title": "اے شہید کربلا",
   "body": "اے شہید کربلا تجھ پر سلام\nاے ذبیح نینوا تجھ پر سلام\n<<DIVIDER>>\nہاتھ سے اصغر دیےء اکبر دیےء\nاے خلیل کربلا تجھ پر سلام\nاے ذبیح نینوا تجھ پر سلام\nاے شہید کربلا۔۔۔\n<<DIVIDER>>\nدین حق جب طالب نصرت ہوا\nتو بنا دیں کی پناہ تجھ پر سلام\nاے ذبیح نینوا تجھ پر سلام\nاے شہید کربلا۔۔۔\n<<DIVIDER>>\nگھر کا گھر دیں کی بقا کے واسطے\nکر دیا پیش خدا تجھ پر سلام\nاے ذبیح نینوا تجھ پر سلام\nاے شہید کربلا۔۔۔\n<<DIVIDER>>\nتو نے اہلبیت کو قرآن سے\nنہ دیا ہونے جدا تجھ پر سلام\nاے ذبیح نینوا تجھ پر سلام\nاے شہید کربلا۔۔۔\n<<DIVIDER>>\nکر دیا ہے زندہ دیں کہ حشر تک\nدے کے زینب کی ردا تجھ پر سلام\nاے ذبیح نینوا تجھ پر سلام\nاے شہید کربلا۔۔۔\n<<DIVIDER>>\nساے میں تیروں کے تو نے اے حسین\nکی نماز حق ادا تجھ پر سلام\nاے ذبیح نینوا تجھ پر سلام\nاے شہید کربلا۔۔۔\n<<DIVIDER>>\nحر بھی ہو کر آ گیا جب شرمسار\nبخش دی اس کی خطا تجھ پر سلام\nاے ذبیح نینوا تجھ پر سلام\nاے شہید کربلا۔۔۔\n<<DIVIDER>>\nتو نے رکھ لی انبیاء کی آبرو\nاپنا گھر لٹوا دیا تجھ پر سلام\nاے ذبیح نینوا تجھ پر سلام\nاے شہید کربلا۔۔۔\n<<DIVIDER>>\nخلد کی کوثر کو کچھ خواہش نہیں\nکربلا مجھکو دکھا تجھ پر سلام\nاے ذبیح نینوا تجھ پر سلام\nاے شہید کربلا۔۔۔",
+  "styling": [
+    {
+      "insert": "اے شہید کربلا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذبیح نینوا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاتھ سے اصغر دیےء اکبر دیےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے خلیل کربلا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذبیح نینوا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدین حق جب طالب نصرت ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تو بنا دیں کی پناہ تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذبیح نینوا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگھر کا گھر دیں کی بقا کے واسطے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کر دیا پیش خدا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذبیح نینوا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو نے اہلبیت کو قرآن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ دیا ہونے جدا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذبیح نینوا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکر دیا ہے زندہ دیں کہ حشر تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دے کے زینب کی ردا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذبیح نینوا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nساے میں تیروں کے تو نے اے حسین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کی نماز حق ادا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذبیح نینوا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحر بھی ہو کر آ گیا جب شرمسار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بخش دی اس کی خطا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذبیح نینوا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو نے رکھ لی انبیاء کی آبرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنا گھر لٹوا دیا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذبیح نینوا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخلد کی کوثر کو کچھ خواہش نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا مجھکو دکھا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ذبیح نینوا تجھ پر سلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شہید کربلا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Kausar",
   "anjumans": [],
   "verified": false

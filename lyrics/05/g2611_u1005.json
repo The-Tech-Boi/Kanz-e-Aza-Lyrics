@@ -1,12 +1,386 @@
 {
   "remoteId": "g2611_u1005",
-  "title": "Bhaiya ghareeb zainab",
+  "title": "بھیا غریب زینب",
   "body": "بھیا غریب زینب تیرا کفن نہ لائی\nلاشِ حُسین پر ہے زینب کی یہ دُہائی\n<<DIVIDER>>\nمثلِ بتول حق سے محروم ہوں میں اب تک\nشبیر تیرے غم میں مغموم ہوں میں اب تک\nتڑپا رہی ہے مجھ کو عباس کی جُدائی\nبھیا غریب زینب ۔۔۔\nاے میرے بھائی حُسین۔۔۔\n<<DIVIDER>>\nافسوس کے سکینہ نازوں سے جو پالی ہے\nاُس کو ملی نہ بھیا زندان سے رہائی\nبھیا غریب زینب ۔۔۔۔۔\nبھیا غریب زینب ۔۔۔\nاے میرے بھائی حُسین۔۔۔\nہم پر ستم اے بھیا ڈھاتے رہے ستمگر\nسیدانیوں کے سر میں آتی تھی خاک اُڑ کر\nبازار کا وہ منظر زینب نہ بھول پائی\nبھیا غریب زینب ۔۔۔۔۔\nبھیا غریب زینب ۔۔۔\nاے میرے بھائی حُسین۔۔۔\n<<DIVIDER>>\nبالوں سے منہ چھُپا کر بازار میں گئی تھی\nنرغے میں اشقیائ کے بے پردہ میں کھڑی تھی\nگزری ہے کیا بہن پر کیسے بتائوں بھائی\nبھیا غریب زینب ۔۔۔\nاے میرے بھائی حُسین۔۔۔\n<<DIVIDER>>\nسجاد کے یہ سر پر دُشوار مرحلہ تھا\nزنجیر کو سنبھالے بیمار رو رہا تھا\nآلِ نبی کھُلے سر دربار میں جو آئی\nبھیا غریب زینب ۔۔۔\nاے میرے بھائی حُسین۔۔۔\n<<DIVIDER>>\nسب سے بڑی مصیبت کیاہے کسی نے پوچھا\nبیمار سر جھُکا کر روتے ہوئے یہ بولا\nبہنوں کا شام جانا زینب کی بے ردائی\nبھیا غریب زینب ۔۔۔\nاے میرے بھائی حُسین۔۔۔\n<<DIVIDER>>\nاس اک سانح پر اکثر محب نے سوچا\nبرباد ہو گیا جب آلِ نبی کا کنبہ\nبعدِ حسین کیونکر باقی رہی خدائی\nبھیا غریب زینب ۔۔۔\nاے میرے بھائی حُسین۔۔۔",
+  "styling": [
+    {
+      "insert": "بھیا غریب زینب تیرا کفن نہ لائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لاشِ حُسین پر ہے زینب کی یہ دُہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمثلِ بتول حق سے محروم ہوں میں اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شبیر تیرے غم میں مغموم ہوں میں اب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپا رہی ہے مجھ کو عباس کی جُدائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا غریب زینب ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nافسوس کے سکینہ نازوں سے جو پالی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُس کو ملی نہ بھیا زندان سے رہائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا غریب زینب ۔۔۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا غریب زینب ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم پر ستم اے بھیا ڈھاتے رہے ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سیدانیوں کے سر میں آتی تھی خاک اُڑ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازار کا وہ منظر زینب نہ بھول پائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا غریب زینب ۔۔۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا غریب زینب ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبالوں سے منہ چھُپا کر بازار میں گئی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نرغے میں اشقیائ کے بے پردہ میں کھڑی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گزری ہے کیا بہن پر کیسے بتائوں بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا غریب زینب ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد کے یہ سر پر دُشوار مرحلہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زنجیر کو سنبھالے بیمار رو رہا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آلِ نبی کھُلے سر دربار میں جو آئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا غریب زینب ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب سے بڑی مصیبت کیاہے کسی نے پوچھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار سر جھُکا کر روتے ہوئے یہ بولا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہنوں کا شام جانا زینب کی بے ردائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا غریب زینب ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس اک سانح پر اکثر محب نے سوچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برباد ہو گیا جب آلِ نبی کا کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعدِ حسین کیونکر باقی رہی خدائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا غریب زینب ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے بھائی حُسین۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "anjumans": [],
   "verified": false
 }

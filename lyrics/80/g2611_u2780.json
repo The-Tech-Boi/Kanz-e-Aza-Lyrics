@@ -1,12 +1,383 @@
 {
   "remoteId": "g2611_u2780",
-  "title": "Roke zindan mein ye",
+  "title": "روکے زندان میں",
   "body": "روکے زندان میں بولی بانو\nمیری بچی کو نہ تنہا چھوڑو\n<<DIVIDER>>\nساتھ ماں کو بھی لحد میں گاڑو\nمیری بچی کو نہ تنہا چھوڑو\n<<DIVIDER>>\nڈر کے روے گی جو نازوں کی پلی\nتھام لے گی یہ نصیبوں کی جلی\nخوف اندھیرے میں نہ ہوے اسکو\nمیری بچی کو نہ۔۔۔\n<<DIVIDER>>\nچپ ہے وہ بولنے والی ہے ہے\nمیرا پہلو ہوا خالی ہے ہے\nہاتھ می جودھ رہی ہوں لوگوں\nمیری بچی کو نہ۔۔۔\n<<DIVIDER>>\nکس طرح لوگوں میں کفنانے دوں\nکس طرح گاڑنے لے جانے دوں\nماں ہوں میں اسکو نہ مجھ سے چھینو\nمیری بچی کو نہ۔۔۔\n<<DIVIDER>>\nٹہرو کرتہ تو بدل لوں اس کا\nپونچھ لوں کانوں میں ہے خون جمع\nکچھ خفا ہے تو منا لینے دو\nمیری بچی کو نہ۔۔۔\n<<DIVIDER>>\nکھول تو لوں میں گلے سے رسی\nدم کے گھٹنے سے نہ ہو بے ہوشی\nبی بی شاید کے ابھی زندہ ہو\nمیری بچی کو نہ۔۔۔\n<<DIVIDER>>\nگود سے ماں کی چھڑاؤ نہ اسے\nتنگ مرقد میں سلاؤ نہ اسے\nچپ رہو یونہی پڑے رہنے دو\nمیری بچی کو نہ۔۔۔\n<<DIVIDER>>\nچونک جاے نہ وہ سوتی سوتی\nچپ ہوی ہے ابھی روتی روتی\nباپ کے سینے پہ سونے کی ہے جو\nمیری بچی کو نہ۔۔۔\n<<DIVIDER>>\nباپ کے ذکر ابھی ہوتے تھے\nابھی کرتی تھی وہ باتیں مجھ سے\nنیند شاید کے لگی ہے اسکو\nمیری بچی کو نہ۔۔۔",
+  "styling": [
+    {
+      "insert": "روکے زندان میں بولی بانو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بچی کو نہ تنہا چھوڑو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nساتھ ماں کو بھی لحد میں گاڑو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بچی کو نہ تنہا چھوڑو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nڈر کے روے گی جو نازوں کی پلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھام لے گی یہ نصیبوں کی جلی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوف اندھیرے میں نہ ہوے اسکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بچی کو نہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچپ ہے وہ بولنے والی ہے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا پہلو ہوا خالی ہے ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ می جودھ رہی ہوں لوگوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بچی کو نہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح لوگوں میں کفنانے دوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح گاڑنے لے جانے دوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں ہوں میں اسکو نہ مجھ سے چھینو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بچی کو نہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹہرو کرتہ تو بدل لوں اس کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پونچھ لوں کانوں میں ہے خون جمع"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ خفا ہے تو منا لینے دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بچی کو نہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکھول تو لوں میں گلے سے رسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دم کے گھٹنے سے نہ ہو بے ہوشی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی شاید کے ابھی زندہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بچی کو نہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگود سے ماں کی چھڑاؤ نہ اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تنگ مرقد میں سلاؤ نہ اسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چپ رہو یونہی پڑے رہنے دو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بچی کو نہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچونک جاے نہ وہ سوتی سوتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چپ ہوی ہے ابھی روتی روتی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ کے سینے پہ سونے کی ہے جو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بچی کو نہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nباپ کے ذکر ابھی ہوتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابھی کرتی تھی وہ باتیں مجھ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نیند شاید کے لگی ہے اسکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بچی کو نہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Masroor",
   "anjumans": [],
   "verified": false

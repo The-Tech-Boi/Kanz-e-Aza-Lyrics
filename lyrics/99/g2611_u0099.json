@@ -1,12 +1,401 @@
 {
   "remoteId": "g2611_u0099",
-  "title": "Aao akbar aao",
+  "title": "آؤ اکبر آؤ",
   "body": "آؤ اکبر آؤ میرے اکبر آؤ\nمادر کے گلے لگ جاؤ\n<<DIVIDER>>\nاے لال زرا آنکھیں کھولو\nماں تم پہ فدا کچھ تو بولو\nیوں ماں کو نہیں تڑپاو\nآؤ اکبر آؤ۔۔۔\n<<DIVIDER>>\nسوچ تھا دلہن میں لاؤں گی\nپوشاک نیء بنواوں گی\nآجاؤ سہرا بڑھاؤ\nآؤ اکبر آؤ۔۔۔\n<<DIVIDER>>\nارمان میں پورا کر نہ سکی\nتم جی نہ سکے میں مر‌ نہ سکی\nاس دل کی دعا لے جاؤ\nآؤ اکبر آؤ۔۔۔\n<<DIVIDER>>\nصغرا نے لکھا خط میں رو کر\nکیا بھول گےء وعدہ اکبر\nصغرا کا وعدہ نبھاؤ\nآؤ اکبر آؤ۔۔۔\n<<DIVIDER>>\nماں بن کے تجھے پالا جس نے\nوہ لاش تیری کیسے دیکھے\nزینب کو نہیں تڑپاو\nآؤ اکبر آؤ۔۔۔\n<<DIVIDER>>\nدل میرا ہوا پامال سنو\nکچھ اپنی ماں کا حال سنو\nکچھ اپنا حال سناؤ\nآؤ اکبر آؤ۔۔۔\n<<DIVIDER>>\nکہتی ہے سکینہ رو رو کر\nکیوں روٹھ گےء بھیا اکبر\nنہ اور اسے رلواو\nآؤ اکبر آؤ۔۔۔\n<<DIVIDER>>\nبیٹے جو جواں ہو جاتے ہیں\nماں باپ کے غم مٹ جاتے ہیں\nتم میرے درد بتاؤ\nآؤ اکبر آؤ۔۔۔\n<<DIVIDER>>\nدینا ہے اگر ماں کو پرسہ\nعرفان ہے مظہر یہ نوحہ\nام لیلیٰ کو سناؤ\nآؤ اکبر آؤ۔۔۔",
+  "styling": [
+    {
+      "insert": "آؤ اکبر آؤ میرے اکبر آؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مادر کے گلے لگ جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے لال زرا آنکھیں کھولو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں تم پہ فدا کچھ تو بولو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں ماں کو نہیں تڑپاو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ اکبر آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوچ تھا دلہن میں لاؤں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پوشاک نیء بنواوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آجاؤ سہرا بڑھاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ اکبر آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nارمان میں پورا کر نہ سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم جی نہ سکے میں مر‌ نہ سکی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس دل کی دعا لے جاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ اکبر آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصغرا نے لکھا خط میں رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بھول گےء وعدہ اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغرا کا وعدہ نبھاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ اکبر آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nماں بن کے تجھے پالا جس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ لاش تیری کیسے دیکھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کو نہیں تڑپاو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ اکبر آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل میرا ہوا پامال سنو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ اپنی ماں کا حال سنو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کچھ اپنا حال سناؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ اکبر آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی ہے سکینہ رو رو کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں روٹھ گےء بھیا اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ اور اسے رلواو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ اکبر آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹے جو جواں ہو جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں باپ کے غم مٹ جاتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تم میرے درد بتاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ اکبر آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدینا ہے اگر ماں کو پرسہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عرفان ہے مظہر یہ نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ام لیلیٰ کو سناؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ اکبر آؤ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Mazhar Abidi",
   "anjumans": [],
   "verified": false

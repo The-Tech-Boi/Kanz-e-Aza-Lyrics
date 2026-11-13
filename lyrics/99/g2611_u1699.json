@@ -1,12 +1,405 @@
 {
   "remoteId": "g2611_u1699",
-  "title": "Jab chand moharram",
+  "title": "جب چاند محرم",
   "body": "جب چاند محرم کا نکلتا ہے فلک پر\nروتی ہے بہت حضرتِ شبیر کی مادر\n<<DIVIDER>>\nسرور کے عزاداروں کو وہ چاند دکھا کر\nجب چاند محرم کا نکلتا ہے فلک پر\n<<DIVIDER>>\nآتی ہے عزاداروں کی گھر فاطمہ زہرا\nدیتی ہے دعا شام و سحر فاطمہ زہرا\nہر شہ کے عزادار کی قوت کو بڑھا کر\nروتی ہے بہت حضرتِ۔۔۔\nجب چاند محرم کا۔۔۔\n<<DIVIDER>>\nجب مجلسِ شبیر میں آتے ہے عزادار\nپیاسوں کے لئے اشک بہاتے ہیں عزادار\nرومال عزاداروں کی آنکھوں سے لگا کر\nروتی ہے بہت حضرتِ۔۔۔\nجب چاند محرم کا۔۔۔\n<<DIVIDER>>\nمظلوموں کا جب سوگ مناتی ہے کنیزیں\nاور چوڑیاں ہاتھوں سے بدھاتی ہے کنیزیں\nکبرا کی کنیزوں کو کلیجے سے لگا کر\nروتی ہے بہت حضرتِ۔۔۔\nجب چاند محرم کا۔۔۔\n<<DIVIDER>>\nآتی ہے سکینہ بھی عزاخانے کے اندر\nغازی کے مصایب پہ بلکتی ہے وہ مضطر\nآغوش میں معصوم سکینہ کو اٹھا کر\nروتی ہے بہت حضرتِ۔۔۔\nجب چاند محرم کا۔۔۔\n<<DIVIDER>>\nدادی سے یہ جب کہتی ہے معصوم سکینہ\nیہ کون ہے کرتا ہے میرے بابا پہ گریہ\nہے شہ کے عزادار یتیمہ سے بتا کر\nروتی ہے بہت حضرتِ۔۔۔\nجب چاند محرم کا۔۔۔\n<<DIVIDER>>\nجاتی ہے نظر پرچمِ عباس پہ جس دم\nشہزادی بہت روتی ہے سر پیٹ کے اس دم\nپھرتا ہے نگاہوں میں ترای کا وہ منظر\nروتی ہے بہت حضرتِ۔۔۔\nجب چاند محرم کا۔۔۔\n<<DIVIDER>>\nقسمت پہ بہت ناز ہے ہم غمخوار ہیں بی بی\nہم سب تیرے بچوں کے عزادار ہیں بی بی\nجب کہتے ہیں وایض یہ عزادار تڑپ کر\nروتی ہے بہت حضرتِ۔۔۔\nجب چاند محرم کا۔۔۔",
+  "styling": [
+    {
+      "insert": "جب چاند محرم کا نکلتا ہے فلک پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہے بہت حضرتِ شبیر کی مادر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسرور کے عزاداروں کو وہ چاند دکھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب چاند محرم کا نکلتا ہے فلک پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآتی ہے عزاداروں کی گھر فاطمہ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتی ہے دعا شام و سحر فاطمہ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر شہ کے عزادار کی قوت کو بڑھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہے بہت حضرتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب چاند محرم کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب مجلسِ شبیر میں آتے ہے عزادار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسوں کے لئے اشک بہاتے ہیں عزادار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رومال عزاداروں کی آنکھوں سے لگا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہے بہت حضرتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب چاند محرم کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمظلوموں کا جب سوگ مناتی ہے کنیزیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور چوڑیاں ہاتھوں سے بدھاتی ہے کنیزیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبرا کی کنیزوں کو کلیجے سے لگا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہے بہت حضرتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب چاند محرم کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآتی ہے سکینہ بھی عزاخانے کے اندر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غازی کے مصایب پہ بلکتی ہے وہ مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آغوش میں معصوم سکینہ کو اٹھا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہے بہت حضرتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب چاند محرم کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدادی سے یہ جب کہتی ہے معصوم سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کون ہے کرتا ہے میرے بابا پہ گریہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے شہ کے عزادار یتیمہ سے بتا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہے بہت حضرتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب چاند محرم کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجاتی ہے نظر پرچمِ عباس پہ جس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہزادی بہت روتی ہے سر پیٹ کے اس دم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھرتا ہے نگاہوں میں ترای کا وہ منظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہے بہت حضرتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب چاند محرم کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقسمت پہ بہت ناز ہے ہم غمخوار ہیں بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہم سب تیرے بچوں کے عزادار ہیں بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب کہتے ہیں وایض یہ عزادار تڑپ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتی ہے بہت حضرتِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب چاند محرم کا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ibtedaye Ayyam e Aza",
+  "subcategory": "ابتدائے ایام عزا",
   "author": "Waiz Sultanpuri",
   "anjumans": [],
   "verified": false

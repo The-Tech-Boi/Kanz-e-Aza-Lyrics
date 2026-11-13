@@ -1,12 +1,285 @@
 {
   "remoteId": "g2611_u0941",
-  "title": "Beh raha hai saamne",
+  "title": "بہہ رہی ہے سامنے",
   "body": "بہہ رہی ہے سامنے نہرِ فُرات\nمصطفیٰ کی آل تشنہ کام ہے\n<<DIVIDER>>\nکربلا میں شاد فوجِ شام ہے\nختم شاہِ دین کا سر انجام ہے\n<<DIVIDER>>\nپیاس سے بچے ہیں شاہ کے جا ں بلب\nعمر کا لبریز اُن کا جام ہے\n<<DIVIDER>>\nخاتمہ بالخیر لشکر کا ہوا\nحلق پیاسوں کا تہہِ شمشام ہے\n<<DIVIDER>>\nپنجتن کا خاتمہ ہوتا ہے آج\nغرق خوں میں کوکبِ اسلام ہے\n<<DIVIDER>>\nشام کے بادل میں ہے مہوِ مُبین\nہے اندھیرا حشر کا ہنگام ہے\n<<DIVIDER>>\nحالِ اصغر دیکھ کر بولے عدو\nرحم کے قابل یہ تشنہ کام ہے\n<<DIVIDER>>\nہم پِلائیں گے اسے پانی ضرور\nجاں بلب افسوس یہ گُلفام ہے\n<<DIVIDER>>\nحُرملا سے پھر یہ بولا ناب کار\nسچ بتا تُو طالبِ انعام ہے\n<<DIVIDER>>\nشاہ کے ہاتھوں پہ جو ہے بے زباں\nتشنہ لب دو دن سے یہ گُلفام ہے\n<<DIVIDER>>\nچاہتا ہوں میں یہ مر جائے ابھی\nتیرے اک تیرِ ستم کا کام ہے\n<<DIVIDER>>\nوعدئہ طفلی بپا ہونے کو ہے\nشاہ خوش ہیں قلب کو آرام ہے",
+  "styling": [
+    {
+      "insert": "بہہ رہی ہے سامنے نہرِ فُرات"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مصطفیٰ کی آل تشنہ کام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکربلا میں شاد فوجِ شام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ختم شاہِ دین کا سر انجام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپیاس سے بچے ہیں شاہ کے جا ں بلب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عمر کا لبریز اُن کا جام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخاتمہ بالخیر لشکر کا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حلق پیاسوں کا تہہِ شمشام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپنجتن کا خاتمہ ہوتا ہے آج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غرق خوں میں کوکبِ اسلام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام کے بادل میں ہے مہوِ مُبین"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے اندھیرا حشر کا ہنگام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحالِ اصغر دیکھ کر بولے عدو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رحم کے قابل یہ تشنہ کام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہم پِلائیں گے اسے پانی ضرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاں بلب افسوس یہ گُلفام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحُرملا سے پھر یہ بولا ناب کار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سچ بتا تُو طالبِ انعام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاہ کے ہاتھوں پہ جو ہے بے زباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تشنہ لب دو دن سے یہ گُلفام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچاہتا ہوں میں یہ مر جائے ابھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیرے اک تیرِ ستم کا کام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوعدئہ طفلی بپا ہونے کو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شاہ خوش ہیں قلب کو آرام ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "anjumans": [],
   "verified": false
 }

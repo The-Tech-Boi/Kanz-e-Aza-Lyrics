@@ -1,7 +1,405 @@
 {
   "remoteId": "g2611_u1544",
-  "title": "Hogi ye majlis",
+  "title": "ہوگی یہ مجلس",
   "body": "ہوگی یہ مجلس تو ہوگی ہوگا یہ ماتم تو ہوگا\nآرزو ہے یہ نبی کی رک نہیں سکتا کبھی\nہوگی یہ مجلس۔۔۔\n<<DIVIDER>>\nچودہ صدیوں ہو گیء ہے مجلس شبیر کو\nخوں سے لکھتے ہم غم کی اس تحریر کو\nیہ صدا ہے کربل کی یہ صدا شبیر کی\nہوگی یہ مجلس۔۔۔\n<<DIVIDER>>\nتیغوں کے سائے میں پلٹے ہیں حسینی نوجواں\nموت سے لڑنا سختی ہے ہمیں لوری میں ماں\nاپنے خون سے موڑتے ہیں دھار ہم تو تیغ کی\nہوگی یہ مجلس۔۔۔\n<<DIVIDER>>\nسناٹے زینب یہ مجلس سناٹے زین العبا\nشام کے دربار میں مجلس ہوی ماتم ہوا\nرک نہ پای شام میں جب کیا رکے گی اب کبھی\nہوگی یہ مجلس۔۔۔\n<<DIVIDER>>\nگود کا بچہ ہو کوئی یا جوان و پیر ہو\nدیکھو اس کو اس گھڑی جب ماتم شبیر ہو\nایک ہے رفتار سب کی ایک ہے آواز بھی\nہوگی یہ مجلس۔۔۔\n<<DIVIDER>>\nسو جنازے ہم اٹھاییں اپنے پیاروں کے تو کیا\nرک نہیں سکتا عزاداری کا اب یہ سلسلہ\nاپنے ہی خوں میں نہا کر ہم پکاریں گے یہی\nہوگی یہ مجلس۔۔۔\n<<DIVIDER>>\nچھن بھی جاے گر حسینی ماؤں سے ان کے جواں\nیاد کر کے زخم اکبر کو کہے گی تب وہ ماں\nتھا علی اکبر کا صدقہ لال میرا ماتمی\nہوگی یہ مجلس۔۔۔\n<<DIVIDER>>\nکہہ رہا ہے پرچم عباس کا پنجہ یہی\nہاتھ کٹ جائے تو ماتم رک نہیں سکتا کبھی\nسر کو ٹکرا کر کریں گے آگ پر چل کر کبھی\nہوگی یہ مجلس۔۔۔\n<<DIVIDER>>\nاے عزاداروں حسین ابنِ علی کے ماتمی\nیوں گزارو تم عزاداری میں اپنی زندگی\nپیروی کرتے ہی رہنا بوزر و سلمان کی\nہوگی یہ مجلس۔۔۔\n<<DIVIDER>>\nآج جو ریحان و سرور کر رہے ہیں حق ادا\nکل نےء ریحان و سرور دے گی زہرا کی دعا\nسلسلہ جاری رہے گا روک کر دیکھے کوئی\nہوگی یہ مجلس۔۔۔",
+  "styling": [
+    {
+      "insert": "ہوگی یہ مجلس تو ہوگی ہوگا یہ ماتم تو ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آرزو ہے یہ نبی کی رک نہیں سکتا کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچودہ صدیوں ہو گیء ہے مجلس شبیر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں سے لکھتے ہم غم کی اس تحریر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ صدا ہے کربل کی یہ صدا شبیر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیغوں کے سائے میں پلٹے ہیں حسینی نوجواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت سے لڑنا سختی ہے ہمیں لوری میں ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے خون سے موڑتے ہیں دھار ہم تو تیغ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسناٹے زینب یہ مجلس سناٹے زین العبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کے دربار میں مجلس ہوی ماتم ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رک نہ پای شام میں جب کیا رکے گی اب کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگود کا بچہ ہو کوئی یا جوان و پیر ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھو اس کو اس گھڑی جب ماتم شبیر ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک ہے رفتار سب کی ایک ہے آواز بھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسو جنازے ہم اٹھاییں اپنے پیاروں کے تو کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رک نہیں سکتا عزاداری کا اب یہ سلسلہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے ہی خوں میں نہا کر ہم پکاریں گے یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھن بھی جاے گر حسینی ماؤں سے ان کے جواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد کر کے زخم اکبر کو کہے گی تب وہ ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تھا علی اکبر کا صدقہ لال میرا ماتمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہہ رہا ہے پرچم عباس کا پنجہ یہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ کٹ جائے تو ماتم رک نہیں سکتا کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کو ٹکرا کر کریں گے آگ پر چل کر کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے عزاداروں حسین ابنِ علی کے ماتمی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں گزارو تم عزاداری میں اپنی زندگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیروی کرتے ہی رہنا بوزر و سلمان کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآج جو ریحان و سرور کر رہے ہیں حق ادا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کل نےء ریحان و سرور دے گی زہرا کی دعا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سلسلہ جاری رہے گا روک کر دیکھے کوئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگی یہ مجلس۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

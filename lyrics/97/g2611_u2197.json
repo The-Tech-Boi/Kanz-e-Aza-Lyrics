@@ -1,12 +1,407 @@
 {
   "remoteId": "g2611_u2197",
-  "title": "Mai aagayi madina",
+  "title": "میں آ گیء مدینہ",
   "body": "رو رو کے پکاری نانا کی دلاری\nنانا اے میرے نانا میں آ گیء مدینہ\n<<DIVIDER>>\nصغرا سے کیا کہوں گی مشکل ہے میرا جینا\nنانا اے میرے نانا میں آ گیء مدینہ\n<<DIVIDER>>\nاپنی ردا لٹا کے خطبے سنا سنا کے\nدیوار ظلم ڈھا کے میں آ گیء مدینہ\nنانا اے میرے نانا۔۔۔\n<<DIVIDER>>\nبلوے میں تھی کھلے سر بے پردگی کے پتھر\nکھا کھا کے اشقیاء سے میں آ گیء مدینہ\nنانا اے میرے نانا۔۔۔\n<<DIVIDER>>\nزندان تھا اندھیرا چاروں طرف تھا پہرہ\nآنکھوں سے خوں بہا کے میں آ گیء مدینہ\nنانا اے میرے نانا۔۔۔\n<<DIVIDER>>\nآی نہیں سکینہ پھٹتا ہے میرا سینہ\nاس کو وہی سلا کے میں آ گیء مدینہ\nنانا اے میرے نانا۔۔۔\n<<DIVIDER>>\nنوکِ سِناں پہ سر تھے ہم لوگ نوحہ گر تھے\nفرش عزا بچھا کے میں آی ہوں مدینہ\nنانا اے میرے نانا۔۔۔\n<<DIVIDER>>\nسجاد ناتواں تھا آنکھوں سے خوں رواں تھا\nبیمار کو بچا کے میں آی ہوں مدینہ\nنانا اے میرے نانا۔۔۔\n<<DIVIDER>>\nبازو پہ خستہ تن کے یہ داغ ہیں رسن کے\nنانا ستم اٹھا کے میں آی ہوں مدینہ\nنانا اے میرے نانا۔۔۔\n<<DIVIDER>>\nٹکڑے چنے بدن کے قاسم بنے حسن کے\nدولہا اسے بنا کے میں آی ہوں مدینہ\nنانا اے میرے نانا۔۔۔\n<<DIVIDER>>\nمٹی کو کربلا کی یہ آپ کی نواسی\nخاک شفا بنا کی میں آی ہوں مدینہ\nنانا اے میرے نانا۔۔۔\n<<DIVIDER>>\nاٹھارہ بھاییوں کی ہاے ہاے بہن تھی قیدی\nقید ستم نبھا کے میں آی ہوں مدینہ\nنانا اے میرے نانا۔۔۔\n<<DIVIDER>>\nمیثم با روز محشر ریحان بنت حیدر\nزینب کہے گی آ کے میں آی ہوں مدینہ\nنانا اے میرے نانا۔۔۔",
+  "styling": [
+    {
+      "insert": "رو رو کے پکاری نانا کی دلاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا اے میرے نانا میں آ گیء مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nصغرا سے کیا کہوں گی مشکل ہے میرا جینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا اے میرے نانا میں آ گیء مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاپنی ردا لٹا کے خطبے سنا سنا کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیوار ظلم ڈھا کے میں آ گیء مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا اے میرے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبلوے میں تھی کھلے سر بے پردگی کے پتھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھا کھا کے اشقیاء سے میں آ گیء مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا اے میرے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزندان تھا اندھیرا چاروں طرف تھا پہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں سے خوں بہا کے میں آ گیء مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا اے میرے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآی نہیں سکینہ پھٹتا ہے میرا سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس کو وہی سلا کے میں آ گیء مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا اے میرے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنوکِ سِناں پہ سر تھے ہم لوگ نوحہ گر تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فرش عزا بچھا کے میں آی ہوں مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا اے میرے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجاد ناتواں تھا آنکھوں سے خوں رواں تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیمار کو بچا کے میں آی ہوں مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا اے میرے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازو پہ خستہ تن کے یہ داغ ہیں رسن کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا ستم اٹھا کے میں آی ہوں مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا اے میرے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹکڑے چنے بدن کے قاسم بنے حسن کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دولہا اسے بنا کے میں آی ہوں مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا اے میرے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمٹی کو کربلا کی یہ آپ کی نواسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خاک شفا بنا کی میں آی ہوں مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا اے میرے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھارہ بھاییوں کی ہاے ہاے بہن تھی قیدی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قید ستم نبھا کے میں آی ہوں مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا اے میرے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیثم با روز محشر ریحان بنت حیدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب کہے گی آ کے میں آی ہوں مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نانا اے میرے نانا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Wapasi-e-Ahle Haram",
+  "subcategory": "واپسی اہل حرم",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

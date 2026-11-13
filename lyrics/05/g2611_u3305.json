@@ -1,12 +1,274 @@
 {
   "remoteId": "g2611_u3305",
-  "title": "Wallah",
+  "title": "واللہ",
   "body": "واللہ انختم یمنی\nجب داہنا ہاتھ دلبر حیدر کا کٹ گیا\nاس وقت فوج اعدا سے عباس نے کہا\nواللہ انختم یمنی\n<<DIVIDER>>\nبچے کھڑے ہیں پیاسے میرے انتظار میں\nپہنچاؤں گا قیام میں مشکیزہ آب کا\nواللہ انختم یمنی\n<<DIVIDER>>\nاللہ کی قسم جو مجھے ہوتا اذن جنگ\nکردیتا ایک حملے میں لشکر کو میں ختم\nواللہ انختم یمنی\n<<DIVIDER>>\nپہنچا دو پیاسے بچوں کو پانی کسی طرح\nٹکڑے بدن ہو چاہے کٹے سر غلام کا\nواللہ انختم یمنی\n<<DIVIDER>>\nاےء ظالموں خدا سے ڈرو کچھ حیا کرو\nپیاسی ہے تین روز سے اولاد مصطفیٰ\nواللہ انختم یمنی\n<<DIVIDER>>\nمشک و علم کو دانتوں سے تھاما دلیر نے\nجب بایاں ہاتھ غازی کا تن سے جدا ہوا\nواللہ انختم یمنی\n<<DIVIDER>>\nلگتے ہی گرز سر پہ وہ خاموش ہوگئے\nلیکن فضا میں گونجتی تھی عباس کی صدا\nواللہ انختم یمنی\n<<DIVIDER>>\nاب سارے بین پڑھکے یہ سمجھا انیس نے\nعباس کے رگ رگ میں دلیری ہے اور وفا\nواللہ انختم یمنی",
+  "styling": [
+    {
+      "insert": "واللہ انختم یمنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب داہنا ہاتھ دلبر حیدر کا کٹ گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس وقت فوج اعدا سے عباس نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واللہ انختم یمنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچے کھڑے ہیں پیاسے میرے انتظار میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہنچاؤں گا قیام میں مشکیزہ آب کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واللہ انختم یمنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاللہ کی قسم جو مجھے ہوتا اذن جنگ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کردیتا ایک حملے میں لشکر کو میں ختم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واللہ انختم یمنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہنچا دو پیاسے بچوں کو پانی کسی طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ٹکڑے بدن ہو چاہے کٹے سر غلام کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واللہ انختم یمنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاےء ظالموں خدا سے ڈرو کچھ حیا کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پیاسی ہے تین روز سے اولاد مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واللہ انختم یمنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشک و علم کو دانتوں سے تھاما دلیر نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب بایاں ہاتھ غازی کا تن سے جدا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واللہ انختم یمنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلگتے ہی گرز سر پہ وہ خاموش ہوگئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیکن فضا میں گونجتی تھی عباس کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واللہ انختم یمنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب سارے بین پڑھکے یہ سمجھا انیس نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کے رگ رگ میں دلیری ہے اور وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "واللہ انختم یمنی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Anees",
   "anjumans": [],
   "verified": false

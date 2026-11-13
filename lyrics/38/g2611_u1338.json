@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u1338",
-  "title": "Ghareebo bekaso",
+  "title": "غریب و بے کس",
   "body": "غریب و بے کس و لاچار آوارہ وطن زینب\nمقدر ہو چکے تیرے لیے مہن زینب\n<<DIVIDER>>\nنواسی مصطفیٰ کی نورِ چشمِ فاطمہ زہرا\nعلی کی لاڈلی ہے اور شاہِ دیں کی بہن زینب\nغریب و بے کس و ۔۔۔\n<<DIVIDER>>\nدوہائی ہے دوہائی بیلچا ظالم نے مارا ہے\nہوئی ہے جا با حق پردیس میں مجروح تن زینب\nغریب و بے کس و ۔۔۔\n<<DIVIDER>>\nتمیمِ بعد گوہر کے نہ خالق نے کیا ستم توڑا\nاسیرِ رنج و غم ہے بے دیار و بے وطن زینب\nغریب و بے کس و ۔۔۔\n<<DIVIDER>>\nحسین ابنِ علی کا جس شجر میں سر تھا آویزار\nاُسی کے زیرِ سایہ خون میں تر ہے خستہ تن زینب\nغریب و بے کس و ۔۔۔\n<<DIVIDER>>\nوہ تیری پُشتِ اطہار اور جراہت تعزیانوں کی\nہر اک کو خون رُلاتا ہے تیرا زخمی بدن زینب\nغریب و بے کس و ۔۔۔\n<<DIVIDER>>\nکبھی بازارِ کُوفہ میں کبھی قصرِ یزیدی میں\nکبھی دربار میں ہے بے ردا شہہ کی بہن زینب\nغریب و بے کس و ۔۔۔\n<<DIVIDER>>\nنہ بھولا ہے زمانہ اور نہ بھولے گا قیامت تک\nوہ دربارِ یزیدی تیرے بازو اور رسن زینب\nغریب و بے کس و ۔۔۔\n<<DIVIDER>>\nدُعا مرزا کی ہے بگڑی کنیزوں کی بنا دیجیئے\nتمہارے در پہ آئے آزار ہیں چرخِ گوہن زینب\nغریب و بے کس و ۔۔۔",
+  "styling": [
+    {
+      "insert": "غریب و بے کس و لاچار آوارہ وطن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقدر ہو چکے تیرے لیے مہن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنواسی مصطفیٰ کی نورِ چشمِ فاطمہ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کی لاڈلی ہے اور شاہِ دیں کی بہن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب و بے کس و ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدوہائی ہے دوہائی بیلچا ظالم نے مارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوئی ہے جا با حق پردیس میں مجروح تن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب و بے کس و ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمیمِ بعد گوہر کے نہ خالق نے کیا ستم توڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسیرِ رنج و غم ہے بے دیار و بے وطن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب و بے کس و ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحسین ابنِ علی کا جس شجر میں سر تھا آویزار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُسی کے زیرِ سایہ خون میں تر ہے خستہ تن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب و بے کس و ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ تیری پُشتِ اطہار اور جراہت تعزیانوں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر اک کو خون رُلاتا ہے تیرا زخمی بدن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب و بے کس و ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکبھی بازارِ کُوفہ میں کبھی قصرِ یزیدی میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی دربار میں ہے بے ردا شہہ کی بہن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب و بے کس و ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ بھولا ہے زمانہ اور نہ بھولے گا قیامت تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ دربارِ یزیدی تیرے بازو اور رسن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب و بے کس و ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدُعا مرزا کی ہے بگڑی کنیزوں کی بنا دیجیئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تمہارے در پہ آئے آزار ہیں چرخِ گوہن زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریب و بے کس و ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Mirza Murtaza Ali",
   "anjumans": [],
   "verified": false

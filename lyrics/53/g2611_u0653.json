@@ -1,12 +1,320 @@
 {
   "remoteId": "g2611_u0653",
-  "title": "Ay jaan sakina",
+  "title": "اے جان سکینہ",
   "body": "اے جان سکینہ نادان سکینہ\nاے شام کے زندان کی مہمان سکینہ\n<<DIVIDER>>\nدیکھو تو اٹھو قید میں ہے کس کا یہ ماتم\nبانو تیرے اس نیند کے قربان سکینہ\nاے جان سکینہ۔۔۔\n<<DIVIDER>>\nوہ روز کی سہلی وہ تیرا روز کا رونا\nبس آج سے زندان ہے سنسان سکینہ\nاے جان سکینہ۔۔۔\n<<DIVIDER>>\nیہ دیس نیا لوگ نےء ہم بھی نےء ہیں\nکس طرح سے ہو دفن کا سامان سکینہ\nاے جان سکینہ۔۔۔\n<<DIVIDER>>\nاصغر کو کروں پیار لوں اکبر کی بلاییں\nجب خلد میں تم جاؤ میری جان سکینہ\nاے جان سکینہ۔۔۔\n<<DIVIDER>>\nدو گز کا کفن بھی تجھے ماں دے سکتی نہیں\nزندان میں بانو ہے پریشان سکینہ\nاے جان سکینہ۔۔۔\n<<DIVIDER>>\nاٹھتی نظر آتی نہیں یہ نیند ہے کیسی\nیہ خواب تو کرتا ہے پریشان سکینہ\nاے جان سکینہ۔۔۔\n<<DIVIDER>>\nکیوں ہاتھ یہ کانوں پہ ہو رکھے ہوے بی بی\nدکھتے ہیں ابھی تک کہو کیا کان سکینہ\nاے جان سکینہ۔۔۔\n<<DIVIDER>>\nاس کوک جلی ماں کو تمنا یہ نہ تھی کیا\nپورا نہ ہوا ایک بھی ارمان سکینہ\nاے جان سکینہ۔۔۔\n<<DIVIDER>>\nیہ دن بھی خدا جلد ہی بانو کے لئے لاے\nکھولے گا در قید کو دربان سکینہ\nاے جان سکینہ۔۔۔",
+  "styling": [
+    {
+      "insert": "اے جان سکینہ نادان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شام کے زندان کی مہمان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھو تو اٹھو قید میں ہے کس کا یہ ماتم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بانو تیرے اس نیند کے قربان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے جان سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ روز کی سہلی وہ تیرا روز کا رونا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس آج سے زندان ہے سنسان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے جان سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ دیس نیا لوگ نےء ہم بھی نےء ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس طرح سے ہو دفن کا سامان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے جان سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر کو کروں پیار لوں اکبر کی بلاییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جب خلد میں تم جاؤ میری جان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے جان سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدو گز کا کفن بھی تجھے ماں دے سکتی نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زندان میں بانو ہے پریشان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے جان سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھتی نظر آتی نہیں یہ نیند ہے کیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ خواب تو کرتا ہے پریشان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے جان سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں ہاتھ یہ کانوں پہ ہو رکھے ہوے بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دکھتے ہیں ابھی تک کہو کیا کان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے جان سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس کوک جلی ماں کو تمنا یہ نہ تھی کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پورا نہ ہوا ایک بھی ارمان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے جان سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ دن بھی خدا جلد ہی بانو کے لئے لاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کھولے گا در قید کو دربان سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے جان سکینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Hilmi Afandi",
   "anjumans": [],
   "verified": false

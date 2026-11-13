@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u2335",
-  "title": "Maut ki lori usay",
+  "title": "موت کی لوری اسے",
   "body": "موت کی لوری اسے رن میں قضاء دیتی ہے\nاور ماں خیموں میں جینے کی دعا دیتی ہے\n<<DIVIDER>>\nچھ مہینے کا گلا اور سہہ پہلو پیکاں\nجانے کس جرم کی امت یہ سزا دیتی ہے\nموت کی لوری اسے۔۔۔\n<<DIVIDER>>\nیہ ہوا ہے جو سمجھتی ہے تمنا ماں کی\nخالی جھولا علی اصغر کا جھلا دیتی ہے\nموت کی لوری اسے۔۔۔\n<<DIVIDER>>\nیاد ماں کو جو ستاتی ہے علی اصغر کی\nآہ اک بھرتی ہے اور خاک اڑا دیتی ہے\nموت کی لوری اسے۔۔۔\n<<DIVIDER>>\nدیکھ کر جلتا ہوا جھولا یہ کہتی تھی رباب\nکیسی امت ہے نشانی بھی جلا دیتی ہے\nموت کی لوری اسے۔۔۔\n<<DIVIDER>>\nمامتا کو یہ تسلی بھی ہے بس زنداں تلک\nماں جو پہلو میں سکینہ کو سلا دیتی ہے\nموت کی لوری اسے۔۔۔\n<<DIVIDER>>\nاک تو نیند ہی آتی نہیں ماں کو اصغر\nاس پہ سوے تو تیری یاد جگا دیتی ہے\nموت کی لوری اسے۔۔۔\n<<DIVIDER>>\nشام کی عورتیں کرتی تھی یہ عابد سے سوال\nدھوپ میں کون ہے یہ کس کو صدا دیتی ہے\nموت کی لوری اسے۔۔۔\n<<DIVIDER>>\nرات ہوتی ہے تو زنداں میں مادر اکبر\nلوریوں کی جگہ اک نوحہ سنا دیتی ہے\nموت کی لوری اسے۔۔۔",
+  "styling": [
+    {
+      "insert": "موت کی لوری اسے رن میں قضاء دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ماں خیموں میں جینے کی دعا دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھ مہینے کا گلا اور سہہ پہلو پیکاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جانے کس جرم کی امت یہ سزا دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کی لوری اسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ ہوا ہے جو سمجھتی ہے تمنا ماں کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خالی جھولا علی اصغر کا جھلا دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کی لوری اسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاد ماں کو جو ستاتی ہے علی اصغر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آہ اک بھرتی ہے اور خاک اڑا دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کی لوری اسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکھ کر جلتا ہوا جھولا یہ کہتی تھی رباب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسی امت ہے نشانی بھی جلا دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کی لوری اسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمامتا کو یہ تسلی بھی ہے بس زنداں تلک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں جو پہلو میں سکینہ کو سلا دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کی لوری اسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک تو نیند ہی آتی نہیں ماں کو اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس پہ سوے تو تیری یاد جگا دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کی لوری اسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام کی عورتیں کرتی تھی یہ عابد سے سوال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دھوپ میں کون ہے یہ کس کو صدا دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کی لوری اسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرات ہوتی ہے تو زنداں میں مادر اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوریوں کی جگہ اک نوحہ سنا دیتی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "موت کی لوری اسے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Asghar (a.s)",
+  "subcategory": "علی اصغر (ع)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

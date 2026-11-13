@@ -1,12 +1,374 @@
 {
   "remoteId": "g2611_u2189",
-  "title": "Madad karo fizza",
+  "title": "مدد کرو فضہ",
   "body": "مدد کرو فضہ مدد کرو فضہ\n<<DIVIDER>>\nشکستہ پہلو سے میرے یہ در ہٹا دو خدارا\nمدد کرو فضہ\n<<DIVIDER>>\nتمہاری زحمتیں جلدی سے اب تمام کروں\nمیں جاتے جاتے جہاں سے انہیں سلام کروں\nوہ دیکھو آ گےء بابا اٹھا دو دے کے سہارا\nمدد کرو فضہ۔۔۔\n<<DIVIDER>>\nگرا ہے ٹوٹ کے آنگن میں گوشوارہ میرا\nہے کان زخمی ستمگر نے اس طرح مارا\nعلی نہ دیکھے خدارا چھپا دو زخم یہ میرا\nمدد کرو فضہ۔۔۔\n<<DIVIDER>>\nچلو مدینے میں ایک ایک پہ جاینگے\nغدیر کیا ہے انہیں یاد ہم دلاینگے\nفدک تو چھن گیا میرا یہ حق نہ چھینے علی کا\nمدد کرو فضہ۔۔۔\n<<DIVIDER>>\nمریض موت کے جیسی نحیف لگتی ہوں\nمیں آج تم سے زیادہ ضعیف لگتی ہوں\nلگا ہے جب سے طمانچہ مجھے نظر نہیں آتا\nمدد کرو فضہ۔۔۔\n<<DIVIDER>>\nسہارا دے کے مجھے لے چلو خدارا وہاں\nوہ رسی باندھ کے حیدر کو لے گےء ہیں جہاں\nنہ اب ہو دیر خدارا ہے میرا مولا اکیلا\nمدد کرو فضہ۔۔۔\n<<DIVIDER>>\nیہ بات سونچ کے دل غم سے پارہ پارہ ہے\nحسن کے سامنے ظالم نے مجھکو مارا ہے\nبتا دو کیسے کرونگی بھلا میں سامنا اسکا\nمدد کرو فضہ۔۔۔\n<<DIVIDER>>\nمیں بال کھول کے عرش علا ہلا دونگی\nابوالحسن کو نہ چھوڑا تو بد دعا دونگی\nدعا کے واسطے میرا یہ ہاتھ اٹھا دو خدارا\nمدد کرو فضہ۔۔۔\n<<DIVIDER>>\nہوی یہ کہہ کے تکلم خموش وہ بی بی\nمیں اپنے لال سے رخصت نہ ہو سکونگی کبھی\nلٹا دو جانب قبلہ حسین آتا ہی ہوگا\nمدد کرو فضہ۔۔۔",
+  "styling": [
+    {
+      "insert": "مدد کرو فضہ مدد کرو فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشکستہ پہلو سے میرے یہ در ہٹا دو خدارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدد کرو فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتمہاری زحمتیں جلدی سے اب تمام کروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں جاتے جاتے جہاں سے انہیں سلام کروں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ دیکھو آ گےء بابا اٹھا دو دے کے سہارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدد کرو فضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگرا ہے ٹوٹ کے آنگن میں گوشوارہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کان زخمی ستمگر نے اس طرح مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی نہ دیکھے خدارا چھپا دو زخم یہ میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدد کرو فضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلو مدینے میں ایک ایک پہ جاینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غدیر کیا ہے انہیں یاد ہم دلاینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فدک تو چھن گیا میرا یہ حق نہ چھینے علی کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدد کرو فضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمریض موت کے جیسی نحیف لگتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں آج تم سے زیادہ ضعیف لگتی ہوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگا ہے جب سے طمانچہ مجھے نظر نہیں آتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدد کرو فضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسہارا دے کے مجھے لے چلو خدارا وہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ رسی باندھ کے حیدر کو لے گےء ہیں جہاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ اب ہو دیر خدارا ہے میرا مولا اکیلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدد کرو فضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ بات سونچ کے دل غم سے پارہ پارہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسن کے سامنے ظالم نے مجھکو مارا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتا دو کیسے کرونگی بھلا میں سامنا اسکا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدد کرو فضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں بال کھول کے عرش علا ہلا دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ابوالحسن کو نہ چھوڑا تو بد دعا دونگی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دعا کے واسطے میرا یہ ہاتھ اٹھا دو خدارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدد کرو فضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوی یہ کہہ کے تکلم خموش وہ بی بی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں اپنے لال سے رخصت نہ ہو سکونگی کبھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لٹا دو جانب قبلہ حسین آتا ہی ہوگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مدد کرو فضہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Fatima (s.a)",
+  "subcategory": "شہزادی فاطمہ زہرا (س)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

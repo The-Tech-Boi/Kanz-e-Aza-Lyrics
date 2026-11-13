@@ -1,12 +1,319 @@
 {
   "remoteId": "g2611_u3316",
-  "title": "Watan chalo amma",
+  "title": "وطن چلو اماں",
   "body": "سکینہ کہتی تھی رو کر وطن چلو اماں\nبہت ہے دل میرا مضطر وطن چلو اماں\n<<DIVIDER>>\nگلے میں ڈال کہ نانی کے سب کے سب باہیں\nہر اِک شہید کو جسطرح جسقدر چاہیں\nوہیں پہ روئیگے کھُل کر وطن چلو اماں\nسکینہ کہتی تھی رو کر۔۔۔\n<<DIVIDER>>\nبتائیں جھیلینگے آخر یہ سختیاں کب تک\nپڑے رہینگے یونہی زیرِ آسماں کب تک\nوطن سے دور کھُلے سر وطن چلو اماں\nسکینہ کہتی تھی رو کر۔۔۔\n<<DIVIDER>>\nچھپائے بیٹھیں ہیں سینے میں جانے کتنے غم\nلپٹ کے روینگے عابد کی بیڑیوں سے ہم\nبرائے سبطِ پیمبر وطن چلو اماں\nسکینہ کہتی تھی رو کر۔۔۔\n<<DIVIDER>>\nنہ جانے کیسی عداوت ہے ہم سے اعدا کو\nطمانچے کھائے کیا جب بھی یاد بابا کو\nنہ رو سکے کبھی کھُل کر وطن چلو اماں\nسکینہ کہتی تھی رو کر۔۔۔\n<<DIVIDER>>\nسِنا کلیجے میں اکبر کے دیکھ لی ہم نے\nچچا گزر گئے جاں سے نہ آہ کی ہم نے\nہے ایک بوجھ سا دل پر وطن چلو اماں\nسکینہ کہتی تھی رو کر۔۔۔\n<<DIVIDER>>\nیہ ختم ہونگے بھلا کب ستم زمانے کے\nہیں کاٹتے در و دیوار قیدخانے کے\nمیں مر نہ جاوں یہاں پر وطن چلو اماں\nسکینہ کہتی تھی رو کر۔۔۔\n<<DIVIDER>>\nاب اور جھیلنے ہیں ہم کو کتنے آخر غم\nوطن سے دور بیابانِ کربلا میں ہم\nلُٹا چکے ہیں بھرا گھر وطن چلو اماں\nسکینہ کہتی تھی رو کر۔۔۔",
+  "styling": [
+    {
+      "insert": "سکینہ کہتی تھی رو کر وطن چلو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہت ہے دل میرا مضطر وطن چلو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nگلے میں ڈال کہ نانی کے سب کے سب باہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر اِک شہید کو جسطرح جسقدر چاہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہیں پہ روئیگے کھُل کر وطن چلو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کہتی تھی رو کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبتائیں جھیلینگے آخر یہ سختیاں کب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پڑے رہینگے یونہی زیرِ آسماں کب تک"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وطن سے دور کھُلے سر وطن چلو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کہتی تھی رو کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچھپائے بیٹھیں ہیں سینے میں جانے کتنے غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لپٹ کے روینگے عابد کی بیڑیوں سے ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برائے سبطِ پیمبر وطن چلو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کہتی تھی رو کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ جانے کیسی عداوت ہے ہم سے اعدا کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "طمانچے کھائے کیا جب بھی یاد بابا کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ رو سکے کبھی کھُل کر وطن چلو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کہتی تھی رو کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسِنا کلیجے میں اکبر کے دیکھ لی ہم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چچا گزر گئے جاں سے نہ آہ کی ہم نے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے ایک بوجھ سا دل پر وطن چلو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کہتی تھی رو کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ ختم ہونگے بھلا کب ستم زمانے کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہیں کاٹتے در و دیوار قیدخانے کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں مر نہ جاوں یہاں پر وطن چلو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کہتی تھی رو کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب اور جھیلنے ہیں ہم کو کتنے آخر غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وطن سے دور بیابانِ کربلا میں ہم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لُٹا چکے ہیں بھرا گھر وطن چلو اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سکینہ کہتی تھی رو کر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Sachey Bhai",
   "anjumans": [],
   "verified": false

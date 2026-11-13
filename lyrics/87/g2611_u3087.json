@@ -1,12 +1,224 @@
 {
   "remoteId": "g2611_u3087",
-  "title": "Sitam ye kya",
+  "title": "ستم یہ کیا",
   "body": "ستم یہ کیا سر بغداد ڈھایا جاتا ہے\nجنازہ بیڑیوں میں بھی اٹھایا جاتا ہے\n<<DIVIDER>>\nاسیر شام کا پوتا ہے قیدیء بغداد\nعہد کا بدلہ ابھی تک چکایا جاتا ہے\nستم یہ کیا۔۔۔\n<<DIVIDER>>\nمسافروں کے لئے کیا نہیں ہے قبرستان\nجنازہ کے کبھی پل پہ پڑھایا جاتا ہے\nستم یہ کیا۔۔۔\n<<DIVIDER>>\nہے نیزے سینے کی جانب تو کچھ ہے پشت کی سمت\nرکوع چودہ برس سے نبھایا جاتا ہے\nستم یہ کیا۔۔۔\n<<DIVIDER>>\nاٹھا کے لاے ہیں مزدور لاش زنداں سے\nغریبی کہتے ہیں کس کو بتایا جاتا ہے\nستم یہ کیا۔۔۔\n<<DIVIDER>>\nنہ بیٹیوں ہی کا بغداد آنا ہے ممکن\nنہ باپ ہی سے مدینے کو جایا جاتا ہے\nستم یہ کیا۔۔۔\n<<DIVIDER>>\nجنابِ زہرا کے معصوم بچوں کو اکبر\nبتا کے دین کے باغی ستایا جاتا ہے\nستم یہ کیا۔۔۔",
+  "styling": [
+    {
+      "insert": "ستم یہ کیا سر بغداد ڈھایا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنازہ بیڑیوں میں بھی اٹھایا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسیر شام کا پوتا ہے قیدیء بغداد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عہد کا بدلہ ابھی تک چکایا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم یہ کیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمسافروں کے لئے کیا نہیں ہے قبرستان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جنازہ کے کبھی پل پہ پڑھایا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم یہ کیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے نیزے سینے کی جانب تو کچھ ہے پشت کی سمت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رکوع چودہ برس سے نبھایا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم یہ کیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھا کے لاے ہیں مزدور لاش زنداں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غریبی کہتے ہیں کس کو بتایا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم یہ کیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنہ بیٹیوں ہی کا بغداد آنا ہے ممکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نہ باپ ہی سے مدینے کو جایا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم یہ کیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنابِ زہرا کے معصوم بچوں کو اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بتا کے دین کے باغی ستایا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ستم یہ کیا۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Moosa e Kazim (a.s)",
+  "subcategory": "امام موسیٰ کاظم (ع)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false

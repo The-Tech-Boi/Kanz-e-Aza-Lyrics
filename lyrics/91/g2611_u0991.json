@@ -1,12 +1,424 @@
 {
   "remoteId": "g2611_u0991",
-  "title": "Bhai ki awaaz",
+  "title": "بھائی کی آواز",
   "body": "اے علی اکبر زرا پہچان لو\nیہ تو میرے بھائی کی آواز ہے\n<<DIVIDER>>\nیا الٰہی خیر سے دریا پہ ہو\nیہ تو میرے بھائی کی آواز ہے\n<<DIVIDER>>\nٹکڑے ٹکڑے دل ہے اس آواز سے\nمجھکو ملوا دو میرے ہمراز سے\nغور سے بیٹا علی اکبر سنو\nیہ تو میرے بھائی کی۔۔۔\n<<DIVIDER>>\nدو سہارا باپ کو نور نظر\nاس صدا نے توڑ دی میری کمر\nدشت میں ناد علی پڑھتے رہو\nیہ تو میرے بھائی کی۔۔۔\n<<DIVIDER>>\nمار ڈالے گا ہمیں بھای کا غم\nکیا نظر آتا نہیں اکبر علم\nکس لیےء خاموش ہو کچھ تو کہو\nیہ تو میرے بھائی کی۔۔۔\n<<DIVIDER>>\nہاے وہ بھی گر گیا گھوڑے سے لو\nزینب و کلثوم کی ڈھارس تھا جو\nجلد اس کے پاس مجھکو لے چلو\nیہ تو میرے بھائی کی۔۔۔\n<<DIVIDER>>\nکیسے اٹھے گا جواں بھای کا غم\nلڑکھڑاتے ہیں علی اکبر قدم\nبد کے دو بیٹا سہارا باپ کو\nیہ تو میرے بھائی کی۔۔۔\n<<DIVIDER>>\nکٹ گےء لگتا ہے بازو شیر کے\nمار ڈالا دشمنوں نے گھیر کے\nدیر ہو جائے نہ اب جلدی کرو\nیہ تو میرے بھائی کی۔۔۔\n<<DIVIDER>>\nکیوں فضائے علقمہ غمگین ہے\nخوں سے ساری زمیں رنگین ہے\nآ رہی ہے مستقل دریا سے جو\nیہ تو میرے بھائی کی۔۔۔\n<<DIVIDER>>\nمنتظر ہے نہر پر بھای میرا\nراستہ تکتا ہے شیدائی میرا\nبس اسی آواز پر بڑھتے رہو\nیہ تو میرے بھائی کی۔۔۔\n<<DIVIDER>>\nآمیر و اختر بلا کا درد تھا\nسن کر یہ آواز چہرہ زرد تھا\nفکر تھی میں یہی شبیر کو\nیہ تو میرے بھائی کی۔۔۔",
+  "styling": [
+    {
+      "insert": "اے علی اکبر زرا پہچان لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو میرے بھائی کی آواز ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیا الٰہی خیر سے دریا پہ ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو میرے بھائی کی آواز ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹکڑے ٹکڑے دل ہے اس آواز سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو ملوا دو میرے ہمراز سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غور سے بیٹا علی اکبر سنو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو میرے بھائی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدو سہارا باپ کو نور نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس صدا نے توڑ دی میری کمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشت میں ناد علی پڑھتے رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو میرے بھائی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمار ڈالے گا ہمیں بھای کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا نظر آتا نہیں اکبر علم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس لیےء خاموش ہو کچھ تو کہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو میرے بھائی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہاے وہ بھی گر گیا گھوڑے سے لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "زینب و کلثوم کی ڈھارس تھا جو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جلد اس کے پاس مجھکو لے چلو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو میرے بھائی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے اٹھے گا جواں بھای کا غم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لڑکھڑاتے ہیں علی اکبر قدم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بد کے دو بیٹا سہارا باپ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو میرے بھائی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکٹ گےء لگتا ہے بازو شیر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مار ڈالا دشمنوں نے گھیر کے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیر ہو جائے نہ اب جلدی کرو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو میرے بھائی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں فضائے علقمہ غمگین ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خوں سے ساری زمیں رنگین ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ رہی ہے مستقل دریا سے جو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو میرے بھائی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنتظر ہے نہر پر بھای میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راستہ تکتا ہے شیدائی میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بس اسی آواز پر بڑھتے رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو میرے بھائی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآمیر و اختر بلا کا درد تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن کر یہ آواز چہرہ زرد تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فکر تھی میں یہی شبیر کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ تو میرے بھائی کی۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Akhtar Sirsvi",
   "anjumans": [],
   "verified": false

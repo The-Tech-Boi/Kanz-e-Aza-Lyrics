@@ -1,12 +1,500 @@
 {
   "remoteId": "g2611_u2503",
-  "title": "Muslim ki shahadat",
+  "title": "مسلم کی شہادت",
   "body": "مسلم کی شہادت پہ یہ کہتی ہے رقیہ\nبابا یہ ہوا کیا\nکوفے کا سفر آپ کو کیا راس نہ آیا\nبابا یہ ہوا کیا\n<<DIVIDER>>\nسنتی ہوں کہ بھائی بھی میرے مارے گےء ہیں\nدریا میں پڑے ہیں\nکمسن تھے لعینوں نے زرا بھی نہیں سوچا\nبابا یہ ہوا کیا\nمسلم کی شہادت پہ۔۔۔\n<<DIVIDER>>\nکوفے کے مسلمان مسلمان نہیں تھے\nانسان نہیں تھے\nخط بھیج کے بلوایا گیا اور دیا دھوکہ\nبابا یہ ہوا کیا\nمسلم کی شہادت پہ۔۔۔\n<<DIVIDER>>\nاس عمر میں سوچا نہ تھا جملے یہ سنیں گے\nگھٹ گھٹ کی رہیں گے\nاب لوگ بلاتے ہیں ہمیں کہہ کے یتیمہ\nبابا یہ ہوا کیا\nمسلم کی شہادت پہ۔۔۔\n<<DIVIDER>>\nسنتے ہیں کہ مسجد میں نمازی تو بہت تھے\nبیعت بھی کیےء تھے\nپھر آپ کو بے جرم خطا کس لئے مارا\nبابا یہ ہوا کیا\nمسلم کی شہادت پہ۔۔۔\n<<DIVIDER>>\nجس دن سے شہادت کی خبر انکو ملی ہے\nوہ چوٹ لگی ہے\nدیکھا نہیں جاتا ہے چچا جان کا چہرہ\nبابا یہ ہوا کیا\nمسلم کی شہادت پہ۔۔۔\n<<DIVIDER>>\nمرنے کی خبر آی مگر کچھ نہیں معلوم\nہر بات سے محروم\nکب آپ کو مارا گیا کب اٹھا جنازہ\nبابا یہ ہوا کیا\nمسلم کی شہادت پہ۔۔۔\n<<DIVIDER>>\nآنکھوں میں ٹہرتے ہی نہیں ہیں میرے آنسوں\nاور اجڑے ہیں گیسوں\nتر ہو گیا اشکوں سے میرا چھوٹا سا کرتہ\nبابا یہ ہوا کیا\nمسلم کی شہادت پہ۔۔۔\n<<DIVIDER>>\nہے آپ وہاں کربوبلا جاتا ہے کنبہ\nدشوار ہے رستہ\nکیا سوچ کے ہم لوگوں نے چھوڑا تھا مدینہ\nبابا یہ ہوا کیا\nمسلم کی شہادت پہ۔۔۔\n<<DIVIDER>>\nعشرت انہیں لفظوں میں اثر گھول رہا ہے\nجو دل کی صدا ہے\nرو رو کے سنایا تھا رقیہ نے جو نوحہ\nبابا یہ ہوا کیا\nمسلم کی شہادت پہ۔۔۔",
+  "styling": [
+    {
+      "insert": "مسلم کی شہادت پہ یہ کہتی ہے رقیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا یہ ہوا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوفے کا سفر آپ کو کیا راس نہ آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا یہ ہوا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنتی ہوں کہ بھائی بھی میرے مارے گےء ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا میں پڑے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کمسن تھے لعینوں نے زرا بھی نہیں سوچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا یہ ہوا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کی شہادت پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوفے کے مسلمان مسلمان نہیں تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "انسان نہیں تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خط بھیج کے بلوایا گیا اور دیا دھوکہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا یہ ہوا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کی شہادت پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس عمر میں سوچا نہ تھا جملے یہ سنیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گھٹ گھٹ کی رہیں گے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب لوگ بلاتے ہیں ہمیں کہہ کے یتیمہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا یہ ہوا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کی شہادت پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسنتے ہیں کہ مسجد میں نمازی تو بہت تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیعت بھی کیےء تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر آپ کو بے جرم خطا کس لئے مارا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا یہ ہوا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کی شہادت پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس دن سے شہادت کی خبر انکو ملی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ چوٹ لگی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھا نہیں جاتا ہے چچا جان کا چہرہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا یہ ہوا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کی شہادت پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمرنے کی خبر آی مگر کچھ نہیں معلوم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر بات سے محروم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کب آپ کو مارا گیا کب اٹھا جنازہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا یہ ہوا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کی شہادت پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھوں میں ٹہرتے ہی نہیں ہیں میرے آنسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور اجڑے ہیں گیسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تر ہو گیا اشکوں سے میرا چھوٹا سا کرتہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا یہ ہوا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کی شہادت پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہے آپ وہاں کربوبلا جاتا ہے کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دشوار ہے رستہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا سوچ کے ہم لوگوں نے چھوڑا تھا مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا یہ ہوا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کی شہادت پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعشرت انہیں لفظوں میں اثر گھول رہا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو دل کی صدا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رو رو کے سنایا تھا رقیہ نے جو نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا یہ ہوا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مسلم کی شہادت پہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Hazrat Muslim (a.s)",
+  "subcategory": "حضرت مسلم (ع)",
   "author": "Ishrat Lakhnavi",
   "anjumans": [],
   "verified": false

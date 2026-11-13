@@ -1,12 +1,567 @@
 {
   "remoteId": "g2611_u1145",
-  "title": "Deke awaaz baap ko",
+  "title": "دیکے آواز باپ کو",
   "body": "ہاے اکبر ہاے اکبر\nبابا میرے بابا\nہاے اکبر\n<<DIVIDER>>\nدیکے آواز باپ کو اکبر\nسوچتے ہیں کے آینگے کیسے\nلڑکھڑاتے ہوے جو آ بھی گئے\nہا ے میرا لاشہ اٹھاینگے کیسے\nدیکے آواز باپ کو ...\n<<DIVIDER>>\nحرکے بیٹے کی لاش پر\nحر سے کہ رہے تھے ابھی یہی بابا\nباپ لاشے جوان اٹھاتا نہیں\nاسکا لاشہ میں خود اٹھاؤنگا\nاب وہی مرحلہ ہے بابا پر\nمیرے لاشہ اٹھاینگے کیسے\nدیکے آواز باپ کو ...\n<<DIVIDER>>\nاک محشر بپا تھا خیمہ میں\nماں سے جس دم گیا تھا میں ملنے\nآکے بابا نے اس گھڑی\nدامن خود چھڑایا تھا میری بہنوں سے\nمیرا دامن چھڑانا آسان تھا\nدل سے برچھی چھڈاینگے کیسے\nدیکے آواز باپ کو ...\n<<DIVIDER>>\nفکر برچھی کی کچھ نہیں مجھکو\nدل میں بس یہ خیال آتا ہے\nاپنے کڑیل جواں کے لاشے پر\nجیتے جی باپ مر ہی جاتا ہے\nاس ضعیفی میں اک سات پدر\nدو جنازے اٹھاینگے کیسے\nدیکے آواز باپ کو ...\n<<DIVIDER>>\nاب میں سمجھا کے کس لئے بابا\nمیرے سینے کو چوما کرتے تھے\nیاد آتی تھی انکو جب صغرا\nمیری آنکھوں میں دیکھا کرتے تھے\nغم ہے اب میرا میری آنکھوں میں\nمجھ سے نظریں ملاینگے کیسے\nدیکے آواز باپ کو ...\n<<DIVIDER>>\nاینا اینا علی الاکبر کی\nرن میں آواز جب وہ دیتے ہیں\nہا ے غربت غریب زہرہ کی\nدیکھ کر شام والے ہنستے ہیں\nراستہ انکو مجھ تک آنے کا\nپھر یہ قاتل بتاینگے کیسے\nدیکے آواز باپ کو ...\n<<DIVIDER>>\nقتل شببر کی ہے تیاری رن میں\nچمکا رہے ہیں سب خنجر\nبرچھی سینے میں ہے میرے لیکن\nاتنا مجبور بھی نہیں اکبر\nشام کے لوگ میرے ہوتے ہوے\nشہ پہ خنجر چلاینگے کیسے\nدیکے آواز باپ کو ...\n<<DIVIDER>>\nآنکھ میں اشک لیب پی نوحہ تھا\nاے تکلّم عجیب لمحہ تھا\nدل میں وہ بار بار کہتا تھا\nآنے والا ہے قاصد صغرا\nبھائی کی لاش پر میرے بابا\nخط بہن کا سناینگے\nدیکے آواز باپ کو ...",
+  "styling": [
+    {
+      "insert": "ہاے اکبر ہاے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاے اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدیکے آواز باپ کو اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوچتے ہیں کے آینگے کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لڑکھڑاتے ہوے جو آ بھی گئے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہا ے میرا لاشہ اٹھاینگے کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکے آواز باپ کو ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nحرکے بیٹے کی لاش پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حر سے کہ رہے تھے ابھی یہی بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باپ لاشے جوان اٹھاتا نہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسکا لاشہ میں خود اٹھاؤنگا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب وہی مرحلہ ہے بابا پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے لاشہ اٹھاینگے کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکے آواز باپ کو ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاک محشر بپا تھا خیمہ میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں سے جس دم گیا تھا میں ملنے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آکے بابا نے اس گھڑی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دامن خود چھڑایا تھا میری بہنوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرا دامن چھڑانا آسان تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل سے برچھی چھڈاینگے کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکے آواز باپ کو ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفکر برچھی کی کچھ نہیں مجھکو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں بس یہ خیال آتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنے کڑیل جواں کے لاشے پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جیتے جی باپ مر ہی جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس ضعیفی میں اک سات پدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دو جنازے اٹھاینگے کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکے آواز باپ کو ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاب میں سمجھا کے کس لئے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سینے کو چوما کرتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یاد آتی تھی انکو جب صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری آنکھوں میں دیکھا کرتے تھے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم ہے اب میرا میری آنکھوں میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھ سے نظریں ملاینگے کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکے آواز باپ کو ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاینا اینا علی الاکبر کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رن میں آواز جب وہ دیتے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہا ے غربت غریب زہرہ کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکھ کر شام والے ہنستے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "راستہ انکو مجھ تک آنے کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر یہ قاتل بتاینگے کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکے آواز باپ کو ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقتل شببر کی ہے تیاری رن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چمکا رہے ہیں سب خنجر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "برچھی سینے میں ہے میرے لیکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا مجبور بھی نہیں اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام کے لوگ میرے ہوتے ہوے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ پہ خنجر چلاینگے کیسے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکے آواز باپ کو ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآنکھ میں اشک لیب پی نوحہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے تکلّم عجیب لمحہ تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل میں وہ بار بار کہتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنے والا ہے قاصد صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھائی کی لاش پر میرے بابا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خط بہن کا سناینگے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیکے آواز باپ کو ..."
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Mir Takallum",
   "anjumans": [],
   "verified": false

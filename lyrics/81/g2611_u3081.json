@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u3081",
-  "title": "Sila maddah ko",
+  "title": "صلہ مداح کو",
   "body": "صلہ مداح کو یہ مدحت حیدر سے ملتا ہے\nکہ جنت میں اسے گھر مصطفیٰ کے گھر سے ملتا ہے\n<<DIVIDER>>\nفقط آل نبی ہے ممبہء الطاف ربانی\nجسے جو فیض ملتا ہے انہیں کے در سے ملتا ہے\nصلہ مداح کو یہ۔۔۔\n<<DIVIDER>>\nوہ برحق جانشیں ہے اور پسندیدہ محارج ہے\nجسے ہجرت کا بستر مرضیء داور سے ملتا ہے\nصلہ مداح کو یہ۔۔۔\n<<DIVIDER>>\nرسالت کی ردا فرش نبی اخلاص کا تکیہ\nوہی پاتا ہے طینت میں جو پیغمبر سے ملتا ہے\nصلہ مداح کو یہ۔۔۔\n<<DIVIDER>>\nمےء توحید پینا ہے چلو میخانہء خم میں\nوہاں جام ولایت ثاقیء کوثر سے ملتا ہے\nصلہ مداح کو یہ۔۔۔\n<<DIVIDER>>\nسر شبیر کو نوک سناں پر دیکھنے والے\nپکار اٹھے یہ سر تو مصطفیٰ کے سر سے ملتا ہے\nصلہ مداح کو یہ۔۔۔\n<<DIVIDER>>\nعلی اصغر کے لاشے پر جھکے ہیں اس طرح سرور\nکوئی سجدے میں جیسے خالق اکبر سے ملتا ہے\nصلہ مداح کو یہ۔۔۔\n<<DIVIDER>>\nیہ دیوانہ ہے دیوانہ ولاے آل احمد کا\nیہی کہتا ہے جو با معرفت جوہر سے ملتا ہے\nصلہ مداح کو یہ۔۔۔",
+  "styling": [
+    {
+      "insert": "صلہ مداح کو یہ مدحت حیدر سے ملتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہ جنت میں اسے گھر مصطفیٰ کے گھر سے ملتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفقط آل نبی ہے ممبہء الطاف ربانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسے جو فیض ملتا ہے انہیں کے در سے ملتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صلہ مداح کو یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ برحق جانشیں ہے اور پسندیدہ محارج ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جسے ہجرت کا بستر مرضیء داور سے ملتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صلہ مداح کو یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرسالت کی ردا فرش نبی اخلاص کا تکیہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہی پاتا ہے طینت میں جو پیغمبر سے ملتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صلہ مداح کو یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمےء توحید پینا ہے چلو میخانہء خم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہاں جام ولایت ثاقیء کوثر سے ملتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صلہ مداح کو یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسر شبیر کو نوک سناں پر دیکھنے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پکار اٹھے یہ سر تو مصطفیٰ کے سر سے ملتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صلہ مداح کو یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی اصغر کے لاشے پر جھکے ہیں اس طرح سرور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی سجدے میں جیسے خالق اکبر سے ملتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صلہ مداح کو یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ دیوانہ ہے دیوانہ ولاے آل احمد کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہی کہتا ہے جو با معرفت جوہر سے ملتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صلہ مداح کو یہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Mustafa Jauhar",
   "anjumans": [],
   "verified": false

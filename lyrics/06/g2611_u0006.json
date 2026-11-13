@@ -1,12 +1,398 @@
 {
   "remoteId": "g2611_u0006",
-  "title": "Zindan may jab dukhtare",
+  "title": "زندان میں جبکے دختر",
   "body": "زندان میں جبکے دختر شبیر مر گئی\nدُنیا سے دف اتن سفر خلد کر گئی\n<<DIVIDER>>\nکنببے کے دِل پہ داغ جدائی کا دھر گئی\nگُھل پڑ گیا حسین کی عاشق گزر گئی\n<<DIVIDER>>\nجنت بسائی دیکھ کے دُنیا کے باغ کو\nتازہ کیا ہے پِھر علی اصغر کے داغ کو\n<<DIVIDER>>\nبازو ہلا كے بانو ناشاد نے کہا\nبی بی پِدَر كے سَر سے اٹھاؤ تو سَر ذرا\nباتیں ابھی تو کرتی تھیں آنسو بہا بہا\nساکت ہے نفس ہائے غضب سرد دست و پا\n<<DIVIDER>>\nمنہ دیکھتے ہی ذیست کا نقشہ بَدَل گیا\nکس وقت سانس رک گئی کب دم نکل گیا\n<<DIVIDER>>\nلو ہاتھ جوڑتی ہے یہ مان اے سكینہ جان\nمجھکو بلالو تم ہو جہاں اے سكینہ جان\nڈھونڈ و نکل كے تم کو کہاں اے سكینہ جان\nمادر کو قبر ہے یہ مکان اے سكینہ جان\n<<DIVIDER>>\nمیں جانتی ہوں موت سے بدتر حیات کو\nاب کون سوئے گا میرے پہلو میں رات کو\n<<DIVIDER>>\nبچی یہ مان تجھے کدھر اب ڈھونڈنے کو جاے\nاے غم رسیدہ تونے قیامت كے دکھ اٹھاے\nچھوٹ کر بدر سے گھورکیان کھائیں تماچے کھاے\nبی بی رسن بندھی تیری گردن میں ہائے ہائے\n<<DIVIDER>>\nجو سختیان فلک نے دکھائیں وہ سہہ گئیں\nبندے جو چھل گئے میرا منہ تک كے رہ گئیں\n<<DIVIDER>>\nقربان جاؤں قیدی دامے بلا ہے ماں\nآفت میں بعد سبط نبی مبتلا ہے مان\nمجبور ہے غریب ہے بیدست و پا ہے مان\nبی بی کو دے کہاں سے کفن بیردا ہے مان\n<<DIVIDER>>\nپہلے سے خاک میں ہے بدن سب اٹا ہوا\nلیجاو قبر میں یہی کرتا پھٹا ہوا\n<<DIVIDER>>\nایزا سے غم سے رنج اٹھانے سے چھوٹ گئیں\nکنببے سے کیا کے سارے زمانے سے چھوٹ گئیں\nہر صبح شام اشک بہانے سے چھوٹ گئیں\nاچھا ہوا کے گھورکیان کھانے سے چھوٹ گئیں\n<<DIVIDER>>\nنیند اُڑ گئی تھی لوگوں کی بچی کے بین سے\nاب تو یزید رات کو سوئے گا چین سے",
+  "styling": [
+    {
+      "insert": "زندان میں جبکے دختر شبیر مر گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُنیا سے دف اتن سفر خلد کر گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکنببے کے دِل پہ داغ جدائی کا دھر گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گُھل پڑ گیا حسین کی عاشق گزر گئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجنت بسائی دیکھ کے دُنیا کے باغ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تازہ کیا ہے پِھر علی اصغر کے داغ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبازو ہلا كے بانو ناشاد نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی پِدَر كے سَر سے اٹھاؤ تو سَر ذرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "باتیں ابھی تو کرتی تھیں آنسو بہا بہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساکت ہے نفس ہائے غضب سرد دست و پا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمنہ دیکھتے ہی ذیست کا نقشہ بَدَل گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس وقت سانس رک گئی کب دم نکل گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلو ہاتھ جوڑتی ہے یہ مان اے سكینہ جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجھکو بلالو تم ہو جہاں اے سكینہ جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈ و نکل كے تم کو کہاں اے سكینہ جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مادر کو قبر ہے یہ مکان اے سكینہ جان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں جانتی ہوں موت سے بدتر حیات کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب کون سوئے گا میرے پہلو میں رات کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبچی یہ مان تجھے کدھر اب ڈھونڈنے کو جاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے غم رسیدہ تونے قیامت كے دکھ اٹھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چھوٹ کر بدر سے گھورکیان کھائیں تماچے کھاے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی رسن بندھی تیری گردن میں ہائے ہائے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجو سختیان فلک نے دکھائیں وہ سہہ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بندے جو چھل گئے میرا منہ تک كے رہ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقربان جاؤں قیدی دامے بلا ہے ماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آفت میں بعد سبط نبی مبتلا ہے مان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مجبور ہے غریب ہے بیدست و پا ہے مان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بی بی کو دے کہاں سے کفن بیردا ہے مان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپہلے سے خاک میں ہے بدن سب اٹا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لیجاو قبر میں یہی کرتا پھٹا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایزا سے غم سے رنج اٹھانے سے چھوٹ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کنببے سے کیا کے سارے زمانے سے چھوٹ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر صبح شام اشک بہانے سے چھوٹ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اچھا ہوا کے گھورکیان کھانے سے چھوٹ گئیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیند اُڑ گئی تھی لوگوں کی بچی کے بین سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب تو یزید رات کو سوئے گا چین سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Marsiya"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "anjumans": [],
   "verified": false
 }

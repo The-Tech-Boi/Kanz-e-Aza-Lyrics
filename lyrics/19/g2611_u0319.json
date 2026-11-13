@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u0319",
-  "title": "Aina aina ay ali",
+  "title": "عینا عینا اے علی",
   "body": "عینا عینا اے علی اکبر\nکہاں ہو اے علی اکبر\n<<DIVIDER>>\nکیوں رحم کھاؤ باپ ہے حد درجہ سوگوار\nقاسم نہ عون اور نہ عباس ذی وقار\nڈھونڈوں کہاں پہ آتا نہیں کچھ مجھے نظر\nعینا عینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nبیٹا یہ تیرا باپ ہے اس وقت زندہ لاش\nآنکھوں کا نور بھی نہیں کیسے کروں تلاش\nخم ہے تیرے چچا کے الم سے میری کمر\nعینا عینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nلاشوں سے رن میں ٹھوکریں کھاتا ہوں بار بار\nقابو نہیں ہے دل پہ نہ اعضاء پہ اختیار\nقاسم کے غم نے کر دیےء ٹکڑے دل و جگر\nعینا عینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nتیری پھپھی نکل نہ پڑے خیمہ گاہ سے\nاٹھارہ سال پالا ہے اس نے تو چاہ سے\nلے جاؤں تم کو اسکے میں آنے سے پیش تر\nعینا عینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nجب سے سنی ہے تیری صدا ماں ہے بیقرار\nسینے کو پکڑے پوچھتی ہے مجھ سے بار بار\nکس نے کیا سلام یہ رن سے پکار کر\nعینا عینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nمشکل کشا کے پوتے ہو مشکل کا وقت ہے\nپہنچو مدد کو باپ پہ منزل یہ سخت ہے\nاک بار پھر پکارو تو آ جاے یہ پدر\nعینا عینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nخط آیا ہے وطن سے بہن کا اسے پڑو\nاٹھ کر جواب فاطمہ صغرا کو کچھ لکھو\nتیار واپسی پہ ہے صغریٰ کا نامور\nعینا عینا اے علی اکبر۔۔۔\n<<DIVIDER>>\nاس حال کا انیس کرے کس طرح بیاں\nجس طرح شاہ ڈھونڈتے تھے اپنا نوجواں\nمقتل کی خاک آج بھی ہے غم میں نوحہ گر\nعینا عینا اے علی اکبر۔۔۔",
+  "styling": [
+    {
+      "insert": "عینا عینا اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کہاں ہو اے علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیوں رحم کھاؤ باپ ہے حد درجہ سوگوار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم نہ عون اور نہ عباس ذی وقار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈوں کہاں پہ آتا نہیں کچھ مجھے نظر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عینا عینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیٹا یہ تیرا باپ ہے اس وقت زندہ لاش"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آنکھوں کا نور بھی نہیں کیسے کروں تلاش"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خم ہے تیرے چچا کے الم سے میری کمر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عینا عینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلاشوں سے رن میں ٹھوکریں کھاتا ہوں بار بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قابو نہیں ہے دل پہ نہ اعضاء پہ اختیار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "قاسم کے غم نے کر دیےء ٹکڑے دل و جگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عینا عینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتیری پھپھی نکل نہ پڑے خیمہ گاہ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھارہ سال پالا ہے اس نے تو چاہ سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے جاؤں تم کو اسکے میں آنے سے پیش تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عینا عینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجب سے سنی ہے تیری صدا ماں ہے بیقرار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سینے کو پکڑے پوچھتی ہے مجھ سے بار بار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس نے کیا سلام یہ رن سے پکار کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عینا عینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمشکل کشا کے پوتے ہو مشکل کا وقت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پہنچو مدد کو باپ پہ منزل یہ سخت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک بار پھر پکارو تو آ جاے یہ پدر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عینا عینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخط آیا ہے وطن سے بہن کا اسے پڑو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اٹھ کر جواب فاطمہ صغرا کو کچھ لکھو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیار واپسی پہ ہے صغریٰ کا نامور"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عینا عینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس حال کا انیس کرے کس طرح بیاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس طرح شاہ ڈھونڈتے تھے اپنا نوجواں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مقتل کی خاک آج بھی ہے غم میں نوحہ گر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عینا عینا اے علی اکبر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Anees",
   "anjumans": [],
   "verified": false

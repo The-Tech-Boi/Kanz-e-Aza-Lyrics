@@ -1,12 +1,410 @@
 {
   "remoteId": "g2611_u0933",
-  "title": "Be maqnao chadar",
+  "title": "بے مقنہ و چادر",
   "body": "بے مقنہ و چادر سر بازار ہے زینب\nعباس کھلے سر سر بازار ہے زینب\nیا عباس یا عباس\n<<DIVIDER>>\nایک بار بس ایک بار مجھے دیکھ لے بھیا\nاے میرے مددگار مجھے دیکھ لے بھیا\nمر جائے گی خواہر سر بازار ہے زینب\nبے مقنہ و چادر۔۔۔\n<<DIVIDER>>\nمیں تیری بہن ہوں یہ زمانے کو خبر ہے\nہر دیکھنے والے کی میرے سر پہ نظر ہے\nپر درد ہے منظر سر بازار ہے زینب\nبے مقنہ و چادر۔۔۔\n<<DIVIDER>>\nبن بھای کے ایک بہن کا کیا جینے میں جینا\nعباس سحن کیسے کروں پھٹتا ہے سینہ\nمر جانا ہے بہتر سر بازار ہے زینب\nبے مقنہ و چادر۔۔۔\n<<DIVIDER>>\nدے حکم کہ پھٹ جائے زمیں مجھکو سما لے\nبے درد زمانے کی جفاؤں سے بچا لے\nاے وقت کے حیدر سر بازار ہے زینب\nبے مقنہ و چادر۔۔۔\n<<DIVIDER>>\nدورانِ سفر سر پہ تیرا ہاتھ ہے بھیا\nاتنا ہی بہت ہے تو میرے ساتھ ہے بھیا\nایک تیرے ہی دم سر بازار زینب\nبے مقنہ و چادر۔۔۔\n<<DIVIDER>>\nکل تیرے بھروسے پہ چلی تھی میں وطن سے\nکیا بات ہے کچھ بول دو اے بھائی بہن سے\nاے ازم کے پیکر سر بازار ہے زینب\nبے مقنہ و چادر۔۔۔\n<<DIVIDER>>\nرہوار کی گردن میں ہے اس وقت تیرا سر\nعباس مگر پھر بھی لرزتے ہیں ستمگر\nاس ڈر کی بنا پر سر بازار ہے زینب\nبے مقنہ و چادر۔۔۔\n<<DIVIDER>>\nاس واسطے دیتی ہوں مسلسل میں صداییں\nہوتی ہیں یہاں مجھ پہ جفاؤں پہ جفاییں\nاے میرے غضنفر سر بازار ہے زینب\nبے مقنہ و چادر۔۔۔\n<<DIVIDER>>\nآصف ہو رقم کیسے غم زینب مضطر\nعامر ہو بیاں کیسے کہ زینب تھا لب پر\nیہ میرا مقدر سر بازار ہے زینب\nبے مقنہ و چادر۔۔۔",
+  "styling": [
+    {
+      "insert": "بے مقنہ و چادر سر بازار ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس کھلے سر سر بازار ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یا عباس یا عباس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک بار بس ایک بار مجھے دیکھ لے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے مددگار مجھے دیکھ لے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جائے گی خواہر سر بازار ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے مقنہ و چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں تیری بہن ہوں یہ زمانے کو خبر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر دیکھنے والے کی میرے سر پہ نظر ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پر درد ہے منظر سر بازار ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے مقنہ و چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبن بھای کے ایک بہن کا کیا جینے میں جینا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس سحن کیسے کروں پھٹتا ہے سینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر جانا ہے بہتر سر بازار ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے مقنہ و چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدے حکم کہ پھٹ جائے زمیں مجھکو سما لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے درد زمانے کی جفاؤں سے بچا لے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے وقت کے حیدر سر بازار ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے مقنہ و چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدورانِ سفر سر پہ تیرا ہاتھ ہے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اتنا ہی بہت ہے تو میرے ساتھ ہے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک تیرے ہی دم سر بازار زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے مقنہ و چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکل تیرے بھروسے پہ چلی تھی میں وطن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا بات ہے کچھ بول دو اے بھائی بہن سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے ازم کے پیکر سر بازار ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے مقنہ و چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرہوار کی گردن میں ہے اس وقت تیرا سر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس مگر پھر بھی لرزتے ہیں ستمگر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس ڈر کی بنا پر سر بازار ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے مقنہ و چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس واسطے دیتی ہوں مسلسل میں صداییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوتی ہیں یہاں مجھ پہ جفاؤں پہ جفاییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے غضنفر سر بازار ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے مقنہ و چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآصف ہو رقم کیسے غم زینب مضطر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عامر ہو بیاں کیسے کہ زینب تھا لب پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ میرا مقدر سر بازار ہے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے مقنہ و چادر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Darbaar e Shaam",
+  "subcategory": "دربار شام",
   "author": "Asif Bijnori",
   "anjumans": [],
   "verified": false

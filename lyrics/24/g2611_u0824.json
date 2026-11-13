@@ -1,12 +1,342 @@
 {
   "remoteId": "g2611_u0824",
-  "title": "Baba ko na leke",
+  "title": "بابا کو نہ لے کے",
   "body": "بالی سکینہ نے رو کر کہا\nبابا کو نہ لے کے جا ذوالجناح\n<<DIVIDER>>\nزخموں سے ہے چور بابا میرا\nبابا کو نہ لے کے جا ذوالجناح\n<<DIVIDER>>\nمیں جانتی ہوں وفادار تو ہے\nبابا کے گھوڑے سمجھدار تو ہے\nداغ یتیمی سے مجھکو بچا\nبابا کو نہ لے کے۔۔۔\n<<DIVIDER>>\nمیں غم یتیمی کا سہہ نہ سکوں گی\nبن بابا جاں کے میں رہ نہ سکوں گی\nاحسان کر مجھ پہ اے با وفا\nبابا کو نہ لے کے۔۔۔\n<<DIVIDER>>\nنیند آتی ہے مجھکو صدر پدر پر\nمیں خاک پہ ہاے سوؤں گی کیوں کر\nہے میری تجھ سے یہی التجاء\nبابا کو نہ لے کے۔۔۔\n<<DIVIDER>>\nکیسے بتاؤں جو صدمہ ہے دل پر\nمارے گےء بھائی قاسم و اکبر\nدریا سے آے نہ میرے چچا\nبابا کو نہ لے کے۔۔۔\n<<DIVIDER>>\nکچھ دیر پہلے جو گیا تھا اصغر\nآیا تھا وہ اپنے خوں میں نہا کر\nششماہ بھیا بھی مارا گیا\nبابا کو نہ لے کے۔۔۔\n<<DIVIDER>>\nموجود ہوتے اگر میرے عمو\nبہتے نہ یوں میرے آنکھوں سے آنسوں\nدیتی نہ میں تجھکو رو کر صدا\nبابا کو نہ لے کے۔۔۔\n<<DIVIDER>>\nوایض سکینہ کی آہ و بکا پر\nرہوار روتا تھا سر کو جھکا کر\nنوحہ تھا وہ غم میں ڈوبا ہوا\nبابا کو نہ لے کے۔۔۔",
+  "styling": [
+    {
+      "insert": "بالی سکینہ نے رو کر کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو نہ لے کے جا ذوالجناح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخموں سے ہے چور بابا میرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو نہ لے کے جا ذوالجناح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں جانتی ہوں وفادار تو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کے گھوڑے سمجھدار تو ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داغ یتیمی سے مجھکو بچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو نہ لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمیں غم یتیمی کا سہہ نہ سکوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بن بابا جاں کے میں رہ نہ سکوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "احسان کر مجھ پہ اے با وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو نہ لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیند آتی ہے مجھکو صدر پدر پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میں خاک پہ ہاے سوؤں گی کیوں کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے میری تجھ سے یہی التجاء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو نہ لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسے بتاؤں جو صدمہ ہے دل پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مارے گےء بھائی قاسم و اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دریا سے آے نہ میرے چچا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو نہ لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکچھ دیر پہلے جو گیا تھا اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آیا تھا وہ اپنے خوں میں نہا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ششماہ بھیا بھی مارا گیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو نہ لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nموجود ہوتے اگر میرے عمو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بہتے نہ یوں میرے آنکھوں سے آنسوں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیتی نہ میں تجھکو رو کر صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو نہ لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوایض سکینہ کی آہ و بکا پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رہوار روتا تھا سر کو جھکا کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحہ تھا وہ غم میں ڈوبا ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بابا کو نہ لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Waiz Sultanpuri",
   "anjumans": [],
   "verified": false

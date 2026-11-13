@@ -1,12 +1,278 @@
 {
   "remoteId": "g2611_u0915",
-  "title": "Batlaiye ye kaisi",
+  "title": "بتلائیے یہ کیسی",
   "body": "بتلائیے یہ کیسی اسیری ہے پھوپھی جاں\nکیا میرے مقدر میں تھا یہ شام کا زنداں\n<<DIVIDER>>\nیاں خاک اڑاتی ہے جہاں شام سے وحشت\nہر صبح ٹپکتی ہے جہاں بام سے وحشت\nہوگا اسی زنداں میں میرے دفن کا ساماں\n---بتلائیے یہ کیسی\n<<DIVIDER>>\nیہ رات یہ تنہائی یہ خاموشی یہ غربت\nاماں اسی گوشے میں بنانا میری تربت\nکیا میری طرح سے میری ہو قبر بھی ویراں\n---بتلائیے یہ کیسی\n<<DIVIDER>>\nاماں ہوکہاں کچھ بھی دکھائی نہیں دیتا\nہاتھوں کو میرے ہاتھ سجھائی نہیں دیتا\nایسا ہے اندھیرا کر خطا ہوتے ہیں اوسان\n---بتلائیے یہ کیسی\n<<DIVIDER>>\nوہ شام طمانچوں بھری رخصت ہوئی اماں\nدامن جلے گوہر چھنے مدت ہوئی اماں\nہے آج تلک درد سے دکھتے ہیں میرے کان\n---بتلائیے یہ کیسی\n<<DIVIDER>>\nسوچا تھا کہ زنداں سے رہا جب بھی میں ہوں گی\nجاوں گی مدینے کو میں صغرا سے ملوں گی\nلگتا ہے مگر یاں سے رہائی نہیں آسان\n---بتلائیے یہ کیسی\n<<DIVIDER>>\nپر شور نوید اتنا ہے جتنا ہے یہ سنسان\nاک تیر کے ہوتے ہوئے یہ شام کا زندان\nآباد کہاں بعد ہے ویران کا ویراں\n---بتلائیے یہ کیسی",
+  "styling": [
+    {
+      "insert": "بتلائیے یہ کیسی اسیری ہے پھوپھی جاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا میرے مقدر میں تھا یہ شام کا زنداں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیاں خاک اڑاتی ہے جہاں شام سے وحشت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہر صبح ٹپکتی ہے جہاں بام سے وحشت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوگا اسی زنداں میں میرے دفن کا ساماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بتلائیے یہ کیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ رات یہ تنہائی یہ خاموشی یہ غربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اماں اسی گوشے میں بنانا میری تربت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیا میری طرح سے میری ہو قبر بھی ویراں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بتلائیے یہ کیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاماں ہوکہاں کچھ بھی دکھائی نہیں دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھوں کو میرے ہاتھ سجھائی نہیں دیتا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایسا ہے اندھیرا کر خطا ہوتے ہیں اوسان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بتلائیے یہ کیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ شام طمانچوں بھری رخصت ہوئی اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دامن جلے گوہر چھنے مدت ہوئی اماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے آج تلک درد سے دکھتے ہیں میرے کان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بتلائیے یہ کیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوچا تھا کہ زنداں سے رہا جب بھی میں ہوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جاوں گی مدینے کو میں صغرا سے ملوں گی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لگتا ہے مگر یاں سے رہائی نہیں آسان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بتلائیے یہ کیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپر شور نوید اتنا ہے جتنا ہے یہ سنسان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک تیر کے ہوتے ہوئے یہ شام کا زندان"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آباد کہاں بعد ہے ویران کا ویراں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بتلائیے یہ کیسی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Ahmed Naved",
   "anjumans": [],
   "verified": false

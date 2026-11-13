@@ -1,12 +1,456 @@
 {
   "remoteId": "g2611_u0016",
-  "title": "Aa gaya madina",
+  "title": "آ گیا مدینہ",
   "body": "آ گیا مدینہ\n<<DIVIDER>>\nلٹ کے گیا وطن فاطمہ کا کنبہ\nآ گیا مدینہ آ گیا مدینہ\n<<DIVIDER>>\nکیسی یہ اداسیاں فضاؤں پر ہے طاری\nآ رہے ہیں قدسیاں علم سیاہ عماری\nکیسا درد ناک ہے مسافروں کا قصہ\nآ گیا مدینہ۔۔۔\n<<DIVIDER>>\nبی بیوں کو پھر وہی بہار یاد آی\nجو اجڑ چکی وہ یادگار یاد آی\nدور سے نظر جو آیا مصطفیٰ کا روضہ\nآ گیا مدینہ۔۔۔\n<<DIVIDER>>\nفاطمہ کی بیٹیوں کلیجے کو سنبھالو\nبازوؤں پہ نیل کے نشاں سب چھپالو\nتیز ہوا ردا گرے نہ سر سے فضہ\nآ گیا مدینہ۔۔۔\n<<DIVIDER>>\nایک دو نہیں تمام گھر کی ہے نشانی\nکربلا نے چھین لی مدینے کی نشانی\nروتے ہے حرم بشیر پڑھ رہا ہے نوحہ\nآ گیا مدینہ۔۔۔\n<<DIVIDER>>\nاس قدر خاموش کیوں ہو اے رباب بولو\nاپنی لاڈلی کو دو گی کیا جواب بو لو\nہے کہاں میرا صغیر پوچھے گی جو صغرا\nآ گیا مدینہ۔۔۔\n<<DIVIDER>>\nکس طرح وہ غم کا ماجرا کہیں گے عابد\nسوچیےء چچا سے اپنے کیا کہیں گے عابد\nوہ جو پوچھ لے گلے میں زخم ہے یہ کیسا\nآ گیا مدینہ۔۔۔\n<<DIVIDER>>\nاے بشیر علقمہ پہ کیا ہوا بتاؤ\nماں سوال کر نہیں ہے واقعہ سناؤ\nخیمے جب جلے تو میرا لاڈلا کہاں تھا\nآ گیا مدینہ۔۔۔\n<<DIVIDER>>\nآ رہے ہیں پوچھنے کو حال اہلِ یثرب\nوہ مصیبتیں بیاں کرو گی کیسے زینب\nجن مصیبتوں نے تم کو کر دیا ضعیفہ\nآ گیا مدینہ۔۔۔\n<<DIVIDER>>\nکس طرح ستمگروں نے چھین لی رداییں\nبیٹیاں سفر کا حال ماں کو کیا سناییں\nایک حشر جنت البقیع میں ہے برپا\nآ گیا مدینہ۔۔۔\n<<DIVIDER>>\nلے چلا نصیب جب بھی روضہء نبی پر\nسوچ کر تڑپ اٹھے یہ عامر اور نیر\nیہ جگہ وہ ہے جہاں حسین پھر نہ آیا\nآ گیا مدینہ۔۔۔",
+  "styling": [
+    {
+      "insert": "آ گیا مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلٹ کے گیا وطن فاطمہ کا کنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا مدینہ آ گیا مدینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکیسی یہ اداسیاں فضاؤں پر ہے طاری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ رہے ہیں قدسیاں علم سیاہ عماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیسا درد ناک ہے مسافروں کا قصہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا مدینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبی بیوں کو پھر وہی بہار یاد آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو اجڑ چکی وہ یادگار یاد آی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دور سے نظر جو آیا مصطفیٰ کا روضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا مدینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفاطمہ کی بیٹیوں کلیجے کو سنبھالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بازوؤں پہ نیل کے نشاں سب چھپالو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تیز ہوا ردا گرے نہ سر سے فضہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا مدینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nایک دو نہیں تمام گھر کی ہے نشانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کربلا نے چھین لی مدینے کی نشانی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "روتے ہے حرم بشیر پڑھ رہا ہے نوحہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا مدینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس قدر خاموش کیوں ہو اے رباب بولو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی لاڈلی کو دو گی کیا جواب بو لو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے کہاں میرا صغیر پوچھے گی جو صغرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا مدینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح وہ غم کا ماجرا کہیں گے عابد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوچیےء چچا سے اپنے کیا کہیں گے عابد"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ جو پوچھ لے گلے میں زخم ہے یہ کیسا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا مدینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے بشیر علقمہ پہ کیا ہوا بتاؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ماں سوال کر نہیں ہے واقعہ سناؤ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے جب جلے تو میرا لاڈلا کہاں تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا مدینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآ رہے ہیں پوچھنے کو حال اہلِ یثرب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ مصیبتیں بیاں کرو گی کیسے زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جن مصیبتوں نے تم کو کر دیا ضعیفہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا مدینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکس طرح ستمگروں نے چھین لی رداییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بیٹیاں سفر کا حال ماں کو کیا سناییں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک حشر جنت البقیع میں ہے برپا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا مدینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nلے چلا نصیب جب بھی روضہء نبی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سوچ کر تڑپ اٹھے یہ عامر اور نیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ جگہ وہ ہے جہاں حسین پھر نہ آیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ گیا مدینہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Wapasi-e-Ahle Haram",
+  "subcategory": "واپسی اہل حرم",
   "author": "Nayyar Jalalpuri",
   "anjumans": [],
   "verified": false

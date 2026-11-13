@@ -1,12 +1,386 @@
 {
   "remoteId": "g2611_u3310",
-  "title": "Warise chadare tatheer",
+  "title": "وارثِ چادرِ تطہیر",
   "body": "وارثِ چادرِ تطہیر ہے بنتِ زہرا\nبعد شبیر کے شبیر ہے بنتِ زہرا\n<<DIVIDER>>\nفاطمہ زہرا سی صورت ہے تو سیرت بھی وہی\nضبط کا حوصلہ اور صبر کی ہمت بھی وہی\nوہی تقویٰ اور طہارت ہے عبادت ہے وہی\nہے وہی لہجہ اندازِ خطابت بھی وہی\nدین کے عنوان کی تقریر ہے بنتِ زہرا\nوارثِ چادرِ تطہیر۔۔۔\n<<DIVIDER>>\nآج بہتان جو رکھتے ہیں نبی زادی پر\nاُنہیں لوگوں نے کیا جینا نبی کا دو بھر\nدین میں آئے تھے اسلام کا کلمہ پڑھ کر\nاور ناموسِ پیعمبر کو پھرایا در در\nدینِ اسلام کی توقیر ہے بنتِ زہرا\nوارثِ چادرِ تطہیر۔۔۔\n<<DIVIDER>>\nمٹ گئے آلِ پیعمبر کو مٹانے والے\nحشر تک زندہ ہیں اسلام بچانے والے\nاس حقیقت سے ہیں واقف یہ زمانے والے\nسب سے افضل ہیں محمد کے گھرانے والے\nاس گھرانے کی ایک تصویر ہے بنتِ زہرا\nوارثِ چادرِ تطہیر۔۔۔\n<<DIVIDER>>\nاحترام اُن کا رہے ماہِ محرم کی طرح\nنام اونچا رہے عباس کے پرچم کی طرح\nیہ ہمارے لیئے ہے سورئہ مریم کی طرح\nاپنی نظروں میں ہے یہ نورِ مجسم کی طرح\nپانچ نوروں کی ایک تنویر ہے بنتِ زہرا\nوارثِ چادرِ تطہیر۔۔۔\n<<DIVIDER>>\nبے ردا ہو کہ کیا دینِ خُدا کا پردہ\nان کے کردار سے ہے شرم و حیا کا پردہ\nنام زینب کا بنا آلِ عبا کا پردہ\nشام میں جا کہ اُٹھا کرب و بلا کا پردہ\nگردنِ کفر پر شمشیر ہے بنتِ زہرا\nوارثِ چادرِ تطہیر۔۔۔\n<<DIVIDER>>\nطوق و زنجیر میں جکڑا ہوا بیمار چلا\nنوکِ نیزہ پہ سرِ سیدِ ابرار چلا\nبندھ آنکھوں کو کیئے فرقِ علمدار چلا\nمائوں بہنوں کو لیئے قافلہ سالار چلا\nترجمانِ غمِ شبیر ہے بنتِ زہرا\nوارثِ چادرِ تطہیر۔۔۔",
+  "styling": [
+    {
+      "insert": "وارثِ چادرِ تطہیر ہے بنتِ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بعد شبیر کے شبیر ہے بنتِ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفاطمہ زہرا سی صورت ہے تو سیرت بھی وہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ضبط کا حوصلہ اور صبر کی ہمت بھی وہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہی تقویٰ اور طہارت ہے عبادت ہے وہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وہی لہجہ اندازِ خطابت بھی وہی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دین کے عنوان کی تقریر ہے بنتِ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وارثِ چادرِ تطہیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآج بہتان جو رکھتے ہیں نبی زادی پر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اُنہیں لوگوں نے کیا جینا نبی کا دو بھر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دین میں آئے تھے اسلام کا کلمہ پڑھ کر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ناموسِ پیعمبر کو پھرایا در در"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دینِ اسلام کی توقیر ہے بنتِ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وارثِ چادرِ تطہیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمٹ گئے آلِ پیعمبر کو مٹانے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حشر تک زندہ ہیں اسلام بچانے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس حقیقت سے ہیں واقف یہ زمانے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سب سے افضل ہیں محمد کے گھرانے والے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس گھرانے کی ایک تصویر ہے بنتِ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وارثِ چادرِ تطہیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاحترام اُن کا رہے ماہِ محرم کی طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام اونچا رہے عباس کے پرچم کی طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ہمارے لیئے ہے سورئہ مریم کی طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اپنی نظروں میں ہے یہ نورِ مجسم کی طرح"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانچ نوروں کی ایک تنویر ہے بنتِ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وارثِ چادرِ تطہیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے ردا ہو کہ کیا دینِ خُدا کا پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ان کے کردار سے ہے شرم و حیا کا پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نام زینب کا بنا آلِ عبا کا پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شام میں جا کہ اُٹھا کرب و بلا کا پردہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گردنِ کفر پر شمشیر ہے بنتِ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وارثِ چادرِ تطہیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nطوق و زنجیر میں جکڑا ہوا بیمار چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوکِ نیزہ پہ سرِ سیدِ ابرار چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بندھ آنکھوں کو کیئے فرقِ علمدار چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مائوں بہنوں کو لیئے قافلہ سالار چلا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ترجمانِ غمِ شبیر ہے بنتِ زہرا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وارثِ چادرِ تطہیر۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "anjumans": [],
   "verified": false
 }

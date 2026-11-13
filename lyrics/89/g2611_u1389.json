@@ -1,12 +1,288 @@
 {
   "remoteId": "g2611_u1389",
-  "title": "Hai waqte azan",
+  "title": "ہے وقتِ اذاں",
   "body": "ہے وقتِ اذاں آ علی اکبر اذان دے\nبولے پسر سے سبطِ پیعمبر اذان دے\n<<DIVIDER>>\nیہ آخری اذان ہے سجدہ بھی آخری\nعرشِ بریں پہ سُنتے ہیں حیدر اذان دے\nہے وقتِ اذاں۔۔۔\n<<DIVIDER>>\nٹھنڈک ملے رسول سے روضے پہ میرے لال\nاک آگ سی ہے سینے کے اندر اذان دے\nہے وقتِ اذاں۔۔۔\n<<DIVIDER>>\nنامِ خُدا رسول کا باقی رہے گا دیں\nاس دین کی بقا کے مقدر اذان دے\nہے وقتِ اذاں۔۔۔\n<<DIVIDER>>\nکہتی ہے یہ مدینے سے یہ آتی ہوئی ہوا\nصغریٰ بھی منتظر ہے برادر اذان دے\nہے وقتِ اذاں۔۔۔\n<<DIVIDER>>\nفوجِ عدو کو حق کی صداقت دیکھائی دے\nنادِ علی کے زور پر اُٹھ کر اذان دے\nہے وقتِ اذاں۔۔۔\n<<DIVIDER>>\nجس کا گلا نبی کے لبوں کی ہو جائے نماز\nپھر وہ گلا نہ کیوں تہہِ خنجر اذان دے\nہے وقتِ اذاں۔۔۔\n<<DIVIDER>>\nچلتے ہیں تیر کتنے نمازی ہیں خوں میں تر\nاے میرے لال صبر کے پیکر اذان دے\nہے وقتِ اذاں۔۔۔\n<<DIVIDER>>\nریحان یہ نمازِ عقیدت کا وقت ہے\nنوحوں کو توں اذان بن کر اذان دے\nہے وقتِ اذاں۔۔۔",
+  "styling": [
+    {
+      "insert": "ہے وقتِ اذاں آ علی اکبر اذان دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بولے پسر سے سبطِ پیعمبر اذان دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہ آخری اذان ہے سجدہ بھی آخری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عرشِ بریں پہ سُنتے ہیں حیدر اذان دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وقتِ اذاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nٹھنڈک ملے رسول سے روضے پہ میرے لال"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اک آگ سی ہے سینے کے اندر اذان دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وقتِ اذاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنامِ خُدا رسول کا باقی رہے گا دیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اس دین کی بقا کے مقدر اذان دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وقتِ اذاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتی ہے یہ مدینے سے یہ آتی ہوئی ہوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "صغریٰ بھی منتظر ہے برادر اذان دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وقتِ اذاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nفوجِ عدو کو حق کی صداقت دیکھائی دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نادِ علی کے زور پر اُٹھ کر اذان دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وقتِ اذاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس کا گلا نبی کے لبوں کی ہو جائے نماز"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پھر وہ گلا نہ کیوں تہہِ خنجر اذان دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وقتِ اذاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچلتے ہیں تیر کتنے نمازی ہیں خوں میں تر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے میرے لال صبر کے پیکر اذان دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وقتِ اذاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nریحان یہ نمازِ عقیدت کا وقت ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "نوحوں کو توں اذان بن کر اذان دے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے وقتِ اذاں۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Ali Akbar (a.s)",
+  "subcategory": "علی اکبر (ع)",
   "author": "Rehaan Azmi",
   "anjumans": [],
   "verified": false

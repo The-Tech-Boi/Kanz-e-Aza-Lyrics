@@ -1,12 +1,337 @@
 {
   "remoteId": "g2611_u0740",
-  "title": "Ay sher tu na jaa",
+  "title": "اے شیر تو نہ جا",
   "body": "اے علمدار وفا\nسقاے حرم بہنوں کا بھرم\nہے تیرے ہونے سے بھیا\nسن لے غازی زینب کی صدا\n<<DIVIDER>>\nعباس تیرے ہاتھ میرے سر کی ہے ردا\nاے شیر تو نہ جا\nیہ ہاتھ کٹ گےء تو کرونگی ردا کا کیا\nاے شیر تو نہ جا\n<<DIVIDER>>\nکون آے گا بچانے کو تیروں سے بھای کو\nخنجر چلے گا جب تو کسے دونگی میں صدا\nاے شیر تو نہ جا\nعباس تیرے ہاتھ میرے۔۔۔\n<<DIVIDER>>\nنیزہ ہر ایک کے ہاتھ میں ہوگا بہ وقت شام\nکس کس سے اپنے سر کی بچاؤں گی میں ردا\nاے شیر تو نہ جا\nعباس تیرے ہاتھ میرے۔۔۔\n<<DIVIDER>>\nاس وقت کیا کروں گی جب پیاسی سکینہ کو\nپانی دکھا دکھا کے بہاےنگے اشقیا\nاے شیر تو نہ جا\nعباس تیرے ہاتھ میرے۔۔۔\n<<DIVIDER>>\nبھای ہے تو کسی کا الم اور کسی کی آس\nبھای ہے میرے واسطے تو سایۂ خدا\nاے شیر تو نہ جا\nعباس تیرے ہاتھ میرے۔۔۔\n<<DIVIDER>>\nبھای یہ تیرے ہاتھ حرم کا ہے سایباں\nپردے کی ابتدا ہے یہ پردے کی انتہا\nاے شیر تو نہ جا\nعباس تیرے ہاتھ میرے۔۔۔\n<<DIVIDER>>\nآے گا خوں میں ڈوبا ہوا جب الم نوید\nخیمے کے در پہ گونج رہی ہوگی یہ صدا\nاے شیر تو نہ جا\nعباس تیرے ہاتھ میرے۔۔۔",
+  "styling": [
+    {
+      "insert": "اے علمدار وفا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سقاے حرم بہنوں کا بھرم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے تیرے ہونے سے بھیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سن لے غازی زینب کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعباس تیرے ہاتھ میرے سر کی ہے ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیر تو نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ ہاتھ کٹ گےء تو کرونگی ردا کا کیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیر تو نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکون آے گا بچانے کو تیروں سے بھای کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خنجر چلے گا جب تو کسے دونگی میں صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیر تو نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تیرے ہاتھ میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nنیزہ ہر ایک کے ہاتھ میں ہوگا بہ وقت شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کس کس سے اپنے سر کی بچاؤں گی میں ردا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیر تو نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تیرے ہاتھ میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاس وقت کیا کروں گی جب پیاسی سکینہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پانی دکھا دکھا کے بہاےنگے اشقیا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیر تو نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تیرے ہاتھ میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای ہے تو کسی کا الم اور کسی کی آس"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھای ہے میرے واسطے تو سایۂ خدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیر تو نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تیرے ہاتھ میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھای یہ تیرے ہاتھ حرم کا ہے سایباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پردے کی ابتدا ہے یہ پردے کی انتہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیر تو نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تیرے ہاتھ میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآے گا خوں میں ڈوبا ہوا جب الم نوید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خیمے کے در پہ گونج رہی ہوگی یہ صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اے شیر تو نہ جا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "عباس تیرے ہاتھ میرے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Moula Abbas (a.s)",
+  "subcategory": "مولا عباس (ع)",
   "author": "Ahmed Naved",
   "anjumans": [],
   "verified": false

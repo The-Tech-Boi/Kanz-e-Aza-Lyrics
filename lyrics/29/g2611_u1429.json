@@ -1,12 +1,416 @@
 {
   "remoteId": "g2611_u1429",
-  "title": "Haram ko leke",
+  "title": "حرم کو لے کے",
   "body": "حرم کو لے کے سوے شام جب بڑی زینب\nکبھی حسین بنی اور کبھی علی زینب\n<<DIVIDER>>\nوہ بیقرار تھے کہ تاریک ہو رہی ہے رقم\nجو کہہ رہے تھے اسے تیری بے بسی زینب\nحرم کو لے کے۔۔۔\n<<DIVIDER>>\nخدا کا دین ہے زندہ حسین کے دم سے\nحسینیت کو ملی تجھ سے زندگی زینب\nحرم کو لے کے۔۔۔\n<<DIVIDER>>\nیزیدیوں نے بہت کوششیں تو کی لیکن\nکسی سے کم نہ ہوی تیری برتری زینب\nحرم کو لے کے۔۔۔\n<<DIVIDER>>\nاسے گرانا تھا خطبوں سے شام کا خیبر\nعلی کے لہجے میں کیوں کر نہ بولتی زینب\nحرم کو لے کے۔۔۔\n<<DIVIDER>>\nعلی کو جو شب ہجرت خدا نے بیچی تھی\nعلی سے تو نے وہ مرضی خرید لی زینب\nحرم کو لے کے۔۔۔\n<<DIVIDER>>\nہوے نہ ختم پس کربلا بھی ظلم و ستم\nگیء ہے شام تلک تیرے تشنگی زینب\nحرم کو لے کے۔۔۔\n<<DIVIDER>>\nتھے اک رسن میں جو بارہ گلے رسن بستہ\nرسن کھلی تو سکینہ نہیں رہی زینب\nحرم کو لے کے۔۔۔\n<<DIVIDER>>\nیہی نہیں کہ رسن بستہ ہاتھ ہیں تیرے\nغضب ہوا کہ ردا سر سے چھن‌ گیء زینب\nحرم کو لے کے۔۔۔\n<<DIVIDER>>\nبدن شکستہ رسن بستہ مجمہء اعدا\nاذاں میں نام نبی سن کے رو پڑی زینب\nحرم کو لے کے۔۔۔\n<<DIVIDER>>\nکسی نے مانگا کنیزی میں جب سکینہ کو\nجگر پکڑ کے پکاری علی علی زینب\nحرم کو لے کے۔۔۔\n<<DIVIDER>>\nرہائی پا کے وطن کے لیےء روانہ ہوی\nتڑپ کے کہتی تھی عباس گھر چلی زینب\nحرم کو لے کے۔۔۔\n<<DIVIDER>>\nقلم کی آنکھ سے بہتا ہے خوں علی انصار\nوہ داستان حرم خوں سے لکھ گیء زینب\nحرم کو لے کے۔۔۔",
+  "styling": [
+    {
+      "insert": "حرم کو لے کے سوے شام جب بڑی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کبھی حسین بنی اور کبھی علی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nوہ بیقرار تھے کہ تاریک ہو رہی ہے رقم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو کہہ رہے تھے اسے تیری بے بسی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم کو لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nخدا کا دین ہے زندہ حسین کے دم سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حسینیت کو ملی تجھ سے زندگی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم کو لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیزیدیوں نے بہت کوششیں تو کی لیکن"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کسی سے کم نہ ہوی تیری برتری زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم کو لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاسے گرانا تھا خطبوں سے شام کا خیبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی کے لہجے میں کیوں کر نہ بولتی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم کو لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nعلی کو جو شب ہجرت خدا نے بیچی تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "علی سے تو نے وہ مرضی خرید لی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم کو لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہوے نہ ختم پس کربلا بھی ظلم و ستم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گیء ہے شام تلک تیرے تشنگی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم کو لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتھے اک رسن میں جو بارہ گلے رسن بستہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رسن کھلی تو سکینہ نہیں رہی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم کو لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nیہی نہیں کہ رسن بستہ ہاتھ ہیں تیرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غضب ہوا کہ ردا سر سے چھن‌ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم کو لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبدن شکستہ رسن بستہ مجمہء اعدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اذاں میں نام نبی سن کے رو پڑی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم کو لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکسی نے مانگا کنیزی میں جب سکینہ کو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جگر پکڑ کے پکاری علی علی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم کو لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرہائی پا کے وطن کے لیےء روانہ ہوی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تڑپ کے کہتی تھی عباس گھر چلی زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم کو لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقلم کی آنکھ سے بہتا ہے خوں علی انصار"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ داستان حرم خوں سے لکھ گیء زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حرم کو لے کے۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Zainab (s.a)",
+  "subcategory": "شہزادی زینب (س)",
   "author": "Ali Ansar",
   "anjumans": [],
   "verified": false

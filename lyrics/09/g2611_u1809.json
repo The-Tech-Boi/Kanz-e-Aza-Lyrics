@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u1809",
-  "title": "Jo shaamile bazme",
+  "title": "جو شامل بزم",
   "body": "جو شامل بزمِ غمِ شبیر نہیں ہے\nحاصل اُسے ایمان کی جاگیر نہیں ہے\n<<DIVIDER>>\nقربانیِ شبیر ہٹا دو تو یہ اسلام\nوہ خواب ہے جس خواب کی تعبیر نہیں ہے\nجو شامل بزمِ۔۔۔\n<<DIVIDER>>\nبے حُبِ علی سجدے ہیں یوں میری نظر میں\nگویا تو ہے قرآن کی تفسیر نہیں ہے\nجو شامل بزمِ۔۔۔\n<<DIVIDER>>\nبیمار کے پائوں کی طرف دیکھنے والو\nاسلام کا لنگر ہے یہ زنجیر نہیں ہے\nجو شامل بزمِ۔۔۔\n<<DIVIDER>>\nاے کوفیو بے پردہ ہے یہ حُرمتِ اسلام\nبے پردہ یہاں زینبِ دلگیر نہیں ہے\nجو شامل بزمِ۔۔۔\n<<DIVIDER>>\nبانو نے یہ عاشور کی شب خواب میں دیکھا\nجھُولے میں میرا اصغرِ بے شیر نہیں ہے\nجو شامل بزمِ۔۔۔\n<<DIVIDER>>\nاصغر کی شہادت نے کیا ظلم کو رُسوا\nاب ترکشِ اعدا میں کوئی تیر نہیں ہے\nجو شامل بزمِ۔۔۔\n<<DIVIDER>>\nجس میں نہ روانی ہو نہ ہو شوکتِ الفاظ\nمحشر وہ تیرے ہاتھ کی تحریر نہیں ہے\nجو شامل بزمِ۔۔۔",
+  "styling": [
+    {
+      "insert": "جو شامل بزمِ غمِ شبیر نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "حاصل اُسے ایمان کی جاگیر نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقربانیِ شبیر ہٹا دو تو یہ اسلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "وہ خواب ہے جس خواب کی تعبیر نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو شامل بزمِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبے حُبِ علی سجدے ہیں یوں میری نظر میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گویا تو ہے قرآن کی تفسیر نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو شامل بزمِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبیمار کے پائوں کی طرف دیکھنے والو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اسلام کا لنگر ہے یہ زنجیر نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو شامل بزمِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاے کوفیو بے پردہ ہے یہ حُرمتِ اسلام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بے پردہ یہاں زینبِ دلگیر نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو شامل بزمِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبانو نے یہ عاشور کی شب خواب میں دیکھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جھُولے میں میرا اصغرِ بے شیر نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو شامل بزمِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاصغر کی شہادت نے کیا ظلم کو رُسوا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اب ترکشِ اعدا میں کوئی تیر نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو شامل بزمِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجس میں نہ روانی ہو نہ ہو شوکتِ الفاظ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "محشر وہ تیرے ہاتھ کی تحریر نہیں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جو شامل بزمِ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Hussain (a.s)",
+  "subcategory": "امام حسین (ع)",
   "author": "Mehshar Lakhnavi",
   "anjumans": [],
   "verified": false

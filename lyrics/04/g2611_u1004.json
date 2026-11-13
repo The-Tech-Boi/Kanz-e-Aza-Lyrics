@@ -1,12 +1,360 @@
 {
   "remoteId": "g2611_u1004",
-  "title": "Bhaiya bali sakina",
+  "title": "بھیا بالی سکینہ",
   "body": "رو رو مقتل میں کہتی تھیں زینب\nبھیا بالی سکینہ کہاں ہے\n<<DIVIDER>>\nجا کے ڈھونڈوں کہاں اس کو بن میں\nشب ہے تاریک سنناٹا رن میں\nہوک اٹھتی ہے میرے بدن میں\n---بھیا بالی سکینہ\n<<DIVIDER>>\nاٹھ کے دریا سے عباس آو\nساتھ اکبر کو تم لے کے جاو\nڈھونڈ کے تم سکینہ کو لاو\n---بھیا بالی سکینہ\n<<DIVIDER>>\nشاید اصغر کو وہ ڈھونڈتی ہو\nکوزہ پانی کا لے کر گئی ہو\nپاس بھائی کے نہ سو گئی ہو\n---بھیا بالی سکینہ\n<<DIVIDER>>\nہو چکی رن میں شام غریباں\nفوج اعدامیں اب ہے چراغاں\nکوچ کے ہو رہے ہیں یہ ساماں\n---بھیا بالی سکینہ\n<<DIVIDER>>\nبھیا دیکھو تو قسمت ہماری\nجائے گی کس طرح یہ سواری\nہو گی محمل نہ اب وہ عماری\n---بھیا بالی سکینہ\n<<DIVIDER>>\nتو لاش بے سر سے آواز آئی\nغم نہ کھاو اے اماں کی جائی\nآو بہنا بلاتا ہے بھائی\nمیری بالی سکینہ یہاں ہے\n<<DIVIDER>>\nروتے روتے جو نیند آگئی ہے\nغم کے طوفاں میں وہ کھو گئی ہے\nمیرے سینے پہ وہ سو گئی ہے\nمیری بالی سکینہ یہاں ہے\n<<DIVIDER>>\nشہہ کہو اب سکینہ کہاں ہے\nکارواں کربلا کا رواں ہے\nتذکرہ ان کا انجم جہاں ہے\nشہہ کی پیاری سکینہ وہاں ہے",
+  "styling": [
+    {
+      "insert": "رو رو مقتل میں کہتی تھیں زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بھیا بالی سکینہ کہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجا کے ڈھونڈوں کہاں اس کو بن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شب ہے تاریک سنناٹا رن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہوک اٹھتی ہے میرے بدن میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بھیا بالی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاٹھ کے دریا سے عباس آو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ساتھ اکبر کو تم لے کے جاو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈھونڈ کے تم سکینہ کو لاو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بھیا بالی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشاید اصغر کو وہ ڈھونڈتی ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوزہ پانی کا لے کر گئی ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پاس بھائی کے نہ سو گئی ہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بھیا بالی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nہو چکی رن میں شام غریباں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "فوج اعدامیں اب ہے چراغاں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوچ کے ہو رہے ہیں یہ ساماں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بھیا بالی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبھیا دیکھو تو قسمت ہماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جائے گی کس طرح یہ سواری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو گی محمل نہ اب وہ عماری"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "---بھیا بالی سکینہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتو لاش بے سر سے آواز آئی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم نہ کھاو اے اماں کی جائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آو بہنا بلاتا ہے بھائی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بالی سکینہ یہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروتے روتے جو نیند آگئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم کے طوفاں میں وہ کھو گئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میرے سینے پہ وہ سو گئی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "میری بالی سکینہ یہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشہہ کہو اب سکینہ کہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کارواں کربلا کا رواں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "تذکرہ ان کا انجم جہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہہ کی پیاری سکینہ وہاں ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Anjum Zaidi",
   "anjumans": [],
   "verified": false

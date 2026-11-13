@@ -1,12 +1,473 @@
 {
   "remoteId": "g2611_u1490",
-  "title": "Haye mere bemaar",
+  "title": "ہائے میرا بیمار",
   "body": "ہائے میرا بیمار امام\n<<DIVIDER>>\nبعدِ قتلِ شاہِ انعام\nہائے یہ غربت کی وہ شام\nغش میں پڑا ہے تشنہ کام\nہو جائے غم سے نہ تمام\nہائے میرا بیمار۔۔۔\n<<DIVIDER>>\nدُرے ہیں تعزیرے ہیں\nپائو ں میں زنجیریں ہیں\nہاتھ میں تقدیریں ہیں\nچلنا ہے مشکل دو گام\nہائے میرا بیمار ۔۔۔\n<<DIVIDER>>\nزخم لہو برساتا ہے\nدل ہے کہ چھلکا جاتا ہے\nدُرے کھاتا جاتا ہے\nلمحہ لمحہ گام بہ گام\nہائے میرا بیمار ۔۔۔\n<<DIVIDER>>\nبُغض و حسد سے کینوں سے\nلو دیتے ہوئے سینوں سے\nکلمہ گو بے دینوں سے\nچلتا ہوا بازارِ شام\nہائے میرا بیمار ۔۔۔\n<<DIVIDER>>\nمائوں بہنوں کے چہرے\nبالوں کے پیچھے ہیں چھُپے\nہاتھ بندھے ہیں سر ہیں کُھلے\nسامنے ہے ایک مجمعِ عام\nہائے میرا بیمار ۔۔۔\n<<DIVIDER>>\nمجمع سارا ہستا ہے\nدل کا زہر اُگلتا ہے\nخون کے آنسُو روتا ہے\nسر کو جُھکائے تشنہ کام\nہائے میرا بیمار ۔۔۔\n<<DIVIDER>>\nکلمہ گویوں کا مجمع\nاور پیعمبر کا کُنبہ\nہے بشر ننگے ہے کھڑا\nآج سرے دربارِ شام\nہائے میرابیمار ۔۔۔\n<<DIVIDER>>\nسیسہ دل پہ لگتا ہے\nایک رسن میںبستا ہے\nشمر ستمگر ہستا ہے\nلے لے کر ایک ایک کا نام\nہائے میرا بیمار ۔۔۔\n<<DIVIDER>>\nاُمِ رباب یہ لیلٰی ہے\nیہ کلثوم یہ کبرٰی ہے\nیہ معصوم سکینہ ہے\nاور ہے زینب اس کا نام\nہائے میرا بیمار ۔۔۔",
+  "styling": [
+    {
+      "insert": "ہائے میرا بیمار امام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبعدِ قتلِ شاہِ انعام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے یہ غربت کی وہ شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غش میں پڑا ہے تشنہ کام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہو جائے غم سے نہ تمام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے میرا بیمار۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدُرے ہیں تعزیرے ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "پائو ں میں زنجیریں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ میں تقدیریں ہیں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلنا ہے مشکل دو گام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے میرا بیمار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nزخم لہو برساتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل ہے کہ چھلکا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دُرے کھاتا جاتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لمحہ لمحہ گام بہ گام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے میرا بیمار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nبُغض و حسد سے کینوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لو دیتے ہوئے سینوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کلمہ گو بے دینوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "چلتا ہوا بازارِ شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے میرا بیمار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمائوں بہنوں کے چہرے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "بالوں کے پیچھے ہیں چھُپے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہاتھ بندھے ہیں سر ہیں کُھلے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سامنے ہے ایک مجمعِ عام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے میرا بیمار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجمع سارا ہستا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل کا زہر اُگلتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "خون کے آنسُو روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر کو جُھکائے تشنہ کام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے میرا بیمار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکلمہ گویوں کا مجمع"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور پیعمبر کا کُنبہ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے بشر ننگے ہے کھڑا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آج سرے دربارِ شام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے میرابیمار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسیسہ دل پہ لگتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک رسن میںبستا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شمر ستمگر ہستا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لے لے کر ایک ایک کا نام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے میرا بیمار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nاُمِ رباب یہ لیلٰی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ کلثوم یہ کبرٰی ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ معصوم سکینہ ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اور ہے زینب اس کا نام"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہائے میرا بیمار ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Zain-ul-Abedeen (a.s)",
+  "subcategory": "مولا سجّاد (ع)",
   "anjumans": [],
   "verified": false
 }

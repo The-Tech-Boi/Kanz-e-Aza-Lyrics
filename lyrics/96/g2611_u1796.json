@@ -1,7 +1,379 @@
 {
   "remoteId": "g2611_u1796",
-  "title": "Jisko kehte hai",
+  "title": "جس کو کہتے ہیں",
   "body": "جس کو کہتے ہیں زندگی کی صدا\nہے جگر گوشہِ نبی کی صدا\n<<DIVIDER>>\nسرِ دربار خُطبہ ِ زینب\nیوں سمجھ لو کے تھی علی کی صدا\nجس کو کہتے ہیں ۔۔۔\n<<DIVIDER>>\nروحِ اسلام سجدئہ شبیر\nآ رہی ہے یہ بندگی کی صدا\nجس کو کہتے ہیں ۔۔۔\n<<DIVIDER>>\nدل سے ذکرِ حُسین کرتے رہو\nڈوب جائے نہ زندگی کی صدا\nجس کو کہتے ہیں ۔۔۔\n<<DIVIDER>>\nآ ج بھی عرصہِ دو عالم میں\nگونجتی ہے حُسینی کی صدا\nجس کو کہتے ہیں ۔۔۔\n<<DIVIDER>>\nتوں نے جاں دے کہ کر دیا ثابت\nدل ہی سُنتا ہے آگاہی کی صدا\nجس کو کہتے ہیں ۔۔۔\n<<DIVIDER>>\nمرحبا مرحبا علی اصغر\nہے چمن میں کلی کلی کی صدا\nجس کو کہتے ہیں ۔۔۔\n<<DIVIDER>>\nروزِ عاشور کیا قیامت تھی\nکوئی سُنتا نہ تھا نبی کی صدا\nجس کو کہتے ہیں ۔۔۔\n<<DIVIDER>>\nقلبِ عباس کانپ جاتا تھا\nسُن کے بچوں سے تشنگی کی صدا\nجس کو کہتے ہیں ۔۔۔\n<<DIVIDER>>\nجل رہے تھے قیامِ آلِ عبا\nآ رہی تھی علی علی کی صدا\nجس کو کہتے ہیں ۔۔۔\n<<DIVIDER>>\nدے رہے تھے اذان علی اکبر\nلوگ سُنتے رہے نبی کی صدا\nجس کو کہتے ہیں ۔۔۔\n<<DIVIDER>>\nسوئے کرب و بلا چلیں ہیں عروج\nدور سے آئی ہے کسی کی صدا\nجس کو کہتے ہیں ۔۔۔",
+  "styling": [
+    {
+      "insert": "جس کو کہتے ہیں زندگی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے جگر گوشہِ نبی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسرِ دربار خُطبہ ِ زینب"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یوں سمجھ لو کے تھی علی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو کہتے ہیں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروحِ اسلام سجدئہ شبیر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ رہی ہے یہ بندگی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو کہتے ہیں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدل سے ذکرِ حُسین کرتے رہو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ڈوب جائے نہ زندگی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو کہتے ہیں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nآ ج بھی عرصہِ دو عالم میں"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "گونجتی ہے حُسینی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو کہتے ہیں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nتوں نے جاں دے کہ کر دیا ثابت"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دل ہی سُنتا ہے آگاہی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو کہتے ہیں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمرحبا مرحبا علی اصغر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ہے چمن میں کلی کلی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو کہتے ہیں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nروزِ عاشور کیا قیامت تھی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی سُنتا نہ تھا نبی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو کہتے ہیں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nقلبِ عباس کانپ جاتا تھا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سُن کے بچوں سے تشنگی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو کہتے ہیں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nجل رہے تھے قیامِ آلِ عبا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آ رہی تھی علی علی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو کہتے ہیں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدے رہے تھے اذان علی اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "لوگ سُنتے رہے نبی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو کہتے ہیں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسوئے کرب و بلا چلیں ہیں عروج"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دور سے آئی ہے کسی کی صدا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "جس کو کہتے ہیں ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"

@@ -1,12 +1,256 @@
 {
   "remoteId": "g2611_u2949",
-  "title": "Sar peeto momino",
+  "title": "سر پیٹو مومنوں",
   "body": "سر پیٹو مومنوں کہ یہ ضربت کی رات ہے\nداماد شاہ دیں کی شہادت کی رات ہے\n<<DIVIDER>>\nکہتے ہیں دل سے حیدر صفدر بصد الم\nیہ آخری خدا کی عبادت کی رات ہے\nسر پیٹو مومنوں کہ۔۔۔\n<<DIVIDER>>\nسجدے میں حق کے خاصہء داور ہوا شہید\nآفت بپا کرو یہ قیامت کی رات ہے\nسر پیٹو مومنوں کہ۔۔۔\n<<DIVIDER>>\nدار فنا سے حیدر کرّار اٹھ گےء\nاہلِ حرم پہ آج مصیبت کی رات ہے\nسر پیٹو مومنوں کہ۔۔۔\n<<DIVIDER>>\nکہتے تھے روکے زینب و کلثوم سے علی\nآؤ گلے لگو کہ یہ فرقت کی رات ہے\nسر پیٹو مومنوں کہ۔۔۔\n<<DIVIDER>>\nرو رو کے دل سے کہتے تھے سبطین مصطفیٰ\nکیوں کر کٹے گی ہاے مصیبت کی رات ہے\nسر پیٹو مومنوں کہ۔۔۔\n<<DIVIDER>>\nپرسہ دو مصطفیٰ کے نواسوں کو باپ کا\nسر پیٹو روزہ دار یہ آفت کی رات ہے\nسر پیٹو مومنوں کہ۔۔۔\n<<DIVIDER>>\nمولا نبی کی آل سے شوکت کے عشق کی\nدیجیےء گواہی آپ شہادت کی رات ہے\nسر پیٹو مومنوں کہ۔۔۔",
+  "styling": [
+    {
+      "insert": "سر پیٹو مومنوں کہ یہ ضربت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "داماد شاہ دیں کی شہادت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتے ہیں دل سے حیدر صفدر بصد الم"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "یہ آخری خدا کی عبادت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹو مومنوں کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسجدے میں حق کے خاصہء داور ہوا شہید"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آفت بپا کرو یہ قیامت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹو مومنوں کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nدار فنا سے حیدر کرّار اٹھ گےء"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "اہلِ حرم پہ آج مصیبت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹو مومنوں کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکہتے تھے روکے زینب و کلثوم سے علی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "آؤ گلے لگو کہ یہ فرقت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹو مومنوں کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nرو رو کے دل سے کہتے تھے سبطین مصطفیٰ"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کیوں کر کٹے گی ہاے مصیبت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹو مومنوں کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nپرسہ دو مصطفیٰ کے نواسوں کو باپ کا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹو روزہ دار یہ آفت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹو مومنوں کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمولا نبی کی آل سے شوکت کے عشق کی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "دیجیےء گواہی آپ شہادت کی رات ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "سر پیٹو مومنوں کہ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Imam Ali (a.s)",
+  "subcategory": "امام علی (ع)",
   "author": "Shaukath Bilgrami",
   "anjumans": [],
   "verified": false

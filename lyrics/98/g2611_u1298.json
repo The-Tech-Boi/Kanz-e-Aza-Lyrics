@@ -1,12 +1,224 @@
 {
   "remoteId": "g2611_u1298",
-  "title": "Gham sakina ko mile",
+  "title": "غم سکینہ کو ملے",
   "body": "غم سکینہ کو ملے اتنے مسلمانوں سے\nمر گئی پر نہ کبھی ہاتھ ہٹے کانوں سے\n<<DIVIDER>>\nشام جاتے ہوئے ناقے سے گری یوں بچی\nمشک غازی کی گری جیسے کٹے شانوں سے\nغم سکینہ کو ملے ۔۔۔\n<<DIVIDER>>\nچونک اٹھتی تھی مدینے میں یہ کہہ کر بانو\nکوئی آواز مجھے دیتا ہے ویرانوں سے\nغم سکینہ کو ملے ۔۔۔\n<<DIVIDER>>\nکتنی بے رحمی سے ظالم نے اُتارے وہ گوہر\nشہ نے بیٹی کو جو پہنائے تھے ارمانوں سے\nغم سکینہ کو ملے ۔۔۔\n<<DIVIDER>>\nمجھ کو کُرتے میں ہی دفنانا سکینہ نے کہا\nمت کفن مانگنا اے بھائی مسلمانوں سے\nغم سکینہ کو ملے ۔۔۔\n<<DIVIDER>>\nکوئی غیبت میں اُنہیں دیکھ کے خوں روتا ہے\nرِستا رہتا ہے لہو آج بھی جن کانوں سے\nغم سکینہ کو ملے ۔۔۔\n<<DIVIDER>>\nسب چلے جاتے ہیں شبیر کو رو کر اکبر\nایک بچی نہیں جاتی ہے اعزاخانوں سے\nغم سکینہ کو ملے ۔۔۔",
+  "styling": [
+    {
+      "insert": "غم سکینہ کو ملے اتنے مسلمانوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مر گئی پر نہ کبھی ہاتھ ہٹے کانوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nشام جاتے ہوئے ناقے سے گری یوں بچی"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مشک غازی کی گری جیسے کٹے شانوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم سکینہ کو ملے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nچونک اٹھتی تھی مدینے میں یہ کہہ کر بانو"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "کوئی آواز مجھے دیتا ہے ویرانوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم سکینہ کو ملے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکتنی بے رحمی سے ظالم نے اُتارے وہ گوہر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "شہ نے بیٹی کو جو پہنائے تھے ارمانوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم سکینہ کو ملے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nمجھ کو کُرتے میں ہی دفنانا سکینہ نے کہا"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "مت کفن مانگنا اے بھائی مسلمانوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم سکینہ کو ملے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nکوئی غیبت میں اُنہیں دیکھ کے خوں روتا ہے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "رِستا رہتا ہے لہو آج بھی جن کانوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم سکینہ کو ملے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": {
+        "divider": null
+      }
+    },
+    {
+      "insert": "\nسب چلے جاتے ہیں شبیر کو رو کر اکبر"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "ایک بچی نہیں جاتی ہے اعزاخانوں سے"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    },
+    {
+      "insert": "غم سکینہ کو ملے ۔۔۔"
+    },
+    {
+      "insert": "\n",
+      "attributes": {
+        "align": "justify"
+      }
+    }
+  ],
   "language": "Urdu",
   "categories": [
     "Nohay"
   ],
-  "subcategory": "Shehzadi Sakina (s.a)",
+  "subcategory": "شہزادی سکینہ (س)",
   "author": "Hasnain Akbar",
   "anjumans": [],
   "verified": false
