@@ -242,6 +242,21 @@ function commitsSince(tree, dir = root) {
   return end < 0 ? [] : commits.slice(0, end).map((commit, i) => ({ commit, tree: trees[i] })).reverse();
 }
 
+// A merge commit message with this line on its own publishes nothing: the
+// sync moves the manifest's catalogTree past the commit without an update file,
+// so its lyric files are the Catalog from then on, and the next Base Catalog
+// carries them to phones.
+const BASE_ONLY = /^Catalog-Publish: base-only\s*$/m;
+
+// The commits on HEAD's first-parent line whose message has the BASE_ONLY line.
+function baseOnlyCommits(dir = root) {
+  const log = git(['log', '--first-parent', '--grep=Catalog-Publish: base-only', '--format=%H%x1f%B%x1e', 'HEAD'], dir);
+  return new Set(log.split('\x1e')
+    .map(entry => entry.trim().split('\x1f'))
+    .filter(([, body]) => BASE_ONLY.test(body ?? ''))
+    .map(([commit]) => commit));
+}
+
 // What breaks the update limits: each of `files` ([update file name, its
 // bytes as published]) and the number of updates `manifest` lists. Returns
 // { problems, warnings }.
@@ -353,7 +368,8 @@ if (require.main === module) {
         found.push(`${lyricPath(remoteId)}: deleted. Withdraw a lyric from the website's Owner panel instead.`);
       }
       const count = added.length + changed.length + removed.length;
-      if (count > RUN_LYRICS) {
+      // The pull request's description says the merge will be base-only.
+      if (count > RUN_LYRICS && !BASE_ONLY.test(process.env.PR_BODY ?? '')) {
         found.push(`Warning: lyrics/: ${count} lyrics changed, over the ${RUN_LYRICS} one sync run publishes. Merged, ` +
           'it goes out in one run of its own, and phones on 1.1.2 and 1.1.3 apply it all at once. ' +
           `Split it into pull requests of at most ${RUN_LYRICS}.`);
@@ -374,12 +390,14 @@ if (require.main === module) {
 }
 
 module.exports = {
+  BASE_ONLY,
   CANONICAL_CATEGORIES,
   MANIFEST_UPDATES,
   MANIFEST_WARN,
   RUN_LYRICS,
   UPDATE_BYTES,
   UPDATE_ENTRIES,
+  baseOnlyCommits,
   catalogTree,
   changesBetween,
   commitsSince,

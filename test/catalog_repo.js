@@ -127,6 +127,12 @@ async function workflowRun(dir, db, releaseTag = 'v1.0.1-test', { beforeMark = a
       message: git(dir, 'log', '-1', '--format=%B')
     };
   }
+  if (!fs.existsSync(output) && fs.existsSync(path.join(dir, 'commit_message.txt'))) {
+    // Only moved past base-only commits: the workflow commits manifest.json.
+    git(dir, 'add', 'manifest.json');
+    git(dir, 'commit', '-q', '-F', 'commit_message.txt');
+    run = { marks, update: null, movedPast: true, manifest: JSON.parse(fs.readFileSync(path.join(dir, 'manifest.json'), 'utf8')) };
+  }
   await beforeMark();
   if (marks) await markPublished(marksFile, db);
   return run;

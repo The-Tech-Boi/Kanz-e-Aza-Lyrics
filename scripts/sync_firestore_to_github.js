@@ -603,12 +603,28 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
   // next runs. First what lyrics/ gained since the last update (the Owner's
   // merged pull requests), whole commits in order, then Firestore's changes,
   // the longest waiting first.
-  const baseline = manifest.catalogTree;
+  // Merge commits marked `Catalog-Publish: base-only` publish nothing. Those
+  // first in line are moved past; one after commits that publish ends this
+  // run's range, and the next run moves past it.
+  let baseline = manifest.catalogTree;
+  const baseOnly = catalog.baseOnlyCommits(dir);
+  let pending = baseOnly.size ? catalog.commitsSince(baseline, dir) : [];
+  if (pending.length) {
+    const first = pending.findIndex(({ commit }) => !baseOnly.has(commit));
+    const skipped = pending.slice(0, first < 0 ? pending.length : first);
+    if (skipped.length) {
+      baseline = skipped[skipped.length - 1].tree;
+      pending = pending.slice(skipped.length);
+      console.log(`Moving past ${skipped.length} base-only commit(s); their lyric changes are not published as an update.`);
+    }
+  }
+  const stop = pending.findIndex(({ commit }) => baseOnly.has(commit));
+  const upto = stop > 0 ? pending[stop - 1] : undefined;
   const changeCount = tree => {
     const { added, changed, removed } = catalog.changesBetween(baseline, tree, dir);
     return added.length + changed.length + removed.length;
   };
-  const committed = changeCount(catalog.catalogTree(dir));
+  const committed = changeCount(upto?.tree ?? catalog.catalogTree(dir));
   // A record in an earlier commit's lyrics/ that breaks a rule (its file was
   // fixed since). Readers refuse a whole update for one.
   const invalidIn = tree => {
@@ -619,9 +635,10 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
   // whose tree is in history for the next run to compare with: the newest
   // within the limit, else the first one over it by itself, whole. Publishing
   // never stops. Firestore's changes wait for a later run.
-  let target;
+  let target = upto;
   if (committed > catalog.RUN_LYRICS) {
-    const commits = catalog.commitsSince(baseline, dir).map(c => ({ ...c, count: changeCount(c.tree) }));
+    const commits = (upto ? pending.slice(0, stop) : catalog.commitsSince(baseline, dir))
+      .map(c => ({ ...c, count: changeCount(c.tree) }));
     target = commits.findLast(({ count }) => count > 0 && count <= catalog.RUN_LYRICS);
     if (!target) {
       target = commits.find(({ count }) => count > catalog.RUN_LYRICS);
@@ -678,6 +695,14 @@ async function sync(db = getDb(), dir = path.join(__dirname, '..')) {
   const ids = [...new Set([...[...plan.writes.keys()].filter(id => edited.has(id)), ...edited])];
   if (!ids.length && !removed.length) {
     writeMarks();
+    if (published !== manifest.catalogTree) {
+      // Only base-only commits since the last update: no update file, no release.
+      manifest = { ...manifest, catalogTree: published };
+      fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2) + '\n');
+      fs.writeFileSync(path.join(dir, path.basename(messagePath)), 'Move past a base-only change [skip ci]\n');
+      console.log('Only base-only changes since the last update: manifest.json moved past them, nothing published.');
+      return;
+    }
     console.log('No lyric changed since the last update.');
     return;
   }
