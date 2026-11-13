@@ -91,13 +91,10 @@ test('a title, Poet and Personality are one line', () => {
   assert.equal(problem({ body: 'Pehli line\nDoosri line\r\nTeesri line' }), null);
 });
 
-test('a built-in Personality must fit every Category of the lyric', () => {
-  // Shehzadi Sugra (s.a) is a Nohay Personality only.
+test('a built-in Personality fits any Category', () => {
+  // Shehzadi Sugra (s.a) is on the Nohay and Marsiya lists, not Manqabat's.
   assert.equal(problem({ subcategory: 'Shehzadi Sugra (s.a)' }), null);
-  assert.equal(
-    problem({ categories: ['Nohay', 'Manqabat'], subcategory: 'Shehzadi Sugra (s.a)' }),
-    'Shehzadi Sugra (s.a) is not a Personality for Manqabat'
-  );
+  assert.equal(problem({ categories: ['Nohay', 'Manqabat'], subcategory: 'Shehzadi Sugra (s.a)' }), null);
 });
 
 test('a lyric in an Anjuman includes the Nohay category', () => {
