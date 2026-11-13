@@ -79,6 +79,26 @@ It runs on Coolify (project *Kanz e Aza*, application *admin-edit-watchdog*), bu
 
 To restart it, open the application in Coolify and choose **Restart**; after a change to the watchdog, choose **Redeploy**. On start-up it starts one run for any Admin edit already waiting. Its log is under **Logs**. It exits on a Firestore error it can't recover from, and Coolify starts it again.
 
+## A change that is not published as an update
+
+A data fix to thousands of lyrics (capitalisation, Personalities) would reach installed phones in one go. To make it the Catalog without publishing it, merge it base-only. Only the Owner can.
+
+1. Open the pull request as usual and put this line in its description, so the check doesn't warn about the size:
+
+   ```
+   Catalog-Publish: base-only
+   ```
+
+2. Merge it with the same line in the merge commit message (it is not copied from the description):
+
+   ```
+   gh pr merge <number> --merge --body "Catalog-Publish: base-only"
+   ```
+
+   On the website, choose **Create a merge commit** and put the line in the message box.
+
+The sync run that the merge starts moves `catalogTree` in `manifest.json` past the merge and commits only `manifest.json`: no update file, no release. The lyric files are the Catalog from then on. Phones and the website get the change with the Base Catalog of the next app release; installed phones on older builds keep the old lyric until they update. Firestore changes and ordinary pull requests publish as before, and an ordinary later edit of one of these lyrics publishes its whole record.
+
 ## Licence
 
 Lyrics that contributors send under the Kanz e Aza Contribution Terms, and that are published here, are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see [LICENSE](LICENSE)). You may copy, share and adapt them for any purpose, including in your own apps, if you credit the poet and Kanz e Aza, link to the licence and say if you changed the text.
