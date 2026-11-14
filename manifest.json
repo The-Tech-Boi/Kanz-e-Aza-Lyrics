@@ -1,8 +1,8 @@
 {
   "manifestVersion": 1,
   "contractVersion": "1.0.0",
-  "latestReleaseTag": "v1.0.1046-43443092338",
-  "catalogTree": "40c86178151a514ae798e7b31003a15ba12965a8",
+  "latestReleaseTag": "v1.0.1063-43625547840",
+  "catalogTree": "75c9b7fc12d9b1f54e634b02e4a3f29466763b4d",
   "updates": [
     {
       "id": "update_1792258565269",
@@ -945,6 +945,78 @@
       "assetName": "update_1794580166702.json",
       "sha256": "14f5904b81f459e8ddabb1e624a7b12ad0fbe6a56e45203754e761fa8bceaf1a",
       "releaseTag": "v1.0.1046-43443092338"
+    },
+    {
+      "id": "update_1794656799695",
+      "assetName": "update_1794656799695.json",
+      "sha256": "19e377692ebeae27da742f9bd4eb9dd0a33dbd5ecd9fa5d3e2ddf18a23b8c276",
+      "releaseTag": "v1.0.1051-43591589753"
+    },
+    {
+      "id": "update_1794658135249",
+      "assetName": "update_1794658135249.json",
+      "sha256": "dc3e881231a6a0117a94911b2ff85ab634952c941304224a8a02853630fcbef2",
+      "releaseTag": "v1.0.1052-43593320651"
+    },
+    {
+      "id": "update_1794658875573",
+      "assetName": "update_1794658875573.json",
+      "sha256": "d648d6ab84a75d326c1707a4ed166b6bc42561c77520f2533d83670712120aae",
+      "releaseTag": "v1.0.1053-43594339658"
+    },
+    {
+      "id": "update_1794659574122",
+      "assetName": "update_1794659574122.json",
+      "sha256": "294d3852a61ccbaff428871ff0827e841887660f1cbcc894aa57252b46b4e084",
+      "releaseTag": "v1.0.1054-43595322208"
+    },
+    {
+      "id": "update_1794660590869",
+      "assetName": "update_1794660590869.json",
+      "sha256": "f1e8fcf5629feb7b589522485dec34bcec8d65a0bea60775e3c0bbcfe04d8485",
+      "releaseTag": "v1.0.1055-43596677638"
+    },
+    {
+      "id": "update_1794662395908",
+      "assetName": "update_1794662395908.json",
+      "sha256": "3a20193ead48cfa969eb2925c259bce8f9895d680bb23b951744221d0b0b9914",
+      "releaseTag": "v1.0.1057-43599164915"
+    },
+    {
+      "id": "update_1794663024451",
+      "assetName": "update_1794663024451.json",
+      "sha256": "d6bf0546305ee72413c791cdae2cf5fdf49027e2ac86c13b35ba297e77e5e33b",
+      "releaseTag": "v1.0.1058-43600035009"
+    },
+    {
+      "id": "update_1794663664771",
+      "assetName": "update_1794663664771.json",
+      "sha256": "fd7253a83504515fa01fda6781d8ffb46fb1153689c0ec435146f88008ceca6e",
+      "releaseTag": "v1.0.1059-43600945727"
+    },
+    {
+      "id": "update_1794668940169",
+      "assetName": "update_1794668940169.json",
+      "sha256": "6c08062738d4fad9766ea59af375773ef8f94304b91fbfbd793c708a2c573d1c",
+      "releaseTag": "v1.0.1060-43608548095"
+    },
+    {
+      "id": "update_1794669561286",
+      "assetName": "update_1794669561286.json",
+      "sha256": "d75e4bbea0194f6b6abd1249506f9e1342bc7722ac879750cfd3f5ce04a16cf2",
+      "releaseTag": "v1.0.1061-43609488748"
+    },
+    {
+      "id": "update_1794670052360",
+      "assetName": "update_1794670052360.json",
+      "sha256": "0b7852ca12befb82bf0f86769fa5acb5680704a7926ddad6cc7f04e43fb9b7dd",
+      "releaseTag": "v1.0.1062-43610225650"
+    },
+    {
+      "id": "update_1794680142566",
+      "assetName": "update_1794680142566.json",
+      "sha256": "6f7faeb85ebff4c392fef59070b1fdc4046ad40e7cd2ada303828a48c58f0114",
+      "releaseTag": "v1.0.1063-43625547840"
     }
   ]
 }
