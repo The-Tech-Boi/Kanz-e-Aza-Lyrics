@@ -173,7 +173,7 @@
 - [Kaise Guzare Teen](../lyrics/08/g2611_r1908.json)
 - [Kalaam : Meer Kumail Ali](../lyrics/e8/local_50b5668884e35b6441ef08d3e50950e8.json)
 - [Kalma Go Haste Rahe Fatima Roti Rahi](../lyrics/43/local_d7bc99fa41c0d1bf8ba1913840610b43.json)
-- [Kaono Maka'n Me Barpa](../lyrics/05/karbala_wale_english_2021_005.json)
+- [KAONO MAKA'N ME BARPA](../lyrics/05/karbala_wale_english_2021_005.json)
 - [Kasy Derbar Ma Gai Zahra](../lyrics/04/g2611_r2004.json)
 - [Khair ul Wara ki Beti Ko Darbar](../lyrics/58/g2611_r2058.json)
 - [Khuda Nighedaar ya Ali](../lyrics/23/local_14b858b607663bef825b0db10d95bd23.json)
