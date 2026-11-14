@@ -113,3 +113,29 @@ test('the sync reads the Owner\'s approved Personalities from taxonomy/personali
   assert.deepEqual(published.update.items.map(item => item.remoteId), ['web-alam']);
   assert.equal(firestore.submissions['web-abbas'].published, false);
 });
+
+test('a name the Catalog uses as a Poet is never a Personality, even on the Owner\'s list', () => {
+  const lyrics = new Map([
+    ['poet-1', lyric('poet-1', { author: 'Sibte Jaffer Shaheed' })]
+  ]);
+  for (const subcategory of ['Sibte Jaffer Shaheed', ' sibte jaffer shaheed ']) {
+    const plan = run({ subcategory }, { lyrics, personalities: ['Sibte Jaffer Shaheed', 'Alam'] });
+    assert.deepEqual(plan.writes, new Map(), subcategory);
+    assert.match(plan.held[0].problem, /is a Poet in the Catalog, not a Personality/);
+  }
+  assert.deepEqual(run({ subcategory: 'Alam' }, { lyrics, personalities: ['Alam'] }).held, []);
+});
+
+test('a Poet name a lyric still has as its Personality is refused when submitted again', () => {
+  const lyrics = new Map([
+    ['poet-1', lyric('poet-1', { author: 'Nadeem Sarwar' })],
+    ['bad-1', lyric('bad-1', { subcategory: 'Nadeem Sarwar' })]
+  ]);
+  const plan = planUpdate({
+    submissions: [approved('rev-1', { revisionOfRemoteId: 'bad-1', title: 'Fixed', subcategory: 'Nadeem Sarwar' })],
+    decisions: [],
+    lyrics
+  });
+  assert.deepEqual(plan.writes, new Map());
+  assert.match(plan.held[0].problem, /Nadeem Sarwar.*Poet/);
+});
