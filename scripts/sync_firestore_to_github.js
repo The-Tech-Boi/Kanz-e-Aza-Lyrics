@@ -231,12 +231,17 @@ const newestApproval = docs => docs.reduce((newest, doc) =>
 // The names an approval may use: the Owner's approved Personalities (the
 // built-in ones until the Owner saves a list), and every Personality and
 // Anjuman the Catalog has. Contributors choose from these and can't add
-// others; the Owner adds Anjumans through the Catalog.
+// others; the Owner adds Anjumans through the Catalog. A name the Catalog
+// uses as a Poet (`author`) is never a Personality, even where a lyric still
+// has it as one.
+const nameKey = name => String(name ?? '').trim().toLowerCase();
+
 function allowedNames(lyrics, personalities) {
   const builtIn = [...catalog.subjectsByCategory().values()].flat();
   const records = [...lyrics.values()];
   return {
     personalities: new Set([...(personalities ?? builtIn), ...records.map(r => r.subcategory).filter(Boolean)]),
+    poets: new Set(records.map(r => nameKey(r.author)).filter(Boolean)),
     anjumans: new Set(records.flatMap(r => r.anjumans))
   };
 }
@@ -245,6 +250,11 @@ function allowedNames(lyrics, personalities) {
 // `kept` is the lyric as last published, whose own names stay allowed.
 function unapprovedName(record, allowed, kept) {
   const { subcategory, anjumans } = record;
+  // Refused even when `kept` has it: the Catalog's own bad value must be
+  // fixed there, not carried into new versions.
+  if (subcategory !== undefined && allowed.poets.has(nameKey(subcategory))) {
+    return `the Personality ${JSON.stringify(subcategory)} is a Poet in the Catalog, not a Personality`;
+  }
   if (subcategory !== undefined && !allowed.personalities.has(subcategory) && subcategory !== kept?.subcategory) {
     return `the Personality ${JSON.stringify(subcategory)} is not on the approved list`;
   }
