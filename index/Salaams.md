@@ -10,6 +10,7 @@
 
 - [Ali ki Madhaa Kartha Hoon Yehi Ek Kaam Baaqi Hai](../lyrics/b2/local_827a348617fb1a41e264a7833ea6f5b2.json)
 - [Ali Sa Bhi Na Koi Aadile Zamana Hua](../lyrics/aa/local_1b6667163e3eda3b3039f85f930b1eaa.json)
+- [Kehke Sab ya Imam Rote Hai](../lyrics/89/local_1d9d91a0a728a51fadd0da2d3070b589.json)
 - [Ye Kehta Hua Doob](../lyrics/18/g2611_r4218.json)
 
 ## Safar e Imam Hussain
@@ -175,7 +176,6 @@
 - [Juz Panjetan Kisi se Tawalla Na Chahiye](../lyrics/1e/local_a224747fb4ad40888f7a902ddf91321e.json)
 - [Karbala Sey Jo Kabhi Ho Kay Hawaa Aati Hai](../lyrics/5d/local_4e9a7a4bcd06e65e7bfca9a2150de55d.json)
 - [Kaunsa Ranj Tha Jo Sheh se Uthaya Na Gaya](../lyrics/24/local_017564a3a69122459f9fa1e4e3db6e24.json)
-- [Kehke Sab ya Imam Rote Hai](../lyrics/89/local_1d9d91a0a728a51fadd0da2d3070b589.json)
 - [Kehti Thi Yahi Zainab Dukhya Mere](../lyrics/5c/local_f55683ec21fc6e00857f1e78dcc4915c.json)
 - [Khaak Par Maiyyath Padi Hai aur Maa Khaamoush Hai](../lyrics/d6/chashme_aza_e3363e540233cf9acea36fd6.json)
 - [Khaakar Sinaa Jo Seenay Pa Akbar Guzar Gaye](../lyrics/45/local_3392083e3b844986070e9d80888b0145.json)
