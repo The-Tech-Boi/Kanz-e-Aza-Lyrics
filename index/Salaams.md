@@ -69,6 +69,7 @@
 - [Boli Maa Kya Huva Sakina Ko](../lyrics/26/local_253eaf978cff2a8ea209ef03d5a07f26.json)
 - [Khaak Par Maiyyath Padi Hai aur Maa Khaamoush Hai](../lyrics/d6/chashme_aza_e3363e540233cf9acea36fd6.json)
 - [Maa Kehti Thi Uth Jaag](../lyrics/14/g2611_r4214.json)
+- [Meri Tarah Mere Baba ,Koi Yateem Na Ho](../lyrics/b4/local_f5de832bec22168dc3f5ef506b4c20b4.json)
 - [Thi Sakina ki Yeh Sadaa Bhaayi](../lyrics/bd/chashme_aza_5ca3f64b48cd7c988e79fdbd.json)
 - [Yu Sakina ne Pukaara](../lyrics/3c/local_eca8ba1d534d39a2d6ab2910e09cb83c.json)
 
@@ -186,7 +187,6 @@
 - [Kaunsa Ranj Tha Jo Sheh se Uthaya Na Gaya](../lyrics/24/local_017564a3a69122459f9fa1e4e3db6e24.json)
 - [Kehti Thi Yahi Zainab Dukhya Mere](../lyrics/5c/local_f55683ec21fc6e00857f1e78dcc4915c.json)
 - [Khat Me Soughra ne Ye Likha Baba](../lyrics/0d/local_e66fcbbe1a80f9ff9e0afb308a3cdf0d.json)
-- [Meri Tarah Mere Baba ,Koi Yateem Na Ho](../lyrics/b4/local_f5de832bec22168dc3f5ef506b4c20b4.json)
 - [Misaale Badr Joh Haasil Huva Kamaal Mujhe](../lyrics/a9/local_e93f24484bfeb27e768669ec18e76aa9.json)
 - [Mujhey Matloob Hoga Jaam Laina Jab Bhi Kausar ka](../lyrics/02/local_376f7268b45d8fecab4eae2d6578ab02.json)
 - [Mujraee Shah ka Hoon Khuld Mein Hai Ghar Mera](../lyrics/2b/chashme_aza_873957ab2e09e7f3cb55de2b.json)
