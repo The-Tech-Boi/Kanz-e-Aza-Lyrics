@@ -13,6 +13,10 @@
 - [Kehke Sab ya Imam Rote Hai](../lyrics/89/local_1d9d91a0a728a51fadd0da2d3070b589.json)
 - [Ye Kehta Hua Doob](../lyrics/18/g2611_r4218.json)
 
+## Pisaraan-e-Muslim (a.s)
+
+- [Khoon Me Tar Qamar Hai Muslim ke](../lyrics/fc/local_0130c59ab2e6aa5d21a09c86fd5e21fc.json)
+
 ## Safar e Imam Hussain
 
 - [Ghar Ko Chhoda Shah Nay Jungal Basaney Kay Liye](../lyrics/0e/local_ef2e62cea4e72de55173ed710cb2e30e.json)
@@ -72,6 +76,7 @@
 - [Aankho Me Basi Thi Karbobala Sajjad Tadapte Rehte](../lyrics/c0/local_e6938995669025080b0a5763a73b1ec0.json)
 - [Ek Musaafir Qaid Hai Beemaar Hai](../lyrics/a6/local_f9b074409ee170db95b8473f86a3f9a6.json)
 - [Hai Salaam Us Pey Jo Qaidi Bhi Hai Beemar Bhi Hai](../lyrics/21/local_f75b5e3bb5f10993a0b93f82eb9e9421.json)
+- [Main Sonchta Hoon Kay Abid ka Haal Kya Hogaa](../lyrics/32/chashme_aza_466a45b40b82af9e4de2a532.json)
 
 ## Imam Raza (a.s)
 
@@ -180,8 +185,6 @@
 - [Kaunsa Ranj Tha Jo Sheh se Uthaya Na Gaya](../lyrics/24/local_017564a3a69122459f9fa1e4e3db6e24.json)
 - [Kehti Thi Yahi Zainab Dukhya Mere](../lyrics/5c/local_f55683ec21fc6e00857f1e78dcc4915c.json)
 - [Khat Me Soughra ne Ye Likha Baba](../lyrics/0d/local_e66fcbbe1a80f9ff9e0afb308a3cdf0d.json)
-- [Khoon Me Tar Qamar Hai Muslim ke](../lyrics/fc/local_0130c59ab2e6aa5d21a09c86fd5e21fc.json)
-- [Main Sonchta Hoon Kay Abid ka Haal Kya Hogaa](../lyrics/32/chashme_aza_466a45b40b82af9e4de2a532.json)
 - [Maqtal Me Tha Jo Laashae Asghar Tamaam Raat](../lyrics/73/local_d6773794fbd029e242ef8fa623365973.json)
 - [Meri Tarah Mere Baba ,Koi Yateem Na Ho](../lyrics/b4/local_f5de832bec22168dc3f5ef506b4c20b4.json)
 - [Misaale Badr Joh Haasil Huva Kamaal Mujhe](../lyrics/a9/local_e93f24484bfeb27e768669ec18e76aa9.json)
