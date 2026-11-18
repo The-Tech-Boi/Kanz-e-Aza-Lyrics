@@ -21,6 +21,7 @@
 
 - [Aye Ghuncha Dahan Bekas Dulha](../lyrics/23/local_88754636e4eaad0c7274e028525a7923.json)
 - [Dil Thaam Kay Yeh Kubra Ney Kahaa](../lyrics/81/local_d44c86d02e1133933ba9e88ed61ae581.json)
+- [Ghar Chalo Bhai Mehndi Lagaoo'n](../lyrics/e5/local_92e3f476dfed2c5d64c69c9a32c88ae5.json)
 - [Run Mein Aakar Sakina Pukari](../lyrics/7e/yOQdBShzo7QjFJtQUI7e.json)
 
 ## Moula Abbas (a.s)
@@ -168,7 +169,6 @@
 - [Bekasi ka Sheh ke Charcha Reh Gaya](../lyrics/3a/local_ac7cd7e175e803079e6f03cf4f90dc3a.json)
 - [Ek Beemaar se Ae Mujrayi Sab Ghar Choota](../lyrics/b3/local_d612e0540b3470b87a242cab3ace4cb3.json)
 - [Farshe Aza Pe Aao](../lyrics/12/g2611_r4212.json)
-- [Ghar Chalo Bhai Mehndi Lagaoo'n](../lyrics/e5/local_92e3f476dfed2c5d64c69c9a32c88ae5.json)
 - [Guzar Gaye Thay](../lyrics/13/g2611_r4213.json)
 - [Is Qoum ke Rone Ko Yahi Baat Badi Hai](../lyrics/64/local_90122223ab48ab8b58e13ccd69d50c64.json)
 - [Jawan Bete ke Laashe Par Ye Laila Sonchti Hogi](../lyrics/06/chashme_aza_07f0f3fbc5983a90a3fe0206.json)
