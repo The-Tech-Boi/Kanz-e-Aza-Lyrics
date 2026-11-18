@@ -31,6 +31,7 @@
 ## Ali Akbar (a.s)
 
 - [Aey Salaami Peer Marthay Hain Jawaan Kay Saamney](../lyrics/2b/chashme_aza_7dcbd1ddd504b5d63b91232b.json)
+- [Jawan Bete ke Laashe Par Ye Laila Sonchti Hogi](../lyrics/06/chashme_aza_07f0f3fbc5983a90a3fe0206.json)
 
 ## Ali Asghar (a.s)
 
@@ -171,7 +172,6 @@
 - [Farshe Aza Pe Aao](../lyrics/12/g2611_r4212.json)
 - [Guzar Gaye Thay](../lyrics/13/g2611_r4213.json)
 - [Is Qoum ke Rone Ko Yahi Baat Badi Hai](../lyrics/64/local_90122223ab48ab8b58e13ccd69d50c64.json)
-- [Jawan Bete ke Laashe Par Ye Laila Sonchti Hogi](../lyrics/06/chashme_aza_07f0f3fbc5983a90a3fe0206.json)
 - [Juz Panjetan Kisi se Tawalla Na Chahiye](../lyrics/1e/local_a224747fb4ad40888f7a902ddf91321e.json)
 - [Karbala Sey Jo Kabhi Ho Kay Hawaa Aati Hai](../lyrics/5d/local_4e9a7a4bcd06e65e7bfca9a2150de55d.json)
 - [Kaunsa Ranj Tha Jo Sheh se Uthaya Na Gaya](../lyrics/24/local_017564a3a69122459f9fa1e4e3db6e24.json)
