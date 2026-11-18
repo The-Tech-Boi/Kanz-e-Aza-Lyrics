@@ -33,6 +33,7 @@
 
 - [Aey Salaami Peer Marthay Hain Jawaan Kay Saamney](../lyrics/2b/chashme_aza_7dcbd1ddd504b5d63b91232b.json)
 - [Jawan Bete ke Laashe Par Ye Laila Sonchti Hogi](../lyrics/06/chashme_aza_07f0f3fbc5983a90a3fe0206.json)
+- [Khaakar Sinaa Jo Seenay Pa Akbar Guzar Gaye](../lyrics/45/local_3392083e3b844986070e9d80888b0145.json)
 
 ## Ali Asghar (a.s)
 
@@ -178,7 +179,6 @@
 - [Karbala Sey Jo Kabhi Ho Kay Hawaa Aati Hai](../lyrics/5d/local_4e9a7a4bcd06e65e7bfca9a2150de55d.json)
 - [Kaunsa Ranj Tha Jo Sheh se Uthaya Na Gaya](../lyrics/24/local_017564a3a69122459f9fa1e4e3db6e24.json)
 - [Kehti Thi Yahi Zainab Dukhya Mere](../lyrics/5c/local_f55683ec21fc6e00857f1e78dcc4915c.json)
-- [Khaakar Sinaa Jo Seenay Pa Akbar Guzar Gaye](../lyrics/45/local_3392083e3b844986070e9d80888b0145.json)
 - [Khat Me Soughra ne Ye Likha Baba](../lyrics/0d/local_e66fcbbe1a80f9ff9e0afb308a3cdf0d.json)
 - [Khoon Me Tar Qamar Hai Muslim ke](../lyrics/fc/local_0130c59ab2e6aa5d21a09c86fd5e21fc.json)
 - [Main Sonchta Hoon Kay Abid ka Haal Kya Hogaa](../lyrics/32/chashme_aza_466a45b40b82af9e4de2a532.json)
