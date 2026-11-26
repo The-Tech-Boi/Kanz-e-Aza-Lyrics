@@ -15,7 +15,7 @@ To browse on GitHub, open [`index/`](index/): one page per category, listing tit
 | --- | --- |
 | `lyrics/<xx>/<remoteId>.json` | One lyric. `<xx>` is the last two characters of its `remoteId`, lowercase. Folders go by id, not category, so a file never moves when its details change. |
 | `index/<Category>.md` | Generated on every publish. Don't edit. |
-| `taxonomy.json` | The built-in personalities ("subjects") and their order for each category. |
+| `taxonomy.json` | The built-in personalities ("subjects") and their order in each category's index. Any personality fits any category. |
 | `manifest.json`, `updates/` | What the app and website download to stay current: each update lists the lyrics that changed and the ids removed. |
 
 ## A lyric file

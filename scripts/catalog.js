@@ -109,11 +109,7 @@ function recordProblem(record, now = new Date()) {
       return 'subcategory must be absent or a name with a letter or digit, other than General';
     }
     if (!oneLine(personality)) return 'subcategory must be one line';
-    const lists = subjectsByCategory();
-    if ([...lists.values()].some(list => list.includes(personality))) {
-      const unfit = categories.find(category => !lists.get(category)?.includes(personality));
-      if (unfit) return `${personality} is not a Personality for ${unfit}`;
-    }
+    // Any Personality fits any Category; taxonomy.json only orders the index.
   }
   const year = now.getFullYear();
   if ('group' in record && !(Number.isInteger(record.group) && record.group >= 1900 && record.group <= year)) {
